@@ -185,6 +185,40 @@ def view_records(table_name):
     return jsonify(results)
 
 
+@app.route("/records/<table_name>/<record_id>", methods=["GET"])
+@requires_auth
+def get_record_by_id(table_name, record_id):
+    """
+    Look up a single record by its ID, e.g. /records/loads/12345
+    This is faster and more reliable than scanning the latest 100 records.
+    """
+    import json
+
+    conn = get_db()
+    row = conn.execute(
+        """
+        SELECT table_name, record_id, action, data_json, received_at
+        FROM aljex_records
+        WHERE table_name = ? AND record_id = ?
+        """,
+        (table_name, record_id),
+    ).fetchone()
+    conn.close()
+
+    if row is None:
+        return jsonify({"error": "record not found"}), 404
+
+    return jsonify(
+        {
+            "table_name": row["table_name"],
+            "record_id": row["record_id"],
+            "action": row["action"],
+            "data": json.loads(row["data_json"]),
+            "received_at": row["received_at"],
+        }
+    )
+
+
 init_db()
 
 if __name__ == "__main__":
