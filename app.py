@@ -22,6 +22,22 @@ from flask import Flask, request, jsonify, Response
 
 app = Flask(__name__)
 
+
+@app.after_request
+def add_cors_headers(response):
+    # Allows a dashboard webpage (on a different address) to read data
+    # from this listener. Only GET requests to /records/... are affected;
+    # this does not weaken the password protection on those routes.
+    response.headers["Access-Control-Allow-Origin"] = "*"
+    response.headers["Access-Control-Allow-Headers"] = "Authorization, Content-Type"
+    response.headers["Access-Control-Allow-Methods"] = "GET, OPTIONS"
+    return response
+
+
+@app.route("/records/<path:_subpath>", methods=["OPTIONS"])
+def cors_preflight(_subpath):
+    return "", 204
+
 # ---------------------------------------------------------------------
 # Configuration - these come from Environment Variables you set in Render
 # (Render dashboard > your service > Environment tab)
