@@ -26,16 +26,22 @@ app = Flask(__name__)
 @app.after_request
 def add_cors_headers(response):
     # Allows a dashboard webpage (on a different address) to read data
-    # from this listener. Only GET requests to /records/... are affected;
-    # this does not weaken the password protection on those routes.
+    # from this listener. Only GET/POST requests to /records/... and
+    # /notes/... are affected; this does not weaken password protection.
     response.headers["Access-Control-Allow-Origin"] = "*"
     response.headers["Access-Control-Allow-Headers"] = "Authorization, Content-Type"
-    response.headers["Access-Control-Allow-Methods"] = "GET, OPTIONS"
+    response.headers["Access-Control-Allow-Methods"] = "GET, POST, OPTIONS"
     return response
 
 
 @app.route("/records/<path:_subpath>", methods=["OPTIONS"])
-def cors_preflight(_subpath):
+def cors_preflight_records(_subpath):
+    return "", 204
+
+
+@app.route("/notes", methods=["OPTIONS"])
+@app.route("/notes/<path:_subpath>", methods=["OPTIONS"])
+def cors_preflight_notes(_subpath=None):
     return "", 204
 
 # ---------------------------------------------------------------------
@@ -68,6 +74,19 @@ def init_db():
             data_json TEXT NOT NULL,
             received_at TEXT NOT NULL,
             UNIQUE(table_name, record_id)
+        )
+        """
+    )
+    conn.execute(
+        """
+        CREATE TABLE IF NOT EXISTS rep_notes (
+            customer_id TEXT PRIMARY KEY,
+            tier TEXT,
+            last_touched TEXT,
+            next_touch_date TEXT,
+            next_action TEXT,
+            notes TEXT,
+            updated_at TEXT
         )
         """
     )
@@ -233,6 +252,55 @@ def get_record_by_id(table_name, record_id):
             "received_at": row["received_at"],
         }
     )
+
+
+@app.route("/notes", methods=["GET"])
+@requires_auth
+def get_all_notes():
+    """Returns all saved rep notes (tier, last touched, next action, etc.)"""
+    conn = get_db()
+    rows = conn.execute("SELECT * FROM rep_notes").fetchall()
+    conn.close()
+    return jsonify([dict(r) for r in rows])
+
+
+@app.route("/notes/<customer_id>", methods=["POST"])
+@requires_auth
+def save_note(customer_id):
+    """
+    Saves or updates the rep-entered fields for one customer.
+    Expects JSON body, e.g.:
+        {"tier": "1", "last_touched": "2026-08-06", "next_touch_date": "2026-08-13",
+         "next_action": "Call", "notes": "Talked to Will, same office"}
+    """
+    body = request.get_json(force=True, silent=True) or {}
+
+    conn = get_db()
+    conn.execute(
+        """
+        INSERT INTO rep_notes (customer_id, tier, last_touched, next_touch_date, next_action, notes, updated_at)
+        VALUES (?, ?, ?, ?, ?, ?, ?)
+        ON CONFLICT(customer_id) DO UPDATE SET
+            tier = excluded.tier,
+            last_touched = excluded.last_touched,
+            next_touch_date = excluded.next_touch_date,
+            next_action = excluded.next_action,
+            notes = excluded.notes,
+            updated_at = excluded.updated_at
+        """,
+        (
+            customer_id,
+            body.get("tier", ""),
+            body.get("last_touched", ""),
+            body.get("next_touch_date", ""),
+            body.get("next_action", ""),
+            body.get("notes", ""),
+            datetime.now(timezone.utc).isoformat(),
+        ),
+    )
+    conn.commit()
+    conn.close()
+    return jsonify({"status": "ok", "customer_id": customer_id})
 
 
 init_db()
