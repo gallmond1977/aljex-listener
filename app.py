@@ -49,6 +49,11 @@ def cors_preflight_notes(_subpath=None):
 def cors_preflight_webhook():
     return "", 204
 
+
+@app.route("/bulk-import/<path:_subpath>", methods=["OPTIONS"])
+def cors_preflight_bulk_import(_subpath):
+    return "", 204
+
 # ---------------------------------------------------------------------
 # Configuration - these come from Environment Variables you set in Render
 # (Render dashboard > your service > Environment tab)
@@ -306,6 +311,56 @@ def save_note(customer_id):
     conn.commit()
     conn.close()
     return jsonify({"status": "ok", "customer_id": customer_id})
+
+
+@app.route("/bulk-import/<table_name>", methods=["POST"])
+@requires_auth
+def bulk_import(table_name):
+    """
+    Accepts a JSON array of records and saves them all at once, safely.
+    Used for one-time backfills (e.g. importing a CSV export) instead of
+    sending thousands of individual webhook-style requests.
+
+    Expects JSON body: a list of objects, each with at least an "id" field.
+    """
+    import json
+
+    records = request.get_json(force=True, silent=True)
+    if not isinstance(records, list):
+        return jsonify({"error": "Expected a JSON array of records"}), 400
+
+    conn = get_db()
+    saved = 0
+    skipped = 0
+
+    for record in records:
+        record_id = record.get("id", "")
+        if not record_id:
+            skipped += 1
+            continue
+        conn.execute(
+            """
+            INSERT INTO aljex_records (table_name, record_id, action, data_json, received_at)
+            VALUES (?, ?, ?, ?, ?)
+            ON CONFLICT(table_name, record_id) DO UPDATE SET
+                action = excluded.action,
+                data_json = excluded.data_json,
+                received_at = excluded.received_at
+            """,
+            (
+                table_name,
+                record_id,
+                "update",
+                json.dumps(record),
+                datetime.now(timezone.utc).isoformat(),
+            ),
+        )
+        saved += 1
+
+    conn.commit()
+    conn.close()
+
+    return jsonify({"status": "ok", "table": table_name, "saved": saved, "skipped": skipped})
 
 
 init_db()
