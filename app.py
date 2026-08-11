@@ -109,6 +109,17 @@ def init_db():
     if "commission_expiration" not in existing_columns:
         conn.execute("ALTER TABLE rep_notes ADD COLUMN commission_expiration TEXT")
 
+    conn.execute(
+        """
+        CREATE TABLE IF NOT EXISTS leads_status (
+            lead_key TEXT PRIMARY KEY,
+            status TEXT,
+            marked_by TEXT,
+            updated_at TEXT
+        )
+        """
+    )
+
     conn.commit()
     conn.close()
 
@@ -335,6 +346,53 @@ def save_note(customer_id):
     conn.commit()
     conn.close()
     return jsonify({"status": "ok", "customer_id": customer_id})
+
+
+@app.route("/leads-status", methods=["GET"])
+@requires_auth
+def get_all_lead_status():
+    """Returns the saved status (New/Contacted/Not interested) for every lead."""
+    conn = get_db()
+    rows = conn.execute("SELECT * FROM leads_status").fetchall()
+    conn.close()
+    return jsonify([dict(r) for r in rows])
+
+
+@app.route("/leads-status/<path:lead_key>", methods=["POST"])
+@requires_auth
+def save_lead_status(lead_key):
+    """
+    Saves or updates the status for one lead (a delivery consignee that
+    isn't already a customer). Expects JSON body, e.g.:
+        {"status": "contacted", "marked_by": "Daniel"}
+    """
+    body = request.get_json(force=True, silent=True) or {}
+
+    conn = get_db()
+    conn.execute(
+        """
+        INSERT INTO leads_status (lead_key, status, marked_by, updated_at)
+        VALUES (?, ?, ?, ?)
+        ON CONFLICT(lead_key) DO UPDATE SET
+            status = excluded.status,
+            marked_by = excluded.marked_by,
+            updated_at = excluded.updated_at
+        """,
+        (
+            lead_key,
+            body.get("status", ""),
+            body.get("marked_by", ""),
+            datetime.now(timezone.utc).isoformat(),
+        ),
+    )
+    conn.commit()
+    conn.close()
+    return jsonify({"status": "ok", "lead_key": lead_key})
+
+
+@app.route("/leads-status/<path:_subpath>", methods=["OPTIONS"])
+def cors_preflight_leads_status(_subpath):
+    return "", 204
 
 
 @app.route("/bulk-import/<table_name>", methods=["POST"])
