@@ -13,12 +13,20 @@ How it works:
 - You can see a simple status page at "/" to confirm it's running.
 """
 
+import logging
 import os
-import sqlite3
+import threading
 from datetime import datetime, timezone
 from functools import wraps
 
+from apscheduler.schedulers.background import BackgroundScheduler
 from flask import Flask, request, jsonify, Response
+
+from claude_routine import fire_routine
+from db import get_db, init_db
+from graph_subscription import create_subscription, ensure_subscription_fresh, get_subscription_state
+
+logging.basicConfig(level=logging.INFO, format="%(asctime)s %(levelname)s %(name)s: %(message)s")
 
 app = Flask(__name__)
 
@@ -50,48 +58,7 @@ def cors_preflight_notes(_subpath=None):
 # ---------------------------------------------------------------------
 SYNC_USERNAME = os.environ.get("SYNC_USERNAME", "changeme")
 SYNC_PASSWORD = os.environ.get("SYNC_PASSWORD", "changeme")
-DATABASE_PATH = os.environ.get("DATABASE_PATH", "aljex_data.db")
-
-
-# ---------------------------------------------------------------------
-# Database setup
-# ---------------------------------------------------------------------
-def get_db():
-    conn = sqlite3.connect(DATABASE_PATH)
-    conn.row_factory = sqlite3.Row
-    return conn
-
-
-def init_db():
-    conn = get_db()
-    conn.execute(
-        """
-        CREATE TABLE IF NOT EXISTS aljex_records (
-            id INTEGER PRIMARY KEY AUTOINCREMENT,
-            table_name TEXT NOT NULL,
-            record_id TEXT NOT NULL,
-            action TEXT NOT NULL,
-            data_json TEXT NOT NULL,
-            received_at TEXT NOT NULL,
-            UNIQUE(table_name, record_id)
-        )
-        """
-    )
-    conn.execute(
-        """
-        CREATE TABLE IF NOT EXISTS rep_notes (
-            customer_id TEXT PRIMARY KEY,
-            tier TEXT,
-            last_touched TEXT,
-            next_touch_date TEXT,
-            next_action TEXT,
-            notes TEXT,
-            updated_at TEXT
-        )
-        """
-    )
-    conn.commit()
-    conn.close()
+GRAPH_CLIENT_STATE = os.environ.get("GRAPH_CLIENT_STATE", "")
 
 
 # ---------------------------------------------------------------------
@@ -303,7 +270,112 @@ def save_note(customer_id):
     return jsonify({"status": "ok", "customer_id": customer_id})
 
 
+# ---------------------------------------------------------------------
+# Real-time carrier-email trigger (Microsoft Graph change notifications)
+#
+# Microsoft Graph calls /ms-graph/webhook the moment a new email lands in
+# loads@monstertrucking.com's Inbox. This route hands the specific message
+# off to the "Carrier Auto-Respond" Claude Code routine right away, instead
+# of that routine waiting for its next hourly scheduled run.
+# ---------------------------------------------------------------------
+@app.route("/ms-graph/webhook", methods=["POST"])
+def ms_graph_webhook():
+    """
+    Two very different kinds of calls land here:
+
+    1. The one-time validation handshake, sent the moment a subscription is
+       created (or its notificationUrl changes): Graph sends a
+       validationToken query parameter and expects it echoed back as plain
+       text within 10 seconds, or subscription creation fails.
+    2. Real notifications, whenever mail actually arrives: a JSON body with
+       a "value" list of one or more notification objects.
+
+    Graph expects a fast response (a few seconds) and will retry - creating
+    duplicate work - if this takes too long. So this route only validates
+    and acknowledges; the actual "check Aljex and draft a reply" work is
+    kicked off on a background thread after responding.
+    """
+    validation_token = request.args.get("validationToken")
+    if validation_token is not None:
+        return Response(validation_token, mimetype="text/plain", status=200)
+
+    body = request.get_json(force=True, silent=True) or {}
+    notifications = body.get("value", [])
+
+    message_ids = []
+    for note in notifications:
+        if note.get("clientState") != GRAPH_CLIENT_STATE:
+            app.logger.warning(
+                "Ignoring a Graph notification with a mismatched clientState "
+                "(subscriptionId=%s) - possibly not really from Graph.",
+                note.get("subscriptionId"),
+            )
+            continue
+        msg_id = (note.get("resourceData") or {}).get("id")
+        if msg_id:
+            message_ids.append(msg_id)
+
+    if message_ids:
+        threading.Thread(target=_fire_routine_for_messages, args=(message_ids,), daemon=True).start()
+
+    return "", 202
+
+
+def _fire_routine_for_messages(message_ids):
+    for msg_id in message_ids:
+        fire_routine(msg_id)
+
+
+@app.route("/ms-graph/subscribe", methods=["POST"])
+@requires_auth
+def ms_graph_subscribe():
+    """
+    One-time (or occasional) manual bootstrap: creates a fresh Graph
+    subscription right now, rather than waiting for the daily background
+    check to notice none exists yet. Call this once, right after this
+    feature is first deployed. Protected by the same username/password as
+    this app's other admin routes.
+    """
+    try:
+        result = create_subscription()
+        return jsonify({"status": "ok", "subscription": result})
+    except Exception as exc:
+        app.logger.exception("Manual /ms-graph/subscribe call failed.")
+        return jsonify({"status": "error", "error": str(exc)}), 500
+
+
+@app.route("/health/graph-subscription", methods=["GET"])
+@requires_auth
+def graph_subscription_health():
+    """Current Graph subscription status, for checking this isn't quietly broken."""
+    state = get_subscription_state()
+    if not state:
+        return jsonify({
+            "status": "no_subscription",
+            "message": "No subscription has been created yet. POST /ms-graph/subscribe to create one.",
+        }), 200
+    return jsonify(state)
+
+
+def _start_scheduler():
+    """
+    Runs ensure_subscription_fresh() once at startup and then once a day,
+    so the Graph subscription renews itself well before its ~3-day
+    expiration without needing a separate scheduled job elsewhere.
+    """
+    scheduler = BackgroundScheduler(daemon=True)
+    scheduler.add_job(
+        ensure_subscription_fresh,
+        "interval",
+        hours=24,
+        next_run_time=datetime.now(timezone.utc),
+    )
+    scheduler.start()
+    return scheduler
+
+
 init_db()
+_scheduler = _start_scheduler()
 
 if __name__ == "__main__":
     port = int(os.environ.get("PORT", 5000))
