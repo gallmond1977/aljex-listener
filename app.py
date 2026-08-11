@@ -101,6 +101,14 @@ def init_db():
         )
         """
     )
+
+    # Safety net: if rep_notes already existed from before commission_expiration
+    # was added, the CREATE TABLE above won't retroactively add the column.
+    # This adds it if missing, without touching any existing data.
+    existing_columns = [row["name"] for row in conn.execute("PRAGMA table_info(rep_notes)").fetchall()]
+    if "commission_expiration" not in existing_columns:
+        conn.execute("ALTER TABLE rep_notes ADD COLUMN commission_expiration TEXT")
+
     conn.commit()
     conn.close()
 
