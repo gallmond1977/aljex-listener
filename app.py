@@ -208,12 +208,25 @@ def view_records(table_name):
     """
     A simple way to peek at what's been stored for a given table,
     e.g. /records/loads or /records/customers
+
+    By default returns the most recent 100 records. Add ?limit=all
+    to the URL to get every record for that table instead (used by
+    the rep view, since it needs the full customer/salesrep list,
+    not just the most recent ones).
     """
+    limit_param = request.args.get("limit", "100")
+
     conn = get_db()
-    rows = conn.execute(
-        "SELECT record_id, action, data_json, received_at FROM aljex_records WHERE table_name = ? ORDER BY received_at DESC LIMIT 100",
-        (table_name,),
-    ).fetchall()
+    if limit_param == "all":
+        rows = conn.execute(
+            "SELECT record_id, action, data_json, received_at FROM aljex_records WHERE table_name = ? ORDER BY received_at DESC",
+            (table_name,),
+        ).fetchall()
+    else:
+        rows = conn.execute(
+            "SELECT record_id, action, data_json, received_at FROM aljex_records WHERE table_name = ? ORDER BY received_at DESC LIMIT 100",
+            (table_name,),
+        ).fetchall()
     conn.close()
 
     import json
