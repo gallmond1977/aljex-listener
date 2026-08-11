@@ -96,6 +96,7 @@ def init_db():
             next_touch_date TEXT,
             next_action TEXT,
             notes TEXT,
+            commission_expiration TEXT,
             updated_at TEXT
         )
         """
@@ -301,14 +302,15 @@ def save_note(customer_id):
     conn = get_db()
     conn.execute(
         """
-        INSERT INTO rep_notes (customer_id, tier, last_touched, next_touch_date, next_action, notes, updated_at)
-        VALUES (?, ?, ?, ?, ?, ?, ?)
+        INSERT INTO rep_notes (customer_id, tier, last_touched, next_touch_date, next_action, notes, commission_expiration, updated_at)
+        VALUES (?, ?, ?, ?, ?, ?, ?, ?)
         ON CONFLICT(customer_id) DO UPDATE SET
             tier = excluded.tier,
             last_touched = excluded.last_touched,
             next_touch_date = excluded.next_touch_date,
             next_action = excluded.next_action,
             notes = excluded.notes,
+            commission_expiration = excluded.commission_expiration,
             updated_at = excluded.updated_at
         """,
         (
@@ -318,6 +320,7 @@ def save_note(customer_id):
             body.get("next_touch_date", ""),
             body.get("next_action", ""),
             body.get("notes", ""),
+            body.get("commission_expiration", ""),
             datetime.now(timezone.utc).isoformat(),
         ),
     )
