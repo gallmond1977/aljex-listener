@@ -115,10 +115,20 @@ def init_db():
             lead_key TEXT PRIMARY KEY,
             status TEXT,
             marked_by TEXT,
+            notes TEXT,
+            next_followup TEXT,
             updated_at TEXT
         )
         """
     )
+
+    # Safety net: same pattern as commission_expiration above — add any
+    # columns if leads_status already existed without them.
+    leads_columns = [row["name"] for row in conn.execute("PRAGMA table_info(leads_status)").fetchall()]
+    if "notes" not in leads_columns:
+        conn.execute("ALTER TABLE leads_status ADD COLUMN notes TEXT")
+    if "next_followup" not in leads_columns:
+        conn.execute("ALTER TABLE leads_status ADD COLUMN next_followup TEXT")
 
     conn.commit()
     conn.close()
@@ -362,26 +372,43 @@ def get_all_lead_status():
 @requires_auth
 def save_lead_status(lead_key):
     """
-    Saves or updates the status for one lead (a delivery consignee that
-    isn't already a customer). Expects JSON body, e.g.:
-        {"status": "contacted", "marked_by": "Daniel"}
+    Saves or updates the status/notes/follow-up date for one lead (a
+    delivery consignee that isn't already a customer). Expects JSON body,
+    e.g.:
+        {"status": "interested", "marked_by": "Daniel", "notes": "Left voicemail",
+         "next_followup": "2026-08-20"}
+    Any field left out keeps its previous saved value.
     """
     body = request.get_json(force=True, silent=True) or {}
 
     conn = get_db()
+    existing = conn.execute(
+        "SELECT status, marked_by, notes, next_followup FROM leads_status WHERE lead_key = ?",
+        (lead_key,),
+    ).fetchone()
+
+    status = body["status"] if "status" in body else (existing["status"] if existing else "")
+    marked_by = body["marked_by"] if "marked_by" in body else (existing["marked_by"] if existing else "")
+    notes = body["notes"] if "notes" in body else (existing["notes"] if existing else "")
+    next_followup = body["next_followup"] if "next_followup" in body else (existing["next_followup"] if existing else "")
+
     conn.execute(
         """
-        INSERT INTO leads_status (lead_key, status, marked_by, updated_at)
-        VALUES (?, ?, ?, ?)
+        INSERT INTO leads_status (lead_key, status, marked_by, notes, next_followup, updated_at)
+        VALUES (?, ?, ?, ?, ?, ?)
         ON CONFLICT(lead_key) DO UPDATE SET
             status = excluded.status,
             marked_by = excluded.marked_by,
+            notes = excluded.notes,
+            next_followup = excluded.next_followup,
             updated_at = excluded.updated_at
         """,
         (
             lead_key,
-            body.get("status", ""),
-            body.get("marked_by", ""),
+            status,
+            marked_by,
+            notes,
+            next_followup,
             datetime.now(timezone.utc).isoformat(),
         ),
     )
