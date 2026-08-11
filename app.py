@@ -16,7 +16,7 @@ How it works:
 import logging
 import os
 import threading
-from datetime import datetime, timezone
+from datetime import datetime, timedelta, timezone
 from functools import wraps
 
 from apscheduler.schedulers.background import BackgroundScheduler
@@ -357,18 +357,29 @@ def graph_subscription_health():
     return jsonify(state)
 
 
+STARTUP_GRACE_PERIOD = timedelta(seconds=40)
+
+
 def _start_scheduler():
     """
-    Runs ensure_subscription_fresh() once at startup and then once a day,
-    so the Graph subscription renews itself well before its ~3-day
+    Runs ensure_subscription_fresh() shortly after startup and then once a
+    day, so the Graph subscription renews itself well before its ~3-day
     expiration without needing a separate scheduled job elsewhere.
+
+    The first run is delayed by STARTUP_GRACE_PERIOD rather than firing
+    immediately. Creating a subscription makes Graph immediately call back
+    into this same app's /ms-graph/webhook to validate it - if that first
+    run fires the instant this module is imported, it can race Render's own
+    startup (the app isn't necessarily listening/routable yet), and Graph's
+    validation callback gets a 502 instead of a 200. This delay just gives
+    the app a chance to be fully up and reachable first.
     """
     scheduler = BackgroundScheduler(daemon=True)
     scheduler.add_job(
         ensure_subscription_fresh,
         "interval",
         hours=24,
-        next_run_time=datetime.now(timezone.utc),
+        next_run_time=datetime.now(timezone.utc) + STARTUP_GRACE_PERIOD,
     )
     scheduler.start()
     return scheduler
