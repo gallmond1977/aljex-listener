@@ -102,7 +102,21 @@ def get_subscription_state():
 
 
 def create_subscription():
-    """Creates a brand-new Graph subscription and stores its details."""
+    """
+    Creates a brand-new Graph subscription and stores its details.
+
+    Sent with the Prefer: IdType="ImmutableId" header so Graph hands out
+    immutable message IDs in this subscription's change notifications.
+    Without it, the "id" in resourceData is a regular Outlook ID, which
+    changes whenever the message moves between folders (e.g. an inbox
+    rule filing it away right after it arrives) - a race that has already
+    caused real "message not found - likely deleted or moved" failures on
+    this inbox (see PR #4's notes). Immutable IDs stay valid across moves,
+    so app.py's by-ID fetch keeps working even if the message has already
+    moved by the time it runs. app.py's fetch calls must send the same
+    Prefer header, since a regular ID and an immutable ID for the same
+    message are different strings and aren't interchangeable.
+    """
     if not GRAPH_CLIENT_STATE:
         raise RuntimeError("GRAPH_CLIENT_STATE must be set (Render > Environment) before creating a subscription.")
 
@@ -117,7 +131,10 @@ def create_subscription():
     resp = requests.post(
         GRAPH_SUBSCRIPTIONS_URL,
         json=body,
-        headers={"Authorization": f"Bearer {token}"},
+        headers={
+            "Authorization": f"Bearer {token}",
+            "Prefer": 'IdType="ImmutableId"',
+        },
         timeout=15,
     )
     if resp.status_code >= 400:
