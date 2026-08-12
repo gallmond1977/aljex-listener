@@ -24,12 +24,22 @@ dark (see "What happens if this breaks" below).
    renews it automatically once a day (`ensure_subscription_fresh`, run by
    a background scheduler in `app.py`).
 3. **`POST /ms-graph/webhook`** - what Graph actually calls. Validates the
-   notification, then hands the message ID off to the Claude routine on a
-   background thread (so Graph gets a fast response and doesn't retry).
+   notification, then on a background thread (so Graph gets a fast response
+   and doesn't retry): dedupes by message ID (Graph can redeliver the same
+   notification), fetches that message's subject/sender/body directly from
+   Graph right then and caches it (`_fetch_and_cache_message`, into
+   `graph_message_cache`), and hands both the message ID and that captured
+   content off to the Claude routine. This inbox is live - staff often
+   read/move/delete a new email within seconds - so capturing content here,
+   before the routine's own session even starts, is much faster than
+   letting the routine look the message up itself once it gets around to
+   it.
 4. **The Claude routine's fire API** (`claude_routine.py`) - starts an
    on-demand run of the existing "Carrier Auto-Respond" routine, telling
    it exactly which message to look at (`REALTIME_TRIGGER: message_id=...`)
-   instead of it re-scanning the last 75 minutes of mail.
+   plus the captured content (`CAPTURED_MESSAGE_CONTENT: ...`) so it doesn't
+   need to re-fetch the message itself, instead of it re-scanning the last
+   75 minutes of mail.
 
 ## Environment variables (Render > this service > Environment)
 

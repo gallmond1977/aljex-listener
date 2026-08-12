@@ -20,11 +20,13 @@ import threading
 from datetime import datetime, timedelta, timezone
 from functools import wraps
 
+import requests
 from apscheduler.schedulers.background import BackgroundScheduler
 from flask import Flask, request, jsonify, Response
 
 from claude_routine import fire_routine
-from graph_subscription import create_subscription, ensure_subscription_fresh, get_subscription_state
+from graph_auth import get_graph_token
+from graph_subscription import TARGET_MAILBOX, create_subscription, ensure_subscription_fresh, get_subscription_state
 
 logging.basicConfig(level=logging.INFO, format="%(asctime)s %(levelname)s %(name)s: %(message)s")
 
@@ -260,6 +262,28 @@ def init_db():
         CREATE TABLE IF NOT EXISTS graph_webhook_seen (
             message_id TEXT PRIMARY KEY,
             first_seen_at TEXT NOT NULL
+        )
+        """
+    )
+
+    # This is a live dispatch inbox - staff read/move/delete new mail within
+    # seconds, well before a real-time-triggered routine run can spin up and
+    # look the message up itself. So the webhook captures the message's
+    # content immediately (see _fetch_and_cache_message()) and this table
+    # holds that snapshot, keyed by message_id, for the routine to use
+    # directly instead of racing staff to a live mailbox lookup.
+    conn.execute(
+        """
+        CREATE TABLE IF NOT EXISTS graph_message_cache (
+            message_id TEXT PRIMARY KEY,
+            sender_name TEXT,
+            sender_address TEXT,
+            subject TEXT,
+            body_content_type TEXT,
+            body_content TEXT,
+            received_datetime TEXT,
+            is_read INTEGER,
+            fetched_at TEXT NOT NULL
         )
         """
     )
@@ -552,7 +576,89 @@ def _fire_routine_for_messages(message_ids):
                 msg_id,
             )
             continue
-        fire_routine(msg_id)
+        content = _fetch_and_cache_message(msg_id)
+        fire_routine(msg_id, content=content)
+
+
+def _fetch_and_cache_message(message_id):
+    """
+    Fetches the message straight from Microsoft Graph and saves it to
+    graph_message_cache, as the very first thing done for a newly-seen
+    message - before firing the routine, which itself takes several more
+    seconds just to start a session. On this live dispatch inbox, staff
+    routinely read/move/delete a new email within seconds of it arriving,
+    so a routine run that looks the message up *itself* once it finally
+    starts is racing staff and can easily lose. Fetching here, directly
+    against Graph with our own app-only token (no session startup delay),
+    is as fast as this app can possibly capture it.
+
+    Returns a formatted text block for fire_routine() to embed in the
+    routine's trigger payload, or None if the fetch itself failed (e.g.
+    already gone even by the time this runs, or a Graph/token error) - the
+    routine falls back to a single live lookup attempt in that case.
+    """
+    try:
+        token = get_graph_token()
+        resp = requests.get(
+            f"https://graph.microsoft.com/v1.0/users/{TARGET_MAILBOX}/messages/{message_id}",
+            params={"$select": "subject,from,body,receivedDateTime,isRead"},
+            headers={"Authorization": f"Bearer {token}"},
+            timeout=10,
+        )
+        resp.raise_for_status()
+        data = resp.json()
+    except Exception:
+        app.logger.exception("Failed to fetch/cache message_id=%s from Graph.", message_id)
+        return None
+
+    sender = (data.get("from") or {}).get("emailAddress") or {}
+    body = data.get("body") or {}
+    sender_name = sender.get("name", "")
+    sender_address = sender.get("address", "")
+    subject = data.get("subject", "")
+    body_content_type = body.get("contentType", "")
+    body_content = body.get("content", "")
+    received_datetime = data.get("receivedDateTime", "")
+    is_read = 1 if data.get("isRead") else 0
+
+    conn = get_db()
+    conn.execute(
+        """
+        INSERT INTO graph_message_cache
+            (message_id, sender_name, sender_address, subject, body_content_type, body_content, received_datetime, is_read, fetched_at)
+        VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?)
+        ON CONFLICT(message_id) DO UPDATE SET
+            sender_name = excluded.sender_name,
+            sender_address = excluded.sender_address,
+            subject = excluded.subject,
+            body_content_type = excluded.body_content_type,
+            body_content = excluded.body_content,
+            received_datetime = excluded.received_datetime,
+            is_read = excluded.is_read,
+            fetched_at = excluded.fetched_at
+        """,
+        (
+            message_id,
+            sender_name,
+            sender_address,
+            subject,
+            body_content_type,
+            body_content,
+            received_datetime,
+            is_read,
+            datetime.now(timezone.utc).isoformat(),
+        ),
+    )
+    conn.commit()
+    conn.close()
+
+    return (
+        f"From: {sender_name} <{sender_address}>\n"
+        f"Subject: {subject}\n"
+        f"Received: {received_datetime}\n"
+        f"isRead at capture time: {bool(is_read)}\n"
+        f"Body ({body_content_type}):\n{body_content}"
+    )
 
 
 def _mark_seen_once(message_id):
