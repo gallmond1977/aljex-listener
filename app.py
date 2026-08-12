@@ -155,11 +155,18 @@ def init_db():
             address TEXT,
             contact TEXT,
             phone TEXT,
+            email TEXT,
             created_by TEXT,
             created_at TEXT
         )
         """
     )
+
+    # Safety net: same pattern as the other tables above — add the column
+    # if manual_leads already existed without it.
+    manual_leads_columns = [row["name"] for row in conn.execute("PRAGMA table_info(manual_leads)").fetchall()]
+    if "email" not in manual_leads_columns:
+        conn.execute("ALTER TABLE manual_leads ADD COLUMN email TEXT")
 
     conn.execute(
         """
@@ -581,8 +588,8 @@ def create_manual_lead():
     conn = get_db()
     cur = conn.execute(
         """
-        INSERT INTO manual_leads (name, city, state, address, contact, phone, created_by, created_at)
-        VALUES (?, ?, ?, ?, ?, ?, ?, ?)
+        INSERT INTO manual_leads (name, city, state, address, contact, phone, email, created_by, created_at)
+        VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?)
         """,
         (
             name,
@@ -591,6 +598,7 @@ def create_manual_lead():
             body.get("address", ""),
             body.get("contact", ""),
             body.get("phone", ""),
+            body.get("email", ""),
             body.get("created_by", ""),
             datetime.now(timezone.utc).isoformat(),
         ),
