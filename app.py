@@ -151,6 +151,32 @@ def init_db():
         """
     )
 
+    # Leads that reps type in by hand — not derived from any Aljex load or
+    # customer record. Each row becomes its own lead card in the tool,
+    # keyed as "MANUAL:<id>" everywhere leads_status is used.
+    conn.execute(
+        """
+        CREATE TABLE IF NOT EXISTS manual_leads (
+            id INTEGER PRIMARY KEY AUTOINCREMENT,
+            name TEXT,
+            city TEXT,
+            state TEXT,
+            address TEXT,
+            contact TEXT,
+            phone TEXT,
+            email TEXT,
+            created_by TEXT,
+            created_at TEXT
+        )
+        """
+    )
+
+    # Safety net: same pattern as the other tables above — add the column
+    # if manual_leads already existed without it.
+    manual_leads_columns = [row["name"] for row in conn.execute("PRAGMA table_info(manual_leads)").fetchall()]
+    if "email" not in manual_leads_columns:
+        conn.execute("ALTER TABLE manual_leads ADD COLUMN email TEXT")
+
     conn.execute(
         """
         CREATE TABLE IF NOT EXISTS customer_assignments (
@@ -715,6 +741,62 @@ def delete_lead(lead_key):
 
 @app.route("/deleted-leads/<path:_subpath>", methods=["OPTIONS"])
 def cors_preflight_deleted_leads(_subpath):
+    return "", 204
+
+
+@app.route("/manual-leads", methods=["GET"])
+@requires_auth
+def get_all_manual_leads():
+    """Returns every hand-typed lead (not derived from Aljex data)."""
+    conn = get_db()
+    rows = conn.execute("SELECT * FROM manual_leads ORDER BY id").fetchall()
+    conn.close()
+    return jsonify([dict(r) for r in rows])
+
+
+@app.route("/manual-leads", methods=["POST"])
+@requires_auth
+def create_manual_lead():
+    """
+    Creates a new hand-typed lead. Expects JSON body, e.g.:
+        {"name": "Acme Foods", "city": "Tampa", "state": "FL",
+         "address": "100 Main St", "contact": "Jane Doe",
+         "phone": "813-555-1234", "created_by": "Daniel G Weathers"}
+    Only "name" is required. Returns the new row, including its id, so the
+    caller can build the "MANUAL:<id>" lead key right away.
+    """
+    body = request.get_json(force=True, silent=True) or {}
+    name = (body.get("name") or "").strip()
+    if not name:
+        return jsonify({"error": "name is required"}), 400
+
+    conn = get_db()
+    cur = conn.execute(
+        """
+        INSERT INTO manual_leads (name, city, state, address, contact, phone, email, created_by, created_at)
+        VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?)
+        """,
+        (
+            name,
+            body.get("city", ""),
+            body.get("state", ""),
+            body.get("address", ""),
+            body.get("contact", ""),
+            body.get("phone", ""),
+            body.get("email", ""),
+            body.get("created_by", ""),
+            datetime.now(timezone.utc).isoformat(),
+        ),
+    )
+    new_id = cur.lastrowid
+    conn.commit()
+    row = conn.execute("SELECT * FROM manual_leads WHERE id = ?", (new_id,)).fetchone()
+    conn.close()
+    return jsonify(dict(row))
+
+
+@app.route("/manual-leads/<path:_subpath>", methods=["OPTIONS"])
+def cors_preflight_manual_leads(_subpath):
     return "", 204
 
 
