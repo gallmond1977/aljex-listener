@@ -134,6 +134,16 @@ def init_db():
 
     conn.execute(
         """
+        CREATE TABLE IF NOT EXISTS deleted_leads (
+            lead_key TEXT PRIMARY KEY,
+            deleted_by TEXT,
+            deleted_at TEXT
+        )
+        """
+    )
+
+    conn.execute(
+        """
         CREATE TABLE IF NOT EXISTS customer_assignments (
             customer_id TEXT PRIMARY KEY,
             assigned_rep TEXT,
@@ -479,6 +489,47 @@ def save_lead_status(lead_key):
 
 @app.route("/leads-status/<path:_subpath>", methods=["OPTIONS"])
 def cors_preflight_leads_status(_subpath):
+    return "", 204
+
+
+@app.route("/deleted-leads", methods=["GET"])
+@requires_auth
+def get_all_deleted_leads():
+    """Returns every lead_key that's been permanently deleted/dismissed."""
+    conn = get_db()
+    rows = conn.execute("SELECT * FROM deleted_leads").fetchall()
+    conn.close()
+    return jsonify([dict(r) for r in rows])
+
+
+@app.route("/deleted-leads/<path:lead_key>", methods=["POST"])
+@requires_auth
+def delete_lead(lead_key):
+    """
+    Permanently dismisses a lead so it never resurfaces (whether it's a
+    delivery-location lead or a claimed customer lead). Expects JSON body:
+        {"deleted_by": "Gene"}
+    """
+    body = request.get_json(force=True, silent=True) or {}
+
+    conn = get_db()
+    conn.execute(
+        """
+        INSERT INTO deleted_leads (lead_key, deleted_by, deleted_at)
+        VALUES (?, ?, ?)
+        ON CONFLICT(lead_key) DO UPDATE SET
+            deleted_by = excluded.deleted_by,
+            deleted_at = excluded.deleted_at
+        """,
+        (lead_key, body.get("deleted_by", ""), datetime.now(timezone.utc).isoformat()),
+    )
+    conn.commit()
+    conn.close()
+    return jsonify({"status": "ok", "lead_key": lead_key})
+
+
+@app.route("/deleted-leads/<path:_subpath>", methods=["OPTIONS"])
+def cors_preflight_deleted_leads(_subpath):
     return "", 204
 
 
