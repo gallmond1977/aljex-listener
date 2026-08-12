@@ -226,6 +226,18 @@ def init_db():
         """
     )
 
+    # Microsoft Graph is documented to sometimes deliver the same change
+    # notification more than once. message_id is the primary key so a
+    # second INSERT for the same message fails - see _mark_seen_once().
+    conn.execute(
+        """
+        CREATE TABLE IF NOT EXISTS graph_webhook_seen (
+            message_id TEXT PRIMARY KEY,
+            first_seen_at TEXT NOT NULL
+        )
+        """
+    )
+
     conn.commit()
     conn.close()
 
@@ -507,7 +519,36 @@ def ms_graph_webhook():
 
 def _fire_routine_for_messages(message_ids):
     for msg_id in message_ids:
+        if not _mark_seen_once(msg_id):
+            app.logger.info(
+                "Ignoring duplicate Graph notification for message_id=%s "
+                "(already fired for this message).",
+                msg_id,
+            )
+            continue
         fire_routine(msg_id)
+
+
+def _mark_seen_once(message_id):
+    """
+    Returns True the first time this message_id is seen, False on any
+    repeat. Backed by the database (not an in-memory set) so dedup still
+    works if duplicate notifications land in separate requests/threads, or
+    across a restart between them - a plain in-process set would not
+    survive either of those.
+    """
+    conn = get_db()
+    try:
+        conn.execute(
+            "INSERT INTO graph_webhook_seen (message_id, first_seen_at) VALUES (?, ?)",
+            (message_id, datetime.now(timezone.utc).isoformat()),
+        )
+        conn.commit()
+        return True
+    except sqlite3.IntegrityError:
+        return False
+    finally:
+        conn.close()
 
 
 @app.route("/ms-graph/subscribe", methods=["POST"])
