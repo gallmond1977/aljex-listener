@@ -577,7 +577,128 @@ def _fire_routine_for_messages(message_ids):
             )
             continue
         content = _fetch_and_cache_message(msg_id)
-        fire_routine(msg_id, content=content)
+        _queue_for_coalesced_fire(msg_id, content)
+
+
+# ---------------------------------------------------------------------
+# Notification coalescing
+#
+# Graph can call /ms-graph/webhook several times in quick succession - e.g.
+# a burst of separate emails arriving together, or one POST's "value" list
+# already containing several notifications. Firing a brand-new Claude Code
+# routine session per message would mean several concurrent sessions all
+# racing to draft replies out of the same inbox. So instead of firing
+# immediately, each message is queued and a short debounce timer is
+# (re)armed; when the timer finally fires (i.e. no new message showed up
+# for NOTIFICATION_DEBOUNCE_SECONDS), every message queued since the last
+# fire goes out together as a single fire_routine() call.
+#
+# Message content is still captured immediately in _fetch_and_cache_message
+# above, before queuing - only *firing the routine* is debounced, not the
+# time-critical content capture, so this doesn't reopen the staff-race
+# problem that motivated capturing content at webhook time in the first
+# place.
+# ---------------------------------------------------------------------
+NOTIFICATION_DEBOUNCE_SECONDS = float(os.environ.get("NOTIFICATION_DEBOUNCE_SECONDS", "3"))
+
+_pending_lock = threading.Lock()
+_pending_messages = []
+_pending_timer = None
+
+
+def _queue_for_coalesced_fire(message_id, content):
+    global _pending_timer
+
+    with _pending_lock:
+        _pending_messages.append(
+            {
+                "message_id": message_id,
+                "content": content,
+                "received_at": datetime.now(timezone.utc).isoformat(),
+            }
+        )
+        if _pending_timer is not None:
+            _pending_timer.cancel()
+        _pending_timer = threading.Timer(NOTIFICATION_DEBOUNCE_SECONDS, _flush_pending_messages)
+        _pending_timer.daemon = True
+        _pending_timer.start()
+
+
+def _flush_pending_messages():
+    global _pending_timer
+
+    with _pending_lock:
+        batch = _pending_messages[:]
+        _pending_messages.clear()
+        _pending_timer = None
+
+    if batch:
+        fire_routine(batch)
+
+
+_GRAPH_MESSAGE_SELECT = "subject,from,body,receivedDateTime,isRead"
+# Must match graph_subscription.create_subscription()'s Prefer header - the
+# notification's message_id is an immutable ID, so every fetch that uses it
+# (the direct GET below, and both fallbacks) has to ask for immutable IDs
+# too, or the id simply won't match anything Graph returns.
+_IMMUTABLE_ID_HEADER = {"Prefer": 'IdType="ImmutableId"'}
+
+
+def _fetch_message_by_id(message_id, token):
+    resp = requests.get(
+        f"https://graph.microsoft.com/v1.0/users/{TARGET_MAILBOX}/messages/{message_id}",
+        params={"$select": _GRAPH_MESSAGE_SELECT},
+        headers={"Authorization": f"Bearer {token}", **_IMMUTABLE_ID_HEADER},
+        timeout=10,
+    )
+    resp.raise_for_status()
+    return resp.json()
+
+
+def _find_message_in(url, params, message_id, token):
+    resp = requests.get(
+        url,
+        params=params,
+        headers={"Authorization": f"Bearer {token}", **_IMMUTABLE_ID_HEADER},
+        timeout=10,
+    )
+    resp.raise_for_status()
+    for item in resp.json().get("value", []):
+        if item.get("id") == message_id:
+            return item
+    return None
+
+
+def _fetch_message_via_delta(message_id, token):
+    """
+    First fallback when the direct by-ID GET fails. Graph has occasionally
+    404'd a just-arrived message on the single-item endpoint for a brief
+    window right after notifying about it (see PR #4's notes on "message
+    not found - likely deleted or moved") even though the message already
+    shows up in folder-level views like delta. So instead of giving up,
+    check whether it's there.
+    """
+    return _find_message_in(
+        f"https://graph.microsoft.com/v1.0/users/{TARGET_MAILBOX}/mailFolders('Inbox')/messages/delta",
+        {"$select": _GRAPH_MESSAGE_SELECT, "$top": 25},
+        message_id,
+        token,
+    )
+
+
+def _fetch_message_via_search(message_id, token):
+    """
+    Second fallback if delta doesn't turn the message up either: a plain
+    listing of the Inbox's most recent messages, newest first. Same
+    rationale as the delta fallback above - a different Graph read path
+    that may already be consistent when the single-item GET isn't yet.
+    """
+    return _find_message_in(
+        f"https://graph.microsoft.com/v1.0/users/{TARGET_MAILBOX}/mailFolders('Inbox')/messages",
+        {"$select": _GRAPH_MESSAGE_SELECT, "$orderby": "receivedDateTime desc", "$top": 25},
+        message_id,
+        token,
+    )
 
 
 def _fetch_and_cache_message(message_id):
@@ -592,23 +713,45 @@ def _fetch_and_cache_message(message_id):
     against Graph with our own app-only token (no session startup delay),
     is as fast as this app can possibly capture it.
 
+    Tries the direct by-ID GET first; if that fails, falls back to a delta
+    query and then a recent-listing search of the Inbox, both scanned for
+    a matching id (see _fetch_message_via_delta/_fetch_message_via_search).
+
     Returns a formatted text block for fire_routine() to embed in the
-    routine's trigger payload, or None if the fetch itself failed (e.g.
-    already gone even by the time this runs, or a Graph/token error) - the
-    routine falls back to a single live lookup attempt in that case.
+    routine's trigger payload, or None if every fetch attempt failed (e.g.
+    the message is genuinely gone, or a Graph/token error) - the routine
+    falls back to a single live lookup attempt in that case.
     """
     try:
         token = get_graph_token()
-        resp = requests.get(
-            f"https://graph.microsoft.com/v1.0/users/{TARGET_MAILBOX}/messages/{message_id}",
-            params={"$select": "subject,from,body,receivedDateTime,isRead"},
-            headers={"Authorization": f"Bearer {token}"},
-            timeout=10,
-        )
-        resp.raise_for_status()
-        data = resp.json()
     except Exception:
-        app.logger.exception("Failed to fetch/cache message_id=%s from Graph.", message_id)
+        app.logger.exception("Failed to get a Graph token for message_id=%s.", message_id)
+        return None
+
+    data = None
+    try:
+        data = _fetch_message_by_id(message_id, token)
+    except Exception:
+        app.logger.warning(
+            "Direct by-ID fetch failed for message_id=%s - trying delta/search fallback.",
+            message_id,
+        )
+        for fallback in (_fetch_message_via_delta, _fetch_message_via_search):
+            try:
+                data = fallback(message_id, token)
+            except Exception:
+                app.logger.exception(
+                    "Fallback fetch %s raised for message_id=%s.", fallback.__name__, message_id
+                )
+                data = None
+            if data:
+                break
+
+    if not data:
+        app.logger.error(
+            "Could not fetch message_id=%s from Graph - by-ID, delta, and search fallback all failed.",
+            message_id,
+        )
         return None
 
     sender = (data.get("from") or {}).get("emailAddress") or {}
