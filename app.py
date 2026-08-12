@@ -130,6 +130,17 @@ def init_db():
     if "next_followup" not in leads_columns:
         conn.execute("ALTER TABLE leads_status ADD COLUMN next_followup TEXT")
 
+    conn.execute(
+        """
+        CREATE TABLE IF NOT EXISTS customer_assignments (
+            customer_id TEXT PRIMARY KEY,
+            assigned_rep TEXT,
+            assigned_by TEXT,
+            updated_at TEXT
+        )
+        """
+    )
+
     conn.commit()
     conn.close()
 
@@ -419,6 +430,55 @@ def save_lead_status(lead_key):
 
 @app.route("/leads-status/<path:_subpath>", methods=["OPTIONS"])
 def cors_preflight_leads_status(_subpath):
+    return "", 204
+
+
+@app.route("/customer-assignments", methods=["GET"])
+@requires_auth
+def get_all_customer_assignments():
+    """Returns the saved rep assignment for every customer that's been assigned."""
+    conn = get_db()
+    rows = conn.execute("SELECT * FROM customer_assignments").fetchall()
+    conn.close()
+    return jsonify([dict(r) for r in rows])
+
+
+@app.route("/customer-assignments/<customer_id>", methods=["POST"])
+@requires_auth
+def save_customer_assignment(customer_id):
+    """
+    Assigns a customer (one that has no Sales Rep set in Aljex) to a rep.
+    This does NOT change anything in Aljex itself — it's a local override
+    stored here so the customer shows up under that rep's "My Customers" tab.
+    Expects JSON body, e.g.:
+        {"assigned_rep": "DANIEL G WEATHERS", "assigned_by": "Gene"}
+    """
+    body = request.get_json(force=True, silent=True) or {}
+
+    conn = get_db()
+    conn.execute(
+        """
+        INSERT INTO customer_assignments (customer_id, assigned_rep, assigned_by, updated_at)
+        VALUES (?, ?, ?, ?)
+        ON CONFLICT(customer_id) DO UPDATE SET
+            assigned_rep = excluded.assigned_rep,
+            assigned_by = excluded.assigned_by,
+            updated_at = excluded.updated_at
+        """,
+        (
+            customer_id,
+            body.get("assigned_rep", ""),
+            body.get("assigned_by", ""),
+            datetime.now(timezone.utc).isoformat(),
+        ),
+    )
+    conn.commit()
+    conn.close()
+    return jsonify({"status": "ok", "customer_id": customer_id})
+
+
+@app.route("/customer-assignments/<path:_subpath>", methods=["OPTIONS"])
+def cors_preflight_customer_assignments(_subpath):
     return "", 204
 
 
