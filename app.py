@@ -141,6 +141,50 @@ def init_db():
         """
     )
 
+    # -----------------------------------------------------------------
+    # Service rep tables: separate from the sales-side tables above.
+    # A customer can have a sales rep (customer_assignments / rep_notes)
+    # AND an independent service rep who does the day-to-day check-in
+    # calls (service_assignments / service_notes / customer_contacts).
+    # -----------------------------------------------------------------
+    conn.execute(
+        """
+        CREATE TABLE IF NOT EXISTS service_assignments (
+            customer_id TEXT PRIMARY KEY,
+            service_rep TEXT,
+            assigned_by TEXT,
+            updated_at TEXT
+        )
+        """
+    )
+
+    conn.execute(
+        """
+        CREATE TABLE IF NOT EXISTS service_notes (
+            customer_id TEXT PRIMARY KEY,
+            last_touched TEXT,
+            next_touch_date TEXT,
+            next_action TEXT,
+            notes TEXT,
+            updated_at TEXT
+        )
+        """
+    )
+
+    conn.execute(
+        """
+        CREATE TABLE IF NOT EXISTS customer_contacts (
+            id INTEGER PRIMARY KEY AUTOINCREMENT,
+            customer_id TEXT NOT NULL,
+            name TEXT,
+            phone TEXT,
+            email TEXT,
+            is_primary INTEGER DEFAULT 0,
+            updated_at TEXT
+        )
+        """
+    )
+
     conn.commit()
     conn.close()
 
@@ -479,6 +523,311 @@ def save_customer_assignment(customer_id):
 
 @app.route("/customer-assignments/<path:_subpath>", methods=["OPTIONS"])
 def cors_preflight_customer_assignments(_subpath):
+    return "", 204
+
+
+# ---------------------------------------------------------------------
+# Service rep endpoints
+# ---------------------------------------------------------------------
+@app.route("/service-assignments", methods=["GET"])
+@requires_auth
+def get_all_service_assignments():
+    """Returns the saved service-rep assignment for every customer that has one."""
+    conn = get_db()
+    rows = conn.execute("SELECT * FROM service_assignments").fetchall()
+    conn.close()
+    return jsonify([dict(r) for r in rows])
+
+
+@app.route("/service-assignments/<customer_id>", methods=["POST"])
+@requires_auth
+def save_service_assignment(customer_id):
+    """
+    Assigns a customer to a service rep (the person who does day-to-day
+    check-in calls, separate from whoever the sales rep is). Expects
+    JSON body, e.g.:
+        {"service_rep": "BUD MEALOR", "assigned_by": "Gene"}
+    """
+    body = request.get_json(force=True, silent=True) or {}
+
+    conn = get_db()
+    conn.execute(
+        """
+        INSERT INTO service_assignments (customer_id, service_rep, assigned_by, updated_at)
+        VALUES (?, ?, ?, ?)
+        ON CONFLICT(customer_id) DO UPDATE SET
+            service_rep = excluded.service_rep,
+            assigned_by = excluded.assigned_by,
+            updated_at = excluded.updated_at
+        """,
+        (
+            customer_id,
+            body.get("service_rep", ""),
+            body.get("assigned_by", ""),
+            datetime.now(timezone.utc).isoformat(),
+        ),
+    )
+    conn.commit()
+    conn.close()
+    return jsonify({"status": "ok", "customer_id": customer_id})
+
+
+@app.route("/service-assignments/<path:_subpath>", methods=["OPTIONS"])
+def cors_preflight_service_assignments(_subpath):
+    return "", 204
+
+
+@app.route("/service-notes", methods=["GET"])
+@requires_auth
+def get_all_service_notes():
+    """Returns all saved service-rep touch-tracking notes (one row per customer)."""
+    conn = get_db()
+    rows = conn.execute("SELECT * FROM service_notes").fetchall()
+    conn.close()
+    return jsonify([dict(r) for r in rows])
+
+
+@app.route("/service-notes/<customer_id>", methods=["POST"])
+@requires_auth
+def save_service_note(customer_id):
+    """
+    Saves or updates the service-rep fields for one customer. Expects
+    JSON body, e.g.:
+        {"last_touched": "2026-08-10", "next_touch_date": "2026-08-17",
+         "next_action": "Call", "notes": "Checking in Monday"}
+    Any field left out keeps its previous saved value.
+    """
+    body = request.get_json(force=True, silent=True) or {}
+
+    conn = get_db()
+    existing = conn.execute(
+        "SELECT last_touched, next_touch_date, next_action, notes FROM service_notes WHERE customer_id = ?",
+        (customer_id,),
+    ).fetchone()
+
+    def pick(field):
+        if field in body:
+            return body[field]
+        return existing[field] if existing else ""
+
+    conn.execute(
+        """
+        INSERT INTO service_notes (customer_id, last_touched, next_touch_date, next_action, notes, updated_at)
+        VALUES (?, ?, ?, ?, ?, ?)
+        ON CONFLICT(customer_id) DO UPDATE SET
+            last_touched = excluded.last_touched,
+            next_touch_date = excluded.next_touch_date,
+            next_action = excluded.next_action,
+            notes = excluded.notes,
+            updated_at = excluded.updated_at
+        """,
+        (
+            customer_id,
+            pick("last_touched"),
+            pick("next_touch_date"),
+            pick("next_action"),
+            pick("notes"),
+            datetime.now(timezone.utc).isoformat(),
+        ),
+    )
+    conn.commit()
+    conn.close()
+    return jsonify({"status": "ok", "customer_id": customer_id})
+
+
+@app.route("/service-notes/<path:_subpath>", methods=["OPTIONS"])
+def cors_preflight_service_notes(_subpath):
+    return "", 204
+
+
+@app.route("/customer-contacts", methods=["GET"])
+@requires_auth
+def get_all_customer_contacts():
+    """Returns every saved contact for every customer."""
+    conn = get_db()
+    rows = conn.execute("SELECT * FROM customer_contacts ORDER BY is_primary DESC, id ASC").fetchall()
+    conn.close()
+    return jsonify([dict(r) for r in rows])
+
+
+@app.route("/customer-contacts/<customer_id>", methods=["POST"])
+@requires_auth
+def modify_customer_contacts(customer_id):
+    """
+    Add, update, delete, or re-prioritize a contact for a customer.
+    Expects JSON body with an "action" field:
+        {"action": "add", "name": "...", "phone": "...", "email": "...", "is_primary": true}
+        {"action": "update", "contact_id": 12, "name": "...", "phone": "...", "email": "..."}
+        {"action": "delete", "contact_id": 12}
+        {"action": "make_primary", "contact_id": 12}
+    """
+    body = request.get_json(force=True, silent=True) or {}
+    action = body.get("action", "add")
+
+    conn = get_db()
+    now = datetime.now(timezone.utc).isoformat()
+
+    if action == "add":
+        is_primary = 1 if body.get("is_primary") else 0
+        if is_primary:
+            conn.execute("UPDATE customer_contacts SET is_primary = 0 WHERE customer_id = ?", (customer_id,))
+        cur = conn.execute(
+            """
+            INSERT INTO customer_contacts (customer_id, name, phone, email, is_primary, updated_at)
+            VALUES (?, ?, ?, ?, ?, ?)
+            """,
+            (customer_id, body.get("name", ""), body.get("phone", ""), body.get("email", ""), is_primary, now),
+        )
+        new_id = cur.lastrowid
+        conn.commit()
+        conn.close()
+        return jsonify({"status": "ok", "contact_id": new_id})
+
+    elif action == "update":
+        contact_id = body.get("contact_id")
+        conn.execute(
+            """
+            UPDATE customer_contacts SET name = ?, phone = ?, email = ?, updated_at = ?
+            WHERE id = ? AND customer_id = ?
+            """,
+            (body.get("name", ""), body.get("phone", ""), body.get("email", ""), now, contact_id, customer_id),
+        )
+        conn.commit()
+        conn.close()
+        return jsonify({"status": "ok"})
+
+    elif action == "delete":
+        contact_id = body.get("contact_id")
+        conn.execute(
+            "DELETE FROM customer_contacts WHERE id = ? AND customer_id = ?",
+            (contact_id, customer_id),
+        )
+        conn.commit()
+        conn.close()
+        return jsonify({"status": "ok"})
+
+    elif action == "make_primary":
+        contact_id = body.get("contact_id")
+        conn.execute("UPDATE customer_contacts SET is_primary = 0 WHERE customer_id = ?", (customer_id,))
+        conn.execute(
+            "UPDATE customer_contacts SET is_primary = 1, updated_at = ? WHERE id = ? AND customer_id = ?",
+            (now, contact_id, customer_id),
+        )
+        conn.commit()
+        conn.close()
+        return jsonify({"status": "ok"})
+
+    conn.close()
+    return jsonify({"error": "unknown action"}), 400
+
+
+@app.route("/customer-contacts/<path:_subpath>", methods=["OPTIONS"])
+def cors_preflight_customer_contacts(_subpath):
+    return "", 204
+
+
+@app.route("/bulk-import-service-data", methods=["POST"])
+@requires_auth
+def bulk_import_service_data():
+    """
+    One-time import used to seed service-rep assignments, notes, and
+    contacts from the existing MONSTER CRM.xlsx spreadsheet. Expects a
+    JSON array, one object per customer:
+        {
+          "customer_id": "101376",
+          "service_rep": "BUD MEALOR",
+          "assigned_by": "CRM Import",
+          "last_touched": "2026-08-10",
+          "next_touch_date": "",
+          "next_action": "",
+          "notes": "",
+          "contacts": [
+            {"name": "Matt Wang", "phone": "...", "email": "...", "is_primary": true},
+            {"name": "Tony", "phone": "...", "email": "...", "is_primary": false}
+          ]
+        }
+    Safe to re-run: assignments/notes upsert by customer_id, and contacts
+    are only inserted if that customer has no contacts yet (so re-running
+    this doesn't create duplicate contact rows).
+    """
+    records = request.get_json(force=True, silent=True)
+    if not isinstance(records, list):
+        return jsonify({"error": "Expected a JSON array of records"}), 400
+
+    conn = get_db()
+    now = datetime.now(timezone.utc).isoformat()
+    imported = 0
+    skipped = 0
+
+    for rec in records:
+        customer_id = rec.get("customer_id", "")
+        if not customer_id:
+            skipped += 1
+            continue
+
+        conn.execute(
+            """
+            INSERT INTO service_assignments (customer_id, service_rep, assigned_by, updated_at)
+            VALUES (?, ?, ?, ?)
+            ON CONFLICT(customer_id) DO UPDATE SET
+                service_rep = excluded.service_rep,
+                assigned_by = excluded.assigned_by,
+                updated_at = excluded.updated_at
+            """,
+            (customer_id, rec.get("service_rep", ""), rec.get("assigned_by", "CRM Import"), now),
+        )
+
+        conn.execute(
+            """
+            INSERT INTO service_notes (customer_id, last_touched, next_touch_date, next_action, notes, updated_at)
+            VALUES (?, ?, ?, ?, ?, ?)
+            ON CONFLICT(customer_id) DO UPDATE SET
+                last_touched = excluded.last_touched,
+                next_touch_date = excluded.next_touch_date,
+                next_action = excluded.next_action,
+                notes = excluded.notes,
+                updated_at = excluded.updated_at
+            """,
+            (
+                customer_id,
+                rec.get("last_touched", ""),
+                rec.get("next_touch_date", ""),
+                rec.get("next_action", ""),
+                rec.get("notes", ""),
+                now,
+            ),
+        )
+
+        existing_count = conn.execute(
+            "SELECT COUNT(*) as c FROM customer_contacts WHERE customer_id = ?", (customer_id,)
+        ).fetchone()["c"]
+
+        if existing_count == 0:
+            for contact in rec.get("contacts", []):
+                conn.execute(
+                    """
+                    INSERT INTO customer_contacts (customer_id, name, phone, email, is_primary, updated_at)
+                    VALUES (?, ?, ?, ?, ?, ?)
+                    """,
+                    (
+                        customer_id,
+                        contact.get("name", ""),
+                        contact.get("phone", ""),
+                        contact.get("email", ""),
+                        1 if contact.get("is_primary") else 0,
+                        now,
+                    ),
+                )
+
+        imported += 1
+
+    conn.commit()
+    conn.close()
+    return jsonify({"status": "ok", "imported": imported, "skipped": skipped})
+
+
+@app.route("/bulk-import-service-data", methods=["OPTIONS"])
+def cors_preflight_bulk_import_service():
     return "", 204
 
 
