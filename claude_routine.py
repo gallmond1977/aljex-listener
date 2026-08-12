@@ -23,13 +23,20 @@ CLAUDE_ROUTINE_FIRE_URL = os.environ.get("CLAUDE_ROUTINE_FIRE_URL", "")
 log = logging.getLogger("claude_routine")
 
 
-def fire_routine(message_id, received_at=None):
+def fire_routine(message_id, content=None, received_at=None):
     """
     Kicks off an on-demand run of the carrier-auto-respond routine, telling
     it exactly which inbound message just arrived (via the REALTIME_TRIGGER
     marker in the `text` field) instead of letting it fall back to
     re-scanning the last 75 minutes of mail. See the routine's own prompt
     (claude.ai/code/routines) for how it uses this.
+
+    content, if given, is the message's subject/sender/body as fetched by
+    app.py's _fetch_and_cache_message() immediately on arrival, and is
+    embedded directly in the payload so the routine can use it as-is
+    instead of looking the message up itself once its own session finally
+    starts a few seconds later - by which point staff on this live dispatch
+    inbox may have already read, moved, or deleted it.
 
     Fire-and-forget: logs on failure but never raises. This is meant to be
     called from a background thread after the webhook route has already
@@ -43,6 +50,12 @@ def fire_routine(message_id, received_at=None):
     text = f"REALTIME_TRIGGER: message_id={message_id}"
     if received_at:
         text += f" received_at={received_at}"
+    if content:
+        text += (
+            "\n\nCAPTURED_MESSAGE_CONTENT (fetched by the webhook the moment this "
+            "message arrived, before staff had a chance to act on it - use this "
+            "directly instead of looking the message up yourself):\n" + content
+        )
 
     try:
         resp = requests.post(
