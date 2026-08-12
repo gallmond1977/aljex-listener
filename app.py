@@ -129,6 +129,8 @@ def init_db():
         conn.execute("ALTER TABLE leads_status ADD COLUMN notes TEXT")
     if "next_followup" not in leads_columns:
         conn.execute("ALTER TABLE leads_status ADD COLUMN next_followup TEXT")
+    if "assigned_rep" not in leads_columns:
+        conn.execute("ALTER TABLE leads_status ADD COLUMN assigned_rep TEXT")
 
     conn.execute(
         """
@@ -427,18 +429,18 @@ def get_all_lead_status():
 @requires_auth
 def save_lead_status(lead_key):
     """
-    Saves or updates the status/notes/follow-up date for one lead (a
-    delivery consignee that isn't already a customer). Expects JSON body,
-    e.g.:
+    Saves or updates the status/notes/follow-up date/assigned rep for one
+    lead (a delivery consignee that isn't already a customer). Expects
+    JSON body, e.g.:
         {"status": "interested", "marked_by": "Daniel", "notes": "Left voicemail",
-         "next_followup": "2026-08-20"}
+         "next_followup": "2026-08-20", "assigned_rep": "DANIEL G WEATHERS"}
     Any field left out keeps its previous saved value.
     """
     body = request.get_json(force=True, silent=True) or {}
 
     conn = get_db()
     existing = conn.execute(
-        "SELECT status, marked_by, notes, next_followup FROM leads_status WHERE lead_key = ?",
+        "SELECT status, marked_by, notes, next_followup, assigned_rep FROM leads_status WHERE lead_key = ?",
         (lead_key,),
     ).fetchone()
 
@@ -446,16 +448,18 @@ def save_lead_status(lead_key):
     marked_by = body["marked_by"] if "marked_by" in body else (existing["marked_by"] if existing else "")
     notes = body["notes"] if "notes" in body else (existing["notes"] if existing else "")
     next_followup = body["next_followup"] if "next_followup" in body else (existing["next_followup"] if existing else "")
+    assigned_rep = body["assigned_rep"] if "assigned_rep" in body else (existing["assigned_rep"] if existing else "")
 
     conn.execute(
         """
-        INSERT INTO leads_status (lead_key, status, marked_by, notes, next_followup, updated_at)
-        VALUES (?, ?, ?, ?, ?, ?)
+        INSERT INTO leads_status (lead_key, status, marked_by, notes, next_followup, assigned_rep, updated_at)
+        VALUES (?, ?, ?, ?, ?, ?, ?)
         ON CONFLICT(lead_key) DO UPDATE SET
             status = excluded.status,
             marked_by = excluded.marked_by,
             notes = excluded.notes,
             next_followup = excluded.next_followup,
+            assigned_rep = excluded.assigned_rep,
             updated_at = excluded.updated_at
         """,
         (
@@ -464,6 +468,7 @@ def save_lead_status(lead_key):
             marked_by,
             notes,
             next_followup,
+            assigned_rep,
             datetime.now(timezone.utc).isoformat(),
         ),
     )
