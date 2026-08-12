@@ -13,12 +13,20 @@ How it works:
 - You can see a simple status page at "/" to confirm it's running.
 """
 
+import logging
 import os
 import sqlite3
-from datetime import datetime, timezone
+import threading
+from datetime import datetime, timedelta, timezone
 from functools import wraps
 
+from apscheduler.schedulers.background import BackgroundScheduler
 from flask import Flask, request, jsonify, Response
+
+from claude_routine import fire_routine
+from graph_subscription import create_subscription, ensure_subscription_fresh, get_subscription_state
+
+logging.basicConfig(level=logging.INFO, format="%(asctime)s %(levelname)s %(name)s: %(message)s")
 
 app = Flask(__name__)
 
@@ -61,6 +69,7 @@ def cors_preflight_bulk_import(_subpath):
 SYNC_USERNAME = os.environ.get("SYNC_USERNAME", "changeme")
 SYNC_PASSWORD = os.environ.get("SYNC_PASSWORD", "changeme")
 DATABASE_PATH = os.environ.get("DATABASE_PATH", "aljex_data.db")
+GRAPH_CLIENT_STATE = os.environ.get("GRAPH_CLIENT_STATE", "")
 
 
 # ---------------------------------------------------------------------
@@ -219,6 +228,38 @@ def init_db():
             email TEXT,
             is_primary INTEGER DEFAULT 0,
             updated_at TEXT
+        )
+        """
+    )
+
+    # Used by graph_subscription.py to track the Microsoft Graph change
+    # notification subscription that powers the real-time carrier-email
+    # trigger. graph_subscription.py reads/writes this via db.py's own
+    # get_db() (a separate connection helper to the same database file,
+    # kept there to avoid an import cycle with this module) - db.py's own
+    # init_db() isn't what runs at startup here, so this table is created
+    # here instead to make sure it actually exists.
+    conn.execute(
+        """
+        CREATE TABLE IF NOT EXISTS graph_subscription (
+            id INTEGER PRIMARY KEY CHECK (id = 1),
+            subscription_id TEXT,
+            expiration_datetime TEXT,
+            last_checked_at TEXT,
+            last_status TEXT,
+            last_error TEXT
+        )
+        """
+    )
+
+    # Microsoft Graph is documented to sometimes deliver the same change
+    # notification more than once. message_id is the primary key so a
+    # second INSERT for the same message fails - see _mark_seen_once().
+    conn.execute(
+        """
+        CREATE TABLE IF NOT EXISTS graph_webhook_seen (
+            message_id TEXT PRIMARY KEY,
+            first_seen_at TEXT NOT NULL
         )
         """
     )
@@ -449,6 +490,150 @@ def save_note(customer_id):
     conn.commit()
     conn.close()
     return jsonify({"status": "ok", "customer_id": customer_id})
+
+
+# ---------------------------------------------------------------------
+# Real-time carrier-email trigger (Microsoft Graph change notifications)
+#
+# Microsoft Graph calls /ms-graph/webhook the moment a new email lands in
+# loads@monstertrucking.com's Inbox. This route hands the specific message
+# off to the "Carrier Auto-Respond" Claude Code routine right away, instead
+# of that routine waiting for its next hourly scheduled run.
+# ---------------------------------------------------------------------
+@app.route("/ms-graph/webhook", methods=["POST"])
+def ms_graph_webhook():
+    """
+    Two very different kinds of calls land here:
+
+    1. The one-time validation handshake, sent the moment a subscription is
+       created (or its notificationUrl changes): Graph sends a
+       validationToken query parameter and expects it echoed back as plain
+       text within 10 seconds, or subscription creation fails.
+    2. Real notifications, whenever mail actually arrives: a JSON body with
+       a "value" list of one or more notification objects.
+
+    Graph expects a fast response (a few seconds) and will retry - creating
+    duplicate work - if this takes too long. So this route only validates
+    and acknowledges; the actual "check Aljex and draft a reply" work is
+    kicked off on a background thread after responding.
+    """
+    validation_token = request.args.get("validationToken")
+    if validation_token is not None:
+        return Response(validation_token, mimetype="text/plain", status=200)
+
+    body = request.get_json(force=True, silent=True) or {}
+    notifications = body.get("value", [])
+
+    message_ids = []
+    for note in notifications:
+        if note.get("clientState") != GRAPH_CLIENT_STATE:
+            app.logger.warning(
+                "Ignoring a Graph notification with a mismatched clientState "
+                "(subscriptionId=%s) - possibly not really from Graph.",
+                note.get("subscriptionId"),
+            )
+            continue
+        msg_id = (note.get("resourceData") or {}).get("id")
+        if msg_id:
+            message_ids.append(msg_id)
+
+    if message_ids:
+        threading.Thread(target=_fire_routine_for_messages, args=(message_ids,), daemon=True).start()
+
+    return "", 202
+
+
+def _fire_routine_for_messages(message_ids):
+    for msg_id in message_ids:
+        if not _mark_seen_once(msg_id):
+            app.logger.info(
+                "Ignoring duplicate Graph notification for message_id=%s "
+                "(already fired for this message).",
+                msg_id,
+            )
+            continue
+        fire_routine(msg_id)
+
+
+def _mark_seen_once(message_id):
+    """
+    Returns True the first time this message_id is seen, False on any
+    repeat. Backed by the database (not an in-memory set) so dedup still
+    works if duplicate notifications land in separate requests/threads, or
+    across a restart between them - a plain in-process set would not
+    survive either of those.
+    """
+    conn = get_db()
+    try:
+        conn.execute(
+            "INSERT INTO graph_webhook_seen (message_id, first_seen_at) VALUES (?, ?)",
+            (message_id, datetime.now(timezone.utc).isoformat()),
+        )
+        conn.commit()
+        return True
+    except sqlite3.IntegrityError:
+        return False
+    finally:
+        conn.close()
+
+
+@app.route("/ms-graph/subscribe", methods=["POST"])
+@requires_auth
+def ms_graph_subscribe():
+    """
+    One-time (or occasional) manual bootstrap: creates a fresh Graph
+    subscription right now, rather than waiting for the daily background
+    check to notice none exists yet. Call this once, right after this
+    feature is first deployed. Protected by the same username/password as
+    this app's other admin routes.
+    """
+    try:
+        result = create_subscription()
+        return jsonify({"status": "ok", "subscription": result})
+    except Exception as exc:
+        app.logger.exception("Manual /ms-graph/subscribe call failed.")
+        return jsonify({"status": "error", "error": str(exc)}), 500
+
+
+@app.route("/health/graph-subscription", methods=["GET"])
+@requires_auth
+def graph_subscription_health():
+    """Current Graph subscription status, for checking this isn't quietly broken."""
+    state = get_subscription_state()
+    if not state:
+        return jsonify({
+            "status": "no_subscription",
+            "message": "No subscription has been created yet. POST /ms-graph/subscribe to create one.",
+        }), 200
+    return jsonify(state)
+
+
+STARTUP_GRACE_PERIOD = timedelta(seconds=40)
+
+
+def _start_scheduler():
+    """
+    Runs ensure_subscription_fresh() shortly after startup and then once a
+    day, so the Graph subscription renews itself well before its ~3-day
+    expiration without needing a separate scheduled job elsewhere.
+
+    The first run is delayed by STARTUP_GRACE_PERIOD rather than firing
+    immediately. Creating a subscription makes Graph immediately call back
+    into this same app's /ms-graph/webhook to validate it - if that first
+    run fires the instant this module is imported, it can race Render's own
+    startup (the app isn't necessarily listening/routable yet), and Graph's
+    validation callback gets a 502 instead of a 200. This delay just gives
+    the app a chance to be fully up and reachable first.
+    """
+    scheduler = BackgroundScheduler(daemon=True)
+    scheduler.add_job(
+        ensure_subscription_fresh,
+        "interval",
+        hours=24,
+        next_run_time=datetime.now(timezone.utc) + STARTUP_GRACE_PERIOD,
+    )
+    scheduler.start()
+    return scheduler
 
 
 @app.route("/leads-status", methods=["GET"])
@@ -1020,6 +1205,7 @@ def bulk_import(table_name):
 
 
 init_db()
+_scheduler = _start_scheduler()
 
 if __name__ == "__main__":
     port = int(os.environ.get("PORT", 5000))
