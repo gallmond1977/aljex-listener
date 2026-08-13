@@ -598,8 +598,23 @@ def _fire_routine_for_messages(message_ids):
 # time-critical content capture, so this doesn't reopen the staff-race
 # problem that motivated capturing content at webhook time in the first
 # place.
+#
+# The routine-fire API's 429 is a per-account *daily* run/usage allowance
+# (see platform.claude.com/docs/en/api/claude-code/routines-fire), not a
+# short per-minute burst limit - so raising the debounce window is a real
+# lever here too: coalescing more messages into fewer routine sessions
+# directly reduces how many runs/day this webhook consumes. Default raised
+# from 3s to 15s after email volume increased enough to start exhausting
+# the daily allowance and produce repeated 429s.
 # ---------------------------------------------------------------------
-NOTIFICATION_DEBOUNCE_SECONDS = float(os.environ.get("NOTIFICATION_DEBOUNCE_SECONDS", "3"))
+NOTIFICATION_DEBOUNCE_SECONDS = float(os.environ.get("NOTIFICATION_DEBOUNCE_SECONDS", "15"))
+
+# If a fire is throttled (429) or hits a transient error (5xx/network), it's
+# requeued and retried rather than dropped - see _attempt_fire. Retries stop
+# after this many attempts so a sustained outage/allowance exhaustion can't
+# retry forever; the existing hourly routine schedule (unaffected by any of
+# this - see MS_GRAPH_WEBHOOK.md) still picks up anything left unprocessed.
+ROUTINE_FIRE_MAX_RETRIES = int(os.environ.get("ROUTINE_FIRE_MAX_RETRIES", "5"))
 
 _pending_lock = threading.Lock()
 _pending_messages = []
@@ -633,7 +648,45 @@ def _flush_pending_messages():
         _pending_timer = None
 
     if batch:
-        fire_routine(batch)
+        _attempt_fire(batch, retry_count=0)
+
+
+def _attempt_fire(batch, retry_count):
+    """
+    Calls fire_routine() for an already-coalesced batch and, per its return
+    value (see claude_routine.fire_routine's docstring), either does
+    nothing further (success), gives up (non-retryable failure), or
+    schedules exactly this batch to be retried after the delay it reported
+    (a 429 rate/usage limit or a transient 5xx/network error) - up to
+    ROUTINE_FIRE_MAX_RETRIES attempts, so a throttled fire is retried
+    instead of the notification just being lost from the real-time path.
+    """
+    message_ids = [m["message_id"] for m in batch]
+    result = fire_routine(batch)
+
+    if result is True or result is False:
+        return
+
+    retry_after = result
+    if retry_count >= ROUTINE_FIRE_MAX_RETRIES:
+        app.logger.error(
+            "Routine fire still failing after %d retries for message_ids=%s - giving up for now; "
+            "the hourly routine schedule will still pick these up.",
+            retry_count,
+            message_ids,
+        )
+        return
+
+    app.logger.warning(
+        "Scheduling routine fire retry %d/%d for message_ids=%s in %.0fs.",
+        retry_count + 1,
+        ROUTINE_FIRE_MAX_RETRIES,
+        message_ids,
+        retry_after,
+    )
+    timer = threading.Timer(retry_after, _attempt_fire, args=(batch, retry_count + 1))
+    timer.daemon = True
+    timer.start()
 
 
 _GRAPH_MESSAGE_SELECT = "subject,from,body,receivedDateTime,isRead"

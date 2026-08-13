@@ -51,7 +51,7 @@ dark (see "What happens if this breaks" below).
 
    Firing the routine itself is debounced rather than immediate: each
    queued message (re)arms a short timer
-   (`NOTIFICATION_DEBOUNCE_SECONDS`, default 3s), and when it elapses with
+   (`NOTIFICATION_DEBOUNCE_SECONDS`, default 15s), and when it elapses with
    no new message having arrived, everything queued since the last fire
    goes out together as one routine session instead of one session per
    message. This only affects when the routine *starts* - content capture
@@ -66,6 +66,20 @@ dark (see "What happens if this breaks" below).
    of mail. Normally this is a single message; occasionally, thanks to
    coalescing, it's a handful that arrived within the same few seconds.
 
+   The routine-fire API enforces a per-account **daily** run/usage
+   allowance (see
+   [its docs](https://platform.claude.com/docs/en/api/claude-code/routines-fire#rate-limits)),
+   not a short per-minute limit - a 429 comes with a `Retry-After` header
+   saying when that allowance resets. If a fire gets a 429, or a
+   transient 5xx/network error, `app.py` doesn't drop it: it reschedules
+   the same batch to retry after the reported delay (or a 60s default if
+   none was given), up to `ROUTINE_FIRE_MAX_RETRIES` attempts
+   (`_attempt_fire` in `app.py`). If every retry is exhausted, it gives up
+   loudly (ERROR log) and leaves the message(s) to the hourly fallback
+   schedule instead - they're never silently lost, since content was
+   already captured and cached in step 3 regardless of whether the fire
+   itself ever succeeds.
+
 ## Environment variables (Render > this service > Environment)
 
 | Variable | What it's for |
@@ -79,7 +93,8 @@ dark (see "What happens if this breaks" below).
 | `GRAPH_TARGET_MAILBOX` | Optional, defaults to `loads@monstertrucking.com` |
 | `WEBHOOK_BASE_URL` | Optional, defaults to `https://aljex-listener.onrender.com` |
 | `HEALTHCHECK_PING_URL` | Optional - see below |
-| `NOTIFICATION_DEBOUNCE_SECONDS` | Optional, defaults to `3` - how long the webhook waits for the notification burst to go quiet before firing the routine, see "How it fits together" above |
+| `NOTIFICATION_DEBOUNCE_SECONDS` | Optional, defaults to `15` - how long the webhook waits for the notification burst to go quiet before firing the routine, see "How it fits together" above |
+| `ROUTINE_FIRE_MAX_RETRIES` | Optional, defaults to `5` - how many times a throttled/failed routine fire is retried before being left to the hourly fallback schedule |
 
 ## One-time setup after this is deployed
 
@@ -123,3 +138,20 @@ Either way, the existing hourly schedule for the "Carrier Auto-Respond"
 routine keeps running independently of this webhook. If the real-time
 path goes dark, carrier emails still get picked up within the hour - they
 just stop being near-instant until this is fixed.
+
+### Repeated 429s ("routine fire rate limit reached") in the logs
+
+This is the routine-fire API's per-account **daily** run/usage allowance
+(not a per-minute burst limit) being exhausted - typically from a genuine
+increase in email volume driving more routine sessions/day than the
+account's plan allows. Check the remaining daily allowance at
+[claude.ai/code/routines](https://claude.ai/code/routines).
+
+As of the retry/backoff logic in `app.py`/`claude_routine.py`, these
+aren't silently dropped: each 429 reschedules the same batch using the
+response's `Retry-After` delay, up to `ROUTINE_FIRE_MAX_RETRIES` attempts,
+and the hourly schedule is a backstop regardless. But sustained 429s all
+day mean the daily allowance itself is too low for current volume - fixes
+are: raise `NOTIFICATION_DEBOUNCE_SECONDS` further (fewer, larger-batched
+routine runs per day for the same email volume), upgrade the plan/enable
+extra usage, or reduce how often the routine needs to run.
