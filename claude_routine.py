@@ -20,7 +20,26 @@ import requests
 CLAUDE_ROUTINE_TOKEN = os.environ.get("CLAUDE_ROUTINE_TOKEN", "")
 CLAUDE_ROUTINE_FIRE_URL = os.environ.get("CLAUDE_ROUTINE_FIRE_URL", "")
 
+# Used when a retryable failure (429/5xx/network error) doesn't come with a
+# usable Retry-After header - e.g. a network error, or a malformed header.
+# The documented 429 for this endpoint is a per-account *daily* run/usage
+# allowance, not a short per-minute window, so a Retry-After is normally
+# present and this is just a safety fallback.
+DEFAULT_RETRY_SECONDS = 60.0
+
 log = logging.getLogger("claude_routine")
+
+
+def _parse_retry_after(value):
+    if not value:
+        return DEFAULT_RETRY_SECONDS
+    try:
+        return max(float(value), 1.0)
+    except (TypeError, ValueError):
+        # Retry-After may also be an HTTP-date rather than a delta-seconds
+        # value; this app has no need to parse that format precisely, so
+        # just fall back to the default backoff instead of guessing.
+        return DEFAULT_RETRY_SECONDS
 
 
 def fire_routine(messages):
@@ -47,17 +66,24 @@ def fire_routine(messages):
     finally starts a few seconds later - by which point staff on this live
     dispatch inbox may have already read, moved, or deleted it.
 
-    Fire-and-forget: logs on failure but never raises. This is meant to be
-    called from a background thread after the webhook route has already
-    responded to Microsoft Graph, so there's no one left to hand an
-    exception to.
+    Never raises - this is meant to be called from a background thread
+    after the webhook route has already responded to Microsoft Graph, so
+    there's no one left to hand an exception to. Returns one of:
+      - True: fired successfully (or there was nothing to fire).
+      - False: failed for a reason that won't improve on retry (bad
+        config, or a 4xx other than 429) - the caller shouldn't requeue
+        this.
+      - a float: failed for a *retryable* reason (429 rate/usage limit,
+        5xx, or a network error) - the number of seconds the caller should
+        wait before retrying the same batch, taken from the 429's
+        Retry-After header when present.
     """
     if not messages:
-        return
+        return True
 
     if not (CLAUDE_ROUTINE_TOKEN and CLAUDE_ROUTINE_FIRE_URL):
         log.error("CLAUDE_ROUTINE_TOKEN / CLAUDE_ROUTINE_FIRE_URL not configured - cannot fire routine.")
-        return
+        return False
 
     message_ids = [m["message_id"] for m in messages]
 
@@ -87,10 +113,30 @@ def fire_routine(messages):
             json={"text": text},
             timeout=15,
         )
-        if resp.status_code >= 400:
-            log.error("Routine fire failed for message_ids=%s: %s %s", message_ids, resp.status_code, resp.text[:500])
-        else:
-            session_url = resp.json().get("claude_code_session_url", "")
-            log.info("Routine fired for message_ids=%s -> %s", message_ids, session_url)
     except Exception:
-        log.exception("Routine fire raised an exception for message_ids=%s", message_ids)
+        log.exception("Routine fire raised an exception for message_ids=%s - will retry.", message_ids)
+        return DEFAULT_RETRY_SECONDS
+
+    if resp.status_code == 429 or resp.status_code >= 500:
+        retry_after = _parse_retry_after(resp.headers.get("Retry-After"))
+        log.error(
+            "Routine fire throttled/unavailable for message_ids=%s: %s %s - retrying in %.0fs.",
+            message_ids,
+            resp.status_code,
+            resp.text[:500],
+            retry_after,
+        )
+        return retry_after
+
+    if resp.status_code >= 400:
+        log.error(
+            "Routine fire failed for message_ids=%s: %s %s - not retrying.",
+            message_ids,
+            resp.status_code,
+            resp.text[:500],
+        )
+        return False
+
+    session_url = resp.json().get("claude_code_session_url", "")
+    log.info("Routine fired for message_ids=%s -> %s", message_ids, session_url)
+    return True
