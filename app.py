@@ -30,7 +30,7 @@ def add_cors_headers(response):
     # /notes/... are affected; this does not weaken password protection.
     response.headers["Access-Control-Allow-Origin"] = "*"
     response.headers["Access-Control-Allow-Headers"] = "Authorization, Content-Type"
-    response.headers["Access-Control-Allow-Methods"] = "GET, POST, OPTIONS"
+    response.headers["Access-Control-Allow-Methods"] = "GET, POST, DELETE, OPTIONS"
     return response
 
 
