@@ -140,6 +140,7 @@ def init_db():
     # pipeline stage (freight brokerage quote: origin, destination, mode,
     # rate).
     contact_override_columns = [
+        "lead_name", "address",
         "contact_name", "contact_phone", "contact_email", "website",
         "contact_name_2", "contact_phone_2", "contact_email_2",
         "quote_origin", "quote_destination", "quote_mode", "quote_rate",
@@ -492,6 +493,7 @@ def save_lead_status(lead_key):
 
     fields = [
         "status", "marked_by", "notes", "next_followup", "assigned_rep",
+        "lead_name", "address",
         "contact_name", "contact_phone", "contact_email", "website",
         "contact_name_2", "contact_phone_2", "contact_email_2",
         "quote_origin", "quote_destination", "quote_mode", "quote_rate",
