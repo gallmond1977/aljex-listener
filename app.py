@@ -185,6 +185,67 @@ def init_db():
     if "email" not in manual_leads_columns:
         conn.execute("ALTER TABLE manual_leads ADD COLUMN email TEXT")
 
+    # A lead can have several quotes over time (different lanes, modes, or
+    # just re-quoted later) — these persist as a running history rather
+    # than a single overwritable set of fields.
+    conn.execute(
+        """
+        CREATE TABLE IF NOT EXISTS lead_quotes (
+            id INTEGER PRIMARY KEY AUTOINCREMENT,
+            lead_key TEXT,
+            origin TEXT,
+            destination TEXT,
+            mode TEXT,
+            rate TEXT,
+            created_by TEXT,
+            created_at TEXT
+        )
+        """
+    )
+
+    # One-time migration: the old single quote_origin/quote_destination/
+    # quote_mode/quote_rate columns on leads_status (from before multiple
+    # quotes were supported) get copied into lead_quotes so nothing typed
+    # in already is lost, then are simply left unused going forward.
+    conn.execute(
+        """
+        CREATE TABLE IF NOT EXISTS app_meta (
+            key TEXT PRIMARY KEY,
+            value TEXT
+        )
+        """
+    )
+    already_migrated = conn.execute(
+        "SELECT value FROM app_meta WHERE key = 'quotes_migrated'"
+    ).fetchone()
+
+    if not already_migrated:
+        legacy_quotes = conn.execute(
+            """
+            SELECT lead_key, quote_origin, quote_destination, quote_mode, quote_rate
+            FROM leads_status
+            WHERE (quote_origin IS NOT NULL AND quote_origin != '')
+               OR (quote_destination IS NOT NULL AND quote_destination != '')
+               OR (quote_mode IS NOT NULL AND quote_mode != '')
+               OR (quote_rate IS NOT NULL AND quote_rate != '')
+            """
+        ).fetchall()
+        for row in legacy_quotes:
+            conn.execute(
+                """
+                INSERT INTO lead_quotes (lead_key, origin, destination, mode, rate, created_by, created_at)
+                VALUES (?, ?, ?, ?, ?, ?, ?)
+                """,
+                (
+                    row["lead_key"], row["quote_origin"], row["quote_destination"],
+                    row["quote_mode"], row["quote_rate"], "",
+                    datetime.now(timezone.utc).isoformat(),
+                ),
+            )
+        conn.execute(
+            "INSERT INTO app_meta (key, value) VALUES ('quotes_migrated', '1')"
+        )
+
     conn.execute(
         """
         CREATE TABLE IF NOT EXISTS customer_assignments (
@@ -627,6 +688,103 @@ def create_manual_lead():
 
 @app.route("/manual-leads/<path:_subpath>", methods=["OPTIONS"])
 def cors_preflight_manual_leads(_subpath):
+    return "", 204
+
+
+@app.route("/lead-quotes", methods=["GET"])
+@requires_auth
+def get_all_lead_quotes():
+    """Returns every quote ever entered, across every lead."""
+    conn = get_db()
+    rows = conn.execute("SELECT * FROM lead_quotes ORDER BY id").fetchall()
+    conn.close()
+    return jsonify([dict(r) for r in rows])
+
+
+@app.route("/lead-quotes", methods=["POST"])
+@requires_auth
+def create_lead_quote():
+    """
+    Adds a new quote to a lead's history. Expects JSON body, e.g.:
+        {"lead_key": "CUSTOMER:105241", "origin": "Columbus, GA",
+         "destination": "Atlanta, GA", "mode": "53' Dry Van",
+         "rate": "$500", "created_by": "Mitchell Tucker"}
+    Quotes are never overwritten — each save creates a new row, so old
+    quotes stick around as a history unless explicitly deleted.
+    """
+    body = request.get_json(force=True, silent=True) or {}
+    lead_key = (body.get("lead_key") or "").strip()
+    if not lead_key:
+        return jsonify({"error": "lead_key is required"}), 400
+
+    conn = get_db()
+    cur = conn.execute(
+        """
+        INSERT INTO lead_quotes (lead_key, origin, destination, mode, rate, created_by, created_at)
+        VALUES (?, ?, ?, ?, ?, ?, ?)
+        """,
+        (
+            lead_key,
+            body.get("origin", ""),
+            body.get("destination", ""),
+            body.get("mode", ""),
+            body.get("rate", ""),
+            body.get("created_by", ""),
+            datetime.now(timezone.utc).isoformat(),
+        ),
+    )
+    new_id = cur.lastrowid
+    conn.commit()
+    row = conn.execute("SELECT * FROM lead_quotes WHERE id = ?", (new_id,)).fetchone()
+    conn.close()
+    return jsonify(dict(row))
+
+
+@app.route("/lead-quotes/<int:quote_id>", methods=["POST"])
+@requires_auth
+def update_lead_quote(quote_id):
+    """Updates one existing quote's fields. Any field left out keeps its previous value."""
+    body = request.get_json(force=True, silent=True) or {}
+
+    conn = get_db()
+    existing = conn.execute("SELECT * FROM lead_quotes WHERE id = ?", (quote_id,)).fetchone()
+    if not existing:
+        conn.close()
+        return jsonify({"error": "quote not found"}), 404
+
+    fields = ["origin", "destination", "mode", "rate"]
+    values = {f: (body[f] if f in body else existing[f]) for f in fields}
+
+    conn.execute(
+        """
+        UPDATE lead_quotes SET origin = ?, destination = ?, mode = ?, rate = ?
+        WHERE id = ?
+        """,
+        (values["origin"], values["destination"], values["mode"], values["rate"], quote_id),
+    )
+    conn.commit()
+    row = conn.execute("SELECT * FROM lead_quotes WHERE id = ?", (quote_id,)).fetchone()
+    conn.close()
+    return jsonify(dict(row))
+
+
+@app.route("/lead-quotes/<int:quote_id>", methods=["DELETE"])
+@requires_auth
+def delete_lead_quote(quote_id):
+    conn = get_db()
+    conn.execute("DELETE FROM lead_quotes WHERE id = ?", (quote_id,))
+    conn.commit()
+    conn.close()
+    return jsonify({"status": "ok", "id": quote_id})
+
+
+@app.route("/lead-quotes", methods=["OPTIONS"])
+def cors_preflight_lead_quotes_root():
+    return "", 204
+
+
+@app.route("/lead-quotes/<path:_subpath>", methods=["OPTIONS"])
+def cors_preflight_lead_quotes(_subpath):
     return "", 204
 
 
