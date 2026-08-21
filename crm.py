@@ -256,6 +256,15 @@ def init_crm_db():
         """
     )
 
+    # Non-primary contacts get their own touch-tracking fields (last
+    # touched, next touch, next action, notes) — same idea as the
+    # customer-level ones in service_notes, but per person. Last load stays
+    # customer-level only (shipping activity isn't tied to one contact).
+    contact_columns = [row["name"] for row in conn.execute("PRAGMA table_info(customer_contacts)").fetchall()]
+    for col in ["last_touched", "next_touch_date", "next_action", "notes"]:
+        if col not in contact_columns:
+            conn.execute(f"ALTER TABLE customer_contacts ADD COLUMN {col} TEXT")
+
     conn.commit()
     conn.close()
 
@@ -722,21 +731,41 @@ def modify_customer_contacts(customer_id):
         )
         new_id = cur.lastrowid
         conn.commit()
+        row = conn.execute("SELECT * FROM customer_contacts WHERE id = ?", (new_id,)).fetchone()
         conn.close()
-        return jsonify({"status": "ok", "contact_id": new_id})
+        return jsonify(dict(row))
 
     elif action == "update":
         contact_id = body.get("contact_id")
+        existing = conn.execute(
+            "SELECT * FROM customer_contacts WHERE id = ? AND customer_id = ?",
+            (contact_id, customer_id),
+        ).fetchone()
+        if not existing:
+            conn.close()
+            return jsonify({"error": "contact not found"}), 404
+
+        fields = ["name", "phone", "email", "last_touched", "next_touch_date", "next_action", "notes"]
+        values = {f: (body[f] if f in body else existing[f]) for f in fields}
+
         conn.execute(
             """
-            UPDATE customer_contacts SET name = ?, phone = ?, email = ?, updated_at = ?
+            UPDATE customer_contacts SET
+                name = ?, phone = ?, email = ?,
+                last_touched = ?, next_touch_date = ?, next_action = ?, notes = ?,
+                updated_at = ?
             WHERE id = ? AND customer_id = ?
             """,
-            (body.get("name", ""), body.get("phone", ""), body.get("email", ""), now, contact_id, customer_id),
+            (
+                values["name"], values["phone"], values["email"],
+                values["last_touched"], values["next_touch_date"], values["next_action"], values["notes"],
+                now, contact_id, customer_id,
+            ),
         )
         conn.commit()
+        row = conn.execute("SELECT * FROM customer_contacts WHERE id = ?", (contact_id,)).fetchone()
         conn.close()
-        return jsonify({"status": "ok"})
+        return jsonify(dict(row))
 
     elif action == "delete":
         contact_id = body.get("contact_id")
