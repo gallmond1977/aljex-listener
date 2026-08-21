@@ -1,0 +1,53 @@
+name: Guard webhook routes
+
+# This exists because the real-time Graph webhook feature has been silently
+# deleted from app.py at least 6 times by a direct edit (usually via
+# GitHub's web editor, from a stale cached copy of the file) that also
+# happened to be doing legitimate CRM work. Each time, nobody noticed until
+# real-time carrier replies had already been dark for hours. This workflow
+# fails loudly, on every PR and on main itself, the moment any of these
+# disappear from app.py - so it's caught before merge (PR check) or at
+# least immediately after (main push), instead of days later.
+#
+# This alone doesn't prevent a direct push to main from landing - that
+# requires the separate branch protection rule (main: require a pull
+# request before merging, no bypass, this check required to pass). This
+# workflow is what that rule points at.
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+
+jobs:
+  check-webhook-routes:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Confirm real-time Graph webhook feature is present in app.py
+        run: |
+          missing=0
+          for marker in \
+            'from graph_subscription import' \
+            'from claude_routine import' \
+            '"/ms-graph/webhook"' \
+            '"/health/graph-subscription"' \
+            '_start_scheduler' \
+            'GRAPH_CLIENT_STATE'
+          do
+            if ! grep -qF -- "$marker" app.py; then
+              echo "::error file=app.py::Missing expected marker: $marker (the real-time Graph webhook feature may have been reverted - see git history around commits 2f00909, 73eaee1, and c84e4004 for past incidents)"
+              missing=1
+            fi
+          done
+          if [ "$missing" -ne 0 ]; then
+            echo ""
+            echo "app.py is missing one or more pieces of the real-time Graph webhook feature."
+            echo "If you're intentionally removing this feature, update or remove this check."
+            echo "Otherwise, you're very likely looking at a stale/cached copy of app.py -"
+            echo "pull the latest main before editing, or edit via a branch + PR instead of"
+            echo "GitHub's inline single-file editor on main."
+            exit 1
+          fi
+          echo "OK - webhook feature markers all present in app.py."
