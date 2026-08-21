@@ -51,7 +51,7 @@ dark (see "What happens if this breaks" below).
 
    Firing the routine itself is debounced rather than immediate: each
    queued message (re)arms a short timer
-   (`NOTIFICATION_DEBOUNCE_SECONDS`, default 15s), and when it elapses with
+   (`NOTIFICATION_DEBOUNCE_SECONDS`, default 60s), and when it elapses with
    no new message having arrived, everything queued since the last fire
    goes out together as one routine session instead of one session per
    message. This only affects when the routine *starts* - content capture
@@ -93,7 +93,7 @@ dark (see "What happens if this breaks" below).
 | `GRAPH_TARGET_MAILBOX` | Optional, defaults to `loads@monstertrucking.com` |
 | `WEBHOOK_BASE_URL` | Optional, defaults to `https://aljex-listener.onrender.com` |
 | `HEALTHCHECK_PING_URL` | Optional - see below |
-| `NOTIFICATION_DEBOUNCE_SECONDS` | Optional, defaults to `15` - how long the webhook waits for the notification burst to go quiet before firing the routine, see "How it fits together" above |
+| `NOTIFICATION_DEBOUNCE_SECONDS` | Optional, defaults to `60` - how long the webhook waits for the notification burst to go quiet before firing the routine, see "How it fits together" above |
 | `ROUTINE_FIRE_MAX_RETRIES` | Optional, defaults to `5` - how many times a throttled/failed routine fire is retried before being left to the hourly fallback schedule |
 
 ## One-time setup after this is deployed

@@ -498,9 +498,12 @@ def _fire_routine_for_messages(message_ids):
 # lever here too: coalescing more messages into fewer routine sessions
 # directly reduces how many runs/day this webhook consumes. Default raised
 # from 3s to 15s after email volume increased enough to start exhausting
-# the daily allowance and produce repeated 429s.
+# the daily allowance and produce repeated 429s, then from 15s to 60s once
+# volume reached 100+ carrier emails/day and 15s was too short to
+# meaningfully batch them - most still fired their own separate run and
+# the daily cap kept getting hit.
 # ---------------------------------------------------------------------
-NOTIFICATION_DEBOUNCE_SECONDS = float(os.environ.get("NOTIFICATION_DEBOUNCE_SECONDS", "15"))
+NOTIFICATION_DEBOUNCE_SECONDS = float(os.environ.get("NOTIFICATION_DEBOUNCE_SECONDS", "60"))
 
 # If a fire is throttled (429) or hits a transient error (5xx/network), it's
 # requeued and retried rather than dropped - see _attempt_fire. Retries stop
