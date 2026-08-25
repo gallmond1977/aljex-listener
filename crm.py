@@ -939,15 +939,23 @@ def fix_customer_id():
     moved = []
     skipped = []
 
-    single_row_tables = ["rep_notes", "customer_assignments", "service_assignments", "service_notes"]
-    for table in single_row_tables:
+    # Rep assignment tables never get overwritten by "force" — that
+    # checkbox is about reconciling conflicting notes/touch info between
+    # two records, not about changing who an account is assigned to. The
+    # destination's existing rep assignment always wins if it has one.
+    rep_assignment_tables = ["customer_assignments", "service_assignments"]
+    force_eligible_tables = ["rep_notes", "service_notes"]
+
+    for table in rep_assignment_tables + force_eligible_tables:
         old_row = conn.execute(f"SELECT * FROM {table} WHERE customer_id = ?", (old_id,)).fetchone()
         if not old_row:
             continue
         new_row = conn.execute(f"SELECT * FROM {table} WHERE customer_id = ?", (new_id,)).fetchone()
-        if new_row and not force_overwrite:
+        table_can_force = force_overwrite and table in force_eligible_tables
+        if new_row and not table_can_force:
             # Something already exists at the correct ID — don't clobber it
-            # unless explicitly told to.
+            # unless this table is eligible for force-overwrite and the
+            # caller asked for it.
             skipped.append(table)
             continue
         cols = [c for c in old_row.keys() if c != "customer_id"]
