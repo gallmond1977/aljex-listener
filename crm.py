@@ -999,6 +999,16 @@ def _ensure_hidden_customers_table(conn):
         )
         """
     )
+    # A contact moved off a branch record keeps a pointer back to the
+    # branch it came from. That's what lets the tool show Sandy's Atlanta
+    # address even though she's filed under a Concord corporate account —
+    # the address is looked up live from the branch's own Aljex record
+    # rather than copied, so it stays read-only and stays current.
+    contact_columns = [
+        row["name"] for row in conn.execute("PRAGMA table_info(customer_contacts)").fetchall()
+    ]
+    if "source_branch_id" not in contact_columns:
+        conn.execute("ALTER TABLE customer_contacts ADD COLUMN source_branch_id TEXT")
 
 
 @crm_bp.route("/hidden-customers", methods=["GET"])
@@ -1088,13 +1098,14 @@ def roll_up_branch():
             """
             INSERT INTO customer_contacts
                 (customer_id, name, phone, email, is_primary,
-                 last_touched, next_touch_date, next_action, notes, updated_at)
-            VALUES (?, ?, ?, ?, 0, ?, ?, ?, ?, ?)
+                 last_touched, next_touch_date, next_action, notes,
+                 source_branch_id, updated_at)
+            VALUES (?, ?, ?, ?, 0, ?, ?, ?, ?, ?, ?)
             """,
             (
                 corporate_id, labelled(row["name"]), row["phone"], row["email"],
                 touch["last_touched"], touch["next_touch_date"],
-                touch["next_action"], touch["notes"], now,
+                touch["next_action"], touch["notes"], branch_id, now,
             ),
         )
         moved_contacts.append(labelled(row["name"]))
@@ -1109,13 +1120,14 @@ def roll_up_branch():
             """
             INSERT INTO customer_contacts
                 (customer_id, name, phone, email, is_primary,
-                 last_touched, next_touch_date, next_action, notes, updated_at)
-            VALUES (?, ?, '', '', 0, ?, ?, ?, ?, ?)
+                 last_touched, next_touch_date, next_action, notes,
+                 source_branch_id, updated_at)
+            VALUES (?, ?, '', '', 0, ?, ?, ?, ?, ?, ?)
             """,
             (
                 corporate_id, placeholder,
                 branch_touch["last_touched"], branch_touch["next_touch_date"],
-                branch_touch["next_action"], branch_touch["notes"], now,
+                branch_touch["next_action"], branch_touch["notes"], branch_id, now,
             ),
         )
         moved_contacts.append(placeholder)
@@ -1163,3 +1175,140 @@ def undo_roll_up_branch(branch_id):
 @crm_bp.route("/roll-up-branch/<path:_subpath>", methods=["OPTIONS"])
 def cors_preflight_roll_up_branch(_subpath=None):
     return "", 204
+
+
+@crm_bp.route("/backfill-branch-links", methods=["POST"])
+@requires_auth
+def backfill_branch_links():
+    """
+    Reconnects contacts that were rolled up before source_branch_id
+    existed, so their branch address can be looked up.
+
+    Matching is by city: a branch's Aljex city is compared against the
+    contact's name, which is where the roll-up put the branch label
+    ("Sandy — Atlanta" vs branch 102687 in ATLANTA). Only contacts sitting
+    on the corporate record that branch rolled into are considered, and
+    only ones that don't already have a source_branch_id.
+
+    Send {"commit": false} (or omit it) for a dry run that reports what it
+    would do and changes nothing. Send {"commit": true} to apply.
+    Unmatched contacts are listed so they can be fixed by hand — the tool
+    never guesses when a label doesn't clearly match one branch.
+    """
+    body = request.get_json(force=True, silent=True) or {}
+    commit = bool(body.get("commit"))
+
+    conn = get_db()
+    _ensure_hidden_customers_table(conn)
+
+    rolled = conn.execute("SELECT customer_id, rolled_into FROM hidden_customers").fetchall()
+
+    matched = []
+    ambiguous = []
+    unmatched = []
+
+    # Group the branches by which corporate record they were rolled into,
+    # so each contact is only ever compared against its own account's
+    # branches rather than every branch in the database.
+    by_corporate = {}
+    for r in rolled:
+        by_corporate.setdefault(r["rolled_into"], []).append(r["customer_id"])
+
+    for corporate_id, branch_ids in by_corporate.items():
+        branches = []
+        for bid in branch_ids:
+            row = conn.execute(
+                "SELECT id, name, city, state FROM customers WHERE id = ?", (bid,)
+            ).fetchone()
+            if row:
+                branches.append(row)
+
+        contacts = conn.execute(
+            """
+            SELECT id, name, source_branch_id FROM customer_contacts
+            WHERE customer_id = ? AND (source_branch_id IS NULL OR source_branch_id = '')
+            """,
+            (corporate_id,),
+        ).fetchall()
+
+        for ct in contacts:
+            name_upper = (ct["name"] or "").upper()
+            hits = [
+                b for b in branches
+                if (b["city"] or "").strip() and (b["city"] or "").strip().upper() in name_upper
+            ]
+
+            entry = {
+                "contact_id": ct["id"],
+                "contact_name": ct["name"],
+                "corporate_id": corporate_id,
+            }
+
+            if len(hits) == 1:
+                b = hits[0]
+                entry["branch_id"] = b["id"]
+                entry["branch_name"] = b["name"]
+                entry["city"] = f'{b["city"]}, {b["state"]}'
+                matched.append(entry)
+                if commit:
+                    conn.execute(
+                        "UPDATE customer_contacts SET source_branch_id = ? WHERE id = ?",
+                        (b["id"], ct["id"]),
+                    )
+            elif len(hits) > 1:
+                entry["candidates"] = [
+                    {"branch_id": b["id"], "city": b["city"]} for b in hits
+                ]
+                ambiguous.append(entry)
+            else:
+                unmatched.append(entry)
+
+    if commit:
+        conn.commit()
+    conn.close()
+
+    return jsonify({
+        "status": "ok",
+        "committed": commit,
+        "matched": matched,
+        "ambiguous": ambiguous,
+        "unmatched": unmatched,
+    })
+
+
+@crm_bp.route("/backfill-branch-links", methods=["OPTIONS"])
+def cors_preflight_backfill_branch_links():
+    return "", 204
+
+
+@crm_bp.route("/crm", methods=["GET"])
+def serve_crm_page():
+    """
+    Serves the CRM front end from the repo so everyone loads the same
+    build. Before this, index.html was passed around as a downloaded file,
+    which meant each person's copy drifted and every UI change meant
+    hunting through a Downloads folder for the newest one.
+
+    Deliberately not behind @requires_auth: the page itself is just markup,
+    and it prompts for the username and password on load before it can
+    fetch anything. Every endpoint it calls is still authenticated, so an
+    unauthenticated visitor gets an empty shell and nothing else.
+    """
+    here = os.path.dirname(os.path.abspath(__file__))
+    try:
+        with open(os.path.join(here, "index.html"), "r", encoding="utf-8") as fh:
+            html = fh.read()
+    except FileNotFoundError:
+        return Response(
+            "index.html isn't deployed yet — it needs to be committed to the "
+            "repo alongside crm.py.",
+            404,
+            {"Content-Type": "text/plain"},
+        )
+    # No-store so a redeploy is picked up on the next refresh rather than
+    # people sitting on a cached copy of an older build — the exact problem
+    # this route exists to solve.
+    return Response(html, 200, {
+        "Content-Type": "text/html; charset=utf-8",
+        "Cache-Control": "no-store, max-age=0",
+    })
