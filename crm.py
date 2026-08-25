@@ -914,9 +914,13 @@ def fix_customer_id():
     assignment, and contacts are still good, they're just filed under the
     wrong ID, which is why load history doesn't line up.
 
-    Expects JSON body: {"old_id": "104706", "new_id": "100591", "fixed_by": "Gene"}
-    Existing data at new_id (if any) is NOT overwritten — old_id's data is
-    only moved in where new_id doesn't already have something for that field.
+    Expects JSON body: {"old_id": "104706", "new_id": "100591", "fixed_by": "Gene", "force": false}
+    By default, existing data at new_id is NOT overwritten — old_id's data
+    for a given field is only moved in where new_id doesn't already have
+    something there, and that field is reported back as "skipped". Pass
+    "force": true to overwrite new_id's data with old_id's instead, for
+    cases where old_id is the one that should actually win (e.g. merging
+    two records that both ended up with their own separate notes).
 
     rep_notes lives in app.py's own database, not this module's, but that's
     just a Python-file boundary — both connect to the same SQLite file via
@@ -925,6 +929,7 @@ def fix_customer_id():
     body = request.get_json(force=True, silent=True) or {}
     old_id = str(body.get("old_id", "")).strip()
     new_id = str(body.get("new_id", "")).strip()
+    force_overwrite = bool(body.get("force"))
     if not old_id or not new_id:
         return jsonify({"error": "old_id and new_id are both required"}), 400
     if old_id == new_id:
@@ -932,6 +937,7 @@ def fix_customer_id():
 
     conn = get_db()
     moved = []
+    skipped = []
 
     single_row_tables = ["rep_notes", "customer_assignments", "service_assignments", "service_notes"]
     for table in single_row_tables:
@@ -939,10 +945,14 @@ def fix_customer_id():
         if not old_row:
             continue
         new_row = conn.execute(f"SELECT * FROM {table} WHERE customer_id = ?", (new_id,)).fetchone()
-        if new_row:
-            # Something already exists at the correct ID — don't clobber it.
+        if new_row and not force_overwrite:
+            # Something already exists at the correct ID — don't clobber it
+            # unless explicitly told to.
+            skipped.append(table)
             continue
         cols = [c for c in old_row.keys() if c != "customer_id"]
+        if new_row:
+            conn.execute(f"DELETE FROM {table} WHERE customer_id = ?", (new_id,))
         placeholders = ", ".join(["?"] * (len(cols) + 1))
         col_list = ", ".join(["customer_id"] + cols)
         values = [new_id] + [old_row[c] for c in cols]
@@ -957,7 +967,7 @@ def fix_customer_id():
 
     conn.commit()
     conn.close()
-    return jsonify({"status": "ok", "old_id": old_id, "new_id": new_id, "moved": moved})
+    return jsonify({"status": "ok", "old_id": old_id, "new_id": new_id, "moved": moved, "skipped": skipped})
 
 
 @crm_bp.route("/fix-customer-id", methods=["OPTIONS"])
