@@ -204,6 +204,40 @@
     "lane": "WINCHESTER KY-BARRIE ON"
   },
   {
+    "pro": "50463",
+    "status": "OPEN",
+    "pu_date": "2026-09-18",
+    "pu_city": "HOUSTON",
+    "pu_state": "TX",
+    "pu_hours": "0800",
+    "del_date": "2026-09-21",
+    "del_city": "SANFORD",
+    "del_state": "FL",
+    "del_hours": "0700",
+    "equipment": "26' Straight Box Truck",
+    "weight_lbs": 7000,
+    "carrier_rate": null,
+    "updated_at": "2026-09-14T19:28:28.280383+00:00",
+    "lane": "HOUSTON TX-SANFORD FL"
+  },
+  {
+    "pro": "50464",
+    "status": "OPEN",
+    "pu_date": "2026-09-18",
+    "pu_city": "HOUSTON",
+    "pu_state": "TX",
+    "pu_hours": "1000",
+    "del_date": "2026-09-21",
+    "del_city": "SANFORD",
+    "del_state": "FL",
+    "del_hours": "0900",
+    "equipment": "26' Straight Box Truck",
+    "weight_lbs": 7000,
+    "carrier_rate": null,
+    "updated_at": "2026-09-14T19:29:56.932373+00:00",
+    "lane": "HOUSTON TX-SANFORD FL"
+  },
+  {
     "pro": "50107",
     "status": "OPEN",
     "pu_date": "2026-09-21",
@@ -508,6 +542,23 @@
     "carrier_rate": 2000,
     "updated_at": "2026-09-08T15:33:10.494843+00:00",
     "lane": "JACKSONVILLE TX-MACON GA"
+  },
+  {
+    "pro": "50189",
+    "status": "RELEASED",
+    "pu_date": "2026-09-01",
+    "pu_city": "HOUSTON",
+    "pu_state": "TX",
+    "pu_hours": "0700",
+    "del_date": "2026-09-03",
+    "del_city": "SANFORD",
+    "del_state": "FL",
+    "del_hours": "0700",
+    "equipment": "26' Straight Box Truck",
+    "weight_lbs": 7000,
+    "carrier_rate": 1900,
+    "updated_at": "2026-09-08T14:11:21.567832+00:00",
+    "lane": "HOUSTON TX-SANFORD FL"
   },
   {
     "pro": "50215",
@@ -868,7 +919,7 @@
   },
   {
     "pro": "50413",
-    "status": "CONSIGNEE",
+    "status": "RELEASED",
     "pu_date": "2026-09-11",
     "pu_city": "ALPHARETTA",
     "pu_state": "GA",
@@ -880,7 +931,7 @@
     "equipment": "Flatbed w/ Tarps",
     "weight_lbs": 42000,
     "carrier_rate": 5200,
-    "updated_at": "2026-09-14T18:09:13.506123+00:00",
+    "updated_at": "2026-09-14T19:29:46.683685+00:00",
     "lane": "ALPHARETTA GA-AMARILLO TX"
   },
   {
@@ -935,23 +986,6 @@
     "lane": "ALPHARETTA GA-AMARILLO TX"
   },
   {
-    "pro": "50446",
-    "status": "COVERED",
-    "pu_date": "2026-09-14",
-    "pu_city": "MACON",
-    "pu_state": "GA",
-    "pu_hours": "0800-1530",
-    "del_date": "2026-09-15",
-    "del_city": "CALHOUN",
-    "del_state": "GA",
-    "del_hours": "0700-1500",
-    "equipment": "Van",
-    "weight_lbs": 34000,
-    "carrier_rate": 600,
-    "updated_at": "2026-09-14T19:24:04.134493+00:00",
-    "lane": "MACON GA-CALHOUN GA"
-  },
-  {
     "pro": "50301",
     "status": "COVERED",
     "pu_date": "2026-09-15",
@@ -983,6 +1017,23 @@
     "weight_lbs": 34000,
     "carrier_rate": 650,
     "updated_at": "2026-09-14T16:58:19.060053+00:00",
+    "lane": "MACON GA-CALHOUN GA"
+  },
+  {
+    "pro": "50446",
+    "status": "COVERED",
+    "pu_date": "2026-09-15",
+    "pu_city": "MACON",
+    "pu_state": "GA",
+    "pu_hours": "0800-1530",
+    "del_date": "2026-09-15",
+    "del_city": "CALHOUN",
+    "del_state": "GA",
+    "del_hours": "0700-1500",
+    "equipment": "Van",
+    "weight_lbs": 34000,
+    "carrier_rate": 600,
+    "updated_at": "2026-09-14T19:27:59.867175+00:00",
     "lane": "MACON GA-CALHOUN GA"
   }
 ]
