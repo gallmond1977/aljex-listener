@@ -119,6 +119,23 @@
     "lane": "CUMMING GA-CANON GA"
   },
   {
+    "pro": "50467",
+    "status": "OPEN",
+    "pu_date": "2026-09-15",
+    "pu_city": "WINCHESTER",
+    "pu_state": "KY",
+    "pu_hours": "1200-1300",
+    "del_date": "2026-09-16",
+    "del_city": "ROME",
+    "del_state": "GA",
+    "del_hours": "GET HOURS",
+    "equipment": "26' Straight Box Truck",
+    "weight_lbs": 600,
+    "carrier_rate": 500,
+    "updated_at": "2026-09-14T19:54:29.822410+00:00",
+    "lane": "WINCHESTER KY-ROME GA"
+  },
+  {
     "pro": "50422",
     "status": "OPEN",
     "pu_date": "2026-09-16",
@@ -457,6 +474,23 @@
     "carrier_rate": 1500,
     "updated_at": "2026-09-14T15:55:21.307621+00:00",
     "lane": "MEDLEY FL-CHARLOTTE NC"
+  },
+  {
+    "pro": "50466",
+    "status": "OPEN",
+    "pu_date": "2026-09-28",
+    "pu_city": "MIAMI",
+    "pu_state": "FL",
+    "pu_hours": "APPT",
+    "del_date": "2026-09-30",
+    "del_city": "LITHONIA",
+    "del_state": "GA",
+    "del_hours": "APPT ONLY",
+    "equipment": "Flatbed",
+    "weight_lbs": 48000,
+    "carrier_rate": null,
+    "updated_at": "2026-09-14T19:51:19.541315+00:00",
+    "lane": "MIAMI FL-LITHONIA GA"
   },
   {
     "pro": "50405",
