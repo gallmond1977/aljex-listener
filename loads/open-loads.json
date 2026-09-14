@@ -128,11 +128,11 @@
     "del_date": "2026-09-16",
     "del_city": "ROME",
     "del_state": "GA",
-    "del_hours": "GET HOURS",
-    "equipment": "26' Straight Box Truck",
+    "del_hours": "0900-1600",
+    "equipment": "Sprinter Van",
     "weight_lbs": 600,
     "carrier_rate": 500,
-    "updated_at": "2026-09-14T19:54:29.822410+00:00",
+    "updated_at": "2026-09-14T19:56:32.233614+00:00",
     "lane": "WINCHESTER KY-ROME GA"
   },
   {
@@ -149,7 +149,7 @@
     "equipment": "Van",
     "weight_lbs": 44990,
     "carrier_rate": 2300,
-    "updated_at": "2026-09-14T15:09:52.517467+00:00",
+    "updated_at": "2026-09-14T19:58:42.693466+00:00",
     "lane": "GREEN RIVER WY-SAN ANTONIO TX"
   },
   {
