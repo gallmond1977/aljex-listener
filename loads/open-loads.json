@@ -148,8 +148,8 @@
     "del_hours": "0800-1600",
     "equipment": "Flatbed",
     "weight_lbs": 45000,
-    "carrier_rate": null,
-    "updated_at": "2026-09-14T13:36:57.528501+00:00",
+    "carrier_rate": 500,
+    "updated_at": "2026-09-14T17:33:19.325606+00:00",
     "lane": "OPELIKA AL-COLUMBUS GA"
   },
   {
