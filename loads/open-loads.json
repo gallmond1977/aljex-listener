@@ -132,7 +132,7 @@
     "equipment": "Reefer",
     "weight_lbs": 36500,
     "carrier_rate": 1200,
-    "updated_at": "2026-09-14T15:21:12.893811+00:00",
+    "updated_at": "2026-09-14T16:38:56.332149+00:00",
     "lane": "COLUMBUS GA-JACKSONVILLE FL"
   },
   {
@@ -176,14 +176,14 @@
     "pu_city": "ALPHARETTA",
     "pu_state": "GA",
     "pu_hours": "0900-1800",
-    "del_date": "",
+    "del_date": "2026-09-16",
     "del_city": "BELCAMP",
     "del_state": "MD",
     "del_hours": "0700-1500",
     "equipment": "Flatbed w/ Tarps",
     "weight_lbs": 42000,
     "carrier_rate": null,
-    "updated_at": "2026-09-14T16:33:01.285082+00:00",
+    "updated_at": "2026-09-14T16:39:02.534843+00:00",
     "lane": "ALPHARETTA GA-BELCAMP MD"
   },
   {
