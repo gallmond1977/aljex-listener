@@ -119,6 +119,23 @@
     "lane": "CUMMING GA-CANON GA"
   },
   {
+    "pro": "50461",
+    "status": "OPEN",
+    "pu_date": "2026-09-15",
+    "pu_city": "AXIS",
+    "pu_state": "AL",
+    "pu_hours": "",
+    "del_date": "2026-09-16",
+    "del_city": "LINCOLNTON",
+    "del_state": "NC",
+    "del_hours": "0800-1200",
+    "equipment": "Flatbed w/ Tarps",
+    "weight_lbs": 16261,
+    "carrier_rate": 2300,
+    "updated_at": "2026-09-14T20:29:51.939448+00:00",
+    "lane": "AXIS AL-LINCOLNTON NC"
+  },
+  {
     "pro": "50467",
     "status": "OPEN",
     "pu_date": "2026-09-15",
@@ -185,23 +202,6 @@
     "carrier_rate": 5000,
     "updated_at": "2026-09-14T16:46:31.835885+00:00",
     "lane": "ALPHARETTA GA-AMARILLO TX"
-  },
-  {
-    "pro": "50461",
-    "status": "OPEN",
-    "pu_date": "2026-09-17",
-    "pu_city": "AXIS",
-    "pu_state": "AL",
-    "pu_hours": "",
-    "del_date": "2026-09-18",
-    "del_city": "LINCOLNTON",
-    "del_state": "NC",
-    "del_hours": "0800-1200",
-    "equipment": "Flatbed w/ Tarps",
-    "weight_lbs": 16261,
-    "carrier_rate": 2300,
-    "updated_at": "2026-09-14T19:01:08.829710+00:00",
-    "lane": "AXIS AL-LINCOLNTON NC"
   },
   {
     "pro": "50434",
