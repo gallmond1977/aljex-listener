@@ -192,7 +192,7 @@
     "pu_date": "2026-09-15",
     "pu_city": "SAVANNAH",
     "pu_state": "GA",
-    "pu_hours": "0800-1400",
+    "pu_hours": "0700-0900",
     "del_date": "2026-09-15",
     "del_city": "SPARTANBURG",
     "del_state": "SC",
@@ -200,7 +200,7 @@
     "equipment": "Sprinter Van",
     "weight_lbs": 350,
     "carrier_rate": 450,
-    "updated_at": "2026-09-14T18:54:44.704420+00:00",
+    "updated_at": "2026-09-14T18:59:26.060908+00:00",
     "lane": "SAVANNAH GA-SPARTANBURG SC"
   },
   {
@@ -250,8 +250,8 @@
     "del_hours": "0800-1200",
     "equipment": "Flatbed w/ Tarps",
     "weight_lbs": 16261,
-    "carrier_rate": 2400,
-    "updated_at": "2026-09-14T18:55:00.612515+00:00",
+    "carrier_rate": 2300,
+    "updated_at": "2026-09-14T18:59:21.480981+00:00",
     "lane": "AXIS AL-LINCOLNTON NC"
   },
   {
