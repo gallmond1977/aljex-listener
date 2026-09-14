@@ -1,22 +1,5 @@
 [
   {
-    "pro": "50345",
-    "status": "OPEN",
-    "pu_date": "2026-09-14",
-    "pu_city": "MADISON",
-    "pu_state": "IL",
-    "pu_hours": "0900-1500",
-    "del_date": "2026-09-15",
-    "del_city": "WINCHESTER",
-    "del_state": "KY",
-    "del_hours": "0800-1000",
-    "equipment": "26' Straight Box Truck",
-    "weight_lbs": 1345,
-    "carrier_rate": 850,
-    "updated_at": "2026-09-14T15:04:35.892781+00:00",
-    "lane": "MADISON IL-WINCHESTER KY"
-  },
-  {
     "pro": "50411",
     "status": "OPEN",
     "pu_date": "2026-09-14",
@@ -132,7 +115,7 @@
     "equipment": "Reefer",
     "weight_lbs": 36500,
     "carrier_rate": 1200,
-    "updated_at": "2026-09-14T12:34:30.653959+00:00",
+    "updated_at": "2026-09-14T15:21:12.893811+00:00",
     "lane": "COLUMBUS GA-JACKSONVILLE FL"
   },
   {
