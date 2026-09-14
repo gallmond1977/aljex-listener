@@ -199,8 +199,8 @@
     "del_hours": "0700",
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 7000,
-    "carrier_rate": null,
-    "updated_at": "2026-09-14T19:28:28.280383+00:00",
+    "carrier_rate": 1800,
+    "updated_at": "2026-09-14T19:39:23.630672+00:00",
     "lane": "HOUSTON TX-SANFORD FL"
   },
   {
@@ -216,8 +216,8 @@
     "del_hours": "0900",
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 7000,
-    "carrier_rate": null,
-    "updated_at": "2026-09-14T19:29:56.932373+00:00",
+    "carrier_rate": 1800,
+    "updated_at": "2026-09-14T19:39:12.606557+00:00",
     "lane": "HOUSTON TX-SANFORD FL"
   },
   {
@@ -233,8 +233,8 @@
     "del_hours": "1100",
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 7000,
-    "carrier_rate": null,
-    "updated_at": "2026-09-14T19:33:44.042270+00:00",
+    "carrier_rate": 1800,
+    "updated_at": "2026-09-14T19:39:48.652190+00:00",
     "lane": "HOUSTON TX-SANFORD FL"
   },
   {
