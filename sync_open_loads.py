@@ -14,10 +14,13 @@ What it does, each run:
    Live Sync webhook - see app.py's /aljex-webhook - so this is already
    "live" Aljex data, just one hop away instead of a second direct Aljex
    integration).
-2. Picks: all OPEN loads, all HOLD loads, and any other-status load from the
-   last RECENT_LANE_DAYS days that shares a lane (same pickup city/state ->
-   delivery city/state) with a current OPEN load - so Grok can recognize
-   "that load is covered" without a live lookup.
+2. Picks: OPEN loads with a pickup_date today or later (no backward
+   lookback - a stale OPEN record with a past pickup date is bad data, not
+   something to surface), plus any other-status load from the last
+   RECENT_LANE_DAYS days that shares a lane (same pickup city/state ->
+   delivery city/state) with one of those OPEN loads, so Grok can recognize
+   "that load is covered" without a live lookup. HOLD loads are excluded
+   entirely - not shown anywhere in the feed, not even for Grok to skip.
 3. Writes the result to loads/open-loads.json in this GitHub repo via the
    GitHub Contents API (create or update, in place - no local git needed,
    which matters here since a Render Cron Job's filesystem is thrown away
@@ -187,6 +190,28 @@ def _make_lane(pu_city, pu_state, del_city, del_state):
     return f"{pu_city} {pu_state}-{del_city} {del_state}".strip()
 
 
+def _parse_date(raw):
+    """
+    Parses a pu_date/del_date value into a date, trying ISO first (with or
+    without a time component) and then a couple of common US formats.
+    Returns None if raw is empty or doesn't match any of them - callers
+    treat that as "can't confirm this date" rather than guessing.
+    """
+    if not raw:
+        return None
+    raw = str(raw).strip()
+    try:
+        return datetime.fromisoformat(raw.replace("Z", "+00:00")).date()
+    except ValueError:
+        pass
+    for fmt in ("%Y-%m-%d", "%m/%d/%Y", "%m-%d-%Y"):
+        try:
+            return datetime.strptime(raw, fmt).date()
+        except ValueError:
+            continue
+    return None
+
+
 def _load_fields(record):
     """
     Returns the actual load fields (id, status, origin_city, ...) for one
@@ -254,14 +279,31 @@ def transform_record(record):
 
 def select_rows(records):
     """
-    Applies the OPEN / HOLD / recent-same-lane selection rule described in
-    this module's docstring. `records` is the raw list from
-    fetch_load_records(); returns the final list of output rows.
+    Applies the selection rule described in this module's docstring:
+    OPEN loads with a pickup_date today or later (no backward lookback -
+    an OPEN record with a past pu_date is stale/bad data, not something to
+    surface), plus recent same-lane non-OPEN history. HOLD loads are never
+    included anywhere in the output, including that history - Gene wants
+    them fully invisible to Grok, not just excluded from the OPEN set.
+
+    `records` is the raw list from fetch_load_records(); returns the final
+    list of output rows.
     """
     transformed = [t for t in (transform_record(r) for r in records) if t is not None]
 
-    open_rows = [r for r in transformed if r["status"] == OPEN_LOADS_STATUS]
-    hold_rows = [r for r in transformed if r["status"] == HOLD_LOADS_STATUS]
+    today = datetime.now(timezone.utc).date()
+    open_rows = []
+    for r in transformed:
+        if r["status"] != OPEN_LOADS_STATUS:
+            continue
+        pu = _parse_date(r["pu_date"])
+        if pu is None:
+            log.warning("Skipping OPEN load pro=%s - unparseable pu_date=%r", r["pro"], r["pu_date"])
+            continue
+        if pu < today:
+            continue
+        open_rows.append(r)
+
     open_lanes = {r["lane"].casefold() for r in open_rows if r["pu_city"] and r["del_city"]}
 
     cutoff = datetime.now(timezone.utc) - timedelta(days=RECENT_LANE_DAYS)
@@ -286,8 +328,8 @@ def select_rows(records):
         and is_recent(r)
     ]
 
-    rows = open_rows + hold_rows + same_lane_rows
-    rows.sort(key=lambda r: (r["status"] != OPEN_LOADS_STATUS, r["status"] != HOLD_LOADS_STATUS, r["pu_date"], r["pro"]))
+    rows = open_rows + same_lane_rows
+    rows.sort(key=lambda r: (r["status"] != OPEN_LOADS_STATUS, r["pu_date"], r["pro"]))
     return rows
 
 
