@@ -196,11 +196,11 @@
     "del_date": "2026-09-15",
     "del_city": "SPARTANBURG",
     "del_state": "SC",
-    "del_hours": "0800-1600",
+    "del_hours": "0800-1500",
     "equipment": "Sprinter Van",
     "weight_lbs": 350,
     "carrier_rate": 450,
-    "updated_at": "2026-09-14T18:59:26.060908+00:00",
+    "updated_at": "2026-09-14T19:05:06.148154+00:00",
     "lane": "SAVANNAH GA-SPARTANBURG SC"
   },
   {
@@ -251,7 +251,7 @@
     "equipment": "Flatbed w/ Tarps",
     "weight_lbs": 16261,
     "carrier_rate": 2300,
-    "updated_at": "2026-09-14T18:59:21.480981+00:00",
+    "updated_at": "2026-09-14T19:01:08.829710+00:00",
     "lane": "AXIS AL-LINCOLNTON NC"
   },
   {
