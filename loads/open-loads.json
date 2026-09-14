@@ -1,22 +1,5 @@
 [
   {
-    "pro": "50411",
-    "status": "OPEN",
-    "pu_date": "2026-09-14",
-    "pu_city": "JACKSONVILLE",
-    "pu_state": "FL",
-    "pu_hours": "0800-1500",
-    "del_date": "2026-09-15",
-    "del_city": "DUNCANSVILLE",
-    "del_state": "PA",
-    "del_hours": "0800-1600",
-    "equipment": "26' Straight Box Truck",
-    "weight_lbs": 1100,
-    "carrier_rate": 900,
-    "updated_at": "2026-09-14T12:40:40.655149+00:00",
-    "lane": "JACKSONVILLE FL-DUNCANSVILLE PA"
-  },
-  {
     "pro": "50445",
     "status": "OPEN",
     "pu_date": "2026-09-14",
@@ -102,6 +85,23 @@
     "lane": "JACKSONVILLE TX-MACON GA"
   },
   {
+    "pro": "50411",
+    "status": "OPEN",
+    "pu_date": "2026-09-15",
+    "pu_city": "JACKSONVILLE",
+    "pu_state": "FL",
+    "pu_hours": "0800-1500",
+    "del_date": "2026-09-16",
+    "del_city": "DUNCANSVILLE",
+    "del_state": "PA",
+    "del_hours": "0800-1600",
+    "equipment": "26' Straight Box Truck",
+    "weight_lbs": 1100,
+    "carrier_rate": 900,
+    "updated_at": "2026-09-14T16:47:00.841734+00:00",
+    "lane": "JACKSONVILLE FL-DUNCANSVILLE PA"
+  },
+  {
     "pro": "50420",
     "status": "OPEN",
     "pu_date": "2026-09-15",
@@ -182,8 +182,8 @@
     "del_hours": "0700-1500",
     "equipment": "Flatbed w/ Tarps",
     "weight_lbs": 42000,
-    "carrier_rate": null,
-    "updated_at": "2026-09-14T16:40:39.350878+00:00",
+    "carrier_rate": 3300,
+    "updated_at": "2026-09-14T16:45:47.887228+00:00",
     "lane": "ALPHARETTA GA-BELCAMP MD"
   },
   {
@@ -233,8 +233,8 @@
     "del_hours": "0800-1400",
     "equipment": "Flatbed w/ Tarps",
     "weight_lbs": 42000,
-    "carrier_rate": null,
-    "updated_at": "2026-09-14T16:43:58.373301+00:00",
+    "carrier_rate": 5000,
+    "updated_at": "2026-09-14T16:46:31.835885+00:00",
     "lane": "ALPHARETTA GA-AMARILLO TX"
   },
   {
