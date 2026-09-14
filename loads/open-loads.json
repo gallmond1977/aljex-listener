@@ -183,7 +183,7 @@
     "equipment": "Reefer",
     "weight_lbs": 1800,
     "carrier_rate": 900,
-    "updated_at": "2026-09-14T18:14:24.035885+00:00",
+    "updated_at": "2026-09-14T18:46:33.446040+00:00",
     "lane": "CUMMING GA-CANON GA"
   },
   {
@@ -199,8 +199,8 @@
     "del_hours": "0800-1200",
     "equipment": "Flatbed Hot Shot",
     "weight_lbs": 16261,
-    "carrier_rate": null,
-    "updated_at": "2026-09-14T18:43:06.013338+00:00",
+    "carrier_rate": 1200,
+    "updated_at": "2026-09-14T18:46:21.336702+00:00",
     "lane": "AXIS AL-LINCOLNTON NC"
   },
   {
