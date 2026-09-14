@@ -23,6 +23,15 @@ What it does, each run:
    which matters here since a Render Cron Job's filesystem is thrown away
    after each run).
 
+This pushes to the "loads-feed" branch, not "main" - main has branch
+protection requiring a PR per change, which isn't practical for a file that
+overwrites itself every few minutes with no human review needed. loads-feed
+is a plain, unprotected branch created off main for exactly this; Grok (or
+anything else) should read the file from loads-feed's raw GitHub URL:
+    https://raw.githubusercontent.com/<GITHUB_REPO>/loads-feed/loads/open-loads.json
+Code changes to this script itself still go through main/PRs as normal -
+only the generated data file lives on loads-feed.
+
 Configuration (Render > this cron job's service > Environment):
     ALJEX_LISTENER_URL  - base URL of the aljex-listener service.
                            Defaults to https://aljex-listener.onrender.com
@@ -33,7 +42,7 @@ Configuration (Render > this cron job's service > Environment):
                            loads/open-loads.json.
     GITHUB_REPO          - "owner/repo". Defaults to
                            gallmond1977/aljex-listener
-    GITHUB_BRANCH        - defaults to "main"
+    GITHUB_BRANCH        - defaults to "loads-feed" (see above - NOT main)
     RECENT_LANE_DAYS      - how many days back to look for same-lane
                            non-OPEN loads. Defaults to 7.
 
@@ -77,7 +86,7 @@ SYNC_PASSWORD = os.environ.get("SYNC_PASSWORD", "")
 
 GITHUB_TOKEN = os.environ.get("GITHUB_TOKEN", "")
 GITHUB_REPO = os.environ.get("GITHUB_REPO", "gallmond1977/aljex-listener")
-GITHUB_BRANCH = os.environ.get("GITHUB_BRANCH", "main")
+GITHUB_BRANCH = os.environ.get("GITHUB_BRANCH", "loads-feed")
 OUTPUT_PATH = "loads/open-loads.json"
 
 RECENT_LANE_DAYS = int(os.environ.get("RECENT_LANE_DAYS", "7"))
