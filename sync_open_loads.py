@@ -178,6 +178,22 @@ def _make_lane(pu_city, pu_state, del_city, del_state):
     return f"{pu_city} {pu_state}-{del_city} {del_state}".strip()
 
 
+def _load_fields(record):
+    """
+    Returns the actual load fields (id, status, origin_city, ...) for one
+    /records/loads item. Most records have them flat under "data" (how the
+    live Aljex webhook stores a sync'd record), but some carry them one
+    level deeper still, under a nested "data" key inside that - confirmed
+    against real records currently in the database, which is why almost
+    every record was being skipped as "missing id or status": data.get("id")
+    was reaching the outer wrapper, not the load fields themselves. Both
+    shapes are handled here rather than assuming one.
+    """
+    outer = record.get("data") or {}
+    inner = outer.get("data")
+    return inner if isinstance(inner, dict) else outer
+
+
 def transform_record(record):
     """
     Maps one raw aljex_records row (as returned by /records/loads) into this
@@ -186,7 +202,7 @@ def transform_record(record):
     and a load record without either is malformed rather than something to
     guess values for.
     """
-    data = record.get("data") or {}
+    data = _load_fields(record)
 
     pro = data.get("id")
     status = data.get("status")
