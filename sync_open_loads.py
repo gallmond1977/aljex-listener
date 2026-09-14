@@ -340,6 +340,18 @@ def select_rows(records):
             continue
         open_rows.append(r)
 
+    missing_rate = [str(r["pro"]) for r in open_rows if r["carrier_rate"] is None]
+    if open_rows:
+        shown = ", ".join(missing_rate[:20])
+        if len(missing_rate) > 20:
+            shown += f", +{len(missing_rate) - 20} more"
+        log.info(
+            "OPEN loads missing carrier_rate: %d/%d (%s)",
+            len(missing_rate),
+            len(open_rows),
+            shown or "none",
+        )
+
     open_lanes = {r["lane"].casefold() for r in open_rows if r["pu_city"] and r["del_city"]}
 
     cutoff = datetime.now(timezone.utc) - timedelta(days=RECENT_LANE_DAYS)
