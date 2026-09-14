@@ -936,7 +936,7 @@
   },
   {
     "pro": "50404",
-    "status": "PICKUP",
+    "status": "LOADED",
     "pu_date": "2026-09-14",
     "pu_city": "LA PORTE",
     "pu_state": "TX",
@@ -948,7 +948,7 @@
     "equipment": "Van",
     "weight_lbs": 41328,
     "carrier_rate": 2800,
-    "updated_at": "2026-09-14T17:29:12.868506+00:00",
+    "updated_at": "2026-09-14T18:17:30.981008+00:00",
     "lane": "LA PORTE TX-GREENVILLE SC"
   },
   {
