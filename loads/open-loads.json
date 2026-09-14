@@ -227,14 +227,14 @@
     "pu_city": "HOUSTON",
     "pu_state": "TX",
     "pu_hours": "1200",
-    "del_date": "2026-09-11",
+    "del_date": "2026-09-21",
     "del_city": "SANFORD",
     "del_state": "FL",
     "del_hours": "1100",
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 7000,
     "carrier_rate": 1800,
-    "updated_at": "2026-09-14T19:39:48.652190+00:00",
+    "updated_at": "2026-09-14T19:40:47.113776+00:00",
     "lane": "HOUSTON TX-SANFORD FL"
   },
   {
