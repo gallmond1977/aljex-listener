@@ -391,6 +391,23 @@
     "lane": "RICHMOND VA-RICHMOND VA"
   },
   {
+    "pro": "50454",
+    "status": "OPEN",
+    "pu_date": "2026-09-28",
+    "pu_city": "MEDLEY",
+    "pu_state": "FL",
+    "pu_hours": "NEEDED",
+    "del_date": "",
+    "del_city": "CHARLOTTE",
+    "del_state": "NC",
+    "del_hours": "APPT ONLY",
+    "equipment": "Flatbed",
+    "weight_lbs": 48000,
+    "carrier_rate": 1500,
+    "updated_at": "2026-09-14T15:54:26.951289+00:00",
+    "lane": "MEDLEY FL-CHARLOTTE NC"
+  },
+  {
     "pro": "50405",
     "status": "OPEN",
     "pu_date": "2026-09-30",
@@ -778,7 +795,7 @@
     "equipment": "Van",
     "weight_lbs": 34000,
     "carrier_rate": 600,
-    "updated_at": "2026-09-14T15:49:43.879454+00:00",
+    "updated_at": "2026-09-14T15:53:48.561687+00:00",
     "lane": "MACON GA-CALHOUN GA"
   },
   {
