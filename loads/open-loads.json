@@ -51,6 +51,23 @@
     "lane": "ORLANDO FL-ATLANTA GA"
   },
   {
+    "pro": "50456",
+    "status": "OPEN",
+    "pu_date": "2026-09-14",
+    "pu_city": "CALHOUN",
+    "pu_state": "GA",
+    "pu_hours": "0730-1500",
+    "del_date": "2026-09-15",
+    "del_city": "TAYLORVILLE",
+    "del_state": "IL",
+    "del_hours": "0700-1400",
+    "equipment": "Van",
+    "weight_lbs": 44700,
+    "carrier_rate": 1500,
+    "updated_at": "2026-09-14T16:24:39.858256+00:00",
+    "lane": "CALHOUN GA-TAYLORVILLE IL"
+  },
+  {
     "pro": "50328",
     "status": "OPEN",
     "pu_date": "2026-09-15",
