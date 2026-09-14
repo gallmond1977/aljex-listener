@@ -136,6 +136,23 @@
     "lane": "WINCHESTER KY-ROME GA"
   },
   {
+    "pro": "50468",
+    "status": "OPEN",
+    "pu_date": "2026-09-15",
+    "pu_city": "ATLANTA",
+    "pu_state": "GA",
+    "pu_hours": "0900-1100",
+    "del_date": "2026-09-15",
+    "del_city": "CARTERSVILLE",
+    "del_state": "GA",
+    "del_hours": "0800-1500",
+    "equipment": "Flatbed Hot Shot",
+    "weight_lbs": 9000,
+    "carrier_rate": null,
+    "updated_at": "2026-09-14T20:04:18.471725+00:00",
+    "lane": "ATLANTA GA-CARTERSVILLE GA"
+  },
+  {
     "pro": "50422",
     "status": "OPEN",
     "pu_date": "2026-09-16",
@@ -149,7 +166,7 @@
     "equipment": "Van",
     "weight_lbs": 44990,
     "carrier_rate": 2300,
-    "updated_at": "2026-09-14T19:58:42.693466+00:00",
+    "updated_at": "2026-09-14T20:04:27.696461+00:00",
     "lane": "GREEN RIVER WY-SAN ANTONIO TX"
   },
   {
@@ -814,6 +831,23 @@
     "carrier_rate": 1000,
     "updated_at": "2026-09-09T15:47:37.871897+00:00",
     "lane": "CUMMING GA-CANON GA"
+  },
+  {
+    "pro": "50375",
+    "status": "RELEASED",
+    "pu_date": "2026-09-09",
+    "pu_city": "ATLANTA",
+    "pu_state": "GA",
+    "pu_hours": "0900-1100",
+    "del_date": "2026-09-09",
+    "del_city": "CARTERSVILLE",
+    "del_state": "GA",
+    "del_hours": "0800-1500",
+    "equipment": "Flatbed Hot Shot",
+    "weight_lbs": 9000,
+    "carrier_rate": 450,
+    "updated_at": "2026-09-11T11:50:26.056328+00:00",
+    "lane": "ATLANTA GA-CARTERSVILLE GA"
   },
   {
     "pro": "50182",
