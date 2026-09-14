@@ -149,7 +149,7 @@
     "equipment": "Flatbed Hot Shot",
     "weight_lbs": 4547,
     "carrier_rate": 400,
-    "updated_at": "2026-09-14T20:09:52.190389+00:00",
+    "updated_at": "2026-09-14T20:18:12.084196+00:00",
     "lane": "ATLANTA GA-CARTERSVILLE GA"
   },
   {
@@ -506,7 +506,7 @@
     "equipment": "Flatbed",
     "weight_lbs": 48000,
     "carrier_rate": null,
-    "updated_at": "2026-09-14T20:14:18.777193+00:00",
+    "updated_at": "2026-09-14T20:16:24.276900+00:00",
     "lane": "MIAMI FL-LITHONIA GA"
   },
   {
