@@ -187,21 +187,21 @@
     "lane": "CUMMING GA-CANON GA"
   },
   {
-    "pro": "50461",
+    "pro": "50462",
     "status": "OPEN",
     "pu_date": "2026-09-15",
-    "pu_city": "AXIS",
-    "pu_state": "AL",
-    "pu_hours": "1400",
-    "del_date": "2026-09-16",
-    "del_city": "LINCOLNTON",
-    "del_state": "NC",
-    "del_hours": "0800-1200",
-    "equipment": "Flatbed Hot Shot",
-    "weight_lbs": 16261,
-    "carrier_rate": 1200,
-    "updated_at": "2026-09-14T18:46:21.336702+00:00",
-    "lane": "AXIS AL-LINCOLNTON NC"
+    "pu_city": "SAVANNAH",
+    "pu_state": "GA",
+    "pu_hours": "0800-1400",
+    "del_date": "2026-09-15",
+    "del_city": "SPARTANBURG",
+    "del_state": "SC",
+    "del_hours": "0800-1600",
+    "equipment": "Sprinter Van",
+    "weight_lbs": 350,
+    "carrier_rate": 450,
+    "updated_at": "2026-09-14T18:54:44.704420+00:00",
+    "lane": "SAVANNAH GA-SPARTANBURG SC"
   },
   {
     "pro": "50422",
@@ -236,6 +236,23 @@
     "carrier_rate": 5000,
     "updated_at": "2026-09-14T16:46:31.835885+00:00",
     "lane": "ALPHARETTA GA-AMARILLO TX"
+  },
+  {
+    "pro": "50461",
+    "status": "OPEN",
+    "pu_date": "2026-09-17",
+    "pu_city": "AXIS",
+    "pu_state": "AL",
+    "pu_hours": "",
+    "del_date": "2026-09-18",
+    "del_city": "LINCOLNTON",
+    "del_state": "NC",
+    "del_hours": "0800-1200",
+    "equipment": "Flatbed w/ Tarps",
+    "weight_lbs": 16261,
+    "carrier_rate": 2400,
+    "updated_at": "2026-09-14T18:55:00.612515+00:00",
+    "lane": "AXIS AL-LINCOLNTON NC"
   },
   {
     "pro": "50434",
