@@ -30,7 +30,7 @@
     "equipment": "Van",
     "weight_lbs": 25000,
     "carrier_rate": 800,
-    "updated_at": "2026-09-14T16:09:14.182627+00:00",
+    "updated_at": "2026-09-14T18:44:36.815707+00:00",
     "lane": "ORLANDO FL-ATLANTA GA"
   },
   {
@@ -124,7 +124,7 @@
     "pu_date": "2026-09-15",
     "pu_city": "COLUMBUS",
     "pu_state": "GA",
-    "pu_hours": "CALL",
+    "pu_hours": "0800-1100",
     "del_date": "2026-09-15",
     "del_city": "JACKSONVILLE",
     "del_state": "FL",
@@ -132,7 +132,7 @@
     "equipment": "Reefer",
     "weight_lbs": 36500,
     "carrier_rate": 1200,
-    "updated_at": "2026-09-14T16:38:56.332149+00:00",
+    "updated_at": "2026-09-14T18:44:40.585082+00:00",
     "lane": "COLUMBUS GA-JACKSONVILLE FL"
   },
   {
@@ -185,6 +185,23 @@
     "carrier_rate": 900,
     "updated_at": "2026-09-14T18:14:24.035885+00:00",
     "lane": "CUMMING GA-CANON GA"
+  },
+  {
+    "pro": "50461",
+    "status": "OPEN",
+    "pu_date": "2026-09-15",
+    "pu_city": "AXIS",
+    "pu_state": "AL",
+    "pu_hours": "1400",
+    "del_date": "2026-09-16",
+    "del_city": "LINCOLNTON",
+    "del_state": "NC",
+    "del_hours": "0800-1200",
+    "equipment": "Flatbed Hot Shot",
+    "weight_lbs": 16261,
+    "carrier_rate": null,
+    "updated_at": "2026-09-14T18:43:06.013338+00:00",
+    "lane": "AXIS AL-LINCOLNTON NC"
   },
   {
     "pro": "50422",
