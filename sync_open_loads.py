@@ -9,11 +9,15 @@ workflow) a small, fast, always-current JSON snapshot of open freight it can
 read without hitting Aljex or Claude itself.
 
 What it does, each run:
-1. Reads every "loads" record already synced into this repo's own
-   aljex-listener service (Aljex pushes updates there in real time via its
-   Live Sync webhook - see app.py's /aljex-webhook - so this is already
-   "live" Aljex data, just one hop away instead of a second direct Aljex
-   integration).
+1. Reads "loads" records already synced into this repo's own aljex-listener
+   service (Aljex pushes updates there in real time via its Live Sync
+   webhook - see app.py's /aljex-webhook - so this is already "live" Aljex
+   data, just one hop away instead of a second direct Aljex integration).
+   Fetches two bounded slices - every currently-OPEN load, plus everything
+   touched in the last RECENT_LANE_DAYS days - via app.py's ?status= and
+   ?since= filters, instead of the whole table's history in one call (see
+   fetch_load_records()'s own comment for why that used to 502 the
+   listener).
 2. Picks: OPEN loads with a pickup_date today or later (no backward
    lookback - a stale OPEN record with a past pickup date is bad data, not
    something to surface), plus any other-status load from the last
@@ -144,19 +148,51 @@ PLACEHOLDER_EQUIPMENT_CODES = {"QUOT", "SAME", "TORD", "STOR"}
 
 # ---------------------------------------------------------------------
 # Fetch from the aljex-listener service (already-live Aljex data)
+#
+# This used to be a single GET .../records/loads?limit=all - every record
+# the loads table has ever held, years of bulk-imported history included.
+# That grew large enough to 502 the listener outright (its own request
+# timing out before it could finish serializing/sending the response), so
+# app.py's /records/<table_name> route now supports ?status= and ?since=
+# filters (see its docstring) and this fetches only what's actually needed:
+# every currently-OPEN load (no date bound - an OPEN load can go untouched
+# for a while and still be real), plus everything touched in the last
+# RECENT_LANE_DAYS days (covers the same-lane history piece). Both requests
+# stay small regardless of how much older history the table accumulates.
 # ---------------------------------------------------------------------
-def fetch_load_records():
+def _get_records(table="loads", status=None, since=None):
     if not (SYNC_USERNAME and SYNC_PASSWORD):
         raise RuntimeError("SYNC_USERNAME and SYNC_PASSWORD must both be set.")
 
+    params = {}
+    if status:
+        params["status"] = status
+    if since:
+        params["since"] = since
+
     resp = requests.get(
-        f"{ALJEX_LISTENER_URL}/records/loads",
-        params={"limit": "all"},
+        f"{ALJEX_LISTENER_URL}/records/{table}",
+        params=params,
         auth=(SYNC_USERNAME, SYNC_PASSWORD),
         timeout=30,
     )
     resp.raise_for_status()
     return resp.json()
+
+
+def fetch_load_records():
+    open_records = _get_records(status=OPEN_LOADS_STATUS)
+
+    cutoff = (datetime.now(timezone.utc) - timedelta(days=RECENT_LANE_DAYS)).isoformat()
+    recent_records = _get_records(since=cutoff)
+
+    # The same load can legitimately show up in both calls (a currently-OPEN
+    # load that was also touched recently) - dedupe by record_id so it isn't
+    # transformed/output twice.
+    by_record_id = {}
+    for r in open_records + recent_records:
+        by_record_id[r.get("record_id")] = r
+    return list(by_record_id.values())
 
 
 # ---------------------------------------------------------------------

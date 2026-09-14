@@ -283,6 +283,18 @@ def aljex_webhook():
     return jsonify({"status": "ok", "table": table_name, "action": action}), 200
 
 
+def _record_status(data):
+    """
+    Reads a load record's status field for server-side ?status= filtering.
+    Some records (bulk-imported ones) carry their fields one level deeper,
+    under a nested "data" key inside what's already returned as "data" -
+    same shape sync_open_loads.py's _load_fields() handles on the consumer
+    side - so both are checked here rather than assuming one.
+    """
+    inner = data.get("data") if isinstance(data.get("data"), dict) else None
+    return str((inner or data).get("status", "")).strip().upper()
+
+
 @app.route("/records/<table_name>", methods=["GET"])
 @requires_auth
 def view_records(table_name):
@@ -290,37 +302,77 @@ def view_records(table_name):
     A simple way to peek at what's been stored for a given table,
     e.g. /records/loads or /records/customers
 
-    By default returns the most recent 100 records. Add ?limit=all
-    to the URL to get every record for that table instead (used by
-    the rep view, since it needs the full customer/salesrep list,
-    not just the most recent ones).
+    By default returns the most recent 100 records. Add ?limit=all to the
+    URL to get every record for that table instead (used by the rep view,
+    since it needs the full customer/salesrep list, not just the most
+    recent ones).
+
+    Two optional filters keep a large table (loads has years of
+    bulk-imported history) from having to be returned in full on every
+    call - both were added because a "give me everything" caller
+    (sync_open_loads.py's every-few-minutes cron job) was 502ing this
+    service by asking for the whole history each time:
+      ?status=OPEN            - only records whose status is in this
+                                 comma-separated list (case-insensitive).
+                                 Ignores the default/explicit numeric
+                                 limit and returns every match, same as
+                                 limit=all, since a status filter without
+                                 that would silently truncate to whatever
+                                 the 100 most recently-touched rows happen
+                                 to be rather than every actual match.
+      ?since=2026-09-01T00:00:00+00:00
+                               - only records whose received_at is on or
+                                 after this ISO timestamp (plain string
+                                 comparison against the column, which is
+                                 always stored in isoformat - safe since
+                                 that sorts the same as chronological
+                                 order). Also implies "all" for the same
+                                 reason as ?status.
+    Both can be combined; either can be combined with plain ?limit=all.
     """
     limit_param = request.args.get("limit", "100")
+    status_param = request.args.get("status")
+    since_param = request.args.get("since")
+
+    status_list = None
+    if status_param:
+        status_list = {s.strip().upper() for s in status_param.split(",") if s.strip()}
+
+    where_clauses = ["table_name = ?"]
+    params = [table_name]
+    if since_param:
+        where_clauses.append("received_at >= ?")
+        params.append(since_param)
+    where_sql = " AND ".join(where_clauses)
 
     conn = get_db()
-    if limit_param == "all":
+    if limit_param == "all" or status_list or since_param:
         rows = conn.execute(
-            "SELECT record_id, action, data_json, received_at FROM aljex_records WHERE table_name = ? ORDER BY received_at DESC",
-            (table_name,),
+            f"SELECT record_id, action, data_json, received_at FROM aljex_records WHERE {where_sql} ORDER BY received_at DESC",
+            params,
         ).fetchall()
     else:
         rows = conn.execute(
-            "SELECT record_id, action, data_json, received_at FROM aljex_records WHERE table_name = ? ORDER BY received_at DESC LIMIT 100",
-            (table_name,),
+            f"SELECT record_id, action, data_json, received_at FROM aljex_records WHERE {where_sql} ORDER BY received_at DESC LIMIT 100",
+            params,
         ).fetchall()
     conn.close()
 
     import json
 
-    results = [
-        {
-            "record_id": r["record_id"],
-            "action": r["action"],
-            "data": json.loads(r["data_json"]),
-            "received_at": r["received_at"],
-        }
-        for r in rows
-    ]
+    results = []
+    for r in rows:
+        data = json.loads(r["data_json"])
+        if status_list and _record_status(data) not in status_list:
+            continue
+        results.append(
+            {
+                "record_id": r["record_id"],
+                "action": r["action"],
+                "data": data,
+                "received_at": r["received_at"],
+            }
+        )
     return jsonify(results)
 
 
