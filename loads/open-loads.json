@@ -119,23 +119,6 @@
     "lane": "COLUMBUS GA-JACKSONVILLE FL"
   },
   {
-    "pro": "50448",
-    "status": "OPEN",
-    "pu_date": "2026-09-15",
-    "pu_city": "OPELIKA",
-    "pu_state": "AL",
-    "pu_hours": "0800-1500",
-    "del_date": "2026-09-15",
-    "del_city": "COLUMBUS",
-    "del_state": "GA",
-    "del_hours": "0800-1600",
-    "equipment": "Flatbed",
-    "weight_lbs": 45000,
-    "carrier_rate": 500,
-    "updated_at": "2026-09-14T17:33:19.325606+00:00",
-    "lane": "OPELIKA AL-COLUMBUS GA"
-  },
-  {
     "pro": "50449",
     "status": "OPEN",
     "pu_date": "2026-09-15",
@@ -148,8 +131,8 @@
     "del_hours": "0800-1600",
     "equipment": "Flatbed",
     "weight_lbs": 45000,
-    "carrier_rate": null,
-    "updated_at": "2026-09-14T13:37:38.986829+00:00",
+    "carrier_rate": 500,
+    "updated_at": "2026-09-14T19:12:09.918411+00:00",
     "lane": "OPELIKA AL-WEST POINT GA"
   },
   {
@@ -953,7 +936,7 @@
   },
   {
     "pro": "50414",
-    "status": "PICKUP",
+    "status": "LOADED",
     "pu_date": "2026-09-14",
     "pu_city": "ALPHARETTA",
     "pu_state": "GA",
@@ -965,7 +948,7 @@
     "equipment": "Flatbed w/ Tarps",
     "weight_lbs": 42000,
     "carrier_rate": 5000,
-    "updated_at": "2026-09-14T17:28:36.923832+00:00",
+    "updated_at": "2026-09-14T19:13:40.662228+00:00",
     "lane": "ALPHARETTA GA-AMARILLO TX"
   },
   {
