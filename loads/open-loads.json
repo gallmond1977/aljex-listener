@@ -931,7 +931,7 @@
     "equipment": "Van",
     "weight_lbs": 41328,
     "carrier_rate": 2800,
-    "updated_at": "2026-09-14T16:13:26.962399+00:00",
+    "updated_at": "2026-09-14T16:55:09.063289+00:00",
     "lane": "LA PORTE TX-GREENVILLE SC"
   },
   {
@@ -950,23 +950,6 @@
     "carrier_rate": 5000,
     "updated_at": "2026-09-14T14:00:35.042218+00:00",
     "lane": "ALPHARETTA GA-AMARILLO TX"
-  },
-  {
-    "pro": "50444",
-    "status": "COVERED",
-    "pu_date": "2026-09-14",
-    "pu_city": "MACON",
-    "pu_state": "GA",
-    "pu_hours": "0800-1530",
-    "del_date": "2026-09-15",
-    "del_city": "CALHOUN",
-    "del_state": "GA",
-    "del_hours": "0700-1500",
-    "equipment": "Van",
-    "weight_lbs": 34000,
-    "carrier_rate": 650,
-    "updated_at": "2026-09-14T16:52:21.083916+00:00",
-    "lane": "MACON GA-CALHOUN GA"
   },
   {
     "pro": "50446",
@@ -1001,5 +984,22 @@
     "carrier_rate": 1500,
     "updated_at": "2026-09-11T20:16:00.131130+00:00",
     "lane": "ATHENS AL-GULFPORT MS"
+  },
+  {
+    "pro": "50444",
+    "status": "COVERED",
+    "pu_date": "2026-09-15",
+    "pu_city": "MACON",
+    "pu_state": "GA",
+    "pu_hours": "0800-1530",
+    "del_date": "2026-09-15",
+    "del_city": "CALHOUN",
+    "del_state": "GA",
+    "del_hours": "0700-1500",
+    "equipment": "Van",
+    "weight_lbs": 34000,
+    "carrier_rate": 650,
+    "updated_at": "2026-09-14T16:58:19.060053+00:00",
+    "lane": "MACON GA-CALHOUN GA"
   }
 ]
