@@ -81,7 +81,7 @@
     "equipment": "Reefer",
     "weight_lbs": 36500,
     "carrier_rate": 1500,
-    "updated_at": "2026-09-14T19:07:08.773725+00:00",
+    "updated_at": "2026-09-14T20:07:59.499118+00:00",
     "lane": "COLUMBUS GA-JACKSONVILLE FL"
   },
   {
@@ -147,10 +147,27 @@
     "del_state": "GA",
     "del_hours": "0800-1500",
     "equipment": "Flatbed Hot Shot",
-    "weight_lbs": 9000,
-    "carrier_rate": null,
-    "updated_at": "2026-09-14T20:04:18.471725+00:00",
+    "weight_lbs": 4547,
+    "carrier_rate": 400,
+    "updated_at": "2026-09-14T20:09:52.190389+00:00",
     "lane": "ATLANTA GA-CARTERSVILLE GA"
+  },
+  {
+    "pro": "50469",
+    "status": "OPEN",
+    "pu_date": "2026-09-15",
+    "pu_city": "ATLANTA",
+    "pu_state": "GA",
+    "pu_hours": "0900-1100",
+    "del_date": "2026-09-15",
+    "del_city": "CANTON",
+    "del_state": "GA",
+    "del_hours": "0700-1600",
+    "equipment": "Flatbed Hot Shot",
+    "weight_lbs": 9970,
+    "carrier_rate": 350,
+    "updated_at": "2026-09-14T20:09:46.952115+00:00",
+    "lane": "ATLANTA GA-CANTON GA"
   },
   {
     "pro": "50422",
@@ -506,7 +523,7 @@
     "equipment": "Flatbed",
     "weight_lbs": 48000,
     "carrier_rate": null,
-    "updated_at": "2026-09-14T19:51:19.541315+00:00",
+    "updated_at": "2026-09-14T20:05:56.889439+00:00",
     "lane": "MIAMI FL-LITHONIA GA"
   },
   {
