@@ -13,7 +13,7 @@
     "equipment": "Van",
     "weight_lbs": 34000,
     "carrier_rate": 600,
-    "updated_at": "2026-09-14T12:28:15.482553+00:00",
+    "updated_at": "2026-09-14T19:19:29.357165+00:00",
     "lane": "MACON GA-CALHOUN GA"
   },
   {
@@ -117,23 +117,6 @@
     "carrier_rate": 1500,
     "updated_at": "2026-09-14T19:07:08.773725+00:00",
     "lane": "COLUMBUS GA-JACKSONVILLE FL"
-  },
-  {
-    "pro": "50449",
-    "status": "OPEN",
-    "pu_date": "2026-09-15",
-    "pu_city": "OPELIKA",
-    "pu_state": "AL",
-    "pu_hours": "0800-1500",
-    "del_date": "2026-09-15",
-    "del_city": "WEST POINT",
-    "del_state": "GA",
-    "del_hours": "0800-1600",
-    "equipment": "Flatbed",
-    "weight_lbs": 45000,
-    "carrier_rate": 500,
-    "updated_at": "2026-09-14T19:12:09.918411+00:00",
-    "lane": "OPELIKA AL-WEST POINT GA"
   },
   {
     "pro": "50460",
