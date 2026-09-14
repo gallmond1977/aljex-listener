@@ -192,7 +192,7 @@
     "pu_date": "2026-09-15",
     "pu_city": "APPLING",
     "pu_state": "GA",
-    "pu_hours": "",
+    "pu_hours": "0800-1200",
     "del_date": "2026-09-15",
     "del_city": "COLUMBUS",
     "del_state": "GA",
@@ -200,7 +200,7 @@
     "equipment": "Flatbed Hot Shot",
     "weight_lbs": 5800,
     "carrier_rate": 800,
-    "updated_at": "2026-09-14T16:44:39.476209+00:00",
+    "updated_at": "2026-09-14T16:54:11.536088+00:00",
     "lane": "APPLING GA-COLUMBUS GA"
   },
   {
@@ -965,7 +965,7 @@
     "equipment": "Van",
     "weight_lbs": 34000,
     "carrier_rate": 650,
-    "updated_at": "2026-09-14T16:18:07.983510+00:00",
+    "updated_at": "2026-09-14T16:52:21.083916+00:00",
     "lane": "MACON GA-CALHOUN GA"
   },
   {
@@ -982,7 +982,7 @@
     "equipment": "Van",
     "weight_lbs": 34000,
     "carrier_rate": 600,
-    "updated_at": "2026-09-14T15:53:48.561687+00:00",
+    "updated_at": "2026-09-14T16:54:45.780043+00:00",
     "lane": "MACON GA-CALHOUN GA"
   },
   {
