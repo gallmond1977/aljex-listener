@@ -1,22 +1,5 @@
 [
   {
-    "pro": "50440",
-    "status": "OPEN",
-    "pu_date": "2026-09-15",
-    "pu_city": "COLUMBUS",
-    "pu_state": "GA",
-    "pu_hours": "0800-1600",
-    "del_date": "2026-09-16",
-    "del_city": "JACKSONVILLE",
-    "del_state": "FL",
-    "del_hours": "1700",
-    "equipment": "Reefer",
-    "weight_lbs": 36500,
-    "carrier_rate": 2300,
-    "updated_at": "2026-09-15T16:56:18.861378+00:00",
-    "lane": "COLUMBUS GA-JACKSONVILLE FL"
-  },
-  {
     "pro": "50479",
     "status": "OPEN",
     "pu_date": "2026-09-15",
