@@ -999,7 +999,7 @@
     "equipment": "Van",
     "weight_lbs": 43624,
     "carrier_rate": 1500,
-    "updated_at": "2026-09-15T12:23:55.495461+00:00",
+    "updated_at": "2026-09-15T12:51:49.242275+00:00",
     "lane": "ATHENS AL-GULFPORT MS"
   },
   {
@@ -1016,7 +1016,7 @@
     "equipment": "Van",
     "weight_lbs": 34000,
     "carrier_rate": 650,
-    "updated_at": "2026-09-15T12:33:30.818438+00:00",
+    "updated_at": "2026-09-15T12:52:08.572447+00:00",
     "lane": "MACON GA-CALHOUN GA"
   },
   {
