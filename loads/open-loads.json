@@ -5,15 +5,15 @@
     "pu_date": "2026-09-15",
     "pu_city": "WINCHESTER",
     "pu_state": "KY",
-    "pu_hours": "AD REQ",
+    "pu_hours": "0800-1500",
     "del_date": "2026-09-17",
     "del_city": "AURORA",
     "del_state": "CO",
     "del_hours": "0200",
     "equipment": "Van",
     "weight_lbs": 8551,
-    "carrier_rate": 4000,
-    "updated_at": "2026-09-15T13:18:33.732360+00:00",
+    "carrier_rate": 4300,
+    "updated_at": "2026-09-15T15:23:19.935156+00:00",
     "lane": "WINCHESTER KY-AURORA CO"
   },
   {
@@ -98,7 +98,7 @@
     "equipment": "Van",
     "weight_lbs": 44000,
     "carrier_rate": 900,
-    "updated_at": "2026-09-15T14:22:29.452660+00:00",
+    "updated_at": "2026-09-15T15:21:35.691713+00:00",
     "lane": "MONCURE NC-ATLANTA GA"
   },
   {
