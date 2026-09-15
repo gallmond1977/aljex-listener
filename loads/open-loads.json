@@ -43,11 +43,11 @@
     "del_date": "2026-09-16",
     "del_city": "GREENVILLE",
     "del_state": "NC",
-    "del_hours": "",
+    "del_hours": "0730-0900",
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 5000,
     "carrier_rate": null,
-    "updated_at": "2026-09-15T17:29:55.099127+00:00",
+    "updated_at": "2026-09-15T17:34:36.180791+00:00",
     "lane": "SPARTANBURG SC-GREENVILLE NC"
   },
   {
@@ -185,6 +185,23 @@
     "carrier_rate": 300,
     "updated_at": "2026-09-15T16:16:53.428432+00:00",
     "lane": "RICHMOND VA-DELTAVILLE VA"
+  },
+  {
+    "pro": "50497",
+    "status": "OPEN",
+    "pu_date": "2026-09-16",
+    "pu_city": "SAVANNAH",
+    "pu_state": "GA",
+    "pu_hours": "0800-1400",
+    "del_date": "2026-09-17",
+    "del_city": "DUBLIN",
+    "del_state": "GA",
+    "del_hours": "0800",
+    "equipment": "Flatbed w/ Tarps",
+    "weight_lbs": 48000,
+    "carrier_rate": null,
+    "updated_at": "2026-09-15T17:34:17.864157+00:00",
+    "lane": "SAVANNAH GA-DUBLIN GA"
   },
   {
     "pro": "50472",
@@ -610,6 +627,23 @@
     "carrier_rate": 1550,
     "updated_at": "2026-09-10T11:42:46.066029+00:00",
     "lane": "ATHENS AL-GULFPORT MS"
+  },
+  {
+    "pro": "50205",
+    "status": "RELEASED",
+    "pu_date": "2026-09-01",
+    "pu_city": "SAVANNAH",
+    "pu_state": "GA",
+    "pu_hours": "0800-1100",
+    "del_date": "2026-09-01",
+    "del_city": "DUBLIN",
+    "del_state": "GA",
+    "del_hours": "0800-1430",
+    "equipment": "Flatbed w/ Tarps",
+    "weight_lbs": 48000,
+    "carrier_rate": 900,
+    "updated_at": "2026-09-09T15:10:01.879715+00:00",
+    "lane": "SAVANNAH GA-DUBLIN GA"
   },
   {
     "pro": "50252",
