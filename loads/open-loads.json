@@ -1,22 +1,5 @@
 [
   {
-    "pro": "50481",
-    "status": "OPEN",
-    "pu_date": "2026-09-15",
-    "pu_city": "WINCHESTER",
-    "pu_state": "KY",
-    "pu_hours": "0800-1500",
-    "del_date": "2026-09-16",
-    "del_city": "JOLIET",
-    "del_state": "IL",
-    "del_hours": "1800",
-    "equipment": "Van",
-    "weight_lbs": 12480,
-    "carrier_rate": 1100,
-    "updated_at": "2026-09-15T16:06:47.393821+00:00",
-    "lane": "WINCHESTER KY-JOLIET IL"
-  },
-  {
     "pro": "50482",
     "status": "OPEN",
     "pu_date": "2026-09-15",
@@ -134,6 +117,23 @@
     "carrier_rate": 300,
     "updated_at": "2026-09-15T16:16:53.428432+00:00",
     "lane": "RICHMOND VA-DELTAVILLE VA"
+  },
+  {
+    "pro": "50481",
+    "status": "OPEN",
+    "pu_date": "2026-09-16",
+    "pu_city": "WINCHESTER",
+    "pu_state": "KY",
+    "pu_hours": "0800-1500",
+    "del_date": "2026-09-16",
+    "del_city": "JOLIET",
+    "del_state": "IL",
+    "del_hours": "1800",
+    "equipment": "Van",
+    "weight_lbs": 12480,
+    "carrier_rate": 1100,
+    "updated_at": "2026-09-15T18:59:20.002913+00:00",
+    "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
     "pro": "50497",
