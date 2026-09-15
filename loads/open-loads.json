@@ -64,7 +64,7 @@
     "equipment": "Flatbed w/ Tarps",
     "weight_lbs": 16261,
     "carrier_rate": 2200,
-    "updated_at": "2026-09-15T13:25:03.896869+00:00",
+    "updated_at": "2026-09-15T13:36:26.187593+00:00",
     "lane": "CLEVELAND OH-LINCOLNTON NC"
   },
   {
@@ -363,14 +363,14 @@
     "pu_city": "EL DORADO",
     "pu_state": "AR",
     "pu_hours": "0700-1500",
-    "del_date": "",
+    "del_date": "2026-09-22",
     "del_city": "CALHOUN",
     "del_state": "GA",
     "del_hours": "0730-1430",
     "equipment": "Van",
     "weight_lbs": 43006,
     "carrier_rate": 2000,
-    "updated_at": "2026-09-15T13:33:49.491000+00:00",
+    "updated_at": "2026-09-15T13:39:55.661377+00:00",
     "lane": "EL DORADO AR-CALHOUN GA"
   },
   {
@@ -948,7 +948,7 @@
     "equipment": "Van",
     "weight_lbs": 41328,
     "carrier_rate": 2800,
-    "updated_at": "2026-09-14T18:17:30.981008+00:00",
+    "updated_at": "2026-09-15T13:39:15.338778+00:00",
     "lane": "LA PORTE TX-GREENVILLE SC"
   },
   {
