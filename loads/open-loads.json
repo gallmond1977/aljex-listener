@@ -149,7 +149,7 @@
     "equipment": "Van",
     "weight_lbs": 38900,
     "carrier_rate": 900,
-    "updated_at": "2026-09-15T18:17:34.722259+00:00",
+    "updated_at": "2026-09-15T18:20:31.715634+00:00",
     "lane": "SAVANNAH GA-DUBLIN GA"
   },
   {
@@ -1101,7 +1101,7 @@
     "equipment": "Van",
     "weight_lbs": 12480,
     "carrier_rate": 1200,
-    "updated_at": "2026-09-15T18:15:18.533105+00:00",
+    "updated_at": "2026-09-15T18:24:53.556412+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
   }
 ]
