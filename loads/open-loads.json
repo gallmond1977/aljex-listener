@@ -12,8 +12,8 @@
     "del_hours": "0800-1600",
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 1100,
-    "carrier_rate": 900,
-    "updated_at": "2026-09-15T14:05:59.840738+00:00",
+    "carrier_rate": 1000,
+    "updated_at": "2026-09-15T14:28:30.140318+00:00",
     "lane": "JACKSONVILLE FL-DUNCANSVILLE PA"
   },
   {
@@ -117,6 +117,23 @@
     "carrier_rate": 900,
     "updated_at": "2026-09-15T14:22:29.452660+00:00",
     "lane": "MONCURE NC-ATLANTA GA"
+  },
+  {
+    "pro": "50483",
+    "status": "OPEN",
+    "pu_date": "2026-09-15",
+    "pu_city": "OAKLAND",
+    "pu_state": "TN",
+    "pu_hours": "0800-1400",
+    "del_date": "2026-09-16",
+    "del_city": "MONTICELLO",
+    "del_state": "IL",
+    "del_hours": "0900",
+    "equipment": "Van Hazmat",
+    "weight_lbs": 44900,
+    "carrier_rate": 1800,
+    "updated_at": "2026-09-15T14:28:34.349487+00:00",
+    "lane": "OAKLAND TN-MONTICELLO IL"
   },
   {
     "pro": "50328",
@@ -421,7 +438,7 @@
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 8000,
     "carrier_rate": null,
-    "updated_at": "2026-09-15T14:24:42.445546+00:00",
+    "updated_at": "2026-09-15T14:27:52.329453+00:00",
     "lane": "ANNISTON AL-CRESTWOOD KY"
   },
   {
