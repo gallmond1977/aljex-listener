@@ -221,23 +221,6 @@
     "lane": "RICHMOND VA-KESWICK VA"
   },
   {
-    "pro": "50472",
-    "status": "OPEN",
-    "pu_date": "2026-09-16",
-    "pu_city": "MACON",
-    "pu_state": "GA",
-    "pu_hours": "0800-1530",
-    "del_date": "2026-09-17",
-    "del_city": "CALHOUN",
-    "del_state": "GA",
-    "del_hours": "0700-1500",
-    "equipment": "Van",
-    "weight_lbs": 34000,
-    "carrier_rate": 600,
-    "updated_at": "2026-09-15T12:16:23.880692+00:00",
-    "lane": "MACON GA-CALHOUN GA"
-  },
-  {
     "pro": "50474",
     "status": "OPEN",
     "pu_date": "2026-09-16",
@@ -270,6 +253,23 @@
     "carrier_rate": 300,
     "updated_at": "2026-09-15T14:02:52.543705+00:00",
     "lane": "RICHMOND VA-DELTAVILLE VA"
+  },
+  {
+    "pro": "50472",
+    "status": "OPEN",
+    "pu_date": "2026-09-17",
+    "pu_city": "MACON",
+    "pu_state": "GA",
+    "pu_hours": "0800-1530",
+    "del_date": "2026-09-18",
+    "del_city": "CALHOUN",
+    "del_state": "GA",
+    "del_hours": "0700-1500",
+    "equipment": "Van",
+    "weight_lbs": 34000,
+    "carrier_rate": 600,
+    "updated_at": "2026-09-15T15:04:33.676037+00:00",
+    "lane": "MACON GA-CALHOUN GA"
   },
   {
     "pro": "50434",
@@ -1067,7 +1067,7 @@
     "equipment": "Van",
     "weight_lbs": 43624,
     "carrier_rate": 1500,
-    "updated_at": "2026-09-15T13:53:58.778175+00:00",
+    "updated_at": "2026-09-15T15:01:18.438634+00:00",
     "lane": "ATHENS AL-GULFPORT MS"
   },
   {
