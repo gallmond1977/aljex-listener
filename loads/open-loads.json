@@ -34,6 +34,23 @@
     "lane": "MONCURE NC-ATLANTA GA"
   },
   {
+    "pro": "50496",
+    "status": "OPEN",
+    "pu_date": "2026-09-15",
+    "pu_city": "SPARTANBURG",
+    "pu_state": "SC",
+    "pu_hours": "0800-1600",
+    "del_date": "2026-09-16",
+    "del_city": "GREENVILLE",
+    "del_state": "NC",
+    "del_hours": "",
+    "equipment": "26' Straight Box Truck",
+    "weight_lbs": 5000,
+    "carrier_rate": null,
+    "updated_at": "2026-09-15T17:29:55.099127+00:00",
+    "lane": "SPARTANBURG SC-GREENVILLE NC"
+  },
+  {
     "pro": "50328",
     "status": "OPEN",
     "pu_date": "2026-09-16",
