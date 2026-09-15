@@ -47,7 +47,7 @@
     "equipment": "Van",
     "weight_lbs": 12480,
     "carrier_rate": null,
-    "updated_at": "2026-09-15T14:44:41.934518+00:00",
+    "updated_at": "2026-09-15T14:45:27.284167+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
@@ -57,14 +57,14 @@
     "pu_city": "WINCHESTER",
     "pu_state": "KY",
     "pu_hours": "NEEDED",
-    "del_date": "",
+    "del_date": "2026-09-16",
     "del_city": "JOLIET",
     "del_state": "IL",
-    "del_hours": "NEEDED",
+    "del_hours": "1800",
     "equipment": "Van",
     "weight_lbs": 12480,
     "carrier_rate": null,
-    "updated_at": "2026-09-15T14:19:39.705243+00:00",
+    "updated_at": "2026-09-15T14:48:31.477528+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
@@ -132,7 +132,7 @@
     "equipment": "Van",
     "weight_lbs": 44990,
     "carrier_rate": 2400,
-    "updated_at": "2026-09-15T14:32:41.675403+00:00",
+    "updated_at": "2026-09-15T14:47:58.153107+00:00",
     "lane": "GREEN RIVER WY-SAN ANTONIO TX"
   },
   {
@@ -196,11 +196,11 @@
     "del_date": "2026-09-16",
     "del_city": "KESWICK",
     "del_state": "VA",
-    "del_hours": "CALL!",
+    "del_hours": "0700-1200",
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 5000,
     "carrier_rate": 300,
-    "updated_at": "2026-09-15T12:04:49.025476+00:00",
+    "updated_at": "2026-09-15T14:46:39.222190+00:00",
     "lane": "RICHMOND VA-KESWICK VA"
   },
   {
