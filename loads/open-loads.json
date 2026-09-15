@@ -102,23 +102,6 @@
     "lane": "CLEVELAND OH-LINCOLNTON NC"
   },
   {
-    "pro": "50471",
-    "status": "OPEN",
-    "pu_date": "2026-09-15",
-    "pu_city": "MACON",
-    "pu_state": "GA",
-    "pu_hours": "0800-1530",
-    "del_date": "2026-09-16",
-    "del_city": "CALHOUN",
-    "del_state": "GA",
-    "del_hours": "0700-1500",
-    "equipment": "Van",
-    "weight_lbs": 34000,
-    "carrier_rate": 600,
-    "updated_at": "2026-09-15T12:15:33.625174+00:00",
-    "lane": "MACON GA-CALHOUN GA"
-  },
-  {
     "pro": "50473",
     "status": "OPEN",
     "pu_date": "2026-09-15",
@@ -182,8 +165,8 @@
     "del_hours": "0800-1400",
     "equipment": "Flatbed w/ Tarps",
     "weight_lbs": 42000,
-    "carrier_rate": 5000,
-    "updated_at": "2026-09-14T16:46:31.835885+00:00",
+    "carrier_rate": 4800,
+    "updated_at": "2026-09-15T12:58:26.832096+00:00",
     "lane": "ALPHARETTA GA-AMARILLO TX"
   },
   {
@@ -202,6 +185,23 @@
     "carrier_rate": 300,
     "updated_at": "2026-09-15T12:04:49.025476+00:00",
     "lane": "RICHMOND VA-KESWICK VA"
+  },
+  {
+    "pro": "50471",
+    "status": "OPEN",
+    "pu_date": "2026-09-16",
+    "pu_city": "MACON",
+    "pu_state": "GA",
+    "pu_hours": "0800-1530",
+    "del_date": "2026-09-17",
+    "del_city": "CALHOUN",
+    "del_state": "GA",
+    "del_hours": "0700-1500",
+    "equipment": "Van",
+    "weight_lbs": 34000,
+    "carrier_rate": 600,
+    "updated_at": "2026-09-15T12:57:25.702067+00:00",
+    "lane": "MACON GA-CALHOUN GA"
   },
   {
     "pro": "50472",
