@@ -88,8 +88,8 @@
     "pro": "50461",
     "status": "OPEN",
     "pu_date": "2026-09-15",
-    "pu_city": "AXIS",
-    "pu_state": "AL",
+    "pu_city": "CLEVELAND",
+    "pu_state": "OH",
     "pu_hours": "",
     "del_date": "2026-09-16",
     "del_city": "LINCOLNTON",
@@ -98,8 +98,8 @@
     "equipment": "Flatbed w/ Tarps",
     "weight_lbs": 16261,
     "carrier_rate": 2300,
-    "updated_at": "2026-09-15T12:31:47.839420+00:00",
-    "lane": "AXIS AL-LINCOLNTON NC"
+    "updated_at": "2026-09-15T12:43:06.319289+00:00",
+    "lane": "CLEVELAND OH-LINCOLNTON NC"
   },
   {
     "pro": "50471",
@@ -219,6 +219,23 @@
     "carrier_rate": 600,
     "updated_at": "2026-09-15T12:16:23.880692+00:00",
     "lane": "MACON GA-CALHOUN GA"
+  },
+  {
+    "pro": "50474",
+    "status": "OPEN",
+    "pu_date": "2026-09-16",
+    "pu_city": "MACON",
+    "pu_state": "GA",
+    "pu_hours": "",
+    "del_date": "",
+    "del_city": "COLUMBIA",
+    "del_state": "SC",
+    "del_hours": "",
+    "equipment": "26' Straight Box Truck",
+    "weight_lbs": 5000,
+    "carrier_rate": null,
+    "updated_at": "2026-09-15T12:44:28.760019+00:00",
+    "lane": "MACON GA-COLUMBIA SC"
   },
   {
     "pro": "50434",
