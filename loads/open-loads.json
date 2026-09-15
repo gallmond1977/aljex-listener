@@ -34,20 +34,37 @@
     "lane": "COLUMBUS GA-JACKSONVILLE FL"
   },
   {
+    "pro": "50445",
+    "status": "OPEN",
+    "pu_date": "2026-09-15",
+    "pu_city": "MACON",
+    "pu_state": "GA",
+    "pu_hours": "0800-1530",
+    "del_date": "2026-09-16",
+    "del_city": "CALHOUN",
+    "del_state": "GA",
+    "del_hours": "0700-1500",
+    "equipment": "Van",
+    "weight_lbs": 34000,
+    "carrier_rate": 600,
+    "updated_at": "2026-09-15T14:57:07.264256+00:00",
+    "lane": "MACON GA-CALHOUN GA"
+  },
+  {
     "pro": "50479",
     "status": "OPEN",
     "pu_date": "2026-09-15",
     "pu_city": "WINCHESTER",
     "pu_state": "KY",
-    "pu_hours": "NEEDED",
+    "pu_hours": "0800-1500",
     "del_date": "2026-09-16",
     "del_city": "JOLIET",
     "del_state": "IL",
     "del_hours": "1730",
     "equipment": "Van",
     "weight_lbs": 12480,
-    "carrier_rate": null,
-    "updated_at": "2026-09-15T14:45:27.284167+00:00",
+    "carrier_rate": 1000,
+    "updated_at": "2026-09-15T14:55:40.289790+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
@@ -56,15 +73,15 @@
     "pu_date": "2026-09-15",
     "pu_city": "WINCHESTER",
     "pu_state": "KY",
-    "pu_hours": "NEEDED",
+    "pu_hours": "0800-1500",
     "del_date": "2026-09-16",
     "del_city": "JOLIET",
     "del_state": "IL",
     "del_hours": "1800",
     "equipment": "Van",
     "weight_lbs": 12480,
-    "carrier_rate": null,
-    "updated_at": "2026-09-15T14:48:31.477528+00:00",
+    "carrier_rate": 1000,
+    "updated_at": "2026-09-15T14:55:49.247330+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
@@ -73,15 +90,15 @@
     "pu_date": "2026-09-15",
     "pu_city": "WINCHESTER",
     "pu_state": "KY",
-    "pu_hours": "NEEDED",
+    "pu_hours": "0800-1500",
     "del_date": "2026-09-16",
     "del_city": "JOLIET",
     "del_state": "IL",
     "del_hours": "1800",
     "equipment": "Van",
     "weight_lbs": 12480,
-    "carrier_rate": null,
-    "updated_at": "2026-09-15T14:43:44.550672+00:00",
+    "carrier_rate": 1000,
+    "updated_at": "2026-09-15T14:55:58.427863+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
@@ -132,7 +149,7 @@
     "equipment": "Van",
     "weight_lbs": 44990,
     "carrier_rate": 2700,
-    "updated_at": "2026-09-15T14:53:55.501629+00:00",
+    "updated_at": "2026-09-15T14:55:12.644786+00:00",
     "lane": "GREEN RIVER WY-SAN ANTONIO TX"
   },
   {
@@ -183,7 +200,7 @@
     "equipment": "Flatbed w/ Tarps",
     "weight_lbs": 16261,
     "carrier_rate": 2100,
-    "updated_at": "2026-09-15T14:35:55.552396+00:00",
+    "updated_at": "2026-09-15T14:56:01.380231+00:00",
     "lane": "CLEVELAND OH-LINCOLNTON NC"
   },
   {
@@ -1071,23 +1088,6 @@
     "lane": "MACON GA-CALHOUN GA"
   },
   {
-    "pro": "50445",
-    "status": "PICKUP",
-    "pu_date": "2026-09-15",
-    "pu_city": "MACON",
-    "pu_state": "GA",
-    "pu_hours": "0800-1530",
-    "del_date": "2026-09-16",
-    "del_city": "CALHOUN",
-    "del_state": "GA",
-    "del_hours": "0700-1500",
-    "equipment": "Van",
-    "weight_lbs": 34000,
-    "carrier_rate": 650,
-    "updated_at": "2026-09-15T12:49:04.640539+00:00",
-    "lane": "MACON GA-CALHOUN GA"
-  },
-  {
     "pro": "50446",
     "status": "PICKUP",
     "pu_date": "2026-09-15",
@@ -1106,7 +1106,7 @@
   },
   {
     "pro": "50471",
-    "status": "COVERED",
+    "status": "PICKUP",
     "pu_date": "2026-09-16",
     "pu_city": "MACON",
     "pu_state": "GA",
@@ -1118,7 +1118,7 @@
     "equipment": "Van",
     "weight_lbs": 34000,
     "carrier_rate": 650,
-    "updated_at": "2026-09-15T14:43:48.421140+00:00",
+    "updated_at": "2026-09-15T14:59:03.705524+00:00",
     "lane": "MACON GA-CALHOUN GA"
   }
 ]
