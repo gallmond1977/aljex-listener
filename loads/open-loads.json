@@ -13,7 +13,7 @@
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 1100,
     "carrier_rate": 900,
-    "updated_at": "2026-09-15T12:37:38.307045+00:00",
+    "updated_at": "2026-09-15T14:05:59.840738+00:00",
     "lane": "JACKSONVILLE FL-DUNCANSVILLE PA"
   },
   {
@@ -49,6 +49,23 @@
     "carrier_rate": 2000,
     "updated_at": "2026-09-15T13:31:16.674092+00:00",
     "lane": "COLUMBUS GA-JACKSONVILLE FL"
+  },
+  {
+    "pro": "50479",
+    "status": "OPEN",
+    "pu_date": "2026-09-15",
+    "pu_city": "WINCHESTER",
+    "pu_state": "KY",
+    "pu_hours": "",
+    "del_date": "",
+    "del_city": "JOLIET",
+    "del_state": "IL",
+    "del_hours": "NEEDED",
+    "equipment": "Van",
+    "weight_lbs": 2100,
+    "carrier_rate": null,
+    "updated_at": "2026-09-15T14:09:41.652645+00:00",
+    "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
     "pro": "50328",
@@ -663,23 +680,6 @@
     "lane": "MACON GA-CALHOUN GA"
   },
   {
-    "pro": "50261",
-    "status": "RELEASED",
-    "pu_date": "2026-09-02",
-    "pu_city": "MACON",
-    "pu_state": "GA",
-    "pu_hours": "0800-1530",
-    "del_date": "2026-09-03",
-    "del_city": "CALHOUN",
-    "del_state": "GA",
-    "del_hours": "0700-1500",
-    "equipment": "Van",
-    "weight_lbs": 34000,
-    "carrier_rate": 600,
-    "updated_at": "2026-09-08T14:07:50.370184+00:00",
-    "lane": "MACON GA-CALHOUN GA"
-  },
-  {
     "pro": "50128",
     "status": "RELEASED",
     "pu_date": "2026-09-03",
@@ -816,23 +816,6 @@
     "lane": "ATHENS AL-GULFPORT MS"
   },
   {
-    "pro": "50264",
-    "status": "RELEASED",
-    "pu_date": "2026-09-03",
-    "pu_city": "MACON",
-    "pu_state": "GA",
-    "pu_hours": "0800-1530",
-    "del_date": "2026-09-03",
-    "del_city": "CALHOUN",
-    "del_state": "GA",
-    "del_hours": "0700-1500",
-    "equipment": "Van",
-    "weight_lbs": 34000,
-    "carrier_rate": 600,
-    "updated_at": "2026-09-08T14:06:00.941019+00:00",
-    "lane": "MACON GA-CALHOUN GA"
-  },
-  {
     "pro": "50266",
     "status": "RELEASED",
     "pu_date": "2026-09-08",
@@ -865,6 +848,40 @@
     "carrier_rate": 600,
     "updated_at": "2026-09-14T14:23:01.867526+00:00",
     "lane": "MACON GA-CALHOUN GA"
+  },
+  {
+    "pro": "50332",
+    "status": "RELEASED",
+    "pu_date": "2026-09-09",
+    "pu_city": "WINCHESTER",
+    "pu_state": "KY",
+    "pu_hours": "0900-1000",
+    "del_date": "2026-09-09",
+    "del_city": "JOLIET",
+    "del_state": "IL",
+    "del_hours": "2030",
+    "equipment": "Van",
+    "weight_lbs": 12480,
+    "carrier_rate": 1300,
+    "updated_at": "2026-09-10T13:03:26.177570+00:00",
+    "lane": "WINCHESTER KY-JOLIET IL"
+  },
+  {
+    "pro": "50340",
+    "status": "RELEASED",
+    "pu_date": "2026-09-09",
+    "pu_city": "WINCHESTER",
+    "pu_state": "KY",
+    "pu_hours": "0800-1400",
+    "del_date": "2026-09-10",
+    "del_city": "JOLIET",
+    "del_state": "IL",
+    "del_hours": "0900",
+    "equipment": "Van",
+    "weight_lbs": 11628,
+    "carrier_rate": 1200,
+    "updated_at": "2026-09-14T15:16:20.860005+00:00",
+    "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
     "pro": "50182",
@@ -933,6 +950,40 @@
     "carrier_rate": 5200,
     "updated_at": "2026-09-14T19:29:46.683685+00:00",
     "lane": "ALPHARETTA GA-AMARILLO TX"
+  },
+  {
+    "pro": "50425",
+    "status": "DELIVERED",
+    "pu_date": "2026-09-11",
+    "pu_city": "WINCHESTER",
+    "pu_state": "KY",
+    "pu_hours": "0800-1400",
+    "del_date": "2026-09-14",
+    "del_city": "JOLIET",
+    "del_state": "IL",
+    "del_hours": "1030",
+    "equipment": "Van",
+    "weight_lbs": 12480,
+    "carrier_rate": 1000,
+    "updated_at": "2026-09-14T18:31:51.285397+00:00",
+    "lane": "WINCHESTER KY-JOLIET IL"
+  },
+  {
+    "pro": "50426",
+    "status": "DELIVERED",
+    "pu_date": "2026-09-11",
+    "pu_city": "WINCHESTER",
+    "pu_state": "KY",
+    "pu_hours": "0800-1500",
+    "del_date": "2026-09-14",
+    "del_city": "JOLIET",
+    "del_state": "IL",
+    "del_hours": "1730",
+    "equipment": "Van",
+    "weight_lbs": 12480,
+    "carrier_rate": 1250,
+    "updated_at": "2026-09-15T11:31:04.337715+00:00",
+    "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
     "pro": "50404",
