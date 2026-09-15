@@ -132,7 +132,7 @@
     "equipment": "Flatbed w/ Tarps",
     "weight_lbs": 16261,
     "carrier_rate": 2300,
-    "updated_at": "2026-09-14T20:46:30.029524+00:00",
+    "updated_at": "2026-09-15T12:21:56.688430+00:00",
     "lane": "AXIS AL-LINCOLNTON NC"
   },
   {
@@ -1101,7 +1101,7 @@
     "equipment": "Van",
     "weight_lbs": 43624,
     "carrier_rate": 1500,
-    "updated_at": "2026-09-11T20:16:00.131130+00:00",
+    "updated_at": "2026-09-15T12:23:55.495461+00:00",
     "lane": "ATHENS AL-GULFPORT MS"
   },
   {
@@ -1123,7 +1123,7 @@
   },
   {
     "pro": "50445",
-    "status": "COVERED",
+    "status": "PICKUP",
     "pu_date": "2026-09-15",
     "pu_city": "MACON",
     "pu_state": "GA",
@@ -1135,7 +1135,7 @@
     "equipment": "Van",
     "weight_lbs": 34000,
     "carrier_rate": 650,
-    "updated_at": "2026-09-14T19:33:35.684609+00:00",
+    "updated_at": "2026-09-15T12:23:31.761722+00:00",
     "lane": "MACON GA-CALHOUN GA"
   },
   {
