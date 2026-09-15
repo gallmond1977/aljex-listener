@@ -1004,7 +1004,7 @@
   },
   {
     "pro": "50301",
-    "status": "COVERED",
+    "status": "DISPATCHED",
     "pu_date": "2026-09-15",
     "pu_city": "ATHENS",
     "pu_state": "AL",
@@ -1016,7 +1016,7 @@
     "equipment": "Van",
     "weight_lbs": 43624,
     "carrier_rate": 1500,
-    "updated_at": "2026-09-15T15:01:18.438634+00:00",
+    "updated_at": "2026-09-15T16:05:04.268466+00:00",
     "lane": "ATHENS AL-GULFPORT MS"
   },
   {
