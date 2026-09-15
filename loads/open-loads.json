@@ -187,6 +187,23 @@
     "lane": "ALPHARETTA GA-AMARILLO TX"
   },
   {
+    "pro": "50470",
+    "status": "OPEN",
+    "pu_date": "2026-09-16",
+    "pu_city": "RICHMOND",
+    "pu_state": "VA",
+    "pu_hours": "0630-0700",
+    "del_date": "2026-09-16",
+    "del_city": "KESWICK",
+    "del_state": "VA",
+    "del_hours": "CALL!",
+    "equipment": "26' Straight Box Truck",
+    "weight_lbs": 5000,
+    "carrier_rate": 300,
+    "updated_at": "2026-09-15T12:04:49.025476+00:00",
+    "lane": "RICHMOND VA-KESWICK VA"
+  },
+  {
     "pro": "50434",
     "status": "OPEN",
     "pu_date": "2026-09-18",
