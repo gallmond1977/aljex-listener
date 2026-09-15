@@ -1009,14 +1009,14 @@
     "pu_city": "MACON",
     "pu_state": "GA",
     "pu_hours": "0800-1530",
-    "del_date": "2026-09-15",
+    "del_date": "2026-09-16",
     "del_city": "CALHOUN",
     "del_state": "GA",
     "del_hours": "0700-1500",
     "equipment": "Van",
     "weight_lbs": 34000,
     "carrier_rate": 650,
-    "updated_at": "2026-09-15T19:11:07.992988+00:00",
+    "updated_at": "2026-09-15T19:27:51.610499+00:00",
     "lane": "MACON GA-CALHOUN GA"
   },
   {
@@ -1026,14 +1026,14 @@
     "pu_city": "MACON",
     "pu_state": "GA",
     "pu_hours": "0800-1530",
-    "del_date": "2026-09-15",
+    "del_date": "2026-09-16",
     "del_city": "CALHOUN",
     "del_state": "GA",
     "del_hours": "0700-1500",
     "equipment": "Van",
     "weight_lbs": 34000,
     "carrier_rate": 600,
-    "updated_at": "2026-09-15T17:58:51.802450+00:00",
+    "updated_at": "2026-09-15T19:28:13.194509+00:00",
     "lane": "MACON GA-CALHOUN GA"
   },
   {
