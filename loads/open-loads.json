@@ -64,7 +64,7 @@
     "equipment": "Flatbed w/ Tarps",
     "weight_lbs": 16261,
     "carrier_rate": 2200,
-    "updated_at": "2026-09-15T12:48:48.862351+00:00",
+    "updated_at": "2026-09-15T13:25:03.896869+00:00",
     "lane": "CLEVELAND OH-LINCOLNTON NC"
   },
   {
@@ -970,7 +970,7 @@
   },
   {
     "pro": "50444",
-    "status": "COVERED",
+    "status": "PICKUP",
     "pu_date": "2026-09-15",
     "pu_city": "MACON",
     "pu_state": "GA",
@@ -982,7 +982,7 @@
     "equipment": "Van",
     "weight_lbs": 34000,
     "carrier_rate": 650,
-    "updated_at": "2026-09-15T12:52:08.572447+00:00",
+    "updated_at": "2026-09-15T13:20:50.522757+00:00",
     "lane": "MACON GA-CALHOUN GA"
   },
   {
