@@ -63,26 +63,9 @@
     "del_hours": "0800-1500",
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 5000,
-    "carrier_rate": 400,
-    "updated_at": "2026-09-15T16:31:06.513099+00:00",
+    "carrier_rate": 500,
+    "updated_at": "2026-09-15T20:03:31.117670+00:00",
     "lane": "MACON GA-COLUMBIA SC"
-  },
-  {
-    "pro": "50478",
-    "status": "OPEN",
-    "pu_date": "2026-09-16",
-    "pu_city": "RICHMOND",
-    "pu_state": "VA",
-    "pu_hours": "0830-0900",
-    "del_date": "2026-09-16",
-    "del_city": "DELTAVILLE",
-    "del_state": "VA",
-    "del_hours": "0900-1200",
-    "equipment": "26' Straight Box Truck",
-    "weight_lbs": 5700,
-    "carrier_rate": 300,
-    "updated_at": "2026-09-15T19:50:00.009432+00:00",
-    "lane": "RICHMOND VA-DELTAVILLE VA"
   },
   {
     "pro": "50481",
