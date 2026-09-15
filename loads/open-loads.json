@@ -1,22 +1,5 @@
 [
   {
-    "pro": "50394",
-    "status": "OPEN",
-    "pu_date": "2026-09-15",
-    "pu_city": "JACKSONVILLE",
-    "pu_state": "TX",
-    "pu_hours": "0800-1500",
-    "del_date": "2026-09-16",
-    "del_city": "MACON",
-    "del_state": "GA",
-    "del_hours": "0800-1600",
-    "equipment": "Van",
-    "weight_lbs": 44500,
-    "carrier_rate": 2000,
-    "updated_at": "2026-09-11T16:35:19.498189+00:00",
-    "lane": "JACKSONVILLE TX-MACON GA"
-  },
-  {
     "pro": "50411",
     "status": "OPEN",
     "pu_date": "2026-09-15",
@@ -68,23 +51,6 @@
     "lane": "COLUMBUS GA-JACKSONVILLE FL"
   },
   {
-    "pro": "50455",
-    "status": "OPEN",
-    "pu_date": "2026-09-15",
-    "pu_city": "ORLANDO",
-    "pu_state": "FL",
-    "pu_hours": "8-3",
-    "del_date": "2026-09-15",
-    "del_city": "ATLANTA",
-    "del_state": "GA",
-    "del_hours": "8-2",
-    "equipment": "Van",
-    "weight_lbs": 25000,
-    "carrier_rate": 800,
-    "updated_at": "2026-09-15T12:33:57.200258+00:00",
-    "lane": "ORLANDO FL-ATLANTA GA"
-  },
-  {
     "pro": "50461",
     "status": "OPEN",
     "pu_date": "2026-09-15",
@@ -115,7 +81,7 @@
     "equipment": "Van",
     "weight_lbs": 35500,
     "carrier_rate": 1200,
-    "updated_at": "2026-09-15T13:05:05.953006+00:00",
+    "updated_at": "2026-09-15T13:09:42.291610+00:00",
     "lane": "LAGRANGE GA-RALEIGH NC"
   },
   {
@@ -151,6 +117,23 @@
     "carrier_rate": 2300,
     "updated_at": "2026-09-15T13:00:20.796358+00:00",
     "lane": "GREEN RIVER WY-SAN ANTONIO TX"
+  },
+  {
+    "pro": "50455",
+    "status": "OPEN",
+    "pu_date": "2026-09-16",
+    "pu_city": "ORLANDO",
+    "pu_state": "FL",
+    "pu_hours": "8-3",
+    "del_date": "2026-09-16",
+    "del_city": "ATLANTA",
+    "del_state": "GA",
+    "del_hours": "8-2",
+    "equipment": "Van",
+    "weight_lbs": 25000,
+    "carrier_rate": 800,
+    "updated_at": "2026-09-15T13:07:28.525029+00:00",
+    "lane": "ORLANDO FL-ATLANTA GA"
   },
   {
     "pro": "50458",
@@ -610,23 +593,6 @@
     "carrier_rate": 1550,
     "updated_at": "2026-09-10T11:42:46.066029+00:00",
     "lane": "ATHENS AL-GULFPORT MS"
-  },
-  {
-    "pro": "50170",
-    "status": "RELEASED",
-    "pu_date": "2026-09-01",
-    "pu_city": "JACKSONVILLE",
-    "pu_state": "TX",
-    "pu_hours": "0800-1500",
-    "del_date": "2026-09-02",
-    "del_city": "MACON",
-    "del_state": "GA",
-    "del_hours": "0800-1600",
-    "equipment": "Van",
-    "weight_lbs": 44500,
-    "carrier_rate": 2000,
-    "updated_at": "2026-09-08T15:33:10.494843+00:00",
-    "lane": "JACKSONVILLE TX-MACON GA"
   },
   {
     "pro": "50189",
