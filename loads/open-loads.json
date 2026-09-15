@@ -1,22 +1,5 @@
 [
   {
-    "pro": "50411",
-    "status": "OPEN",
-    "pu_date": "2026-09-15",
-    "pu_city": "JACKSONVILLE",
-    "pu_state": "FL",
-    "pu_hours": "1400-1700",
-    "del_date": "2026-09-16",
-    "del_city": "DUNCANSVILLE",
-    "del_state": "PA",
-    "del_hours": "0800-1600",
-    "equipment": "26' Straight Box Truck",
-    "weight_lbs": 1100,
-    "carrier_rate": 1000,
-    "updated_at": "2026-09-15T14:28:30.140318+00:00",
-    "lane": "JACKSONVILLE FL-DUNCANSVILLE PA"
-  },
-  {
     "pro": "50420",
     "status": "OPEN",
     "pu_date": "2026-09-15",
@@ -57,14 +40,14 @@
     "pu_city": "WINCHESTER",
     "pu_state": "KY",
     "pu_hours": "NEEDED",
-    "del_date": "",
+    "del_date": "2026-09-16",
     "del_city": "JOLIET",
     "del_state": "IL",
-    "del_hours": "NEEDED",
+    "del_hours": "1730",
     "equipment": "Van",
     "weight_lbs": 12480,
     "carrier_rate": null,
-    "updated_at": "2026-09-15T14:24:00.371173+00:00",
+    "updated_at": "2026-09-15T14:44:41.934518+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
@@ -91,14 +74,14 @@
     "pu_city": "WINCHESTER",
     "pu_state": "KY",
     "pu_hours": "NEEDED",
-    "del_date": "",
+    "del_date": "2026-09-16",
     "del_city": "JOLIET",
     "del_state": "IL",
-    "del_hours": "NEEDED",
+    "del_hours": "1800",
     "equipment": "Van",
     "weight_lbs": 12480,
     "carrier_rate": null,
-    "updated_at": "2026-09-15T14:21:49.973277+00:00",
+    "updated_at": "2026-09-15T14:43:44.550672+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
@@ -219,23 +202,6 @@
     "carrier_rate": 300,
     "updated_at": "2026-09-15T12:04:49.025476+00:00",
     "lane": "RICHMOND VA-KESWICK VA"
-  },
-  {
-    "pro": "50471",
-    "status": "OPEN",
-    "pu_date": "2026-09-16",
-    "pu_city": "MACON",
-    "pu_state": "GA",
-    "pu_hours": "0800-1530",
-    "del_date": "2026-09-17",
-    "del_city": "CALHOUN",
-    "del_state": "GA",
-    "del_hours": "0700-1500",
-    "equipment": "Van",
-    "weight_lbs": 34000,
-    "carrier_rate": 600,
-    "updated_at": "2026-09-15T12:57:25.702067+00:00",
-    "lane": "MACON GA-CALHOUN GA"
   },
   {
     "pro": "50472",
@@ -677,23 +643,6 @@
     "weight_lbs": 43183,
     "carrier_rate": 1550,
     "updated_at": "2026-09-10T11:42:46.066029+00:00",
-    "lane": "ATHENS AL-GULFPORT MS"
-  },
-  {
-    "pro": "50153",
-    "status": "RELEASED",
-    "pu_date": "2026-09-02",
-    "pu_city": "ATHENS",
-    "pu_state": "AL",
-    "pu_hours": "0700-1500",
-    "del_date": "2026-09-04",
-    "del_city": "GULFPORT",
-    "del_state": "MS",
-    "del_hours": "0700-1000",
-    "equipment": "Van",
-    "weight_lbs": 43318,
-    "carrier_rate": 1550,
-    "updated_at": "2026-09-08T14:45:00.950282+00:00",
     "lane": "ATHENS AL-GULFPORT MS"
   },
   {
@@ -1153,6 +1102,23 @@
     "weight_lbs": 34000,
     "carrier_rate": 600,
     "updated_at": "2026-09-15T12:16:46.087686+00:00",
+    "lane": "MACON GA-CALHOUN GA"
+  },
+  {
+    "pro": "50471",
+    "status": "COVERED",
+    "pu_date": "2026-09-16",
+    "pu_city": "MACON",
+    "pu_state": "GA",
+    "pu_hours": "0800-1530",
+    "del_date": "2026-09-17",
+    "del_city": "CALHOUN",
+    "del_state": "GA",
+    "del_hours": "0700-1500",
+    "equipment": "Van",
+    "weight_lbs": 34000,
+    "carrier_rate": 650,
+    "updated_at": "2026-09-15T14:43:48.421140+00:00",
     "lane": "MACON GA-CALHOUN GA"
   }
 ]
