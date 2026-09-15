@@ -799,23 +799,6 @@
     "lane": "ATHENS AL-GULFPORT MS"
   },
   {
-    "pro": "50143",
-    "status": "RELEASED",
-    "pu_date": "2026-09-03",
-    "pu_city": "MONCURE",
-    "pu_state": "NC",
-    "pu_hours": "0730-1600",
-    "del_date": "2026-09-04",
-    "del_city": "ATLANTA",
-    "del_state": "GA",
-    "del_hours": "0800-1600",
-    "equipment": "Van",
-    "weight_lbs": 44000,
-    "carrier_rate": 900,
-    "updated_at": "2026-09-08T15:05:46.436928+00:00",
-    "lane": "MONCURE NC-ATLANTA GA"
-  },
-  {
     "pro": "50266",
     "status": "RELEASED",
     "pu_date": "2026-09-08",
@@ -1106,7 +1089,7 @@
   },
   {
     "pro": "50471",
-    "status": "PICKUP",
+    "status": "COVERED",
     "pu_date": "2026-09-16",
     "pu_city": "MACON",
     "pu_state": "GA",
@@ -1118,7 +1101,7 @@
     "equipment": "Van",
     "weight_lbs": 34000,
     "carrier_rate": 650,
-    "updated_at": "2026-09-15T14:59:03.705524+00:00",
+    "updated_at": "2026-09-15T15:06:45.075676+00:00",
     "lane": "MACON GA-CALHOUN GA"
   }
 ]
