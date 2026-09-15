@@ -204,6 +204,23 @@
     "lane": "WINCHESTER KY-GEORGETOWN DE"
   },
   {
+    "pro": "50504",
+    "status": "OPEN",
+    "pu_date": "2026-09-17",
+    "pu_city": "PHENIX CITY",
+    "pu_state": "AL",
+    "pu_hours": "0800",
+    "del_date": "2026-09-18",
+    "del_city": "CRYSTAL LAKE",
+    "del_state": "IL",
+    "del_hours": "0700-1400",
+    "equipment": "Van",
+    "weight_lbs": 41000,
+    "carrier_rate": 1900,
+    "updated_at": "2026-09-15T20:38:52.010873+00:00",
+    "lane": "PHENIX CITY AL-CRYSTAL LAKE IL"
+  },
+  {
     "pro": "50434",
     "status": "OPEN",
     "pu_date": "2026-09-18",
