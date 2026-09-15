@@ -187,6 +187,23 @@
     "lane": "MACON GA-CALHOUN GA"
   },
   {
+    "pro": "50495",
+    "status": "OPEN",
+    "pu_date": "2026-09-17",
+    "pu_city": "COLUMBUS",
+    "pu_state": "GA",
+    "pu_hours": "1430",
+    "del_date": "",
+    "del_city": "DANDRIDGE",
+    "del_state": "TN",
+    "del_hours": "",
+    "equipment": "Van",
+    "weight_lbs": 4300,
+    "carrier_rate": null,
+    "updated_at": "2026-09-15T17:25:03.238643+00:00",
+    "lane": "COLUMBUS GA-DANDRIDGE TN"
+  },
+  {
     "pro": "50434",
     "status": "OPEN",
     "pu_date": "2026-09-18",
