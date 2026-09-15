@@ -73,15 +73,15 @@
     "pu_date": "2026-09-15",
     "pu_city": "WINCHESTER",
     "pu_state": "KY",
-    "pu_hours": "",
+    "pu_hours": "NEEDED",
     "del_date": "",
     "del_city": "JOLIET",
     "del_state": "IL",
     "del_hours": "NEEDED",
     "equipment": "Van",
-    "weight_lbs": 2100,
+    "weight_lbs": 12480,
     "carrier_rate": null,
-    "updated_at": "2026-09-15T14:10:59.514299+00:00",
+    "updated_at": "2026-09-15T14:19:39.705243+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
@@ -115,7 +115,7 @@
     "equipment": "Van",
     "weight_lbs": 44000,
     "carrier_rate": 900,
-    "updated_at": "2026-09-15T14:14:44.288822+00:00",
+    "updated_at": "2026-09-15T14:17:28.469009+00:00",
     "lane": "MONCURE NC-ATLANTA GA"
   },
   {
