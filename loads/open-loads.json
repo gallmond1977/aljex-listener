@@ -102,6 +102,23 @@
     "lane": "MONCURE NC-ATLANTA GA"
   },
   {
+    "pro": "50492",
+    "status": "OPEN",
+    "pu_date": "2026-09-15",
+    "pu_city": "JACKSONVILLE",
+    "pu_state": "TX",
+    "pu_hours": "0800-1500",
+    "del_date": "2026-09-16",
+    "del_city": "CONCORDIA",
+    "del_state": "KS",
+    "del_hours": "0730-1500",
+    "equipment": "Van",
+    "weight_lbs": 44000,
+    "carrier_rate": 1750,
+    "updated_at": "2026-09-15T15:29:19.705739+00:00",
+    "lane": "JACKSONVILLE TX-CONCORDIA KS"
+  },
+  {
     "pro": "50328",
     "status": "OPEN",
     "pu_date": "2026-09-16",
@@ -899,6 +916,23 @@
     "carrier_rate": 1500,
     "updated_at": "2026-09-14T20:13:54.157812+00:00",
     "lane": "ATHENS AL-GULFPORT MS"
+  },
+  {
+    "pro": "50376",
+    "status": "DELIVERED",
+    "pu_date": "2026-09-10",
+    "pu_city": "JACKSONVILLE",
+    "pu_state": "TX",
+    "pu_hours": "0800-1500",
+    "del_date": "2026-09-11",
+    "del_city": "CONCORDIA",
+    "del_state": "KS",
+    "del_hours": "0730-1500",
+    "equipment": "Van",
+    "weight_lbs": 44000,
+    "carrier_rate": 1800,
+    "updated_at": "2026-09-11T14:38:27.198282+00:00",
+    "lane": "JACKSONVILLE TX-CONCORDIA KS"
   },
   {
     "pro": "50406",
