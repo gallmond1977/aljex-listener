@@ -166,7 +166,7 @@
     "equipment": "Van",
     "weight_lbs": 34000,
     "carrier_rate": 600,
-    "updated_at": "2026-09-15T12:14:40.130378+00:00",
+    "updated_at": "2026-09-15T12:15:33.625174+00:00",
     "lane": "MACON GA-CALHOUN GA"
   },
   {
@@ -219,6 +219,23 @@
     "carrier_rate": 300,
     "updated_at": "2026-09-15T12:04:49.025476+00:00",
     "lane": "RICHMOND VA-KESWICK VA"
+  },
+  {
+    "pro": "50472",
+    "status": "OPEN",
+    "pu_date": "2026-09-16",
+    "pu_city": "MACON",
+    "pu_state": "GA",
+    "pu_hours": "0800-1530",
+    "del_date": "2026-09-17",
+    "del_city": "CALHOUN",
+    "del_state": "GA",
+    "del_hours": "0700-1500",
+    "equipment": "Van",
+    "weight_lbs": 34000,
+    "carrier_rate": 600,
+    "updated_at": "2026-09-15T12:16:23.880692+00:00",
+    "lane": "MACON GA-CALHOUN GA"
   },
   {
     "pro": "50434",
@@ -1135,7 +1152,7 @@
     "equipment": "Van",
     "weight_lbs": 34000,
     "carrier_rate": 600,
-    "updated_at": "2026-09-15T12:08:22.740704+00:00",
+    "updated_at": "2026-09-15T12:16:46.087686+00:00",
     "lane": "MACON GA-CALHOUN GA"
   }
 ]
