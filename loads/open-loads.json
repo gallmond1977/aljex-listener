@@ -12,8 +12,8 @@
     "del_hours": "0200",
     "equipment": "Van",
     "weight_lbs": 8551,
-    "carrier_rate": 4300,
-    "updated_at": "2026-09-15T15:23:19.935156+00:00",
+    "carrier_rate": 4500,
+    "updated_at": "2026-09-15T15:45:36.547981+00:00",
     "lane": "WINCHESTER KY-AURORA CO"
   },
   {
@@ -131,8 +131,8 @@
     "del_hours": "0700-1400",
     "equipment": "Van",
     "weight_lbs": 44990,
-    "carrier_rate": 2700,
-    "updated_at": "2026-09-15T14:55:12.644786+00:00",
+    "carrier_rate": 2600,
+    "updated_at": "2026-09-15T15:45:41.388300+00:00",
     "lane": "GREEN RIVER WY-SAN ANTONIO TX"
   },
   {
