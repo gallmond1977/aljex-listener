@@ -29,8 +29,8 @@
     "del_hours": "1700",
     "equipment": "Reefer",
     "weight_lbs": 36500,
-    "carrier_rate": 2000,
-    "updated_at": "2026-09-15T13:31:16.674092+00:00",
+    "carrier_rate": 2300,
+    "updated_at": "2026-09-15T15:32:09.550006+00:00",
     "lane": "COLUMBUS GA-JACKSONVILLE FL"
   },
   {
@@ -115,7 +115,7 @@
     "equipment": "Van",
     "weight_lbs": 44000,
     "carrier_rate": 1750,
-    "updated_at": "2026-09-15T15:29:19.705739+00:00",
+    "updated_at": "2026-09-15T15:31:55.151668+00:00",
     "lane": "JACKSONVILLE TX-CONCORDIA KS"
   },
   {
