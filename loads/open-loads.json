@@ -85,6 +85,23 @@
     "lane": "LAGRANGE GA-RALEIGH NC"
   },
   {
+    "pro": "50477",
+    "status": "OPEN",
+    "pu_date": "2026-09-15",
+    "pu_city": "OAKLAND",
+    "pu_state": "TN",
+    "pu_hours": "0800-1500",
+    "del_date": "2026-09-16",
+    "del_city": "SALISBURY",
+    "del_state": "NC",
+    "del_hours": "0600-1500",
+    "equipment": "Van Hazmat",
+    "weight_lbs": 44900,
+    "carrier_rate": 2600,
+    "updated_at": "2026-09-15T13:44:45.501437+00:00",
+    "lane": "OAKLAND TN-SALISBURY NC"
+  },
+  {
     "pro": "50328",
     "status": "OPEN",
     "pu_date": "2026-09-16",
@@ -948,7 +965,7 @@
     "equipment": "Van",
     "weight_lbs": 41328,
     "carrier_rate": 2800,
-    "updated_at": "2026-09-15T13:39:15.338778+00:00",
+    "updated_at": "2026-09-15T13:43:18.040573+00:00",
     "lane": "LA PORTE TX-GREENVILLE SC"
   },
   {
@@ -965,7 +982,7 @@
     "equipment": "Flatbed w/ Tarps",
     "weight_lbs": 42000,
     "carrier_rate": 5000,
-    "updated_at": "2026-09-14T19:13:40.662228+00:00",
+    "updated_at": "2026-09-15T13:44:08.523429+00:00",
     "lane": "ALPHARETTA GA-AMARILLO TX"
   },
   {
