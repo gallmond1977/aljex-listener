@@ -115,7 +115,7 @@
     "equipment": "Van",
     "weight_lbs": 35500,
     "carrier_rate": 1200,
-    "updated_at": "2026-09-15T12:45:44.447693+00:00",
+    "updated_at": "2026-09-15T13:05:05.953006+00:00",
     "lane": "LAGRANGE GA-RALEIGH NC"
   },
   {
@@ -141,7 +141,7 @@
     "pu_date": "2026-09-16",
     "pu_city": "GREEN RIVER",
     "pu_state": "WY",
-    "pu_hours": "1400R",
+    "pu_hours": "1400",
     "del_date": "2026-09-18",
     "del_city": "SAN ANTONIO",
     "del_state": "TX",
@@ -149,7 +149,7 @@
     "equipment": "Van",
     "weight_lbs": 44990,
     "carrier_rate": 2300,
-    "updated_at": "2026-09-14T20:47:20.449834+00:00",
+    "updated_at": "2026-09-15T13:00:20.796358+00:00",
     "lane": "GREEN RIVER WY-SAN ANTONIO TX"
   },
   {
