@@ -119,6 +119,23 @@
     "lane": "SAVANNAH GA-DUBLIN GA"
   },
   {
+    "pro": "50500",
+    "status": "OPEN",
+    "pu_date": "2026-09-16",
+    "pu_city": "WINCHESTER",
+    "pu_state": "KY",
+    "pu_hours": "0800-1100",
+    "del_date": "2026-09-17",
+    "del_city": "ETNA",
+    "del_state": "OH",
+    "del_hours": "",
+    "equipment": "26' Straight Box Truck",
+    "weight_lbs": 2500,
+    "carrier_rate": null,
+    "updated_at": "2026-09-15T20:21:09.376938+00:00",
+    "lane": "WINCHESTER KY-ETNA OH"
+  },
+  {
     "pro": "50472",
     "status": "OPEN",
     "pu_date": "2026-09-17",
