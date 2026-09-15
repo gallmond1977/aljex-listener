@@ -77,11 +77,11 @@
     "del_date": "2026-09-16",
     "del_city": "DELTAVILLE",
     "del_state": "VA",
-    "del_hours": "CALL!",
+    "del_hours": "0900-1200",
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 5700,
     "carrier_rate": 300,
-    "updated_at": "2026-09-15T16:16:53.428432+00:00",
+    "updated_at": "2026-09-15T19:50:00.009432+00:00",
     "lane": "RICHMOND VA-DELTAVILLE VA"
   },
   {
