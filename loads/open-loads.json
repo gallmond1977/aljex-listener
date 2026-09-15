@@ -22,7 +22,7 @@
     "pu_date": "2026-09-15",
     "pu_city": "JACKSONVILLE",
     "pu_state": "FL",
-    "pu_hours": "0800-1500",
+    "pu_hours": "1400-1700",
     "del_date": "2026-09-16",
     "del_city": "DUNCANSVILLE",
     "del_state": "PA",
@@ -30,7 +30,7 @@
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 1100,
     "carrier_rate": 900,
-    "updated_at": "2026-09-14T16:47:00.841734+00:00",
+    "updated_at": "2026-09-15T12:37:38.307045+00:00",
     "lane": "JACKSONVILLE FL-DUNCANSVILLE PA"
   },
   {
@@ -132,7 +132,7 @@
     "equipment": "Van",
     "weight_lbs": 35500,
     "carrier_rate": 1200,
-    "updated_at": "2026-09-15T12:34:10.928055+00:00",
+    "updated_at": "2026-09-15T12:39:02.280850+00:00",
     "lane": "LAGRANGE GA-RALEIGH NC"
   },
   {
