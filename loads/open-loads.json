@@ -68,23 +68,6 @@
     "lane": "CLEVELAND OH-LINCOLNTON NC"
   },
   {
-    "pro": "50473",
-    "status": "OPEN",
-    "pu_date": "2026-09-15",
-    "pu_city": "LAGRANGE",
-    "pu_state": "GA",
-    "pu_hours": "1300-1600",
-    "del_date": "2026-09-16",
-    "del_city": "RALEIGH",
-    "del_state": "NC",
-    "del_hours": "0700-1200",
-    "equipment": "Van",
-    "weight_lbs": 35500,
-    "carrier_rate": 1350,
-    "updated_at": "2026-09-15T13:49:18.192927+00:00",
-    "lane": "LAGRANGE GA-RALEIGH NC"
-  },
-  {
     "pro": "50328",
     "status": "OPEN",
     "pu_date": "2026-09-16",
@@ -217,7 +200,7 @@
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 5000,
     "carrier_rate": null,
-    "updated_at": "2026-09-15T12:47:26.679927+00:00",
+    "updated_at": "2026-09-15T13:56:32.548710+00:00",
     "lane": "MACON GA-COLUMBIA SC"
   },
   {
