@@ -119,23 +119,6 @@
     "lane": "MONCURE NC-ATLANTA GA"
   },
   {
-    "pro": "50483",
-    "status": "OPEN",
-    "pu_date": "2026-09-15",
-    "pu_city": "OAKLAND",
-    "pu_state": "TN",
-    "pu_hours": "0800-1400",
-    "del_date": "2026-09-16",
-    "del_city": "MONTICELLO",
-    "del_state": "IL",
-    "del_hours": "0900",
-    "equipment": "Van Hazmat",
-    "weight_lbs": 44900,
-    "carrier_rate": 1800,
-    "updated_at": "2026-09-15T14:28:34.349487+00:00",
-    "lane": "OAKLAND TN-MONTICELLO IL"
-  },
-  {
     "pro": "50328",
     "status": "OPEN",
     "pu_date": "2026-09-16",
@@ -165,8 +148,8 @@
     "del_hours": "0700-1400",
     "equipment": "Van",
     "weight_lbs": 44990,
-    "carrier_rate": 2300,
-    "updated_at": "2026-09-15T13:00:20.796358+00:00",
+    "carrier_rate": 2400,
+    "updated_at": "2026-09-15T14:32:41.675403+00:00",
     "lane": "GREEN RIVER WY-SAN ANTONIO TX"
   },
   {
@@ -209,7 +192,7 @@
     "pu_date": "2026-09-16",
     "pu_city": "CLEVELAND",
     "pu_state": "OH",
-    "pu_hours": "",
+    "pu_hours": "0700-1400",
     "del_date": "2026-09-17",
     "del_city": "LINCOLNTON",
     "del_state": "NC",
@@ -217,7 +200,7 @@
     "equipment": "Flatbed w/ Tarps",
     "weight_lbs": 16261,
     "carrier_rate": 2200,
-    "updated_at": "2026-09-15T14:02:58.771782+00:00",
+    "updated_at": "2026-09-15T14:34:56.291421+00:00",
     "lane": "CLEVELAND OH-LINCOLNTON NC"
   },
   {
