@@ -1,22 +1,5 @@
 [
   {
-    "pro": "50328",
-    "status": "OPEN",
-    "pu_date": "2026-09-15",
-    "pu_city": "WINCHESTER",
-    "pu_state": "KY",
-    "pu_hours": "",
-    "del_date": "2026-09-10",
-    "del_city": "NORTH EAST",
-    "del_state": "MD",
-    "del_hours": "",
-    "equipment": "Van",
-    "weight_lbs": 3934,
-    "carrier_rate": null,
-    "updated_at": "2026-09-11T19:53:25.509442+00:00",
-    "lane": "WINCHESTER KY-NORTH EAST MD"
-  },
-  {
     "pro": "50394",
     "status": "OPEN",
     "pu_date": "2026-09-15",
@@ -98,7 +81,7 @@
     "equipment": "Van",
     "weight_lbs": 25000,
     "carrier_rate": 800,
-    "updated_at": "2026-09-14T19:34:05.730377+00:00",
+    "updated_at": "2026-09-15T12:33:57.200258+00:00",
     "lane": "ORLANDO FL-ATLANTA GA"
   },
   {
@@ -115,25 +98,8 @@
     "equipment": "Flatbed w/ Tarps",
     "weight_lbs": 16261,
     "carrier_rate": 2300,
-    "updated_at": "2026-09-15T12:29:29.039503+00:00",
+    "updated_at": "2026-09-15T12:31:47.839420+00:00",
     "lane": "AXIS AL-LINCOLNTON NC"
-  },
-  {
-    "pro": "50467",
-    "status": "OPEN",
-    "pu_date": "2026-09-15",
-    "pu_city": "WINCHESTER",
-    "pu_state": "KY",
-    "pu_hours": "1200-1300",
-    "del_date": "2026-09-16",
-    "del_city": "ROME",
-    "del_state": "GA",
-    "del_hours": "0900-1600",
-    "equipment": "Sprinter Van",
-    "weight_lbs": 600,
-    "carrier_rate": 500,
-    "updated_at": "2026-09-14T19:56:32.233614+00:00",
-    "lane": "WINCHESTER KY-ROME GA"
   },
   {
     "pro": "50471",
@@ -158,16 +124,33 @@
     "pu_date": "2026-09-15",
     "pu_city": "LAGRANGE",
     "pu_state": "GA",
-    "pu_hours": "0800-1600",
+    "pu_hours": "1300-1600",
     "del_date": "2026-09-16",
     "del_city": "RALEIGH",
     "del_state": "NC",
     "del_hours": "0700-1200",
     "equipment": "Van",
-    "weight_lbs": 18000,
-    "carrier_rate": 1000,
-    "updated_at": "2026-09-15T12:29:39.974480+00:00",
+    "weight_lbs": 35500,
+    "carrier_rate": 1200,
+    "updated_at": "2026-09-15T12:34:10.928055+00:00",
     "lane": "LAGRANGE GA-RALEIGH NC"
+  },
+  {
+    "pro": "50328",
+    "status": "OPEN",
+    "pu_date": "2026-09-16",
+    "pu_city": "WINCHESTER",
+    "pu_state": "KY",
+    "pu_hours": "",
+    "del_date": "2026-09-10",
+    "del_city": "NORTH EAST",
+    "del_state": "MD",
+    "del_hours": "",
+    "equipment": "Van",
+    "weight_lbs": 3934,
+    "carrier_rate": null,
+    "updated_at": "2026-09-15T12:31:06.590552+00:00",
+    "lane": "WINCHESTER KY-NORTH EAST MD"
   },
   {
     "pro": "50422",
@@ -1016,7 +999,7 @@
     "equipment": "Van",
     "weight_lbs": 34000,
     "carrier_rate": 650,
-    "updated_at": "2026-09-14T16:58:19.060053+00:00",
+    "updated_at": "2026-09-15T12:33:30.818438+00:00",
     "lane": "MACON GA-CALHOUN GA"
   },
   {
