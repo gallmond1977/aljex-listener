@@ -1,36 +1,19 @@
 [
   {
-    "pro": "50482",
-    "status": "OPEN",
-    "pu_date": "2026-09-15",
-    "pu_city": "MONCURE",
-    "pu_state": "NC",
-    "pu_hours": "0730-1600",
-    "del_date": "2026-09-16",
-    "del_city": "ATLANTA",
-    "del_state": "GA",
-    "del_hours": "0800-1600",
-    "equipment": "Van",
-    "weight_lbs": 44000,
-    "carrier_rate": 900,
-    "updated_at": "2026-09-15T15:44:45.948482+00:00",
-    "lane": "MONCURE NC-ATLANTA GA"
-  },
-  {
     "pro": "50328",
     "status": "OPEN",
     "pu_date": "2026-09-16",
     "pu_city": "WINCHESTER",
     "pu_state": "KY",
     "pu_hours": "",
-    "del_date": "2026-09-10",
+    "del_date": "",
     "del_city": "NORTH EAST",
     "del_state": "MD",
     "del_hours": "",
     "equipment": "Van",
     "weight_lbs": 3934,
     "carrier_rate": null,
-    "updated_at": "2026-09-15T12:31:06.590552+00:00",
+    "updated_at": "2026-09-15T19:39:14.340838+00:00",
     "lane": "WINCHESTER KY-NORTH EAST MD"
   },
   {
@@ -49,23 +32,6 @@
     "carrier_rate": 2600,
     "updated_at": "2026-09-15T15:52:04.763072+00:00",
     "lane": "GREEN RIVER WY-SAN ANTONIO TX"
-  },
-  {
-    "pro": "50455",
-    "status": "OPEN",
-    "pu_date": "2026-09-16",
-    "pu_city": "ORLANDO",
-    "pu_state": "FL",
-    "pu_hours": "8-3",
-    "del_date": "2026-09-16",
-    "del_city": "ATLANTA",
-    "del_state": "GA",
-    "del_hours": "8-2",
-    "equipment": "Van",
-    "weight_lbs": 25000,
-    "carrier_rate": 800,
-    "updated_at": "2026-09-15T13:07:28.525029+00:00",
-    "lane": "ORLANDO FL-ATLANTA GA"
   },
   {
     "pro": "50458",
@@ -124,7 +90,7 @@
     "pu_date": "2026-09-16",
     "pu_city": "WINCHESTER",
     "pu_state": "KY",
-    "pu_hours": "0800-1500",
+    "pu_hours": "0800-1000",
     "del_date": "2026-09-16",
     "del_city": "JOLIET",
     "del_state": "IL",
@@ -132,8 +98,25 @@
     "equipment": "Van",
     "weight_lbs": 12480,
     "carrier_rate": 1100,
-    "updated_at": "2026-09-15T18:59:20.002913+00:00",
+    "updated_at": "2026-09-15T19:38:09.982279+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
+  },
+  {
+    "pro": "50482",
+    "status": "OPEN",
+    "pu_date": "2026-09-16",
+    "pu_city": "MONCURE",
+    "pu_state": "NC",
+    "pu_hours": "0730-1600",
+    "del_date": "2026-09-17",
+    "del_city": "ATLANTA",
+    "del_state": "GA",
+    "del_hours": "0800-1600",
+    "equipment": "Van",
+    "weight_lbs": 44000,
+    "carrier_rate": 900,
+    "updated_at": "2026-09-15T19:36:55.050400+00:00",
+    "lane": "MONCURE NC-ATLANTA GA"
   },
   {
     "pro": "50497",
@@ -1067,7 +1050,7 @@
     "equipment": "Van",
     "weight_lbs": 34000,
     "carrier_rate": 650,
-    "updated_at": "2026-09-15T19:35:07.699109+00:00",
+    "updated_at": "2026-09-15T19:35:47.810889+00:00",
     "lane": "MACON GA-CALHOUN GA"
   },
   {
