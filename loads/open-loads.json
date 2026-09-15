@@ -159,14 +159,14 @@
     "pu_city": "MACON",
     "pu_state": "GA",
     "pu_hours": "0800-1530",
-    "del_date": "2026-09-07",
+    "del_date": "2026-09-17",
     "del_city": "CALHOUN",
     "del_state": "GA",
     "del_hours": "0700-1500",
     "equipment": "Van",
     "weight_lbs": 34000,
     "carrier_rate": 600,
-    "updated_at": "2026-09-15T15:16:48.196154+00:00",
+    "updated_at": "2026-09-15T18:47:40.536542+00:00",
     "lane": "MACON GA-CALHOUN GA"
   },
   {
