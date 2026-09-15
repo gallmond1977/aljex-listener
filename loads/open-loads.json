@@ -34,23 +34,6 @@
     "lane": "COLUMBUS GA-JACKSONVILLE FL"
   },
   {
-    "pro": "50445",
-    "status": "OPEN",
-    "pu_date": "2026-09-15",
-    "pu_city": "MACON",
-    "pu_state": "GA",
-    "pu_hours": "0800-1530",
-    "del_date": "2026-09-16",
-    "del_city": "CALHOUN",
-    "del_state": "GA",
-    "del_hours": "0700-1500",
-    "equipment": "Van",
-    "weight_lbs": 34000,
-    "carrier_rate": 600,
-    "updated_at": "2026-09-15T14:57:07.264256+00:00",
-    "lane": "MACON GA-CALHOUN GA"
-  },
-  {
     "pro": "50479",
     "status": "OPEN",
     "pu_date": "2026-09-15",
@@ -151,6 +134,23 @@
     "carrier_rate": 2700,
     "updated_at": "2026-09-15T14:55:12.644786+00:00",
     "lane": "GREEN RIVER WY-SAN ANTONIO TX"
+  },
+  {
+    "pro": "50445",
+    "status": "OPEN",
+    "pu_date": "2026-09-16",
+    "pu_city": "MACON",
+    "pu_state": "GA",
+    "pu_hours": "0800-1530",
+    "del_date": "2026-09-16",
+    "del_city": "CALHOUN",
+    "del_state": "GA",
+    "del_hours": "0700-1500",
+    "equipment": "Van",
+    "weight_lbs": 34000,
+    "carrier_rate": 600,
+    "updated_at": "2026-09-15T15:13:01.459056+00:00",
+    "lane": "MACON GA-CALHOUN GA"
   },
   {
     "pro": "50455",
