@@ -1,22 +1,5 @@
 [
   {
-    "pro": "50440",
-    "status": "OPEN",
-    "pu_date": "2026-09-15",
-    "pu_city": "COLUMBUS",
-    "pu_state": "GA",
-    "pu_hours": "0800-1100",
-    "del_date": "2026-09-15",
-    "del_city": "JACKSONVILLE",
-    "del_state": "FL",
-    "del_hours": "1700",
-    "equipment": "Reefer",
-    "weight_lbs": 36500,
-    "carrier_rate": 2300,
-    "updated_at": "2026-09-15T15:32:09.550006+00:00",
-    "lane": "COLUMBUS GA-JACKSONVILLE FL"
-  },
-  {
     "pro": "50479",
     "status": "OPEN",
     "pu_date": "2026-09-15",
@@ -219,23 +202,6 @@
     "carrier_rate": 300,
     "updated_at": "2026-09-15T16:16:53.428432+00:00",
     "lane": "RICHMOND VA-DELTAVILLE VA"
-  },
-  {
-    "pro": "50494",
-    "status": "OPEN",
-    "pu_date": "2026-09-16",
-    "pu_city": "OPELIKA",
-    "pu_state": "AL",
-    "pu_hours": "0800-1500",
-    "del_date": "2026-09-16",
-    "del_city": "COLUMBIA",
-    "del_state": "AL",
-    "del_hours": "0530-1900",
-    "equipment": "Flatbed",
-    "weight_lbs": 47000,
-    "carrier_rate": null,
-    "updated_at": "2026-09-15T16:39:33.443617+00:00",
-    "lane": "OPELIKA AL-COLUMBIA AL"
   },
   {
     "pro": "50472",
@@ -646,23 +612,6 @@
     "lane": "ATHENS AL-GULFPORT MS"
   },
   {
-    "pro": "50237",
-    "status": "RELEASED",
-    "pu_date": "2026-09-02",
-    "pu_city": "OPELIKA",
-    "pu_state": "AL",
-    "pu_hours": "0800-1500",
-    "del_date": "2026-09-02",
-    "del_city": "COLUMBIA",
-    "del_state": "AL",
-    "del_hours": "0530-1900",
-    "equipment": "Flatbed",
-    "weight_lbs": 47000,
-    "carrier_rate": 1000,
-    "updated_at": "2026-09-09T15:12:02.412762+00:00",
-    "lane": "OPELIKA AL-COLUMBIA AL"
-  },
-  {
     "pro": "50252",
     "status": "RELEASED",
     "pu_date": "2026-09-02",
@@ -831,23 +780,6 @@
     "carrier_rate": 600,
     "updated_at": "2026-09-14T14:23:01.867526+00:00",
     "lane": "MACON GA-CALHOUN GA"
-  },
-  {
-    "pro": "50330",
-    "status": "RELEASED",
-    "pu_date": "2026-09-08",
-    "pu_city": "OPELIKA",
-    "pu_state": "AL",
-    "pu_hours": "0800-1500",
-    "del_date": "2026-09-08",
-    "del_city": "COLUMBIA",
-    "del_state": "AL",
-    "del_hours": "0530-1900",
-    "equipment": "Flatbed",
-    "weight_lbs": 47000,
-    "carrier_rate": 1000,
-    "updated_at": "2026-09-09T15:11:09.584150+00:00",
-    "lane": "OPELIKA AL-COLUMBIA AL"
   },
   {
     "pro": "50332",
@@ -1035,23 +967,6 @@
     "carrier_rate": 5000,
     "updated_at": "2026-09-15T13:44:08.523429+00:00",
     "lane": "ALPHARETTA GA-AMARILLO TX"
-  },
-  {
-    "pro": "50424",
-    "status": "RELEASED",
-    "pu_date": "2026-09-14",
-    "pu_city": "OPELIKA",
-    "pu_state": "AL",
-    "pu_hours": "0800-1500",
-    "del_date": "2026-09-15",
-    "del_city": "COLUMBIA",
-    "del_state": "AL",
-    "del_hours": "0530-1900",
-    "equipment": "Flatbed",
-    "weight_lbs": 47000,
-    "carrier_rate": 1000,
-    "updated_at": "2026-09-15T12:02:32.007884+00:00",
-    "lane": "OPELIKA AL-COLUMBIA AL"
   },
   {
     "pro": "50433",
