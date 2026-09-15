@@ -45,9 +45,9 @@
     "del_state": "NC",
     "del_hours": "0730-0900",
     "equipment": "26' Straight Box Truck",
-    "weight_lbs": 5000,
-    "carrier_rate": null,
-    "updated_at": "2026-09-15T17:34:36.180791+00:00",
+    "weight_lbs": 1500,
+    "carrier_rate": 600,
+    "updated_at": "2026-09-15T17:36:50.834703+00:00",
     "lane": "SPARTANBURG SC-GREENVILLE NC"
   },
   {
@@ -83,23 +83,6 @@
     "carrier_rate": 2600,
     "updated_at": "2026-09-15T15:52:04.763072+00:00",
     "lane": "GREEN RIVER WY-SAN ANTONIO TX"
-  },
-  {
-    "pro": "50445",
-    "status": "OPEN",
-    "pu_date": "2026-09-16",
-    "pu_city": "MACON",
-    "pu_state": "GA",
-    "pu_hours": "0800-1530",
-    "del_date": "2026-09-16",
-    "del_city": "CALHOUN",
-    "del_state": "GA",
-    "del_hours": "0700-1500",
-    "equipment": "Van",
-    "weight_lbs": 34000,
-    "carrier_rate": 600,
-    "updated_at": "2026-09-15T15:17:22.109299+00:00",
-    "lane": "MACON GA-CALHOUN GA"
   },
   {
     "pro": "50455",
@@ -197,10 +180,10 @@
     "del_city": "DUBLIN",
     "del_state": "GA",
     "del_hours": "0800",
-    "equipment": "Flatbed w/ Tarps",
-    "weight_lbs": 48000,
-    "carrier_rate": null,
-    "updated_at": "2026-09-15T17:34:17.864157+00:00",
+    "equipment": "Van",
+    "weight_lbs": 38900,
+    "carrier_rate": 900,
+    "updated_at": "2026-09-15T17:37:27.585288+00:00",
     "lane": "SAVANNAH GA-DUBLIN GA"
   },
   {
@@ -236,6 +219,23 @@
     "carrier_rate": null,
     "updated_at": "2026-09-15T17:25:03.238643+00:00",
     "lane": "COLUMBUS GA-DANDRIDGE TN"
+  },
+  {
+    "pro": "50498",
+    "status": "OPEN",
+    "pu_date": "2026-09-17",
+    "pu_city": "COLUMBUS",
+    "pu_state": "GA",
+    "pu_hours": "0800-1500",
+    "del_date": "2026-09-18",
+    "del_city": "GREER",
+    "del_state": "SC",
+    "del_hours": "0800-1500",
+    "equipment": "Flatbed w/ Tarps",
+    "weight_lbs": 44305,
+    "carrier_rate": 1700,
+    "updated_at": "2026-09-15T17:39:29.537303+00:00",
+    "lane": "COLUMBUS GA-GREER SC"
   },
   {
     "pro": "50434",
@@ -1068,6 +1068,23 @@
     "weight_lbs": 34000,
     "carrier_rate": 600,
     "updated_at": "2026-09-15T12:16:46.087686+00:00",
+    "lane": "MACON GA-CALHOUN GA"
+  },
+  {
+    "pro": "50445",
+    "status": "COVERED",
+    "pu_date": "2026-09-16",
+    "pu_city": "MACON",
+    "pu_state": "GA",
+    "pu_hours": "0800-1530",
+    "del_date": "2026-09-16",
+    "del_city": "CALHOUN",
+    "del_state": "GA",
+    "del_hours": "0700-1500",
+    "equipment": "Van",
+    "weight_lbs": 34000,
+    "carrier_rate": 600,
+    "updated_at": "2026-09-15T17:36:25.215897+00:00",
     "lane": "MACON GA-CALHOUN GA"
   },
   {
