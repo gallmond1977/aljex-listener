@@ -68,23 +68,6 @@
     "lane": "MONCURE NC-ATLANTA GA"
   },
   {
-    "pro": "50511",
-    "status": "OPEN",
-    "pu_date": "2026-09-16",
-    "pu_city": "ATLANTA",
-    "pu_state": "GA",
-    "pu_hours": "0800-1500",
-    "del_date": "2026-09-16",
-    "del_city": "JASPER",
-    "del_state": "GA",
-    "del_hours": "0800-1500",
-    "equipment": "Flatbed Hot Shot",
-    "weight_lbs": 12490,
-    "carrier_rate": 400,
-    "updated_at": "2026-09-16T13:57:56.773275+00:00",
-    "lane": "ATLANTA GA-JASPER GA"
-  },
-  {
     "pro": "50512",
     "status": "OPEN",
     "pu_date": "2026-09-16",
@@ -131,8 +114,8 @@
     "del_hours": "0800-1100",
     "equipment": "Van",
     "weight_lbs": 7600,
-    "carrier_rate": null,
-    "updated_at": "2026-09-16T14:04:49.768152+00:00",
+    "carrier_rate": 600,
+    "updated_at": "2026-09-16T14:07:13.493322+00:00",
     "lane": "JACKSONVILLE FL-DULUTH GA"
   },
   {
@@ -1055,7 +1038,7 @@
   },
   {
     "pro": "50301",
-    "status": "CONSIGNEE",
+    "status": "DELIVERED",
     "pu_date": "2026-09-15",
     "pu_city": "ATHENS",
     "pu_state": "AL",
@@ -1067,7 +1050,7 @@
     "equipment": "Van",
     "weight_lbs": 43624,
     "carrier_rate": 1500,
-    "updated_at": "2026-09-16T11:45:26.459786+00:00",
+    "updated_at": "2026-09-16T14:08:42.207055+00:00",
     "lane": "ATHENS AL-GULFPORT MS"
   },
   {
