@@ -29,8 +29,8 @@
     "del_hours": "0800-1400",
     "equipment": "Flatbed w/ Tarps",
     "weight_lbs": 42000,
-    "carrier_rate": 5750,
-    "updated_at": "2026-09-16T15:22:58.344877+00:00",
+    "carrier_rate": 6000,
+    "updated_at": "2026-09-16T16:01:36.346261+00:00",
     "lane": "ALPHARETTA GA-AMARILLO TX"
   },
   {
@@ -47,7 +47,7 @@
     "equipment": "Van",
     "weight_lbs": 34000,
     "carrier_rate": 600,
-    "updated_at": "2026-09-16T15:59:50.300984+00:00",
+    "updated_at": "2026-09-16T16:02:20.799195+00:00",
     "lane": "MACON GA-CALHOUN GA"
   },
   {
@@ -336,7 +336,7 @@
     "equipment": "Van",
     "weight_lbs": 4000,
     "carrier_rate": null,
-    "updated_at": "2026-09-16T15:59:41.153868+00:00",
+    "updated_at": "2026-09-16T16:02:38.540341+00:00",
     "lane": "WINCHESTER KY-BURLINGTON NJ"
   },
   {
@@ -369,8 +369,8 @@
     "del_hours": "0730",
     "equipment": "Reefer",
     "weight_lbs": 41887,
-    "carrier_rate": null,
-    "updated_at": "2026-09-14T11:47:49.107048+00:00",
+    "carrier_rate": 5000,
+    "updated_at": "2026-09-16T16:04:58.184680+00:00",
     "lane": "GREENWOOD WI-LITHIA SPRINGS GA"
   },
   {
