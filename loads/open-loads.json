@@ -162,11 +162,11 @@
     "del_date": "2026-09-21",
     "del_city": "MIRA LOMA",
     "del_state": "CA",
-    "del_hours": "",
+    "del_hours": "1130",
     "equipment": "Van",
     "weight_lbs": 13080,
     "carrier_rate": 3800,
-    "updated_at": "2026-09-16T14:43:02.990031+00:00",
+    "updated_at": "2026-09-16T18:41:42.753376+00:00",
     "lane": "MOUNT STERLING KY-MIRA LOMA CA"
   },
   {
