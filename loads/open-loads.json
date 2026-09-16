@@ -345,15 +345,15 @@
     "pu_date": "2026-09-21",
     "pu_city": "WINCHESTER",
     "pu_state": "KY",
-    "pu_hours": "NEEDED",
+    "pu_hours": "ADREQD",
     "del_date": "2026-09-22",
     "del_city": "JACKSONVILLE",
     "del_state": "FL",
     "del_hours": "0700",
     "equipment": "Van",
-    "weight_lbs": 6250,
+    "weight_lbs": 4000,
     "carrier_rate": 2400,
-    "updated_at": "2026-09-16T18:24:39.411102+00:00",
+    "updated_at": "2026-09-16T18:29:02.488005+00:00",
     "lane": "WINCHESTER KY-JACKSONVILLE FL"
   },
   {
