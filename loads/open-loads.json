@@ -29,8 +29,8 @@
     "del_hours": "0700-1530",
     "equipment": "Van",
     "weight_lbs": 25300,
-    "carrier_rate": 700,
-    "updated_at": "2026-09-16T17:54:02.439968+00:00",
+    "carrier_rate": 650,
+    "updated_at": "2026-09-16T17:57:57.471223+00:00",
     "lane": "JACKSONVILLE FL-ROYSTON GA"
   },
   {
@@ -64,7 +64,7 @@
     "equipment": "Van",
     "weight_lbs": 4300,
     "carrier_rate": 1200,
-    "updated_at": "2026-09-16T17:51:31.577703+00:00",
+    "updated_at": "2026-09-16T17:59:42.709692+00:00",
     "lane": "COLUMBUS GA-DANDRIDGE TN"
   },
   {
@@ -83,23 +83,6 @@
     "carrier_rate": 1200,
     "updated_at": "2026-09-16T15:27:59.508224+00:00",
     "lane": "WINCHESTER KY-GEORGETOWN DE"
-  },
-  {
-    "pro": "50515",
-    "status": "OPEN",
-    "pu_date": "2026-09-17",
-    "pu_city": "JACKSONVILLE",
-    "pu_state": "FL",
-    "pu_hours": "1600",
-    "del_date": "2026-09-18",
-    "del_city": "DULUTH",
-    "del_state": "GA",
-    "del_hours": "0800-1100",
-    "equipment": "Van",
-    "weight_lbs": 7600,
-    "carrier_rate": 600,
-    "updated_at": "2026-09-16T17:49:59.081527+00:00",
-    "lane": "JACKSONVILLE FL-DULUTH GA"
   },
   {
     "pro": "50522",
