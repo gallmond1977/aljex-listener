@@ -1021,7 +1021,7 @@
   },
   {
     "pro": "50444",
-    "status": "DELIVERED",
+    "status": "RELEASED",
     "pu_date": "2026-09-15",
     "pu_city": "MACON",
     "pu_state": "GA",
@@ -1033,7 +1033,7 @@
     "equipment": "Van",
     "weight_lbs": 34000,
     "carrier_rate": 650,
-    "updated_at": "2026-09-16T12:11:23.881189+00:00",
+    "updated_at": "2026-09-16T13:11:46.505803+00:00",
     "lane": "MACON GA-CALHOUN GA"
   },
   {
