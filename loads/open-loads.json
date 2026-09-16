@@ -22,7 +22,7 @@
     "pu_date": "2026-09-16",
     "pu_city": "JACKSONVILLE",
     "pu_state": "FL",
-    "pu_hours": "0800-1500",
+    "pu_hours": "0800-1600",
     "del_date": "2026-09-17",
     "del_city": "ROYSTON",
     "del_state": "GA",
@@ -30,7 +30,7 @@
     "equipment": "Van",
     "weight_lbs": 25300,
     "carrier_rate": 700,
-    "updated_at": "2026-09-16T17:49:52.265847+00:00",
+    "updated_at": "2026-09-16T17:54:02.439968+00:00",
     "lane": "JACKSONVILLE FL-ROYSTON GA"
   },
   {
@@ -57,14 +57,14 @@
     "pu_city": "COLUMBUS",
     "pu_state": "GA",
     "pu_hours": "1430",
-    "del_date": "",
+    "del_date": "2026-09-18",
     "del_city": "DANDRIDGE",
     "del_state": "TN",
     "del_hours": "0800",
     "equipment": "Van",
     "weight_lbs": 4300,
     "carrier_rate": 1200,
-    "updated_at": "2026-09-16T17:49:53.471840+00:00",
+    "updated_at": "2026-09-16T17:51:31.577703+00:00",
     "lane": "COLUMBUS GA-DANDRIDGE TN"
   },
   {
