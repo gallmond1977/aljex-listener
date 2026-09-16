@@ -17,23 +17,6 @@
     "lane": "WINCHESTER KY-NORTH EAST MD"
   },
   {
-    "pro": "50497",
-    "status": "OPEN",
-    "pu_date": "2026-09-17",
-    "pu_city": "SAVANNAH",
-    "pu_state": "GA",
-    "pu_hours": "0800-1100",
-    "del_date": "2026-09-17",
-    "del_city": "DUBLIN",
-    "del_state": "GA",
-    "del_hours": "0800-1600",
-    "equipment": "Van",
-    "weight_lbs": 38900,
-    "carrier_rate": 800,
-    "updated_at": "2026-09-16T19:51:16.536497+00:00",
-    "lane": "SAVANNAH GA-DUBLIN GA"
-  },
-  {
     "pro": "50503",
     "status": "OPEN",
     "pu_date": "2026-09-17",
@@ -897,7 +880,7 @@
     "equipment": "Van",
     "weight_lbs": 44000,
     "carrier_rate": 1000,
-    "updated_at": "2026-09-16T19:29:09.477251+00:00",
+    "updated_at": "2026-09-16T21:20:45.993248+00:00",
     "lane": "MONCURE NC-ATLANTA GA"
   },
   {
