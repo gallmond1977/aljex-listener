@@ -1,39 +1,5 @@
 [
   {
-    "pro": "50482",
-    "status": "OPEN",
-    "pu_date": "2026-09-16",
-    "pu_city": "MONCURE",
-    "pu_state": "NC",
-    "pu_hours": "0730-1600",
-    "del_date": "2026-09-17",
-    "del_city": "ATLANTA",
-    "del_state": "GA",
-    "del_hours": "0800-1600",
-    "equipment": "Van",
-    "weight_lbs": 44000,
-    "carrier_rate": 1000,
-    "updated_at": "2026-09-16T13:34:17.809241+00:00",
-    "lane": "MONCURE NC-ATLANTA GA"
-  },
-  {
-    "pro": "50527",
-    "status": "OPEN",
-    "pu_date": "2026-09-16",
-    "pu_city": "BENSENVILLE",
-    "pu_state": "IL",
-    "pu_hours": "1200-1530",
-    "del_date": "2026-09-17",
-    "del_city": "BELCAMP",
-    "del_state": "MD",
-    "del_hours": "0700-1500",
-    "equipment": "Van",
-    "weight_lbs": 42000,
-    "carrier_rate": 2800,
-    "updated_at": "2026-09-16T18:15:08.104532+00:00",
-    "lane": "BENSENVILLE IL-BELCAMP MD"
-  },
-  {
     "pro": "50328",
     "status": "OPEN",
     "pu_date": "2026-09-17",
@@ -81,7 +47,7 @@
     "equipment": "Reefer",
     "weight_lbs": 1800,
     "carrier_rate": 900,
-    "updated_at": "2026-09-16T18:24:17.170507+00:00",
+    "updated_at": "2026-09-16T18:39:03.024812+00:00",
     "lane": "CUMMING GA-CANON GA"
   },
   {
@@ -765,23 +731,6 @@
     "lane": "CUMMING GA-CANON GA"
   },
   {
-    "pro": "50406",
-    "status": "RELEASED",
-    "pu_date": "2026-09-11",
-    "pu_city": "MONCURE",
-    "pu_state": "NC",
-    "pu_hours": "0730-1600",
-    "del_date": "2026-09-14",
-    "del_city": "ATLANTA",
-    "del_state": "GA",
-    "del_hours": "0800-1600",
-    "equipment": "Van",
-    "weight_lbs": 44000,
-    "carrier_rate": 900,
-    "updated_at": "2026-09-16T16:44:00.201351+00:00",
-    "lane": "MONCURE NC-ATLANTA GA"
-  },
-  {
     "pro": "50418",
     "status": "RELEASED",
     "pu_date": "2026-09-11",
@@ -814,23 +763,6 @@
     "carrier_rate": 2800,
     "updated_at": "2026-09-16T15:22:58.334300+00:00",
     "lane": "LA PORTE TX-GREENVILLE SC"
-  },
-  {
-    "pro": "50433",
-    "status": "DELIVERED",
-    "pu_date": "2026-09-14",
-    "pu_city": "MONCURE",
-    "pu_state": "NC",
-    "pu_hours": "0730-1600",
-    "del_date": "2026-09-15",
-    "del_city": "ATLANTA",
-    "del_state": "GA",
-    "del_hours": "0800-1600",
-    "equipment": "Van",
-    "weight_lbs": 44000,
-    "carrier_rate": 900,
-    "updated_at": "2026-09-15T14:13:12.833496+00:00",
-    "lane": "MONCURE NC-ATLANTA GA"
   },
   {
     "pro": "50301",
