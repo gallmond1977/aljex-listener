@@ -68,23 +68,6 @@
     "lane": "MONCURE NC-ATLANTA GA"
   },
   {
-    "pro": "50521",
-    "status": "OPEN",
-    "pu_date": "2026-09-16",
-    "pu_city": "GREENVILLE",
-    "pu_state": "NC",
-    "pu_hours": "",
-    "del_date": "2026-09-16",
-    "del_city": "WAKE FOREST",
-    "del_state": "NC",
-    "del_hours": "0700-1500",
-    "equipment": "Sprinter Van",
-    "weight_lbs": 350,
-    "carrier_rate": 250,
-    "updated_at": "2026-09-16T14:53:01.026868+00:00",
-    "lane": "GREENVILLE NC-WAKE FOREST NC"
-  },
-  {
     "pro": "50328",
     "status": "OPEN",
     "pu_date": "2026-09-17",
@@ -332,12 +315,29 @@
     "del_date": "2026-09-21",
     "del_city": "JACKSONVILLE",
     "del_state": "FL",
-    "del_hours": "NEEDED",
+    "del_hours": "AD REQD",
     "equipment": "Van",
     "weight_lbs": 6250,
     "carrier_rate": null,
-    "updated_at": "2026-09-16T15:44:45.111188+00:00",
+    "updated_at": "2026-09-16T15:50:52.823985+00:00",
     "lane": "WINCHESTER KY-JACKSONVILLE FL"
+  },
+  {
+    "pro": "50524",
+    "status": "OPEN",
+    "pu_date": "2026-09-18",
+    "pu_city": "WINCHESTER",
+    "pu_state": "KY",
+    "pu_hours": "NEEDED",
+    "del_date": "2026-09-21",
+    "del_city": "BURLINGTON",
+    "del_state": "NJ",
+    "del_hours": "",
+    "equipment": "Van",
+    "weight_lbs": 13617,
+    "carrier_rate": null,
+    "updated_at": "2026-09-16T15:53:57.598009+00:00",
+    "lane": "WINCHESTER KY-BURLINGTON NJ"
   },
   {
     "pro": "50107",
@@ -948,7 +948,7 @@
     "equipment": "Flatbed w/ Tarps",
     "weight_lbs": 42000,
     "carrier_rate": 5200,
-    "updated_at": "2026-09-16T15:29:51.051308+00:00",
+    "updated_at": "2026-09-16T15:52:27.832829+00:00",
     "lane": "ALPHARETTA GA-AMARILLO TX"
   },
   {
