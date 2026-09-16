@@ -177,14 +177,14 @@
     "pu_state": "KY",
     "pu_hours": "0800-1100",
     "del_date": "2026-09-21",
-    "del_city": "BARRIE",
+    "del_city": "HUNTSVILLE",
     "del_state": "ON",
     "del_hours": "",
     "equipment": "Van",
     "weight_lbs": 5000,
     "carrier_rate": 1200,
-    "updated_at": "2026-09-11T17:19:41.154137+00:00",
-    "lane": "WINCHESTER KY-BARRIE ON"
+    "updated_at": "2026-09-16T16:53:16.034549+00:00",
+    "lane": "WINCHESTER KY-HUNTSVILLE ON"
   },
   {
     "pro": "50463",
@@ -868,7 +868,7 @@
   },
   {
     "pro": "50301",
-    "status": "DELIVERED",
+    "status": "RELEASED",
     "pu_date": "2026-09-15",
     "pu_city": "ATHENS",
     "pu_state": "AL",
@@ -880,7 +880,7 @@
     "equipment": "Van",
     "weight_lbs": 43624,
     "carrier_rate": 1500,
-    "updated_at": "2026-09-16T16:41:36.060130+00:00",
+    "updated_at": "2026-09-16T16:50:28.608867+00:00",
     "lane": "ATHENS AL-GULFPORT MS"
   },
   {
