@@ -51,23 +51,6 @@
     "lane": "COLUMBUS GA-DANDRIDGE TN"
   },
   {
-    "pro": "50498",
-    "status": "OPEN",
-    "pu_date": "2026-09-17",
-    "pu_city": "COLUMBUS",
-    "pu_state": "GA",
-    "pu_hours": "0800-1500",
-    "del_date": "2026-09-18",
-    "del_city": "GREER",
-    "del_state": "SC",
-    "del_hours": "0800-1500",
-    "equipment": "Flatbed w/ Tarps",
-    "weight_lbs": 44305,
-    "carrier_rate": 1500,
-    "updated_at": "2026-09-15T18:08:21.627468+00:00",
-    "lane": "COLUMBUS GA-GREER SC"
-  },
-  {
     "pro": "50503",
     "status": "OPEN",
     "pu_date": "2026-09-17",
