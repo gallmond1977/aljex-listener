@@ -102,6 +102,23 @@
     "lane": "ATLANTA GA-LAWRENCEVILLE GA"
   },
   {
+    "pro": "50518",
+    "status": "OPEN",
+    "pu_date": "2026-09-16",
+    "pu_city": "WINCHESTER",
+    "pu_state": "KY",
+    "pu_hours": "1000-1500",
+    "del_date": "2026-09-17",
+    "del_city": "MONTICELLO",
+    "del_state": "IL",
+    "del_hours": "0800",
+    "equipment": "26' Straight Box Truck",
+    "weight_lbs": 4500,
+    "carrier_rate": 700,
+    "updated_at": "2026-09-16T14:33:30.756226+00:00",
+    "lane": "WINCHESTER KY-MONTICELLO IL"
+  },
+  {
     "pro": "50328",
     "status": "OPEN",
     "pu_date": "2026-09-17",
@@ -200,7 +217,7 @@
     "equipment": "Van",
     "weight_lbs": 43000,
     "carrier_rate": 500,
-    "updated_at": "2026-09-16T12:12:12.515782+00:00",
+    "updated_at": "2026-09-16T14:34:29.226034+00:00",
     "lane": "ROCKINGHAM NC-BELMONT NC"
   },
   {
@@ -264,11 +281,11 @@
     "del_date": "2026-09-18",
     "del_city": "FLORENCE",
     "del_state": "KY",
-    "del_hours": "",
+    "del_hours": "AD REQD",
     "equipment": "Van",
     "weight_lbs": 4375,
     "carrier_rate": 700,
-    "updated_at": "2026-09-16T14:23:39.557383+00:00",
+    "updated_at": "2026-09-16T14:32:07.637736+00:00",
     "lane": "WINCHESTER KY-FLORENCE KY"
   },
   {
@@ -351,9 +368,9 @@
     "del_state": "CA",
     "del_hours": "1030",
     "equipment": "Van",
-    "weight_lbs": 2616,
-    "carrier_rate": null,
-    "updated_at": "2026-09-15T20:28:17.625265+00:00",
+    "weight_lbs": 13080,
+    "carrier_rate": 3800,
+    "updated_at": "2026-09-16T14:35:00.426164+00:00",
     "lane": "MOUNT STERLING KY-MIRA LOMA CA"
   },
   {
