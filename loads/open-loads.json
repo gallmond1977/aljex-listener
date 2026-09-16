@@ -29,8 +29,8 @@
     "del_hours": "0800-1400",
     "equipment": "Flatbed w/ Tarps",
     "weight_lbs": 42000,
-    "carrier_rate": 5000,
-    "updated_at": "2026-09-16T12:22:44.490631+00:00",
+    "carrier_rate": 5200,
+    "updated_at": "2026-09-16T14:51:33.541837+00:00",
     "lane": "ALPHARETTA GA-AMARILLO TX"
   },
   {
@@ -132,7 +132,7 @@
     "equipment": "Sprinter Van",
     "weight_lbs": 350,
     "carrier_rate": 250,
-    "updated_at": "2026-09-16T14:49:42.219228+00:00",
+    "updated_at": "2026-09-16T14:53:01.026868+00:00",
     "lane": "GREENVILLE NC-WAKE FOREST NC"
   },
   {
@@ -209,7 +209,7 @@
     "pu_date": "2026-09-17",
     "pu_city": "WINCHESTER",
     "pu_state": "KY",
-    "pu_hours": "0700-0900",
+    "pu_hours": "0700-1000",
     "del_date": "2026-09-18",
     "del_city": "GEORGETOWN",
     "del_state": "DE",
@@ -217,7 +217,7 @@
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 2500,
     "carrier_rate": 1100,
-    "updated_at": "2026-09-16T14:28:40.137473+00:00",
+    "updated_at": "2026-09-16T14:53:37.457683+00:00",
     "lane": "WINCHESTER KY-GEORGETOWN DE"
   },
   {
@@ -253,23 +253,6 @@
     "carrier_rate": 600,
     "updated_at": "2026-09-16T14:23:10.308796+00:00",
     "lane": "JACKSONVILLE FL-DULUTH GA"
-  },
-  {
-    "pro": "50516",
-    "status": "OPEN",
-    "pu_date": "2026-09-17",
-    "pu_city": "RICHMOND",
-    "pu_state": "VA",
-    "pu_hours": "0900-0930",
-    "del_date": "2026-09-17",
-    "del_city": "RICHMOND",
-    "del_state": "VA",
-    "del_hours": "1000-1100",
-    "equipment": "26' Straight Box Truck",
-    "weight_lbs": 1500,
-    "carrier_rate": 200,
-    "updated_at": "2026-09-16T14:12:26.381402+00:00",
-    "lane": "RICHMOND VA-RICHMOND VA"
   },
   {
     "pro": "50517",
@@ -1241,6 +1224,23 @@
     "lane": "MACON GA-CALHOUN GA"
   },
   {
+    "pro": "50516",
+    "status": "COVERED",
+    "pu_date": "2026-09-17",
+    "pu_city": "RICHMOND",
+    "pu_state": "VA",
+    "pu_hours": "0900-0930",
+    "del_date": "2026-09-17",
+    "del_city": "RICHMOND",
+    "del_state": "VA",
+    "del_hours": "1000-1100",
+    "equipment": "26' Straight Box Truck",
+    "weight_lbs": 1500,
+    "carrier_rate": 200,
+    "updated_at": "2026-09-16T14:55:07.092019+00:00",
+    "lane": "RICHMOND VA-RICHMOND VA"
+  },
+  {
     "pro": "50509",
     "status": "COVERED",
     "pu_date": "2026-09-21",
@@ -1253,8 +1253,8 @@
     "del_hours": "0700-1500",
     "equipment": "Van",
     "weight_lbs": 34000,
-    "carrier_rate": 600,
-    "updated_at": "2026-09-16T14:43:47.862647+00:00",
+    "carrier_rate": 650,
+    "updated_at": "2026-09-16T14:51:00.418545+00:00",
     "lane": "MACON GA-CALHOUN GA"
   }
 ]
