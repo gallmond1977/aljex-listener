@@ -30,7 +30,7 @@
     "equipment": "Van",
     "weight_lbs": 38900,
     "carrier_rate": 800,
-    "updated_at": "2026-09-16T19:48:49.128068+00:00",
+    "updated_at": "2026-09-16T19:51:16.536497+00:00",
     "lane": "SAVANNAH GA-DUBLIN GA"
   },
   {
@@ -464,7 +464,7 @@
     "pu_date": "2026-09-23",
     "pu_city": "ATLANTA",
     "pu_state": "GA",
-    "pu_hours": "NEEDED",
+    "pu_hours": "0700",
     "del_date": "2026-09-23",
     "del_city": "ATLANTA",
     "del_state": "GA",
@@ -472,7 +472,7 @@
     "equipment": "Reefer",
     "weight_lbs": 33095,
     "carrier_rate": null,
-    "updated_at": "2026-09-16T19:44:57.703102+00:00",
+    "updated_at": "2026-09-16T19:54:14.657221+00:00",
     "lane": "ATLANTA GA-ATLANTA GA"
   },
   {
