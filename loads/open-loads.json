@@ -204,23 +204,6 @@
     "lane": "WINCHESTER KY-FLORENCE KY"
   },
   {
-    "pro": "50523",
-    "status": "OPEN",
-    "pu_date": "2026-09-18",
-    "pu_city": "WINCHESTER",
-    "pu_state": "KY",
-    "pu_hours": "NEEDED",
-    "del_date": "2026-09-21",
-    "del_city": "JACKSONVILLE",
-    "del_state": "FL",
-    "del_hours": "AD REQD",
-    "equipment": "Van",
-    "weight_lbs": 6250,
-    "carrier_rate": null,
-    "updated_at": "2026-09-16T15:50:52.823985+00:00",
-    "lane": "WINCHESTER KY-JACKSONVILLE FL"
-  },
-  {
     "pro": "50524",
     "status": "OPEN",
     "pu_date": "2026-09-18",
@@ -338,6 +321,23 @@
     "carrier_rate": 2000,
     "updated_at": "2026-09-16T12:45:17.427514+00:00",
     "lane": "EL DORADO AR-CALHOUN GA"
+  },
+  {
+    "pro": "50523",
+    "status": "OPEN",
+    "pu_date": "2026-09-21",
+    "pu_city": "WINCHESTER",
+    "pu_state": "KY",
+    "pu_hours": "NEEDED",
+    "del_date": "2026-09-22",
+    "del_city": "JACKSONVILLE",
+    "del_state": "FL",
+    "del_hours": "0700",
+    "equipment": "Van",
+    "weight_lbs": 6250,
+    "carrier_rate": 2400,
+    "updated_at": "2026-09-16T18:18:32.702504+00:00",
+    "lane": "WINCHESTER KY-JACKSONVILLE FL"
   },
   {
     "pro": "50159",
