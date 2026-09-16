@@ -85,6 +85,23 @@
     "lane": "WINCHESTER KY-ETNA OH"
   },
   {
+    "pro": "50507",
+    "status": "OPEN",
+    "pu_date": "2026-09-16",
+    "pu_city": "WILDWOOD",
+    "pu_state": "FL",
+    "pu_hours": "0800-1400",
+    "del_date": "2026-09-17",
+    "del_city": "GREENVILLE",
+    "del_state": "SC",
+    "del_hours": "0800-1000",
+    "equipment": "26' Straight Box Truck",
+    "weight_lbs": 850,
+    "carrier_rate": 650,
+    "updated_at": "2026-09-16T12:39:59.997932+00:00",
+    "lane": "WILDWOOD FL-GREENVILLE SC"
+  },
+  {
     "pro": "50472",
     "status": "OPEN",
     "pu_date": "2026-09-17",
@@ -179,11 +196,11 @@
     "del_date": "2026-09-18",
     "del_city": "CRYSTAL LAKE",
     "del_state": "IL",
-    "del_hours": "CALL!",
+    "del_hours": "1000",
     "equipment": "Van",
     "weight_lbs": 30000,
     "carrier_rate": 2000,
-    "updated_at": "2026-09-16T12:08:24.314911+00:00",
+    "updated_at": "2026-09-16T12:38:12.622925+00:00",
     "lane": "PHENIX CITY AL-CRYSTAL LAKE IL"
   },
   {
