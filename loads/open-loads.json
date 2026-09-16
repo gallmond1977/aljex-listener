@@ -1,22 +1,5 @@
 [
   {
-    "pro": "50422",
-    "status": "OPEN",
-    "pu_date": "2026-09-16",
-    "pu_city": "GREEN RIVER",
-    "pu_state": "WY",
-    "pu_hours": "1400",
-    "del_date": "2026-09-18",
-    "del_city": "SAN ANTONIO",
-    "del_state": "TX",
-    "del_hours": "0700-1400",
-    "equipment": "Van",
-    "weight_lbs": 44990,
-    "carrier_rate": 2600,
-    "updated_at": "2026-09-15T15:52:04.763072+00:00",
-    "lane": "GREEN RIVER WY-SAN ANTONIO TX"
-  },
-  {
     "pro": "50482",
     "status": "OPEN",
     "pu_date": "2026-09-16",
@@ -151,6 +134,23 @@
     "carrier_rate": 450,
     "updated_at": "2026-09-16T15:20:09.465358+00:00",
     "lane": "RALEIGH NC-WINSTON SALEM NC"
+  },
+  {
+    "pro": "50422",
+    "status": "OPEN",
+    "pu_date": "2026-09-18",
+    "pu_city": "GREEN RIVER",
+    "pu_state": "WY",
+    "pu_hours": "1-2 RQST",
+    "del_date": "2026-09-18",
+    "del_city": "SAN ANTONIO",
+    "del_state": "TX",
+    "del_hours": "0700-1400",
+    "equipment": "Van",
+    "weight_lbs": 44990,
+    "carrier_rate": 2600,
+    "updated_at": "2026-09-16T17:23:23.855952+00:00",
+    "lane": "GREEN RIVER WY-SAN ANTONIO TX"
   },
   {
     "pro": "50434",
@@ -914,7 +914,7 @@
     "equipment": "Flatbed w/ Tarps",
     "weight_lbs": 40000,
     "carrier_rate": 3400,
-    "updated_at": "2026-09-16T17:19:53.713788+00:00",
+    "updated_at": "2026-09-16T17:20:22.991729+00:00",
     "lane": "ALPHARETTA GA-BELCAMP MD"
   }
 ]
