@@ -51,23 +51,6 @@
     "lane": "WINCHESTER KY-GEORGETOWN DE"
   },
   {
-    "pro": "50522",
-    "status": "OPEN",
-    "pu_date": "2026-09-17",
-    "pu_city": "RALEIGH",
-    "pu_state": "NC",
-    "pu_hours": "0900",
-    "del_date": "2026-09-17",
-    "del_city": "WINSTON SALEM",
-    "del_state": "NC",
-    "del_hours": "0800-1500",
-    "equipment": "Van",
-    "weight_lbs": 7138,
-    "carrier_rate": 450,
-    "updated_at": "2026-09-16T18:02:45.700081+00:00",
-    "lane": "RALEIGH NC-WINSTON SALEM NC"
-  },
-  {
     "pro": "50422",
     "status": "OPEN",
     "pu_date": "2026-09-18",
@@ -612,23 +595,6 @@
     "lane": "ATHENS AL-GULFPORT MS"
   },
   {
-    "pro": "50272",
-    "status": "RELEASED",
-    "pu_date": "2026-09-03",
-    "pu_city": "RALEIGH",
-    "pu_state": "NC",
-    "pu_hours": "1000",
-    "del_date": "2026-09-03",
-    "del_city": "WINSTON SALEM",
-    "del_state": "NC",
-    "del_hours": "0800-1500",
-    "equipment": "Van",
-    "weight_lbs": 11747,
-    "carrier_rate": 500,
-    "updated_at": "2026-09-09T19:43:01.838060+00:00",
-    "lane": "RALEIGH NC-WINSTON SALEM NC"
-  },
-  {
     "pro": "50279",
     "status": "RELEASED",
     "pu_date": "2026-09-04",
@@ -729,23 +695,6 @@
     "carrier_rate": 3300,
     "updated_at": "2026-09-14T15:08:45.948312+00:00",
     "lane": "ALPHARETTA GA-BELCAMP MD"
-  },
-  {
-    "pro": "50390",
-    "status": "RELEASED",
-    "pu_date": "2026-09-10",
-    "pu_city": "RALEIGH",
-    "pu_state": "NC",
-    "pu_hours": "0800",
-    "del_date": "2026-09-10",
-    "del_city": "WINSTON SALEM",
-    "del_state": "NC",
-    "del_hours": "0800-1500",
-    "equipment": "26' Straight Box Truck",
-    "weight_lbs": 5110,
-    "carrier_rate": 300,
-    "updated_at": "2026-09-14T14:01:25.076485+00:00",
-    "lane": "RALEIGH NC-WINSTON SALEM NC"
   },
   {
     "pro": "50406",
