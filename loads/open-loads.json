@@ -115,8 +115,25 @@
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 4500,
     "carrier_rate": 700,
-    "updated_at": "2026-09-16T14:44:53.633922+00:00",
+    "updated_at": "2026-09-16T14:47:47.757161+00:00",
     "lane": "WINCHESTER KY-MONTICELLO IL"
+  },
+  {
+    "pro": "50521",
+    "status": "OPEN",
+    "pu_date": "2026-09-16",
+    "pu_city": "GREENVILLE",
+    "pu_state": "NC",
+    "pu_hours": "",
+    "del_date": "2026-09-16",
+    "del_city": "WAKE FOREST",
+    "del_state": "NC",
+    "del_hours": "0700-1500",
+    "equipment": "Sprinter Van",
+    "weight_lbs": 350,
+    "carrier_rate": 250,
+    "updated_at": "2026-09-16T14:49:42.219228+00:00",
+    "lane": "GREENVILLE NC-WAKE FOREST NC"
   },
   {
     "pro": "50328",
