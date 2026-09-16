@@ -47,7 +47,7 @@
     "equipment": "Van",
     "weight_lbs": 34000,
     "carrier_rate": 600,
-    "updated_at": "2026-09-16T13:06:46.329299+00:00",
+    "updated_at": "2026-09-16T15:59:50.300984+00:00",
     "lane": "MACON GA-CALHOUN GA"
   },
   {
@@ -98,7 +98,7 @@
     "equipment": "Van",
     "weight_lbs": 4300,
     "carrier_rate": null,
-    "updated_at": "2026-09-15T17:25:03.238643+00:00",
+    "updated_at": "2026-09-16T15:58:07.097712+00:00",
     "lane": "COLUMBUS GA-DANDRIDGE TN"
   },
   {
@@ -332,11 +332,11 @@
     "del_date": "2026-09-21",
     "del_city": "BURLINGTON",
     "del_state": "NJ",
-    "del_hours": "",
+    "del_hours": "ADREQD",
     "equipment": "Van",
-    "weight_lbs": 13617,
+    "weight_lbs": 4000,
     "carrier_rate": null,
-    "updated_at": "2026-09-16T15:53:57.598009+00:00",
+    "updated_at": "2026-09-16T15:59:41.153868+00:00",
     "lane": "WINCHESTER KY-BURLINGTON NJ"
   },
   {
@@ -712,23 +712,6 @@
     "carrier_rate": 600,
     "updated_at": "2026-09-09T20:13:46.709132+00:00",
     "lane": "MACON GA-CALHOUN GA"
-  },
-  {
-    "pro": "50132",
-    "status": "RELEASED",
-    "pu_date": "2026-09-03",
-    "pu_city": "ATHENS",
-    "pu_state": "AL",
-    "pu_hours": "0700-1500",
-    "del_date": "2026-09-04",
-    "del_city": "GULFPORT",
-    "del_state": "MS",
-    "del_hours": "0700-1000",
-    "equipment": "Van",
-    "weight_lbs": 43468,
-    "carrier_rate": 1550,
-    "updated_at": "2026-09-09T15:55:26.186800+00:00",
-    "lane": "ATHENS AL-GULFPORT MS"
   },
   {
     "pro": "50134",
