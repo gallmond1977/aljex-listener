@@ -34,6 +34,23 @@
     "lane": "WINCHESTER KY-GEORGETOWN DE"
   },
   {
+    "pro": "50520",
+    "status": "OPEN",
+    "pu_date": "2026-09-17",
+    "pu_city": "ALPHARETTA",
+    "pu_state": "GA",
+    "pu_hours": "0900-1200",
+    "del_date": "2026-09-18",
+    "del_city": "BELCAMP",
+    "del_state": "MD",
+    "del_hours": "0700-1500",
+    "equipment": "Flatbed w/ Tarps",
+    "weight_lbs": 28000,
+    "carrier_rate": 3300,
+    "updated_at": "2026-09-16T19:05:11.296734+00:00",
+    "lane": "ALPHARETTA GA-BELCAMP MD"
+  },
+  {
     "pro": "50528",
     "status": "OPEN",
     "pu_date": "2026-09-17",
@@ -323,6 +340,23 @@
     "lane": "WINCHESTER KY-JACKSONVILLE FL"
   },
   {
+    "pro": "50530",
+    "status": "OPEN",
+    "pu_date": "2026-09-21",
+    "pu_city": "OPELIKA",
+    "pu_state": "AL",
+    "pu_hours": "0800-1500",
+    "del_date": "2026-09-21",
+    "del_city": "COLUMBIA",
+    "del_state": "AL",
+    "del_hours": "0530-1900",
+    "equipment": "Flatbed",
+    "weight_lbs": 47000,
+    "carrier_rate": 1000,
+    "updated_at": "2026-09-16T19:01:12.335193+00:00",
+    "lane": "OPELIKA AL-COLUMBIA AL"
+  },
+  {
     "pro": "50159",
     "status": "OPEN",
     "pu_date": "2026-09-22",
@@ -423,23 +457,6 @@
     "carrier_rate": 1500,
     "updated_at": "2026-09-09T16:14:37.181153+00:00",
     "lane": "ATHENS AL-GULFPORT MS"
-  },
-  {
-    "pro": "50520",
-    "status": "OPEN",
-    "pu_date": "2026-09-23",
-    "pu_city": "ALPHARETTA",
-    "pu_state": "GA",
-    "pu_hours": "0900-1800",
-    "del_date": "2026-09-24",
-    "del_city": "BELCAMP",
-    "del_state": "MD",
-    "del_hours": "0700-1500",
-    "equipment": "Flatbed w/ Tarps",
-    "weight_lbs": 40000,
-    "carrier_rate": 3300,
-    "updated_at": "2026-09-16T15:11:27.847643+00:00",
-    "lane": "ALPHARETTA GA-BELCAMP MD"
   },
   {
     "pro": "50529",
@@ -782,6 +799,23 @@
     "lane": "LA PORTE TX-GREENVILLE SC"
   },
   {
+    "pro": "50424",
+    "status": "RELEASED",
+    "pu_date": "2026-09-14",
+    "pu_city": "OPELIKA",
+    "pu_state": "AL",
+    "pu_hours": "0800-1500",
+    "del_date": "2026-09-15",
+    "del_city": "COLUMBIA",
+    "del_state": "AL",
+    "del_hours": "0530-1900",
+    "equipment": "Flatbed",
+    "weight_lbs": 47000,
+    "carrier_rate": 1000,
+    "updated_at": "2026-09-15T12:02:32.007884+00:00",
+    "lane": "OPELIKA AL-COLUMBIA AL"
+  },
+  {
     "pro": "50301",
     "status": "RELEASED",
     "pu_date": "2026-09-15",
@@ -831,6 +865,23 @@
     "carrier_rate": 950,
     "updated_at": "2026-09-16T18:24:28.057279+00:00",
     "lane": "CUMMING GA-CANON GA"
+  },
+  {
+    "pro": "50494",
+    "status": "LOADED",
+    "pu_date": "2026-09-16",
+    "pu_city": "OPELIKA",
+    "pu_state": "AL",
+    "pu_hours": "0800-1500",
+    "del_date": "2026-09-17",
+    "del_city": "COLUMBIA",
+    "del_state": "AL",
+    "del_hours": "0530-1900",
+    "equipment": "Flatbed",
+    "weight_lbs": 47000,
+    "carrier_rate": 1000,
+    "updated_at": "2026-09-16T19:00:34.677462+00:00",
+    "lane": "OPELIKA AL-COLUMBIA AL"
   },
   {
     "pro": "50516",
