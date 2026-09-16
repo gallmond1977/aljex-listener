@@ -40,14 +40,14 @@
     "pu_city": "ALPHARETTA",
     "pu_state": "GA",
     "pu_hours": "0900-1600",
-    "del_date": "2026-09-17",
+    "del_date": "2026-09-18",
     "del_city": "AMARILLO",
     "del_state": "TX",
     "del_hours": "0800-1400",
     "equipment": "Flatbed w/ Tarps",
     "weight_lbs": 42000,
     "carrier_rate": 5000,
-    "updated_at": "2026-09-16T11:57:56.099968+00:00",
+    "updated_at": "2026-09-16T12:22:44.490631+00:00",
     "lane": "ALPHARETTA GA-AMARILLO TX"
   },
   {
@@ -83,6 +83,23 @@
     "carrier_rate": 450,
     "updated_at": "2026-09-15T20:30:09.310017+00:00",
     "lane": "WINCHESTER KY-ETNA OH"
+  },
+  {
+    "pro": "50506",
+    "status": "OPEN",
+    "pu_date": "2026-09-16",
+    "pu_city": "UNION CITY",
+    "pu_state": "GA",
+    "pu_hours": "0930",
+    "del_date": "2026-09-16",
+    "del_city": "CHARLOTTE",
+    "del_state": "NC",
+    "del_hours": "1500",
+    "equipment": "26' Straight Box Truck",
+    "weight_lbs": 3000,
+    "carrier_rate": 500,
+    "updated_at": "2026-09-16T12:25:03.201731+00:00",
+    "lane": "UNION CITY GA-CHARLOTTE NC"
   },
   {
     "pro": "50472",
@@ -1004,7 +1021,7 @@
   },
   {
     "pro": "50445",
-    "status": "COVERED",
+    "status": "PICKUP",
     "pu_date": "2026-09-16",
     "pu_city": "MACON",
     "pu_state": "GA",
@@ -1016,7 +1033,7 @@
     "equipment": "Van",
     "weight_lbs": 34000,
     "carrier_rate": 600,
-    "updated_at": "2026-09-16T12:10:19.829849+00:00",
+    "updated_at": "2026-09-16T12:23:55.504940+00:00",
     "lane": "MACON GA-CALHOUN GA"
   },
   {
