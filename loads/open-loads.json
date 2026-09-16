@@ -92,14 +92,14 @@
     "pu_state": "GA",
     "pu_hours": "0900-1500",
     "del_date": "2026-09-16",
-    "del_city": "CARTERSVILLE",
+    "del_city": "LAWRENCEVILLE",
     "del_state": "GA",
     "del_hours": "0800-1500",
     "equipment": "Flatbed w/ Tarps",
     "weight_lbs": 21181,
     "carrier_rate": 500,
-    "updated_at": "2026-09-16T14:10:22.725218+00:00",
-    "lane": "ATLANTA GA-CARTERSVILLE GA"
+    "updated_at": "2026-09-16T14:29:21.529421+00:00",
+    "lane": "ATLANTA GA-LAWRENCEVILLE GA"
   },
   {
     "pro": "50328",
@@ -183,7 +183,7 @@
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 2500,
     "carrier_rate": 1100,
-    "updated_at": "2026-09-16T14:24:41.417214+00:00",
+    "updated_at": "2026-09-16T14:28:40.137473+00:00",
     "lane": "WINCHESTER KY-GEORGETOWN DE"
   },
   {
@@ -935,23 +935,6 @@
     "lane": "WINCHESTER KY-FLORENCE KY"
   },
   {
-    "pro": "50375",
-    "status": "RELEASED",
-    "pu_date": "2026-09-09",
-    "pu_city": "ATLANTA",
-    "pu_state": "GA",
-    "pu_hours": "0900-1100",
-    "del_date": "2026-09-09",
-    "del_city": "CARTERSVILLE",
-    "del_state": "GA",
-    "del_hours": "0800-1500",
-    "equipment": "Flatbed Hot Shot",
-    "weight_lbs": 9000,
-    "carrier_rate": 450,
-    "updated_at": "2026-09-11T11:50:26.056328+00:00",
-    "lane": "ATLANTA GA-CARTERSVILLE GA"
-  },
-  {
     "pro": "50182",
     "status": "RELEASED",
     "pu_date": "2026-09-10",
@@ -1137,23 +1120,6 @@
     "carrier_rate": 600,
     "updated_at": "2026-09-16T13:24:56.304177+00:00",
     "lane": "MACON GA-CALHOUN GA"
-  },
-  {
-    "pro": "50468",
-    "status": "RELEASED",
-    "pu_date": "2026-09-15",
-    "pu_city": "ATLANTA",
-    "pu_state": "GA",
-    "pu_hours": "0900-1100",
-    "del_date": "2026-09-15",
-    "del_city": "CARTERSVILLE",
-    "del_state": "GA",
-    "del_hours": "0800-1500",
-    "equipment": "Flatbed Hot Shot",
-    "weight_lbs": 4547,
-    "carrier_rate": 450,
-    "updated_at": "2026-09-16T13:22:41.993894+00:00",
-    "lane": "ATLANTA GA-CARTERSVILLE GA"
   },
   {
     "pro": "50445",
