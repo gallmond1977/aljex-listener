@@ -51,6 +51,23 @@
     "lane": "CUMMING GA-CANON GA"
   },
   {
+    "pro": "50531",
+    "status": "OPEN",
+    "pu_date": "2026-09-17",
+    "pu_city": "JACKSONVILLE",
+    "pu_state": "FL",
+    "pu_hours": "0700-1600",
+    "del_date": "2026-09-18",
+    "del_city": "MAYNARDVILLE",
+    "del_state": "TN",
+    "del_hours": "",
+    "equipment": "Van",
+    "weight_lbs": 2086,
+    "carrier_rate": 1100,
+    "updated_at": "2026-09-16T19:44:18.802277+00:00",
+    "lane": "JACKSONVILLE FL-MAYNARDVILLE TN"
+  },
+  {
     "pro": "50422",
     "status": "OPEN",
     "pu_date": "2026-09-18",
@@ -455,7 +472,7 @@
     "equipment": "Reefer",
     "weight_lbs": 33095,
     "carrier_rate": null,
-    "updated_at": "2026-09-16T18:56:07.614747+00:00",
+    "updated_at": "2026-09-16T19:44:57.703102+00:00",
     "lane": "ATLANTA GA-ATLANTA GA"
   },
   {
