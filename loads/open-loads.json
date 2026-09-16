@@ -85,6 +85,23 @@
     "lane": "JACKSONVILLE FL-MAYNARDVILLE TN"
   },
   {
+    "pro": "50532",
+    "status": "OPEN",
+    "pu_date": "2026-09-17",
+    "pu_city": "PLEASANT GARDEN",
+    "pu_state": "NC",
+    "pu_hours": "0800-1200",
+    "del_date": "2026-09-17",
+    "del_city": "CARY",
+    "del_state": "NC",
+    "del_hours": "0800-1200",
+    "equipment": "Sprinter Van",
+    "weight_lbs": 190,
+    "carrier_rate": 250,
+    "updated_at": "2026-09-16T20:07:24.426559+00:00",
+    "lane": "PLEASANT GARDEN NC-CARY NC"
+  },
+  {
     "pro": "50422",
     "status": "OPEN",
     "pu_date": "2026-09-18",
