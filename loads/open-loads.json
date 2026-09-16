@@ -217,7 +217,7 @@
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 2500,
     "carrier_rate": 1100,
-    "updated_at": "2026-09-16T14:53:37.457683+00:00",
+    "updated_at": "2026-09-16T14:55:50.744297+00:00",
     "lane": "WINCHESTER KY-GEORGETOWN DE"
   },
   {
@@ -816,23 +816,6 @@
     "lane": "ATHENS AL-GULFPORT MS"
   },
   {
-    "pro": "50133",
-    "status": "RELEASED",
-    "pu_date": "2026-09-03",
-    "pu_city": "ATHENS",
-    "pu_state": "AL",
-    "pu_hours": "0700-1500",
-    "del_date": "2026-09-04",
-    "del_city": "GULFPORT",
-    "del_state": "MS",
-    "del_hours": "0700-1000",
-    "equipment": "Van",
-    "weight_lbs": 43451,
-    "carrier_rate": 1600,
-    "updated_at": "2026-09-09T14:58:04.618298+00:00",
-    "lane": "ATHENS AL-GULFPORT MS"
-  },
-  {
     "pro": "50134",
     "status": "RELEASED",
     "pu_date": "2026-09-03",
@@ -1237,7 +1220,7 @@
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 1500,
     "carrier_rate": 200,
-    "updated_at": "2026-09-16T14:55:07.092019+00:00",
+    "updated_at": "2026-09-16T14:55:30.302004+00:00",
     "lane": "RICHMOND VA-RICHMOND VA"
   },
   {
