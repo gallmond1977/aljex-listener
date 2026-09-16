@@ -187,23 +187,6 @@
     "lane": "WINCHESTER KY-GEORGETOWN DE"
   },
   {
-    "pro": "50508",
-    "status": "OPEN",
-    "pu_date": "2026-09-17",
-    "pu_city": "MACON",
-    "pu_state": "GA",
-    "pu_hours": "0800-1530",
-    "del_date": "2026-09-17",
-    "del_city": "CALHOUN",
-    "del_state": "GA",
-    "del_hours": "0700-1500",
-    "equipment": "Van",
-    "weight_lbs": 34000,
-    "carrier_rate": 600,
-    "updated_at": "2026-09-16T12:44:52.807269+00:00",
-    "lane": "MACON GA-CALHOUN GA"
-  },
-  {
     "pro": "50515",
     "status": "OPEN",
     "pu_date": "2026-09-17",
@@ -249,26 +232,9 @@
     "del_state": "MD",
     "del_hours": "0700-1300",
     "equipment": "Flatbed w/ Tarps",
-    "weight_lbs": 42000,
-    "carrier_rate": 3300,
-    "updated_at": "2026-09-16T14:37:18.022707+00:00",
-    "lane": "ALPHARETTA GA-BELCAMP MD"
-  },
-  {
-    "pro": "50520",
-    "status": "OPEN",
-    "pu_date": "2026-09-17",
-    "pu_city": "ALPHARETTA",
-    "pu_state": "GA",
-    "pu_hours": "0900-1800",
-    "del_date": "2026-09-18",
-    "del_city": "BELCAMP",
-    "del_state": "MD",
-    "del_hours": "0700-1300",
-    "equipment": "Flatbed w/ Tarps",
     "weight_lbs": 40000,
     "carrier_rate": 3300,
-    "updated_at": "2026-09-16T14:38:00.865544+00:00",
+    "updated_at": "2026-09-16T15:10:46.101704+00:00",
     "lane": "ALPHARETTA GA-BELCAMP MD"
   },
   {
@@ -559,6 +525,23 @@
     "carrier_rate": 1500,
     "updated_at": "2026-09-09T16:14:37.181153+00:00",
     "lane": "ATHENS AL-GULFPORT MS"
+  },
+  {
+    "pro": "50520",
+    "status": "OPEN",
+    "pu_date": "2026-09-23",
+    "pu_city": "ALPHARETTA",
+    "pu_state": "GA",
+    "pu_hours": "0900-1800",
+    "del_date": "2026-09-24",
+    "del_city": "BELCAMP",
+    "del_state": "MD",
+    "del_hours": "0700-1500",
+    "equipment": "Flatbed w/ Tarps",
+    "weight_lbs": 40000,
+    "carrier_rate": 3300,
+    "updated_at": "2026-09-16T15:11:27.847643+00:00",
+    "lane": "ALPHARETTA GA-BELCAMP MD"
   },
   {
     "pro": "50082",
@@ -999,7 +982,7 @@
     "equipment": "Van",
     "weight_lbs": 43624,
     "carrier_rate": 1500,
-    "updated_at": "2026-09-16T14:08:42.207055+00:00",
+    "updated_at": "2026-09-16T15:13:23.141303+00:00",
     "lane": "ATHENS AL-GULFPORT MS"
   },
   {
@@ -1085,6 +1068,23 @@
     "weight_lbs": 34000,
     "carrier_rate": 650,
     "updated_at": "2026-09-16T13:08:47.622785+00:00",
+    "lane": "MACON GA-CALHOUN GA"
+  },
+  {
+    "pro": "50508",
+    "status": "COVERED",
+    "pu_date": "2026-09-17",
+    "pu_city": "MACON",
+    "pu_state": "GA",
+    "pu_hours": "0800-1530",
+    "del_date": "2026-09-17",
+    "del_city": "CALHOUN",
+    "del_state": "GA",
+    "del_hours": "0700-1500",
+    "equipment": "Van",
+    "weight_lbs": 34000,
+    "carrier_rate": 600,
+    "updated_at": "2026-09-16T15:14:49.807914+00:00",
     "lane": "MACON GA-CALHOUN GA"
   },
   {
