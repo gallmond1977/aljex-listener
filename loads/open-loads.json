@@ -1055,7 +1055,7 @@
   },
   {
     "pro": "50301",
-    "status": "LOADED",
+    "status": "CONSIGNEE",
     "pu_date": "2026-09-15",
     "pu_city": "ATHENS",
     "pu_state": "AL",
@@ -1067,12 +1067,12 @@
     "equipment": "Van",
     "weight_lbs": 43624,
     "carrier_rate": 1500,
-    "updated_at": "2026-09-15T18:30:28.833764+00:00",
+    "updated_at": "2026-09-16T10:40:24.917110+00:00",
     "lane": "ATHENS AL-GULFPORT MS"
   },
   {
     "pro": "50444",
-    "status": "LOADED",
+    "status": "CONSIGNEE",
     "pu_date": "2026-09-15",
     "pu_city": "MACON",
     "pu_state": "GA",
@@ -1084,7 +1084,7 @@
     "equipment": "Van",
     "weight_lbs": 34000,
     "carrier_rate": 650,
-    "updated_at": "2026-09-15T19:27:51.610499+00:00",
+    "updated_at": "2026-09-16T10:45:05.291856+00:00",
     "lane": "MACON GA-CALHOUN GA"
   },
   {
