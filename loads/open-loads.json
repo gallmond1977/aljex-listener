@@ -294,7 +294,7 @@
     "pu_date": "2026-09-18",
     "pu_city": "WINCHESTER",
     "pu_state": "KY",
-    "pu_hours": "ADREQD",
+    "pu_hours": "1200-1400",
     "del_date": "2026-09-19",
     "del_city": "FLORENCE",
     "del_state": "KY",
@@ -302,7 +302,7 @@
     "equipment": "Van",
     "weight_lbs": 4375,
     "carrier_rate": 650,
-    "updated_at": "2026-09-16T16:20:38.957228+00:00",
+    "updated_at": "2026-09-16T16:31:48.097024+00:00",
     "lane": "WINCHESTER KY-FLORENCE KY"
   },
   {
