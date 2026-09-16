@@ -68,23 +68,6 @@
     "lane": "MONCURE NC-ATLANTA GA"
   },
   {
-    "pro": "50514",
-    "status": "OPEN",
-    "pu_date": "2026-09-16",
-    "pu_city": "ATLANTA",
-    "pu_state": "GA",
-    "pu_hours": "0900-1500",
-    "del_date": "2026-09-16",
-    "del_city": "LAWRENCEVILLE",
-    "del_state": "GA",
-    "del_hours": "0800-1500",
-    "equipment": "Flatbed w/ Tarps",
-    "weight_lbs": 21181,
-    "carrier_rate": 600,
-    "updated_at": "2026-09-16T15:22:11.362989+00:00",
-    "lane": "ATLANTA GA-LAWRENCEVILLE GA"
-  },
-  {
     "pro": "50521",
     "status": "OPEN",
     "pu_date": "2026-09-16",
@@ -182,8 +165,8 @@
     "del_hours": "0800",
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 2500,
-    "carrier_rate": 1100,
-    "updated_at": "2026-09-16T14:55:50.744297+00:00",
+    "carrier_rate": 1200,
+    "updated_at": "2026-09-16T15:27:59.508224+00:00",
     "lane": "WINCHESTER KY-GEORGETOWN DE"
   },
   {
@@ -931,7 +914,7 @@
     "equipment": "Van",
     "weight_lbs": 44000,
     "carrier_rate": 900,
-    "updated_at": "2026-09-14T15:39:47.068780+00:00",
+    "updated_at": "2026-09-16T15:27:53.344167+00:00",
     "lane": "MONCURE NC-ATLANTA GA"
   },
   {
@@ -948,7 +931,7 @@
     "equipment": "Flatbed w/ Tarps",
     "weight_lbs": 42000,
     "carrier_rate": 5200,
-    "updated_at": "2026-09-16T13:49:12.853227+00:00",
+    "updated_at": "2026-09-16T15:29:51.051308+00:00",
     "lane": "ALPHARETTA GA-AMARILLO TX"
   },
   {
