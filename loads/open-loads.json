@@ -115,7 +115,7 @@
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 4500,
     "carrier_rate": 700,
-    "updated_at": "2026-09-16T14:40:00.508701+00:00",
+    "updated_at": "2026-09-16T14:44:53.633922+00:00",
     "lane": "WINCHESTER KY-MONTICELLO IL"
   },
   {
@@ -387,7 +387,7 @@
     "equipment": "Van",
     "weight_lbs": 13080,
     "carrier_rate": 3800,
-    "updated_at": "2026-09-16T14:35:15.257271+00:00",
+    "updated_at": "2026-09-16T14:43:02.990031+00:00",
     "lane": "MOUNT STERLING KY-MIRA LOMA CA"
   },
   {
@@ -491,23 +491,6 @@
     "carrier_rate": 2000,
     "updated_at": "2026-09-16T12:45:17.427514+00:00",
     "lane": "EL DORADO AR-CALHOUN GA"
-  },
-  {
-    "pro": "50509",
-    "status": "OPEN",
-    "pu_date": "2026-09-21",
-    "pu_city": "MACON",
-    "pu_state": "GA",
-    "pu_hours": "0800-1530",
-    "del_date": "2026-09-22",
-    "del_city": "CALHOUN",
-    "del_state": "GA",
-    "del_hours": "0700-1500",
-    "equipment": "Van",
-    "weight_lbs": 34000,
-    "carrier_rate": 600,
-    "updated_at": "2026-09-16T12:44:15.129460+00:00",
-    "lane": "MACON GA-CALHOUN GA"
   },
   {
     "pro": "50159",
@@ -1118,7 +1101,7 @@
     "equipment": "Flatbed w/ Tarps",
     "weight_lbs": 42000,
     "carrier_rate": 5000,
-    "updated_at": "2026-09-16T13:34:47.633268+00:00",
+    "updated_at": "2026-09-16T14:45:04.683165+00:00",
     "lane": "ALPHARETTA GA-AMARILLO TX"
   },
   {
@@ -1238,6 +1221,23 @@
     "weight_lbs": 34000,
     "carrier_rate": 650,
     "updated_at": "2026-09-16T13:08:47.622785+00:00",
+    "lane": "MACON GA-CALHOUN GA"
+  },
+  {
+    "pro": "50509",
+    "status": "COVERED",
+    "pu_date": "2026-09-21",
+    "pu_city": "MACON",
+    "pu_state": "GA",
+    "pu_hours": "0800-1530",
+    "del_date": "2026-09-22",
+    "del_city": "CALHOUN",
+    "del_state": "GA",
+    "del_hours": "0700-1500",
+    "equipment": "Van",
+    "weight_lbs": 34000,
+    "carrier_rate": 600,
+    "updated_at": "2026-09-16T14:43:47.862647+00:00",
     "lane": "MACON GA-CALHOUN GA"
   }
 ]
