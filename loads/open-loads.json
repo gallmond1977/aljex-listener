@@ -51,6 +51,23 @@
     "lane": "ALPHARETTA GA-AMARILLO TX"
   },
   {
+    "pro": "50472",
+    "status": "OPEN",
+    "pu_date": "2026-09-16",
+    "pu_city": "MACON",
+    "pu_state": "GA",
+    "pu_hours": "1200-1530",
+    "del_date": "2026-09-17",
+    "del_city": "CALHOUN",
+    "del_state": "GA",
+    "del_hours": "0700-1500",
+    "equipment": "Van",
+    "weight_lbs": 34000,
+    "carrier_rate": 600,
+    "updated_at": "2026-09-16T13:06:46.329299+00:00",
+    "lane": "MACON GA-CALHOUN GA"
+  },
+  {
     "pro": "50482",
     "status": "OPEN",
     "pu_date": "2026-09-16",
@@ -63,8 +80,8 @@
     "del_hours": "0800-1600",
     "equipment": "Van",
     "weight_lbs": 44000,
-    "carrier_rate": 900,
-    "updated_at": "2026-09-15T19:36:55.050400+00:00",
+    "carrier_rate": 1000,
+    "updated_at": "2026-09-16T13:06:50.935006+00:00",
     "lane": "MONCURE NC-ATLANTA GA"
   },
   {
@@ -100,23 +117,6 @@
     "carrier_rate": 600,
     "updated_at": "2026-09-16T12:49:03.982366+00:00",
     "lane": "WILDWOOD FL-GREENVILLE NC"
-  },
-  {
-    "pro": "50472",
-    "status": "OPEN",
-    "pu_date": "2026-09-17",
-    "pu_city": "MACON",
-    "pu_state": "GA",
-    "pu_hours": "0800-1530",
-    "del_date": "2026-09-17",
-    "del_city": "CALHOUN",
-    "del_state": "GA",
-    "del_hours": "0700-1500",
-    "equipment": "Van",
-    "weight_lbs": 34000,
-    "carrier_rate": 600,
-    "updated_at": "2026-09-16T12:45:02.239709+00:00",
-    "lane": "MACON GA-CALHOUN GA"
   },
   {
     "pro": "50495",
@@ -591,7 +591,7 @@
     "equipment": "Flatbed",
     "weight_lbs": 48000,
     "carrier_rate": null,
-    "updated_at": "2026-09-15T15:52:03.669806+00:00",
+    "updated_at": "2026-09-16T13:08:42.998308+00:00",
     "lane": "MIAMI FL-LITHONIA GA"
   },
   {
@@ -1072,7 +1072,7 @@
   },
   {
     "pro": "50471",
-    "status": "COVERED",
+    "status": "DISPATCHED",
     "pu_date": "2026-09-16",
     "pu_city": "MACON",
     "pu_state": "GA",
@@ -1084,7 +1084,7 @@
     "equipment": "Van",
     "weight_lbs": 34000,
     "carrier_rate": 650,
-    "updated_at": "2026-09-16T12:11:46.113769+00:00",
+    "updated_at": "2026-09-16T13:08:47.622785+00:00",
     "lane": "MACON GA-CALHOUN GA"
   }
 ]
