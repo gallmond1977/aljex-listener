@@ -98,7 +98,7 @@
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 2500,
     "carrier_rate": 500,
-    "updated_at": "2026-09-16T13:29:45.245359+00:00",
+    "updated_at": "2026-09-16T13:45:56.143421+00:00",
     "lane": "WINCHESTER KY-ETNA OH"
   },
   {
@@ -369,8 +369,8 @@
     "del_hours": "0900",
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 8000,
-    "carrier_rate": null,
-    "updated_at": "2026-09-16T12:18:28.485302+00:00",
+    "carrier_rate": 700,
+    "updated_at": "2026-09-16T13:49:17.978996+00:00",
     "lane": "ANNISTON AL-CRESTWOOD KY"
   },
   {
@@ -885,7 +885,7 @@
   },
   {
     "pro": "50224",
-    "status": "DELIVERED",
+    "status": "RELEASED",
     "pu_date": "2026-09-10",
     "pu_city": "ATHENS",
     "pu_state": "AL",
@@ -897,7 +897,7 @@
     "equipment": "Van",
     "weight_lbs": 43299,
     "carrier_rate": 1500,
-    "updated_at": "2026-09-14T20:13:54.157812+00:00",
+    "updated_at": "2026-09-16T13:46:39.813185+00:00",
     "lane": "ATHENS AL-GULFPORT MS"
   },
   {
@@ -931,7 +931,7 @@
     "equipment": "Flatbed w/ Tarps",
     "weight_lbs": 42000,
     "carrier_rate": 5200,
-    "updated_at": "2026-09-14T15:33:12.821663+00:00",
+    "updated_at": "2026-09-16T13:49:12.853227+00:00",
     "lane": "ALPHARETTA GA-AMARILLO TX"
   },
   {
@@ -1055,7 +1055,7 @@
   },
   {
     "pro": "50445",
-    "status": "PICKUP",
+    "status": "LOADED",
     "pu_date": "2026-09-16",
     "pu_city": "MACON",
     "pu_state": "GA",
@@ -1067,7 +1067,7 @@
     "equipment": "Van",
     "weight_lbs": 34000,
     "carrier_rate": 600,
-    "updated_at": "2026-09-16T12:23:55.504940+00:00",
+    "updated_at": "2026-09-16T13:48:16.750605+00:00",
     "lane": "MACON GA-CALHOUN GA"
   },
   {
