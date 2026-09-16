@@ -51,23 +51,6 @@
     "lane": "ALPHARETTA GA-AMARILLO TX"
   },
   {
-    "pro": "50474",
-    "status": "OPEN",
-    "pu_date": "2026-09-16",
-    "pu_city": "MACON",
-    "pu_state": "GA",
-    "pu_hours": "0700-1200",
-    "del_date": "2026-09-16",
-    "del_city": "COLUMBIA",
-    "del_state": "SC",
-    "del_hours": "0800-1500",
-    "equipment": "26' Straight Box Truck",
-    "weight_lbs": 5000,
-    "carrier_rate": 500,
-    "updated_at": "2026-09-15T20:51:22.370363+00:00",
-    "lane": "MACON GA-COLUMBIA SC"
-  },
-  {
     "pro": "50482",
     "status": "OPEN",
     "pu_date": "2026-09-16",
@@ -370,7 +353,7 @@
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 8000,
     "carrier_rate": null,
-    "updated_at": "2026-09-15T14:27:52.329453+00:00",
+    "updated_at": "2026-09-16T12:18:28.485302+00:00",
     "lane": "ANNISTON AL-CRESTWOOD KY"
   },
   {
@@ -931,7 +914,7 @@
     "equipment": "Van",
     "weight_lbs": 41328,
     "carrier_rate": 2800,
-    "updated_at": "2026-09-15T13:43:18.040573+00:00",
+    "updated_at": "2026-09-16T12:18:10.998796+00:00",
     "lane": "LA PORTE TX-GREENVILLE SC"
   },
   {
@@ -948,7 +931,7 @@
     "equipment": "Flatbed w/ Tarps",
     "weight_lbs": 42000,
     "carrier_rate": 5000,
-    "updated_at": "2026-09-15T13:44:08.523429+00:00",
+    "updated_at": "2026-09-16T12:19:37.937746+00:00",
     "lane": "ALPHARETTA GA-AMARILLO TX"
   },
   {
