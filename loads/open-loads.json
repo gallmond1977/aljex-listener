@@ -51,23 +51,6 @@
     "lane": "COLUMBUS GA-DANDRIDGE TN"
   },
   {
-    "pro": "50497",
-    "status": "OPEN",
-    "pu_date": "2026-09-17",
-    "pu_city": "SAVANNAH",
-    "pu_state": "GA",
-    "pu_hours": "0800-1400",
-    "del_date": "2026-09-17",
-    "del_city": "DUBLIN",
-    "del_state": "GA",
-    "del_hours": "0800",
-    "equipment": "Van",
-    "weight_lbs": 38900,
-    "carrier_rate": 900,
-    "updated_at": "2026-09-16T12:07:58.424270+00:00",
-    "lane": "SAVANNAH GA-DUBLIN GA"
-  },
-  {
     "pro": "50498",
     "status": "OPEN",
     "pu_date": "2026-09-17",
@@ -149,7 +132,7 @@
     "equipment": "Van",
     "weight_lbs": 44990,
     "carrier_rate": 2600,
-    "updated_at": "2026-09-16T17:23:23.855952+00:00",
+    "updated_at": "2026-09-16T17:26:09.552961+00:00",
     "lane": "GREEN RIVER WY-SAN ANTONIO TX"
   },
   {
@@ -219,6 +202,23 @@
     "carrier_rate": 1800,
     "updated_at": "2026-09-14T19:40:47.113776+00:00",
     "lane": "HOUSTON TX-SANFORD FL"
+  },
+  {
+    "pro": "50497",
+    "status": "OPEN",
+    "pu_date": "2026-09-18",
+    "pu_city": "SAVANNAH",
+    "pu_state": "GA",
+    "pu_hours": "0800-1400",
+    "del_date": "2026-09-18",
+    "del_city": "DUBLIN",
+    "del_state": "GA",
+    "del_hours": "0800",
+    "equipment": "Van",
+    "weight_lbs": 38900,
+    "carrier_rate": 900,
+    "updated_at": "2026-09-16T17:25:38.379428+00:00",
+    "lane": "SAVANNAH GA-DUBLIN GA"
   },
   {
     "pro": "50501",
