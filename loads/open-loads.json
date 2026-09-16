@@ -1067,7 +1067,7 @@
     "equipment": "Van",
     "weight_lbs": 43624,
     "carrier_rate": 1500,
-    "updated_at": "2026-09-16T10:40:24.917110+00:00",
+    "updated_at": "2026-09-16T11:45:26.459786+00:00",
     "lane": "ATHENS AL-GULFPORT MS"
   },
   {
@@ -1152,7 +1152,7 @@
     "equipment": "Van",
     "weight_lbs": 12480,
     "carrier_rate": 1150,
-    "updated_at": "2026-09-15T20:29:28.995517+00:00",
+    "updated_at": "2026-09-16T11:49:55.824868+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
@@ -1169,7 +1169,7 @@
     "equipment": "Van",
     "weight_lbs": 12480,
     "carrier_rate": 1200,
-    "updated_at": "2026-09-15T18:24:53.556412+00:00",
+    "updated_at": "2026-09-16T11:47:49.252869+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
   }
 ]
