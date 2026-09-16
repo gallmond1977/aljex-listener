@@ -17,6 +17,23 @@
     "lane": "MONCURE NC-ATLANTA GA"
   },
   {
+    "pro": "50526",
+    "status": "OPEN",
+    "pu_date": "2026-09-16",
+    "pu_city": "JACKSONVILLE",
+    "pu_state": "FL",
+    "pu_hours": "0800-1500",
+    "del_date": "2026-09-17",
+    "del_city": "ROYSTON",
+    "del_state": "GA",
+    "del_hours": "0700-1530",
+    "equipment": "Van",
+    "weight_lbs": 25300,
+    "carrier_rate": 700,
+    "updated_at": "2026-09-16T17:49:52.265847+00:00",
+    "lane": "JACKSONVILLE FL-ROYSTON GA"
+  },
+  {
     "pro": "50328",
     "status": "OPEN",
     "pu_date": "2026-09-17",
@@ -43,11 +60,11 @@
     "del_date": "",
     "del_city": "DANDRIDGE",
     "del_state": "TN",
-    "del_hours": "",
+    "del_hours": "0800",
     "equipment": "Van",
     "weight_lbs": 4300,
-    "carrier_rate": null,
-    "updated_at": "2026-09-16T15:58:07.097712+00:00",
+    "carrier_rate": 1200,
+    "updated_at": "2026-09-16T17:49:53.471840+00:00",
     "lane": "COLUMBUS GA-DANDRIDGE TN"
   },
   {
@@ -81,7 +98,7 @@
     "equipment": "Van",
     "weight_lbs": 7600,
     "carrier_rate": 600,
-    "updated_at": "2026-09-16T14:23:10.308796+00:00",
+    "updated_at": "2026-09-16T17:49:59.081527+00:00",
     "lane": "JACKSONVILLE FL-DULUTH GA"
   },
   {
