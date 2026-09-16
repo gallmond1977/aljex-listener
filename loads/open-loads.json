@@ -102,23 +102,6 @@
     "lane": "ATLANTA GA-CARTERSVILLE GA"
   },
   {
-    "pro": "50515",
-    "status": "OPEN",
-    "pu_date": "2026-09-16",
-    "pu_city": "JACKSONVILLE",
-    "pu_state": "FL",
-    "pu_hours": "1600",
-    "del_date": "2026-09-17",
-    "del_city": "DULUTH",
-    "del_state": "GA",
-    "del_hours": "0800-1100",
-    "equipment": "Van",
-    "weight_lbs": 7600,
-    "carrier_rate": 600,
-    "updated_at": "2026-09-16T14:07:13.493322+00:00",
-    "lane": "JACKSONVILLE FL-DULUTH GA"
-  },
-  {
     "pro": "50328",
     "status": "OPEN",
     "pu_date": "2026-09-17",
@@ -200,7 +183,7 @@
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 2500,
     "carrier_rate": 1100,
-    "updated_at": "2026-09-16T14:18:10.377292+00:00",
+    "updated_at": "2026-09-16T14:24:41.417214+00:00",
     "lane": "WINCHESTER KY-GEORGETOWN DE"
   },
   {
@@ -238,6 +221,23 @@
     "lane": "MACON GA-CALHOUN GA"
   },
   {
+    "pro": "50515",
+    "status": "OPEN",
+    "pu_date": "2026-09-17",
+    "pu_city": "JACKSONVILLE",
+    "pu_state": "FL",
+    "pu_hours": "1600",
+    "del_date": "2026-09-18",
+    "del_city": "DULUTH",
+    "del_state": "GA",
+    "del_hours": "0800-1100",
+    "equipment": "Van",
+    "weight_lbs": 7600,
+    "carrier_rate": 600,
+    "updated_at": "2026-09-16T14:23:10.308796+00:00",
+    "lane": "JACKSONVILLE FL-DULUTH GA"
+  },
+  {
     "pro": "50516",
     "status": "OPEN",
     "pu_date": "2026-09-17",
@@ -253,6 +253,23 @@
     "carrier_rate": 200,
     "updated_at": "2026-09-16T14:12:26.381402+00:00",
     "lane": "RICHMOND VA-RICHMOND VA"
+  },
+  {
+    "pro": "50517",
+    "status": "OPEN",
+    "pu_date": "2026-09-17",
+    "pu_city": "WINCHESTER",
+    "pu_state": "KY",
+    "pu_hours": "NEEDED",
+    "del_date": "2026-09-18",
+    "del_city": "FLORENCE",
+    "del_state": "KY",
+    "del_hours": "",
+    "equipment": "Van",
+    "weight_lbs": 4375,
+    "carrier_rate": 700,
+    "updated_at": "2026-09-16T14:23:39.557383+00:00",
+    "lane": "WINCHESTER KY-FLORENCE KY"
   },
   {
     "pro": "50434",
@@ -899,6 +916,23 @@
     "carrier_rate": 600,
     "updated_at": "2026-09-14T14:23:01.867526+00:00",
     "lane": "MACON GA-CALHOUN GA"
+  },
+  {
+    "pro": "50331",
+    "status": "RELEASED",
+    "pu_date": "2026-09-08",
+    "pu_city": "WINCHESTER",
+    "pu_state": "KY",
+    "pu_hours": "1300-1500",
+    "del_date": "2026-09-09",
+    "del_city": "FLORENCE",
+    "del_state": "KY",
+    "del_hours": "1230",
+    "equipment": "Van",
+    "weight_lbs": 1872,
+    "carrier_rate": 800,
+    "updated_at": "2026-09-14T15:08:18.528227+00:00",
+    "lane": "WINCHESTER KY-FLORENCE KY"
   },
   {
     "pro": "50375",
