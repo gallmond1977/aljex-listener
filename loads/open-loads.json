@@ -153,23 +153,6 @@
     "lane": "JACKSONVILLE FL-DULUTH GA"
   },
   {
-    "pro": "50517",
-    "status": "OPEN",
-    "pu_date": "2026-09-17",
-    "pu_city": "WINCHESTER",
-    "pu_state": "KY",
-    "pu_hours": "NEEDED",
-    "del_date": "2026-09-18",
-    "del_city": "FLORENCE",
-    "del_state": "KY",
-    "del_hours": "AD REQD",
-    "equipment": "Van",
-    "weight_lbs": 4375,
-    "carrier_rate": 700,
-    "updated_at": "2026-09-16T14:32:07.637736+00:00",
-    "lane": "WINCHESTER KY-FLORENCE KY"
-  },
-  {
     "pro": "50519",
     "status": "OPEN",
     "pu_date": "2026-09-17",
@@ -287,6 +270,23 @@
     "carrier_rate": 3800,
     "updated_at": "2026-09-16T14:43:02.990031+00:00",
     "lane": "MOUNT STERLING KY-MIRA LOMA CA"
+  },
+  {
+    "pro": "50517",
+    "status": "OPEN",
+    "pu_date": "2026-09-18",
+    "pu_city": "WINCHESTER",
+    "pu_state": "KY",
+    "pu_hours": "",
+    "del_date": "2026-09-19",
+    "del_city": "FLORENCE",
+    "del_state": "KY",
+    "del_hours": "0930",
+    "equipment": "Van",
+    "weight_lbs": 4375,
+    "carrier_rate": 650,
+    "updated_at": "2026-09-16T16:14:59.569880+00:00",
+    "lane": "WINCHESTER KY-FLORENCE KY"
   },
   {
     "pro": "50523",
