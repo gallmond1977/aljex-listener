@@ -81,7 +81,7 @@
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 2500,
     "carrier_rate": 450,
-    "updated_at": "2026-09-15T20:30:09.310017+00:00",
+    "updated_at": "2026-09-16T12:42:01.840940+00:00",
     "lane": "WINCHESTER KY-ETNA OH"
   },
   {
@@ -94,11 +94,11 @@
     "del_date": "2026-09-17",
     "del_city": "GREENVILLE",
     "del_state": "SC",
-    "del_hours": "0800-1000",
+    "del_hours": "0700-1100",
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 850,
     "carrier_rate": 650,
-    "updated_at": "2026-09-16T12:39:59.997932+00:00",
+    "updated_at": "2026-09-16T12:44:21.042201+00:00",
     "lane": "WILDWOOD FL-GREENVILLE SC"
   },
   {
@@ -115,7 +115,7 @@
     "equipment": "Van",
     "weight_lbs": 34000,
     "carrier_rate": 600,
-    "updated_at": "2026-09-15T18:47:40.536542+00:00",
+    "updated_at": "2026-09-16T12:45:02.239709+00:00",
     "lane": "MACON GA-CALHOUN GA"
   },
   {
@@ -200,7 +200,7 @@
     "equipment": "Van",
     "weight_lbs": 30000,
     "carrier_rate": 2000,
-    "updated_at": "2026-09-16T12:38:12.622925+00:00",
+    "updated_at": "2026-09-16T12:40:49.978043+00:00",
     "lane": "PHENIX CITY AL-CRYSTAL LAKE IL"
   },
   {
@@ -219,6 +219,23 @@
     "carrier_rate": 500,
     "updated_at": "2026-09-16T12:12:12.515782+00:00",
     "lane": "ROCKINGHAM NC-BELMONT NC"
+  },
+  {
+    "pro": "50508",
+    "status": "OPEN",
+    "pu_date": "2026-09-17",
+    "pu_city": "MACON",
+    "pu_state": "GA",
+    "pu_hours": "0800-1530",
+    "del_date": "2026-09-17",
+    "del_city": "CALHOUN",
+    "del_state": "GA",
+    "del_hours": "0700-1500",
+    "equipment": "Van",
+    "weight_lbs": 34000,
+    "carrier_rate": 600,
+    "updated_at": "2026-09-16T12:44:52.807269+00:00",
+    "lane": "MACON GA-CALHOUN GA"
   },
   {
     "pro": "50434",
@@ -404,8 +421,25 @@
     "equipment": "Van",
     "weight_lbs": 43006,
     "carrier_rate": 2000,
-    "updated_at": "2026-09-15T13:39:55.661377+00:00",
+    "updated_at": "2026-09-16T12:44:50.901497+00:00",
     "lane": "EL DORADO AR-CALHOUN GA"
+  },
+  {
+    "pro": "50509",
+    "status": "OPEN",
+    "pu_date": "2026-09-21",
+    "pu_city": "MACON",
+    "pu_state": "GA",
+    "pu_hours": "0800-1530",
+    "del_date": "2026-09-22",
+    "del_city": "CALHOUN",
+    "del_state": "GA",
+    "del_hours": "0700-1500",
+    "equipment": "Van",
+    "weight_lbs": 34000,
+    "carrier_rate": 600,
+    "updated_at": "2026-09-16T12:44:15.129460+00:00",
+    "lane": "MACON GA-CALHOUN GA"
   },
   {
     "pro": "50159",
