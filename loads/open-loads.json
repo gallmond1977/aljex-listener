@@ -94,11 +94,11 @@
     "del_date": "2026-09-16",
     "del_city": "CAPE GIRARDEAU",
     "del_state": "MO",
-    "del_hours": "0800-1400",
+    "del_hours": "0800-1600",
     "equipment": "Flatbed",
     "weight_lbs": 31320,
-    "carrier_rate": null,
-    "updated_at": "2026-09-16T13:59:07.001118+00:00",
+    "carrier_rate": 900,
+    "updated_at": "2026-09-16T14:02:39.624036+00:00",
     "lane": "SAINT CHARLES MO-CAPE GIRARDEAU MO"
   },
   {
@@ -107,16 +107,33 @@
     "pu_date": "2026-09-16",
     "pu_city": "ATLANTA",
     "pu_state": "GA",
-    "pu_hours": "0900-1100",
+    "pu_hours": "0900-1500",
     "del_date": "2026-09-16",
     "del_city": "CARTERSVILLE",
     "del_state": "GA",
     "del_hours": "0800-1500",
-    "equipment": "Flatbed Hot Shot",
-    "weight_lbs": 4547,
-    "carrier_rate": null,
-    "updated_at": "2026-09-16T13:59:52.271400+00:00",
+    "equipment": "Flatbed w/ Tarps",
+    "weight_lbs": 21181,
+    "carrier_rate": 500,
+    "updated_at": "2026-09-16T14:04:04.780626+00:00",
     "lane": "ATLANTA GA-CARTERSVILLE GA"
+  },
+  {
+    "pro": "50515",
+    "status": "OPEN",
+    "pu_date": "2026-09-16",
+    "pu_city": "JACKSONVILLE",
+    "pu_state": "FL",
+    "pu_hours": "1600",
+    "del_date": "2026-09-17",
+    "del_city": "DULUTH",
+    "del_state": "GA",
+    "del_hours": "0800-1100",
+    "equipment": "Van",
+    "weight_lbs": 7600,
+    "carrier_rate": null,
+    "updated_at": "2026-09-16T14:04:49.768152+00:00",
+    "lane": "JACKSONVILLE FL-DULUTH GA"
   },
   {
     "pro": "50328",
@@ -132,7 +149,7 @@
     "equipment": "Van",
     "weight_lbs": 3934,
     "carrier_rate": null,
-    "updated_at": "2026-09-16T14:00:15.976823+00:00",
+    "updated_at": "2026-09-16T14:01:03.265252+00:00",
     "lane": "WINCHESTER KY-NORTH EAST MD"
   },
   {
@@ -386,8 +403,8 @@
     "del_hours": "0900",
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 8000,
-    "carrier_rate": 700,
-    "updated_at": "2026-09-16T13:50:28.067883+00:00",
+    "carrier_rate": 650,
+    "updated_at": "2026-09-16T14:00:25.210306+00:00",
     "lane": "ANNISTON AL-CRESTWOOD KY"
   },
   {
