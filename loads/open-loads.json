@@ -102,23 +102,6 @@
     "lane": "ATLANTA GA-LAWRENCEVILLE GA"
   },
   {
-    "pro": "50518",
-    "status": "OPEN",
-    "pu_date": "2026-09-16",
-    "pu_city": "WINCHESTER",
-    "pu_state": "KY",
-    "pu_hours": "1000-1500",
-    "del_date": "2026-09-17",
-    "del_city": "MONTICELLO",
-    "del_state": "IL",
-    "del_hours": "0800-0900",
-    "equipment": "26' Straight Box Truck",
-    "weight_lbs": 4500,
-    "carrier_rate": 700,
-    "updated_at": "2026-09-16T14:47:47.757161+00:00",
-    "lane": "WINCHESTER KY-MONTICELLO IL"
-  },
-  {
     "pro": "50521",
     "status": "OPEN",
     "pu_date": "2026-09-16",
