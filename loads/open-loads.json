@@ -68,23 +68,6 @@
     "lane": "MONCURE NC-ATLANTA GA"
   },
   {
-    "pro": "50512",
-    "status": "OPEN",
-    "pu_date": "2026-09-16",
-    "pu_city": "SAINT CHARLES",
-    "pu_state": "MO",
-    "pu_hours": "0900-1200",
-    "del_date": "2026-09-16",
-    "del_city": "CAPE GIRARDEAU",
-    "del_state": "MO",
-    "del_hours": "0800-1600",
-    "equipment": "Flatbed",
-    "weight_lbs": 31320,
-    "carrier_rate": 900,
-    "updated_at": "2026-09-16T14:02:39.624036+00:00",
-    "lane": "SAINT CHARLES MO-CAPE GIRARDEAU MO"
-  },
-  {
     "pro": "50514",
     "status": "OPEN",
     "pu_date": "2026-09-16",
@@ -714,23 +697,6 @@
     "lane": "ATHENS AL-GULFPORT MS"
   },
   {
-    "pro": "50205",
-    "status": "RELEASED",
-    "pu_date": "2026-09-01",
-    "pu_city": "SAVANNAH",
-    "pu_state": "GA",
-    "pu_hours": "0800-1100",
-    "del_date": "2026-09-01",
-    "del_city": "DUBLIN",
-    "del_state": "GA",
-    "del_hours": "0800-1430",
-    "equipment": "Flatbed w/ Tarps",
-    "weight_lbs": 48000,
-    "carrier_rate": 900,
-    "updated_at": "2026-09-09T15:10:01.879715+00:00",
-    "lane": "SAVANNAH GA-DUBLIN GA"
-  },
-  {
     "pro": "50252",
     "status": "RELEASED",
     "pu_date": "2026-09-02",
@@ -746,40 +712,6 @@
     "carrier_rate": 600,
     "updated_at": "2026-09-09T20:13:46.709132+00:00",
     "lane": "MACON GA-CALHOUN GA"
-  },
-  {
-    "pro": "50128",
-    "status": "RELEASED",
-    "pu_date": "2026-09-03",
-    "pu_city": "ATHENS",
-    "pu_state": "AL",
-    "pu_hours": "0700-1500",
-    "del_date": "2026-09-04",
-    "del_city": "GULFPORT",
-    "del_state": "MS",
-    "del_hours": "0700-1000",
-    "equipment": "Van",
-    "weight_lbs": 43634,
-    "carrier_rate": 1550,
-    "updated_at": "2026-09-09T15:07:59.872988+00:00",
-    "lane": "ATHENS AL-GULFPORT MS"
-  },
-  {
-    "pro": "50131",
-    "status": "RELEASED",
-    "pu_date": "2026-09-03",
-    "pu_city": "ATHENS",
-    "pu_state": "AL",
-    "pu_hours": "0700-1500",
-    "del_date": "2026-09-04",
-    "del_city": "GULFPORT",
-    "del_state": "MS",
-    "del_hours": "0700-1000",
-    "equipment": "Van",
-    "weight_lbs": 43140,
-    "carrier_rate": 1550,
-    "updated_at": "2026-09-09T15:08:34.753141+00:00",
-    "lane": "ATHENS AL-GULFPORT MS"
   },
   {
     "pro": "50132",
@@ -833,23 +765,6 @@
     "lane": "ATHENS AL-GULFPORT MS"
   },
   {
-    "pro": "50137",
-    "status": "RELEASED",
-    "pu_date": "2026-09-03",
-    "pu_city": "ATHENS",
-    "pu_state": "AL",
-    "pu_hours": "0700-1500",
-    "del_date": "2026-09-04",
-    "del_city": "GULFPORT",
-    "del_state": "MS",
-    "del_hours": "0700-1000",
-    "equipment": "Van",
-    "weight_lbs": 43177,
-    "carrier_rate": 1700,
-    "updated_at": "2026-09-09T15:05:06.061392+00:00",
-    "lane": "ATHENS AL-GULFPORT MS"
-  },
-  {
     "pro": "50279",
     "status": "RELEASED",
     "pu_date": "2026-09-04",
@@ -864,23 +779,6 @@
     "weight_lbs": 14400,
     "carrier_rate": 4350,
     "updated_at": "2026-09-14T13:17:08.754673+00:00",
-    "lane": "MOUNT STERLING KY-MIRA LOMA CA"
-  },
-  {
-    "pro": "50280",
-    "status": "RELEASED",
-    "pu_date": "2026-09-04",
-    "pu_city": "MOUNT STERLING",
-    "pu_state": "KY",
-    "pu_hours": "1200",
-    "del_date": "2026-09-08",
-    "del_city": "MIRA LOMA",
-    "del_state": "CA",
-    "del_hours": "0630",
-    "equipment": "Van",
-    "weight_lbs": 14400,
-    "carrier_rate": 4350,
-    "updated_at": "2026-09-09T15:06:51.067345+00:00",
     "lane": "MOUNT STERLING KY-MIRA LOMA CA"
   },
   {
