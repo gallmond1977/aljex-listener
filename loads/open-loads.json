@@ -51,23 +51,6 @@
     "lane": "MONCURE NC-ATLANTA GA"
   },
   {
-    "pro": "50525",
-    "status": "OPEN",
-    "pu_date": "2026-09-16",
-    "pu_city": "ANAHEIM",
-    "pu_state": "CA",
-    "pu_hours": "0900-1300",
-    "del_date": "2026-09-16",
-    "del_city": "CERRITOS",
-    "del_state": "CA",
-    "del_hours": "0800-1500",
-    "equipment": "26' Straight Box Truck",
-    "weight_lbs": 1000,
-    "carrier_rate": 200,
-    "updated_at": "2026-09-16T16:27:53.913467+00:00",
-    "lane": "ANAHEIM CA-CERRITOS CA"
-  },
-  {
     "pro": "50328",
     "status": "OPEN",
     "pu_date": "2026-09-17",
