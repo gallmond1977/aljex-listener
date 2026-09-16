@@ -17,23 +17,6 @@
     "lane": "GREEN RIVER WY-SAN ANTONIO TX"
   },
   {
-    "pro": "50458",
-    "status": "OPEN",
-    "pu_date": "2026-09-16",
-    "pu_city": "ALPHARETTA",
-    "pu_state": "GA",
-    "pu_hours": "0900-1600",
-    "del_date": "2026-09-18",
-    "del_city": "AMARILLO",
-    "del_state": "TX",
-    "del_hours": "0800-1400",
-    "equipment": "Flatbed w/ Tarps",
-    "weight_lbs": 42000,
-    "carrier_rate": 6000,
-    "updated_at": "2026-09-16T16:01:36.346261+00:00",
-    "lane": "ALPHARETTA GA-AMARILLO TX"
-  },
-  {
     "pro": "50482",
     "status": "OPEN",
     "pu_date": "2026-09-16",
@@ -834,7 +817,7 @@
   },
   {
     "pro": "50406",
-    "status": "DELIVERED",
+    "status": "RELEASED",
     "pu_date": "2026-09-11",
     "pu_city": "MONCURE",
     "pu_state": "NC",
@@ -846,42 +829,8 @@
     "equipment": "Van",
     "weight_lbs": 44000,
     "carrier_rate": 900,
-    "updated_at": "2026-09-16T15:27:53.344167+00:00",
+    "updated_at": "2026-09-16T16:44:00.201351+00:00",
     "lane": "MONCURE NC-ATLANTA GA"
-  },
-  {
-    "pro": "50412",
-    "status": "DELIVERED",
-    "pu_date": "2026-09-11",
-    "pu_city": "ALPHARETTA",
-    "pu_state": "GA",
-    "pu_hours": "0900-1600",
-    "del_date": "2026-09-14",
-    "del_city": "AMARILLO",
-    "del_state": "TX",
-    "del_hours": "0800-1400",
-    "equipment": "Flatbed w/ Tarps",
-    "weight_lbs": 42000,
-    "carrier_rate": 5200,
-    "updated_at": "2026-09-16T15:52:27.832829+00:00",
-    "lane": "ALPHARETTA GA-AMARILLO TX"
-  },
-  {
-    "pro": "50413",
-    "status": "RELEASED",
-    "pu_date": "2026-09-11",
-    "pu_city": "ALPHARETTA",
-    "pu_state": "GA",
-    "pu_hours": "0900-1600",
-    "del_date": "2026-09-14",
-    "del_city": "AMARILLO",
-    "del_state": "TX",
-    "del_hours": "0800-1400",
-    "equipment": "Flatbed w/ Tarps",
-    "weight_lbs": 42000,
-    "carrier_rate": 5200,
-    "updated_at": "2026-09-14T19:29:46.683685+00:00",
-    "lane": "ALPHARETTA GA-AMARILLO TX"
   },
   {
     "pro": "50404",
@@ -899,23 +848,6 @@
     "carrier_rate": 2800,
     "updated_at": "2026-09-16T15:22:58.334300+00:00",
     "lane": "LA PORTE TX-GREENVILLE SC"
-  },
-  {
-    "pro": "50414",
-    "status": "DELIVERED",
-    "pu_date": "2026-09-14",
-    "pu_city": "ALPHARETTA",
-    "pu_state": "GA",
-    "pu_hours": "0900-1600",
-    "del_date": "2026-09-16",
-    "del_city": "AMARILLO",
-    "del_state": "TX",
-    "del_hours": "0800-1400",
-    "equipment": "Flatbed w/ Tarps",
-    "weight_lbs": 42000,
-    "carrier_rate": 5000,
-    "updated_at": "2026-09-16T15:36:05.374014+00:00",
-    "lane": "ALPHARETTA GA-AMARILLO TX"
   },
   {
     "pro": "50433",
@@ -948,7 +880,7 @@
     "equipment": "Van",
     "weight_lbs": 43624,
     "carrier_rate": 1500,
-    "updated_at": "2026-09-16T15:13:23.141303+00:00",
+    "updated_at": "2026-09-16T16:41:36.060130+00:00",
     "lane": "ATHENS AL-GULFPORT MS"
   },
   {
