@@ -136,23 +136,6 @@
     "lane": "JACKSONVILLE FL-DULUTH GA"
   },
   {
-    "pro": "50519",
-    "status": "OPEN",
-    "pu_date": "2026-09-17",
-    "pu_city": "ALPHARETTA",
-    "pu_state": "GA",
-    "pu_hours": "0900-1800",
-    "del_date": "2026-09-18",
-    "del_city": "BELCAMP",
-    "del_state": "MD",
-    "del_hours": "0700-1300",
-    "equipment": "Flatbed w/ Tarps",
-    "weight_lbs": 40000,
-    "carrier_rate": 3400,
-    "updated_at": "2026-09-16T17:12:57.957941+00:00",
-    "lane": "ALPHARETTA GA-BELCAMP MD"
-  },
-  {
     "pro": "50522",
     "status": "OPEN",
     "pu_date": "2026-09-17",
@@ -183,7 +166,7 @@
     "equipment": "Van",
     "weight_lbs": 5000,
     "carrier_rate": 1200,
-    "updated_at": "2026-09-16T17:02:52.370490+00:00",
+    "updated_at": "2026-09-16T17:19:00.433783+00:00",
     "lane": "WINCHESTER KY-HUNTSVILLE ON"
   },
   {
@@ -916,5 +899,22 @@
     "carrier_rate": 200,
     "updated_at": "2026-09-16T14:55:30.302004+00:00",
     "lane": "RICHMOND VA-RICHMOND VA"
+  },
+  {
+    "pro": "50519",
+    "status": "COVERED",
+    "pu_date": "2026-09-17",
+    "pu_city": "ALPHARETTA",
+    "pu_state": "GA",
+    "pu_hours": "0900-1800",
+    "del_date": "2026-09-18",
+    "del_city": "BELCAMP",
+    "del_state": "MD",
+    "del_hours": "0700-1300",
+    "equipment": "Flatbed w/ Tarps",
+    "weight_lbs": 40000,
+    "carrier_rate": 3400,
+    "updated_at": "2026-09-16T17:19:53.713788+00:00",
+    "lane": "ALPHARETTA GA-BELCAMP MD"
   }
 ]
