@@ -85,23 +85,6 @@
     "lane": "WINCHESTER KY-ETNA OH"
   },
   {
-    "pro": "50506",
-    "status": "OPEN",
-    "pu_date": "2026-09-16",
-    "pu_city": "UNION CITY",
-    "pu_state": "GA",
-    "pu_hours": "0930",
-    "del_date": "2026-09-16",
-    "del_city": "CHARLOTTE",
-    "del_state": "NC",
-    "del_hours": "1500",
-    "equipment": "26' Straight Box Truck",
-    "weight_lbs": 3000,
-    "carrier_rate": 500,
-    "updated_at": "2026-09-16T12:25:03.201731+00:00",
-    "lane": "UNION CITY GA-CHARLOTTE NC"
-  },
-  {
     "pro": "50472",
     "status": "OPEN",
     "pu_date": "2026-09-17",
