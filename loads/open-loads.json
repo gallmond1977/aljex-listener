@@ -98,7 +98,7 @@
     "equipment": "Flatbed w/ Tarps",
     "weight_lbs": 21181,
     "carrier_rate": 500,
-    "updated_at": "2026-09-16T14:04:04.780626+00:00",
+    "updated_at": "2026-09-16T14:10:22.725218+00:00",
     "lane": "ATLANTA GA-CARTERSVILLE GA"
   },
   {
@@ -199,8 +199,8 @@
     "del_hours": "0800",
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 2500,
-    "carrier_rate": null,
-    "updated_at": "2026-09-16T13:37:00.626176+00:00",
+    "carrier_rate": 1100,
+    "updated_at": "2026-09-16T14:14:53.599369+00:00",
     "lane": "WINCHESTER KY-GEORGETOWN DE"
   },
   {
@@ -236,6 +236,23 @@
     "carrier_rate": 600,
     "updated_at": "2026-09-16T12:44:52.807269+00:00",
     "lane": "MACON GA-CALHOUN GA"
+  },
+  {
+    "pro": "50516",
+    "status": "OPEN",
+    "pu_date": "2026-09-17",
+    "pu_city": "RICHMOND",
+    "pu_state": "VA",
+    "pu_hours": "0900-0930",
+    "del_date": "2026-09-17",
+    "del_city": "RICHMOND",
+    "del_state": "VA",
+    "del_hours": "1000-1100",
+    "equipment": "26' Straight Box Truck",
+    "weight_lbs": 1500,
+    "carrier_rate": 200,
+    "updated_at": "2026-09-16T14:12:26.381402+00:00",
+    "lane": "RICHMOND VA-RICHMOND VA"
   },
   {
     "pro": "50434",
