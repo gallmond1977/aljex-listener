@@ -85,23 +85,6 @@
     "lane": "MONCURE NC-ATLANTA GA"
   },
   {
-    "pro": "50497",
-    "status": "OPEN",
-    "pu_date": "2026-09-16",
-    "pu_city": "SAVANNAH",
-    "pu_state": "GA",
-    "pu_hours": "0800-1400",
-    "del_date": "2026-09-17",
-    "del_city": "DUBLIN",
-    "del_state": "GA",
-    "del_hours": "0800",
-    "equipment": "Van",
-    "weight_lbs": 38900,
-    "carrier_rate": 900,
-    "updated_at": "2026-09-15T18:20:31.715634+00:00",
-    "lane": "SAVANNAH GA-DUBLIN GA"
-  },
-  {
     "pro": "50500",
     "status": "OPEN",
     "pu_date": "2026-09-16",
@@ -153,6 +136,23 @@
     "lane": "COLUMBUS GA-DANDRIDGE TN"
   },
   {
+    "pro": "50497",
+    "status": "OPEN",
+    "pu_date": "2026-09-17",
+    "pu_city": "SAVANNAH",
+    "pu_state": "GA",
+    "pu_hours": "0800-1400",
+    "del_date": "2026-09-17",
+    "del_city": "DUBLIN",
+    "del_state": "GA",
+    "del_hours": "0800",
+    "equipment": "Van",
+    "weight_lbs": 38900,
+    "carrier_rate": 900,
+    "updated_at": "2026-09-16T12:07:58.424270+00:00",
+    "lane": "SAVANNAH GA-DUBLIN GA"
+  },
+  {
     "pro": "50498",
     "status": "OPEN",
     "pu_date": "2026-09-17",
@@ -199,8 +199,8 @@
     "del_hours": "CALL!",
     "equipment": "Van",
     "weight_lbs": 30000,
-    "carrier_rate": 1900,
-    "updated_at": "2026-09-15T20:45:05.705771+00:00",
+    "carrier_rate": 2000,
+    "updated_at": "2026-09-16T12:08:24.314911+00:00",
     "lane": "PHENIX CITY AL-CRYSTAL LAKE IL"
   },
   {
@@ -1050,7 +1050,7 @@
     "equipment": "Van",
     "weight_lbs": 34000,
     "carrier_rate": 600,
-    "updated_at": "2026-09-16T12:04:56.717810+00:00",
+    "updated_at": "2026-09-16T12:06:17.802779+00:00",
     "lane": "MACON GA-CALHOUN GA"
   },
   {
