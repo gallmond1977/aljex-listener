@@ -119,23 +119,6 @@
     "lane": "MONCURE NC-ATLANTA GA"
   },
   {
-    "pro": "50422",
-    "status": "OPEN",
-    "pu_date": "2026-09-18",
-    "pu_city": "GREEN RIVER",
-    "pu_state": "WY",
-    "pu_hours": "1-2 RQST",
-    "del_date": "2026-09-18",
-    "del_city": "SAN ANTONIO",
-    "del_state": "TX",
-    "del_hours": "0700-1400",
-    "equipment": "Van",
-    "weight_lbs": 44990,
-    "carrier_rate": 2600,
-    "updated_at": "2026-09-16T17:26:09.552961+00:00",
-    "lane": "GREEN RIVER WY-SAN ANTONIO TX"
-  },
-  {
     "pro": "50434",
     "status": "OPEN",
     "pu_date": "2026-09-18",
@@ -321,6 +304,23 @@
     "carrier_rate": 650,
     "updated_at": "2026-09-16T14:00:25.210306+00:00",
     "lane": "ANNISTON AL-CRESTWOOD KY"
+  },
+  {
+    "pro": "50422",
+    "status": "OPEN",
+    "pu_date": "2026-09-21",
+    "pu_city": "GREEN RIVER",
+    "pu_state": "WY",
+    "pu_hours": "2000",
+    "del_date": "2026-09-23",
+    "del_city": "SAN ANTONIO",
+    "del_state": "TX",
+    "del_hours": "0700-1400",
+    "equipment": "Van",
+    "weight_lbs": 44990,
+    "carrier_rate": 2600,
+    "updated_at": "2026-09-16T20:24:14.535268+00:00",
+    "lane": "GREEN RIVER WY-SAN ANTONIO TX"
   },
   {
     "pro": "50452",
