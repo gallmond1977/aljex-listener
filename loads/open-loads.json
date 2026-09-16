@@ -17,23 +17,6 @@
     "lane": "MONCURE NC-ATLANTA GA"
   },
   {
-    "pro": "50526",
-    "status": "OPEN",
-    "pu_date": "2026-09-16",
-    "pu_city": "JACKSONVILLE",
-    "pu_state": "FL",
-    "pu_hours": "0800-1600",
-    "del_date": "2026-09-17",
-    "del_city": "ROYSTON",
-    "del_state": "GA",
-    "del_hours": "0700-1530",
-    "equipment": "Van",
-    "weight_lbs": 25300,
-    "carrier_rate": 650,
-    "updated_at": "2026-09-16T17:57:57.471223+00:00",
-    "lane": "JACKSONVILLE FL-ROYSTON GA"
-  },
-  {
     "pro": "50328",
     "status": "OPEN",
     "pu_date": "2026-09-17",
@@ -49,23 +32,6 @@
     "carrier_rate": null,
     "updated_at": "2026-09-16T14:01:03.265252+00:00",
     "lane": "WINCHESTER KY-NORTH EAST MD"
-  },
-  {
-    "pro": "50495",
-    "status": "OPEN",
-    "pu_date": "2026-09-17",
-    "pu_city": "COLUMBUS",
-    "pu_state": "GA",
-    "pu_hours": "1430",
-    "del_date": "2026-09-18",
-    "del_city": "DANDRIDGE",
-    "del_state": "TN",
-    "del_hours": "0800",
-    "equipment": "Van",
-    "weight_lbs": 4300,
-    "carrier_rate": 1200,
-    "updated_at": "2026-09-16T17:59:42.709692+00:00",
-    "lane": "COLUMBUS GA-DANDRIDGE TN"
   },
   {
     "pro": "50503",
@@ -98,7 +64,7 @@
     "equipment": "Van",
     "weight_lbs": 7138,
     "carrier_rate": 450,
-    "updated_at": "2026-09-16T15:20:09.465358+00:00",
+    "updated_at": "2026-09-16T18:02:45.700081+00:00",
     "lane": "RALEIGH NC-WINSTON SALEM NC"
   },
   {
