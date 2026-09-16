@@ -323,6 +323,23 @@
     "lane": "MOUNT STERLING KY-MIRA LOMA CA"
   },
   {
+    "pro": "50523",
+    "status": "OPEN",
+    "pu_date": "2026-09-18",
+    "pu_city": "WINCHESTER",
+    "pu_state": "KY",
+    "pu_hours": "NEEDED",
+    "del_date": "2026-09-21",
+    "del_city": "JACKSONVILLE",
+    "del_state": "FL",
+    "del_hours": "NEEDED",
+    "equipment": "Van",
+    "weight_lbs": 6250,
+    "carrier_rate": null,
+    "updated_at": "2026-09-16T15:44:45.111188+00:00",
+    "lane": "WINCHESTER KY-JACKSONVILLE FL"
+  },
+  {
     "pro": "50107",
     "status": "OPEN",
     "pu_date": "2026-09-21",
