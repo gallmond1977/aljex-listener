@@ -158,7 +158,7 @@
     "pu_date": "2026-09-18",
     "pu_city": "MOUNT STERLING",
     "pu_state": "KY",
-    "pu_hours": "NEEDED",
+    "pu_hours": "AD REQD",
     "del_date": "2026-09-21",
     "del_city": "MIRA LOMA",
     "del_state": "CA",
@@ -166,7 +166,7 @@
     "equipment": "Van",
     "weight_lbs": 13080,
     "carrier_rate": 3800,
-    "updated_at": "2026-09-16T18:41:42.753376+00:00",
+    "updated_at": "2026-09-16T18:52:45.913494+00:00",
     "lane": "MOUNT STERLING KY-MIRA LOMA CA"
   },
   {
