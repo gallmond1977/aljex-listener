@@ -17,6 +17,23 @@
     "lane": "MONCURE NC-ATLANTA GA"
   },
   {
+    "pro": "50527",
+    "status": "OPEN",
+    "pu_date": "2026-09-16",
+    "pu_city": "BENSENVILLE",
+    "pu_state": "IL",
+    "pu_hours": "1200-1530",
+    "del_date": "2026-09-17",
+    "del_city": "BELCAMP",
+    "del_state": "MD",
+    "del_hours": "0700-1500",
+    "equipment": "Van",
+    "weight_lbs": 42000,
+    "carrier_rate": 2800,
+    "updated_at": "2026-09-16T18:15:08.104532+00:00",
+    "lane": "BENSENVILLE IL-BELCAMP MD"
+  },
+  {
     "pro": "50328",
     "status": "OPEN",
     "pu_date": "2026-09-17",
