@@ -217,7 +217,7 @@
     "equipment": "Van",
     "weight_lbs": 43000,
     "carrier_rate": 500,
-    "updated_at": "2026-09-16T12:02:32.926516+00:00",
+    "updated_at": "2026-09-16T12:12:12.515782+00:00",
     "lane": "ROCKINGHAM NC-BELMONT NC"
   },
   {
@@ -303,23 +303,6 @@
     "weight_lbs": 2616,
     "carrier_rate": null,
     "updated_at": "2026-09-15T20:28:17.625265+00:00",
-    "lane": "MOUNT STERLING KY-MIRA LOMA CA"
-  },
-  {
-    "pro": "50502",
-    "status": "OPEN",
-    "pu_date": "2026-09-18",
-    "pu_city": "MOUNT STERLING",
-    "pu_state": "KY",
-    "pu_hours": "",
-    "del_date": "2026-09-21",
-    "del_city": "MIRA LOMA",
-    "del_state": "CA",
-    "del_hours": "1030",
-    "equipment": "Van",
-    "weight_lbs": 10464,
-    "carrier_rate": null,
-    "updated_at": "2026-09-15T20:29:01.015119+00:00",
     "lane": "MOUNT STERLING KY-MIRA LOMA CA"
   },
   {
@@ -1016,7 +999,7 @@
     "equipment": "Van",
     "weight_lbs": 34000,
     "carrier_rate": 650,
-    "updated_at": "2026-09-16T11:31:59.210813+00:00",
+    "updated_at": "2026-09-16T12:11:23.881189+00:00",
     "lane": "MACON GA-CALHOUN GA"
   },
   {
@@ -1050,7 +1033,7 @@
     "equipment": "Van",
     "weight_lbs": 34000,
     "carrier_rate": 600,
-    "updated_at": "2026-09-16T12:06:17.802779+00:00",
+    "updated_at": "2026-09-16T12:10:19.829849+00:00",
     "lane": "MACON GA-CALHOUN GA"
   },
   {
@@ -1067,7 +1050,7 @@
     "equipment": "Van",
     "weight_lbs": 34000,
     "carrier_rate": 650,
-    "updated_at": "2026-09-15T19:35:47.810889+00:00",
+    "updated_at": "2026-09-16T12:11:46.113769+00:00",
     "lane": "MACON GA-CALHOUN GA"
   }
 ]
