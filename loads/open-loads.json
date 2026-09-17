@@ -1072,7 +1072,7 @@
   },
   {
     "pro": "50494",
-    "status": "DELIVERED",
+    "status": "RELEASED",
     "pu_date": "2026-09-16",
     "pu_city": "OPELIKA",
     "pu_state": "AL",
@@ -1084,7 +1084,7 @@
     "equipment": "Flatbed",
     "weight_lbs": 47000,
     "carrier_rate": 1000,
-    "updated_at": "2026-09-17T12:56:20.091669+00:00",
+    "updated_at": "2026-09-17T21:04:19.565699+00:00",
     "lane": "OPELIKA AL-COLUMBIA AL"
   },
   {
