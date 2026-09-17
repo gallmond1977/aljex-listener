@@ -102,6 +102,23 @@
     "lane": "MONCURE NC-ATLANTA GA"
   },
   {
+    "pro": "50534",
+    "status": "OPEN",
+    "pu_date": "2026-09-17",
+    "pu_city": "BUFFALO",
+    "pu_state": "NY",
+    "pu_hours": "1300",
+    "del_date": "2026-09-18",
+    "del_city": "BELCAMP",
+    "del_state": "MD",
+    "del_hours": "0700-1300",
+    "equipment": "Van",
+    "weight_lbs": 7500,
+    "carrier_rate": 1700,
+    "updated_at": "2026-09-17T11:57:57.803285+00:00",
+    "lane": "BUFFALO NY-BELCAMP MD"
+  },
+  {
     "pro": "50434",
     "status": "OPEN",
     "pu_date": "2026-09-18",
@@ -661,6 +678,23 @@
     "carrier_rate": 1000,
     "updated_at": "2026-09-16T14:16:57.809645+00:00",
     "lane": "CUMMING GA-CANON GA"
+  },
+  {
+    "pro": "50350",
+    "status": "RELEASED",
+    "pu_date": "2026-09-09",
+    "pu_city": "BUFFALO",
+    "pu_state": "NY",
+    "pu_hours": "0700-1500",
+    "del_date": "2026-09-10",
+    "del_city": "BELCAMP",
+    "del_state": "MD",
+    "del_hours": "0700-1500",
+    "equipment": "Van",
+    "weight_lbs": 4953,
+    "carrier_rate": 1600,
+    "updated_at": "2026-09-10T15:48:28.051039+00:00",
+    "lane": "BUFFALO NY-BELCAMP MD"
   },
   {
     "pro": "50182",
