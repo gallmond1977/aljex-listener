@@ -148,8 +148,8 @@
     "del_hours": "0800-1600",
     "equipment": "Van",
     "weight_lbs": 42801,
-    "carrier_rate": 2800,
-    "updated_at": "2026-09-17T15:45:55.311250+00:00",
+    "carrier_rate": 3000,
+    "updated_at": "2026-09-17T15:51:54.689085+00:00",
     "lane": "SUFFOLK VA-FORT WALTON BEACH FL"
   },
   {
@@ -493,23 +493,6 @@
     "lane": "ATLANTA GA-ATLANTA GA"
   },
   {
-    "pro": "50454",
-    "status": "OPEN",
-    "pu_date": "2026-09-28",
-    "pu_city": "MEDLEY",
-    "pu_state": "FL",
-    "pu_hours": "NEEDED",
-    "del_date": "",
-    "del_city": "CHARLOTTE",
-    "del_state": "NC",
-    "del_hours": "APPT ONLY",
-    "equipment": "Flatbed",
-    "weight_lbs": 48000,
-    "carrier_rate": 1500,
-    "updated_at": "2026-09-14T15:55:21.307621+00:00",
-    "lane": "MEDLEY FL-CHARLOTTE NC"
-  },
-  {
     "pro": "50466",
     "status": "OPEN",
     "pu_date": "2026-09-28",
@@ -523,7 +506,7 @@
     "equipment": "Flatbed",
     "weight_lbs": 48000,
     "carrier_rate": null,
-    "updated_at": "2026-09-17T15:47:55.571242+00:00",
+    "updated_at": "2026-09-17T15:54:09.859404+00:00",
     "lane": "MIAMI FL-CHARLOTTE NC"
   },
   {
@@ -829,7 +812,7 @@
     "equipment": "Flatbed w/ Tarps",
     "weight_lbs": 42000,
     "carrier_rate": 3200,
-    "updated_at": "2026-09-17T14:00:22.066847+00:00",
+    "updated_at": "2026-09-17T15:53:47.585068+00:00",
     "lane": "ALPHARETTA GA-BELCAMP MD"
   },
   {
