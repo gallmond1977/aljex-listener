@@ -148,8 +148,8 @@
     "del_hours": "1100",
     "equipment": "Reefer",
     "weight_lbs": 1800,
-    "carrier_rate": 900,
-    "updated_at": "2026-09-17T17:52:39.378134+00:00",
+    "carrier_rate": 1000,
+    "updated_at": "2026-09-17T18:24:10.370954+00:00",
     "lane": "CUMMING GA-CANON GA"
   },
   {
@@ -455,7 +455,7 @@
     "equipment": "Van Hazmat",
     "weight_lbs": 44800,
     "carrier_rate": 900,
-    "updated_at": "2026-09-17T17:39:15.218418+00:00",
+    "updated_at": "2026-09-17T18:22:38.655710+00:00",
     "lane": "OAKLAND TN-LEWISBURG TN"
   },
   {
