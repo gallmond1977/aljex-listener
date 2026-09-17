@@ -68,23 +68,6 @@
     "lane": "JACKSONVILLE FL-MAYNARDVILLE TN"
   },
   {
-    "pro": "50547",
-    "status": "OPEN",
-    "pu_date": "2026-09-18",
-    "pu_city": "PENDERGRASS",
-    "pu_state": "GA",
-    "pu_hours": "APPT",
-    "del_date": "2026-09-21",
-    "del_city": "ZEBULON",
-    "del_state": "NC",
-    "del_hours": "0700-0900",
-    "equipment": "Van",
-    "weight_lbs": 40124,
-    "carrier_rate": 1300,
-    "updated_at": "2026-09-17T20:40:36.646611+00:00",
-    "lane": "PENDERGRASS GA-ZEBULON NC"
-  },
-  {
     "pro": "50555",
     "status": "OPEN",
     "pu_date": "2026-09-18",
@@ -185,6 +168,23 @@
     "carrier_rate": 1000,
     "updated_at": "2026-09-17T20:23:50.091294+00:00",
     "lane": "WILMINGTON NC-ATLANTA GA"
+  },
+  {
+    "pro": "50565",
+    "status": "OPEN",
+    "pu_date": "2026-09-18",
+    "pu_city": "COLUMBUS",
+    "pu_state": "GA",
+    "pu_hours": "NEEDED",
+    "del_date": "",
+    "del_city": "TAMPA",
+    "del_state": "FL",
+    "del_hours": "NEEDED",
+    "equipment": "Van",
+    "weight_lbs": 43000,
+    "carrier_rate": 1800,
+    "updated_at": "2026-09-17T20:49:02.098836+00:00",
+    "lane": "COLUMBUS GA-TAMPA FL"
   },
   {
     "pro": "50107",
@@ -816,23 +816,6 @@
     "lane": "CUMMING GA-CANON GA"
   },
   {
-    "pro": "50352",
-    "status": "RELEASED",
-    "pu_date": "2026-09-09",
-    "pu_city": "PENDERGRASS",
-    "pu_state": "GA",
-    "pu_hours": "1430",
-    "del_date": "2026-09-10",
-    "del_city": "ZEBULON",
-    "del_state": "NC",
-    "del_hours": "0700-0900",
-    "equipment": "Van",
-    "weight_lbs": 40124,
-    "carrier_rate": 1300,
-    "updated_at": "2026-09-16T20:17:53.003241+00:00",
-    "lane": "PENDERGRASS GA-ZEBULON NC"
-  },
-  {
     "pro": "50182",
     "status": "RELEASED",
     "pu_date": "2026-09-10",
@@ -865,6 +848,23 @@
     "carrier_rate": 1500,
     "updated_at": "2026-09-16T13:46:39.813185+00:00",
     "lane": "ATHENS AL-GULFPORT MS"
+  },
+  {
+    "pro": "50369",
+    "status": "RELEASED",
+    "pu_date": "2026-09-10",
+    "pu_city": "COLUMBUS",
+    "pu_state": "GA",
+    "pu_hours": "0800-1500",
+    "del_date": "2026-09-11",
+    "del_city": "TAMPA",
+    "del_state": "FL",
+    "del_hours": "0700-1500",
+    "equipment": "Flatbed w/ Tarps",
+    "weight_lbs": 45720,
+    "carrier_rate": 1800,
+    "updated_at": "2026-09-16T19:40:36.040282+00:00",
+    "lane": "COLUMBUS GA-TAMPA FL"
   },
   {
     "pro": "50388",
