@@ -81,7 +81,7 @@
     "equipment": "Van",
     "weight_lbs": 40124,
     "carrier_rate": 1200,
-    "updated_at": "2026-09-17T16:33:56.152668+00:00",
+    "updated_at": "2026-09-17T20:39:57.790745+00:00",
     "lane": "PENDERGRASS GA-ZEBULON NC"
   },
   {
@@ -151,23 +151,6 @@
     "carrier_rate": 1300,
     "updated_at": "2026-09-17T19:32:15.182090+00:00",
     "lane": "BUENA VISTA GA-RALEIGH NC"
-  },
-  {
-    "pro": "50561",
-    "status": "OPEN",
-    "pu_date": "2026-09-18",
-    "pu_city": "ATLANTA",
-    "pu_state": "GA",
-    "pu_hours": "0900-1400",
-    "del_date": "2026-09-18",
-    "del_city": "LAWRENCEVILLE",
-    "del_state": "GA",
-    "del_hours": "1530-1600",
-    "equipment": "Flatbed Hot Shot",
-    "weight_lbs": 4689,
-    "carrier_rate": 300,
-    "updated_at": "2026-09-17T19:44:00.831649+00:00",
-    "lane": "ATLANTA GA-LAWRENCEVILLE GA"
   },
   {
     "pro": "50562",
@@ -437,8 +420,8 @@
     "del_hours": "CALL!",
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 300,
-    "carrier_rate": null,
-    "updated_at": "2026-09-17T20:31:28.404668+00:00",
+    "carrier_rate": 300,
+    "updated_at": "2026-09-17T20:35:45.352502+00:00",
     "lane": "BIRMINGHAM AL-LANETT AL"
   },
   {
@@ -1137,23 +1120,6 @@
     "carrier_rate": 650,
     "updated_at": "2026-09-17T17:45:21.805559+00:00",
     "lane": "MACON GA-CALHOUN GA"
-  },
-  {
-    "pro": "50514",
-    "status": "RELEASED",
-    "pu_date": "2026-09-16",
-    "pu_city": "ATLANTA",
-    "pu_state": "GA",
-    "pu_hours": "0900-1500",
-    "del_date": "2026-09-17",
-    "del_city": "LAWRENCEVILLE",
-    "del_state": "GA",
-    "del_hours": "0800-1500",
-    "equipment": "Flatbed w/ Tarps",
-    "weight_lbs": 21181,
-    "carrier_rate": 650,
-    "updated_at": "2026-09-17T19:42:17.617153+00:00",
-    "lane": "ATLANTA GA-LAWRENCEVILLE GA"
   },
   {
     "pro": "50527",
