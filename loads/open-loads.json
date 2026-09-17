@@ -183,25 +183,8 @@
     "equipment": "Van",
     "weight_lbs": 4375,
     "carrier_rate": 650,
-    "updated_at": "2026-09-16T16:31:48.097024+00:00",
+    "updated_at": "2026-09-17T13:53:34.890607+00:00",
     "lane": "WINCHESTER KY-FLORENCE KY"
-  },
-  {
-    "pro": "50524",
-    "status": "OPEN",
-    "pu_date": "2026-09-18",
-    "pu_city": "WINCHESTER",
-    "pu_state": "KY",
-    "pu_hours": "ADREQD",
-    "del_date": "2026-09-22",
-    "del_city": "BURLINGTON",
-    "del_state": "NJ",
-    "del_hours": "0900",
-    "equipment": "Van",
-    "weight_lbs": 4000,
-    "carrier_rate": 2200,
-    "updated_at": "2026-09-16T19:34:43.580231+00:00",
-    "lane": "WINCHESTER KY-BURLINGTON NJ"
   },
   {
     "pro": "50535",
@@ -217,7 +200,7 @@
     "equipment": "Van",
     "weight_lbs": 43203,
     "carrier_rate": 2700,
-    "updated_at": "2026-09-17T12:00:58.019273+00:00",
+    "updated_at": "2026-09-17T13:52:43.126234+00:00",
     "lane": "COLUMBUS GA-STEVENS PA"
   },
   {
@@ -493,6 +476,23 @@
     "lane": "WINCHESTER KY-JACKSONVILLE FL"
   },
   {
+    "pro": "50524",
+    "status": "OPEN",
+    "pu_date": "2026-09-23",
+    "pu_city": "WINCHESTER",
+    "pu_state": "KY",
+    "pu_hours": "0800-1500",
+    "del_date": "2026-09-24",
+    "del_city": "BURLINGTON",
+    "del_state": "NJ",
+    "del_hours": "0500",
+    "equipment": "Van",
+    "weight_lbs": 4000,
+    "carrier_rate": 2200,
+    "updated_at": "2026-09-17T13:53:58.918215+00:00",
+    "lane": "WINCHESTER KY-BURLINGTON NJ"
+  },
+  {
     "pro": "50529",
     "status": "OPEN",
     "pu_date": "2026-09-23",
@@ -576,6 +576,23 @@
     "carrier_rate": 1400,
     "updated_at": "2026-09-10T18:57:31.885557+00:00",
     "lane": "DALLAS NC-MUSCLE SHOALS AL"
+  },
+  {
+    "pro": "50541",
+    "status": "OPEN",
+    "pu_date": "2026-10-19",
+    "pu_city": "BENSENVILLE",
+    "pu_state": "IL",
+    "pu_hours": "0800-1530",
+    "del_date": "2026-10-20",
+    "del_city": "BELCAMP",
+    "del_state": "MD",
+    "del_hours": "0700-1500",
+    "equipment": "Van",
+    "weight_lbs": 42000,
+    "carrier_rate": null,
+    "updated_at": "2026-09-17T13:51:23.842527+00:00",
+    "lane": "BENSENVILLE IL-BELCAMP MD"
   },
   {
     "pro": "50287",
@@ -831,6 +848,23 @@
     "carrier_rate": 1000,
     "updated_at": "2026-09-17T12:56:20.091669+00:00",
     "lane": "OPELIKA AL-COLUMBIA AL"
+  },
+  {
+    "pro": "50527",
+    "status": "DELIVERED",
+    "pu_date": "2026-09-16",
+    "pu_city": "BENSENVILLE",
+    "pu_state": "IL",
+    "pu_hours": "1200-1530",
+    "del_date": "2026-09-17",
+    "del_city": "BELCAMP",
+    "del_state": "MD",
+    "del_hours": "0700-1500",
+    "equipment": "Van",
+    "weight_lbs": 42000,
+    "carrier_rate": 2800,
+    "updated_at": "2026-09-17T13:44:54.450298+00:00",
+    "lane": "BENSENVILLE IL-BELCAMP MD"
   },
   {
     "pro": "50516",
