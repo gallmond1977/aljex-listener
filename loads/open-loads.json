@@ -119,23 +119,6 @@
     "lane": "LAGRANGE GA-ORLANDO FL"
   },
   {
-    "pro": "50560",
-    "status": "OPEN",
-    "pu_date": "2026-09-18",
-    "pu_city": "BUENA VISTA",
-    "pu_state": "GA",
-    "pu_hours": "0800-1400",
-    "del_date": "2026-09-21",
-    "del_city": "RALEIGH",
-    "del_state": "NC",
-    "del_hours": "0700-1200",
-    "equipment": "Van",
-    "weight_lbs": 43500,
-    "carrier_rate": 1300,
-    "updated_at": "2026-09-17T19:32:15.182090+00:00",
-    "lane": "BUENA VISTA GA-RALEIGH NC"
-  },
-  {
     "pro": "50562",
     "status": "OPEN",
     "pu_date": "2026-09-18",
