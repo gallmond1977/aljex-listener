@@ -1,22 +1,5 @@
 [
   {
-    "pro": "50557",
-    "status": "OPEN",
-    "pu_date": "2026-09-17",
-    "pu_city": "MONCURE",
-    "pu_state": "NC",
-    "pu_hours": "0730-1600",
-    "del_date": "2026-09-18",
-    "del_city": "ATLANTA",
-    "del_state": "GA",
-    "del_hours": "0800-1600",
-    "equipment": "Van",
-    "weight_lbs": 44000,
-    "carrier_rate": 900,
-    "updated_at": "2026-09-17T19:01:36.011350+00:00",
-    "lane": "MONCURE NC-ATLANTA GA"
-  },
-  {
     "pro": "50328",
     "status": "OPEN",
     "pu_date": "2026-09-18",
@@ -136,6 +119,23 @@
     "lane": "CUMMING GA-CANON GA"
   },
   {
+    "pro": "50557",
+    "status": "OPEN",
+    "pu_date": "2026-09-18",
+    "pu_city": "MONCURE",
+    "pu_state": "NC",
+    "pu_hours": "0730-1600",
+    "del_date": "2026-09-21",
+    "del_city": "ATLANTA",
+    "del_state": "GA",
+    "del_hours": "0800-1600",
+    "equipment": "Van",
+    "weight_lbs": 44000,
+    "carrier_rate": 900,
+    "updated_at": "2026-09-17T19:44:38.655266+00:00",
+    "lane": "MONCURE NC-ATLANTA GA"
+  },
+  {
     "pro": "50559",
     "status": "OPEN",
     "pu_date": "2026-09-18",
@@ -168,6 +168,23 @@
     "carrier_rate": 1300,
     "updated_at": "2026-09-17T19:32:15.182090+00:00",
     "lane": "BUENA VISTA GA-RALEIGH NC"
+  },
+  {
+    "pro": "50561",
+    "status": "OPEN",
+    "pu_date": "2026-09-18",
+    "pu_city": "ATLANTA",
+    "pu_state": "GA",
+    "pu_hours": "0900-1400",
+    "del_date": "2026-09-18",
+    "del_city": "LAWRENCEVILLE",
+    "del_state": "GA",
+    "del_hours": "1530-1600",
+    "equipment": "Flatbed Hot Shot",
+    "weight_lbs": 4689,
+    "carrier_rate": 300,
+    "updated_at": "2026-09-17T19:44:00.831649+00:00",
+    "lane": "ATLANTA GA-LAWRENCEVILLE GA"
   },
   {
     "pro": "50107",
@@ -1086,6 +1103,23 @@
     "carrier_rate": 650,
     "updated_at": "2026-09-17T17:45:21.805559+00:00",
     "lane": "MACON GA-CALHOUN GA"
+  },
+  {
+    "pro": "50514",
+    "status": "RELEASED",
+    "pu_date": "2026-09-16",
+    "pu_city": "ATLANTA",
+    "pu_state": "GA",
+    "pu_hours": "0900-1500",
+    "del_date": "2026-09-17",
+    "del_city": "LAWRENCEVILLE",
+    "del_state": "GA",
+    "del_hours": "0800-1500",
+    "equipment": "Flatbed w/ Tarps",
+    "weight_lbs": 21181,
+    "carrier_rate": 650,
+    "updated_at": "2026-09-17T19:42:17.617153+00:00",
+    "lane": "ATLANTA GA-LAWRENCEVILLE GA"
   },
   {
     "pro": "50527",
