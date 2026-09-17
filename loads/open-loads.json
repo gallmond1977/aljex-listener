@@ -22,15 +22,15 @@
     "pu_date": "2026-09-17",
     "pu_city": "WINCHESTER",
     "pu_state": "KY",
-    "pu_hours": "0700-1130",
+    "pu_hours": "0700-1400",
     "del_date": "2026-09-18",
     "del_city": "GEORGETOWN",
     "del_state": "DE",
     "del_hours": "0800",
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 2500,
-    "carrier_rate": 1200,
-    "updated_at": "2026-09-17T13:04:16.443699+00:00",
+    "carrier_rate": 1300,
+    "updated_at": "2026-09-17T13:05:08.766941+00:00",
     "lane": "WINCHESTER KY-GEORGETOWN DE"
   },
   {
@@ -73,7 +73,7 @@
     "pu_date": "2026-09-17",
     "pu_city": "FAYETTEVILLE",
     "pu_state": "NC",
-    "pu_hours": "0800-1100",
+    "pu_hours": "0800-1030",
     "del_date": "2026-09-17",
     "del_city": "ROCK HILL",
     "del_state": "SC",
@@ -81,7 +81,7 @@
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 3500,
     "carrier_rate": 300,
-    "updated_at": "2026-09-17T13:02:19.945094+00:00",
+    "updated_at": "2026-09-17T13:06:59.427815+00:00",
     "lane": "FAYETTEVILLE NC-ROCK HILL SC"
   },
   {
@@ -98,7 +98,7 @@
     "equipment": "Flatbed w/ Tarps",
     "weight_lbs": 46080,
     "carrier_rate": 800,
-    "updated_at": "2026-09-17T13:02:01.841545+00:00",
+    "updated_at": "2026-09-17T13:05:40.611998+00:00",
     "lane": "EUFAULA AL-ECLECTIC AL"
   },
   {
