@@ -119,23 +119,6 @@
     "lane": "HOUSTON TX-SANFORD FL"
   },
   {
-    "pro": "50464",
-    "status": "OPEN",
-    "pu_date": "2026-09-18",
-    "pu_city": "HOUSTON",
-    "pu_state": "TX",
-    "pu_hours": "1000",
-    "del_date": "2026-09-21",
-    "del_city": "SANFORD",
-    "del_state": "FL",
-    "del_hours": "0900",
-    "equipment": "26' Straight Box Truck",
-    "weight_lbs": 7000,
-    "carrier_rate": 1800,
-    "updated_at": "2026-09-17T14:41:57.321098+00:00",
-    "lane": "HOUSTON TX-SANFORD FL"
-  },
-  {
     "pro": "50465",
     "status": "OPEN",
     "pu_date": "2026-09-18",
@@ -848,5 +831,22 @@
     "carrier_rate": 200,
     "updated_at": "2026-09-17T13:43:05.205305+00:00",
     "lane": "RICHMOND VA-RICHMOND VA"
+  },
+  {
+    "pro": "50464",
+    "status": "COVERED",
+    "pu_date": "2026-09-18",
+    "pu_city": "HOUSTON",
+    "pu_state": "TX",
+    "pu_hours": "1000",
+    "del_date": "2026-09-21",
+    "del_city": "SANFORD",
+    "del_state": "FL",
+    "del_hours": "0900",
+    "equipment": "26' Straight Box Truck",
+    "weight_lbs": 7000,
+    "carrier_rate": 2000,
+    "updated_at": "2026-09-17T14:58:04.677276+00:00",
+    "lane": "HOUSTON TX-SANFORD FL"
   }
 ]
