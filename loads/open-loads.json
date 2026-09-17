@@ -306,6 +306,23 @@
     "lane": "RICHMOND VA-BETHESDA MD"
   },
   {
+    "pro": "50553",
+    "status": "OPEN",
+    "pu_date": "2026-09-21",
+    "pu_city": "MACON",
+    "pu_state": "GA",
+    "pu_hours": "0800-1530",
+    "del_date": "2026-09-22",
+    "del_city": "CALHOUN",
+    "del_state": "GA",
+    "del_hours": "0700-1500",
+    "equipment": "Van",
+    "weight_lbs": 34000,
+    "carrier_rate": 600,
+    "updated_at": "2026-09-17T17:47:01.615630+00:00",
+    "lane": "MACON GA-CALHOUN GA"
+  },
+  {
     "pro": "50159",
     "status": "OPEN",
     "pu_date": "2026-09-22",
@@ -423,6 +440,23 @@
     "carrier_rate": 900,
     "updated_at": "2026-09-17T17:39:15.218418+00:00",
     "lane": "OAKLAND TN-LEWISBURG TN"
+  },
+  {
+    "pro": "50554",
+    "status": "OPEN",
+    "pu_date": "2026-09-22",
+    "pu_city": "MACON",
+    "pu_state": "GA",
+    "pu_hours": "0800-1530",
+    "del_date": "2026-09-23",
+    "del_city": "CALHOUN",
+    "del_state": "GA",
+    "del_hours": "0700-1500",
+    "equipment": "Van",
+    "weight_lbs": 34000,
+    "carrier_rate": 600,
+    "updated_at": "2026-09-17T17:48:07.150896+00:00",
+    "lane": "MACON GA-CALHOUN GA"
   },
   {
     "pro": "50523",
@@ -595,6 +629,23 @@
     "lane": "LA PORTE TX-GREENVILLE SC"
   },
   {
+    "pro": "50201",
+    "status": "RELEASED",
+    "pu_date": "2026-08-31",
+    "pu_city": "MACON",
+    "pu_state": "GA",
+    "pu_hours": "0800-1530",
+    "del_date": "2026-09-01",
+    "del_city": "CALHOUN",
+    "del_state": "GA",
+    "del_hours": "0700-1500",
+    "equipment": "Van",
+    "weight_lbs": 34000,
+    "carrier_rate": 600,
+    "updated_at": "2026-09-16T13:39:59.488956+00:00",
+    "lane": "MACON GA-CALHOUN GA"
+  },
+  {
     "pro": "50136",
     "status": "RELEASED",
     "pu_date": "2026-09-03",
@@ -644,6 +695,23 @@
     "carrier_rate": 3400,
     "updated_at": "2026-09-17T13:47:22.786315+00:00",
     "lane": "ALPHARETTA GA-BELCAMP MD"
+  },
+  {
+    "pro": "50283",
+    "status": "RELEASED",
+    "pu_date": "2026-09-08",
+    "pu_city": "MACON",
+    "pu_state": "GA",
+    "pu_hours": "0800-1530",
+    "del_date": "2026-09-09",
+    "del_city": "CALHOUN",
+    "del_state": "GA",
+    "del_hours": "0700-1500",
+    "equipment": "Van",
+    "weight_lbs": 34000,
+    "carrier_rate": 600,
+    "updated_at": "2026-09-14T14:23:01.867526+00:00",
+    "lane": "MACON GA-CALHOUN GA"
   },
   {
     "pro": "50295",
@@ -782,6 +850,40 @@
     "lane": "ATHENS AL-GULFPORT MS"
   },
   {
+    "pro": "50444",
+    "status": "RELEASED",
+    "pu_date": "2026-09-15",
+    "pu_city": "MACON",
+    "pu_state": "GA",
+    "pu_hours": "0800-1530",
+    "del_date": "2026-09-16",
+    "del_city": "CALHOUN",
+    "del_state": "GA",
+    "del_hours": "0700-1500",
+    "equipment": "Van",
+    "weight_lbs": 34000,
+    "carrier_rate": 650,
+    "updated_at": "2026-09-16T13:11:46.505803+00:00",
+    "lane": "MACON GA-CALHOUN GA"
+  },
+  {
+    "pro": "50446",
+    "status": "RELEASED",
+    "pu_date": "2026-09-15",
+    "pu_city": "MACON",
+    "pu_state": "GA",
+    "pu_hours": "0800-1530",
+    "del_date": "2026-09-16",
+    "del_city": "CALHOUN",
+    "del_state": "GA",
+    "del_hours": "0700-1500",
+    "equipment": "Van",
+    "weight_lbs": 34000,
+    "carrier_rate": 600,
+    "updated_at": "2026-09-17T15:28:02.435115+00:00",
+    "lane": "MACON GA-CALHOUN GA"
+  },
+  {
     "pro": "50457",
     "status": "DELIVERED",
     "pu_date": "2026-09-15",
@@ -797,6 +899,40 @@
     "carrier_rate": 3200,
     "updated_at": "2026-09-17T15:53:47.585068+00:00",
     "lane": "ALPHARETTA GA-BELCAMP MD"
+  },
+  {
+    "pro": "50445",
+    "status": "RELEASED",
+    "pu_date": "2026-09-16",
+    "pu_city": "MACON",
+    "pu_state": "GA",
+    "pu_hours": "0800-1530",
+    "del_date": "2026-09-16",
+    "del_city": "CALHOUN",
+    "del_state": "GA",
+    "del_hours": "0700-1500",
+    "equipment": "Van",
+    "weight_lbs": 34000,
+    "carrier_rate": 600,
+    "updated_at": "2026-09-17T15:41:23.939668+00:00",
+    "lane": "MACON GA-CALHOUN GA"
+  },
+  {
+    "pro": "50472",
+    "status": "DELIVERED",
+    "pu_date": "2026-09-16",
+    "pu_city": "MACON",
+    "pu_state": "GA",
+    "pu_hours": "1200-1530",
+    "del_date": "2026-09-17",
+    "del_city": "CALHOUN",
+    "del_state": "GA",
+    "del_hours": "0700-1500",
+    "equipment": "Van",
+    "weight_lbs": 34000,
+    "carrier_rate": 600,
+    "updated_at": "2026-09-17T13:07:41.870630+00:00",
+    "lane": "MACON GA-CALHOUN GA"
   },
   {
     "pro": "50494",
@@ -816,6 +952,23 @@
     "lane": "OPELIKA AL-COLUMBIA AL"
   },
   {
+    "pro": "50509",
+    "status": "DELIVERED",
+    "pu_date": "2026-09-16",
+    "pu_city": "MACON",
+    "pu_state": "GA",
+    "pu_hours": "0800-1530",
+    "del_date": "2026-09-17",
+    "del_city": "CALHOUN",
+    "del_state": "GA",
+    "del_hours": "0700-1500",
+    "equipment": "Van",
+    "weight_lbs": 34000,
+    "carrier_rate": 650,
+    "updated_at": "2026-09-17T17:45:21.805559+00:00",
+    "lane": "MACON GA-CALHOUN GA"
+  },
+  {
     "pro": "50527",
     "status": "DELIVERED",
     "pu_date": "2026-09-16",
@@ -831,6 +984,23 @@
     "carrier_rate": 2800,
     "updated_at": "2026-09-17T13:44:54.450298+00:00",
     "lane": "BENSENVILLE IL-BELCAMP MD"
+  },
+  {
+    "pro": "50508",
+    "status": "DELIVERED",
+    "pu_date": "2026-09-17",
+    "pu_city": "MACON",
+    "pu_state": "GA",
+    "pu_hours": "0800-1530",
+    "del_date": "2026-09-17",
+    "del_city": "CALHOUN",
+    "del_state": "GA",
+    "del_hours": "0700-1500",
+    "equipment": "Van",
+    "weight_lbs": 34000,
+    "carrier_rate": 600,
+    "updated_at": "2026-09-17T14:44:54.310215+00:00",
+    "lane": "MACON GA-CALHOUN GA"
   },
   {
     "pro": "50516",
@@ -899,5 +1069,22 @@
     "carrier_rate": 2000,
     "updated_at": "2026-09-17T14:58:04.677276+00:00",
     "lane": "HOUSTON TX-SANFORD FL"
+  },
+  {
+    "pro": "50471",
+    "status": "COVERED",
+    "pu_date": "2026-09-21",
+    "pu_city": "MACON",
+    "pu_state": "GA",
+    "pu_hours": "0800-1530",
+    "del_date": "2026-09-22",
+    "del_city": "CALHOUN",
+    "del_state": "GA",
+    "del_hours": "0700-1500",
+    "equipment": "Van",
+    "weight_lbs": 34000,
+    "carrier_rate": 650,
+    "updated_at": "2026-09-17T17:43:29.464868+00:00",
+    "lane": "MACON GA-CALHOUN GA"
   }
 ]
