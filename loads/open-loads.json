@@ -408,6 +408,23 @@
     "lane": "CREWE VA-SUMMERVILLE SC"
   },
   {
+    "pro": "50563",
+    "status": "OPEN",
+    "pu_date": "2026-09-21",
+    "pu_city": "BIRMINGHAM",
+    "pu_state": "AL",
+    "pu_hours": "CALL!",
+    "del_date": "2026-09-21",
+    "del_city": "LANETT",
+    "del_state": "AL",
+    "del_hours": "CALL!",
+    "equipment": "26' Straight Box Truck",
+    "weight_lbs": 300,
+    "carrier_rate": null,
+    "updated_at": "2026-09-17T20:20:09.701526+00:00",
+    "lane": "BIRMINGHAM AL-LANETT AL"
+  },
+  {
     "pro": "50159",
     "status": "OPEN",
     "pu_date": "2026-09-22",
