@@ -17,23 +17,6 @@
     "lane": "WINCHESTER KY-NORTH EAST MD"
   },
   {
-    "pro": "50539",
-    "status": "OPEN",
-    "pu_date": "2026-09-17",
-    "pu_city": "CHARLOTTE",
-    "pu_state": "NC",
-    "pu_hours": "0800-1400",
-    "del_date": "2026-09-17",
-    "del_city": "CARY",
-    "del_state": "NC",
-    "del_hours": "0800-1200",
-    "equipment": "Flatbed Hot Shot",
-    "weight_lbs": 6000,
-    "carrier_rate": 400,
-    "updated_at": "2026-09-17T15:24:34.019173+00:00",
-    "lane": "CHARLOTTE NC-CARY NC"
-  },
-  {
     "pro": "50463",
     "status": "OPEN",
     "pu_date": "2026-09-18",
