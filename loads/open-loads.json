@@ -85,23 +85,6 @@
     "lane": "JACKSONVILLE FL-MAYNARDVILLE TN"
   },
   {
-    "pro": "50544",
-    "status": "OPEN",
-    "pu_date": "2026-09-18",
-    "pu_city": "SUFFOLK",
-    "pu_state": "VA",
-    "pu_hours": "0900",
-    "del_date": "2026-09-21",
-    "del_city": "FORT WALTON BEACH",
-    "del_state": "FL",
-    "del_hours": "0800-1600",
-    "equipment": "Van",
-    "weight_lbs": 42801,
-    "carrier_rate": 3000,
-    "updated_at": "2026-09-17T15:51:54.689085+00:00",
-    "lane": "SUFFOLK VA-FORT WALTON BEACH FL"
-  },
-  {
     "pro": "50546",
     "status": "OPEN",
     "pu_date": "2026-09-18",
@@ -436,9 +419,9 @@
     "del_state": "TN",
     "del_hours": "",
     "equipment": "Van Hazmat",
-    "weight_lbs": 17120,
+    "weight_lbs": 44800,
     "carrier_rate": 900,
-    "updated_at": "2026-09-17T17:34:01.890619+00:00",
+    "updated_at": "2026-09-17T17:39:15.218418+00:00",
     "lane": "OAKLAND TN-LEWISBURG TN"
   },
   {
