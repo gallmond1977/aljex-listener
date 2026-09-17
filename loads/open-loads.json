@@ -30,25 +30,8 @@
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 2500,
     "carrier_rate": 1200,
-    "updated_at": "2026-09-16T15:27:59.508224+00:00",
+    "updated_at": "2026-09-17T12:27:36.990070+00:00",
     "lane": "WINCHESTER KY-GEORGETOWN DE"
-  },
-  {
-    "pro": "50528",
-    "status": "OPEN",
-    "pu_date": "2026-09-17",
-    "pu_city": "CUMMING",
-    "pu_state": "GA",
-    "pu_hours": "2100",
-    "del_date": "2026-09-18",
-    "del_city": "CANON",
-    "del_state": "GA",
-    "del_hours": "1100",
-    "equipment": "Reefer",
-    "weight_lbs": 1800,
-    "carrier_rate": 900,
-    "updated_at": "2026-09-16T18:46:45.916462+00:00",
-    "lane": "CUMMING GA-CANON GA"
   },
   {
     "pro": "50531",
@@ -646,23 +629,6 @@
     "lane": "WINCHESTER KY-FLORENCE KY"
   },
   {
-    "pro": "50333",
-    "status": "RELEASED",
-    "pu_date": "2026-09-08",
-    "pu_city": "CUMMING",
-    "pu_state": "GA",
-    "pu_hours": "2100",
-    "del_date": "2026-09-09",
-    "del_city": "CANON",
-    "del_state": "GA",
-    "del_hours": "0600",
-    "equipment": "Reefer",
-    "weight_lbs": 39600,
-    "carrier_rate": 1000,
-    "updated_at": "2026-09-16T14:16:57.809645+00:00",
-    "lane": "CUMMING GA-CANON GA"
-  },
-  {
     "pro": "50182",
     "status": "RELEASED",
     "pu_date": "2026-09-10",
@@ -697,23 +663,6 @@
     "lane": "ATHENS AL-GULFPORT MS"
   },
   {
-    "pro": "50388",
-    "status": "RELEASED",
-    "pu_date": "2026-09-10",
-    "pu_city": "CUMMING",
-    "pu_state": "GA",
-    "pu_hours": "2100",
-    "del_date": "2026-09-11",
-    "del_city": "CANON",
-    "del_state": "GA",
-    "del_hours": "1100",
-    "equipment": "Reefer",
-    "weight_lbs": 39600,
-    "carrier_rate": 900,
-    "updated_at": "2026-09-11T12:52:08.653051+00:00",
-    "lane": "CUMMING GA-CANON GA"
-  },
-  {
     "pro": "50406",
     "status": "RELEASED",
     "pu_date": "2026-09-11",
@@ -729,23 +678,6 @@
     "carrier_rate": 900,
     "updated_at": "2026-09-16T16:44:00.201351+00:00",
     "lane": "MONCURE NC-ATLANTA GA"
-  },
-  {
-    "pro": "50418",
-    "status": "RELEASED",
-    "pu_date": "2026-09-11",
-    "pu_city": "CUMMING",
-    "pu_state": "GA",
-    "pu_hours": "1100",
-    "del_date": "2026-09-14",
-    "del_city": "CANON",
-    "del_state": "GA",
-    "del_hours": "0600",
-    "equipment": "Reefer",
-    "weight_lbs": 39600,
-    "carrier_rate": 1200,
-    "updated_at": "2026-09-15T18:12:37.457461+00:00",
-    "lane": "CUMMING GA-CANON GA"
   },
   {
     "pro": "50404",
@@ -814,23 +746,6 @@
     "carrier_rate": 1500,
     "updated_at": "2026-09-16T16:50:28.608867+00:00",
     "lane": "ATHENS AL-GULFPORT MS"
-  },
-  {
-    "pro": "50460",
-    "status": "DELIVERED",
-    "pu_date": "2026-09-15",
-    "pu_city": "CUMMING",
-    "pu_state": "GA",
-    "pu_hours": "2100",
-    "del_date": "2026-09-16",
-    "del_city": "CANON",
-    "del_state": "GA",
-    "del_hours": "0600",
-    "equipment": "Reefer",
-    "weight_lbs": 1800,
-    "carrier_rate": 950,
-    "updated_at": "2026-09-16T18:24:28.057279+00:00",
-    "lane": "CUMMING GA-CANON GA"
   },
   {
     "pro": "50482",
