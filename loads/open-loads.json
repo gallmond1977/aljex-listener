@@ -187,23 +187,6 @@
     "lane": "WINCHESTER KY-FLORENCE KY"
   },
   {
-    "pro": "50535",
-    "status": "OPEN",
-    "pu_date": "2026-09-18",
-    "pu_city": "COLUMBUS",
-    "pu_state": "GA",
-    "pu_hours": "0800-1500",
-    "del_date": "2026-09-21",
-    "del_city": "STEVENS",
-    "del_state": "PA",
-    "del_hours": "0700-1500",
-    "equipment": "Van",
-    "weight_lbs": 43203,
-    "carrier_rate": 2700,
-    "updated_at": "2026-09-17T13:52:43.126234+00:00",
-    "lane": "COLUMBUS GA-STEVENS PA"
-  },
-  {
     "pro": "50107",
     "status": "OPEN",
     "pu_date": "2026-09-21",
