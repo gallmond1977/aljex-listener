@@ -47,7 +47,7 @@
     "equipment": "Van",
     "weight_lbs": 7000,
     "carrier_rate": 3000,
-    "updated_at": "2026-09-17T16:39:43.060054+00:00",
+    "updated_at": "2026-09-17T16:49:19.025370+00:00",
     "lane": "BAYTOWN TX-CAMBRIDGE ON"
   },
   {
@@ -183,7 +183,7 @@
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 7000,
     "carrier_rate": 300,
-    "updated_at": "2026-09-17T16:44:50.612142+00:00",
+    "updated_at": "2026-09-17T16:46:57.249795+00:00",
     "lane": "COLUMBUS GA-ATLANTA GA"
   },
   {
