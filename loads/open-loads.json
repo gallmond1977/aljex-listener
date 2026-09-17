@@ -57,14 +57,14 @@
     "pu_city": "AMERICUS",
     "pu_state": "GA",
     "pu_hours": "0630-1430",
-    "del_date": "",
+    "del_date": "2026-09-18",
     "del_city": "LANCASTER",
     "del_state": "TX",
-    "del_hours": "",
+    "del_hours": "0600-1500",
     "equipment": "Sprinter Van",
     "weight_lbs": 2500,
     "carrier_rate": 850,
-    "updated_at": "2026-09-17T16:28:35.993996+00:00",
+    "updated_at": "2026-09-17T16:34:41.246148+00:00",
     "lane": "AMERICUS GA-LANCASTER TX"
   },
   {
@@ -183,7 +183,7 @@
     "equipment": "Van",
     "weight_lbs": 40124,
     "carrier_rate": 1200,
-    "updated_at": "2026-09-17T16:28:21.277000+00:00",
+    "updated_at": "2026-09-17T16:33:56.152668+00:00",
     "lane": "PENDERGRASS GA-ZEBULON NC"
   },
   {
