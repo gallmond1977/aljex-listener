@@ -153,6 +153,23 @@
     "lane": "JACKSONVILLE FL-MAYNARDVILLE TN"
   },
   {
+    "pro": "50544",
+    "status": "OPEN",
+    "pu_date": "2026-09-18",
+    "pu_city": "POOLER",
+    "pu_state": "GA",
+    "pu_hours": "0900",
+    "del_date": "",
+    "del_city": "FORT WALTON BEACH",
+    "del_state": "FL",
+    "del_hours": "0800",
+    "equipment": "Van",
+    "weight_lbs": 254,
+    "carrier_rate": 2800,
+    "updated_at": "2026-09-17T15:31:19.165963+00:00",
+    "lane": "POOLER GA-FORT WALTON BEACH FL"
+  },
+  {
     "pro": "50107",
     "status": "OPEN",
     "pu_date": "2026-09-21",
