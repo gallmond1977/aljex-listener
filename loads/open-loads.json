@@ -47,25 +47,8 @@
     "equipment": "Van",
     "weight_lbs": 7000,
     "carrier_rate": 3000,
-    "updated_at": "2026-09-17T16:27:18.733267+00:00",
+    "updated_at": "2026-09-17T16:39:43.060054+00:00",
     "lane": "BAYTOWN TX-CAMBRIDGE ON"
-  },
-  {
-    "pro": "50550",
-    "status": "OPEN",
-    "pu_date": "2026-09-17",
-    "pu_city": "AMERICUS",
-    "pu_state": "GA",
-    "pu_hours": "0630-1430",
-    "del_date": "2026-09-18",
-    "del_city": "LANCASTER",
-    "del_state": "TX",
-    "del_hours": "0600-1500",
-    "equipment": "Sprinter Van",
-    "weight_lbs": 2500,
-    "carrier_rate": 850,
-    "updated_at": "2026-09-17T16:34:41.246148+00:00",
-    "lane": "AMERICUS GA-LANCASTER TX"
   },
   {
     "pro": "50463",
