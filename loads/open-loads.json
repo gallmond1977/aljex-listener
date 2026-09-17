@@ -102,6 +102,23 @@
     "lane": "CHARLOTTE NC-CARY NC"
   },
   {
+    "pro": "50542",
+    "status": "OPEN",
+    "pu_date": "2026-09-17",
+    "pu_city": "OLD FORT",
+    "pu_state": "NC",
+    "pu_hours": "NEEDED",
+    "del_date": "",
+    "del_city": "COLUMBUS",
+    "del_state": "GA",
+    "del_hours": "NEEDED",
+    "equipment": "Van",
+    "weight_lbs": 41500,
+    "carrier_rate": null,
+    "updated_at": "2026-09-17T14:20:58.216136+00:00",
+    "lane": "OLD FORT NC-COLUMBUS GA"
+  },
+  {
     "pro": "50463",
     "status": "OPEN",
     "pu_date": "2026-09-18",
