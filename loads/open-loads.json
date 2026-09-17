@@ -187,6 +187,23 @@
     "lane": "COLUMBUS GA-MARYSVILLE OH"
   },
   {
+    "pro": "50564",
+    "status": "OPEN",
+    "pu_date": "2026-09-18",
+    "pu_city": "WILMINGTON",
+    "pu_state": "NC",
+    "pu_hours": "0800-1200",
+    "del_date": "2026-09-21",
+    "del_city": "ATLANTA",
+    "del_state": "GA",
+    "del_hours": "0930",
+    "equipment": "Van",
+    "weight_lbs": 43500,
+    "carrier_rate": 1000,
+    "updated_at": "2026-09-17T20:23:50.091294+00:00",
+    "lane": "WILMINGTON NC-ATLANTA GA"
+  },
+  {
     "pro": "50107",
     "status": "OPEN",
     "pu_date": "2026-09-21",
@@ -421,7 +438,7 @@
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 300,
     "carrier_rate": null,
-    "updated_at": "2026-09-17T20:20:09.701526+00:00",
+    "updated_at": "2026-09-17T20:21:18.529349+00:00",
     "lane": "BIRMINGHAM AL-LANETT AL"
   },
   {
