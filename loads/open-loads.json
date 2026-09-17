@@ -136,23 +136,6 @@
     "lane": "CUMMING GA-CANON GA"
   },
   {
-    "pro": "50556",
-    "status": "OPEN",
-    "pu_date": "2026-09-18",
-    "pu_city": "GREENVALE",
-    "pu_state": "NY",
-    "pu_hours": "",
-    "del_date": "2026-09-21",
-    "del_city": "SAVANNAH",
-    "del_state": "GA",
-    "del_hours": "",
-    "equipment": "26' Straight Box Truck",
-    "weight_lbs": 1600,
-    "carrier_rate": 1300,
-    "updated_at": "2026-09-17T18:38:25.101443+00:00",
-    "lane": "GREENVALE NY-SAVANNAH GA"
-  },
-  {
     "pro": "50107",
     "status": "OPEN",
     "pu_date": "2026-09-21",
@@ -340,6 +323,23 @@
     "lane": "MACON GA-CALHOUN GA"
   },
   {
+    "pro": "50556",
+    "status": "OPEN",
+    "pu_date": "2026-09-21",
+    "pu_city": "GREENVALE",
+    "pu_state": "NY",
+    "pu_hours": "",
+    "del_date": "2026-09-22",
+    "del_city": "SAVANNAH",
+    "del_state": "GA",
+    "del_hours": "",
+    "equipment": "26' Straight Box Truck",
+    "weight_lbs": 1600,
+    "carrier_rate": 1300,
+    "updated_at": "2026-09-17T18:44:23.481709+00:00",
+    "lane": "GREENVALE NY-SAVANNAH GA"
+  },
+  {
     "pro": "50159",
     "status": "OPEN",
     "pu_date": "2026-09-22",
@@ -455,7 +455,7 @@
     "equipment": "Van Hazmat",
     "weight_lbs": 44800,
     "carrier_rate": 900,
-    "updated_at": "2026-09-17T18:39:31.009879+00:00",
+    "updated_at": "2026-09-17T18:43:12.764146+00:00",
     "lane": "OAKLAND TN-LEWISBURG TN"
   },
   {
