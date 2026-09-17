@@ -183,7 +183,7 @@
     "equipment": "Sprinter Van",
     "weight_lbs": 610,
     "carrier_rate": 650,
-    "updated_at": "2026-09-17T19:46:35.588094+00:00",
+    "updated_at": "2026-09-17T20:05:28.849670+00:00",
     "lane": "COLUMBUS GA-MARYSVILLE OH"
   },
   {
@@ -1191,7 +1191,7 @@
   },
   {
     "pro": "50533",
-    "status": "PICKUP",
+    "status": "LOADED",
     "pu_date": "2026-09-17",
     "pu_city": "MONCURE",
     "pu_state": "NC",
@@ -1203,7 +1203,7 @@
     "equipment": "Van",
     "weight_lbs": 44000,
     "carrier_rate": 900,
-    "updated_at": "2026-09-17T18:26:38.459104+00:00",
+    "updated_at": "2026-09-17T20:05:25.308564+00:00",
     "lane": "MONCURE NC-ATLANTA GA"
   },
   {
