@@ -85,23 +85,6 @@
     "lane": "PENDERGRASS GA-ZEBULON NC"
   },
   {
-    "pro": "50551",
-    "status": "OPEN",
-    "pu_date": "2026-09-18",
-    "pu_city": "COLUMBUS",
-    "pu_state": "GA",
-    "pu_hours": "0800-1000",
-    "del_date": "2026-09-18",
-    "del_city": "ATLANTA",
-    "del_state": "GA",
-    "del_hours": "0800-1600",
-    "equipment": "26' Straight Box Truck",
-    "weight_lbs": 7000,
-    "carrier_rate": 300,
-    "updated_at": "2026-09-17T16:46:57.249795+00:00",
-    "lane": "COLUMBUS GA-ATLANTA GA"
-  },
-  {
     "pro": "50555",
     "status": "OPEN",
     "pu_date": "2026-09-18",
@@ -132,7 +115,7 @@
     "equipment": "Van",
     "weight_lbs": 44000,
     "carrier_rate": 900,
-    "updated_at": "2026-09-17T19:44:38.655266+00:00",
+    "updated_at": "2026-09-17T20:04:04.743059+00:00",
     "lane": "MONCURE NC-ATLANTA GA"
   },
   {
@@ -1237,7 +1220,7 @@
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 7000,
     "carrier_rate": 2000,
-    "updated_at": "2026-09-17T18:34:20.818209+00:00",
+    "updated_at": "2026-09-17T20:00:26.147628+00:00",
     "lane": "HOUSTON TX-SANFORD FL"
   },
   {
@@ -1254,7 +1237,7 @@
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 7000,
     "carrier_rate": 2000,
-    "updated_at": "2026-09-17T14:58:04.677276+00:00",
+    "updated_at": "2026-09-17T20:02:51.932686+00:00",
     "lane": "HOUSTON TX-SANFORD FL"
   },
   {
