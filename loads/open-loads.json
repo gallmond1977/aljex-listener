@@ -13,7 +13,7 @@
     "equipment": "Van",
     "weight_lbs": 44000,
     "carrier_rate": 900,
-    "updated_at": "2026-09-17T18:56:58.878439+00:00",
+    "updated_at": "2026-09-17T19:01:36.011350+00:00",
     "lane": "MONCURE NC-ATLANTA GA"
   },
   {
@@ -355,6 +355,23 @@
     "carrier_rate": 1300,
     "updated_at": "2026-09-17T18:49:15.698884+00:00",
     "lane": "GREENVALE NY-SAVANNAH GA"
+  },
+  {
+    "pro": "50558",
+    "status": "OPEN",
+    "pu_date": "2026-09-21",
+    "pu_city": "CREWE",
+    "pu_state": "VA",
+    "pu_hours": "1000-1500",
+    "del_date": "2026-09-22",
+    "del_city": "SUMMERVILLE",
+    "del_state": "SC",
+    "del_hours": "0700-1500",
+    "equipment": "Flatbed w/ Tarps",
+    "weight_lbs": 45000,
+    "carrier_rate": 1300,
+    "updated_at": "2026-09-17T19:03:36.649970+00:00",
+    "lane": "CREWE VA-SUMMERVILLE SC"
   },
   {
     "pro": "50159",
@@ -1208,7 +1225,7 @@
   },
   {
     "pro": "50528",
-    "status": "COVERED",
+    "status": "DISPATCHED",
     "pu_date": "2026-09-17",
     "pu_city": "CUMMING",
     "pu_state": "GA",
@@ -1220,7 +1237,7 @@
     "equipment": "Reefer",
     "weight_lbs": 1800,
     "carrier_rate": 1000,
-    "updated_at": "2026-09-17T13:12:23.946237+00:00",
+    "updated_at": "2026-09-17T19:01:45.237823+00:00",
     "lane": "CUMMING GA-CANON GA"
   },
   {
