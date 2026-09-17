@@ -6,14 +6,14 @@
     "pu_city": "WINCHESTER",
     "pu_state": "KY",
     "pu_hours": "",
-    "del_date": "2026-09-18",
+    "del_date": "",
     "del_city": "NORTH EAST",
     "del_state": "MD",
     "del_hours": "AD REQD",
     "equipment": "Van",
     "weight_lbs": 3934,
     "carrier_rate": null,
-    "updated_at": "2026-09-17T18:28:20.734993+00:00",
+    "updated_at": "2026-09-17T19:58:08.907994+00:00",
     "lane": "WINCHESTER KY-NORTH EAST MD"
   },
   {
