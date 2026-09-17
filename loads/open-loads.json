@@ -22,7 +22,7 @@
     "pu_date": "2026-09-17",
     "pu_city": "WINCHESTER",
     "pu_state": "KY",
-    "pu_hours": "0700-1000",
+    "pu_hours": "0700-1130",
     "del_date": "2026-09-18",
     "del_city": "GEORGETOWN",
     "del_state": "DE",
@@ -30,7 +30,7 @@
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 2500,
     "carrier_rate": 1200,
-    "updated_at": "2026-09-17T12:27:36.990070+00:00",
+    "updated_at": "2026-09-17T13:04:16.443699+00:00",
     "lane": "WINCHESTER KY-GEORGETOWN DE"
   },
   {
@@ -73,16 +73,33 @@
     "pu_date": "2026-09-17",
     "pu_city": "FAYETTEVILLE",
     "pu_state": "NC",
-    "pu_hours": "1000-1200",
+    "pu_hours": "0800-1100",
     "del_date": "2026-09-17",
     "del_city": "ROCK HILL",
     "del_state": "SC",
     "del_hours": "0800-1400",
     "equipment": "26' Straight Box Truck",
-    "weight_lbs": 500,
+    "weight_lbs": 3500,
     "carrier_rate": 300,
-    "updated_at": "2026-09-17T12:59:23.757909+00:00",
+    "updated_at": "2026-09-17T13:02:19.945094+00:00",
     "lane": "FAYETTEVILLE NC-ROCK HILL SC"
+  },
+  {
+    "pro": "50538",
+    "status": "OPEN",
+    "pu_date": "2026-09-17",
+    "pu_city": "EUFAULA",
+    "pu_state": "AL",
+    "pu_hours": "0800-1500",
+    "del_date": "2026-09-17",
+    "del_city": "ECLECTIC",
+    "del_state": "AL",
+    "del_hours": "0600-1500",
+    "equipment": "Flatbed w/ Tarps",
+    "weight_lbs": 46080,
+    "carrier_rate": 800,
+    "updated_at": "2026-09-17T13:02:01.841545+00:00",
+    "lane": "EUFAULA AL-ECLECTIC AL"
   },
   {
     "pro": "50434",
@@ -98,7 +115,7 @@
     "equipment": "Van",
     "weight_lbs": 5000,
     "carrier_rate": 1200,
-    "updated_at": "2026-09-16T17:19:00.433783+00:00",
+    "updated_at": "2026-09-17T13:04:02.940627+00:00",
     "lane": "WINCHESTER KY-HUNTSVILLE ON"
   },
   {
@@ -763,6 +780,23 @@
     "carrier_rate": 1500,
     "updated_at": "2026-09-16T16:50:28.608867+00:00",
     "lane": "ATHENS AL-GULFPORT MS"
+  },
+  {
+    "pro": "50475",
+    "status": "DELIVERED",
+    "pu_date": "2026-09-15",
+    "pu_city": "EUFAULA",
+    "pu_state": "AL",
+    "pu_hours": "0800-1500",
+    "del_date": "2026-09-16",
+    "del_city": "ECLECTIC",
+    "del_state": "AL",
+    "del_hours": "0600-1500",
+    "equipment": "Flatbed w/ Tarps",
+    "weight_lbs": 46080,
+    "carrier_rate": 1000,
+    "updated_at": "2026-09-16T12:38:57.513209+00:00",
+    "lane": "EUFAULA AL-ECLECTIC AL"
   },
   {
     "pro": "50482",
