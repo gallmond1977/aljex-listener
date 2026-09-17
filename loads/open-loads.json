@@ -56,15 +56,15 @@
     "pu_date": "2026-09-17",
     "pu_city": "FAYETTEVILLE",
     "pu_state": "NC",
-    "pu_hours": "0800-1030",
+    "pu_hours": "0800-1130",
     "del_date": "2026-09-17",
     "del_city": "ROCK HILL",
     "del_state": "SC",
-    "del_hours": "0800-1400",
+    "del_hours": "0800-1430",
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 3500,
-    "carrier_rate": 300,
-    "updated_at": "2026-09-17T13:06:59.427815+00:00",
+    "carrier_rate": 350,
+    "updated_at": "2026-09-17T13:50:04.753789+00:00",
     "lane": "FAYETTEVILLE NC-ROCK HILL SC"
   },
   {
@@ -370,7 +370,7 @@
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 8000,
     "carrier_rate": 650,
-    "updated_at": "2026-09-17T13:31:59.108078+00:00",
+    "updated_at": "2026-09-17T13:48:28.715315+00:00",
     "lane": "ANNISTON AL-CRESTWOOD KY"
   },
   {
