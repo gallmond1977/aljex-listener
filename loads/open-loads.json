@@ -136,6 +136,23 @@
     "lane": "COLUMBUS GA-ATLANTA GA"
   },
   {
+    "pro": "50555",
+    "status": "OPEN",
+    "pu_date": "2026-09-18",
+    "pu_city": "CUMMING",
+    "pu_state": "GA",
+    "pu_hours": "1100",
+    "del_date": "2026-09-21",
+    "del_city": "CANON",
+    "del_state": "GA",
+    "del_hours": "1100",
+    "equipment": "Reefer",
+    "weight_lbs": 1800,
+    "carrier_rate": 900,
+    "updated_at": "2026-09-17T17:52:39.378134+00:00",
+    "lane": "CUMMING GA-CANON GA"
+  },
+  {
     "pro": "50107",
     "status": "OPEN",
     "pu_date": "2026-09-21",
@@ -731,6 +748,23 @@
     "lane": "ALPHARETTA GA-BELCAMP MD"
   },
   {
+    "pro": "50333",
+    "status": "RELEASED",
+    "pu_date": "2026-09-08",
+    "pu_city": "CUMMING",
+    "pu_state": "GA",
+    "pu_hours": "2100",
+    "del_date": "2026-09-09",
+    "del_city": "CANON",
+    "del_state": "GA",
+    "del_hours": "0600",
+    "equipment": "Reefer",
+    "weight_lbs": 39600,
+    "carrier_rate": 1000,
+    "updated_at": "2026-09-16T14:16:57.809645+00:00",
+    "lane": "CUMMING GA-CANON GA"
+  },
+  {
     "pro": "50352",
     "status": "RELEASED",
     "pu_date": "2026-09-09",
@@ -797,6 +831,40 @@
     "carrier_rate": 3300,
     "updated_at": "2026-09-14T15:08:45.948312+00:00",
     "lane": "ALPHARETTA GA-BELCAMP MD"
+  },
+  {
+    "pro": "50388",
+    "status": "RELEASED",
+    "pu_date": "2026-09-10",
+    "pu_city": "CUMMING",
+    "pu_state": "GA",
+    "pu_hours": "2100",
+    "del_date": "2026-09-11",
+    "del_city": "CANON",
+    "del_state": "GA",
+    "del_hours": "1100",
+    "equipment": "Reefer",
+    "weight_lbs": 39600,
+    "carrier_rate": 900,
+    "updated_at": "2026-09-11T12:52:08.653051+00:00",
+    "lane": "CUMMING GA-CANON GA"
+  },
+  {
+    "pro": "50418",
+    "status": "RELEASED",
+    "pu_date": "2026-09-11",
+    "pu_city": "CUMMING",
+    "pu_state": "GA",
+    "pu_hours": "1100",
+    "del_date": "2026-09-14",
+    "del_city": "CANON",
+    "del_state": "GA",
+    "del_hours": "0600",
+    "equipment": "Reefer",
+    "weight_lbs": 39600,
+    "carrier_rate": 1200,
+    "updated_at": "2026-09-15T18:12:37.457461+00:00",
+    "lane": "CUMMING GA-CANON GA"
   },
   {
     "pro": "50404",
@@ -899,6 +967,23 @@
     "carrier_rate": 3200,
     "updated_at": "2026-09-17T15:53:47.585068+00:00",
     "lane": "ALPHARETTA GA-BELCAMP MD"
+  },
+  {
+    "pro": "50460",
+    "status": "DELIVERED",
+    "pu_date": "2026-09-15",
+    "pu_city": "CUMMING",
+    "pu_state": "GA",
+    "pu_hours": "2100",
+    "del_date": "2026-09-16",
+    "del_city": "CANON",
+    "del_state": "GA",
+    "del_hours": "0600",
+    "equipment": "Reefer",
+    "weight_lbs": 1800,
+    "carrier_rate": 950,
+    "updated_at": "2026-09-16T18:24:28.057279+00:00",
+    "lane": "CUMMING GA-CANON GA"
   },
   {
     "pro": "50445",
@@ -1021,7 +1106,7 @@
   },
   {
     "pro": "50519",
-    "status": "PICKUP",
+    "status": "LOADED",
     "pu_date": "2026-09-17",
     "pu_city": "ALPHARETTA",
     "pu_state": "GA",
@@ -1033,7 +1118,7 @@
     "equipment": "Flatbed w/ Tarps",
     "weight_lbs": 40000,
     "carrier_rate": 3400,
-    "updated_at": "2026-09-17T14:48:51.649231+00:00",
+    "updated_at": "2026-09-17T17:50:38.491415+00:00",
     "lane": "ALPHARETTA GA-BELCAMP MD"
   },
   {
@@ -1052,6 +1137,23 @@
     "carrier_rate": 3300,
     "updated_at": "2026-09-17T13:29:58.758749+00:00",
     "lane": "ALPHARETTA GA-BELCAMP MD"
+  },
+  {
+    "pro": "50528",
+    "status": "COVERED",
+    "pu_date": "2026-09-17",
+    "pu_city": "CUMMING",
+    "pu_state": "GA",
+    "pu_hours": "2100",
+    "del_date": "2026-09-18",
+    "del_city": "CANON",
+    "del_state": "GA",
+    "del_hours": "1100",
+    "equipment": "Reefer",
+    "weight_lbs": 1800,
+    "carrier_rate": 1000,
+    "updated_at": "2026-09-17T13:12:23.946237+00:00",
+    "lane": "CUMMING GA-CANON GA"
   },
   {
     "pro": "50464",
