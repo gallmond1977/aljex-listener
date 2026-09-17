@@ -17,6 +17,23 @@
     "lane": "WINCHESTER KY-NORTH EAST MD"
   },
   {
+    "pro": "50434",
+    "status": "OPEN",
+    "pu_date": "2026-09-17",
+    "pu_city": "WINCHESTER",
+    "pu_state": "KY",
+    "pu_hours": "0800-1400",
+    "del_date": "2026-09-21",
+    "del_city": "HUNTSVILLE",
+    "del_state": "ON",
+    "del_hours": "0930-1500",
+    "equipment": "Van",
+    "weight_lbs": 8500,
+    "carrier_rate": 1500,
+    "updated_at": "2026-09-17T13:19:19.902835+00:00",
+    "lane": "WINCHESTER KY-HUNTSVILLE ON"
+  },
+  {
     "pro": "50503",
     "status": "OPEN",
     "pu_date": "2026-09-17",
@@ -30,7 +47,7 @@
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 2500,
     "carrier_rate": 1300,
-    "updated_at": "2026-09-17T13:05:08.766941+00:00",
+    "updated_at": "2026-09-17T13:18:21.158635+00:00",
     "lane": "WINCHESTER KY-GEORGETOWN DE"
   },
   {
@@ -100,23 +117,6 @@
     "carrier_rate": 800,
     "updated_at": "2026-09-17T13:10:46.921222+00:00",
     "lane": "EUFAULA AL-ECLECTIC AL"
-  },
-  {
-    "pro": "50434",
-    "status": "OPEN",
-    "pu_date": "2026-09-18",
-    "pu_city": "WINCHESTER",
-    "pu_state": "KY",
-    "pu_hours": "0800-1100",
-    "del_date": "2026-09-21",
-    "del_city": "HUNTSVILLE",
-    "del_state": "ON",
-    "del_hours": "0930-1500",
-    "equipment": "Van",
-    "weight_lbs": 5000,
-    "carrier_rate": 1200,
-    "updated_at": "2026-09-17T13:14:57.929877+00:00",
-    "lane": "WINCHESTER KY-HUNTSVILLE ON"
   },
   {
     "pro": "50463",
