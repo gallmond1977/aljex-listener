@@ -34,23 +34,6 @@
     "lane": "CHARLOTTE NC-CARY NC"
   },
   {
-    "pro": "50548",
-    "status": "OPEN",
-    "pu_date": "2026-09-17",
-    "pu_city": "BAYTOWN",
-    "pu_state": "TX",
-    "pu_hours": "1500",
-    "del_date": "2026-09-21",
-    "del_city": "CAMBRIDGE",
-    "del_state": "ON",
-    "del_hours": "0700-1400",
-    "equipment": "Van",
-    "weight_lbs": 7000,
-    "carrier_rate": 3000,
-    "updated_at": "2026-09-17T16:49:19.025370+00:00",
-    "lane": "BAYTOWN TX-CAMBRIDGE ON"
-  },
-  {
     "pro": "50463",
     "status": "OPEN",
     "pu_date": "2026-09-18",
