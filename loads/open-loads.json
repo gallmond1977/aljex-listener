@@ -17,23 +17,6 @@
     "lane": "WINCHESTER KY-NORTH EAST MD"
   },
   {
-    "pro": "50434",
-    "status": "OPEN",
-    "pu_date": "2026-09-17",
-    "pu_city": "WINCHESTER",
-    "pu_state": "KY",
-    "pu_hours": "0800-1400",
-    "del_date": "2026-09-21",
-    "del_city": "HUNTSVILLE",
-    "del_state": "ON",
-    "del_hours": "0930-1500",
-    "equipment": "Van",
-    "weight_lbs": 8500,
-    "carrier_rate": 1500,
-    "updated_at": "2026-09-17T13:23:24.198626+00:00",
-    "lane": "WINCHESTER KY-HUNTSVILLE ON"
-  },
-  {
     "pro": "50531",
     "status": "OPEN",
     "pu_date": "2026-09-17",
@@ -834,7 +817,7 @@
   },
   {
     "pro": "50516",
-    "status": "DISPATCHED",
+    "status": "PICKUP",
     "pu_date": "2026-09-17",
     "pu_city": "RICHMOND",
     "pu_state": "VA",
@@ -846,7 +829,7 @@
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 1500,
     "carrier_rate": 200,
-    "updated_at": "2026-09-17T12:23:12.384030+00:00",
+    "updated_at": "2026-09-17T13:26:52.154791+00:00",
     "lane": "RICHMOND VA-RICHMOND VA"
   }
 ]
