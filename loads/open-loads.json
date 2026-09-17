@@ -115,7 +115,7 @@
     "equipment": "Van",
     "weight_lbs": 41500,
     "carrier_rate": null,
-    "updated_at": "2026-09-17T14:20:58.216136+00:00",
+    "updated_at": "2026-09-17T14:39:49.227143+00:00",
     "lane": "OLD FORT NC-COLUMBUS GA"
   },
   {
@@ -148,8 +148,8 @@
     "del_hours": "0900",
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 7000,
-    "carrier_rate": 2000,
-    "updated_at": "2026-09-17T14:34:58.818171+00:00",
+    "carrier_rate": 1800,
+    "updated_at": "2026-09-17T14:35:07.277345+00:00",
     "lane": "HOUSTON TX-SANFORD FL"
   },
   {
@@ -185,23 +185,6 @@
     "carrier_rate": 3800,
     "updated_at": "2026-09-16T18:52:45.913494+00:00",
     "lane": "MOUNT STERLING KY-MIRA LOMA CA"
-  },
-  {
-    "pro": "50517",
-    "status": "OPEN",
-    "pu_date": "2026-09-18",
-    "pu_city": "WINCHESTER",
-    "pu_state": "KY",
-    "pu_hours": "1200-1400",
-    "del_date": "2026-09-19",
-    "del_city": "FLORENCE",
-    "del_state": "KY",
-    "del_hours": "0930",
-    "equipment": "Van",
-    "weight_lbs": 4375,
-    "carrier_rate": 650,
-    "updated_at": "2026-09-17T14:33:30.804943+00:00",
-    "lane": "WINCHESTER KY-FLORENCE KY"
   },
   {
     "pro": "50107",
@@ -661,23 +644,6 @@
     "carrier_rate": 4350,
     "updated_at": "2026-09-14T13:17:08.754673+00:00",
     "lane": "MOUNT STERLING KY-MIRA LOMA CA"
-  },
-  {
-    "pro": "50331",
-    "status": "RELEASED",
-    "pu_date": "2026-09-08",
-    "pu_city": "WINCHESTER",
-    "pu_state": "KY",
-    "pu_hours": "1300-1500",
-    "del_date": "2026-09-09",
-    "del_city": "FLORENCE",
-    "del_state": "KY",
-    "del_hours": "1230",
-    "equipment": "Van",
-    "weight_lbs": 1872,
-    "carrier_rate": 800,
-    "updated_at": "2026-09-14T15:08:18.528227+00:00",
-    "lane": "WINCHESTER KY-FLORENCE KY"
   },
   {
     "pro": "50182",
