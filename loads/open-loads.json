@@ -85,23 +85,6 @@
     "lane": "CHARLOTTE NC-CARY NC"
   },
   {
-    "pro": "50542",
-    "status": "OPEN",
-    "pu_date": "2026-09-17",
-    "pu_city": "OLD FORT",
-    "pu_state": "NC",
-    "pu_hours": "NEEDED",
-    "del_date": "",
-    "del_city": "COLUMBUS",
-    "del_state": "GA",
-    "del_hours": "NEEDED",
-    "equipment": "Van",
-    "weight_lbs": 41500,
-    "carrier_rate": 1500,
-    "updated_at": "2026-09-17T14:43:32.395356+00:00",
-    "lane": "OLD FORT NC-COLUMBUS GA"
-  },
-  {
     "pro": "50463",
     "status": "OPEN",
     "pu_date": "2026-09-18",
@@ -559,6 +542,23 @@
     "carrier_rate": null,
     "updated_at": "2026-09-17T13:51:23.842527+00:00",
     "lane": "BENSENVILLE IL-BELCAMP MD"
+  },
+  {
+    "pro": "50542",
+    "status": "OPEN",
+    "pu_date": "2026-11-13",
+    "pu_city": "OLD FORT",
+    "pu_state": "NC",
+    "pu_hours": "NEEDED",
+    "del_date": "2026-11-16",
+    "del_city": "COLUMBUS",
+    "del_state": "GA",
+    "del_hours": "NEEDED",
+    "equipment": "Van",
+    "weight_lbs": 41500,
+    "carrier_rate": 1500,
+    "updated_at": "2026-09-17T15:12:51.702989+00:00",
+    "lane": "OLD FORT NC-COLUMBUS GA"
   },
   {
     "pro": "50287",
