@@ -30,25 +30,8 @@
     "equipment": "Van",
     "weight_lbs": 8500,
     "carrier_rate": 1500,
-    "updated_at": "2026-09-17T13:19:19.902835+00:00",
+    "updated_at": "2026-09-17T13:23:24.198626+00:00",
     "lane": "WINCHESTER KY-HUNTSVILLE ON"
-  },
-  {
-    "pro": "50503",
-    "status": "OPEN",
-    "pu_date": "2026-09-17",
-    "pu_city": "WINCHESTER",
-    "pu_state": "KY",
-    "pu_hours": "0700-1400",
-    "del_date": "2026-09-18",
-    "del_city": "GEORGETOWN",
-    "del_state": "DE",
-    "del_hours": "0800",
-    "equipment": "26' Straight Box Truck",
-    "weight_lbs": 2500,
-    "carrier_rate": 1300,
-    "updated_at": "2026-09-17T13:18:21.158635+00:00",
-    "lane": "WINCHESTER KY-GEORGETOWN DE"
   },
   {
     "pro": "50531",
@@ -117,6 +100,23 @@
     "carrier_rate": 800,
     "updated_at": "2026-09-17T13:10:46.921222+00:00",
     "lane": "EUFAULA AL-ECLECTIC AL"
+  },
+  {
+    "pro": "50539",
+    "status": "OPEN",
+    "pu_date": "2026-09-17",
+    "pu_city": "CHARLOTTE",
+    "pu_state": "NC",
+    "pu_hours": "0800-1100",
+    "del_date": "2026-09-17",
+    "del_city": "CARY",
+    "del_state": "NC",
+    "del_hours": "0800-1200",
+    "equipment": "Flatbed Hot Shot",
+    "weight_lbs": 6000,
+    "carrier_rate": 400,
+    "updated_at": "2026-09-17T13:22:30.021839+00:00",
+    "lane": "CHARLOTTE NC-CARY NC"
   },
   {
     "pro": "50463",
@@ -499,14 +499,14 @@
     "pu_city": "ATLANTA",
     "pu_state": "GA",
     "pu_hours": "0700",
-    "del_date": "2026-09-23",
+    "del_date": "2026-09-25",
     "del_city": "ATLANTA",
     "del_state": "GA",
-    "del_hours": "NEEDED",
+    "del_hours": "2200",
     "equipment": "Reefer",
     "weight_lbs": 33095,
     "carrier_rate": null,
-    "updated_at": "2026-09-16T19:54:14.657221+00:00",
+    "updated_at": "2026-09-17T13:21:00.937804+00:00",
     "lane": "ATLANTA GA-ATLANTA GA"
   },
   {
@@ -549,7 +549,7 @@
     "pu_date": "2026-09-28",
     "pu_city": "MIAMI",
     "pu_state": "FL",
-    "pu_hours": "APPT",
+    "pu_hours": "1000",
     "del_date": "2026-09-30",
     "del_city": "LITHONIA",
     "del_state": "GA",
@@ -557,7 +557,7 @@
     "equipment": "Flatbed",
     "weight_lbs": 48000,
     "carrier_rate": null,
-    "updated_at": "2026-09-16T19:46:35.644802+00:00",
+    "updated_at": "2026-09-17T13:21:53.398208+00:00",
     "lane": "MIAMI FL-LITHONIA GA"
   },
   {
