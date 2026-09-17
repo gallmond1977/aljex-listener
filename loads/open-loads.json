@@ -39,7 +39,7 @@
     "pu_date": "2026-09-17",
     "pu_city": "BAYTOWN",
     "pu_state": "TX",
-    "pu_hours": "",
+    "pu_hours": "1500",
     "del_date": "2026-09-21",
     "del_city": "CAMBRIDGE",
     "del_state": "ON",
@@ -47,7 +47,7 @@
     "equipment": "Van",
     "weight_lbs": 7000,
     "carrier_rate": 3000,
-    "updated_at": "2026-09-17T16:15:01.764906+00:00",
+    "updated_at": "2026-09-17T16:18:43.043946+00:00",
     "lane": "BAYTOWN TX-CAMBRIDGE ON"
   },
   {
@@ -506,7 +506,7 @@
     "equipment": "Flatbed",
     "weight_lbs": 48000,
     "carrier_rate": null,
-    "updated_at": "2026-09-17T15:54:09.859404+00:00",
+    "updated_at": "2026-09-17T16:18:27.937410+00:00",
     "lane": "MIAMI FL-CHARLOTTE NC"
   },
   {
