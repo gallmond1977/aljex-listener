@@ -17,23 +17,6 @@
     "lane": "WINCHESTER KY-NORTH EAST MD"
   },
   {
-    "pro": "50531",
-    "status": "OPEN",
-    "pu_date": "2026-09-17",
-    "pu_city": "JACKSONVILLE",
-    "pu_state": "FL",
-    "pu_hours": "0700-1600",
-    "del_date": "2026-09-18",
-    "del_city": "MAYNARDVILLE",
-    "del_state": "TN",
-    "del_hours": "",
-    "equipment": "Van",
-    "weight_lbs": 2086,
-    "carrier_rate": 1100,
-    "updated_at": "2026-09-16T20:03:05.457619+00:00",
-    "lane": "JACKSONVILLE FL-MAYNARDVILLE TN"
-  },
-  {
     "pro": "50533",
     "status": "OPEN",
     "pu_date": "2026-09-17",
@@ -64,7 +47,7 @@
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 3500,
     "carrier_rate": 350,
-    "updated_at": "2026-09-17T13:50:04.753789+00:00",
+    "updated_at": "2026-09-17T14:42:39.239269+00:00",
     "lane": "FAYETTEVILLE NC-ROCK HILL SC"
   },
   {
@@ -114,8 +97,8 @@
     "del_hours": "NEEDED",
     "equipment": "Van",
     "weight_lbs": 41500,
-    "carrier_rate": null,
-    "updated_at": "2026-09-17T14:39:49.227143+00:00",
+    "carrier_rate": 1500,
+    "updated_at": "2026-09-17T14:43:32.395356+00:00",
     "lane": "OLD FORT NC-COLUMBUS GA"
   },
   {
@@ -149,7 +132,7 @@
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 7000,
     "carrier_rate": 1800,
-    "updated_at": "2026-09-17T14:35:07.277345+00:00",
+    "updated_at": "2026-09-17T14:41:57.321098+00:00",
     "lane": "HOUSTON TX-SANFORD FL"
   },
   {
@@ -185,6 +168,23 @@
     "carrier_rate": 3800,
     "updated_at": "2026-09-16T18:52:45.913494+00:00",
     "lane": "MOUNT STERLING KY-MIRA LOMA CA"
+  },
+  {
+    "pro": "50531",
+    "status": "OPEN",
+    "pu_date": "2026-09-18",
+    "pu_city": "JACKSONVILLE",
+    "pu_state": "FL",
+    "pu_hours": "0700-1600",
+    "del_date": "2026-09-21",
+    "del_city": "MAYNARDVILLE",
+    "del_state": "TN",
+    "del_hours": "",
+    "equipment": "Van",
+    "weight_lbs": 2086,
+    "carrier_rate": 1100,
+    "updated_at": "2026-09-17T14:42:17.130142+00:00",
+    "lane": "JACKSONVILLE FL-MAYNARDVILLE TN"
   },
   {
     "pro": "50107",
