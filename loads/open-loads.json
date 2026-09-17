@@ -47,8 +47,25 @@
     "equipment": "Van",
     "weight_lbs": 7000,
     "carrier_rate": 3000,
-    "updated_at": "2026-09-17T16:24:10.833673+00:00",
+    "updated_at": "2026-09-17T16:27:18.733267+00:00",
     "lane": "BAYTOWN TX-CAMBRIDGE ON"
+  },
+  {
+    "pro": "50550",
+    "status": "OPEN",
+    "pu_date": "2026-09-17",
+    "pu_city": "AMERICUS",
+    "pu_state": "GA",
+    "pu_hours": "0630-1430",
+    "del_date": "",
+    "del_city": "LANCASTER",
+    "del_state": "TX",
+    "del_hours": "",
+    "equipment": "Sprinter Van",
+    "weight_lbs": 2500,
+    "carrier_rate": 850,
+    "updated_at": "2026-09-17T16:28:35.993996+00:00",
+    "lane": "AMERICUS GA-LANCASTER TX"
   },
   {
     "pro": "50463",
@@ -166,7 +183,7 @@
     "equipment": "Van",
     "weight_lbs": 40124,
     "carrier_rate": 1200,
-    "updated_at": "2026-09-17T16:06:49.876813+00:00",
+    "updated_at": "2026-09-17T16:28:21.277000+00:00",
     "lane": "PENDERGRASS GA-ZEBULON NC"
   },
   {
@@ -336,7 +353,7 @@
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 1200,
     "carrier_rate": null,
-    "updated_at": "2026-09-17T16:24:05.722529+00:00",
+    "updated_at": "2026-09-17T16:25:08.044317+00:00",
     "lane": "RICHMOND VA-BETHESDA MD"
   },
   {
