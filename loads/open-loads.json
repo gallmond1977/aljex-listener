@@ -81,7 +81,7 @@
     "equipment": "Flatbed w/ Tarps",
     "weight_lbs": 22900,
     "carrier_rate": 800,
-    "updated_at": "2026-09-17T13:10:46.921222+00:00",
+    "updated_at": "2026-09-17T13:40:50.448630+00:00",
     "lane": "EUFAULA AL-ECLECTIC AL"
   },
   {
@@ -834,7 +834,7 @@
   },
   {
     "pro": "50516",
-    "status": "PICKUP",
+    "status": "CONSIGNEE",
     "pu_date": "2026-09-17",
     "pu_city": "RICHMOND",
     "pu_state": "VA",
@@ -846,7 +846,7 @@
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 1500,
     "carrier_rate": 200,
-    "updated_at": "2026-09-17T13:26:52.154791+00:00",
+    "updated_at": "2026-09-17T13:43:05.205305+00:00",
     "lane": "RICHMOND VA-RICHMOND VA"
   }
 ]
