@@ -96,9 +96,9 @@
     "del_state": "AL",
     "del_hours": "0600-1500",
     "equipment": "Flatbed w/ Tarps",
-    "weight_lbs": 46080,
+    "weight_lbs": 22900,
     "carrier_rate": 800,
-    "updated_at": "2026-09-17T13:05:40.611998+00:00",
+    "updated_at": "2026-09-17T13:10:46.921222+00:00",
     "lane": "EUFAULA AL-ECLECTIC AL"
   },
   {
@@ -111,11 +111,11 @@
     "del_date": "2026-09-21",
     "del_city": "HUNTSVILLE",
     "del_state": "ON",
-    "del_hours": "",
+    "del_hours": "0930-1500",
     "equipment": "Van",
     "weight_lbs": 5000,
     "carrier_rate": 1200,
-    "updated_at": "2026-09-17T13:04:02.940627+00:00",
+    "updated_at": "2026-09-17T13:14:57.929877+00:00",
     "lane": "WINCHESTER KY-HUNTSVILLE ON"
   },
   {
