@@ -68,6 +68,23 @@
     "lane": "MONCURE NC-ATLANTA GA"
   },
   {
+    "pro": "50537",
+    "status": "OPEN",
+    "pu_date": "2026-09-17",
+    "pu_city": "FAYETTEVILLE",
+    "pu_state": "NC",
+    "pu_hours": "1000-1200",
+    "del_date": "2026-09-17",
+    "del_city": "ROCK HILL",
+    "del_state": "SC",
+    "del_hours": "0800-1400",
+    "equipment": "26' Straight Box Truck",
+    "weight_lbs": 500,
+    "carrier_rate": 300,
+    "updated_at": "2026-09-17T12:59:23.757909+00:00",
+    "lane": "FAYETTEVILLE NC-ROCK HILL SC"
+  },
+  {
     "pro": "50434",
     "status": "OPEN",
     "pu_date": "2026-09-18",
@@ -766,7 +783,7 @@
   },
   {
     "pro": "50494",
-    "status": "CONSIGNEE",
+    "status": "DELIVERED",
     "pu_date": "2026-09-16",
     "pu_city": "OPELIKA",
     "pu_state": "AL",
@@ -778,7 +795,7 @@
     "equipment": "Flatbed",
     "weight_lbs": 47000,
     "carrier_rate": 1000,
-    "updated_at": "2026-09-17T11:03:35.543316+00:00",
+    "updated_at": "2026-09-17T12:56:20.091669+00:00",
     "lane": "OPELIKA AL-COLUMBIA AL"
   },
   {
