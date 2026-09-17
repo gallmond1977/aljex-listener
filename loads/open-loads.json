@@ -153,6 +153,23 @@
     "lane": "CUMMING GA-CANON GA"
   },
   {
+    "pro": "50559",
+    "status": "OPEN",
+    "pu_date": "2026-09-18",
+    "pu_city": "LAGRANGE",
+    "pu_state": "GA",
+    "pu_hours": "1200-1700",
+    "del_date": "2026-09-21",
+    "del_city": "ORLANDO",
+    "del_state": "FL",
+    "del_hours": "0800-1200",
+    "equipment": "Van",
+    "weight_lbs": 35000,
+    "carrier_rate": 1800,
+    "updated_at": "2026-09-17T19:12:56.045609+00:00",
+    "lane": "LAGRANGE GA-ORLANDO FL"
+  },
+  {
     "pro": "50107",
     "status": "OPEN",
     "pu_date": "2026-09-21",
@@ -1237,7 +1254,7 @@
     "equipment": "Reefer",
     "weight_lbs": 1800,
     "carrier_rate": 1000,
-    "updated_at": "2026-09-17T19:01:45.237823+00:00",
+    "updated_at": "2026-09-17T19:12:44.980698+00:00",
     "lane": "CUMMING GA-CANON GA"
   },
   {
