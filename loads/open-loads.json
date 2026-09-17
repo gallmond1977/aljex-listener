@@ -149,7 +149,7 @@
     "equipment": "Van",
     "weight_lbs": 42801,
     "carrier_rate": 2800,
-    "updated_at": "2026-09-17T15:44:44.754377+00:00",
+    "updated_at": "2026-09-17T15:45:55.311250+00:00",
     "lane": "SUFFOLK VA-FORT WALTON BEACH FL"
   },
   {
@@ -515,16 +515,16 @@
     "pu_date": "2026-09-28",
     "pu_city": "MIAMI",
     "pu_state": "FL",
-    "pu_hours": "1000",
+    "pu_hours": "",
     "del_date": "2026-09-30",
-    "del_city": "LITHONIA",
-    "del_state": "GA",
+    "del_city": "CHARLOTTE",
+    "del_state": "NC",
     "del_hours": "APPT ONLY",
     "equipment": "Flatbed",
     "weight_lbs": 48000,
     "carrier_rate": null,
-    "updated_at": "2026-09-17T13:21:53.398208+00:00",
-    "lane": "MIAMI FL-LITHONIA GA"
+    "updated_at": "2026-09-17T15:47:55.571242+00:00",
+    "lane": "MIAMI FL-CHARLOTTE NC"
   },
   {
     "pro": "50405",
