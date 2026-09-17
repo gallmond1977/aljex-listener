@@ -68,23 +68,6 @@
     "lane": "JACKSONVILLE FL-MAYNARDVILLE TN"
   },
   {
-    "pro": "50532",
-    "status": "OPEN",
-    "pu_date": "2026-09-17",
-    "pu_city": "PLEASANT GARDEN",
-    "pu_state": "NC",
-    "pu_hours": "0800-1100",
-    "del_date": "2026-09-17",
-    "del_city": "CARY",
-    "del_state": "NC",
-    "del_hours": "0800-1400",
-    "equipment": "Sprinter Van",
-    "weight_lbs": 190,
-    "carrier_rate": 250,
-    "updated_at": "2026-09-16T20:13:59.075324+00:00",
-    "lane": "PLEASANT GARDEN NC-CARY NC"
-  },
-  {
     "pro": "50533",
     "status": "OPEN",
     "pu_date": "2026-09-17",
@@ -885,7 +868,7 @@
   },
   {
     "pro": "50516",
-    "status": "COVERED",
+    "status": "DISPATCHED",
     "pu_date": "2026-09-17",
     "pu_city": "RICHMOND",
     "pu_state": "VA",
@@ -897,7 +880,7 @@
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 1500,
     "carrier_rate": 200,
-    "updated_at": "2026-09-16T14:55:30.302004+00:00",
+    "updated_at": "2026-09-17T12:23:12.384030+00:00",
     "lane": "RICHMOND VA-RICHMOND VA"
   }
 ]
