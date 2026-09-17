@@ -43,11 +43,11 @@
     "del_date": "2026-09-21",
     "del_city": "CAMBRIDGE",
     "del_state": "ON",
-    "del_hours": "0700-1700",
+    "del_hours": "0700-1400",
     "equipment": "Van",
     "weight_lbs": 7000,
     "carrier_rate": 3000,
-    "updated_at": "2026-09-17T16:06:42.967345+00:00",
+    "updated_at": "2026-09-17T16:15:01.764906+00:00",
     "lane": "BAYTOWN TX-CAMBRIDGE ON"
   },
   {
@@ -81,7 +81,7 @@
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 7000,
     "carrier_rate": 1800,
-    "updated_at": "2026-09-14T19:40:47.113776+00:00",
+    "updated_at": "2026-09-17T16:14:13.865005+00:00",
     "lane": "HOUSTON TX-SANFORD FL"
   },
   {
