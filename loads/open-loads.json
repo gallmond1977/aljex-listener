@@ -39,15 +39,15 @@
     "pu_date": "2026-09-17",
     "pu_city": "BAYTOWN",
     "pu_state": "TX",
-    "pu_hours": "1200-1300",
+    "pu_hours": "",
     "del_date": "2026-09-21",
     "del_city": "CAMBRIDGE",
     "del_state": "ON",
     "del_hours": "0700-1700",
     "equipment": "Van",
     "weight_lbs": 7000,
-    "carrier_rate": null,
-    "updated_at": "2026-09-17T16:04:45.997649+00:00",
+    "carrier_rate": 3000,
+    "updated_at": "2026-09-17T16:06:42.967345+00:00",
     "lane": "BAYTOWN TX-CAMBRIDGE ON"
   },
   {
@@ -90,7 +90,7 @@
     "pu_date": "2026-09-18",
     "pu_city": "MOUNT STERLING",
     "pu_state": "KY",
-    "pu_hours": "0800-1500",
+    "pu_hours": "1300",
     "del_date": "2026-09-21",
     "del_city": "MIRA LOMA",
     "del_state": "CA",
@@ -98,7 +98,7 @@
     "equipment": "Van",
     "weight_lbs": 13080,
     "carrier_rate": 3800,
-    "updated_at": "2026-09-17T16:04:46.393840+00:00",
+    "updated_at": "2026-09-17T16:05:08.229372+00:00",
     "lane": "MOUNT STERLING KY-MIRA LOMA CA"
   },
   {
@@ -166,7 +166,7 @@
     "equipment": "Van",
     "weight_lbs": 40124,
     "carrier_rate": 1200,
-    "updated_at": "2026-09-17T15:55:41.254337+00:00",
+    "updated_at": "2026-09-17T16:06:49.876813+00:00",
     "lane": "PENDERGRASS GA-ZEBULON NC"
   },
   {
