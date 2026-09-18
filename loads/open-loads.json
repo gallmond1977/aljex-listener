@@ -493,23 +493,6 @@
     "lane": "ATHENS AL-GULFPORT MS"
   },
   {
-    "pro": "50552",
-    "status": "OPEN",
-    "pu_date": "2026-09-22",
-    "pu_city": "OAKLAND",
-    "pu_state": "TN",
-    "pu_hours": "0800-1400",
-    "del_date": "2026-09-22",
-    "del_city": "LEWISBURG",
-    "del_state": "TN",
-    "del_hours": "0800-1500",
-    "equipment": "Van Hazmat",
-    "weight_lbs": 44800,
-    "carrier_rate": 1000,
-    "updated_at": "2026-09-18T16:21:53.215933+00:00",
-    "lane": "OAKLAND TN-LEWISBURG TN"
-  },
-  {
     "pro": "50523",
     "status": "OPEN",
     "pu_date": "2026-09-23",
