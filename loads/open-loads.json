@@ -80,8 +80,8 @@
     "del_hours": "0600",
     "equipment": "Reefer",
     "weight_lbs": 1800,
-    "carrier_rate": 1000,
-    "updated_at": "2026-09-17T18:37:44.781596+00:00",
+    "carrier_rate": 1200,
+    "updated_at": "2026-09-18T13:20:00.633351+00:00",
     "lane": "CUMMING GA-CANON GA"
   },
   {
@@ -151,23 +151,6 @@
     "carrier_rate": 3000,
     "updated_at": "2026-09-18T12:52:52.852682+00:00",
     "lane": "PORT ANGELES WA-MAGNA UT"
-  },
-  {
-    "pro": "50567",
-    "status": "OPEN",
-    "pu_date": "2026-09-18",
-    "pu_city": "CHARLOTTE",
-    "pu_state": "NC",
-    "pu_hours": "0800-1400",
-    "del_date": "2026-09-18",
-    "del_city": "SAVANNAH",
-    "del_state": "GA",
-    "del_hours": "0800-1500",
-    "equipment": "26' Straight Box Truck",
-    "weight_lbs": 3500,
-    "carrier_rate": 600,
-    "updated_at": "2026-09-18T13:10:56.967625+00:00",
-    "lane": "CHARLOTTE NC-SAVANNAH GA"
   },
   {
     "pro": "50107",
