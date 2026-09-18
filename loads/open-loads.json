@@ -165,8 +165,8 @@
     "del_hours": "0700-1200",
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 1200,
-    "carrier_rate": 450,
-    "updated_at": "2026-09-18T19:50:05.170335+00:00",
+    "carrier_rate": 500,
+    "updated_at": "2026-09-18T20:13:07.215064+00:00",
     "lane": "RICHMOND VA-BETHESDA MD"
   },
   {
@@ -338,23 +338,6 @@
     "carrier_rate": 2000,
     "updated_at": "2026-09-18T18:43:59.857890+00:00",
     "lane": "AUBURN AL-LA CROSSE WI"
-  },
-  {
-    "pro": "50582",
-    "status": "OPEN",
-    "pu_date": "2026-09-21",
-    "pu_city": "UNION CITY",
-    "pu_state": "GA",
-    "pu_hours": "0800-1000",
-    "del_date": "2026-09-22",
-    "del_city": "SANFORD",
-    "del_state": "FL",
-    "del_hours": "0700",
-    "equipment": "26' Straight Box Truck",
-    "weight_lbs": 7000,
-    "carrier_rate": 1100,
-    "updated_at": "2026-09-18T19:20:27.117725+00:00",
-    "lane": "UNION CITY GA-SANFORD FL"
   },
   {
     "pro": "50583",
@@ -782,40 +765,6 @@
     "lane": "MACON GA-CALHOUN GA"
   },
   {
-    "pro": "50338",
-    "status": "RELEASED",
-    "pu_date": "2026-09-09",
-    "pu_city": "UNION CITY",
-    "pu_state": "GA",
-    "pu_hours": "0800-1000",
-    "del_date": "2026-09-10",
-    "del_city": "SANFORD",
-    "del_state": "FL",
-    "del_hours": "0700",
-    "equipment": "26' Straight Box Truck",
-    "weight_lbs": 7000,
-    "carrier_rate": 1200,
-    "updated_at": "2026-09-14T13:51:39.459786+00:00",
-    "lane": "UNION CITY GA-SANFORD FL"
-  },
-  {
-    "pro": "50339",
-    "status": "RELEASED",
-    "pu_date": "2026-09-09",
-    "pu_city": "UNION CITY",
-    "pu_state": "GA",
-    "pu_hours": "1000",
-    "del_date": "2026-09-10",
-    "del_city": "SANFORD",
-    "del_state": "FL",
-    "del_hours": "0900",
-    "equipment": "26' Straight Box Truck",
-    "weight_lbs": 7000,
-    "carrier_rate": 1150,
-    "updated_at": "2026-09-14T13:58:26.421900+00:00",
-    "lane": "UNION CITY GA-SANFORD FL"
-  },
-  {
     "pro": "50182",
     "status": "RELEASED",
     "pu_date": "2026-09-10",
@@ -882,23 +831,6 @@
     "carrier_rate": 2800,
     "updated_at": "2026-09-16T15:22:58.334300+00:00",
     "lane": "LA PORTE TX-GREENVILLE SC"
-  },
-  {
-    "pro": "50442",
-    "status": "RELEASED",
-    "pu_date": "2026-09-14",
-    "pu_city": "UNION CITY",
-    "pu_state": "GA",
-    "pu_hours": "0800-1000",
-    "del_date": "2026-09-15",
-    "del_city": "SANFORD",
-    "del_state": "FL",
-    "del_hours": "0700",
-    "equipment": "26' Straight Box Truck",
-    "weight_lbs": 7000,
-    "carrier_rate": 1100,
-    "updated_at": "2026-09-16T13:15:54.301160+00:00",
-    "lane": "UNION CITY GA-SANFORD FL"
   },
   {
     "pro": "50301",
@@ -1072,7 +1004,7 @@
   },
   {
     "pro": "50576",
-    "status": "PICKUP",
+    "status": "LOADED",
     "pu_date": "2026-09-18",
     "pu_city": "OAKLAND",
     "pu_state": "TN",
@@ -1084,7 +1016,7 @@
     "equipment": "Van Hazmat",
     "weight_lbs": 44900,
     "carrier_rate": 2500,
-    "updated_at": "2026-09-18T18:23:15.470004+00:00",
+    "updated_at": "2026-09-18T20:14:37.084490+00:00",
     "lane": "OAKLAND TN-MONTICELLO IL"
   },
   {
