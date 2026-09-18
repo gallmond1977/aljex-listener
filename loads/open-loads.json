@@ -413,7 +413,7 @@
     "pu_date": "2026-09-21",
     "pu_city": "SIMPSONVILLE",
     "pu_state": "SC",
-    "pu_hours": "0800-1200",
+    "pu_hours": "0800-1100",
     "del_date": "2026-09-21",
     "del_city": "WINSTON SALEM",
     "del_state": "NC",
@@ -421,7 +421,7 @@
     "equipment": "Sprinter Van",
     "weight_lbs": 575,
     "carrier_rate": 300,
-    "updated_at": "2026-09-18T13:49:05.887784+00:00",
+    "updated_at": "2026-09-18T14:04:00.204670+00:00",
     "lane": "SIMPSONVILLE SC-WINSTON SALEM NC"
   },
   {
