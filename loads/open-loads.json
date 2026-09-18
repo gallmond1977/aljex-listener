@@ -557,7 +557,7 @@
     "equipment": "Van Hazmat",
     "weight_lbs": 44900,
     "carrier_rate": null,
-    "updated_at": "2026-09-18T15:54:55.499516+00:00",
+    "updated_at": "2026-09-18T15:57:26.745306+00:00",
     "lane": "OAKLAND TN-MONTICELLO IL"
   },
   {
@@ -1050,7 +1050,7 @@
     "equipment": "Van Hazmat",
     "weight_lbs": 44900,
     "carrier_rate": 2500,
-    "updated_at": "2026-09-18T15:44:29.540983+00:00",
+    "updated_at": "2026-09-18T15:59:05.231612+00:00",
     "lane": "OAKLAND TN-MONTICELLO IL"
   },
   {
