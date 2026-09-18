@@ -131,8 +131,8 @@
     "del_hours": "0930",
     "equipment": "Van",
     "weight_lbs": 43500,
-    "carrier_rate": 1000,
-    "updated_at": "2026-09-17T20:23:50.091294+00:00",
+    "carrier_rate": 1200,
+    "updated_at": "2026-09-18T12:36:52.960269+00:00",
     "lane": "WILMINGTON NC-ATLANTA GA"
   },
   {
@@ -1203,7 +1203,7 @@
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 7000,
     "carrier_rate": 2000,
-    "updated_at": "2026-09-18T11:58:53.602848+00:00",
+    "updated_at": "2026-09-18T12:38:51.038731+00:00",
     "lane": "HOUSTON TX-SANFORD FL"
   },
   {
