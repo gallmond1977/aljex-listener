@@ -187,6 +187,23 @@
     "lane": "SIMPSONVILLE MD-WINSTON SALEM NC"
   },
   {
+    "pro": "50572",
+    "status": "OPEN",
+    "pu_date": "2026-09-18",
+    "pu_city": "BELCAMP",
+    "pu_state": "MD",
+    "pu_hours": "1300",
+    "del_date": "2026-09-21",
+    "del_city": "ELK GROVE VILLAGE",
+    "del_state": "IL",
+    "del_hours": "CALL!",
+    "equipment": "26' Straight Box Truck",
+    "weight_lbs": 3000,
+    "carrier_rate": null,
+    "updated_at": "2026-09-18T13:37:34.033721+00:00",
+    "lane": "BELCAMP MD-ELK GROVE VILLAGE IL"
+  },
+  {
     "pro": "50107",
     "status": "OPEN",
     "pu_date": "2026-09-21",
