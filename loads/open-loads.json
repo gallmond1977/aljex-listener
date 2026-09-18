@@ -1,22 +1,5 @@
 [
   {
-    "pro": "50566",
-    "status": "OPEN",
-    "pu_date": "2026-09-18",
-    "pu_city": "PORT ANGELES",
-    "pu_state": "WA",
-    "pu_hours": "0800-1500",
-    "del_date": "2026-09-21",
-    "del_city": "MAGNA",
-    "del_state": "UT",
-    "del_hours": "0600-1600",
-    "equipment": "Van",
-    "weight_lbs": 44900,
-    "carrier_rate": 3400,
-    "updated_at": "2026-09-18T15:54:22.687666+00:00",
-    "lane": "PORT ANGELES WA-MAGNA UT"
-  },
-  {
     "pro": "50107",
     "status": "OPEN",
     "pu_date": "2026-09-21",
@@ -287,6 +270,23 @@
     "carrier_rate": 1800,
     "updated_at": "2026-09-18T17:05:09.409375+00:00",
     "lane": "COLUMBUS GA-TAMPA FL"
+  },
+  {
+    "pro": "50566",
+    "status": "OPEN",
+    "pu_date": "2026-09-21",
+    "pu_city": "PORT ANGELES",
+    "pu_state": "WA",
+    "pu_hours": "0800-1500",
+    "del_date": "2026-09-21",
+    "del_city": "MAGNA",
+    "del_state": "UT",
+    "del_hours": "0600-1600",
+    "equipment": "Van",
+    "weight_lbs": 44900,
+    "carrier_rate": 3400,
+    "updated_at": "2026-09-18T19:54:59.650261+00:00",
+    "lane": "PORT ANGELES WA-MAGNA UT"
   },
   {
     "pro": "50571",
