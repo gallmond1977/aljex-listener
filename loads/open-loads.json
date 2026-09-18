@@ -29,8 +29,8 @@
     "del_hours": "1100",
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 7000,
-    "carrier_rate": 1800,
-    "updated_at": "2026-09-18T11:59:18.382914+00:00",
+    "carrier_rate": 2000,
+    "updated_at": "2026-09-18T13:41:34.966258+00:00",
     "lane": "HOUSTON TX-SANFORD FL"
   },
   {
@@ -97,8 +97,8 @@
     "del_hours": "0930",
     "equipment": "Van",
     "weight_lbs": 43500,
-    "carrier_rate": 1200,
-    "updated_at": "2026-09-18T12:36:52.960269+00:00",
+    "carrier_rate": 1300,
+    "updated_at": "2026-09-18T13:42:20.774691+00:00",
     "lane": "WILMINGTON NC-ATLANTA GA"
   },
   {
@@ -165,26 +165,9 @@
     "del_hours": "0600-1400",
     "equipment": "Flatbed w/ Tarps",
     "weight_lbs": 45640,
-    "carrier_rate": 1300,
-    "updated_at": "2026-09-18T13:20:38.633729+00:00",
+    "carrier_rate": 1400,
+    "updated_at": "2026-09-18T13:44:20.910108+00:00",
     "lane": "VILLA RICA GA-SANTA ROSA BEACH FL"
-  },
-  {
-    "pro": "50571",
-    "status": "OPEN",
-    "pu_date": "2026-09-18",
-    "pu_city": "SIMPSONVILLE",
-    "pu_state": "MD",
-    "pu_hours": "",
-    "del_date": "",
-    "del_city": "WINSTON SALEM",
-    "del_state": "NC",
-    "del_hours": "CALL",
-    "equipment": "Sprinter Van",
-    "weight_lbs": 575,
-    "carrier_rate": 300,
-    "updated_at": "2026-09-18T13:32:05.344354+00:00",
-    "lane": "SIMPSONVILLE MD-WINSTON SALEM NC"
   },
   {
     "pro": "50572",
@@ -196,11 +179,11 @@
     "del_date": "2026-09-21",
     "del_city": "ELK GROVE VILLAGE",
     "del_state": "IL",
-    "del_hours": "CALL!",
+    "del_hours": "0800-1200",
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 3000,
-    "carrier_rate": null,
-    "updated_at": "2026-09-18T13:37:34.033721+00:00",
+    "carrier_rate": 1300,
+    "updated_at": "2026-09-18T13:43:15.983704+00:00",
     "lane": "BELCAMP MD-ELK GROVE VILLAGE IL"
   },
   {
@@ -440,6 +423,23 @@
     "carrier_rate": 300,
     "updated_at": "2026-09-17T20:35:45.352502+00:00",
     "lane": "BIRMINGHAM AL-LANETT AL"
+  },
+  {
+    "pro": "50571",
+    "status": "OPEN",
+    "pu_date": "2026-09-21",
+    "pu_city": "SIMPSONVILLE",
+    "pu_state": "MD",
+    "pu_hours": "",
+    "del_date": "2026-09-21",
+    "del_city": "WINSTON SALEM",
+    "del_state": "NC",
+    "del_hours": "CALL",
+    "equipment": "Sprinter Van",
+    "weight_lbs": 575,
+    "carrier_rate": 300,
+    "updated_at": "2026-09-18T13:43:14.986479+00:00",
+    "lane": "SIMPSONVILLE MD-WINSTON SALEM NC"
   },
   {
     "pro": "50159",
