@@ -243,7 +243,7 @@
     "pu_date": "2026-09-21",
     "pu_city": "BIRMINGHAM",
     "pu_state": "AL",
-    "pu_hours": "CALL!",
+    "pu_hours": "0700-1200",
     "del_date": "2026-09-21",
     "del_city": "LANETT",
     "del_state": "AL",
@@ -251,7 +251,7 @@
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 300,
     "carrier_rate": 300,
-    "updated_at": "2026-09-17T20:35:45.352502+00:00",
+    "updated_at": "2026-09-18T19:14:20.344622+00:00",
     "lane": "BIRMINGHAM AL-LANETT AL"
   },
   {
