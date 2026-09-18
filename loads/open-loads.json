@@ -247,11 +247,11 @@
     "del_date": "2026-09-21",
     "del_city": "LANETT",
     "del_state": "AL",
-    "del_hours": "CALL!",
+    "del_hours": "0800-1500",
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 300,
     "carrier_rate": 300,
-    "updated_at": "2026-09-18T19:14:20.344622+00:00",
+    "updated_at": "2026-09-18T19:19:12.844050+00:00",
     "lane": "BIRMINGHAM AL-LANETT AL"
   },
   {
@@ -352,8 +352,8 @@
     "del_hours": "0700",
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 7000,
-    "carrier_rate": null,
-    "updated_at": "2026-09-18T18:40:36.458262+00:00",
+    "carrier_rate": 1100,
+    "updated_at": "2026-09-18T19:20:07.806402+00:00",
     "lane": "UNION CITY GA-SANFORD FL"
   },
   {
