@@ -34,23 +34,6 @@
     "lane": "WILMINGTON NC-ATLANTA GA"
   },
   {
-    "pro": "50565",
-    "status": "OPEN",
-    "pu_date": "2026-09-18",
-    "pu_city": "COLUMBUS",
-    "pu_state": "GA",
-    "pu_hours": "NEEDED",
-    "del_date": "2026-09-25",
-    "del_city": "TAMPA",
-    "del_state": "FL",
-    "del_hours": "NEEDED",
-    "equipment": "Van",
-    "weight_lbs": 43000,
-    "carrier_rate": 1800,
-    "updated_at": "2026-09-18T13:08:31.832633+00:00",
-    "lane": "COLUMBUS GA-TAMPA FL"
-  },
-  {
     "pro": "50566",
     "status": "OPEN",
     "pu_date": "2026-09-18",
@@ -321,6 +304,23 @@
     "carrier_rate": 300,
     "updated_at": "2026-09-17T20:35:45.352502+00:00",
     "lane": "BIRMINGHAM AL-LANETT AL"
+  },
+  {
+    "pro": "50565",
+    "status": "OPEN",
+    "pu_date": "2026-09-21",
+    "pu_city": "COLUMBUS",
+    "pu_state": "GA",
+    "pu_hours": "NEEDED",
+    "del_date": "2026-09-25",
+    "del_city": "TAMPA",
+    "del_state": "FL",
+    "del_hours": "NEEDED",
+    "equipment": "Van",
+    "weight_lbs": 43000,
+    "carrier_rate": 1800,
+    "updated_at": "2026-09-18T17:05:09.409375+00:00",
+    "lane": "COLUMBUS GA-TAMPA FL"
   },
   {
     "pro": "50571",
@@ -1016,7 +1016,7 @@
     "equipment": "Van Hazmat",
     "weight_lbs": 44900,
     "carrier_rate": 2500,
-    "updated_at": "2026-09-18T16:59:44.175855+00:00",
+    "updated_at": "2026-09-18T17:01:05.864363+00:00",
     "lane": "OAKLAND TN-MONTICELLO IL"
   },
   {
