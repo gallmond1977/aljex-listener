@@ -385,9 +385,9 @@
     "del_state": "GA",
     "del_hours": "0700-1200",
     "equipment": "Sprinter Van",
-    "weight_lbs": 500,
+    "weight_lbs": 250,
     "carrier_rate": null,
-    "updated_at": "2026-09-18T20:30:00.914219+00:00",
+    "updated_at": "2026-09-18T20:33:47.311992+00:00",
     "lane": "CARROLLTON GA-HOGANSVILLE GA"
   },
   {
