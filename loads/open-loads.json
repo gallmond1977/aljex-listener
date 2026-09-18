@@ -13,7 +13,7 @@
     "equipment": "Van",
     "weight_lbs": 13080,
     "carrier_rate": 4550,
-    "updated_at": "2026-09-18T17:40:43.901913+00:00",
+    "updated_at": "2026-09-18T18:44:22.096564+00:00",
     "lane": "MOUNT STERLING KY-MIRA LOMA CA"
   },
   {
@@ -353,7 +353,7 @@
     "equipment": "Van",
     "weight_lbs": 42500,
     "carrier_rate": 2000,
-    "updated_at": "2026-09-18T18:17:44.523961+00:00",
+    "updated_at": "2026-09-18T18:43:59.857890+00:00",
     "lane": "AUBURN AL-LA CROSSE WI"
   },
   {
@@ -370,7 +370,7 @@
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 7000,
     "carrier_rate": null,
-    "updated_at": "2026-09-18T18:40:06.536599+00:00",
+    "updated_at": "2026-09-18T18:40:36.458262+00:00",
     "lane": "UNION CITY GA-SANFORD FL"
   },
   {
