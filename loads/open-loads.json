@@ -142,14 +142,14 @@
     "pu_city": "COLUMBUS",
     "pu_state": "GA",
     "pu_hours": "NEEDED",
-    "del_date": "",
+    "del_date": "2026-09-25",
     "del_city": "TAMPA",
     "del_state": "FL",
     "del_hours": "NEEDED",
     "equipment": "Van",
     "weight_lbs": 43000,
     "carrier_rate": 1800,
-    "updated_at": "2026-09-17T20:51:10.410308+00:00",
+    "updated_at": "2026-09-18T13:08:31.832633+00:00",
     "lane": "COLUMBUS GA-TAMPA FL"
   },
   {
@@ -180,10 +180,10 @@
     "del_city": "SAVANNAH",
     "del_state": "GA",
     "del_hours": "0800-1500",
-    "equipment": "Flatbed Hot Shot",
-    "weight_lbs": 6000,
+    "equipment": "26' Straight Box Truck",
+    "weight_lbs": 3500,
     "carrier_rate": 600,
-    "updated_at": "2026-09-18T13:04:50.633462+00:00",
+    "updated_at": "2026-09-18T13:08:24.327062+00:00",
     "lane": "CHARLOTTE NC-SAVANNAH GA"
   },
   {
@@ -1191,7 +1191,7 @@
   },
   {
     "pro": "50463",
-    "status": "DISPATCHED",
+    "status": "PICKUP",
     "pu_date": "2026-09-18",
     "pu_city": "HOUSTON",
     "pu_state": "TX",
@@ -1203,7 +1203,7 @@
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 7000,
     "carrier_rate": 2000,
-    "updated_at": "2026-09-18T12:21:17.472844+00:00",
+    "updated_at": "2026-09-18T13:05:24.793754+00:00",
     "lane": "HOUSTON TX-SANFORD FL"
   },
   {
