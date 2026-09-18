@@ -153,23 +153,6 @@
     "lane": "VILLA RICA GA-SANTA ROSA BEACH FL"
   },
   {
-    "pro": "50572",
-    "status": "OPEN",
-    "pu_date": "2026-09-18",
-    "pu_city": "BELCAMP",
-    "pu_state": "MD",
-    "pu_hours": "1300",
-    "del_date": "2026-09-21",
-    "del_city": "ELK GROVE VILLAGE",
-    "del_state": "IL",
-    "del_hours": "0800-1200",
-    "equipment": "26' Straight Box Truck",
-    "weight_lbs": 3000,
-    "carrier_rate": 1300,
-    "updated_at": "2026-09-18T13:43:15.983704+00:00",
-    "lane": "BELCAMP MD-ELK GROVE VILLAGE IL"
-  },
-  {
     "pro": "50107",
     "status": "OPEN",
     "pu_date": "2026-09-21",
@@ -423,6 +406,23 @@
     "carrier_rate": 300,
     "updated_at": "2026-09-18T14:04:00.204670+00:00",
     "lane": "SIMPSONVILLE SC-WINSTON SALEM NC"
+  },
+  {
+    "pro": "50573",
+    "status": "OPEN",
+    "pu_date": "2026-09-21",
+    "pu_city": "BALTIMORE",
+    "pu_state": "MD",
+    "pu_hours": "0800-1000",
+    "del_date": "2026-09-21",
+    "del_city": "SECAUCUS",
+    "del_state": "NJ",
+    "del_hours": "CALL!",
+    "equipment": "26' Straight Box Truck",
+    "weight_lbs": 5500,
+    "carrier_rate": 700,
+    "updated_at": "2026-09-18T14:17:23.336635+00:00",
+    "lane": "BALTIMORE MD-SECAUCUS NJ"
   },
   {
     "pro": "50159",
