@@ -17,29 +17,12 @@
     "lane": "MOUNT STERLING KY-MIRA LOMA CA"
   },
   {
-    "pro": "50557",
-    "status": "OPEN",
-    "pu_date": "2026-09-18",
-    "pu_city": "MONCURE",
-    "pu_state": "NC",
-    "pu_hours": "0730-1600",
-    "del_date": "2026-09-21",
-    "del_city": "ATLANTA",
-    "del_state": "GA",
-    "del_hours": "0800-1600",
-    "equipment": "Van",
-    "weight_lbs": 44000,
-    "carrier_rate": 900,
-    "updated_at": "2026-09-17T20:04:04.743059+00:00",
-    "lane": "MONCURE NC-ATLANTA GA"
-  },
-  {
     "pro": "50564",
     "status": "OPEN",
     "pu_date": "2026-09-18",
     "pu_city": "WILMINGTON",
     "pu_state": "NC",
-    "pu_hours": "0800-1200",
+    "pu_hours": "0800-1430",
     "del_date": "2026-09-21",
     "del_city": "ATLANTA",
     "del_state": "GA",
@@ -47,7 +30,7 @@
     "equipment": "Van",
     "weight_lbs": 43500,
     "carrier_rate": 1400,
-    "updated_at": "2026-09-18T14:35:44.328871+00:00",
+    "updated_at": "2026-09-18T15:38:43.200801+00:00",
     "lane": "WILMINGTON NC-ATLANTA GA"
   },
   {
@@ -100,23 +83,6 @@
     "carrier_rate": 900,
     "updated_at": "2026-09-18T15:35:04.630284+00:00",
     "lane": "CLARENCE NY-BELCAMP MD"
-  },
-  {
-    "pro": "50576",
-    "status": "OPEN",
-    "pu_date": "2026-09-18",
-    "pu_city": "OAKLAND",
-    "pu_state": "TN",
-    "pu_hours": "0800-1400",
-    "del_date": "2026-09-21",
-    "del_city": "MONTICELLO",
-    "del_state": "IL",
-    "del_hours": "0900",
-    "equipment": "Van Hazmat",
-    "weight_lbs": 44900,
-    "carrier_rate": 2500,
-    "updated_at": "2026-09-18T15:34:19.459287+00:00",
-    "lane": "OAKLAND TN-MONTICELLO IL"
   },
   {
     "pro": "50107",
@@ -850,23 +816,6 @@
     "lane": "COLUMBUS GA-TAMPA FL"
   },
   {
-    "pro": "50406",
-    "status": "RELEASED",
-    "pu_date": "2026-09-11",
-    "pu_city": "MONCURE",
-    "pu_state": "NC",
-    "pu_hours": "0730-1600",
-    "del_date": "2026-09-14",
-    "del_city": "ATLANTA",
-    "del_state": "GA",
-    "del_hours": "0800-1600",
-    "equipment": "Van",
-    "weight_lbs": 44000,
-    "carrier_rate": 900,
-    "updated_at": "2026-09-16T16:44:00.201351+00:00",
-    "lane": "MONCURE NC-ATLANTA GA"
-  },
-  {
     "pro": "50404",
     "status": "RELEASED",
     "pu_date": "2026-09-14",
@@ -882,23 +831,6 @@
     "carrier_rate": 2800,
     "updated_at": "2026-09-16T15:22:58.334300+00:00",
     "lane": "LA PORTE TX-GREENVILLE SC"
-  },
-  {
-    "pro": "50433",
-    "status": "DELIVERED",
-    "pu_date": "2026-09-14",
-    "pu_city": "MONCURE",
-    "pu_state": "NC",
-    "pu_hours": "0730-1600",
-    "del_date": "2026-09-15",
-    "del_city": "ATLANTA",
-    "del_state": "GA",
-    "del_hours": "0800-1600",
-    "equipment": "Van",
-    "weight_lbs": 44000,
-    "carrier_rate": 900,
-    "updated_at": "2026-09-18T13:50:19.262306+00:00",
-    "lane": "MONCURE NC-ATLANTA GA"
   },
   {
     "pro": "50437",
@@ -969,23 +901,6 @@
     "lane": "MACON GA-CALHOUN GA"
   },
   {
-    "pro": "50483",
-    "status": "RELEASED",
-    "pu_date": "2026-09-15",
-    "pu_city": "OAKLAND",
-    "pu_state": "TN",
-    "pu_hours": "0800-1400",
-    "del_date": "2026-09-16",
-    "del_city": "MONTICELLO",
-    "del_state": "IL",
-    "del_hours": "0900",
-    "equipment": "Van Hazmat",
-    "weight_lbs": 44900,
-    "carrier_rate": 1800,
-    "updated_at": "2026-09-16T20:26:50.440482+00:00",
-    "lane": "OAKLAND TN-MONTICELLO IL"
-  },
-  {
     "pro": "50445",
     "status": "RELEASED",
     "pu_date": "2026-09-16",
@@ -1018,23 +933,6 @@
     "carrier_rate": 600,
     "updated_at": "2026-09-17T22:43:33.188304+00:00",
     "lane": "MACON GA-CALHOUN GA"
-  },
-  {
-    "pro": "50482",
-    "status": "DELIVERED",
-    "pu_date": "2026-09-16",
-    "pu_city": "MONCURE",
-    "pu_state": "NC",
-    "pu_hours": "0730-1600",
-    "del_date": "2026-09-17",
-    "del_city": "ATLANTA",
-    "del_state": "GA",
-    "del_hours": "0800-1600",
-    "equipment": "Van",
-    "weight_lbs": 44000,
-    "carrier_rate": 1000,
-    "updated_at": "2026-09-17T12:08:52.915114+00:00",
-    "lane": "MONCURE NC-ATLANTA GA"
   },
   {
     "pro": "50509",
@@ -1103,23 +1001,6 @@
     "carrier_rate": 200,
     "updated_at": "2026-09-18T01:05:40.994790+00:00",
     "lane": "RICHMOND VA-RICHMOND VA"
-  },
-  {
-    "pro": "50533",
-    "status": "DELIVERED",
-    "pu_date": "2026-09-17",
-    "pu_city": "MONCURE",
-    "pu_state": "NC",
-    "pu_hours": "0730-1600",
-    "del_date": "2026-09-18",
-    "del_city": "ATLANTA",
-    "del_state": "GA",
-    "del_hours": "0800-1600",
-    "equipment": "Van",
-    "weight_lbs": 44000,
-    "carrier_rate": 900,
-    "updated_at": "2026-09-18T15:04:36.692983+00:00",
-    "lane": "MONCURE NC-ATLANTA GA"
   },
   {
     "pro": "50471",
