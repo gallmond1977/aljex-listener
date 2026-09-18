@@ -306,6 +306,23 @@
     "lane": "SIMPSONVILLE SC-WINSTON SALEM NC"
   },
   {
+    "pro": "50573",
+    "status": "OPEN",
+    "pu_date": "2026-09-21",
+    "pu_city": "BALTIMORE",
+    "pu_state": "MD",
+    "pu_hours": "0800-1000",
+    "del_date": "2026-09-21",
+    "del_city": "SECAUCUS",
+    "del_state": "NJ",
+    "del_hours": "CALL!",
+    "equipment": "26' Straight Box Truck",
+    "weight_lbs": 5500,
+    "carrier_rate": 700,
+    "updated_at": "2026-09-18T19:20:12.390860+00:00",
+    "lane": "BALTIMORE MD-SECAUCUS NJ"
+  },
+  {
     "pro": "50579",
     "status": "OPEN",
     "pu_date": "2026-09-21",
@@ -353,7 +370,7 @@
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 7000,
     "carrier_rate": 1100,
-    "updated_at": "2026-09-18T19:20:07.806402+00:00",
+    "updated_at": "2026-09-18T19:20:27.117725+00:00",
     "lane": "UNION CITY GA-SANFORD FL"
   },
   {
