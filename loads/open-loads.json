@@ -357,23 +357,6 @@
     "lane": "BALTIMORE MD-SECAUCUS NJ"
   },
   {
-    "pro": "50574",
-    "status": "OPEN",
-    "pu_date": "2026-09-21",
-    "pu_city": "RALEIGH",
-    "pu_state": "NC",
-    "pu_hours": "0800",
-    "del_date": "2026-09-21",
-    "del_city": "ROANOKE",
-    "del_state": "VA",
-    "del_hours": "0800-1500",
-    "equipment": "26' Straight Box Truck",
-    "weight_lbs": 5086,
-    "carrier_rate": 400,
-    "updated_at": "2026-09-18T14:33:00.282705+00:00",
-    "lane": "RALEIGH NC-ROANOKE VA"
-  },
-  {
     "pro": "50579",
     "status": "OPEN",
     "pu_date": "2026-09-21",
@@ -814,23 +797,6 @@
     "carrier_rate": 2800,
     "updated_at": "2026-09-16T15:22:58.334300+00:00",
     "lane": "LA PORTE TX-GREENVILLE SC"
-  },
-  {
-    "pro": "50437",
-    "status": "RELEASED",
-    "pu_date": "2026-09-14",
-    "pu_city": "RALEIGH",
-    "pu_state": "NC",
-    "pu_hours": "0900",
-    "del_date": "2026-09-14",
-    "del_city": "ROANOKE",
-    "del_state": "VA",
-    "del_hours": "0800-1500",
-    "equipment": "26' Straight Box Truck",
-    "weight_lbs": 5661,
-    "carrier_rate": 450,
-    "updated_at": "2026-09-15T16:34:29.471991+00:00",
-    "lane": "RALEIGH NC-ROANOKE VA"
   },
   {
     "pro": "50301",
