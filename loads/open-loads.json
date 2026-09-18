@@ -114,8 +114,8 @@
     "del_hours": "0700-1300",
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 1000,
-    "carrier_rate": 800,
-    "updated_at": "2026-09-18T15:03:28.541136+00:00",
+    "carrier_rate": 850,
+    "updated_at": "2026-09-18T15:24:14.017440+00:00",
     "lane": "CLARENCE NY-BELCAMP MD"
   },
   {
@@ -141,7 +141,7 @@
     "pu_date": "2026-09-21",
     "pu_city": "WINCHESTER",
     "pu_state": "KY",
-    "pu_hours": "",
+    "pu_hours": "0800-1500",
     "del_date": "2026-09-22",
     "del_city": "NORTH EAST",
     "del_state": "MD",
@@ -149,7 +149,7 @@
     "equipment": "Van",
     "weight_lbs": 3934,
     "carrier_rate": 2200,
-    "updated_at": "2026-09-18T15:18:53.062111+00:00",
+    "updated_at": "2026-09-18T15:22:15.523537+00:00",
     "lane": "WINCHESTER KY-NORTH EAST MD"
   },
   {
