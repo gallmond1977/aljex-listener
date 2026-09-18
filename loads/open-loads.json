@@ -68,6 +68,23 @@
     "lane": "PORT ANGELES WA-MAGNA UT"
   },
   {
+    "pro": "50576",
+    "status": "OPEN",
+    "pu_date": "2026-09-18",
+    "pu_city": "OAKLAND",
+    "pu_state": "TN",
+    "pu_hours": "0800-1400",
+    "del_date": "2026-09-21",
+    "del_city": "MONTICELLO",
+    "del_state": "IL",
+    "del_hours": "0800-0900",
+    "equipment": "Van Hazmat",
+    "weight_lbs": 44900,
+    "carrier_rate": 2500,
+    "updated_at": "2026-09-18T16:53:57.800377+00:00",
+    "lane": "OAKLAND TN-MONTICELLO IL"
+  },
+  {
     "pro": "50107",
     "status": "OPEN",
     "pu_date": "2026-09-21",
@@ -1001,23 +1018,6 @@
     "carrier_rate": 200,
     "updated_at": "2026-09-18T01:05:40.994790+00:00",
     "lane": "RICHMOND VA-RICHMOND VA"
-  },
-  {
-    "pro": "50576",
-    "status": "COVERED",
-    "pu_date": "2026-09-18",
-    "pu_city": "OAKLAND",
-    "pu_state": "TN",
-    "pu_hours": "0800-1400",
-    "del_date": "2026-09-21",
-    "del_city": "MONTICELLO",
-    "del_state": "IL",
-    "del_hours": "0800-0900",
-    "equipment": "Van Hazmat",
-    "weight_lbs": 44900,
-    "carrier_rate": 2500,
-    "updated_at": "2026-09-18T16:41:38.920479+00:00",
-    "lane": "OAKLAND TN-MONTICELLO IL"
   },
   {
     "pro": "50471",
