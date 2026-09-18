@@ -102,23 +102,6 @@
     "lane": "MONCURE NC-ATLANTA GA"
   },
   {
-    "pro": "50562",
-    "status": "OPEN",
-    "pu_date": "2026-09-18",
-    "pu_city": "COLUMBUS",
-    "pu_state": "GA",
-    "pu_hours": "0900-1400",
-    "del_date": "2026-09-19",
-    "del_city": "MARYSVILLE",
-    "del_state": "OH",
-    "del_hours": "0800",
-    "equipment": "Sprinter Van",
-    "weight_lbs": 610,
-    "carrier_rate": 800,
-    "updated_at": "2026-09-18T13:01:34.711696+00:00",
-    "lane": "COLUMBUS GA-MARYSVILLE OH"
-  },
-  {
     "pro": "50564",
     "status": "OPEN",
     "pu_date": "2026-09-18",
@@ -183,7 +166,7 @@
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 3500,
     "carrier_rate": 600,
-    "updated_at": "2026-09-18T13:08:24.327062+00:00",
+    "updated_at": "2026-09-18T13:10:56.967625+00:00",
     "lane": "CHARLOTTE NC-SAVANNAH GA"
   },
   {
