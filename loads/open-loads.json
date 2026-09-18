@@ -102,23 +102,6 @@
     "lane": "MONCURE NC-ATLANTA GA"
   },
   {
-    "pro": "50559",
-    "status": "OPEN",
-    "pu_date": "2026-09-18",
-    "pu_city": "LAGRANGE",
-    "pu_state": "GA",
-    "pu_hours": "1200-1600",
-    "del_date": "2026-09-21",
-    "del_city": "ORLANDO",
-    "del_state": "FL",
-    "del_hours": "0800-1200",
-    "equipment": "Van",
-    "weight_lbs": 35000,
-    "carrier_rate": 1800,
-    "updated_at": "2026-09-17T19:49:29.541662+00:00",
-    "lane": "LAGRANGE GA-ORLANDO FL"
-  },
-  {
     "pro": "50562",
     "status": "OPEN",
     "pu_date": "2026-09-18",
