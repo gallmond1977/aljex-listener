@@ -374,23 +374,6 @@
     "lane": "VILLA RICA GA-COLLEGE STATION TX"
   },
   {
-    "pro": "50585",
-    "status": "OPEN",
-    "pu_date": "2026-09-21",
-    "pu_city": "CARROLLTON",
-    "pu_state": "GA",
-    "pu_hours": "0730-1000",
-    "del_date": "2026-09-21",
-    "del_city": "HOGANSVILLE",
-    "del_state": "GA",
-    "del_hours": "0700-1200",
-    "equipment": "Sprinter Van",
-    "weight_lbs": 250,
-    "carrier_rate": null,
-    "updated_at": "2026-09-18T20:41:50.315817+00:00",
-    "lane": "CARROLLTON GA-HOGANSVILLE GA"
-  },
-  {
     "pro": "50159",
     "status": "OPEN",
     "pu_date": "2026-09-22",
