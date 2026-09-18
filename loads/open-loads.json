@@ -17,23 +17,6 @@
     "lane": "MOUNT STERLING KY-MIRA LOMA CA"
   },
   {
-    "pro": "50564",
-    "status": "OPEN",
-    "pu_date": "2026-09-18",
-    "pu_city": "WILMINGTON",
-    "pu_state": "NC",
-    "pu_hours": "0800-1430",
-    "del_date": "2026-09-21",
-    "del_city": "ATLANTA",
-    "del_state": "GA",
-    "del_hours": "0930",
-    "equipment": "Van",
-    "weight_lbs": 43500,
-    "carrier_rate": 1500,
-    "updated_at": "2026-09-18T16:42:42.006038+00:00",
-    "lane": "WILMINGTON NC-ATLANTA GA"
-  },
-  {
     "pro": "50566",
     "status": "OPEN",
     "pu_date": "2026-09-18",
@@ -306,6 +289,23 @@
     "lane": "BIRMINGHAM AL-LANETT AL"
   },
   {
+    "pro": "50564",
+    "status": "OPEN",
+    "pu_date": "2026-09-21",
+    "pu_city": "WILMINGTON",
+    "pu_state": "NC",
+    "pu_hours": "0800-1100",
+    "del_date": "2026-09-22",
+    "del_city": "ATLANTA",
+    "del_state": "GA",
+    "del_hours": "0930",
+    "equipment": "Van",
+    "weight_lbs": 43500,
+    "carrier_rate": 1500,
+    "updated_at": "2026-09-18T18:25:04.354364+00:00",
+    "lane": "WILMINGTON NC-ATLANTA GA"
+  },
+  {
     "pro": "50565",
     "status": "OPEN",
     "pu_date": "2026-09-21",
@@ -353,7 +353,7 @@
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 5500,
     "carrier_rate": 700,
-    "updated_at": "2026-09-18T18:16:58.765283+00:00",
+    "updated_at": "2026-09-18T18:20:14.203849+00:00",
     "lane": "BALTIMORE MD-SECAUCUS NJ"
   },
   {
@@ -1016,7 +1016,7 @@
     "equipment": "Van Hazmat",
     "weight_lbs": 44900,
     "carrier_rate": 2500,
-    "updated_at": "2026-09-18T18:14:22.150225+00:00",
+    "updated_at": "2026-09-18T18:23:15.470004+00:00",
     "lane": "OAKLAND TN-MONTICELLO IL"
   },
   {
