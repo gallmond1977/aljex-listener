@@ -162,11 +162,11 @@
     "del_date": "2026-09-21",
     "del_city": "BETHESDA",
     "del_state": "MD",
-    "del_hours": "0700-1200",
+    "del_hours": "0700-1500",
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 1200,
     "carrier_rate": 500,
-    "updated_at": "2026-09-18T20:13:07.215064+00:00",
+    "updated_at": "2026-09-18T20:16:35.397320+00:00",
     "lane": "RICHMOND VA-BETHESDA MD"
   },
   {
@@ -372,6 +372,23 @@
     "carrier_rate": 1000,
     "updated_at": "2026-09-18T19:36:24.306091+00:00",
     "lane": "VILLA RICA GA-COLLEGE STATION TX"
+  },
+  {
+    "pro": "50585",
+    "status": "OPEN",
+    "pu_date": "2026-09-21",
+    "pu_city": "CARROLLTON",
+    "pu_state": "GA",
+    "pu_hours": "",
+    "del_date": "",
+    "del_city": "GREENFIELD",
+    "del_state": "IN",
+    "del_hours": "0700-1200",
+    "equipment": "Sprinter Van",
+    "weight_lbs": 10,
+    "carrier_rate": null,
+    "updated_at": "2026-09-18T20:19:57.393659+00:00",
+    "lane": "CARROLLTON GA-GREENFIELD IN"
   },
   {
     "pro": "50159",
@@ -1016,7 +1033,7 @@
     "equipment": "Van Hazmat",
     "weight_lbs": 44900,
     "carrier_rate": 2500,
-    "updated_at": "2026-09-18T20:14:37.084490+00:00",
+    "updated_at": "2026-09-18T20:19:57.622388+00:00",
     "lane": "OAKLAND TN-MONTICELLO IL"
   },
   {
