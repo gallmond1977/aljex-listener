@@ -153,23 +153,6 @@
     "lane": "ANNISTON AL-CRESTWOOD KY"
   },
   {
-    "pro": "50549",
-    "status": "OPEN",
-    "pu_date": "2026-09-21",
-    "pu_city": "RICHMOND",
-    "pu_state": "VA",
-    "pu_hours": "0630-0700",
-    "del_date": "2026-09-21",
-    "del_city": "BETHESDA",
-    "del_state": "MD",
-    "del_hours": "0700-1500",
-    "equipment": "26' Straight Box Truck",
-    "weight_lbs": 1200,
-    "carrier_rate": 500,
-    "updated_at": "2026-09-18T22:31:26.371612+00:00",
-    "lane": "RICHMOND VA-BETHESDA MD"
-  },
-  {
     "pro": "50553",
     "status": "OPEN",
     "pu_date": "2026-09-21",
