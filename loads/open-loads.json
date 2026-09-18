@@ -1123,7 +1123,7 @@
   },
   {
     "pro": "50533",
-    "status": "LOADED",
+    "status": "CONSIGNEE",
     "pu_date": "2026-09-17",
     "pu_city": "MONCURE",
     "pu_state": "NC",
@@ -1135,7 +1135,7 @@
     "equipment": "Van",
     "weight_lbs": 44000,
     "carrier_rate": 900,
-    "updated_at": "2026-09-17T20:05:25.308564+00:00",
+    "updated_at": "2026-09-18T14:06:25.940818+00:00",
     "lane": "MONCURE NC-ATLANTA GA"
   },
   {
@@ -1157,7 +1157,7 @@
   },
   {
     "pro": "50464",
-    "status": "DISPATCHED",
+    "status": "PICKUP",
     "pu_date": "2026-09-18",
     "pu_city": "HOUSTON",
     "pu_state": "TX",
@@ -1169,7 +1169,7 @@
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 7000,
     "carrier_rate": 2000,
-    "updated_at": "2026-09-18T12:51:30.504883+00:00",
+    "updated_at": "2026-09-18T14:07:08.778463+00:00",
     "lane": "HOUSTON TX-SANFORD FL"
   },
   {
