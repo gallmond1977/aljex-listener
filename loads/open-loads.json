@@ -200,7 +200,7 @@
     "equipment": "Van",
     "weight_lbs": 2086,
     "carrier_rate": 1100,
-    "updated_at": "2026-09-18T18:14:09.870809+00:00",
+    "updated_at": "2026-09-18T18:17:16.674474+00:00",
     "lane": "JACKSONVILLE FL-MAYNARDVILLE TN"
   },
   {
@@ -353,7 +353,7 @@
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 5500,
     "carrier_rate": 700,
-    "updated_at": "2026-09-18T18:05:06.203483+00:00",
+    "updated_at": "2026-09-18T18:16:58.765283+00:00",
     "lane": "BALTIMORE MD-SECAUCUS NJ"
   },
   {
@@ -380,14 +380,14 @@
     "pu_city": "AUBURN",
     "pu_state": "AL",
     "pu_hours": "0800-1500",
-    "del_date": "",
+    "del_date": "2026-09-22",
     "del_city": "LA CROSSE",
     "del_state": "WI",
     "del_hours": "0800-1500",
     "equipment": "Van",
     "weight_lbs": 42500,
     "carrier_rate": 2000,
-    "updated_at": "2026-09-18T18:14:49.378213+00:00",
+    "updated_at": "2026-09-18T18:17:44.523961+00:00",
     "lane": "AUBURN AL-LA CROSSE WI"
   },
   {
