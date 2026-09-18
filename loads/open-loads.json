@@ -608,7 +608,7 @@
     "equipment": "Reefer",
     "weight_lbs": 33095,
     "carrier_rate": null,
-    "updated_at": "2026-09-17T16:22:22.874893+00:00",
+    "updated_at": "2026-09-18T11:38:39.930295+00:00",
     "lane": "ATLANTA GA-ATLANTA GA"
   },
   {
@@ -625,7 +625,7 @@
     "equipment": "Flatbed",
     "weight_lbs": 48000,
     "carrier_rate": null,
-    "updated_at": "2026-09-17T16:23:28.722952+00:00",
+    "updated_at": "2026-09-18T11:36:48.359628+00:00",
     "lane": "MIAMI FL-CHARLOTTE NC"
   },
   {
@@ -1157,7 +1157,7 @@
   },
   {
     "pro": "50528",
-    "status": "CONSIGNEE",
+    "status": "DELIVERED",
     "pu_date": "2026-09-17",
     "pu_city": "CUMMING",
     "pu_state": "GA",
@@ -1169,7 +1169,7 @@
     "equipment": "Reefer",
     "weight_lbs": 1800,
     "carrier_rate": 1000,
-    "updated_at": "2026-09-18T08:16:46.575159+00:00",
+    "updated_at": "2026-09-18T11:36:18.316093+00:00",
     "lane": "CUMMING GA-CANON GA"
   },
   {
