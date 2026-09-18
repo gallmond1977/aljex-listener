@@ -1,22 +1,5 @@
 [
   {
-    "pro": "50328",
-    "status": "OPEN",
-    "pu_date": "2026-09-18",
-    "pu_city": "WINCHESTER",
-    "pu_state": "KY",
-    "pu_hours": "",
-    "del_date": "",
-    "del_city": "NORTH EAST",
-    "del_state": "MD",
-    "del_hours": "AD REQD",
-    "equipment": "Van",
-    "weight_lbs": 3934,
-    "carrier_rate": null,
-    "updated_at": "2026-09-17T19:58:08.907994+00:00",
-    "lane": "WINCHESTER KY-NORTH EAST MD"
-  },
-  {
     "pro": "50465",
     "status": "OPEN",
     "pu_date": "2026-09-18",
@@ -47,7 +30,7 @@
     "equipment": "Van",
     "weight_lbs": 13080,
     "carrier_rate": 4000,
-    "updated_at": "2026-09-18T14:34:39.255870+00:00",
+    "updated_at": "2026-09-18T14:35:44.239608+00:00",
     "lane": "MOUNT STERLING KY-MIRA LOMA CA"
   },
   {
@@ -98,7 +81,7 @@
     "equipment": "Van",
     "weight_lbs": 43500,
     "carrier_rate": 1400,
-    "updated_at": "2026-09-18T14:33:59.836631+00:00",
+    "updated_at": "2026-09-18T14:35:44.328871+00:00",
     "lane": "WILMINGTON NC-ATLANTA GA"
   },
   {
@@ -151,6 +134,23 @@
     "carrier_rate": 1500,
     "updated_at": "2026-08-25T12:19:44.843267+00:00",
     "lane": "COLUMBUS GA-VAN WERT OH"
+  },
+  {
+    "pro": "50328",
+    "status": "OPEN",
+    "pu_date": "2026-09-21",
+    "pu_city": "WINCHESTER",
+    "pu_state": "KY",
+    "pu_hours": "",
+    "del_date": "",
+    "del_city": "NORTH EAST",
+    "del_state": "MD",
+    "del_hours": "AD REQD",
+    "equipment": "Van",
+    "weight_lbs": 3934,
+    "carrier_rate": null,
+    "updated_at": "2026-09-18T14:39:10.777317+00:00",
+    "lane": "WINCHESTER KY-NORTH EAST MD"
   },
   {
     "pro": "50378",
