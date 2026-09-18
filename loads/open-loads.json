@@ -381,14 +381,14 @@
     "pu_state": "GA",
     "pu_hours": "",
     "del_date": "",
-    "del_city": "GREENFIELD",
-    "del_state": "IN",
+    "del_city": "HOGANSVILLE",
+    "del_state": "GA",
     "del_hours": "0700-1200",
     "equipment": "Sprinter Van",
-    "weight_lbs": 10,
+    "weight_lbs": 500,
     "carrier_rate": null,
-    "updated_at": "2026-09-18T20:25:08.879220+00:00",
-    "lane": "CARROLLTON GA-GREENFIELD IN"
+    "updated_at": "2026-09-18T20:30:00.914219+00:00",
+    "lane": "CARROLLTON GA-HOGANSVILLE GA"
   },
   {
     "pro": "50159",
