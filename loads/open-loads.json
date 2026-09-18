@@ -357,6 +357,23 @@
     "lane": "AUBURN AL-LA CROSSE WI"
   },
   {
+    "pro": "50582",
+    "status": "OPEN",
+    "pu_date": "2026-09-21",
+    "pu_city": "UNION CITY",
+    "pu_state": "GA",
+    "pu_hours": "0800-1000",
+    "del_date": "2026-09-22",
+    "del_city": "SANFORD",
+    "del_state": "FL",
+    "del_hours": "0700",
+    "equipment": "26' Straight Box Truck",
+    "weight_lbs": 7000,
+    "carrier_rate": null,
+    "updated_at": "2026-09-18T18:40:06.536599+00:00",
+    "lane": "UNION CITY GA-SANFORD FL"
+  },
+  {
     "pro": "50159",
     "status": "OPEN",
     "pu_date": "2026-09-22",
@@ -731,6 +748,40 @@
     "lane": "MACON GA-CALHOUN GA"
   },
   {
+    "pro": "50338",
+    "status": "RELEASED",
+    "pu_date": "2026-09-09",
+    "pu_city": "UNION CITY",
+    "pu_state": "GA",
+    "pu_hours": "0800-1000",
+    "del_date": "2026-09-10",
+    "del_city": "SANFORD",
+    "del_state": "FL",
+    "del_hours": "0700",
+    "equipment": "26' Straight Box Truck",
+    "weight_lbs": 7000,
+    "carrier_rate": 1200,
+    "updated_at": "2026-09-14T13:51:39.459786+00:00",
+    "lane": "UNION CITY GA-SANFORD FL"
+  },
+  {
+    "pro": "50339",
+    "status": "RELEASED",
+    "pu_date": "2026-09-09",
+    "pu_city": "UNION CITY",
+    "pu_state": "GA",
+    "pu_hours": "1000",
+    "del_date": "2026-09-10",
+    "del_city": "SANFORD",
+    "del_state": "FL",
+    "del_hours": "0900",
+    "equipment": "26' Straight Box Truck",
+    "weight_lbs": 7000,
+    "carrier_rate": 1150,
+    "updated_at": "2026-09-14T13:58:26.421900+00:00",
+    "lane": "UNION CITY GA-SANFORD FL"
+  },
+  {
     "pro": "50182",
     "status": "RELEASED",
     "pu_date": "2026-09-10",
@@ -797,6 +848,23 @@
     "carrier_rate": 2800,
     "updated_at": "2026-09-16T15:22:58.334300+00:00",
     "lane": "LA PORTE TX-GREENVILLE SC"
+  },
+  {
+    "pro": "50442",
+    "status": "RELEASED",
+    "pu_date": "2026-09-14",
+    "pu_city": "UNION CITY",
+    "pu_state": "GA",
+    "pu_hours": "0800-1000",
+    "del_date": "2026-09-15",
+    "del_city": "SANFORD",
+    "del_state": "FL",
+    "del_hours": "0700",
+    "equipment": "26' Straight Box Truck",
+    "weight_lbs": 7000,
+    "carrier_rate": 1100,
+    "updated_at": "2026-09-16T13:15:54.301160+00:00",
+    "lane": "UNION CITY GA-SANFORD FL"
   },
   {
     "pro": "50301",
