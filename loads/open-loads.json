@@ -142,14 +142,14 @@
     "pu_city": "WINCHESTER",
     "pu_state": "KY",
     "pu_hours": "",
-    "del_date": "",
+    "del_date": "2026-09-22",
     "del_city": "NORTH EAST",
     "del_state": "MD",
-    "del_hours": "AD REQD",
+    "del_hours": "0530",
     "equipment": "Van",
     "weight_lbs": 3934,
     "carrier_rate": null,
-    "updated_at": "2026-09-18T14:39:10.777317+00:00",
+    "updated_at": "2026-09-18T15:11:22.676897+00:00",
     "lane": "WINCHESTER KY-NORTH EAST MD"
   },
   {
@@ -253,23 +253,6 @@
     "carrier_rate": 2000,
     "updated_at": "2026-09-16T12:45:17.427514+00:00",
     "lane": "EL DORADO AR-CALHOUN GA"
-  },
-  {
-    "pro": "50530",
-    "status": "OPEN",
-    "pu_date": "2026-09-21",
-    "pu_city": "OPELIKA",
-    "pu_state": "AL",
-    "pu_hours": "0800-1500",
-    "del_date": "2026-09-21",
-    "del_city": "COLUMBIA",
-    "del_state": "AL",
-    "del_hours": "0530-1900",
-    "equipment": "Flatbed",
-    "weight_lbs": 47000,
-    "carrier_rate": 1000,
-    "updated_at": "2026-09-16T19:01:12.335193+00:00",
-    "lane": "OPELIKA AL-COLUMBIA AL"
   },
   {
     "pro": "50531",
@@ -901,23 +884,6 @@
     "lane": "LA PORTE TX-GREENVILLE SC"
   },
   {
-    "pro": "50424",
-    "status": "RELEASED",
-    "pu_date": "2026-09-14",
-    "pu_city": "OPELIKA",
-    "pu_state": "AL",
-    "pu_hours": "0800-1500",
-    "del_date": "2026-09-15",
-    "del_city": "COLUMBIA",
-    "del_state": "AL",
-    "del_hours": "0530-1900",
-    "equipment": "Flatbed",
-    "weight_lbs": 47000,
-    "carrier_rate": 1000,
-    "updated_at": "2026-09-15T12:02:32.007884+00:00",
-    "lane": "OPELIKA AL-COLUMBIA AL"
-  },
-  {
     "pro": "50433",
     "status": "DELIVERED",
     "pu_date": "2026-09-14",
@@ -1052,23 +1018,6 @@
     "carrier_rate": 1000,
     "updated_at": "2026-09-17T12:08:52.915114+00:00",
     "lane": "MONCURE NC-ATLANTA GA"
-  },
-  {
-    "pro": "50494",
-    "status": "RELEASED",
-    "pu_date": "2026-09-16",
-    "pu_city": "OPELIKA",
-    "pu_state": "AL",
-    "pu_hours": "0800-1500",
-    "del_date": "2026-09-17",
-    "del_city": "COLUMBIA",
-    "del_state": "AL",
-    "del_hours": "0530-1900",
-    "equipment": "Flatbed",
-    "weight_lbs": 47000,
-    "carrier_rate": 1000,
-    "updated_at": "2026-09-17T21:04:19.565699+00:00",
-    "lane": "OPELIKA AL-COLUMBIA AL"
   },
   {
     "pro": "50509",
