@@ -170,6 +170,23 @@
     "lane": "PORT ANGELES WA-MAGNA UT"
   },
   {
+    "pro": "50567",
+    "status": "OPEN",
+    "pu_date": "2026-09-18",
+    "pu_city": "CHARLOTTE",
+    "pu_state": "NC",
+    "pu_hours": "0800-1400",
+    "del_date": "2026-09-18",
+    "del_city": "SAVANNAH",
+    "del_state": "GA",
+    "del_hours": "0800-1500",
+    "equipment": "Flatbed Hot Shot",
+    "weight_lbs": 6000,
+    "carrier_rate": 600,
+    "updated_at": "2026-09-18T12:59:15.952381+00:00",
+    "lane": "CHARLOTTE NC-SAVANNAH GA"
+  },
+  {
     "pro": "50107",
     "status": "OPEN",
     "pu_date": "2026-09-21",
