@@ -182,8 +182,8 @@
     "del_hours": "0700-1200",
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 1200,
-    "carrier_rate": 400,
-    "updated_at": "2026-09-18T19:00:18.009944+00:00",
+    "carrier_rate": 450,
+    "updated_at": "2026-09-18T19:50:05.170335+00:00",
     "lane": "RICHMOND VA-BETHESDA MD"
   },
   {
@@ -624,8 +624,8 @@
     "del_hours": "0800",
     "equipment": "Flatbed",
     "weight_lbs": 48000,
-    "carrier_rate": null,
-    "updated_at": "2026-09-18T14:48:35.101049+00:00",
+    "carrier_rate": 1500,
+    "updated_at": "2026-09-18T19:46:11.856747+00:00",
     "lane": "MIAMI FL-CHARLOTTE NC"
   },
   {
