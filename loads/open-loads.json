@@ -46,8 +46,8 @@
     "del_hours": "1130",
     "equipment": "Van",
     "weight_lbs": 13080,
-    "carrier_rate": 3800,
-    "updated_at": "2026-09-18T11:59:31.955024+00:00",
+    "carrier_rate": 4000,
+    "updated_at": "2026-09-18T14:34:39.255870+00:00",
     "lane": "MOUNT STERLING KY-MIRA LOMA CA"
   },
   {
@@ -97,8 +97,8 @@
     "del_hours": "0930",
     "equipment": "Van",
     "weight_lbs": 43500,
-    "carrier_rate": 1300,
-    "updated_at": "2026-09-18T13:42:20.774691+00:00",
+    "carrier_rate": 1400,
+    "updated_at": "2026-09-18T14:33:59.836631+00:00",
     "lane": "WILMINGTON NC-ATLANTA GA"
   },
   {
@@ -406,6 +406,23 @@
     "carrier_rate": 700,
     "updated_at": "2026-09-18T14:17:23.336635+00:00",
     "lane": "BALTIMORE MD-SECAUCUS NJ"
+  },
+  {
+    "pro": "50574",
+    "status": "OPEN",
+    "pu_date": "2026-09-21",
+    "pu_city": "RALEIGH",
+    "pu_state": "NC",
+    "pu_hours": "0800",
+    "del_date": "2026-09-21",
+    "del_city": "ROANOKE",
+    "del_state": "VA",
+    "del_hours": "0800-1500",
+    "equipment": "26' Straight Box Truck",
+    "weight_lbs": 5086,
+    "carrier_rate": 400,
+    "updated_at": "2026-09-18T14:33:00.282705+00:00",
+    "lane": "RALEIGH NC-ROANOKE VA"
   },
   {
     "pro": "50159",
@@ -884,6 +901,23 @@
     "lane": "MONCURE NC-ATLANTA GA"
   },
   {
+    "pro": "50437",
+    "status": "RELEASED",
+    "pu_date": "2026-09-14",
+    "pu_city": "RALEIGH",
+    "pu_state": "NC",
+    "pu_hours": "0900",
+    "del_date": "2026-09-14",
+    "del_city": "ROANOKE",
+    "del_state": "VA",
+    "del_hours": "0800-1500",
+    "equipment": "26' Straight Box Truck",
+    "weight_lbs": 5661,
+    "carrier_rate": 450,
+    "updated_at": "2026-09-15T16:34:29.471991+00:00",
+    "lane": "RALEIGH NC-ROANOKE VA"
+  },
+  {
     "pro": "50301",
     "status": "RELEASED",
     "pu_date": "2026-09-15",
@@ -1169,7 +1203,7 @@
     "equipment": "Van",
     "weight_lbs": 34000,
     "carrier_rate": 600,
-    "updated_at": "2026-09-18T14:30:01.982326+00:00",
+    "updated_at": "2026-09-18T14:30:07.740144+00:00",
     "lane": "MACON GA-CALHOUN GA"
   }
 ]
