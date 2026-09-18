@@ -1004,7 +1004,7 @@
   },
   {
     "pro": "50460",
-    "status": "DELIVERED",
+    "status": "RELEASED",
     "pu_date": "2026-09-15",
     "pu_city": "CUMMING",
     "pu_state": "GA",
@@ -1016,7 +1016,7 @@
     "equipment": "Reefer",
     "weight_lbs": 1800,
     "carrier_rate": 950,
-    "updated_at": "2026-09-16T18:24:28.057279+00:00",
+    "updated_at": "2026-09-18T12:27:07.674522+00:00",
     "lane": "CUMMING GA-CANON GA"
   },
   {
