@@ -1,22 +1,5 @@
 [
   {
-    "pro": "50501",
-    "status": "OPEN",
-    "pu_date": "2026-09-18",
-    "pu_city": "MOUNT STERLING",
-    "pu_state": "KY",
-    "pu_hours": "",
-    "del_date": "2026-09-21",
-    "del_city": "MIRA LOMA",
-    "del_state": "CA",
-    "del_hours": "1130",
-    "equipment": "Van",
-    "weight_lbs": 13080,
-    "carrier_rate": 4550,
-    "updated_at": "2026-09-18T18:44:22.096564+00:00",
-    "lane": "MOUNT STERLING KY-MIRA LOMA CA"
-  },
-  {
     "pro": "50566",
     "status": "OPEN",
     "pu_date": "2026-09-18",
@@ -151,6 +134,23 @@
     "carrier_rate": 1800,
     "updated_at": "2026-09-14T14:57:07.818701+00:00",
     "lane": "GARLAND TX-CALHOUN GA"
+  },
+  {
+    "pro": "50501",
+    "status": "OPEN",
+    "pu_date": "2026-09-21",
+    "pu_city": "MOUNT STERLING",
+    "pu_state": "KY",
+    "pu_hours": "",
+    "del_date": "2026-09-21",
+    "del_city": "MIRA LOMA",
+    "del_state": "CA",
+    "del_hours": "1130",
+    "equipment": "Van",
+    "weight_lbs": 13080,
+    "carrier_rate": 4550,
+    "updated_at": "2026-09-18T19:37:40.225254+00:00",
+    "lane": "MOUNT STERLING KY-MIRA LOMA CA"
   },
   {
     "pro": "50540",
@@ -372,6 +372,23 @@
     "carrier_rate": 1400,
     "updated_at": "2026-09-18T18:54:59.291704+00:00",
     "lane": "COLUMBUS GA-SAINT LOUIS MO"
+  },
+  {
+    "pro": "50584",
+    "status": "OPEN",
+    "pu_date": "2026-09-21",
+    "pu_city": "VILLA RICA",
+    "pu_state": "GA",
+    "pu_hours": "NEEDREADY",
+    "del_date": "2026-09-22",
+    "del_city": "COLLEGE STATION",
+    "del_state": "TX",
+    "del_hours": "APPT ONLY",
+    "equipment": "26' Straight Box Truck",
+    "weight_lbs": 1100,
+    "carrier_rate": 1000,
+    "updated_at": "2026-09-18T19:36:24.306091+00:00",
+    "lane": "VILLA RICA GA-COLLEGE STATION TX"
   },
   {
     "pro": "50159",
@@ -1021,7 +1038,7 @@
   },
   {
     "pro": "50508",
-    "status": "DELIVERED",
+    "status": "RELEASED",
     "pu_date": "2026-09-17",
     "pu_city": "MACON",
     "pu_state": "GA",
@@ -1033,7 +1050,7 @@
     "equipment": "Van",
     "weight_lbs": 34000,
     "carrier_rate": 600,
-    "updated_at": "2026-09-18T19:35:05.718639+00:00",
+    "updated_at": "2026-09-18T19:35:24.682912+00:00",
     "lane": "MACON GA-CALHOUN GA"
   },
   {
