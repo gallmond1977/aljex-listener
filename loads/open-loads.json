@@ -68,23 +68,6 @@
     "lane": "PORT ANGELES WA-MAGNA UT"
   },
   {
-    "pro": "50575",
-    "status": "OPEN",
-    "pu_date": "2026-09-18",
-    "pu_city": "CLARENCE",
-    "pu_state": "NY",
-    "pu_hours": "1100-1600",
-    "del_date": "2026-09-21",
-    "del_city": "BELCAMP",
-    "del_state": "MD",
-    "del_hours": "0700-1300",
-    "equipment": "26' Straight Box Truck",
-    "weight_lbs": 1000,
-    "carrier_rate": 1000,
-    "updated_at": "2026-09-18T16:34:28.250265+00:00",
-    "lane": "CLARENCE NY-BELCAMP MD"
-  },
-  {
     "pro": "50107",
     "status": "OPEN",
     "pu_date": "2026-09-21",
@@ -746,23 +729,6 @@
     "carrier_rate": 600,
     "updated_at": "2026-09-14T14:23:01.867526+00:00",
     "lane": "MACON GA-CALHOUN GA"
-  },
-  {
-    "pro": "50370",
-    "status": "RELEASED",
-    "pu_date": "2026-09-09",
-    "pu_city": "CLARENCE",
-    "pu_state": "NY",
-    "pu_hours": "1330-1600",
-    "del_date": "2026-09-10",
-    "del_city": "BELCAMP",
-    "del_state": "MD",
-    "del_hours": "0700-1300",
-    "equipment": "26' Straight Box Truck",
-    "weight_lbs": 3200,
-    "carrier_rate": 900,
-    "updated_at": "2026-09-14T13:57:36.310473+00:00",
-    "lane": "CLARENCE NY-BELCAMP MD"
   },
   {
     "pro": "50182",
