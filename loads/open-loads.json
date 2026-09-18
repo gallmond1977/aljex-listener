@@ -29,8 +29,8 @@
     "del_hours": "0930",
     "equipment": "Van",
     "weight_lbs": 43500,
-    "carrier_rate": 1400,
-    "updated_at": "2026-09-18T15:38:43.200801+00:00",
+    "carrier_rate": 1500,
+    "updated_at": "2026-09-18T16:42:42.006038+00:00",
     "lane": "WILMINGTON NC-ATLANTA GA"
   },
   {
@@ -98,7 +98,7 @@
     "equipment": "Van",
     "weight_lbs": 3934,
     "carrier_rate": 2200,
-    "updated_at": "2026-09-18T15:22:15.523537+00:00",
+    "updated_at": "2026-09-18T16:45:05.260885+00:00",
     "lane": "WINCHESTER KY-NORTH EAST MD"
   },
   {
@@ -115,7 +115,7 @@
     "equipment": "Reefer",
     "weight_lbs": 41887,
     "carrier_rate": 5000,
-    "updated_at": "2026-09-16T16:04:58.184680+00:00",
+    "updated_at": "2026-09-18T16:44:09.312121+00:00",
     "lane": "GREENWOOD WI-LITHIA SPRINGS GA"
   },
   {
@@ -372,6 +372,23 @@
     "carrier_rate": 400,
     "updated_at": "2026-09-18T14:33:00.282705+00:00",
     "lane": "RALEIGH NC-ROANOKE VA"
+  },
+  {
+    "pro": "50579",
+    "status": "OPEN",
+    "pu_date": "2026-09-21",
+    "pu_city": "VILLA RICA",
+    "pu_state": "GA",
+    "pu_hours": "0800-1500",
+    "del_date": "2026-09-22",
+    "del_city": "BROOKSHIRE",
+    "del_state": "TX",
+    "del_hours": "0800-1500",
+    "equipment": "Van",
+    "weight_lbs": 43500,
+    "carrier_rate": 2100,
+    "updated_at": "2026-09-18T16:44:25.013650+00:00",
+    "lane": "VILLA RICA GA-BROOKSHIRE TX"
   },
   {
     "pro": "50159",
@@ -999,7 +1016,7 @@
     "equipment": "Van Hazmat",
     "weight_lbs": 44900,
     "carrier_rate": 2500,
-    "updated_at": "2026-09-18T16:14:09.325324+00:00",
+    "updated_at": "2026-09-18T16:41:38.920479+00:00",
     "lane": "OAKLAND TN-MONTICELLO IL"
   },
   {
