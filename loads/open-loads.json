@@ -148,8 +148,8 @@
     "del_hours": "0530",
     "equipment": "Van",
     "weight_lbs": 3934,
-    "carrier_rate": null,
-    "updated_at": "2026-09-18T15:11:22.676897+00:00",
+    "carrier_rate": 2200,
+    "updated_at": "2026-09-18T15:18:53.062111+00:00",
     "lane": "WINCHESTER KY-NORTH EAST MD"
   },
   {
