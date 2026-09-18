@@ -374,6 +374,23 @@
     "lane": "UNION CITY GA-SANFORD FL"
   },
   {
+    "pro": "50583",
+    "status": "OPEN",
+    "pu_date": "2026-09-21",
+    "pu_city": "COLUMBUS",
+    "pu_state": "GA",
+    "pu_hours": "0800-1200",
+    "del_date": "2026-09-22",
+    "del_city": "SAINT LOUIS",
+    "del_state": "MO",
+    "del_hours": "0800-1500",
+    "equipment": "Van",
+    "weight_lbs": 21500,
+    "carrier_rate": 1400,
+    "updated_at": "2026-09-18T18:54:59.291704+00:00",
+    "lane": "COLUMBUS GA-SAINT LOUIS MO"
+  },
+  {
     "pro": "50159",
     "status": "OPEN",
     "pu_date": "2026-09-22",
