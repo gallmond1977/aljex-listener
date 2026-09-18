@@ -30,7 +30,7 @@
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 7000,
     "carrier_rate": 1800,
-    "updated_at": "2026-09-17T19:34:28.906327+00:00",
+    "updated_at": "2026-09-18T11:59:18.382914+00:00",
     "lane": "HOUSTON TX-SANFORD FL"
   },
   {
@@ -47,7 +47,7 @@
     "equipment": "Van",
     "weight_lbs": 13080,
     "carrier_rate": 3800,
-    "updated_at": "2026-09-17T16:05:08.229372+00:00",
+    "updated_at": "2026-09-18T11:59:31.955024+00:00",
     "lane": "MOUNT STERLING KY-MIRA LOMA CA"
   },
   {
@@ -1203,7 +1203,7 @@
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 7000,
     "carrier_rate": 2000,
-    "updated_at": "2026-09-17T20:00:26.147628+00:00",
+    "updated_at": "2026-09-18T11:58:56.367320+00:00",
     "lane": "HOUSTON TX-SANFORD FL"
   },
   {
@@ -1220,7 +1220,7 @@
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 7000,
     "carrier_rate": 2000,
-    "updated_at": "2026-09-17T20:02:51.932686+00:00",
+    "updated_at": "2026-09-18T11:58:53.602848+00:00",
     "lane": "HOUSTON TX-SANFORD FL"
   },
   {
