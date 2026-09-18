@@ -68,23 +68,6 @@
     "lane": "JACKSONVILLE FL-MAYNARDVILLE TN"
   },
   {
-    "pro": "50555",
-    "status": "OPEN",
-    "pu_date": "2026-09-18",
-    "pu_city": "CUMMING",
-    "pu_state": "GA",
-    "pu_hours": "1100",
-    "del_date": "2026-09-21",
-    "del_city": "CANON",
-    "del_state": "GA",
-    "del_hours": "0600",
-    "equipment": "Reefer",
-    "weight_lbs": 1800,
-    "carrier_rate": 1200,
-    "updated_at": "2026-09-18T13:20:00.633351+00:00",
-    "lane": "CUMMING GA-CANON GA"
-  },
-  {
     "pro": "50557",
     "status": "OPEN",
     "pu_date": "2026-09-18",
@@ -151,6 +134,40 @@
     "carrier_rate": 3000,
     "updated_at": "2026-09-18T12:52:52.852682+00:00",
     "lane": "PORT ANGELES WA-MAGNA UT"
+  },
+  {
+    "pro": "50568",
+    "status": "OPEN",
+    "pu_date": "2026-09-18",
+    "pu_city": "FORT MYERS",
+    "pu_state": "FL",
+    "pu_hours": "0800-1100",
+    "del_date": "2026-09-18",
+    "del_city": "MIAMI",
+    "del_state": "FL",
+    "del_hours": "0800-1500",
+    "equipment": "Sprinter Van",
+    "weight_lbs": 880,
+    "carrier_rate": 375,
+    "updated_at": "2026-09-18T13:21:15.399797+00:00",
+    "lane": "FORT MYERS FL-MIAMI FL"
+  },
+  {
+    "pro": "50569",
+    "status": "OPEN",
+    "pu_date": "2026-09-18",
+    "pu_city": "VILLA RICA",
+    "pu_state": "GA",
+    "pu_hours": "0800-1500",
+    "del_date": "2026-09-21",
+    "del_city": "SANTA ROSA BEACH",
+    "del_state": "FL",
+    "del_hours": "0600-1400",
+    "equipment": "Flatbed w/ Tarps",
+    "weight_lbs": 45640,
+    "carrier_rate": 1300,
+    "updated_at": "2026-09-18T13:20:38.633729+00:00",
+    "lane": "VILLA RICA GA-SANTA ROSA BEACH FL"
   },
   {
     "pro": "50107",
@@ -765,23 +782,6 @@
     "lane": "MACON GA-CALHOUN GA"
   },
   {
-    "pro": "50333",
-    "status": "RELEASED",
-    "pu_date": "2026-09-08",
-    "pu_city": "CUMMING",
-    "pu_state": "GA",
-    "pu_hours": "2100",
-    "del_date": "2026-09-09",
-    "del_city": "CANON",
-    "del_state": "GA",
-    "del_hours": "0600",
-    "equipment": "Reefer",
-    "weight_lbs": 39600,
-    "carrier_rate": 1000,
-    "updated_at": "2026-09-16T14:16:57.809645+00:00",
-    "lane": "CUMMING GA-CANON GA"
-  },
-  {
     "pro": "50182",
     "status": "RELEASED",
     "pu_date": "2026-09-10",
@@ -848,23 +848,6 @@
     "carrier_rate": 900,
     "updated_at": "2026-09-16T16:44:00.201351+00:00",
     "lane": "MONCURE NC-ATLANTA GA"
-  },
-  {
-    "pro": "50418",
-    "status": "RELEASED",
-    "pu_date": "2026-09-11",
-    "pu_city": "CUMMING",
-    "pu_state": "GA",
-    "pu_hours": "1100",
-    "del_date": "2026-09-14",
-    "del_city": "CANON",
-    "del_state": "GA",
-    "del_hours": "0600",
-    "equipment": "Reefer",
-    "weight_lbs": 39600,
-    "carrier_rate": 1200,
-    "updated_at": "2026-09-15T18:12:37.457461+00:00",
-    "lane": "CUMMING GA-CANON GA"
   },
   {
     "pro": "50404",
@@ -967,23 +950,6 @@
     "carrier_rate": 600,
     "updated_at": "2026-09-17T15:28:02.435115+00:00",
     "lane": "MACON GA-CALHOUN GA"
-  },
-  {
-    "pro": "50460",
-    "status": "RELEASED",
-    "pu_date": "2026-09-15",
-    "pu_city": "CUMMING",
-    "pu_state": "GA",
-    "pu_hours": "2100",
-    "del_date": "2026-09-16",
-    "del_city": "CANON",
-    "del_state": "GA",
-    "del_hours": "0600",
-    "equipment": "Reefer",
-    "weight_lbs": 1800,
-    "carrier_rate": 950,
-    "updated_at": "2026-09-18T12:27:07.674522+00:00",
-    "lane": "CUMMING GA-CANON GA"
   },
   {
     "pro": "50445",
@@ -1120,23 +1086,6 @@
     "carrier_rate": 200,
     "updated_at": "2026-09-18T01:05:40.994790+00:00",
     "lane": "RICHMOND VA-RICHMOND VA"
-  },
-  {
-    "pro": "50528",
-    "status": "RELEASED",
-    "pu_date": "2026-09-17",
-    "pu_city": "CUMMING",
-    "pu_state": "GA",
-    "pu_hours": "2100",
-    "del_date": "2026-09-18",
-    "del_city": "CANON",
-    "del_state": "GA",
-    "del_hours": "1100",
-    "equipment": "Reefer",
-    "weight_lbs": 1800,
-    "carrier_rate": 1000,
-    "updated_at": "2026-09-18T12:49:00.956905+00:00",
-    "lane": "CUMMING GA-CANON GA"
   },
   {
     "pro": "50533",
