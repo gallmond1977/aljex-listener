@@ -153,6 +153,23 @@
     "lane": "COLUMBUS GA-TAMPA FL"
   },
   {
+    "pro": "50566",
+    "status": "OPEN",
+    "pu_date": "2026-09-18",
+    "pu_city": "PORT ANGELES",
+    "pu_state": "WA",
+    "pu_hours": "0800-1500",
+    "del_date": "2026-09-21",
+    "del_city": "MAGNA",
+    "del_state": "UT",
+    "del_hours": "0600-1600",
+    "equipment": "Van",
+    "weight_lbs": 44900,
+    "carrier_rate": 3000,
+    "updated_at": "2026-09-18T12:52:52.852682+00:00",
+    "lane": "PORT ANGELES WA-MAGNA UT"
+  },
+  {
     "pro": "50107",
     "status": "OPEN",
     "pu_date": "2026-09-21",
@@ -833,23 +850,6 @@
     "lane": "COLUMBUS GA-TAMPA FL"
   },
   {
-    "pro": "50388",
-    "status": "RELEASED",
-    "pu_date": "2026-09-10",
-    "pu_city": "CUMMING",
-    "pu_state": "GA",
-    "pu_hours": "2100",
-    "del_date": "2026-09-11",
-    "del_city": "CANON",
-    "del_state": "GA",
-    "del_hours": "1100",
-    "equipment": "Reefer",
-    "weight_lbs": 39600,
-    "carrier_rate": 900,
-    "updated_at": "2026-09-11T12:52:08.653051+00:00",
-    "lane": "CUMMING GA-CANON GA"
-  },
-  {
     "pro": "50406",
     "status": "RELEASED",
     "pu_date": "2026-09-11",
@@ -1191,7 +1191,7 @@
   },
   {
     "pro": "50464",
-    "status": "COVERED",
+    "status": "DISPATCHED",
     "pu_date": "2026-09-18",
     "pu_city": "HOUSTON",
     "pu_state": "TX",
@@ -1203,7 +1203,7 @@
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 7000,
     "carrier_rate": 2000,
-    "updated_at": "2026-09-18T12:38:51.038731+00:00",
+    "updated_at": "2026-09-18T12:51:30.504883+00:00",
     "lane": "HOUSTON TX-SANFORD FL"
   },
   {
