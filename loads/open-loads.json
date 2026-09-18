@@ -556,8 +556,8 @@
     "del_hours": "0800-0900",
     "equipment": "Van Hazmat",
     "weight_lbs": 44900,
-    "carrier_rate": null,
-    "updated_at": "2026-09-18T15:57:26.745306+00:00",
+    "carrier_rate": 2000,
+    "updated_at": "2026-09-18T16:10:39.414674+00:00",
     "lane": "OAKLAND TN-MONTICELLO IL"
   },
   {
@@ -1050,7 +1050,7 @@
     "equipment": "Van Hazmat",
     "weight_lbs": 44900,
     "carrier_rate": 2500,
-    "updated_at": "2026-09-18T16:09:34.676511+00:00",
+    "updated_at": "2026-09-18T16:14:09.325324+00:00",
     "lane": "OAKLAND TN-MONTICELLO IL"
   },
   {
