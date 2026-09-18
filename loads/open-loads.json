@@ -298,11 +298,11 @@
     "del_date": "2026-09-21",
     "del_city": "BETHESDA",
     "del_state": "MD",
-    "del_hours": "CALL!",
+    "del_hours": "0700-1200",
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 1200,
     "carrier_rate": 350,
-    "updated_at": "2026-09-18T14:44:22.176523+00:00",
+    "updated_at": "2026-09-18T14:45:35.909313+00:00",
     "lane": "RICHMOND VA-BETHESDA MD"
   },
   {
@@ -617,7 +617,7 @@
     "pu_date": "2026-09-28",
     "pu_city": "MIAMI",
     "pu_state": "FL",
-    "pu_hours": "",
+    "pu_hours": "1400",
     "del_date": "2026-09-30",
     "del_city": "CHARLOTTE",
     "del_state": "NC",
@@ -625,7 +625,7 @@
     "equipment": "Flatbed",
     "weight_lbs": 48000,
     "carrier_rate": null,
-    "updated_at": "2026-09-18T11:36:48.359628+00:00",
+    "updated_at": "2026-09-18T14:48:35.101049+00:00",
     "lane": "MIAMI FL-CHARLOTTE NC"
   },
   {
