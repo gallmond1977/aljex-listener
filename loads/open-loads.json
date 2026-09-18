@@ -102,6 +102,23 @@
     "lane": "PORT ANGELES WA-MAGNA UT"
   },
   {
+    "pro": "50575",
+    "status": "OPEN",
+    "pu_date": "2026-09-18",
+    "pu_city": "CLARENCE",
+    "pu_state": "NY",
+    "pu_hours": "1100-1600",
+    "del_date": "2026-09-21",
+    "del_city": "BELCAMP",
+    "del_state": "MD",
+    "del_hours": "0700-1300",
+    "equipment": "26' Straight Box Truck",
+    "weight_lbs": 1000,
+    "carrier_rate": 800,
+    "updated_at": "2026-09-18T15:03:28.541136+00:00",
+    "lane": "CLARENCE NY-BELCAMP MD"
+  },
+  {
     "pro": "50107",
     "status": "OPEN",
     "pu_date": "2026-09-21",
@@ -782,6 +799,23 @@
     "lane": "MACON GA-CALHOUN GA"
   },
   {
+    "pro": "50370",
+    "status": "RELEASED",
+    "pu_date": "2026-09-09",
+    "pu_city": "CLARENCE",
+    "pu_state": "NY",
+    "pu_hours": "1330-1600",
+    "del_date": "2026-09-10",
+    "del_city": "BELCAMP",
+    "del_state": "MD",
+    "del_hours": "0700-1300",
+    "equipment": "26' Straight Box Truck",
+    "weight_lbs": 3200,
+    "carrier_rate": 900,
+    "updated_at": "2026-09-14T13:57:36.310473+00:00",
+    "lane": "CLARENCE NY-BELCAMP MD"
+  },
+  {
     "pro": "50182",
     "status": "RELEASED",
     "pu_date": "2026-09-10",
@@ -1106,7 +1140,7 @@
   },
   {
     "pro": "50533",
-    "status": "CONSIGNEE",
+    "status": "DELIVERED",
     "pu_date": "2026-09-17",
     "pu_city": "MONCURE",
     "pu_state": "NC",
@@ -1118,7 +1152,7 @@
     "equipment": "Van",
     "weight_lbs": 44000,
     "carrier_rate": 900,
-    "updated_at": "2026-09-18T14:06:25.940818+00:00",
+    "updated_at": "2026-09-18T15:04:36.692983+00:00",
     "lane": "MONCURE NC-ATLANTA GA"
   },
   {
