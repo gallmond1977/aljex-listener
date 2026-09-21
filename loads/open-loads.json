@@ -17,23 +17,6 @@
     "lane": "COLUMBUS GA-VAN WERT OH"
   },
   {
-    "pro": "50328",
-    "status": "OPEN",
-    "pu_date": "2026-09-21",
-    "pu_city": "WINCHESTER",
-    "pu_state": "KY",
-    "pu_hours": "0800-1500",
-    "del_date": "2026-09-22",
-    "del_city": "NORTH EAST",
-    "del_state": "MD",
-    "del_hours": "0530",
-    "equipment": "Van",
-    "weight_lbs": 3934,
-    "carrier_rate": 2200,
-    "updated_at": "2026-09-21T12:06:19.212944+00:00",
-    "lane": "WINCHESTER KY-NORTH EAST MD"
-  },
-  {
     "pro": "50378",
     "status": "OPEN",
     "pu_date": "2026-09-21",
