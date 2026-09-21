@@ -1,39 +1,5 @@
 [
   {
-    "pro": "50580",
-    "status": "OPEN",
-    "pu_date": "2026-09-22",
-    "pu_city": "CREWE",
-    "pu_state": "VA",
-    "pu_hours": "1000-1500",
-    "del_date": "2026-09-23",
-    "del_city": "SUMMERVILLE",
-    "del_state": "SC",
-    "del_hours": "0700-1500",
-    "equipment": "Flatbed w/ Tarps",
-    "weight_lbs": 42000,
-    "carrier_rate": 1300,
-    "updated_at": "2026-09-18T18:12:33.491573+00:00",
-    "lane": "CREWE VA-SUMMERVILLE SC"
-  },
-  {
-    "pro": "50584",
-    "status": "OPEN",
-    "pu_date": "2026-09-22",
-    "pu_city": "VILLA RICA",
-    "pu_state": "GA",
-    "pu_hours": "0800-1500",
-    "del_date": "2026-09-23",
-    "del_city": "COLLEGE STATION",
-    "del_state": "TX",
-    "del_hours": "0830-1200",
-    "equipment": "26' Straight Box Truck",
-    "weight_lbs": 1100,
-    "carrier_rate": 1000,
-    "updated_at": "2026-09-21T19:00:38.626607+00:00",
-    "lane": "VILLA RICA GA-COLLEGE STATION TX"
-  },
-  {
     "pro": "50107",
     "status": "OPEN",
     "pu_date": "2026-09-23",
@@ -166,7 +132,7 @@
     "equipment": "Flatbed",
     "weight_lbs": 48000,
     "carrier_rate": 2300,
-    "updated_at": "2026-09-21T19:29:37.815120+00:00",
+    "updated_at": "2026-09-21T19:34:55.393144+00:00",
     "lane": "ALLIANCE OH-MACON GA"
   },
   {
@@ -508,23 +474,6 @@
     "carrier_rate": 2500,
     "updated_at": "2026-09-21T15:50:47.628972+00:00",
     "lane": "OAKLAND TN-MONTICELLO IL"
-  },
-  {
-    "pro": "50558",
-    "status": "LOADED",
-    "pu_date": "2026-09-21",
-    "pu_city": "CREWE",
-    "pu_state": "VA",
-    "pu_hours": "1000-1500",
-    "del_date": "2026-09-22",
-    "del_city": "SUMMERVILLE",
-    "del_state": "SC",
-    "del_hours": "0700-1500",
-    "equipment": "Flatbed w/ Tarps",
-    "weight_lbs": 42000,
-    "carrier_rate": 1400,
-    "updated_at": "2026-09-21T17:52:52.846406+00:00",
-    "lane": "CREWE VA-SUMMERVILLE SC"
   },
   {
     "pro": "50581",
