@@ -1,22 +1,5 @@
 [
   {
-    "pro": "50107",
-    "status": "OPEN",
-    "pu_date": "2026-09-21",
-    "pu_city": "COLUMBUS",
-    "pu_state": "GA",
-    "pu_hours": "",
-    "del_date": "2026-09-22",
-    "del_city": "VAN WERT",
-    "del_state": "OH",
-    "del_hours": "0900",
-    "equipment": "Van",
-    "weight_lbs": 11100,
-    "carrier_rate": 1500,
-    "updated_at": "2026-08-25T12:19:44.843267+00:00",
-    "lane": "COLUMBUS GA-VAN WERT OH"
-  },
-  {
     "pro": "50378",
     "status": "OPEN",
     "pu_date": "2026-09-21",
@@ -321,6 +304,23 @@
     "carrier_rate": 1000,
     "updated_at": "2026-09-18T19:36:24.306091+00:00",
     "lane": "VILLA RICA GA-COLLEGE STATION TX"
+  },
+  {
+    "pro": "50107",
+    "status": "OPEN",
+    "pu_date": "2026-09-22",
+    "pu_city": "COLUMBUS",
+    "pu_state": "GA",
+    "pu_hours": "",
+    "del_date": "2026-09-22",
+    "del_city": "VAN WERT",
+    "del_state": "OH",
+    "del_hours": "0900",
+    "equipment": "Van",
+    "weight_lbs": 11100,
+    "carrier_rate": 1500,
+    "updated_at": "2026-09-21T12:31:43.445342+00:00",
+    "lane": "COLUMBUS GA-VAN WERT OH"
   },
   {
     "pro": "50159",
