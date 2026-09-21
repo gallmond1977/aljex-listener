@@ -198,10 +198,27 @@
     "del_state": "GA",
     "del_hours": "0800-1600",
     "equipment": "Flatbed",
-    "weight_lbs": 22000,
+    "weight_lbs": 18900,
     "carrier_rate": 2800,
-    "updated_at": "2026-09-21T13:30:10.672567+00:00",
+    "updated_at": "2026-09-21T13:34:08.956216+00:00",
     "lane": "LINCOLN NE-AUGUSTA GA"
+  },
+  {
+    "pro": "50587",
+    "status": "OPEN",
+    "pu_date": "2026-09-21",
+    "pu_city": "COLUMBUS",
+    "pu_state": "GA",
+    "pu_hours": "0800-1500",
+    "del_date": "2026-09-22",
+    "del_city": "CLIFTON",
+    "del_state": "NJ",
+    "del_hours": "0700-1500",
+    "equipment": "Van",
+    "weight_lbs": 36914,
+    "carrier_rate": 2600,
+    "updated_at": "2026-09-21T13:32:00.098781+00:00",
+    "lane": "COLUMBUS GA-CLIFTON NJ"
   },
   {
     "pro": "50107",
@@ -693,7 +710,7 @@
     "equipment": "Flatbed w/ Tarps",
     "weight_lbs": 42000,
     "carrier_rate": 1400,
-    "updated_at": "2026-09-21T12:55:09.001354+00:00",
+    "updated_at": "2026-09-21T13:32:41.816777+00:00",
     "lane": "CREWE VA-SUMMERVILLE SC"
   },
   {
