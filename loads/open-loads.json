@@ -47,7 +47,7 @@
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 5500,
     "carrier_rate": 700,
-    "updated_at": "2026-09-18T19:29:16.961228+00:00",
+    "updated_at": "2026-09-21T16:23:46.421683+00:00",
     "lane": "BALTIMORE MD-SECAUCUS NJ"
   },
   {
@@ -115,7 +115,7 @@
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 1000,
     "carrier_rate": 200,
-    "updated_at": "2026-09-21T16:17:18.233309+00:00",
+    "updated_at": "2026-09-21T16:22:56.743829+00:00",
     "lane": "RICHMOND VA-CHESTER VA"
   },
   {
@@ -202,6 +202,40 @@
     "carrier_rate": null,
     "updated_at": "2026-09-18T11:38:39.930295+00:00",
     "lane": "ATLANTA GA-ATLANTA GA"
+  },
+  {
+    "pro": "50595",
+    "status": "OPEN",
+    "pu_date": "2026-09-25",
+    "pu_city": "ATLANTA",
+    "pu_state": "GA",
+    "pu_hours": "REQ",
+    "del_date": "2026-09-25",
+    "del_city": "DECATUR",
+    "del_state": "GA",
+    "del_hours": "NEEDED",
+    "equipment": "Reefer",
+    "weight_lbs": 21264,
+    "carrier_rate": 450,
+    "updated_at": "2026-09-21T16:24:58.835918+00:00",
+    "lane": "ATLANTA GA-DECATUR GA"
+  },
+  {
+    "pro": "50596",
+    "status": "OPEN",
+    "pu_date": "2026-09-25",
+    "pu_city": "RICHMOND",
+    "pu_state": "VA",
+    "pu_hours": "0800-0900",
+    "del_date": "2026-09-25",
+    "del_city": "KESWICK",
+    "del_state": "VA",
+    "del_hours": "CALL!",
+    "equipment": "26' Straight Box Truck",
+    "weight_lbs": 4300,
+    "carrier_rate": 300,
+    "updated_at": "2026-09-21T16:21:51.514006+00:00",
+    "lane": "RICHMOND VA-KESWICK VA"
   },
   {
     "pro": "50466",
@@ -476,6 +510,23 @@
     "lane": "OAKLAND TN-MONTICELLO IL"
   },
   {
+    "pro": "50470",
+    "status": "RELEASED",
+    "pu_date": "2026-09-16",
+    "pu_city": "RICHMOND",
+    "pu_state": "VA",
+    "pu_hours": "0630-0700",
+    "del_date": "2026-09-16",
+    "del_city": "KESWICK",
+    "del_state": "VA",
+    "del_hours": "0700-1200",
+    "equipment": "26' Straight Box Truck",
+    "weight_lbs": 5000,
+    "carrier_rate": 300,
+    "updated_at": "2026-09-21T14:16:26.717136+00:00",
+    "lane": "RICHMOND VA-KESWICK VA"
+  },
+  {
     "pro": "50527",
     "status": "RELEASED",
     "pu_date": "2026-09-16",
@@ -491,6 +542,23 @@
     "carrier_rate": 2800,
     "updated_at": "2026-09-18T00:14:10.319351+00:00",
     "lane": "BENSENVILLE IL-BELCAMP MD"
+  },
+  {
+    "pro": "50431",
+    "status": "RELEASED",
+    "pu_date": "2026-09-17",
+    "pu_city": "ATLANTA",
+    "pu_state": "GA",
+    "pu_hours": "0700",
+    "del_date": "2026-09-17",
+    "del_city": "DECATUR",
+    "del_state": "GA",
+    "del_hours": "1000",
+    "equipment": "Reefer",
+    "weight_lbs": 21264,
+    "carrier_rate": 450,
+    "updated_at": "2026-09-18T12:31:08.022133+00:00",
+    "lane": "ATLANTA GA-DECATUR GA"
   },
   {
     "pro": "50516",
