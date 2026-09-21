@@ -272,6 +272,40 @@
     "lane": "WINCHESTER KY-ST CHARLES ON"
   },
   {
+    "pro": "50600",
+    "status": "OPEN",
+    "pu_date": "2026-09-28",
+    "pu_city": "AUBURN",
+    "pu_state": "AL",
+    "pu_hours": "0800-1500",
+    "del_date": "2026-09-29",
+    "del_city": "LA CROSSE",
+    "del_state": "WI",
+    "del_hours": "0800-1500",
+    "equipment": "Van",
+    "weight_lbs": 42500,
+    "carrier_rate": null,
+    "updated_at": "2026-09-21T17:39:50.209674+00:00",
+    "lane": "AUBURN AL-LA CROSSE WI"
+  },
+  {
+    "pro": "50601",
+    "status": "OPEN",
+    "pu_date": "2026-09-28",
+    "pu_city": "AUBURN",
+    "pu_state": "AL",
+    "pu_hours": "0800-1500",
+    "del_date": "2026-09-29",
+    "del_city": "LA CROSSE",
+    "del_state": "WI",
+    "del_hours": "0800-1500",
+    "equipment": "Van",
+    "weight_lbs": 42500,
+    "carrier_rate": null,
+    "updated_at": "2026-09-21T17:40:08.228328+00:00",
+    "lane": "AUBURN AL-LA CROSSE WI"
+  },
+  {
     "pro": "50405",
     "status": "OPEN",
     "pu_date": "2026-09-30",
@@ -661,5 +695,22 @@
     "carrier_rate": 1400,
     "updated_at": "2026-09-21T15:30:47.481771+00:00",
     "lane": "CREWE VA-SUMMERVILLE SC"
+  },
+  {
+    "pro": "50581",
+    "status": "DISPATCHED",
+    "pu_date": "2026-09-21",
+    "pu_city": "AUBURN",
+    "pu_state": "AL",
+    "pu_hours": "0800-1500",
+    "del_date": "2026-09-22",
+    "del_city": "LA CROSSE",
+    "del_state": "WI",
+    "del_hours": "0800-1500",
+    "equipment": "Van",
+    "weight_lbs": 42500,
+    "carrier_rate": 2300,
+    "updated_at": "2026-09-21T17:37:27.456223+00:00",
+    "lane": "AUBURN AL-LA CROSSE WI"
   }
 ]
