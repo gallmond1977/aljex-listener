@@ -1,5 +1,22 @@
 [
   {
+    "pro": "50603",
+    "status": "OPEN",
+    "pu_date": "2026-09-22",
+    "pu_city": "BROOKSVILLE",
+    "pu_state": "FL",
+    "pu_hours": "0800-0900",
+    "del_date": "",
+    "del_city": "PORT SAINT LUCIE",
+    "del_state": "FL",
+    "del_hours": "0600-1400",
+    "equipment": "26' Straight Box Truck",
+    "weight_lbs": 5000,
+    "carrier_rate": 1300,
+    "updated_at": "2026-09-21T20:00:34.079096+00:00",
+    "lane": "BROOKSVILLE FL-PORT SAINT LUCIE FL"
+  },
+  {
     "pro": "50107",
     "status": "OPEN",
     "pu_date": "2026-09-23",
