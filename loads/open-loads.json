@@ -194,14 +194,14 @@
     "pu_state": "GA",
     "pu_hours": "1530",
     "del_date": "2026-09-25",
-    "del_city": "ATLANTA",
+    "del_city": "FOREST PARK",
     "del_state": "GA",
     "del_hours": "2200",
     "equipment": "Reefer",
     "weight_lbs": 33095,
     "carrier_rate": null,
-    "updated_at": "2026-09-18T11:38:39.930295+00:00",
-    "lane": "ATLANTA GA-ATLANTA GA"
+    "updated_at": "2026-09-21T16:59:29.151690+00:00",
+    "lane": "ATLANTA GA-FOREST PARK GA"
   },
   {
     "pro": "50595",
