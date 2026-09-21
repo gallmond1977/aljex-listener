@@ -136,23 +136,6 @@
     "lane": "ATLANTA GA-FOREST PARK GA"
   },
   {
-    "pro": "50595",
-    "status": "OPEN",
-    "pu_date": "2026-09-25",
-    "pu_city": "ATLANTA",
-    "pu_state": "GA",
-    "pu_hours": "0700",
-    "del_date": "2026-09-25",
-    "del_city": "DECATUR",
-    "del_state": "GA",
-    "del_hours": "NEEDED",
-    "equipment": "Reefer",
-    "weight_lbs": 21264,
-    "carrier_rate": 450,
-    "updated_at": "2026-09-21T16:44:06.814709+00:00",
-    "lane": "ATLANTA GA-DECATUR GA"
-  },
-  {
     "pro": "50596",
     "status": "OPEN",
     "pu_date": "2026-09-25",
@@ -474,23 +457,6 @@
     "carrier_rate": 2800,
     "updated_at": "2026-09-18T00:14:10.319351+00:00",
     "lane": "BENSENVILLE IL-BELCAMP MD"
-  },
-  {
-    "pro": "50431",
-    "status": "RELEASED",
-    "pu_date": "2026-09-17",
-    "pu_city": "ATLANTA",
-    "pu_state": "GA",
-    "pu_hours": "0700",
-    "del_date": "2026-09-17",
-    "del_city": "DECATUR",
-    "del_state": "GA",
-    "del_hours": "1000",
-    "equipment": "Reefer",
-    "weight_lbs": 21264,
-    "carrier_rate": 450,
-    "updated_at": "2026-09-18T12:31:08.022133+00:00",
-    "lane": "ATLANTA GA-DECATUR GA"
   },
   {
     "pro": "50516",
