@@ -47,8 +47,25 @@
     "equipment": "Van",
     "weight_lbs": 42500,
     "carrier_rate": 2300,
-    "updated_at": "2026-09-21T15:26:16.208232+00:00",
+    "updated_at": "2026-09-21T15:40:12.063807+00:00",
     "lane": "AUBURN AL-LA CROSSE WI"
+  },
+  {
+    "pro": "50591",
+    "status": "OPEN",
+    "pu_date": "2026-09-21",
+    "pu_city": "BUENA VISTA",
+    "pu_state": "GA",
+    "pu_hours": "1200-1600",
+    "del_date": "2026-09-22",
+    "del_city": "INDIAN TRAIL",
+    "del_state": "NC",
+    "del_hours": "0700-1500",
+    "equipment": "Van",
+    "weight_lbs": 43500,
+    "carrier_rate": 1000,
+    "updated_at": "2026-09-21T15:37:47.906960+00:00",
+    "lane": "BUENA VISTA GA-INDIAN TRAIL NC"
   },
   {
     "pro": "50107",
@@ -545,7 +562,7 @@
   },
   {
     "pro": "50576",
-    "status": "CONSIGNEE",
+    "status": "DELIVERED",
     "pu_date": "2026-09-18",
     "pu_city": "OAKLAND",
     "pu_state": "TN",
@@ -557,7 +574,7 @@
     "equipment": "Van Hazmat",
     "weight_lbs": 44900,
     "carrier_rate": 2500,
-    "updated_at": "2026-09-21T13:48:07.508486+00:00",
+    "updated_at": "2026-09-21T15:38:57.667302+00:00",
     "lane": "OAKLAND TN-MONTICELLO IL"
   },
   {
