@@ -34,23 +34,6 @@
     "lane": "GREENWOOD WI-DALLAS TX"
   },
   {
-    "pro": "50380",
-    "status": "OPEN",
-    "pu_date": "2026-09-21",
-    "pu_city": "ANNISTON",
-    "pu_state": "AL",
-    "pu_hours": "0700-1200",
-    "del_date": "2026-09-22",
-    "del_city": "CRESTWOOD",
-    "del_state": "KY",
-    "del_hours": "0900",
-    "equipment": "26' Straight Box Truck",
-    "weight_lbs": 8000,
-    "carrier_rate": 700,
-    "updated_at": "2026-09-21T13:48:37.799636+00:00",
-    "lane": "ANNISTON AL-CRESTWOOD KY"
-  },
-  {
     "pro": "50422",
     "status": "OPEN",
     "pu_date": "2026-09-21",
@@ -627,23 +610,6 @@
     "carrier_rate": 2500,
     "updated_at": "2026-09-21T13:48:07.508486+00:00",
     "lane": "OAKLAND TN-MONTICELLO IL"
-  },
-  {
-    "pro": "50540",
-    "status": "COVERED",
-    "pu_date": "2026-09-21",
-    "pu_city": "ANNISTON",
-    "pu_state": "AL",
-    "pu_hours": "0700-1200",
-    "del_date": "2026-09-22",
-    "del_city": "CRESTWOOD",
-    "del_state": "KY",
-    "del_hours": "0900",
-    "equipment": "26' Straight Box Truck",
-    "weight_lbs": 8000,
-    "carrier_rate": 800,
-    "updated_at": "2026-09-21T13:43:03.305292+00:00",
-    "lane": "ANNISTON AL-CRESTWOOD KY"
   },
   {
     "pro": "50558",
