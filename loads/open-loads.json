@@ -80,8 +80,8 @@
     "del_hours": "0800-1500",
     "equipment": "Van",
     "weight_lbs": 43500,
-    "carrier_rate": 2300,
-    "updated_at": "2026-09-21T14:30:27.203117+00:00",
+    "carrier_rate": 2500,
+    "updated_at": "2026-09-21T14:50:59.281326+00:00",
     "lane": "VILLA RICA GA-BROOKSHIRE TX"
   },
   {
@@ -98,7 +98,7 @@
     "equipment": "Van",
     "weight_lbs": 42500,
     "carrier_rate": 2300,
-    "updated_at": "2026-09-21T14:46:42.557931+00:00",
+    "updated_at": "2026-09-21T14:52:24.516182+00:00",
     "lane": "AUBURN AL-LA CROSSE WI"
   },
   {
@@ -379,15 +379,15 @@
     "pu_date": "2026-09-28",
     "pu_city": "WINCHESTER",
     "pu_state": "KY",
-    "pu_hours": "0800-1400",
+    "pu_hours": "0800-1500",
     "del_date": "2026-09-30",
     "del_city": "ST CHARLES",
     "del_state": "ON",
     "del_hours": "",
     "equipment": "Van",
-    "weight_lbs": 972,
+    "weight_lbs": 5000,
     "carrier_rate": 1545,
-    "updated_at": "2026-09-21T14:49:25.786153+00:00",
+    "updated_at": "2026-09-21T14:54:26.764535+00:00",
     "lane": "WINCHESTER KY-ST CHARLES ON"
   },
   {
