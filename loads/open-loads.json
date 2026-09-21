@@ -97,8 +97,8 @@
     "del_hours": "0800-1500",
     "equipment": "Van",
     "weight_lbs": 42500,
-    "carrier_rate": 2000,
-    "updated_at": "2026-09-18T18:43:59.857890+00:00",
+    "carrier_rate": 2300,
+    "updated_at": "2026-09-21T14:44:19.932811+00:00",
     "lane": "AUBURN AL-LA CROSSE WI"
   },
   {
@@ -387,7 +387,7 @@
     "equipment": "Van",
     "weight_lbs": 972,
     "carrier_rate": 1545,
-    "updated_at": "2026-09-21T14:39:40.514396+00:00",
+    "updated_at": "2026-09-21T14:40:42.957970+00:00",
     "lane": "WINCHESTER KY-HUNTSVILLE ON"
   },
   {
@@ -642,7 +642,7 @@
     "equipment": "Flatbed w/ Tarps",
     "weight_lbs": 42000,
     "carrier_rate": 1400,
-    "updated_at": "2026-09-21T13:32:41.816777+00:00",
+    "updated_at": "2026-09-21T14:41:21.758488+00:00",
     "lane": "CREWE VA-SUMMERVILLE SC"
   },
   {
