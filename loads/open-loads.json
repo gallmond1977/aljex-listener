@@ -85,23 +85,6 @@
     "lane": "MORROW GA-LEESBURG GA"
   },
   {
-    "pro": "50594",
-    "status": "OPEN",
-    "pu_date": "2026-09-22",
-    "pu_city": "RICHMOND",
-    "pu_state": "VA",
-    "pu_hours": "0800",
-    "del_date": "2026-09-22",
-    "del_city": "CHESTER",
-    "del_state": "VA",
-    "del_hours": "CALL!",
-    "equipment": "26' Straight Box Truck",
-    "weight_lbs": 1000,
-    "carrier_rate": 200,
-    "updated_at": "2026-09-21T16:22:56.743829+00:00",
-    "lane": "RICHMOND VA-CHESTER VA"
-  },
-  {
     "pro": "50599",
     "status": "OPEN",
     "pu_date": "2026-09-22",
