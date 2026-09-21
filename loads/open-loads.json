@@ -136,23 +136,6 @@
     "lane": "VILLA RICA GA-COLLEGE STATION TX"
   },
   {
-    "pro": "50587",
-    "status": "OPEN",
-    "pu_date": "2026-09-21",
-    "pu_city": "COLUMBUS",
-    "pu_state": "GA",
-    "pu_hours": "0800-1500",
-    "del_date": "2026-09-22",
-    "del_city": "CLIFTON",
-    "del_state": "NJ",
-    "del_hours": "0700-1500",
-    "equipment": "Van",
-    "weight_lbs": 36914,
-    "carrier_rate": 2600,
-    "updated_at": "2026-09-21T13:37:01.247931+00:00",
-    "lane": "COLUMBUS GA-CLIFTON NJ"
-  },
-  {
     "pro": "50107",
     "status": "OPEN",
     "pu_date": "2026-09-22",
