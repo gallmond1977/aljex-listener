@@ -47,7 +47,7 @@
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 5500,
     "carrier_rate": 400,
-    "updated_at": "2026-09-21T16:43:33.595647+00:00",
+    "updated_at": "2026-09-21T16:47:42.708207+00:00",
     "lane": "BALTIMORE MD-SECAUCUS NJ"
   },
   {
@@ -304,6 +304,23 @@
     "carrier_rate": 1400,
     "updated_at": "2026-09-10T18:57:31.885557+00:00",
     "lane": "DALLAS NC-MUSCLE SHOALS AL"
+  },
+  {
+    "pro": "50598",
+    "status": "OPEN",
+    "pu_date": "2026-09-30",
+    "pu_city": "ATLANTA",
+    "pu_state": "GA",
+    "pu_hours": "",
+    "del_date": "2026-09-30",
+    "del_city": "ATLANTA",
+    "del_state": "GA",
+    "del_hours": "",
+    "equipment": "Reefer",
+    "weight_lbs": 33095,
+    "carrier_rate": null,
+    "updated_at": "2026-09-21T16:47:56.933691+00:00",
+    "lane": "ATLANTA GA-ATLANTA GA"
   },
   {
     "pro": "50082",
