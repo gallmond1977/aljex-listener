@@ -30,7 +30,7 @@
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 5500,
     "carrier_rate": 400,
-    "updated_at": "2026-09-21T16:53:33.129928+00:00",
+    "updated_at": "2026-09-21T17:02:19.259047+00:00",
     "lane": "BALTIMORE MD-SECAUCUS NJ"
   },
   {
@@ -200,7 +200,7 @@
     "equipment": "Reefer",
     "weight_lbs": 33095,
     "carrier_rate": null,
-    "updated_at": "2026-09-21T16:59:29.151690+00:00",
+    "updated_at": "2026-09-21T17:02:34.318832+00:00",
     "lane": "ATLANTA GA-FOREST PARK GA"
   },
   {
@@ -296,14 +296,14 @@
     "pu_state": "GA",
     "pu_hours": "",
     "del_date": "2026-09-30",
-    "del_city": "ATLANTA",
+    "del_city": "FOREST PARK",
     "del_state": "GA",
     "del_hours": "REQ",
     "equipment": "Reefer",
     "weight_lbs": 33095,
     "carrier_rate": null,
-    "updated_at": "2026-09-21T16:51:54.102226+00:00",
-    "lane": "ATLANTA GA-ATLANTA GA"
+    "updated_at": "2026-09-21T17:03:15.669664+00:00",
+    "lane": "ATLANTA GA-FOREST PARK GA"
   },
   {
     "pro": "50082",
