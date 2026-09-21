@@ -51,23 +51,6 @@
     "lane": "AUBURN AL-LA CROSSE WI"
   },
   {
-    "pro": "50588",
-    "status": "OPEN",
-    "pu_date": "2026-09-21",
-    "pu_city": "ALPHARETTA",
-    "pu_state": "GA",
-    "pu_hours": "1200-1600",
-    "del_date": "2026-09-22",
-    "del_city": "URBANDALE",
-    "del_state": "IA",
-    "del_hours": "0700-1500",
-    "equipment": "Flatbed w/ Tarps",
-    "weight_lbs": 42000,
-    "carrier_rate": 3800,
-    "updated_at": "2026-09-21T15:11:44.288181+00:00",
-    "lane": "ALPHARETTA GA-URBANDALE IA"
-  },
-  {
     "pro": "50107",
     "status": "OPEN",
     "pu_date": "2026-09-22",
@@ -579,7 +562,7 @@
   },
   {
     "pro": "50558",
-    "status": "DISPATCHED",
+    "status": "PICKUP",
     "pu_date": "2026-09-21",
     "pu_city": "CREWE",
     "pu_state": "VA",
@@ -591,7 +574,7 @@
     "equipment": "Flatbed w/ Tarps",
     "weight_lbs": 42000,
     "carrier_rate": 1400,
-    "updated_at": "2026-09-21T15:28:06.277413+00:00",
+    "updated_at": "2026-09-21T15:30:47.481771+00:00",
     "lane": "CREWE VA-SUMMERVILLE SC"
   },
   {
