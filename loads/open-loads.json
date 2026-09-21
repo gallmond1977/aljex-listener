@@ -46,8 +46,8 @@
     "del_hours": "0900",
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 8000,
-    "carrier_rate": 650,
-    "updated_at": "2026-09-16T14:00:25.210306+00:00",
+    "carrier_rate": 700,
+    "updated_at": "2026-09-21T13:05:47.840986+00:00",
     "lane": "ANNISTON AL-CRESTWOOD KY"
   },
   {
@@ -97,8 +97,8 @@
     "del_hours": "0900",
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 8000,
-    "carrier_rate": 650,
-    "updated_at": "2026-09-18T17:28:12.908548+00:00",
+    "carrier_rate": 700,
+    "updated_at": "2026-09-21T13:08:17.605492+00:00",
     "lane": "ANNISTON AL-CRESTWOOD KY"
   },
   {
@@ -151,23 +151,6 @@
     "carrier_rate": 1100,
     "updated_at": "2026-09-18T18:27:45.120737+00:00",
     "lane": "WILMINGTON NC-ATLANTA GA"
-  },
-  {
-    "pro": "50566",
-    "status": "OPEN",
-    "pu_date": "2026-09-21",
-    "pu_city": "PORT ANGELES",
-    "pu_state": "WA",
-    "pu_hours": "0800-1500",
-    "del_date": "2026-09-21",
-    "del_city": "MAGNA",
-    "del_state": "UT",
-    "del_hours": "0600-1600",
-    "equipment": "Van",
-    "weight_lbs": 44900,
-    "carrier_rate": 3400,
-    "updated_at": "2026-09-18T19:54:59.650261+00:00",
-    "lane": "PORT ANGELES WA-MAGNA UT"
   },
   {
     "pro": "50579",
