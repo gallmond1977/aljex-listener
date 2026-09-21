@@ -13,7 +13,7 @@
     "equipment": "Reefer",
     "weight_lbs": 41887,
     "carrier_rate": 5200,
-    "updated_at": "2026-09-21T12:59:03.995454+00:00",
+    "updated_at": "2026-09-21T14:19:11.614430+00:00",
     "lane": "GREENWOOD WI-LITHIA SPRINGS GA"
   },
   {
@@ -29,8 +29,8 @@
     "del_hours": "1800",
     "equipment": "Reefer",
     "weight_lbs": 41887,
-    "carrier_rate": 4200,
-    "updated_at": "2026-09-18T16:47:24.209145+00:00",
+    "carrier_rate": 4300,
+    "updated_at": "2026-09-21T14:17:38.548448+00:00",
     "lane": "GREENWOOD WI-DALLAS TX"
   },
   {
@@ -57,14 +57,14 @@
     "pu_city": "MOUNT STERLING",
     "pu_state": "KY",
     "pu_hours": "",
-    "del_date": "2026-09-21",
+    "del_date": "2026-09-24",
     "del_city": "MIRA LOMA",
     "del_state": "CA",
-    "del_hours": "1130",
+    "del_hours": "0330",
     "equipment": "Van",
     "weight_lbs": 13080,
-    "carrier_rate": 4550,
-    "updated_at": "2026-09-18T19:37:40.225254+00:00",
+    "carrier_rate": 4300,
+    "updated_at": "2026-09-21T14:19:16.186324+00:00",
     "lane": "MOUNT STERLING KY-MIRA LOMA CA"
   },
   {
