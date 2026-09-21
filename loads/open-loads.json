@@ -136,23 +136,6 @@
     "lane": "COLUMBUS GA-VAN WERT OH"
   },
   {
-    "pro": "50257",
-    "status": "OPEN",
-    "pu_date": "2026-09-22",
-    "pu_city": "RICHMOND",
-    "pu_state": "VA",
-    "pu_hours": "0930",
-    "del_date": "2026-09-22",
-    "del_city": "RICHMOND",
-    "del_state": "VA",
-    "del_hours": "1000-1100",
-    "equipment": "26' Straight Box Truck",
-    "weight_lbs": 4000,
-    "carrier_rate": 200,
-    "updated_at": "2026-09-03T16:06:56.459397+00:00",
-    "lane": "RICHMOND VA-RICHMOND VA"
-  },
-  {
     "pro": "50383",
     "status": "OPEN",
     "pu_date": "2026-09-22",
@@ -383,11 +366,11 @@
     "del_date": "2026-09-30",
     "del_city": "ST CHARLES",
     "del_state": "ON",
-    "del_hours": "",
+    "del_hours": "0800",
     "equipment": "Van",
     "weight_lbs": 5000,
     "carrier_rate": 1545,
-    "updated_at": "2026-09-21T14:54:26.764535+00:00",
+    "updated_at": "2026-09-21T14:59:58.002972+00:00",
     "lane": "WINCHESTER KY-ST CHARLES ON"
   },
   {
@@ -406,6 +389,23 @@
     "carrier_rate": 1400,
     "updated_at": "2026-09-10T18:57:31.885557+00:00",
     "lane": "DALLAS NC-MUSCLE SHOALS AL"
+  },
+  {
+    "pro": "50257",
+    "status": "OPEN",
+    "pu_date": "2026-10-14",
+    "pu_city": "RICHMOND",
+    "pu_state": "VA",
+    "pu_hours": "0930",
+    "del_date": "2026-10-14",
+    "del_city": "RICHMOND",
+    "del_state": "VA",
+    "del_hours": "1000-1100",
+    "equipment": "26' Straight Box Truck",
+    "weight_lbs": 4000,
+    "carrier_rate": 200,
+    "updated_at": "2026-09-21T14:56:39.971641+00:00",
+    "lane": "RICHMOND VA-RICHMOND VA"
   },
   {
     "pro": "50541",
