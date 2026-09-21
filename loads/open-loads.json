@@ -68,23 +68,6 @@
     "lane": "VILLA RICA GA-COLLEGE STATION TX"
   },
   {
-    "pro": "50590",
-    "status": "OPEN",
-    "pu_date": "2026-09-22",
-    "pu_city": "MORROW",
-    "pu_state": "GA",
-    "pu_hours": "0930-1200",
-    "del_date": "2026-09-22",
-    "del_city": "LEESBURG",
-    "del_state": "GA",
-    "del_hours": "0800-1600",
-    "equipment": "Flatbed Hot Shot",
-    "weight_lbs": 1500,
-    "carrier_rate": 500,
-    "updated_at": "2026-09-21T15:15:27.807457+00:00",
-    "lane": "MORROW GA-LEESBURG GA"
-  },
-  {
     "pro": "50599",
     "status": "OPEN",
     "pu_date": "2026-09-22",
