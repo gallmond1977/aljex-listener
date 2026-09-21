@@ -46,8 +46,8 @@
     "del_hours": "CALL!",
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 5500,
-    "carrier_rate": 700,
-    "updated_at": "2026-09-21T16:23:46.421683+00:00",
+    "carrier_rate": 400,
+    "updated_at": "2026-09-21T16:43:33.595647+00:00",
     "lane": "BALTIMORE MD-SECAUCUS NJ"
   },
   {
@@ -226,7 +226,7 @@
     "pu_date": "2026-09-25",
     "pu_city": "ATLANTA",
     "pu_state": "GA",
-    "pu_hours": "REQ",
+    "pu_hours": "0700",
     "del_date": "2026-09-25",
     "del_city": "DECATUR",
     "del_state": "GA",
@@ -234,7 +234,7 @@
     "equipment": "Reefer",
     "weight_lbs": 21264,
     "carrier_rate": 450,
-    "updated_at": "2026-09-21T16:24:58.835918+00:00",
+    "updated_at": "2026-09-21T16:44:06.814709+00:00",
     "lane": "ATLANTA GA-DECATUR GA"
   },
   {
