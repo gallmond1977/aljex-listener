@@ -81,7 +81,7 @@
     "equipment": "Van",
     "weight_lbs": 44990,
     "carrier_rate": 2600,
-    "updated_at": "2026-09-16T20:24:14.535268+00:00",
+    "updated_at": "2026-09-21T12:28:37.186627+00:00",
     "lane": "GREEN RIVER WY-SAN ANTONIO TX"
   },
   {
@@ -98,7 +98,7 @@
     "equipment": "Van",
     "weight_lbs": 43438,
     "carrier_rate": 1800,
-    "updated_at": "2026-09-14T14:57:07.818701+00:00",
+    "updated_at": "2026-09-21T12:29:35.586216+00:00",
     "lane": "GARLAND TX-CALHOUN GA"
   },
   {
@@ -217,7 +217,7 @@
     "equipment": "Van",
     "weight_lbs": 43000,
     "carrier_rate": 1800,
-    "updated_at": "2026-09-18T17:05:09.409375+00:00",
+    "updated_at": "2026-09-21T12:28:54.581185+00:00",
     "lane": "COLUMBUS GA-TAMPA FL"
   },
   {
@@ -982,7 +982,7 @@
     "equipment": "Van",
     "weight_lbs": 34000,
     "carrier_rate": 650,
-    "updated_at": "2026-09-17T17:43:29.464868+00:00",
+    "updated_at": "2026-09-21T12:26:53.858134+00:00",
     "lane": "MACON GA-CALHOUN GA"
   },
   {
