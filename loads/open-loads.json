@@ -357,6 +357,23 @@
     "lane": "RICHMOND VA-MIDLOTHIAN VA"
   },
   {
+    "pro": "50593",
+    "status": "OPEN",
+    "pu_date": "2026-10-26",
+    "pu_city": "RICHMOND",
+    "pu_state": "VA",
+    "pu_hours": "1030",
+    "del_date": "2026-10-26",
+    "del_city": "MIDLOTHIAN",
+    "del_state": "VA",
+    "del_hours": "",
+    "equipment": "26' Straight Box Truck",
+    "weight_lbs": 9300,
+    "carrier_rate": null,
+    "updated_at": "2026-09-21T15:50:35.075614+00:00",
+    "lane": "RICHMOND VA-MIDLOTHIAN VA"
+  },
+  {
     "pro": "50542",
     "status": "OPEN",
     "pu_date": "2026-11-13",
@@ -528,7 +545,7 @@
   },
   {
     "pro": "50576",
-    "status": "DELIVERED",
+    "status": "RELEASED",
     "pu_date": "2026-09-18",
     "pu_city": "OAKLAND",
     "pu_state": "TN",
@@ -540,7 +557,7 @@
     "equipment": "Van Hazmat",
     "weight_lbs": 44900,
     "carrier_rate": 2500,
-    "updated_at": "2026-09-21T15:38:57.667302+00:00",
+    "updated_at": "2026-09-21T15:50:47.628972+00:00",
     "lane": "OAKLAND TN-MONTICELLO IL"
   },
   {
