@@ -285,7 +285,7 @@
     "equipment": "Van",
     "weight_lbs": 42500,
     "carrier_rate": 2000,
-    "updated_at": "2026-09-21T17:46:20.771553+00:00",
+    "updated_at": "2026-09-21T17:51:31.508683+00:00",
     "lane": "AUBURN AL-LA CROSSE WI"
   },
   {
@@ -681,7 +681,7 @@
   },
   {
     "pro": "50558",
-    "status": "PICKUP",
+    "status": "LOADED",
     "pu_date": "2026-09-21",
     "pu_city": "CREWE",
     "pu_state": "VA",
@@ -693,7 +693,7 @@
     "equipment": "Flatbed w/ Tarps",
     "weight_lbs": 42000,
     "carrier_rate": 1400,
-    "updated_at": "2026-09-21T15:30:47.481771+00:00",
+    "updated_at": "2026-09-21T17:52:52.846406+00:00",
     "lane": "CREWE VA-SUMMERVILLE SC"
   },
   {
