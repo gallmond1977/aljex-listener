@@ -17,23 +17,6 @@
     "lane": "COLUMBUS GA-VAN WERT OH"
   },
   {
-    "pro": "50573",
-    "status": "OPEN",
-    "pu_date": "2026-09-22",
-    "pu_city": "BALTIMORE",
-    "pu_state": "MD",
-    "pu_hours": "0800-1000",
-    "del_date": "2026-09-22",
-    "del_city": "SECAUCUS",
-    "del_state": "NJ",
-    "del_hours": "0800-1400",
-    "equipment": "26' Straight Box Truck",
-    "weight_lbs": 5500,
-    "carrier_rate": 450,
-    "updated_at": "2026-09-21T18:44:55.788182+00:00",
-    "lane": "BALTIMORE MD-SECAUCUS NJ"
-  },
-  {
     "pro": "50580",
     "status": "OPEN",
     "pu_date": "2026-09-22",
