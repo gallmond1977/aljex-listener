@@ -56,7 +56,7 @@
     "pu_date": "2026-09-21",
     "pu_city": "MOUNT STERLING",
     "pu_state": "KY",
-    "pu_hours": "",
+    "pu_hours": "1300",
     "del_date": "2026-09-24",
     "del_city": "MIRA LOMA",
     "del_state": "CA",
@@ -64,7 +64,7 @@
     "equipment": "Van",
     "weight_lbs": 13080,
     "carrier_rate": 4300,
-    "updated_at": "2026-09-21T14:19:16.186324+00:00",
+    "updated_at": "2026-09-21T14:20:57.878760+00:00",
     "lane": "MOUNT STERLING KY-MIRA LOMA CA"
   },
   {
@@ -134,6 +134,23 @@
     "carrier_rate": 1000,
     "updated_at": "2026-09-18T19:36:24.306091+00:00",
     "lane": "VILLA RICA GA-COLLEGE STATION TX"
+  },
+  {
+    "pro": "50588",
+    "status": "OPEN",
+    "pu_date": "2026-09-21",
+    "pu_city": "ALPHARETTA",
+    "pu_state": "GA",
+    "pu_hours": "1200-1600",
+    "del_date": "2026-09-22",
+    "del_city": "URBANDALE",
+    "del_state": "IA",
+    "del_hours": "0700-1500",
+    "equipment": "Flatbed w/ Tarps",
+    "weight_lbs": 42000,
+    "carrier_rate": 3600,
+    "updated_at": "2026-09-21T14:24:49.538643+00:00",
+    "lane": "ALPHARETTA GA-URBANDALE IA"
   },
   {
     "pro": "50107",
