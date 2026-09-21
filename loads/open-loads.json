@@ -98,7 +98,7 @@
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 8000,
     "carrier_rate": 700,
-    "updated_at": "2026-09-21T13:08:17.605492+00:00",
+    "updated_at": "2026-09-21T13:10:48.638040+00:00",
     "lane": "ANNISTON AL-CRESTWOOD KY"
   },
   {
@@ -834,7 +834,7 @@
   },
   {
     "pro": "50471",
-    "status": "COVERED",
+    "status": "PICKUP",
     "pu_date": "2026-09-21",
     "pu_city": "MACON",
     "pu_state": "GA",
@@ -846,7 +846,7 @@
     "equipment": "Van",
     "weight_lbs": 34000,
     "carrier_rate": 650,
-    "updated_at": "2026-09-21T12:26:53.858134+00:00",
+    "updated_at": "2026-09-21T13:11:01.277128+00:00",
     "lane": "MACON GA-CALHOUN GA"
   },
   {
