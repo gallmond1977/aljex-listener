@@ -136,23 +136,6 @@
     "lane": "GREENVALE NY-SAVANNAH GA"
   },
   {
-    "pro": "50558",
-    "status": "OPEN",
-    "pu_date": "2026-09-21",
-    "pu_city": "CREWE",
-    "pu_state": "VA",
-    "pu_hours": "1000-1500",
-    "del_date": "2026-09-22",
-    "del_city": "SUMMERVILLE",
-    "del_state": "SC",
-    "del_hours": "0700-1500",
-    "equipment": "Flatbed w/ Tarps",
-    "weight_lbs": 42000,
-    "carrier_rate": 1300,
-    "updated_at": "2026-09-17T19:24:33.907563+00:00",
-    "lane": "CREWE VA-SUMMERVILLE SC"
-  },
-  {
     "pro": "50564",
     "status": "OPEN",
     "pu_date": "2026-09-21",
@@ -187,23 +170,6 @@
     "lane": "PORT ANGELES WA-MAGNA UT"
   },
   {
-    "pro": "50571",
-    "status": "OPEN",
-    "pu_date": "2026-09-21",
-    "pu_city": "SIMPSONVILLE",
-    "pu_state": "SC",
-    "pu_hours": "0800-1100",
-    "del_date": "2026-09-21",
-    "del_city": "WINSTON SALEM",
-    "del_state": "NC",
-    "del_hours": "0800-1400",
-    "equipment": "Sprinter Van",
-    "weight_lbs": 575,
-    "carrier_rate": 300,
-    "updated_at": "2026-09-21T12:20:45.777398+00:00",
-    "lane": "SIMPSONVILLE SC-WINSTON SALEM NC"
-  },
-  {
     "pro": "50579",
     "status": "OPEN",
     "pu_date": "2026-09-21",
@@ -236,23 +202,6 @@
     "carrier_rate": 2000,
     "updated_at": "2026-09-18T18:43:59.857890+00:00",
     "lane": "AUBURN AL-LA CROSSE WI"
-  },
-  {
-    "pro": "50583",
-    "status": "OPEN",
-    "pu_date": "2026-09-21",
-    "pu_city": "COLUMBUS",
-    "pu_state": "GA",
-    "pu_hours": "0800-1200",
-    "del_date": "2026-09-22",
-    "del_city": "SAINT LOUIS",
-    "del_state": "MO",
-    "del_hours": "0800-1500",
-    "equipment": "Van",
-    "weight_lbs": 21500,
-    "carrier_rate": 1400,
-    "updated_at": "2026-09-18T18:54:59.291704+00:00",
-    "lane": "COLUMBUS GA-SAINT LOUIS MO"
   },
   {
     "pro": "50584",
@@ -933,6 +882,23 @@
     "carrier_rate": 650,
     "updated_at": "2026-09-21T12:26:53.858134+00:00",
     "lane": "MACON GA-CALHOUN GA"
+  },
+  {
+    "pro": "50558",
+    "status": "COVERED",
+    "pu_date": "2026-09-21",
+    "pu_city": "CREWE",
+    "pu_state": "VA",
+    "pu_hours": "1000-1500",
+    "del_date": "2026-09-22",
+    "del_city": "SUMMERVILLE",
+    "del_state": "SC",
+    "del_hours": "0700-1500",
+    "equipment": "Flatbed w/ Tarps",
+    "weight_lbs": 42000,
+    "carrier_rate": 1400,
+    "updated_at": "2026-09-21T12:55:09.001354+00:00",
+    "lane": "CREWE VA-SUMMERVILLE SC"
   },
   {
     "pro": "50554",
