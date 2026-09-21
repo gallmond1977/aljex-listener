@@ -285,7 +285,7 @@
     "equipment": "Van",
     "weight_lbs": 42500,
     "carrier_rate": 2000,
-    "updated_at": "2026-09-21T17:51:31.508683+00:00",
+    "updated_at": "2026-09-21T18:06:35.803733+00:00",
     "lane": "AUBURN AL-LA CROSSE WI"
   },
   {
@@ -332,11 +332,11 @@
     "del_date": "2026-09-30",
     "del_city": "FOREST PARK",
     "del_state": "GA",
-    "del_hours": "REQ",
+    "del_hours": "1300",
     "equipment": "Reefer",
     "weight_lbs": 33095,
     "carrier_rate": null,
-    "updated_at": "2026-09-21T17:03:15.669664+00:00",
+    "updated_at": "2026-09-21T18:07:22.369310+00:00",
     "lane": "ATLANTA GA-FOREST PARK GA"
   },
   {
@@ -659,7 +659,7 @@
     "equipment": "Reefer",
     "weight_lbs": 1800,
     "carrier_rate": 1250,
-    "updated_at": "2026-09-21T17:02:36.668249+00:00",
+    "updated_at": "2026-09-21T18:09:08.837991+00:00",
     "lane": "CUMMING GA-CANON GA"
   },
   {
