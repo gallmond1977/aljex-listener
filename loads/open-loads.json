@@ -12,8 +12,8 @@
     "del_hours": "0730",
     "equipment": "Reefer",
     "weight_lbs": 41887,
-    "carrier_rate": 5200,
-    "updated_at": "2026-09-21T14:19:11.614430+00:00",
+    "carrier_rate": 5500,
+    "updated_at": "2026-09-21T14:48:58.404292+00:00",
     "lane": "GREENWOOD WI-LITHIA SPRINGS GA"
   },
   {
@@ -29,8 +29,8 @@
     "del_hours": "1800",
     "equipment": "Reefer",
     "weight_lbs": 41887,
-    "carrier_rate": 4300,
-    "updated_at": "2026-09-21T14:17:38.548448+00:00",
+    "carrier_rate": 4600,
+    "updated_at": "2026-09-21T14:49:25.894409+00:00",
     "lane": "GREENWOOD WI-DALLAS TX"
   },
   {
@@ -98,25 +98,8 @@
     "equipment": "Van",
     "weight_lbs": 42500,
     "carrier_rate": 2300,
-    "updated_at": "2026-09-21T14:44:19.932811+00:00",
+    "updated_at": "2026-09-21T14:46:42.557931+00:00",
     "lane": "AUBURN AL-LA CROSSE WI"
-  },
-  {
-    "pro": "50584",
-    "status": "OPEN",
-    "pu_date": "2026-09-21",
-    "pu_city": "VILLA RICA",
-    "pu_state": "GA",
-    "pu_hours": "NEEDREADY",
-    "del_date": "2026-09-22",
-    "del_city": "COLLEGE STATION",
-    "del_state": "TX",
-    "del_hours": "APPT ONLY",
-    "equipment": "26' Straight Box Truck",
-    "weight_lbs": 1100,
-    "carrier_rate": 1000,
-    "updated_at": "2026-09-18T19:36:24.306091+00:00",
-    "lane": "VILLA RICA GA-COLLEGE STATION TX"
   },
   {
     "pro": "50588",
@@ -255,6 +238,23 @@
     "lane": "CREWE VA-SUMMERVILLE SC"
   },
   {
+    "pro": "50584",
+    "status": "OPEN",
+    "pu_date": "2026-09-22",
+    "pu_city": "VILLA RICA",
+    "pu_state": "GA",
+    "pu_hours": "NEEDREADY",
+    "del_date": "2026-09-23",
+    "del_city": "COLLEGE STATION",
+    "del_state": "TX",
+    "del_hours": "APPT ONLY",
+    "equipment": "26' Straight Box Truck",
+    "weight_lbs": 1100,
+    "carrier_rate": 1000,
+    "updated_at": "2026-09-21T14:49:01.991111+00:00",
+    "lane": "VILLA RICA GA-COLLEGE STATION TX"
+  },
+  {
     "pro": "50159",
     "status": "OPEN",
     "pu_date": "2026-09-23",
@@ -381,14 +381,14 @@
     "pu_state": "KY",
     "pu_hours": "0800-1400",
     "del_date": "2026-09-30",
-    "del_city": "HUNTSVILLE",
+    "del_city": "ST CHARLES",
     "del_state": "ON",
-    "del_hours": "0930-1500",
+    "del_hours": "",
     "equipment": "Van",
     "weight_lbs": 972,
     "carrier_rate": 1545,
-    "updated_at": "2026-09-21T14:40:42.957970+00:00",
-    "lane": "WINCHESTER KY-HUNTSVILLE ON"
+    "updated_at": "2026-09-21T14:49:25.786153+00:00",
+    "lane": "WINCHESTER KY-ST CHARLES ON"
   },
   {
     "pro": "50405",
@@ -576,23 +576,6 @@
     "carrier_rate": 2800,
     "updated_at": "2026-09-18T00:14:10.319351+00:00",
     "lane": "BENSENVILLE IL-BELCAMP MD"
-  },
-  {
-    "pro": "50434",
-    "status": "LOADED",
-    "pu_date": "2026-09-17",
-    "pu_city": "WINCHESTER",
-    "pu_state": "KY",
-    "pu_hours": "0800-1400",
-    "del_date": "2026-09-21",
-    "del_city": "HUNTSVILLE",
-    "del_state": "ON",
-    "del_hours": "0930-1500",
-    "equipment": "Van",
-    "weight_lbs": 972,
-    "carrier_rate": 1500,
-    "updated_at": "2026-09-18T16:24:16.994765+00:00",
-    "lane": "WINCHESTER KY-HUNTSVILLE ON"
   },
   {
     "pro": "50516",
