@@ -374,6 +374,23 @@
     "lane": "MIAMI FL-CHARLOTTE NC"
   },
   {
+    "pro": "50589",
+    "status": "OPEN",
+    "pu_date": "2026-09-28",
+    "pu_city": "WINCHESTER",
+    "pu_state": "KY",
+    "pu_hours": "0800-1400",
+    "del_date": "2026-09-30",
+    "del_city": "HUNTSVILLE",
+    "del_state": "ON",
+    "del_hours": "0930-1500",
+    "equipment": "Van",
+    "weight_lbs": 972,
+    "carrier_rate": 1545,
+    "updated_at": "2026-09-21T14:39:40.514396+00:00",
+    "lane": "WINCHESTER KY-HUNTSVILLE ON"
+  },
+  {
     "pro": "50405",
     "status": "OPEN",
     "pu_date": "2026-09-30",
@@ -559,6 +576,23 @@
     "carrier_rate": 2800,
     "updated_at": "2026-09-18T00:14:10.319351+00:00",
     "lane": "BENSENVILLE IL-BELCAMP MD"
+  },
+  {
+    "pro": "50434",
+    "status": "LOADED",
+    "pu_date": "2026-09-17",
+    "pu_city": "WINCHESTER",
+    "pu_state": "KY",
+    "pu_hours": "0800-1400",
+    "del_date": "2026-09-21",
+    "del_city": "HUNTSVILLE",
+    "del_state": "ON",
+    "del_hours": "0930-1500",
+    "equipment": "Van",
+    "weight_lbs": 972,
+    "carrier_rate": 1500,
+    "updated_at": "2026-09-18T16:24:16.994765+00:00",
+    "lane": "WINCHESTER KY-HUNTSVILLE ON"
   },
   {
     "pro": "50516",
