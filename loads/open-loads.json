@@ -200,7 +200,7 @@
     "equipment": "Flatbed",
     "weight_lbs": 18900,
     "carrier_rate": 2800,
-    "updated_at": "2026-09-21T13:34:08.956216+00:00",
+    "updated_at": "2026-09-21T13:38:56.224538+00:00",
     "lane": "LINCOLN NE-AUGUSTA GA"
   },
   {
@@ -217,7 +217,7 @@
     "equipment": "Van",
     "weight_lbs": 36914,
     "carrier_rate": 2600,
-    "updated_at": "2026-09-21T13:32:00.098781+00:00",
+    "updated_at": "2026-09-21T13:37:01.247931+00:00",
     "lane": "COLUMBUS GA-CLIFTON NJ"
   },
   {
