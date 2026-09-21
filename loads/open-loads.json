@@ -272,23 +272,6 @@
     "lane": "OAKLAND TN-MONTICELLO IL"
   },
   {
-    "pro": "50082",
-    "status": "OPEN",
-    "pu_date": "2026-09-24",
-    "pu_city": "RICHMOND",
-    "pu_state": "VA",
-    "pu_hours": "0630-0700",
-    "del_date": "2026-09-24",
-    "del_city": "RICHMOND",
-    "del_state": "VA",
-    "del_hours": "CALL!",
-    "equipment": "26' Straight Box Truck",
-    "weight_lbs": 5000,
-    "carrier_rate": 200,
-    "updated_at": "2026-09-09T14:45:18.547520+00:00",
-    "lane": "RICHMOND VA-RICHMOND VA"
-  },
-  {
     "pro": "50529",
     "status": "OPEN",
     "pu_date": "2026-09-25",
@@ -355,6 +338,23 @@
     "carrier_rate": 1400,
     "updated_at": "2026-09-10T18:57:31.885557+00:00",
     "lane": "DALLAS NC-MUSCLE SHOALS AL"
+  },
+  {
+    "pro": "50082",
+    "status": "OPEN",
+    "pu_date": "2026-10-12",
+    "pu_city": "RICHMOND",
+    "pu_state": "VA",
+    "pu_hours": "0630-0700",
+    "del_date": "2026-10-12",
+    "del_city": "RICHMOND",
+    "del_state": "VA",
+    "del_hours": "CALL!",
+    "equipment": "26' Straight Box Truck",
+    "weight_lbs": 5000,
+    "carrier_rate": 200,
+    "updated_at": "2026-09-21T15:21:49.835330+00:00",
+    "lane": "RICHMOND VA-RICHMOND VA"
   },
   {
     "pro": "50257",
