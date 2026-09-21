@@ -17,23 +17,6 @@
     "lane": "COLUMBUS GA-VAN WERT OH"
   },
   {
-    "pro": "50385",
-    "status": "OPEN",
-    "pu_date": "2026-09-22",
-    "pu_city": "ATHENS",
-    "pu_state": "AL",
-    "pu_hours": "0700-1500",
-    "del_date": "2026-09-23",
-    "del_city": "GULFPORT",
-    "del_state": "MS",
-    "del_hours": "0700-100",
-    "equipment": "Van",
-    "weight_lbs": 43573,
-    "carrier_rate": 1500,
-    "updated_at": "2026-09-21T16:31:22.831222+00:00",
-    "lane": "ATHENS AL-GULFPORT MS"
-  },
-  {
     "pro": "50573",
     "status": "OPEN",
     "pu_date": "2026-09-22",
@@ -47,7 +30,7 @@
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 5500,
     "carrier_rate": 400,
-    "updated_at": "2026-09-21T16:47:42.708207+00:00",
+    "updated_at": "2026-09-21T16:53:33.129928+00:00",
     "lane": "BALTIMORE MD-SECAUCUS NJ"
   },
   {
@@ -315,11 +298,11 @@
     "del_date": "2026-09-30",
     "del_city": "ATLANTA",
     "del_state": "GA",
-    "del_hours": "",
+    "del_hours": "REQ",
     "equipment": "Reefer",
     "weight_lbs": 33095,
     "carrier_rate": null,
-    "updated_at": "2026-09-21T16:47:56.933691+00:00",
+    "updated_at": "2026-09-21T16:51:54.102226+00:00",
     "lane": "ATLANTA GA-ATLANTA GA"
   },
   {
@@ -459,40 +442,6 @@
     "lane": "LA PORTE TX-GREENVILLE SC"
   },
   {
-    "pro": "50182",
-    "status": "RELEASED",
-    "pu_date": "2026-09-10",
-    "pu_city": "ATHENS",
-    "pu_state": "AL",
-    "pu_hours": "0700-1500",
-    "del_date": "2026-09-11",
-    "del_city": "GULFPORT",
-    "del_state": "MS",
-    "del_hours": "0700-1000",
-    "equipment": "Van",
-    "weight_lbs": 43083,
-    "carrier_rate": 1500,
-    "updated_at": "2026-09-16T13:32:45.045915+00:00",
-    "lane": "ATHENS AL-GULFPORT MS"
-  },
-  {
-    "pro": "50224",
-    "status": "RELEASED",
-    "pu_date": "2026-09-10",
-    "pu_city": "ATHENS",
-    "pu_state": "AL",
-    "pu_hours": "0700-1500",
-    "del_date": "2026-09-11",
-    "del_city": "GULFPORT",
-    "del_state": "MS",
-    "del_hours": "0700-1000",
-    "equipment": "Van",
-    "weight_lbs": 43299,
-    "carrier_rate": 1500,
-    "updated_at": "2026-09-16T13:46:39.813185+00:00",
-    "lane": "ATHENS AL-GULFPORT MS"
-  },
-  {
     "pro": "50404",
     "status": "RELEASED",
     "pu_date": "2026-09-14",
@@ -508,23 +457,6 @@
     "carrier_rate": 2800,
     "updated_at": "2026-09-16T15:22:58.334300+00:00",
     "lane": "LA PORTE TX-GREENVILLE SC"
-  },
-  {
-    "pro": "50301",
-    "status": "RELEASED",
-    "pu_date": "2026-09-15",
-    "pu_city": "ATHENS",
-    "pu_state": "AL",
-    "pu_hours": "0700-1500",
-    "del_date": "2026-09-16",
-    "del_city": "GULFPORT",
-    "del_state": "MS",
-    "del_hours": "0700-1000",
-    "equipment": "Van",
-    "weight_lbs": 43624,
-    "carrier_rate": 1500,
-    "updated_at": "2026-09-16T16:50:28.608867+00:00",
-    "lane": "ATHENS AL-GULFPORT MS"
   },
   {
     "pro": "50483",
@@ -661,56 +593,5 @@
     "carrier_rate": 1400,
     "updated_at": "2026-09-21T15:30:47.481771+00:00",
     "lane": "CREWE VA-SUMMERVILLE SC"
-  },
-  {
-    "pro": "50382",
-    "status": "COVERED",
-    "pu_date": "2026-09-22",
-    "pu_city": "ATHENS",
-    "pu_state": "AL",
-    "pu_hours": "0700-1500",
-    "del_date": "2026-09-23",
-    "del_city": "GULFPORT",
-    "del_state": "MS",
-    "del_hours": "0700-1000",
-    "equipment": "Van",
-    "weight_lbs": 43542,
-    "carrier_rate": 1600,
-    "updated_at": "2026-09-21T13:05:06.778892+00:00",
-    "lane": "ATHENS AL-GULFPORT MS"
-  },
-  {
-    "pro": "50383",
-    "status": "COVERED",
-    "pu_date": "2026-09-22",
-    "pu_city": "ATHENS",
-    "pu_state": "AL",
-    "pu_hours": "0700-1500",
-    "del_date": "2026-09-23",
-    "del_city": "GULFPORT",
-    "del_state": "MS",
-    "del_hours": "0700-1000",
-    "equipment": "Van",
-    "weight_lbs": 43376,
-    "carrier_rate": 1550,
-    "updated_at": "2026-09-21T16:13:31.023971+00:00",
-    "lane": "ATHENS AL-GULFPORT MS"
-  },
-  {
-    "pro": "50384",
-    "status": "COVERED",
-    "pu_date": "2026-09-22",
-    "pu_city": "ATHENS",
-    "pu_state": "AL",
-    "pu_hours": "0700-1500",
-    "del_date": "2026-09-23",
-    "del_city": "GULFPORT",
-    "del_state": "MS",
-    "del_hours": "0700-1000",
-    "equipment": "Van",
-    "weight_lbs": 43387,
-    "carrier_rate": 1550,
-    "updated_at": "2026-09-21T16:12:06.251907+00:00",
-    "lane": "ATHENS AL-GULFPORT MS"
   }
 ]
