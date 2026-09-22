@@ -1,22 +1,5 @@
 [
   {
-    "pro": "50609",
-    "status": "OPEN",
-    "pu_date": "2026-09-22",
-    "pu_city": "OAKLAND",
-    "pu_state": "TN",
-    "pu_hours": "0800-1500",
-    "del_date": "2026-09-23",
-    "del_city": "SALISBURY",
-    "del_state": "NC",
-    "del_hours": "0600-1000",
-    "equipment": "Van Hazmat",
-    "weight_lbs": 44900,
-    "carrier_rate": 2700,
-    "updated_at": "2026-09-22T17:58:54.970509+00:00",
-    "lane": "OAKLAND TN-SALISBURY NC"
-  },
-  {
     "pro": "50107",
     "status": "OPEN",
     "pu_date": "2026-09-23",
@@ -147,9 +130,9 @@
     "del_state": "MD",
     "del_hours": "0700-1300",
     "equipment": "Van",
-    "weight_lbs": 10000,
+    "weight_lbs": 8570,
     "carrier_rate": 1700,
-    "updated_at": "2026-09-22T15:51:21.312429+00:00",
+    "updated_at": "2026-09-22T18:09:43.635809+00:00",
     "lane": "BUFFALO NY-BELCAMP MD"
   },
   {
@@ -576,23 +559,6 @@
     "carrier_rate": 2800,
     "updated_at": "2026-09-16T15:22:58.334300+00:00",
     "lane": "LA PORTE TX-GREENVILLE SC"
-  },
-  {
-    "pro": "50477",
-    "status": "RELEASED",
-    "pu_date": "2026-09-15",
-    "pu_city": "OAKLAND",
-    "pu_state": "TN",
-    "pu_hours": "0800-1500",
-    "del_date": "2026-09-16",
-    "del_city": "SALISBURY",
-    "del_state": "NC",
-    "del_hours": "0001-0700",
-    "equipment": "Van Hazmat",
-    "weight_lbs": 44900,
-    "carrier_rate": 2600,
-    "updated_at": "2026-09-21T14:49:48.495383+00:00",
-    "lane": "OAKLAND TN-SALISBURY NC"
   },
   {
     "pro": "50470",
