@@ -13,7 +13,7 @@
     "equipment": "Van Hazmat",
     "weight_lbs": 44900,
     "carrier_rate": 2700,
-    "updated_at": "2026-09-22T15:48:14.238809+00:00",
+    "updated_at": "2026-09-22T15:50:13.674757+00:00",
     "lane": "OAKLAND TN-SALISBURY NC"
   },
   {
@@ -98,7 +98,7 @@
     "equipment": "Van",
     "weight_lbs": 10000,
     "carrier_rate": 1700,
-    "updated_at": "2026-09-22T15:49:43.823835+00:00",
+    "updated_at": "2026-09-22T15:51:21.312429+00:00",
     "lane": "BUFFALO NY-BELCAMP MD"
   },
   {
