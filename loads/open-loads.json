@@ -162,11 +162,11 @@
     "del_date": "2026-09-25",
     "del_city": "JACKSONVILLE",
     "del_state": "FL",
-    "del_hours": "ADREQD",
+    "del_hours": "1800",
     "equipment": "Van",
     "weight_lbs": 7600,
-    "carrier_rate": null,
-    "updated_at": "2026-09-22T18:47:24.296310+00:00",
+    "carrier_rate": 2500,
+    "updated_at": "2026-09-22T19:44:25.182659+00:00",
     "lane": "WINCHESTER KY-JACKSONVILLE FL"
   },
   {
