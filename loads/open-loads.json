@@ -85,6 +85,23 @@
     "lane": "LAGRANGE GA-LENEXA KS"
   },
   {
+    "pro": "50620",
+    "status": "OPEN",
+    "pu_date": "2026-09-23",
+    "pu_city": "BUFFALO",
+    "pu_state": "NY",
+    "pu_hours": "1300",
+    "del_date": "2026-09-24",
+    "del_city": "BELCAMP",
+    "del_state": "MD",
+    "del_hours": "0700-1300",
+    "equipment": "Van",
+    "weight_lbs": 7500,
+    "carrier_rate": null,
+    "updated_at": "2026-09-22T15:38:06.977259+00:00",
+    "lane": "BUFFALO NY-BELCAMP MD"
+  },
+  {
     "pro": "50529",
     "status": "OPEN",
     "pu_date": "2026-09-25",
@@ -457,6 +474,23 @@
     "carrier_rate": 200,
     "updated_at": "2026-09-18T01:05:40.994790+00:00",
     "lane": "RICHMOND VA-RICHMOND VA"
+  },
+  {
+    "pro": "50534",
+    "status": "RELEASED",
+    "pu_date": "2026-09-17",
+    "pu_city": "BUFFALO",
+    "pu_state": "NY",
+    "pu_hours": "1300",
+    "del_date": "2026-09-18",
+    "del_city": "BELCAMP",
+    "del_state": "MD",
+    "del_hours": "0700-1300",
+    "equipment": "Van",
+    "weight_lbs": 7500,
+    "carrier_rate": 1700,
+    "updated_at": "2026-09-18T16:15:41.377044+00:00",
+    "lane": "BUFFALO NY-BELCAMP MD"
   },
   {
     "pro": "50581",
