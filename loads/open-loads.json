@@ -5,16 +5,16 @@
     "pu_date": "2026-09-22",
     "pu_city": "BROOKSVILLE",
     "pu_state": "FL",
-    "pu_hours": "NEEDED",
+    "pu_hours": "0800-1500",
     "del_date": "",
-    "del_city": "PORT SAINT LUCIE",
-    "del_state": "FL",
-    "del_hours": "0600-1400",
+    "del_city": "PIPER CITY",
+    "del_state": "IL",
+    "del_hours": "",
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 5000,
     "carrier_rate": 1300,
-    "updated_at": "2026-09-21T20:37:42.193558+00:00",
-    "lane": "BROOKSVILLE FL-PORT SAINT LUCIE FL"
+    "updated_at": "2026-09-22T12:14:32.692651+00:00",
+    "lane": "BROOKSVILLE FL-PIPER CITY IL"
   },
   {
     "pro": "50605",
