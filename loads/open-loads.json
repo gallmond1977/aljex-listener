@@ -64,7 +64,7 @@
     "equipment": "Van",
     "weight_lbs": 13083,
     "carrier_rate": 3500,
-    "updated_at": "2026-09-22T16:01:46.454325+00:00",
+    "updated_at": "2026-09-22T18:37:16.269479+00:00",
     "lane": "MOUNT STERLING KY-UXBRIDGE MA"
   },
   {
@@ -81,7 +81,7 @@
     "equipment": "Van",
     "weight_lbs": 10200,
     "carrier_rate": 3500,
-    "updated_at": "2026-09-22T16:02:27.638276+00:00",
+    "updated_at": "2026-09-22T18:37:03.109713+00:00",
     "lane": "MOUNT STERLING KY-UXBRIDGE MA"
   },
   {
@@ -98,7 +98,7 @@
     "equipment": "Van",
     "weight_lbs": 4871,
     "carrier_rate": 3500,
-    "updated_at": "2026-09-22T16:11:28.850421+00:00",
+    "updated_at": "2026-09-22T18:37:35.755007+00:00",
     "lane": "MOUNT STERLING KY-UXBRIDGE MA"
   },
   {
@@ -166,16 +166,16 @@
     "equipment": "Van",
     "weight_lbs": 7600,
     "carrier_rate": null,
-    "updated_at": "2026-09-22T16:16:29.542508+00:00",
+    "updated_at": "2026-09-22T18:37:44.813024+00:00",
     "lane": "MOUNT STERLING KY-JACKSONVILLE FL"
   },
   {
     "pro": "50614",
     "status": "OPEN",
     "pu_date": "2026-09-24",
-    "pu_city": "WINCHESTER",
+    "pu_city": "MOUNT STERLING",
     "pu_state": "KY",
-    "pu_hours": "NEEDED",
+    "pu_hours": "1300",
     "del_date": "2026-09-25",
     "del_city": "JACKSONVILLE",
     "del_state": "FL",
@@ -183,8 +183,8 @@
     "equipment": "Van",
     "weight_lbs": 4000,
     "carrier_rate": null,
-    "updated_at": "2026-09-22T16:20:03.062030+00:00",
-    "lane": "WINCHESTER KY-JACKSONVILLE FL"
+    "updated_at": "2026-09-22T18:38:31.565263+00:00",
+    "lane": "MOUNT STERLING KY-JACKSONVILLE FL"
   },
   {
     "pro": "50529",
@@ -251,7 +251,7 @@
     "equipment": "Van",
     "weight_lbs": 8544,
     "carrier_rate": null,
-    "updated_at": "2026-09-22T16:27:03.817928+00:00",
+    "updated_at": "2026-09-22T18:38:13.452702+00:00",
     "lane": "MOUNT STERLING KY-JACKSONVILLE FL"
   },
   {
@@ -268,7 +268,7 @@
     "equipment": "Van",
     "weight_lbs": 12282,
     "carrier_rate": null,
-    "updated_at": "2026-09-22T16:37:29.838318+00:00",
+    "updated_at": "2026-09-22T18:38:39.562742+00:00",
     "lane": "MOUNT STERLING KY-BURLINGTON NJ"
   },
   {
@@ -285,7 +285,7 @@
     "equipment": "Van",
     "weight_lbs": 11400,
     "carrier_rate": null,
-    "updated_at": "2026-09-22T16:40:12.785499+00:00",
+    "updated_at": "2026-09-22T18:38:48.403236+00:00",
     "lane": "MOUNT STERLING KY-BURLINGTON NJ"
   },
   {
@@ -302,7 +302,7 @@
     "equipment": "Van",
     "weight_lbs": 4005,
     "carrier_rate": null,
-    "updated_at": "2026-09-22T16:41:53.725594+00:00",
+    "updated_at": "2026-09-22T18:38:56.066909+00:00",
     "lane": "MOUNT STERLING KY-BURLINGTON NJ"
   },
   {
@@ -627,22 +627,5 @@
     "carrier_rate": 150,
     "updated_at": "2026-09-21T17:42:12.433380+00:00",
     "lane": "AUBURN AL-LA CROSSE WI"
-  },
-  {
-    "pro": "50523",
-    "status": "COVERED",
-    "pu_date": "2026-09-23",
-    "pu_city": "WINCHESTER",
-    "pu_state": "KY",
-    "pu_hours": "0800-1500",
-    "del_date": "2026-09-24",
-    "del_city": "JACKSONVILLE",
-    "del_state": "FL",
-    "del_hours": "0900",
-    "equipment": "Van",
-    "weight_lbs": 4000,
-    "carrier_rate": 2400,
-    "updated_at": "2026-09-22T15:31:31.835825+00:00",
-    "lane": "WINCHESTER KY-JACKSONVILLE FL"
   }
 ]
