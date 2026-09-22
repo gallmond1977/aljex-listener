@@ -131,8 +131,8 @@
     "del_hours": "0800-1600",
     "equipment": "Flatbed",
     "weight_lbs": 47500,
-    "carrier_rate": null,
-    "updated_at": "2026-09-22T20:24:45.583068+00:00",
+    "carrier_rate": 1250,
+    "updated_at": "2026-09-22T20:35:07.327298+00:00",
     "lane": "MONTGOMERY AL-AUGUSTA GA"
   },
   {
