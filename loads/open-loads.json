@@ -295,14 +295,14 @@
     "pu_city": "EVANSVILLE",
     "pu_state": "IN",
     "pu_hours": "0800-1500",
-    "del_date": "2026-09-28",
+    "del_date": "2026-09-29",
     "del_city": "FORESTON",
     "del_state": "MN",
     "del_hours": "0600-1500",
     "equipment": "Flatbed",
     "weight_lbs": 48000,
     "carrier_rate": 3700,
-    "updated_at": "2026-09-22T20:00:15.613258+00:00",
+    "updated_at": "2026-09-22T20:01:25.956471+00:00",
     "lane": "EVANSVILLE IN-FORESTON MN"
   },
   {
