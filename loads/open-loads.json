@@ -115,7 +115,7 @@
     "equipment": "Van",
     "weight_lbs": 20000,
     "carrier_rate": 750,
-    "updated_at": "2026-09-22T16:27:42.418457+00:00",
+    "updated_at": "2026-09-22T18:58:36.999986+00:00",
     "lane": "LAGRANGE GA-BIRMINGHAM AL"
   },
   {
@@ -219,23 +219,6 @@
     "carrier_rate": 2300,
     "updated_at": "2026-09-22T16:42:53.099205+00:00",
     "lane": "ALLIANCE OH-MACON GA"
-  },
-  {
-    "pro": "50615",
-    "status": "OPEN",
-    "pu_date": "2026-09-25",
-    "pu_city": "WINCHESTER",
-    "pu_state": "KY",
-    "pu_hours": "",
-    "del_date": "2026-09-28",
-    "del_city": "JACKSONVILLE",
-    "del_state": "FL",
-    "del_hours": "AD REQD",
-    "equipment": "Van",
-    "weight_lbs": 8544,
-    "carrier_rate": null,
-    "updated_at": "2026-09-22T18:48:08.313779+00:00",
-    "lane": "WINCHESTER KY-JACKSONVILLE FL"
   },
   {
     "pro": "50616",
@@ -355,6 +338,23 @@
     "carrier_rate": null,
     "updated_at": "2026-09-21T17:40:08.228328+00:00",
     "lane": "AUBURN AL-LA CROSSE WI"
+  },
+  {
+    "pro": "50615",
+    "status": "OPEN",
+    "pu_date": "2026-09-28",
+    "pu_city": "WINCHESTER",
+    "pu_state": "KY",
+    "pu_hours": "NEEDED",
+    "del_date": "2026-09-29",
+    "del_city": "JACKSONVILLE",
+    "del_state": "FL",
+    "del_hours": "0500",
+    "equipment": "Van",
+    "weight_lbs": 8544,
+    "carrier_rate": 2500,
+    "updated_at": "2026-09-22T18:59:04.357219+00:00",
+    "lane": "WINCHESTER KY-JACKSONVILLE FL"
   },
   {
     "pro": "50405",
