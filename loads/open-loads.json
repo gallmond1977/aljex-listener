@@ -12,8 +12,8 @@
     "del_hours": "0600-0700",
     "equipment": "Van Hazmat",
     "weight_lbs": 44900,
-    "carrier_rate": 2300,
-    "updated_at": "2026-09-22T14:54:23.404762+00:00",
+    "carrier_rate": 2700,
+    "updated_at": "2026-09-22T15:48:14.238809+00:00",
     "lane": "OAKLAND TN-SALISBURY NC"
   },
   {
@@ -96,10 +96,27 @@
     "del_state": "MD",
     "del_hours": "0700-1300",
     "equipment": "Van",
-    "weight_lbs": 7500,
+    "weight_lbs": 10000,
     "carrier_rate": 1700,
-    "updated_at": "2026-09-22T15:42:52.436438+00:00",
+    "updated_at": "2026-09-22T15:49:43.823835+00:00",
     "lane": "BUFFALO NY-BELCAMP MD"
+  },
+  {
+    "pro": "50610",
+    "status": "OPEN",
+    "pu_date": "2026-09-24",
+    "pu_city": "MOUNT STERLING",
+    "pu_state": "KY",
+    "pu_hours": "NEEDED",
+    "del_date": "2026-09-25",
+    "del_city": "UXBRIDGE",
+    "del_state": "MA",
+    "del_hours": "ADREQD",
+    "equipment": "Van",
+    "weight_lbs": 13083,
+    "carrier_rate": 3500,
+    "updated_at": "2026-09-22T15:50:07.440832+00:00",
+    "lane": "MOUNT STERLING KY-UXBRIDGE MA"
   },
   {
     "pro": "50529",
