@@ -12,8 +12,8 @@
     "del_hours": "0600-1400",
     "equipment": "Flatbed w/ Tarps",
     "weight_lbs": 47000,
-    "carrier_rate": 1800,
-    "updated_at": "2026-09-22T14:37:16.945788+00:00",
+    "carrier_rate": 2000,
+    "updated_at": "2026-09-22T14:53:49.996622+00:00",
     "lane": "PAYSON UT-ALBUQUERQUE NM"
   },
   {
@@ -30,7 +30,7 @@
     "equipment": "Van Hazmat",
     "weight_lbs": 44900,
     "carrier_rate": 2300,
-    "updated_at": "2026-09-22T14:42:59.869967+00:00",
+    "updated_at": "2026-09-22T14:54:23.404762+00:00",
     "lane": "OAKLAND TN-SALISBURY NC"
   },
   {
