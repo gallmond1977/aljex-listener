@@ -102,23 +102,6 @@
     "lane": "LAGRANGE GA-BIRMINGHAM AL"
   },
   {
-    "pro": "50623",
-    "status": "OPEN",
-    "pu_date": "2026-09-23",
-    "pu_city": "UNION CITY",
-    "pu_state": "GA",
-    "pu_hours": "0800",
-    "del_date": "2026-09-24",
-    "del_city": "HOUSTON",
-    "del_state": "TX",
-    "del_hours": "0800-1500",
-    "equipment": "26' Straight Box Truck",
-    "weight_lbs": 8000,
-    "carrier_rate": 1300,
-    "updated_at": "2026-09-22T20:19:58.372932+00:00",
-    "lane": "UNION CITY GA-HOUSTON TX"
-  },
-  {
     "pro": "50625",
     "status": "OPEN",
     "pu_date": "2026-09-23",
