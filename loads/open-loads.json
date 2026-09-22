@@ -132,7 +132,7 @@
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 8000,
     "carrier_rate": 1100,
-    "updated_at": "2026-09-22T19:13:37.198844+00:00",
+    "updated_at": "2026-09-22T19:17:28.814513+00:00",
     "lane": "UNION CITY GA-HOUSTON TX"
   },
   {
@@ -148,8 +148,8 @@
     "del_hours": "1700",
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 6000,
-    "carrier_rate": null,
-    "updated_at": "2026-09-22T19:14:59.962870+00:00",
+    "carrier_rate": 1100,
+    "updated_at": "2026-09-22T19:19:02.620295+00:00",
     "lane": "UNION CITY GA-PINECREST FL"
   },
   {
