@@ -102,6 +102,23 @@
     "lane": "MOUNT STERLING KY-UXBRIDGE MA"
   },
   {
+    "pro": "50612",
+    "status": "OPEN",
+    "pu_date": "2026-09-23",
+    "pu_city": "MOUNT STERLING",
+    "pu_state": "KY",
+    "pu_hours": "NEEDED",
+    "del_date": "2026-09-25",
+    "del_city": "UXBRIDGE",
+    "del_state": "MA",
+    "del_hours": "AD REQD",
+    "equipment": "Van",
+    "weight_lbs": 4871,
+    "carrier_rate": 3500,
+    "updated_at": "2026-09-22T16:08:30.868498+00:00",
+    "lane": "MOUNT STERLING KY-UXBRIDGE MA"
+  },
+  {
     "pro": "50619",
     "status": "OPEN",
     "pu_date": "2026-09-23",
@@ -134,6 +151,23 @@
     "carrier_rate": 1700,
     "updated_at": "2026-09-22T15:51:21.312429+00:00",
     "lane": "BUFFALO NY-BELCAMP MD"
+  },
+  {
+    "pro": "50621",
+    "status": "OPEN",
+    "pu_date": "2026-09-23",
+    "pu_city": "COLUMBUS",
+    "pu_state": "GA",
+    "pu_hours": "0930-1000",
+    "del_date": "2026-09-23",
+    "del_city": "ATLANTA",
+    "del_state": "GA",
+    "del_hours": "0800-1600",
+    "equipment": "26' Straight Box Truck",
+    "weight_lbs": 9000,
+    "carrier_rate": 300,
+    "updated_at": "2026-09-22T16:08:23.958023+00:00",
+    "lane": "COLUMBUS GA-ATLANTA GA"
   },
   {
     "pro": "50529",
@@ -525,6 +559,23 @@
     "carrier_rate": 1700,
     "updated_at": "2026-09-18T16:15:41.377044+00:00",
     "lane": "BUFFALO NY-BELCAMP MD"
+  },
+  {
+    "pro": "50551",
+    "status": "RELEASED",
+    "pu_date": "2026-09-18",
+    "pu_city": "COLUMBUS",
+    "pu_state": "GA",
+    "pu_hours": "0800-1000",
+    "del_date": "2026-09-18",
+    "del_city": "ATLANTA",
+    "del_state": "GA",
+    "del_hours": "0800-1600",
+    "equipment": "26' Straight Box Truck",
+    "weight_lbs": 7000,
+    "carrier_rate": 350,
+    "updated_at": "2026-09-18T18:34:26.255925+00:00",
+    "lane": "COLUMBUS GA-ATLANTA GA"
   },
   {
     "pro": "50581",
