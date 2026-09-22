@@ -251,7 +251,7 @@
     "equipment": "Flatbed",
     "weight_lbs": 44900,
     "carrier_rate": 2300,
-    "updated_at": "2026-09-22T12:09:55.730527+00:00",
+    "updated_at": "2026-09-22T16:42:53.099205+00:00",
     "lane": "ALLIANCE OH-MACON GA"
   },
   {
@@ -302,7 +302,24 @@
     "equipment": "Van",
     "weight_lbs": 11400,
     "carrier_rate": null,
-    "updated_at": "2026-09-22T16:38:32.612921+00:00",
+    "updated_at": "2026-09-22T16:40:12.785499+00:00",
+    "lane": "MOUNT STERLING KY-BURLINGTON NJ"
+  },
+  {
+    "pro": "50618",
+    "status": "OPEN",
+    "pu_date": "2026-09-25",
+    "pu_city": "MOUNT STERLING",
+    "pu_state": "KY",
+    "pu_hours": "NEEDED",
+    "del_date": "2026-09-28",
+    "del_city": "BURLINGTON",
+    "del_state": "NJ",
+    "del_hours": "NEEDED",
+    "equipment": "Van",
+    "weight_lbs": 4005,
+    "carrier_rate": null,
+    "updated_at": "2026-09-22T16:41:53.725594+00:00",
     "lane": "MOUNT STERLING KY-BURLINGTON NJ"
   },
   {
