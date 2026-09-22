@@ -187,6 +187,23 @@
     "lane": "WINCHESTER KY-JACKSONVILLE FL"
   },
   {
+    "pro": "50626",
+    "status": "OPEN",
+    "pu_date": "2026-09-24",
+    "pu_city": "EL DORADO",
+    "pu_state": "AR",
+    "pu_hours": "0700-1500",
+    "del_date": "2026-09-25",
+    "del_city": "CALHOUN",
+    "del_state": "GA",
+    "del_hours": "0730-1400",
+    "equipment": "Van",
+    "weight_lbs": 43212,
+    "carrier_rate": 2000,
+    "updated_at": "2026-09-22T19:25:05.385356+00:00",
+    "lane": "EL DORADO AR-CALHOUN GA"
+  },
+  {
     "pro": "50529",
     "status": "OPEN",
     "pu_date": "2026-09-25",
@@ -610,6 +627,23 @@
     "carrier_rate": 200,
     "updated_at": "2026-09-18T01:05:40.994790+00:00",
     "lane": "RICHMOND VA-RICHMOND VA"
+  },
+  {
+    "pro": "50476",
+    "status": "DELIVERED",
+    "pu_date": "2026-09-21",
+    "pu_city": "EL DORADO",
+    "pu_state": "AR",
+    "pu_hours": "0700-1500",
+    "del_date": "2026-09-22",
+    "del_city": "CALHOUN",
+    "del_state": "GA",
+    "del_hours": "0730-1430",
+    "equipment": "Van",
+    "weight_lbs": 43006,
+    "carrier_rate": 2000,
+    "updated_at": "2026-09-22T15:59:05.723552+00:00",
+    "lane": "EL DORADO AR-CALHOUN GA"
   },
   {
     "pro": "50581",
