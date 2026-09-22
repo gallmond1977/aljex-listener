@@ -11,9 +11,9 @@
     "del_state": "NM",
     "del_hours": "0600-1400",
     "equipment": "Flatbed w/ Tarps",
-    "weight_lbs": 45000,
+    "weight_lbs": 46000,
     "carrier_rate": 1800,
-    "updated_at": "2026-09-22T14:29:43.836736+00:00",
+    "updated_at": "2026-09-22T14:31:11.483747+00:00",
     "lane": "PAYSON UT-ALBUQUERQUE NM"
   },
   {
@@ -98,7 +98,7 @@
     "equipment": "Flatbed Hot Shot",
     "weight_lbs": 6000,
     "carrier_rate": 500,
-    "updated_at": "2026-09-21T20:41:48.501207+00:00",
+    "updated_at": "2026-09-22T14:33:22.613975+00:00",
     "lane": "CHARLOTTE NC-CARY NC"
   },
   {
