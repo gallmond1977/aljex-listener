@@ -13,7 +13,7 @@
     "equipment": "Van Hazmat",
     "weight_lbs": 44900,
     "carrier_rate": 2700,
-    "updated_at": "2026-09-22T15:50:13.674757+00:00",
+    "updated_at": "2026-09-22T15:56:37.067453+00:00",
     "lane": "OAKLAND TN-SALISBURY NC"
   },
   {
@@ -68,6 +68,23 @@
     "lane": "WINCHESTER KY-BURLINGTON NJ"
   },
   {
+    "pro": "50611",
+    "status": "OPEN",
+    "pu_date": "2026-09-23",
+    "pu_city": "MOUNT STERLING",
+    "pu_state": "KY",
+    "pu_hours": "NEEDED",
+    "del_date": "",
+    "del_city": "UXBRIDGE",
+    "del_state": "MA",
+    "del_hours": "NEEDED",
+    "equipment": "Van",
+    "weight_lbs": 10200,
+    "carrier_rate": 3500,
+    "updated_at": "2026-09-22T16:00:08.434819+00:00",
+    "lane": "MOUNT STERLING KY-UXBRIDGE MA"
+  },
+  {
     "pro": "50619",
     "status": "OPEN",
     "pu_date": "2026-09-23",
@@ -79,9 +96,9 @@
     "del_state": "KS",
     "del_hours": "1000-1400",
     "equipment": "Van",
-    "weight_lbs": 35000,
+    "weight_lbs": 36000,
     "carrier_rate": null,
-    "updated_at": "2026-09-22T15:21:51.755234+00:00",
+    "updated_at": "2026-09-22T15:59:06.500145+00:00",
     "lane": "LAGRANGE GA-LENEXA KS"
   },
   {
@@ -115,7 +132,7 @@
     "equipment": "Van",
     "weight_lbs": 13083,
     "carrier_rate": 3500,
-    "updated_at": "2026-09-22T15:50:07.440832+00:00",
+    "updated_at": "2026-09-22T15:56:46.041183+00:00",
     "lane": "MOUNT STERLING KY-UXBRIDGE MA"
   },
   {
