@@ -11,10 +11,27 @@
     "del_state": "NM",
     "del_hours": "0600-1400",
     "equipment": "Flatbed w/ Tarps",
-    "weight_lbs": 46000,
+    "weight_lbs": 47000,
     "carrier_rate": 1800,
-    "updated_at": "2026-09-22T14:31:11.483747+00:00",
+    "updated_at": "2026-09-22T14:37:16.945788+00:00",
     "lane": "PAYSON UT-ALBUQUERQUE NM"
+  },
+  {
+    "pro": "50609",
+    "status": "OPEN",
+    "pu_date": "2026-09-22",
+    "pu_city": "OAKLAND",
+    "pu_state": "TN",
+    "pu_hours": "0800-1500",
+    "del_date": "2026-09-23",
+    "del_city": "SALISBURY",
+    "del_state": "NC",
+    "del_hours": "0600-0700",
+    "equipment": "Van Hazmat",
+    "weight_lbs": 44900,
+    "carrier_rate": 2300,
+    "updated_at": "2026-09-22T14:39:42.961852+00:00",
+    "lane": "OAKLAND TN-SALISBURY NC"
   },
   {
     "pro": "50107",
@@ -83,23 +100,6 @@
     "carrier_rate": 2200,
     "updated_at": "2026-09-22T13:22:22.241350+00:00",
     "lane": "WINCHESTER KY-BURLINGTON NJ"
-  },
-  {
-    "pro": "50604",
-    "status": "OPEN",
-    "pu_date": "2026-09-23",
-    "pu_city": "CHARLOTTE",
-    "pu_state": "NC",
-    "pu_hours": "0800-1000",
-    "del_date": "2026-09-23",
-    "del_city": "CARY",
-    "del_state": "NC",
-    "del_hours": "NEEDED",
-    "equipment": "Flatbed Hot Shot",
-    "weight_lbs": 6000,
-    "carrier_rate": 500,
-    "updated_at": "2026-09-22T14:33:22.613975+00:00",
-    "lane": "CHARLOTTE NC-CARY NC"
   },
   {
     "pro": "50605",
@@ -425,6 +425,23 @@
     "lane": "LA PORTE TX-GREENVILLE SC"
   },
   {
+    "pro": "50477",
+    "status": "RELEASED",
+    "pu_date": "2026-09-15",
+    "pu_city": "OAKLAND",
+    "pu_state": "TN",
+    "pu_hours": "0800-1500",
+    "del_date": "2026-09-16",
+    "del_city": "SALISBURY",
+    "del_state": "NC",
+    "del_hours": "0001-0700",
+    "equipment": "Van Hazmat",
+    "weight_lbs": 44900,
+    "carrier_rate": 2600,
+    "updated_at": "2026-09-21T14:49:48.495383+00:00",
+    "lane": "OAKLAND TN-SALISBURY NC"
+  },
+  {
     "pro": "50470",
     "status": "RELEASED",
     "pu_date": "2026-09-16",
@@ -474,23 +491,6 @@
     "carrier_rate": 200,
     "updated_at": "2026-09-18T01:05:40.994790+00:00",
     "lane": "RICHMOND VA-RICHMOND VA"
-  },
-  {
-    "pro": "50539",
-    "status": "RELEASED",
-    "pu_date": "2026-09-17",
-    "pu_city": "CHARLOTTE",
-    "pu_state": "NC",
-    "pu_hours": "0800-1400",
-    "del_date": "2026-09-18",
-    "del_city": "CARY",
-    "del_state": "NC",
-    "del_hours": "0800-1200",
-    "equipment": "Flatbed Hot Shot",
-    "weight_lbs": 6000,
-    "carrier_rate": 500,
-    "updated_at": "2026-09-18T12:18:34.327503+00:00",
-    "lane": "CHARLOTTE NC-CARY NC"
   },
   {
     "pro": "50581",
