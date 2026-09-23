@@ -17,23 +17,6 @@
     "lane": "COLUMBUS GA-VAN WERT OH"
   },
   {
-    "pro": "50606",
-    "status": "OPEN",
-    "pu_date": "2026-09-23",
-    "pu_city": "MACON",
-    "pu_state": "GA",
-    "pu_hours": "0800-1530",
-    "del_date": "2026-09-24",
-    "del_city": "CALHOUN",
-    "del_state": "GA",
-    "del_hours": "0700-1500",
-    "equipment": "Van",
-    "weight_lbs": 34000,
-    "carrier_rate": 600,
-    "updated_at": "2026-09-23T12:12:40.799866+00:00",
-    "lane": "MACON GA-CALHOUN GA"
-  },
-  {
     "pro": "50610",
     "status": "OPEN",
     "pu_date": "2026-09-23",
@@ -66,23 +49,6 @@
     "carrier_rate": 3500,
     "updated_at": "2026-09-22T18:46:46.358776+00:00",
     "lane": "WINCHESTER KY-UXBRIDGE MA"
-  },
-  {
-    "pro": "50622",
-    "status": "OPEN",
-    "pu_date": "2026-09-23",
-    "pu_city": "LAGRANGE",
-    "pu_state": "GA",
-    "pu_hours": "1400-1600",
-    "del_date": "2026-09-24",
-    "del_city": "BIRMINGHAM",
-    "del_state": "AL",
-    "del_hours": "0800-1630",
-    "equipment": "Van",
-    "weight_lbs": 20000,
-    "carrier_rate": 750,
-    "updated_at": "2026-09-22T18:58:36.999986+00:00",
-    "lane": "LAGRANGE GA-BIRMINGHAM AL"
   },
   {
     "pro": "50625",
@@ -967,6 +933,23 @@
     "carrier_rate": 2400,
     "updated_at": "2026-09-23T12:33:43.726625+00:00",
     "lane": "WINCHESTER KY-BURLINGTON NJ"
+  },
+  {
+    "pro": "50606",
+    "status": "COVERED",
+    "pu_date": "2026-09-23",
+    "pu_city": "MACON",
+    "pu_state": "GA",
+    "pu_hours": "0800-1530",
+    "del_date": "2026-09-24",
+    "del_city": "CALHOUN",
+    "del_state": "GA",
+    "del_hours": "0700-1500",
+    "equipment": "Van",
+    "weight_lbs": 34000,
+    "carrier_rate": 600,
+    "updated_at": "2026-09-23T13:33:33.958351+00:00",
+    "lane": "MACON GA-CALHOUN GA"
   },
   {
     "pro": "50611",
