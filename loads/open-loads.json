@@ -646,23 +646,6 @@
     "lane": "LA PORTE TX-GREENVILLE SC"
   },
   {
-    "pro": "50404",
-    "status": "RELEASED",
-    "pu_date": "2026-09-14",
-    "pu_city": "LA PORTE",
-    "pu_state": "TX",
-    "pu_hours": "0800-1430",
-    "del_date": "2026-09-16",
-    "del_city": "GREENVILLE",
-    "del_state": "SC",
-    "del_hours": "0630-1330",
-    "equipment": "Van",
-    "weight_lbs": 41328,
-    "carrier_rate": 2800,
-    "updated_at": "2026-09-16T15:22:58.334300+00:00",
-    "lane": "LA PORTE TX-GREENVILLE SC"
-  },
-  {
     "pro": "50492",
     "status": "DELIVERED",
     "pu_date": "2026-09-15",
