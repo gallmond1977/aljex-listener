@@ -829,7 +829,7 @@
     "equipment": "Van",
     "weight_lbs": 10200,
     "carrier_rate": 3800,
-    "updated_at": "2026-09-23T18:46:13.883536+00:00",
+    "updated_at": "2026-09-23T19:01:11.277227+00:00",
     "lane": "WINCHESTER KY-UXBRIDGE MA"
   },
   {
@@ -846,7 +846,7 @@
     "equipment": "Flatbed",
     "weight_lbs": 47500,
     "carrier_rate": 1300,
-    "updated_at": "2026-09-23T18:07:19.238688+00:00",
+    "updated_at": "2026-09-23T19:02:34.635696+00:00",
     "lane": "MONTGOMERY AL-AUGUSTA GA"
   }
 ]
