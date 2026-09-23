@@ -111,11 +111,11 @@
     "del_date": "2026-09-24",
     "del_city": "ROCKVILLE",
     "del_state": "MD",
-    "del_hours": "",
+    "del_hours": "0900",
     "equipment": "Sprinter Van",
     "weight_lbs": 200,
     "carrier_rate": null,
-    "updated_at": "2026-09-23T15:42:40.103615+00:00",
+    "updated_at": "2026-09-23T15:54:27.716342+00:00",
     "lane": "WINCHESTER KY-ROCKVILLE MD"
   },
   {
@@ -391,6 +391,23 @@
     "lane": "WINCHESTER KY-BURLINGTON NJ"
   },
   {
+    "pro": "50648",
+    "status": "OPEN",
+    "pu_date": "2026-09-25",
+    "pu_city": "CHESTER",
+    "pu_state": "VA",
+    "pu_hours": "0700-1500",
+    "del_date": "2026-09-28",
+    "del_city": "OWENSBORO",
+    "del_state": "KY",
+    "del_hours": "0800-1500",
+    "equipment": "Van",
+    "weight_lbs": 44000,
+    "carrier_rate": null,
+    "updated_at": "2026-09-23T15:54:46.590135+00:00",
+    "lane": "CHESTER VA-OWENSBORO KY"
+  },
+  {
     "pro": "50466",
     "status": "OPEN",
     "pu_date": "2026-09-28",
@@ -474,6 +491,23 @@
     "carrier_rate": 2500,
     "updated_at": "2026-09-23T15:27:53.420978+00:00",
     "lane": "WINCHESTER KY-JACKSONVILLE FL"
+  },
+  {
+    "pro": "50649",
+    "status": "OPEN",
+    "pu_date": "2026-09-28",
+    "pu_city": "ROCKVILLE",
+    "pu_state": "MD",
+    "pu_hours": "NEEDED",
+    "del_date": "2026-09-29",
+    "del_city": "WINCHESTER",
+    "del_state": "KY",
+    "del_hours": "",
+    "equipment": "Sprinter Van",
+    "weight_lbs": 200,
+    "carrier_rate": null,
+    "updated_at": "2026-09-23T15:52:41.889674+00:00",
+    "lane": "ROCKVILLE MD-WINCHESTER KY"
   },
   {
     "pro": "50638",
@@ -846,7 +880,7 @@
     "equipment": "Flatbed",
     "weight_lbs": 47500,
     "carrier_rate": 1300,
-    "updated_at": "2026-09-23T15:13:02.380499+00:00",
+    "updated_at": "2026-09-23T15:50:40.831421+00:00",
     "lane": "MONTGOMERY AL-AUGUSTA GA"
   }
 ]
