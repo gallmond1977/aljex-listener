@@ -131,8 +131,8 @@
     "del_hours": "1200-1500",
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 1100,
-    "carrier_rate": 600,
-    "updated_at": "2026-09-23T12:56:28.480765+00:00",
+    "carrier_rate": 700,
+    "updated_at": "2026-09-23T13:23:04.546503+00:00",
     "lane": "WINCHESTER KY-CHICAGO IL"
   },
   {
@@ -287,6 +287,23 @@
     "carrier_rate": 600,
     "updated_at": "2026-09-23T13:07:36.740056+00:00",
     "lane": "MACON GA-CALHOUN GA"
+  },
+  {
+    "pro": "50637",
+    "status": "OPEN",
+    "pu_date": "2026-09-24",
+    "pu_city": "CHESTER",
+    "pu_state": "VA",
+    "pu_hours": "0700-1500",
+    "del_date": "2026-09-25",
+    "del_city": "LYNCHBURG",
+    "del_state": "OH",
+    "del_hours": "0800",
+    "equipment": "Van",
+    "weight_lbs": 42840,
+    "carrier_rate": 1400,
+    "updated_at": "2026-09-23T13:23:39.915369+00:00",
+    "lane": "CHESTER VA-LYNCHBURG OH"
   },
   {
     "pro": "50529",
@@ -474,6 +491,23 @@
     "carrier_rate": 2500,
     "updated_at": "2026-09-22T18:59:04.357219+00:00",
     "lane": "WINCHESTER KY-JACKSONVILLE FL"
+  },
+  {
+    "pro": "50638",
+    "status": "OPEN",
+    "pu_date": "2026-09-29",
+    "pu_city": "SHILOH",
+    "pu_state": "OH",
+    "pu_hours": "0800-1500",
+    "del_date": "2026-09-30",
+    "del_city": "HENDERSONVILLE",
+    "del_state": "NC",
+    "del_hours": "0700-1500",
+    "equipment": "Flatbed Hot Shot",
+    "weight_lbs": 6500,
+    "carrier_rate": null,
+    "updated_at": "2026-09-23T13:24:33.368803+00:00",
+    "lane": "SHILOH OH-HENDERSONVILLE NC"
   },
   {
     "pro": "50405",
