@@ -698,7 +698,7 @@
   },
   {
     "pro": "50523",
-    "status": "COVERED",
+    "status": "PICKUP",
     "pu_date": "2026-09-23",
     "pu_city": "WINCHESTER",
     "pu_state": "KY",
@@ -710,7 +710,7 @@
     "equipment": "Van",
     "weight_lbs": 4000,
     "carrier_rate": 2400,
-    "updated_at": "2026-09-22T15:31:31.835825+00:00",
+    "updated_at": "2026-09-23T11:58:14.088924+00:00",
     "lane": "WINCHESTER KY-JACKSONVILLE FL"
   },
   {
