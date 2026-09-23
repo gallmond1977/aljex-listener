@@ -204,23 +204,6 @@
     "lane": "ALLIANCE OH-MACON GA"
   },
   {
-    "pro": "50618",
-    "status": "OPEN",
-    "pu_date": "2026-09-25",
-    "pu_city": "WINCHESTER",
-    "pu_state": "KY",
-    "pu_hours": "",
-    "del_date": "2026-09-28",
-    "del_city": "BURLINGTON",
-    "del_state": "NJ",
-    "del_hours": "NEEDED",
-    "equipment": "Van",
-    "weight_lbs": 4005,
-    "carrier_rate": null,
-    "updated_at": "2026-09-23T15:28:56.255524+00:00",
-    "lane": "WINCHESTER KY-BURLINGTON NJ"
-  },
-  {
     "pro": "50648",
     "status": "OPEN",
     "pu_date": "2026-09-25",
@@ -524,6 +507,23 @@
     "weight_lbs": 11400,
     "carrier_rate": 2300,
     "updated_at": "2026-09-23T14:33:17.610524+00:00",
+    "lane": "WINCHESTER KY-BURLINGTON NJ"
+  },
+  {
+    "pro": "50618",
+    "status": "OPEN",
+    "pu_date": "2026-09-30",
+    "pu_city": "WINCHESTER",
+    "pu_state": "KY",
+    "pu_hours": "1100-1400",
+    "del_date": "2026-10-01",
+    "del_city": "BURLINGTON",
+    "del_state": "NJ",
+    "del_hours": "0500",
+    "equipment": "Van",
+    "weight_lbs": 4005,
+    "carrier_rate": null,
+    "updated_at": "2026-09-23T20:34:16.339748+00:00",
     "lane": "WINCHESTER KY-BURLINGTON NJ"
   },
   {
