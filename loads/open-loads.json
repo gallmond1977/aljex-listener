@@ -80,8 +80,8 @@
     "del_hours": "0900",
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 200,
-    "carrier_rate": 1000,
-    "updated_at": "2026-09-23T16:34:34.816514+00:00",
+    "carrier_rate": 1300,
+    "updated_at": "2026-09-23T16:49:16.225943+00:00",
     "lane": "WINCHESTER KY-ROCKVILLE MD"
   },
   {
@@ -377,18 +377,18 @@
     "pro": "50652",
     "status": "OPEN",
     "pu_date": "2026-09-25",
-    "pu_city": "INDEPENDENCE",
-    "pu_state": "MO",
+    "pu_city": "KANKAKEE",
+    "pu_state": "IL",
     "pu_hours": "0700-1530",
-    "del_date": "",
+    "del_date": "2026-09-28",
     "del_city": "JACKSONVILLE",
     "del_state": "TX",
     "del_hours": "0800-1500",
     "equipment": "Van",
     "weight_lbs": 44500,
-    "carrier_rate": null,
-    "updated_at": "2026-09-23T16:45:06.656552+00:00",
-    "lane": "INDEPENDENCE MO-JACKSONVILLE TX"
+    "carrier_rate": 2600,
+    "updated_at": "2026-09-23T16:47:45.598539+00:00",
+    "lane": "KANKAKEE IL-JACKSONVILLE TX"
   },
   {
     "pro": "50466",
