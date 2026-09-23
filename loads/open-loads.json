@@ -90,15 +90,15 @@
     "pu_date": "2026-09-23",
     "pu_city": "UNION CITY",
     "pu_state": "GA",
-    "pu_hours": "0730",
+    "pu_hours": "0800-1030",
     "del_date": "2026-09-24",
     "del_city": "HOUSTON",
     "del_state": "TX",
     "del_hours": "0800-1500",
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 8000,
-    "carrier_rate": 1400,
-    "updated_at": "2026-09-22T23:40:45.015198+00:00",
+    "carrier_rate": 1300,
+    "updated_at": "2026-09-23T12:02:21.154538+00:00",
     "lane": "UNION CITY GA-HOUSTON TX"
   },
   {
@@ -710,7 +710,7 @@
     "equipment": "Van",
     "weight_lbs": 4000,
     "carrier_rate": 2400,
-    "updated_at": "2026-09-23T11:58:14.088924+00:00",
+    "updated_at": "2026-09-23T12:03:04.001218+00:00",
     "lane": "WINCHESTER KY-JACKSONVILLE FL"
   },
   {
@@ -727,7 +727,7 @@
     "equipment": "Van",
     "weight_lbs": 4000,
     "carrier_rate": 2400,
-    "updated_at": "2026-09-22T19:49:17.874847+00:00",
+    "updated_at": "2026-09-23T12:04:03.159334+00:00",
     "lane": "WINCHESTER KY-BURLINGTON NJ"
   }
 ]
