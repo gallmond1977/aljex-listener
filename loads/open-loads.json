@@ -107,7 +107,7 @@
     "pu_date": "2026-09-23",
     "pu_city": "WINCHESTER",
     "pu_state": "KY",
-    "pu_hours": "1200-1300",
+    "pu_hours": "",
     "del_date": "2026-09-24",
     "del_city": "ROCKVILLE",
     "del_state": "MD",
@@ -115,7 +115,7 @@
     "equipment": "Sprinter Van",
     "weight_lbs": 200,
     "carrier_rate": null,
-    "updated_at": "2026-09-23T15:54:27.716342+00:00",
+    "updated_at": "2026-09-23T15:57:23.217915+00:00",
     "lane": "WINCHESTER KY-ROCKVILLE MD"
   },
   {
@@ -400,11 +400,11 @@
     "del_date": "2026-09-28",
     "del_city": "OWENSBORO",
     "del_state": "KY",
-    "del_hours": "0800-1500",
+    "del_hours": "",
     "equipment": "Van",
-    "weight_lbs": 44000,
-    "carrier_rate": null,
-    "updated_at": "2026-09-23T15:54:46.590135+00:00",
+    "weight_lbs": 42840,
+    "carrier_rate": 1700,
+    "updated_at": "2026-09-23T15:56:48.033340+00:00",
     "lane": "CHESTER VA-OWENSBORO KY"
   },
   {
