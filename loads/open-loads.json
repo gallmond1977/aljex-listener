@@ -85,23 +85,6 @@
     "lane": "GREENSBORO NC-ROXBORO NC"
   },
   {
-    "pro": "50644",
-    "status": "OPEN",
-    "pu_date": "2026-09-24",
-    "pu_city": "CALHOUN",
-    "pu_state": "GA",
-    "pu_hours": "0800-1430",
-    "del_date": "2026-09-25",
-    "del_city": "LINCOLNTON",
-    "del_state": "NC",
-    "del_hours": "0700-1500",
-    "equipment": "Van",
-    "weight_lbs": 41000,
-    "carrier_rate": 1300,
-    "updated_at": "2026-09-23T20:56:07.460318+00:00",
-    "lane": "CALHOUN GA-LINCOLNTON NC"
-  },
-  {
     "pro": "50646",
     "status": "OPEN",
     "pu_date": "2026-09-24",
@@ -183,7 +166,7 @@
     "equipment": "Flatbed",
     "weight_lbs": 47500,
     "carrier_rate": 1300,
-    "updated_at": "2026-09-23T20:59:55.660493+00:00",
+    "updated_at": "2026-09-23T21:00:26.425552+00:00",
     "lane": "MONTGOMERY AL-AUGUSTA GA"
   },
   {
