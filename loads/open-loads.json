@@ -51,6 +51,23 @@
     "lane": "MONTGOMERY AL-AUGUSTA GA"
   },
   {
+    "pro": "50655",
+    "status": "OPEN",
+    "pu_date": "2026-09-23",
+    "pu_city": "ATLANTA",
+    "pu_state": "GA",
+    "pu_hours": "",
+    "del_date": "2026-09-24",
+    "del_city": "WINSTON SALEM",
+    "del_state": "NC",
+    "del_hours": "0800-1400",
+    "equipment": "26' Straight Box Truck",
+    "weight_lbs": 323,
+    "carrier_rate": null,
+    "updated_at": "2026-09-23T18:23:10.754022+00:00",
+    "lane": "ATLANTA GA-WINSTON SALEM NC"
+  },
+  {
     "pro": "50107",
     "status": "OPEN",
     "pu_date": "2026-09-24",
@@ -165,8 +182,8 @@
     "del_hours": "0900-1200",
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 1500,
-    "carrier_rate": 300,
-    "updated_at": "2026-09-23T15:16:39.653427+00:00",
+    "carrier_rate": 350,
+    "updated_at": "2026-09-23T18:22:36.104882+00:00",
     "lane": "RICHMOND VA-WASHINGTON DC"
   },
   {
@@ -199,8 +216,8 @@
     "del_hours": "1000-1500",
     "equipment": "Flatbed",
     "weight_lbs": 40000,
-    "carrier_rate": 600,
-    "updated_at": "2026-09-23T17:04:38.748981+00:00",
+    "carrier_rate": 650,
+    "updated_at": "2026-09-23T18:21:58.288633+00:00",
     "lane": "GREENSBORO NC-ROXBORO NC"
   },
   {
