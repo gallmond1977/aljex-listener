@@ -204,23 +204,6 @@
     "lane": "CHESTER VA-OWENSBORO KY"
   },
   {
-    "pro": "50658",
-    "status": "OPEN",
-    "pu_date": "2026-09-24",
-    "pu_city": "HANAHAN",
-    "pu_state": "SC",
-    "pu_hours": "0730-1000",
-    "del_date": "",
-    "del_city": "EVANS",
-    "del_state": "GA",
-    "del_hours": "0800-1400",
-    "equipment": "Sprinter Van",
-    "weight_lbs": 575,
-    "carrier_rate": 300,
-    "updated_at": "2026-09-23T20:00:11.108391+00:00",
-    "lane": "HANAHAN SC-EVANS GA"
-  },
-  {
     "pro": "50529",
     "status": "OPEN",
     "pu_date": "2026-09-25",
