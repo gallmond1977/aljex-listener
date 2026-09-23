@@ -153,23 +153,6 @@
     "lane": "RICHMOND VA-WASHINGTON DC"
   },
   {
-    "pro": "50632",
-    "status": "OPEN",
-    "pu_date": "2026-09-24",
-    "pu_city": "RICHMOND",
-    "pu_state": "VA",
-    "pu_hours": "0800-0830",
-    "del_date": "2026-09-24",
-    "del_city": "WASHINGTON",
-    "del_state": "DC",
-    "del_hours": "0900-1200",
-    "equipment": "26' Straight Box Truck",
-    "weight_lbs": 1500,
-    "carrier_rate": 400,
-    "updated_at": "2026-09-23T18:57:12.142128+00:00",
-    "lane": "RICHMOND VA-WASHINGTON DC"
-  },
-  {
     "pro": "50637",
     "status": "OPEN",
     "pu_date": "2026-09-24",
@@ -268,7 +251,7 @@
     "equipment": "Sprinter Van",
     "weight_lbs": 575,
     "carrier_rate": 300,
-    "updated_at": "2026-09-23T19:34:50.763610+00:00",
+    "updated_at": "2026-09-23T19:37:59.199178+00:00",
     "lane": "HANAHAN SC-EVANS GA"
   },
   {
@@ -583,7 +566,7 @@
     "pu_date": "2026-10-05",
     "pu_city": "GREENWOOD",
     "pu_state": "WI",
-    "pu_hours": "",
+    "pu_hours": "1400",
     "del_date": "2026-10-07",
     "del_city": "LITHIA SPRINGS",
     "del_state": "GA",
@@ -591,7 +574,7 @@
     "equipment": "Reefer",
     "weight_lbs": 43500,
     "carrier_rate": null,
-    "updated_at": "2026-09-23T19:19:25.985484+00:00",
+    "updated_at": "2026-09-23T19:38:42.977115+00:00",
     "lane": "GREENWOOD WI-LITHIA SPRINGS GA"
   },
   {
@@ -600,7 +583,7 @@
     "pu_date": "2026-10-06",
     "pu_city": "GREENWOOD",
     "pu_state": "WI",
-    "pu_hours": "",
+    "pu_hours": "1400",
     "del_date": "2026-10-08",
     "del_city": "LITHIA SPRINGS",
     "del_state": "GA",
@@ -608,7 +591,7 @@
     "equipment": "Reefer",
     "weight_lbs": 43500,
     "carrier_rate": null,
-    "updated_at": "2026-09-23T19:12:31.769190+00:00",
+    "updated_at": "2026-09-23T19:39:11.780419+00:00",
     "lane": "GREENWOOD WI-LITHIA SPRINGS GA"
   },
   {
@@ -916,5 +899,22 @@
     "carrier_rate": 1300,
     "updated_at": "2026-09-23T19:02:34.635696+00:00",
     "lane": "MONTGOMERY AL-AUGUSTA GA"
+  },
+  {
+    "pro": "50632",
+    "status": "COVERED",
+    "pu_date": "2026-09-24",
+    "pu_city": "RICHMOND",
+    "pu_state": "VA",
+    "pu_hours": "0800-0830",
+    "del_date": "2026-09-24",
+    "del_city": "WASHINGTON",
+    "del_state": "DC",
+    "del_hours": "0900-1200",
+    "equipment": "26' Straight Box Truck",
+    "weight_lbs": 1500,
+    "carrier_rate": 400,
+    "updated_at": "2026-09-23T19:37:24.542197+00:00",
+    "lane": "RICHMOND VA-WASHINGTON DC"
   }
 ]
