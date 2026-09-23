@@ -97,8 +97,8 @@
     "del_hours": "0800-1600",
     "equipment": "Flatbed",
     "weight_lbs": 47500,
-    "carrier_rate": 1250,
-    "updated_at": "2026-09-22T20:42:39.987439+00:00",
+    "carrier_rate": 1300,
+    "updated_at": "2026-09-23T13:11:37.371019+00:00",
     "lane": "MONTGOMERY AL-AUGUSTA GA"
   },
   {
@@ -114,8 +114,8 @@
     "del_hours": "0800-1600",
     "equipment": "Flatbed",
     "weight_lbs": 47500,
-    "carrier_rate": 1250,
-    "updated_at": "2026-09-22T20:42:15.294391+00:00",
+    "carrier_rate": 1300,
+    "updated_at": "2026-09-23T13:12:37.091414+00:00",
     "lane": "MONTGOMERY AL-AUGUSTA GA"
   },
   {
@@ -678,23 +678,6 @@
     "carrier_rate": 2800,
     "updated_at": "2026-09-16T15:22:58.334300+00:00",
     "lane": "LA PORTE TX-GREENVILLE SC"
-  },
-  {
-    "pro": "50444",
-    "status": "RELEASED",
-    "pu_date": "2026-09-15",
-    "pu_city": "MACON",
-    "pu_state": "GA",
-    "pu_hours": "0800-1530",
-    "del_date": "2026-09-16",
-    "del_city": "CALHOUN",
-    "del_state": "GA",
-    "del_hours": "0700-1500",
-    "equipment": "Van",
-    "weight_lbs": 34000,
-    "carrier_rate": 650,
-    "updated_at": "2026-09-16T13:11:46.505803+00:00",
-    "lane": "MACON GA-CALHOUN GA"
   },
   {
     "pro": "50446",
