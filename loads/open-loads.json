@@ -149,7 +149,7 @@
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 9000,
     "carrier_rate": 350,
-    "updated_at": "2026-09-23T18:12:45.664490+00:00",
+    "updated_at": "2026-09-23T18:18:15.039101+00:00",
     "lane": "RICHMOND VA-WASHINGTON DC"
   },
   {
@@ -236,23 +236,6 @@
     "carrier_rate": 1850,
     "updated_at": "2026-09-23T15:47:16.467027+00:00",
     "lane": "CHESTER VA-OWENSBORO KY"
-  },
-  {
-    "pro": "50653",
-    "status": "OPEN",
-    "pu_date": "2026-09-24",
-    "pu_city": "RALEIGH",
-    "pu_state": "NC",
-    "pu_hours": "0800",
-    "del_date": "2026-09-24",
-    "del_city": "WINSTON SALEM",
-    "del_state": "NC",
-    "del_hours": "0800-1500",
-    "equipment": "Van",
-    "weight_lbs": 5351,
-    "carrier_rate": 500,
-    "updated_at": "2026-09-23T18:08:06.343249+00:00",
-    "lane": "RALEIGH NC-WINSTON SALEM NC"
   },
   {
     "pro": "50654",
@@ -782,23 +765,6 @@
     "lane": "RICHMOND VA-RICHMOND VA"
   },
   {
-    "pro": "50522",
-    "status": "RELEASED",
-    "pu_date": "2026-09-17",
-    "pu_city": "RALEIGH",
-    "pu_state": "NC",
-    "pu_hours": "0900",
-    "del_date": "2026-09-17",
-    "del_city": "WINSTON SALEM",
-    "del_state": "NC",
-    "del_hours": "0800-1500",
-    "equipment": "Van",
-    "weight_lbs": 7138,
-    "carrier_rate": 500,
-    "updated_at": "2026-09-18T12:16:20.082616+00:00",
-    "lane": "RALEIGH NC-WINSTON SALEM NC"
-  },
-  {
     "pro": "50528",
     "status": "RELEASED",
     "pu_date": "2026-09-17",
@@ -914,7 +880,7 @@
     "equipment": "Van",
     "weight_lbs": 4000,
     "carrier_rate": 2400,
-    "updated_at": "2026-09-23T18:01:22.295525+00:00",
+    "updated_at": "2026-09-23T18:16:59.805079+00:00",
     "lane": "WINCHESTER KY-BURLINGTON NJ"
   },
   {
