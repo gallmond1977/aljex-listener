@@ -561,6 +561,23 @@
     "lane": "WINCHESTER KY-BURLINGTON NJ"
   },
   {
+    "pro": "50656",
+    "status": "OPEN",
+    "pu_date": "2026-10-06",
+    "pu_city": "GREENWOOD",
+    "pu_state": "WI",
+    "pu_hours": "",
+    "del_date": "2026-10-08",
+    "del_city": "LITHIA SPRINGS",
+    "del_state": "GA",
+    "del_hours": "",
+    "equipment": "Reefer",
+    "weight_lbs": 43500,
+    "carrier_rate": null,
+    "updated_at": "2026-09-23T19:07:16.785706+00:00",
+    "lane": "GREENWOOD WI-LITHIA SPRINGS GA"
+  },
+  {
     "pro": "50082",
     "status": "OPEN",
     "pu_date": "2026-10-12",
@@ -746,6 +763,23 @@
     "carrier_rate": 200,
     "updated_at": "2026-09-18T01:05:40.994790+00:00",
     "lane": "RICHMOND VA-RICHMOND VA"
+  },
+  {
+    "pro": "50378",
+    "status": "RELEASED",
+    "pu_date": "2026-09-21",
+    "pu_city": "GREENWOOD",
+    "pu_state": "WI",
+    "pu_hours": "1200",
+    "del_date": "2026-09-23",
+    "del_city": "LITHIA SPRINGS",
+    "del_state": "GA",
+    "del_hours": "0730",
+    "equipment": "Reefer",
+    "weight_lbs": 41887,
+    "carrier_rate": 5500,
+    "updated_at": "2026-09-23T16:46:46.262064+00:00",
+    "lane": "GREENWOOD WI-LITHIA SPRINGS GA"
   },
   {
     "pro": "50476",
