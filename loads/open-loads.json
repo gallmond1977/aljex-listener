@@ -64,7 +64,7 @@
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 323,
     "carrier_rate": null,
-    "updated_at": "2026-09-23T19:13:24.357101+00:00",
+    "updated_at": "2026-09-23T19:19:19.755905+00:00",
     "lane": "RIDGEWAY VA-WINSTON SALEM NC"
   },
   {
@@ -559,6 +559,23 @@
     "carrier_rate": 2300,
     "updated_at": "2026-09-23T14:33:17.610524+00:00",
     "lane": "WINCHESTER KY-BURLINGTON NJ"
+  },
+  {
+    "pro": "50657",
+    "status": "OPEN",
+    "pu_date": "2026-10-05",
+    "pu_city": "GREENWOOD",
+    "pu_state": "WI",
+    "pu_hours": "",
+    "del_date": "2026-10-07",
+    "del_city": "LITHIA SPRINGS",
+    "del_state": "GA",
+    "del_hours": "",
+    "equipment": "Reefer",
+    "weight_lbs": 43500,
+    "carrier_rate": null,
+    "updated_at": "2026-09-23T19:19:25.985484+00:00",
+    "lane": "GREENWOOD WI-LITHIA SPRINGS GA"
   },
   {
     "pro": "50656",
