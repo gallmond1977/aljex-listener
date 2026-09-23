@@ -404,7 +404,7 @@
     "equipment": "Van",
     "weight_lbs": 42840,
     "carrier_rate": 1700,
-    "updated_at": "2026-09-23T15:56:48.033340+00:00",
+    "updated_at": "2026-09-23T16:05:01.671791+00:00",
     "lane": "CHESTER VA-OWENSBORO KY"
   },
   {
@@ -846,7 +846,7 @@
     "equipment": "Van",
     "weight_lbs": 4000,
     "carrier_rate": 2400,
-    "updated_at": "2026-09-23T15:08:14.068917+00:00",
+    "updated_at": "2026-09-23T16:02:57.819725+00:00",
     "lane": "WINCHESTER KY-BURLINGTON NJ"
   },
   {
