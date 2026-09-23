@@ -204,23 +204,6 @@
     "lane": "ALLIANCE OH-MACON GA"
   },
   {
-    "pro": "50616",
-    "status": "OPEN",
-    "pu_date": "2026-09-25",
-    "pu_city": "WINCHESTER",
-    "pu_state": "KY",
-    "pu_hours": "",
-    "del_date": "2026-09-28",
-    "del_city": "BURLINGTON",
-    "del_state": "NJ",
-    "del_hours": "AD REQD",
-    "equipment": "Van",
-    "weight_lbs": 12282,
-    "carrier_rate": null,
-    "updated_at": "2026-09-23T15:28:10.734192+00:00",
-    "lane": "WINCHESTER KY-BURLINGTON NJ"
-  },
-  {
     "pro": "50618",
     "status": "OPEN",
     "pu_date": "2026-09-25",
@@ -285,7 +268,7 @@
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 10467,
     "carrier_rate": null,
-    "updated_at": "2026-09-23T20:20:05.162055+00:00",
+    "updated_at": "2026-09-23T20:20:40.779691+00:00",
     "lane": "AUBURN AL-HOUSTON TX"
   },
   {
@@ -508,6 +491,23 @@
     "carrier_rate": null,
     "updated_at": "2026-09-21T19:01:39.973780+00:00",
     "lane": "ATLANTA GA-FOREST PARK GA"
+  },
+  {
+    "pro": "50616",
+    "status": "OPEN",
+    "pu_date": "2026-09-30",
+    "pu_city": "WINCHESTER",
+    "pu_state": "KY",
+    "pu_hours": "1100-1400",
+    "del_date": "2026-10-01",
+    "del_city": "BURLINGTON",
+    "del_state": "NJ",
+    "del_hours": "0500",
+    "equipment": "Van",
+    "weight_lbs": 12282,
+    "carrier_rate": null,
+    "updated_at": "2026-09-23T20:25:04.091056+00:00",
+    "lane": "WINCHESTER KY-BURLINGTON NJ"
   },
   {
     "pro": "50617",
