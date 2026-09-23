@@ -165,8 +165,8 @@
     "del_hours": "0900-1200",
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 9000,
-    "carrier_rate": 350,
-    "updated_at": "2026-09-23T18:18:15.039101+00:00",
+    "carrier_rate": 400,
+    "updated_at": "2026-09-23T18:57:02.010011+00:00",
     "lane": "RICHMOND VA-WASHINGTON DC"
   },
   {
@@ -182,8 +182,8 @@
     "del_hours": "0900-1200",
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 1500,
-    "carrier_rate": 350,
-    "updated_at": "2026-09-23T18:22:36.104882+00:00",
+    "carrier_rate": 400,
+    "updated_at": "2026-09-23T18:57:12.142128+00:00",
     "lane": "RICHMOND VA-WASHINGTON DC"
   },
   {
