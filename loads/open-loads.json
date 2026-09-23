@@ -1,22 +1,5 @@
 [
   {
-    "pro": "50107",
-    "status": "OPEN",
-    "pu_date": "2026-09-23",
-    "pu_city": "COLUMBUS",
-    "pu_state": "GA",
-    "pu_hours": "",
-    "del_date": "2026-09-24",
-    "del_city": "VAN WERT",
-    "del_state": "OH",
-    "del_hours": "0900",
-    "equipment": "Van",
-    "weight_lbs": 11100,
-    "carrier_rate": 1500,
-    "updated_at": "2026-09-21T19:27:23.461613+00:00",
-    "lane": "COLUMBUS GA-VAN WERT OH"
-  },
-  {
     "pro": "50610",
     "status": "OPEN",
     "pu_date": "2026-09-23",
@@ -66,23 +49,6 @@
     "carrier_rate": 1300,
     "updated_at": "2026-09-23T14:37:21.984806+00:00",
     "lane": "UNION CITY GA-PINECREST FL"
-  },
-  {
-    "pro": "50628",
-    "status": "OPEN",
-    "pu_date": "2026-09-23",
-    "pu_city": "MONTGOMERY",
-    "pu_state": "AL",
-    "pu_hours": "0730-1500",
-    "del_date": "2026-09-24",
-    "del_city": "AUGUSTA",
-    "del_state": "GA",
-    "del_hours": "0800-1600",
-    "equipment": "Flatbed",
-    "weight_lbs": 47500,
-    "carrier_rate": 1300,
-    "updated_at": "2026-09-23T13:11:37.371019+00:00",
-    "lane": "MONTGOMERY AL-AUGUSTA GA"
   },
   {
     "pro": "50629",
@@ -151,6 +117,23 @@
     "carrier_rate": 1800,
     "updated_at": "2026-09-23T14:39:10.286951+00:00",
     "lane": "JACKSONVILLE TX-CONCORDIA KS"
+  },
+  {
+    "pro": "50107",
+    "status": "OPEN",
+    "pu_date": "2026-09-24",
+    "pu_city": "COLUMBUS",
+    "pu_state": "GA",
+    "pu_hours": "",
+    "del_date": "2026-09-24",
+    "del_city": "VAN WERT",
+    "del_state": "OH",
+    "del_hours": "0900",
+    "equipment": "Van",
+    "weight_lbs": 11100,
+    "carrier_rate": 1500,
+    "updated_at": "2026-09-23T14:56:34.504749+00:00",
+    "lane": "COLUMBUS GA-VAN WERT OH"
   },
   {
     "pro": "50159",
@@ -302,7 +285,7 @@
     "equipment": "Van",
     "weight_lbs": 41000,
     "carrier_rate": 1300,
-    "updated_at": "2026-09-23T14:39:12.872998+00:00",
+    "updated_at": "2026-09-23T14:55:18.790496+00:00",
     "lane": "CALHOUN GA-LINCOLNTON NC"
   },
   {
@@ -848,5 +831,22 @@
     "carrier_rate": 3800,
     "updated_at": "2026-09-23T13:57:55.433522+00:00",
     "lane": "WINCHESTER KY-UXBRIDGE MA"
+  },
+  {
+    "pro": "50628",
+    "status": "COVERED",
+    "pu_date": "2026-09-23",
+    "pu_city": "MONTGOMERY",
+    "pu_state": "AL",
+    "pu_hours": "0730-1500",
+    "del_date": "2026-09-24",
+    "del_city": "AUGUSTA",
+    "del_state": "GA",
+    "del_hours": "0800-1600",
+    "equipment": "Flatbed",
+    "weight_lbs": 47500,
+    "carrier_rate": 1300,
+    "updated_at": "2026-09-23T14:57:43.524799+00:00",
+    "lane": "MONTGOMERY AL-AUGUSTA GA"
   }
 ]
