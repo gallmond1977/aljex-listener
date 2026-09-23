@@ -63,8 +63,8 @@
     "del_hours": "1700",
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 6000,
-    "carrier_rate": 1200,
-    "updated_at": "2026-09-23T14:02:08.437788+00:00",
+    "carrier_rate": 1300,
+    "updated_at": "2026-09-23T14:37:21.984806+00:00",
     "lane": "UNION CITY GA-PINECREST FL"
   },
   {
@@ -148,8 +148,8 @@
     "del_hours": "0730-1500",
     "equipment": "Van",
     "weight_lbs": 44000,
-    "carrier_rate": 1750,
-    "updated_at": "2026-09-23T14:35:04.253461+00:00",
+    "carrier_rate": 1800,
+    "updated_at": "2026-09-23T14:39:10.286951+00:00",
     "lane": "JACKSONVILLE TX-CONCORDIA KS"
   },
   {
@@ -289,6 +289,40 @@
     "lane": "GREENSBORO NC-ROXBORO NC"
   },
   {
+    "pro": "50643",
+    "status": "OPEN",
+    "pu_date": "2026-09-24",
+    "pu_city": "OPELIKA",
+    "pu_state": "AL",
+    "pu_hours": "0800-1500",
+    "del_date": "2026-09-24",
+    "del_city": "COLUMBIA",
+    "del_state": "AL",
+    "del_hours": "0530-1900",
+    "equipment": "Flatbed",
+    "weight_lbs": 47000,
+    "carrier_rate": 1000,
+    "updated_at": "2026-09-23T14:37:39.270996+00:00",
+    "lane": "OPELIKA AL-COLUMBIA AL"
+  },
+  {
+    "pro": "50644",
+    "status": "OPEN",
+    "pu_date": "2026-09-24",
+    "pu_city": "CALHOUN",
+    "pu_state": "GA",
+    "pu_hours": "0800-1430",
+    "del_date": "2026-09-25",
+    "del_city": "LINCOLNTON",
+    "del_state": "NC",
+    "del_hours": "0700-1500",
+    "equipment": "Van",
+    "weight_lbs": 41000,
+    "carrier_rate": 1300,
+    "updated_at": "2026-09-23T14:39:12.872998+00:00",
+    "lane": "CALHOUN GA-LINCOLNTON NC"
+  },
+  {
     "pro": "50529",
     "status": "OPEN",
     "pu_date": "2026-09-25",
@@ -372,6 +406,23 @@
     "carrier_rate": null,
     "updated_at": "2026-09-22T18:49:18.347231+00:00",
     "lane": "WINCHESTER KY-BURLINGTON NJ"
+  },
+  {
+    "pro": "50645",
+    "status": "OPEN",
+    "pu_date": "2026-09-25",
+    "pu_city": "OPELIKA",
+    "pu_state": "AL",
+    "pu_hours": "0800-1500",
+    "del_date": "2026-09-25",
+    "del_city": "SATSUMA",
+    "del_state": "AL",
+    "del_hours": "0800-1600",
+    "equipment": "Flatbed",
+    "weight_lbs": 47000,
+    "carrier_rate": 1200,
+    "updated_at": "2026-09-23T14:39:36.889344+00:00",
+    "lane": "OPELIKA AL-SATSUMA AL"
   },
   {
     "pro": "50466",
@@ -714,6 +765,23 @@
     "lane": "RICHMOND VA-KESWICK VA"
   },
   {
+    "pro": "50494",
+    "status": "RELEASED",
+    "pu_date": "2026-09-16",
+    "pu_city": "OPELIKA",
+    "pu_state": "AL",
+    "pu_hours": "0800-1500",
+    "del_date": "2026-09-17",
+    "del_city": "COLUMBIA",
+    "del_state": "AL",
+    "del_hours": "0530-1900",
+    "equipment": "Flatbed",
+    "weight_lbs": 47000,
+    "carrier_rate": 1000,
+    "updated_at": "2026-09-17T21:04:19.565699+00:00",
+    "lane": "OPELIKA AL-COLUMBIA AL"
+  },
+  {
     "pro": "50527",
     "status": "RELEASED",
     "pu_date": "2026-09-16",
@@ -763,6 +831,23 @@
     "carrier_rate": 2000,
     "updated_at": "2026-09-22T15:59:05.723552+00:00",
     "lane": "EL DORADO AR-CALHOUN GA"
+  },
+  {
+    "pro": "50530",
+    "status": "RELEASED",
+    "pu_date": "2026-09-21",
+    "pu_city": "OPELIKA",
+    "pu_state": "AL",
+    "pu_hours": "0800-1500",
+    "del_date": "2026-09-21",
+    "del_city": "COLUMBIA",
+    "del_state": "AL",
+    "del_hours": "0530-1900",
+    "equipment": "Flatbed",
+    "weight_lbs": 47000,
+    "carrier_rate": 1000,
+    "updated_at": "2026-09-21T20:00:23.153891+00:00",
+    "lane": "OPELIKA AL-COLUMBIA AL"
   },
   {
     "pro": "50581",
