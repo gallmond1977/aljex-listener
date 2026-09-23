@@ -204,23 +204,6 @@
     "lane": "CHESTER VA-OWENSBORO KY"
   },
   {
-    "pro": "50655",
-    "status": "OPEN",
-    "pu_date": "2026-09-24",
-    "pu_city": "RIDGEWAY",
-    "pu_state": "VA",
-    "pu_hours": "0700-1500",
-    "del_date": "2026-09-24",
-    "del_city": "WINSTON SALEM",
-    "del_state": "NC",
-    "del_hours": "0800-1400",
-    "equipment": "26' Straight Box Truck",
-    "weight_lbs": 323,
-    "carrier_rate": 300,
-    "updated_at": "2026-09-23T19:32:33.802241+00:00",
-    "lane": "RIDGEWAY VA-WINSTON SALEM NC"
-  },
-  {
     "pro": "50658",
     "status": "OPEN",
     "pu_date": "2026-09-24",
@@ -234,7 +217,7 @@
     "equipment": "Sprinter Van",
     "weight_lbs": 575,
     "carrier_rate": 300,
-    "updated_at": "2026-09-23T19:44:55.442893+00:00",
+    "updated_at": "2026-09-23T20:00:11.108391+00:00",
     "lane": "HANAHAN SC-EVANS GA"
   },
   {
