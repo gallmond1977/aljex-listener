@@ -340,23 +340,6 @@
     "lane": "WINCHESTER KY-BURLINGTON NJ"
   },
   {
-    "pro": "50617",
-    "status": "OPEN",
-    "pu_date": "2026-09-25",
-    "pu_city": "WINCHESTER",
-    "pu_state": "KY",
-    "pu_hours": "",
-    "del_date": "2026-09-28",
-    "del_city": "BURLINGTON",
-    "del_state": "NJ",
-    "del_hours": "NEEDED",
-    "equipment": "Van",
-    "weight_lbs": 11400,
-    "carrier_rate": null,
-    "updated_at": "2026-09-22T18:48:55.286933+00:00",
-    "lane": "WINCHESTER KY-BURLINGTON NJ"
-  },
-  {
     "pro": "50618",
     "status": "OPEN",
     "pu_date": "2026-09-25",
@@ -508,6 +491,23 @@
     "carrier_rate": null,
     "updated_at": "2026-09-21T19:01:39.973780+00:00",
     "lane": "ATLANTA GA-FOREST PARK GA"
+  },
+  {
+    "pro": "50617",
+    "status": "OPEN",
+    "pu_date": "2026-09-30",
+    "pu_city": "WINCHESTER",
+    "pu_state": "KY",
+    "pu_hours": "",
+    "del_date": "2026-10-01",
+    "del_city": "BURLINGTON",
+    "del_state": "NJ",
+    "del_hours": "0700",
+    "equipment": "Van",
+    "weight_lbs": 11400,
+    "carrier_rate": 2300,
+    "updated_at": "2026-09-23T14:14:55.041258+00:00",
+    "lane": "WINCHESTER KY-BURLINGTON NJ"
   },
   {
     "pro": "50082",
@@ -749,7 +749,7 @@
   },
   {
     "pro": "50523",
-    "status": "PICKUP",
+    "status": "LOADED",
     "pu_date": "2026-09-23",
     "pu_city": "WINCHESTER",
     "pu_state": "KY",
@@ -761,7 +761,7 @@
     "equipment": "Van",
     "weight_lbs": 4000,
     "carrier_rate": 2400,
-    "updated_at": "2026-09-23T13:43:48.046799+00:00",
+    "updated_at": "2026-09-23T14:11:48.824660+00:00",
     "lane": "WINCHESTER KY-JACKSONVILLE FL"
   },
   {
