@@ -119,23 +119,6 @@
     "lane": "WINCHESTER KY-CHICAGO IL"
   },
   {
-    "pro": "50635",
-    "status": "OPEN",
-    "pu_date": "2026-09-23",
-    "pu_city": "MACON",
-    "pu_state": "GA",
-    "pu_hours": "0800-1530",
-    "del_date": "2026-09-24",
-    "del_city": "CALHOUN",
-    "del_state": "GA",
-    "del_hours": "0700-1500",
-    "equipment": "Van",
-    "weight_lbs": 34000,
-    "carrier_rate": 600,
-    "updated_at": "2026-09-23T13:06:57.259413+00:00",
-    "lane": "MACON GA-CALHOUN GA"
-  },
-  {
     "pro": "50639",
     "status": "OPEN",
     "pu_date": "2026-09-23",
@@ -663,40 +646,6 @@
     "lane": "LA PORTE TX-GREENVILLE SC"
   },
   {
-    "pro": "50446",
-    "status": "RELEASED",
-    "pu_date": "2026-09-15",
-    "pu_city": "MACON",
-    "pu_state": "GA",
-    "pu_hours": "0800-1530",
-    "del_date": "2026-09-16",
-    "del_city": "CALHOUN",
-    "del_state": "GA",
-    "del_hours": "0700-1500",
-    "equipment": "Van",
-    "weight_lbs": 34000,
-    "carrier_rate": 600,
-    "updated_at": "2026-09-17T15:28:02.435115+00:00",
-    "lane": "MACON GA-CALHOUN GA"
-  },
-  {
-    "pro": "50445",
-    "status": "RELEASED",
-    "pu_date": "2026-09-16",
-    "pu_city": "MACON",
-    "pu_state": "GA",
-    "pu_hours": "0800-1530",
-    "del_date": "2026-09-16",
-    "del_city": "CALHOUN",
-    "del_state": "GA",
-    "del_hours": "0700-1500",
-    "equipment": "Van",
-    "weight_lbs": 34000,
-    "carrier_rate": 600,
-    "updated_at": "2026-09-17T15:41:23.939668+00:00",
-    "lane": "MACON GA-CALHOUN GA"
-  },
-  {
     "pro": "50470",
     "status": "RELEASED",
     "pu_date": "2026-09-16",
@@ -712,40 +661,6 @@
     "carrier_rate": 300,
     "updated_at": "2026-09-21T14:16:26.717136+00:00",
     "lane": "RICHMOND VA-KESWICK VA"
-  },
-  {
-    "pro": "50472",
-    "status": "RELEASED",
-    "pu_date": "2026-09-16",
-    "pu_city": "MACON",
-    "pu_state": "GA",
-    "pu_hours": "1200-1530",
-    "del_date": "2026-09-17",
-    "del_city": "CALHOUN",
-    "del_state": "GA",
-    "del_hours": "0700-1500",
-    "equipment": "Van",
-    "weight_lbs": 34000,
-    "carrier_rate": 600,
-    "updated_at": "2026-09-17T22:43:33.188304+00:00",
-    "lane": "MACON GA-CALHOUN GA"
-  },
-  {
-    "pro": "50509",
-    "status": "RELEASED",
-    "pu_date": "2026-09-16",
-    "pu_city": "MACON",
-    "pu_state": "GA",
-    "pu_hours": "0800-1530",
-    "del_date": "2026-09-17",
-    "del_city": "CALHOUN",
-    "del_state": "GA",
-    "del_hours": "0700-1500",
-    "equipment": "Van",
-    "weight_lbs": 34000,
-    "carrier_rate": 650,
-    "updated_at": "2026-09-17T23:59:39.583099+00:00",
-    "lane": "MACON GA-CALHOUN GA"
   },
   {
     "pro": "50527",
@@ -765,23 +680,6 @@
     "lane": "BENSENVILLE IL-BELCAMP MD"
   },
   {
-    "pro": "50508",
-    "status": "RELEASED",
-    "pu_date": "2026-09-17",
-    "pu_city": "MACON",
-    "pu_state": "GA",
-    "pu_hours": "0800-1530",
-    "del_date": "2026-09-17",
-    "del_city": "CALHOUN",
-    "del_state": "GA",
-    "del_hours": "0700-1500",
-    "equipment": "Van",
-    "weight_lbs": 34000,
-    "carrier_rate": 600,
-    "updated_at": "2026-09-18T19:35:24.682912+00:00",
-    "lane": "MACON GA-CALHOUN GA"
-  },
-  {
     "pro": "50516",
     "status": "RELEASED",
     "pu_date": "2026-09-17",
@@ -797,23 +695,6 @@
     "carrier_rate": 200,
     "updated_at": "2026-09-18T01:05:40.994790+00:00",
     "lane": "RICHMOND VA-RICHMOND VA"
-  },
-  {
-    "pro": "50471",
-    "status": "RELEASED",
-    "pu_date": "2026-09-21",
-    "pu_city": "MACON",
-    "pu_state": "GA",
-    "pu_hours": "0800-1530",
-    "del_date": "2026-09-21",
-    "del_city": "CALHOUN",
-    "del_state": "GA",
-    "del_hours": "0700-1500",
-    "equipment": "Van",
-    "weight_lbs": 34000,
-    "carrier_rate": 650,
-    "updated_at": "2026-09-22T12:52:37.353228+00:00",
-    "lane": "MACON GA-CALHOUN GA"
   },
   {
     "pro": "50476",
@@ -833,23 +714,6 @@
     "lane": "EL DORADO AR-CALHOUN GA"
   },
   {
-    "pro": "50553",
-    "status": "RELEASED",
-    "pu_date": "2026-09-21",
-    "pu_city": "MACON",
-    "pu_state": "GA",
-    "pu_hours": "0800-1530",
-    "del_date": "2026-09-21",
-    "del_city": "CALHOUN",
-    "del_state": "GA",
-    "del_hours": "0700-1500",
-    "equipment": "Van",
-    "weight_lbs": 34000,
-    "carrier_rate": 650,
-    "updated_at": "2026-09-22T11:32:21.401784+00:00",
-    "lane": "MACON GA-CALHOUN GA"
-  },
-  {
     "pro": "50581",
     "status": "RELEASED",
     "pu_date": "2026-09-21",
@@ -867,42 +731,8 @@
     "lane": "AUBURN AL-LA CROSSE WI"
   },
   {
-    "pro": "50554",
-    "status": "DELIVERED",
-    "pu_date": "2026-09-22",
-    "pu_city": "MACON",
-    "pu_state": "GA",
-    "pu_hours": "0800-1530",
-    "del_date": "2026-09-22",
-    "del_city": "CALHOUN",
-    "del_state": "GA",
-    "del_hours": "0700-1500",
-    "equipment": "Van",
-    "weight_lbs": 34000,
-    "carrier_rate": 600,
-    "updated_at": "2026-09-22T18:58:11.147994+00:00",
-    "lane": "MACON GA-CALHOUN GA"
-  },
-  {
-    "pro": "50570",
-    "status": "DELIVERED",
-    "pu_date": "2026-09-22",
-    "pu_city": "MACON",
-    "pu_state": "GA",
-    "pu_hours": "0800-1530",
-    "del_date": "2026-09-22",
-    "del_city": "CALHOUN",
-    "del_state": "GA",
-    "del_hours": "0700-1500",
-    "equipment": "Van",
-    "weight_lbs": 34000,
-    "carrier_rate": 600,
-    "updated_at": "2026-09-22T18:50:32.700329+00:00",
-    "lane": "MACON GA-CALHOUN GA"
-  },
-  {
     "pro": "50523",
-    "status": "COVERED",
+    "status": "PICKUP",
     "pu_date": "2026-09-23",
     "pu_city": "WINCHESTER",
     "pu_state": "KY",
@@ -914,7 +744,7 @@
     "equipment": "Van",
     "weight_lbs": 4000,
     "carrier_rate": 2400,
-    "updated_at": "2026-09-23T13:03:53.522351+00:00",
+    "updated_at": "2026-09-23T13:43:48.046799+00:00",
     "lane": "WINCHESTER KY-JACKSONVILLE FL"
   },
   {
@@ -935,23 +765,6 @@
     "lane": "WINCHESTER KY-BURLINGTON NJ"
   },
   {
-    "pro": "50606",
-    "status": "COVERED",
-    "pu_date": "2026-09-23",
-    "pu_city": "MACON",
-    "pu_state": "GA",
-    "pu_hours": "0800-1530",
-    "del_date": "2026-09-24",
-    "del_city": "CALHOUN",
-    "del_state": "GA",
-    "del_hours": "0700-1500",
-    "equipment": "Van",
-    "weight_lbs": 34000,
-    "carrier_rate": 600,
-    "updated_at": "2026-09-23T13:33:33.958351+00:00",
-    "lane": "MACON GA-CALHOUN GA"
-  },
-  {
     "pro": "50611",
     "status": "COVERED",
     "pu_date": "2026-09-23",
@@ -967,22 +780,5 @@
     "carrier_rate": 3800,
     "updated_at": "2026-09-23T13:29:11.197567+00:00",
     "lane": "WINCHESTER KY-UXBRIDGE MA"
-  },
-  {
-    "pro": "50636",
-    "status": "COVERED",
-    "pu_date": "2026-09-24",
-    "pu_city": "MACON",
-    "pu_state": "GA",
-    "pu_hours": "0800-1530",
-    "del_date": "2026-09-24",
-    "del_city": "CALHOUN",
-    "del_state": "GA",
-    "del_hours": "0700-1500",
-    "equipment": "Van",
-    "weight_lbs": 34000,
-    "carrier_rate": 600,
-    "updated_at": "2026-09-23T13:28:57.320606+00:00",
-    "lane": "MACON GA-CALHOUN GA"
   }
 ]
