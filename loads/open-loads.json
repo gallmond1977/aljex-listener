@@ -255,6 +255,23 @@
     "lane": "CHESTER VA-LYNCHBURG OH"
   },
   {
+    "pro": "50640",
+    "status": "OPEN",
+    "pu_date": "2026-09-24",
+    "pu_city": "GREENSBORO",
+    "pu_state": "NC",
+    "pu_hours": "0900-1000",
+    "del_date": "2026-09-24",
+    "del_city": "ROXBORO",
+    "del_state": "NC",
+    "del_hours": "1000-1500",
+    "equipment": "Flatbed",
+    "weight_lbs": 40000,
+    "carrier_rate": 500,
+    "updated_at": "2026-09-23T13:49:13.616813+00:00",
+    "lane": "GREENSBORO NC-ROXBORO NC"
+  },
+  {
     "pro": "50529",
     "status": "OPEN",
     "pu_date": "2026-09-25",
@@ -761,7 +778,7 @@
     "equipment": "Van",
     "weight_lbs": 4000,
     "carrier_rate": 2400,
-    "updated_at": "2026-09-23T12:33:43.726625+00:00",
+    "updated_at": "2026-09-23T13:45:18.040012+00:00",
     "lane": "WINCHESTER KY-BURLINGTON NJ"
   },
   {
