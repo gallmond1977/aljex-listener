@@ -85,6 +85,23 @@
     "lane": "LAGRANGE GA-BIRMINGHAM AL"
   },
   {
+    "pro": "50625",
+    "status": "OPEN",
+    "pu_date": "2026-09-23",
+    "pu_city": "UNION CITY",
+    "pu_state": "GA",
+    "pu_hours": "1300",
+    "del_date": "2026-09-24",
+    "del_city": "PINECREST",
+    "del_state": "FL",
+    "del_hours": "1700",
+    "equipment": "26' Straight Box Truck",
+    "weight_lbs": 6000,
+    "carrier_rate": 1200,
+    "updated_at": "2026-09-23T13:30:01.228496+00:00",
+    "lane": "UNION CITY GA-PINECREST FL"
+  },
+  {
     "pro": "50628",
     "status": "OPEN",
     "pu_date": "2026-09-23",
@@ -134,23 +151,6 @@
     "carrier_rate": 700,
     "updated_at": "2026-09-23T13:23:04.546503+00:00",
     "lane": "WINCHESTER KY-CHICAGO IL"
-  },
-  {
-    "pro": "50634",
-    "status": "OPEN",
-    "pu_date": "2026-09-23",
-    "pu_city": "KITTANNING",
-    "pu_state": "PA",
-    "pu_hours": "0800-1400",
-    "del_date": "2026-09-24",
-    "del_city": "READING",
-    "del_state": "PA",
-    "del_hours": "0900",
-    "equipment": "Van",
-    "weight_lbs": 11500,
-    "carrier_rate": 1300,
-    "updated_at": "2026-09-23T13:02:03.417682+00:00",
-    "lane": "KITTANNING PA-READING PA"
   },
   {
     "pro": "50635",
@@ -272,23 +272,6 @@
     "lane": "RICHMOND VA-WASHINGTON DC"
   },
   {
-    "pro": "50636",
-    "status": "OPEN",
-    "pu_date": "2026-09-24",
-    "pu_city": "MACON",
-    "pu_state": "GA",
-    "pu_hours": "0800-1530",
-    "del_date": "2026-09-24",
-    "del_city": "CALHOUN",
-    "del_state": "GA",
-    "del_hours": "0700-1500",
-    "equipment": "Van",
-    "weight_lbs": 34000,
-    "carrier_rate": 600,
-    "updated_at": "2026-09-23T13:07:36.740056+00:00",
-    "lane": "MACON GA-CALHOUN GA"
-  },
-  {
     "pro": "50637",
     "status": "OPEN",
     "pu_date": "2026-09-24",
@@ -298,11 +281,11 @@
     "del_date": "2026-09-25",
     "del_city": "LYNCHBURG",
     "del_state": "OH",
-    "del_hours": "0800",
+    "del_hours": "0800-0900",
     "equipment": "Van",
     "weight_lbs": 42840,
     "carrier_rate": 1400,
-    "updated_at": "2026-09-23T13:23:39.915369+00:00",
+    "updated_at": "2026-09-23T13:28:08.541126+00:00",
     "lane": "CHESTER VA-LYNCHBURG OH"
   },
   {
@@ -999,7 +982,24 @@
     "equipment": "Van",
     "weight_lbs": 10200,
     "carrier_rate": 3800,
-    "updated_at": "2026-09-23T13:03:07.029183+00:00",
+    "updated_at": "2026-09-23T13:29:11.197567+00:00",
     "lane": "WINCHESTER KY-UXBRIDGE MA"
+  },
+  {
+    "pro": "50636",
+    "status": "COVERED",
+    "pu_date": "2026-09-24",
+    "pu_city": "MACON",
+    "pu_state": "GA",
+    "pu_hours": "0800-1530",
+    "del_date": "2026-09-24",
+    "del_city": "CALHOUN",
+    "del_state": "GA",
+    "del_hours": "0700-1500",
+    "equipment": "Van",
+    "weight_lbs": 34000,
+    "carrier_rate": 600,
+    "updated_at": "2026-09-23T13:28:57.320606+00:00",
+    "lane": "MACON GA-CALHOUN GA"
   }
 ]
