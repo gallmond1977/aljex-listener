@@ -102,23 +102,6 @@
     "lane": "MONTGOMERY AL-AUGUSTA GA"
   },
   {
-    "pro": "50633",
-    "status": "OPEN",
-    "pu_date": "2026-09-23",
-    "pu_city": "WINCHESTER",
-    "pu_state": "KY",
-    "pu_hours": "NEEDS ETA",
-    "del_date": "2026-09-24",
-    "del_city": "CHICAGO",
-    "del_state": "IL",
-    "del_hours": "1200-1500",
-    "equipment": "26' Straight Box Truck",
-    "weight_lbs": 1100,
-    "carrier_rate": 700,
-    "updated_at": "2026-09-23T13:23:04.546503+00:00",
-    "lane": "WINCHESTER KY-CHICAGO IL"
-  },
-  {
     "pro": "50639",
     "status": "OPEN",
     "pu_date": "2026-09-23",
@@ -134,6 +117,23 @@
     "carrier_rate": 1200,
     "updated_at": "2026-09-23T13:39:33.902080+00:00",
     "lane": "AUBURN AL-MORRILTON AR"
+  },
+  {
+    "pro": "50641",
+    "status": "OPEN",
+    "pu_date": "2026-09-23",
+    "pu_city": "MOUNT PLEASANT",
+    "pu_state": "TN",
+    "pu_hours": "0800-1500",
+    "del_date": "2026-09-24",
+    "del_city": "AUBURN",
+    "del_state": "AL",
+    "del_hours": "0800-1400",
+    "equipment": "Van",
+    "weight_lbs": 15500,
+    "carrier_rate": 900,
+    "updated_at": "2026-09-23T14:20:55.386272+00:00",
+    "lane": "MOUNT PLEASANT TN-AUBURN AL"
   },
   {
     "pro": "50159",
