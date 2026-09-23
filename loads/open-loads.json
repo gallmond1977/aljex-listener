@@ -370,7 +370,7 @@
     "equipment": "Sprinter Van",
     "weight_lbs": 200,
     "carrier_rate": null,
-    "updated_at": "2026-09-23T16:07:51.914570+00:00",
+    "updated_at": "2026-09-23T20:52:48.057747+00:00",
     "lane": "ROCKVILLE MD-WINCHESTER KY"
   },
   {
@@ -423,6 +423,23 @@
     "carrier_rate": 1000,
     "updated_at": "2026-09-23T15:10:16.912446+00:00",
     "lane": "SHILOH OH-HENDERSONVILLE NC"
+  },
+  {
+    "pro": "50661",
+    "status": "OPEN",
+    "pu_date": "2026-09-29",
+    "pu_city": "MOUNT STERLING",
+    "pu_state": "KY",
+    "pu_hours": "NEEDED",
+    "del_date": "2026-10-02",
+    "del_city": "MIRA LOMA",
+    "del_state": "CA",
+    "del_hours": "NEEDED",
+    "equipment": "Van",
+    "weight_lbs": 13080,
+    "carrier_rate": 4200,
+    "updated_at": "2026-09-23T20:54:42.998834+00:00",
+    "lane": "MOUNT STERLING KY-MIRA LOMA CA"
   },
   {
     "pro": "50405",
@@ -763,6 +780,23 @@
     "carrier_rate": 2000,
     "updated_at": "2026-09-23T18:55:04.151567+00:00",
     "lane": "EL DORADO AR-CALHOUN GA"
+  },
+  {
+    "pro": "50501",
+    "status": "LOADED",
+    "pu_date": "2026-09-21",
+    "pu_city": "MOUNT STERLING",
+    "pu_state": "KY",
+    "pu_hours": "1300",
+    "del_date": "2026-09-24",
+    "del_city": "MIRA LOMA",
+    "del_state": "CA",
+    "del_hours": "0330",
+    "equipment": "Van",
+    "weight_lbs": 13080,
+    "carrier_rate": 4300,
+    "updated_at": "2026-09-22T13:20:50.335568+00:00",
+    "lane": "MOUNT STERLING KY-MIRA LOMA CA"
   },
   {
     "pro": "50581",
