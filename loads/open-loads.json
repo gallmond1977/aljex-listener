@@ -13,7 +13,7 @@
     "equipment": "Van",
     "weight_lbs": 13083,
     "carrier_rate": 3500,
-    "updated_at": "2026-09-23T12:14:21.128080+00:00",
+    "updated_at": "2026-09-23T15:25:33.340697+00:00",
     "lane": "WINCHESTER KY-UXBRIDGE MA"
   },
   {
@@ -30,7 +30,7 @@
     "equipment": "Van",
     "weight_lbs": 4871,
     "carrier_rate": 3500,
-    "updated_at": "2026-09-22T18:46:46.358776+00:00",
+    "updated_at": "2026-09-23T15:25:51.609560+00:00",
     "lane": "WINCHESTER KY-UXBRIDGE MA"
   },
   {
@@ -148,8 +148,8 @@
     "del_hours": "1800",
     "equipment": "Van",
     "weight_lbs": 7600,
-    "carrier_rate": 2500,
-    "updated_at": "2026-09-22T19:52:43.992814+00:00",
+    "carrier_rate": 2700,
+    "updated_at": "2026-09-23T15:26:56.011540+00:00",
     "lane": "WINCHESTER KY-JACKSONVILLE FL"
   },
   {
@@ -165,8 +165,8 @@
     "del_hours": "1900",
     "equipment": "Van",
     "weight_lbs": 4000,
-    "carrier_rate": 2500,
-    "updated_at": "2026-09-22T19:55:27.993306+00:00",
+    "carrier_rate": 2700,
+    "updated_at": "2026-09-23T15:27:33.563381+00:00",
     "lane": "WINCHESTER KY-JACKSONVILLE FL"
   },
   {
@@ -272,6 +272,23 @@
     "lane": "CALHOUN GA-LINCOLNTON NC"
   },
   {
+    "pro": "50646",
+    "status": "OPEN",
+    "pu_date": "2026-09-24",
+    "pu_city": "CHESTER",
+    "pu_state": "VA",
+    "pu_hours": "0700-1500",
+    "del_date": "",
+    "del_city": "OWENSBORO",
+    "del_state": "KY",
+    "del_hours": "0800-1500",
+    "equipment": "Van",
+    "weight_lbs": 44000,
+    "carrier_rate": null,
+    "updated_at": "2026-09-23T15:29:58.306646+00:00",
+    "lane": "CHESTER VA-OWENSBORO KY"
+  },
+  {
     "pro": "50529",
     "status": "OPEN",
     "pu_date": "2026-09-25",
@@ -336,7 +353,7 @@
     "equipment": "Van",
     "weight_lbs": 12282,
     "carrier_rate": null,
-    "updated_at": "2026-09-22T18:48:28.384480+00:00",
+    "updated_at": "2026-09-23T15:28:10.734192+00:00",
     "lane": "WINCHESTER KY-BURLINGTON NJ"
   },
   {
@@ -353,7 +370,7 @@
     "equipment": "Van",
     "weight_lbs": 4005,
     "carrier_rate": null,
-    "updated_at": "2026-09-22T18:49:18.347231+00:00",
+    "updated_at": "2026-09-23T15:28:56.255524+00:00",
     "lane": "WINCHESTER KY-BURLINGTON NJ"
   },
   {
@@ -438,7 +455,7 @@
     "equipment": "Van",
     "weight_lbs": 8544,
     "carrier_rate": 2500,
-    "updated_at": "2026-09-22T18:59:04.357219+00:00",
+    "updated_at": "2026-09-23T15:27:53.420978+00:00",
     "lane": "WINCHESTER KY-JACKSONVILLE FL"
   },
   {
