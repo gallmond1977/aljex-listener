@@ -136,23 +136,6 @@
     "lane": "EL DORADO AR-CALHOUN GA"
   },
   {
-    "pro": "50631",
-    "status": "OPEN",
-    "pu_date": "2026-09-24",
-    "pu_city": "RICHMOND",
-    "pu_state": "VA",
-    "pu_hours": "0700-0730",
-    "del_date": "2026-09-24",
-    "del_city": "WASHINGTON",
-    "del_state": "DC",
-    "del_hours": "0900-1200",
-    "equipment": "26' Straight Box Truck",
-    "weight_lbs": 9000,
-    "carrier_rate": 400,
-    "updated_at": "2026-09-23T18:57:02.010011+00:00",
-    "lane": "RICHMOND VA-WASHINGTON DC"
-  },
-  {
     "pro": "50637",
     "status": "OPEN",
     "pu_date": "2026-09-24",
@@ -933,22 +916,5 @@
     "carrier_rate": 1300,
     "updated_at": "2026-09-23T19:02:34.635696+00:00",
     "lane": "MONTGOMERY AL-AUGUSTA GA"
-  },
-  {
-    "pro": "50632",
-    "status": "COVERED",
-    "pu_date": "2026-09-24",
-    "pu_city": "RICHMOND",
-    "pu_state": "VA",
-    "pu_hours": "0800-0830",
-    "del_date": "2026-09-24",
-    "del_city": "WASHINGTON",
-    "del_state": "DC",
-    "del_hours": "0900-1200",
-    "equipment": "26' Straight Box Truck",
-    "weight_lbs": 1500,
-    "carrier_rate": 400,
-    "updated_at": "2026-09-23T19:37:24.542197+00:00",
-    "lane": "RICHMOND VA-WASHINGTON DC"
   }
 ]
