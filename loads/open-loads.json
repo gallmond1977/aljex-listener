@@ -102,6 +102,23 @@
     "lane": "JACKSONVILLE TX-CONCORDIA KS"
   },
   {
+    "pro": "50647",
+    "status": "OPEN",
+    "pu_date": "2026-09-23",
+    "pu_city": "WINCHESTER",
+    "pu_state": "KY",
+    "pu_hours": "1200-1300",
+    "del_date": "",
+    "del_city": "ROCKVILLE",
+    "del_state": "MD",
+    "del_hours": "0900-1600",
+    "equipment": "Sprinter Van",
+    "weight_lbs": 200,
+    "carrier_rate": null,
+    "updated_at": "2026-09-23T15:39:59.448339+00:00",
+    "lane": "WINCHESTER KY-ROCKVILLE MD"
+  },
+  {
     "pro": "50107",
     "status": "OPEN",
     "pu_date": "2026-09-24",
@@ -141,7 +158,7 @@
     "pu_date": "2026-09-24",
     "pu_city": "WINCHESTER",
     "pu_state": "KY",
-    "pu_hours": "NEEDED",
+    "pu_hours": "0800-1500",
     "del_date": "2026-09-25",
     "del_city": "JACKSONVILLE",
     "del_state": "FL",
@@ -149,7 +166,7 @@
     "equipment": "Van",
     "weight_lbs": 7600,
     "carrier_rate": 2700,
-    "updated_at": "2026-09-23T15:26:56.011540+00:00",
+    "updated_at": "2026-09-23T15:35:43.867324+00:00",
     "lane": "WINCHESTER KY-JACKSONVILLE FL"
   },
   {
@@ -158,7 +175,7 @@
     "pu_date": "2026-09-24",
     "pu_city": "WINCHESTER",
     "pu_state": "KY",
-    "pu_hours": "ADREQD",
+    "pu_hours": "0800-1500",
     "del_date": "2026-09-25",
     "del_city": "JACKSONVILLE",
     "del_state": "FL",
@@ -166,7 +183,7 @@
     "equipment": "Van",
     "weight_lbs": 4000,
     "carrier_rate": 2700,
-    "updated_at": "2026-09-23T15:27:33.563381+00:00",
+    "updated_at": "2026-09-23T15:36:57.791253+00:00",
     "lane": "WINCHESTER KY-JACKSONVILLE FL"
   },
   {
@@ -278,14 +295,14 @@
     "pu_city": "CHESTER",
     "pu_state": "VA",
     "pu_hours": "0700-1500",
-    "del_date": "",
+    "del_date": "2026-09-25",
     "del_city": "OWENSBORO",
     "del_state": "KY",
     "del_hours": "0800-1500",
     "equipment": "Van",
     "weight_lbs": 44000,
     "carrier_rate": 1800,
-    "updated_at": "2026-09-23T15:35:07.507303+00:00",
+    "updated_at": "2026-09-23T15:37:16.124944+00:00",
     "lane": "CHESTER VA-OWENSBORO KY"
   },
   {
