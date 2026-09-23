@@ -68,23 +68,6 @@
     "lane": "WINCHESTER KY-JACKSONVILLE FL"
   },
   {
-    "pro": "50629",
-    "status": "OPEN",
-    "pu_date": "2026-09-24",
-    "pu_city": "MONTGOMERY",
-    "pu_state": "AL",
-    "pu_hours": "0730-1500",
-    "del_date": "2026-09-25",
-    "del_city": "AUGUSTA",
-    "del_state": "GA",
-    "del_hours": "0800-1600",
-    "equipment": "Flatbed",
-    "weight_lbs": 47500,
-    "carrier_rate": 1300,
-    "updated_at": "2026-09-23T20:08:34.664189+00:00",
-    "lane": "MONTGOMERY AL-AUGUSTA GA"
-  },
-  {
     "pro": "50640",
     "status": "OPEN",
     "pu_date": "2026-09-24",
@@ -115,7 +98,7 @@
     "equipment": "Van",
     "weight_lbs": 41000,
     "carrier_rate": 1300,
-    "updated_at": "2026-09-23T19:28:13.697100+00:00",
+    "updated_at": "2026-09-23T20:56:07.460318+00:00",
     "lane": "CALHOUN GA-LINCOLNTON NC"
   },
   {
@@ -185,6 +168,23 @@
     "carrier_rate": 2300,
     "updated_at": "2026-09-22T16:42:53.099205+00:00",
     "lane": "ALLIANCE OH-MACON GA"
+  },
+  {
+    "pro": "50629",
+    "status": "OPEN",
+    "pu_date": "2026-09-25",
+    "pu_city": "MONTGOMERY",
+    "pu_state": "AL",
+    "pu_hours": "0730-1500",
+    "del_date": "2026-09-28",
+    "del_city": "AUGUSTA",
+    "del_state": "GA",
+    "del_hours": "0800-1600",
+    "equipment": "Flatbed",
+    "weight_lbs": 47500,
+    "carrier_rate": 1300,
+    "updated_at": "2026-09-23T20:59:55.660493+00:00",
+    "lane": "MONTGOMERY AL-AUGUSTA GA"
   },
   {
     "pro": "50648",
@@ -434,11 +434,11 @@
     "del_date": "2026-10-02",
     "del_city": "MIRA LOMA",
     "del_state": "CA",
-    "del_hours": "NEEDED",
+    "del_hours": "AD REQD",
     "equipment": "Van",
-    "weight_lbs": 13080,
+    "weight_lbs": 4800,
     "carrier_rate": 4200,
-    "updated_at": "2026-09-23T20:54:42.998834+00:00",
+    "updated_at": "2026-09-23T20:59:52.573747+00:00",
     "lane": "MOUNT STERLING KY-MIRA LOMA CA"
   },
   {
