@@ -196,11 +196,11 @@
     "del_date": "2026-09-25",
     "del_city": "ROCK HILL",
     "del_state": "SC",
-    "del_hours": "",
+    "del_hours": "0800-1400",
     "equipment": "Flatbed w/ Tarps",
     "weight_lbs": 42000,
     "carrier_rate": 1000,
-    "updated_at": "2026-09-24T14:43:10.089347+00:00",
+    "updated_at": "2026-09-24T14:54:29.435868+00:00",
     "lane": "ALPHARETTA GA-ROCK HILL SC"
   },
   {
