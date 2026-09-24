@@ -85,23 +85,6 @@
     "lane": "MACON GA-CALHOUN GA"
   },
   {
-    "pro": "50663",
-    "status": "OPEN",
-    "pu_date": "2026-09-24",
-    "pu_city": "ORLANDO",
-    "pu_state": "FL",
-    "pu_hours": "0700-1400",
-    "del_date": "2026-09-25",
-    "del_city": "TUSCALOOSA",
-    "del_state": "AL",
-    "del_hours": "0700-1400",
-    "equipment": "Sprinter Van",
-    "weight_lbs": 700,
-    "carrier_rate": 550,
-    "updated_at": "2026-09-24T13:03:09.638013+00:00",
-    "lane": "ORLANDO FL-TUSCALOOSA AL"
-  },
-  {
     "pro": "50529",
     "status": "OPEN",
     "pu_date": "2026-09-25",
@@ -199,8 +182,8 @@
     "del_hours": "0800-1400",
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 10467,
-    "carrier_rate": null,
-    "updated_at": "2026-09-23T20:20:40.779691+00:00",
+    "carrier_rate": 900,
+    "updated_at": "2026-09-24T13:20:12.181317+00:00",
     "lane": "AUBURN AL-HOUSTON TX"
   },
   {
