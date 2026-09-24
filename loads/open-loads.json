@@ -34,23 +34,6 @@
     "lane": "WINCHESTER KY-JACKSONVILLE FL"
   },
   {
-    "pro": "50672",
-    "status": "OPEN",
-    "pu_date": "2026-09-24",
-    "pu_city": "CHARLOTTE",
-    "pu_state": "NC",
-    "pu_hours": "0800-1500",
-    "del_date": "2026-09-25",
-    "del_city": "GREENVILLE",
-    "del_state": "NC",
-    "del_hours": "0700-0900",
-    "equipment": "Sprinter Van",
-    "weight_lbs": 200,
-    "carrier_rate": 400,
-    "updated_at": "2026-09-24T16:43:45.559219+00:00",
-    "lane": "CHARLOTTE NC-GREENVILLE NC"
-  },
-  {
     "pro": "50529",
     "status": "OPEN",
     "pu_date": "2026-09-25",
@@ -149,7 +132,7 @@
     "equipment": "Reefer",
     "weight_lbs": 39600,
     "carrier_rate": 1000,
-    "updated_at": "2026-09-24T16:59:47.299445+00:00",
+    "updated_at": "2026-09-24T17:00:20.446237+00:00",
     "lane": "CUMMING GA-CANON GA"
   },
   {
@@ -270,23 +253,6 @@
     "carrier_rate": 2500,
     "updated_at": "2026-09-23T20:17:13.804634+00:00",
     "lane": "WINCHESTER KY-JACKSONVILLE FL"
-  },
-  {
-    "pro": "50649",
-    "status": "OPEN",
-    "pu_date": "2026-09-28",
-    "pu_city": "ROCKVILLE",
-    "pu_state": "MD",
-    "pu_hours": "NEEDED",
-    "del_date": "2026-09-29",
-    "del_city": "WINCHESTER",
-    "del_state": "KY",
-    "del_hours": "0800-1100",
-    "equipment": "Sprinter Van",
-    "weight_lbs": 200,
-    "carrier_rate": 650,
-    "updated_at": "2026-09-24T16:36:21.827478+00:00",
-    "lane": "ROCKVILLE MD-WINCHESTER KY"
   },
   {
     "pro": "50651",
