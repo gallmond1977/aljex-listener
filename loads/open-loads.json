@@ -29,8 +29,8 @@
     "del_hours": "1900",
     "equipment": "Van",
     "weight_lbs": 4000,
-    "carrier_rate": 3300,
-    "updated_at": "2026-09-24T16:17:02.075518+00:00",
+    "carrier_rate": 3400,
+    "updated_at": "2026-09-24T17:43:04.537366+00:00",
     "lane": "WINCHESTER KY-JACKSONVILLE FL"
   },
   {
@@ -440,6 +440,23 @@
     "carrier_rate": 4200,
     "updated_at": "2026-09-24T16:51:32.699761+00:00",
     "lane": "MOUNT STERLING KY-MIRA LOMA CA"
+  },
+  {
+    "pro": "50675",
+    "status": "OPEN",
+    "pu_date": "2026-09-30",
+    "pu_city": "JACKSONVILLE",
+    "pu_state": "TX",
+    "pu_hours": "0800-1500",
+    "del_date": "2026-10-01",
+    "del_city": "JACKSON",
+    "del_state": "MS",
+    "del_hours": "0700-1500",
+    "equipment": "Van",
+    "weight_lbs": 44500,
+    "carrier_rate": 900,
+    "updated_at": "2026-09-24T17:44:01.508105+00:00",
+    "lane": "JACKSONVILLE TX-JACKSON MS"
   },
   {
     "pro": "50107",
@@ -919,7 +936,7 @@
   },
   {
     "pro": "50669",
-    "status": "COVERED",
+    "status": "DISPATCHED",
     "pu_date": "2026-09-24",
     "pu_city": "BENSENVILLE",
     "pu_state": "IL",
@@ -931,7 +948,7 @@
     "equipment": "Van",
     "weight_lbs": 30000,
     "carrier_rate": 2500,
-    "updated_at": "2026-09-24T16:12:55.547318+00:00",
+    "updated_at": "2026-09-24T17:44:48.851179+00:00",
     "lane": "BENSENVILLE IL-BELCAMP MD"
   }
 ]
