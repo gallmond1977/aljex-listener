@@ -60,11 +60,11 @@
     "del_date": "2026-09-25",
     "del_city": "MACON",
     "del_state": "GA",
-    "del_hours": "0800-1600",
+    "del_hours": "0800-1300",
     "equipment": "Van",
     "weight_lbs": 44500,
-    "carrier_rate": 2200,
-    "updated_at": "2026-09-24T16:27:51.355560+00:00",
+    "carrier_rate": 2300,
+    "updated_at": "2026-09-24T16:33:03.429253+00:00",
     "lane": "JACKSONVILLE TX-MACON GA"
   },
   {
@@ -285,7 +285,7 @@
     "equipment": "Sprinter Van",
     "weight_lbs": 200,
     "carrier_rate": null,
-    "updated_at": "2026-09-23T20:52:48.057747+00:00",
+    "updated_at": "2026-09-24T16:31:35.144077+00:00",
     "lane": "ROCKVILLE MD-WINCHESTER KY"
   },
   {
@@ -472,7 +472,7 @@
     "equipment": "Van",
     "weight_lbs": 4800,
     "carrier_rate": 4200,
-    "updated_at": "2026-09-24T16:28:13.690708+00:00",
+    "updated_at": "2026-09-24T16:30:58.979430+00:00",
     "lane": "MOUNT STERLING KY-MIRA LOMA CA"
   },
   {
@@ -846,7 +846,7 @@
     "equipment": "Van",
     "weight_lbs": 44000,
     "carrier_rate": 1950,
-    "updated_at": "2026-09-24T15:58:23.645546+00:00",
+    "updated_at": "2026-09-24T16:32:33.505980+00:00",
     "lane": "CHESTER VA-OWENSBORO KY"
   },
   {
