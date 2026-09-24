@@ -119,6 +119,23 @@
     "lane": "CUMMING GA-CANON GA"
   },
   {
+    "pro": "50676",
+    "status": "OPEN",
+    "pu_date": "2026-09-25",
+    "pu_city": "TAMPA",
+    "pu_state": "FL",
+    "pu_hours": "",
+    "del_date": "2026-09-25",
+    "del_city": "BOCA RATON",
+    "del_state": "FL",
+    "del_hours": "",
+    "equipment": "Van",
+    "weight_lbs": 11500,
+    "carrier_rate": 700,
+    "updated_at": "2026-09-24T17:47:27.935769+00:00",
+    "lane": "TAMPA FL-BOCA RATON FL"
+  },
+  {
     "pro": "50466",
     "status": "OPEN",
     "pu_date": "2026-09-28",
@@ -455,7 +472,7 @@
     "equipment": "Van",
     "weight_lbs": 44500,
     "carrier_rate": 900,
-    "updated_at": "2026-09-24T17:44:01.508105+00:00",
+    "updated_at": "2026-09-24T17:47:08.911768+00:00",
     "lane": "JACKSONVILLE TX-JACKSON MS"
   },
   {
@@ -491,6 +508,23 @@
     "carrier_rate": null,
     "updated_at": "2026-09-24T12:29:38.930310+00:00",
     "lane": "GREENWOOD WI-LITHIA SPRINGS GA"
+  },
+  {
+    "pro": "50677",
+    "status": "OPEN",
+    "pu_date": "2026-10-05",
+    "pu_city": "GARLAND",
+    "pu_state": "TX",
+    "pu_hours": "1200-1400",
+    "del_date": "2026-10-06",
+    "del_city": "CALHOUN",
+    "del_state": "GA",
+    "del_hours": "0730-1400",
+    "equipment": "Van",
+    "weight_lbs": 43438,
+    "carrier_rate": 2000,
+    "updated_at": "2026-09-24T17:49:08.473735+00:00",
+    "lane": "GARLAND TX-CALHOUN GA"
   },
   {
     "pro": "50656",
@@ -748,6 +782,23 @@
     "lane": "GREENWOOD WI-LITHIA SPRINGS GA"
   },
   {
+    "pro": "50452",
+    "status": "RELEASED",
+    "pu_date": "2026-09-21",
+    "pu_city": "GARLAND",
+    "pu_state": "TX",
+    "pu_hours": "1200-1400",
+    "del_date": "2026-09-22",
+    "del_city": "CALHOUN",
+    "del_state": "GA",
+    "del_hours": "0730-1430",
+    "equipment": "Van",
+    "weight_lbs": 43438,
+    "carrier_rate": 2000,
+    "updated_at": "2026-09-23T15:56:36.886697+00:00",
+    "lane": "GARLAND TX-CALHOUN GA"
+  },
+  {
     "pro": "50476",
     "status": "RELEASED",
     "pu_date": "2026-09-21",
@@ -880,7 +931,7 @@
     "equipment": "Van",
     "weight_lbs": 7600,
     "carrier_rate": 3500,
-    "updated_at": "2026-09-24T16:59:15.245176+00:00",
+    "updated_at": "2026-09-24T17:48:10.351732+00:00",
     "lane": "WINCHESTER KY-JACKSONVILLE FL"
   },
   {
