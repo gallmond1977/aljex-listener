@@ -447,7 +447,7 @@
     "pu_date": "2026-10-02",
     "pu_city": "COLUMBUS",
     "pu_state": "GA",
-    "pu_hours": "NEEDED",
+    "pu_hours": "ADREQD",
     "del_date": "2026-10-05",
     "del_city": "VAN WERT",
     "del_state": "OH",
@@ -455,7 +455,7 @@
     "equipment": "Van",
     "weight_lbs": 11100,
     "carrier_rate": 1500,
-    "updated_at": "2026-09-24T14:02:03.105921+00:00",
+    "updated_at": "2026-09-24T17:38:46.327302+00:00",
     "lane": "COLUMBUS GA-VAN WERT OH"
   },
   {
