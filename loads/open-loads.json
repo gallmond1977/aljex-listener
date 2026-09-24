@@ -60,11 +60,11 @@
     "del_date": "2026-09-25",
     "del_city": "HOUSTON",
     "del_state": "TX",
-    "del_hours": "0800-1700",
+    "del_hours": "0700-1900",
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 7500,
     "carrier_rate": 1300,
-    "updated_at": "2026-09-24T15:07:10.896975+00:00",
+    "updated_at": "2026-09-24T15:44:06.374450+00:00",
     "lane": "LAGRANGE GA-HOUSTON TX"
   },
   {
