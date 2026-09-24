@@ -85,6 +85,23 @@
     "lane": "MACON GA-CALHOUN GA"
   },
   {
+    "pro": "50663",
+    "status": "OPEN",
+    "pu_date": "2026-09-24",
+    "pu_city": "ORLANDO",
+    "pu_state": "FL",
+    "pu_hours": "0700-1500",
+    "del_date": "",
+    "del_city": "TUSCALOOSA",
+    "del_state": "AL",
+    "del_hours": "",
+    "equipment": "Sprinter Van",
+    "weight_lbs": 700,
+    "carrier_rate": 550,
+    "updated_at": "2026-09-24T12:43:13.594090+00:00",
+    "lane": "ORLANDO FL-TUSCALOOSA AL"
+  },
+  {
     "pro": "50529",
     "status": "OPEN",
     "pu_date": "2026-09-25",
