@@ -64,7 +64,7 @@
     "equipment": "Van",
     "weight_lbs": 44500,
     "carrier_rate": 2200,
-    "updated_at": "2026-09-24T16:24:38.655993+00:00",
+    "updated_at": "2026-09-24T16:27:51.355560+00:00",
     "lane": "JACKSONVILLE TX-MACON GA"
   },
   {
@@ -83,23 +83,6 @@
     "carrier_rate": null,
     "updated_at": "2026-09-24T13:35:15.869158+00:00",
     "lane": "ATLANTA GA-FOREST PARK GA"
-  },
-  {
-    "pro": "50596",
-    "status": "OPEN",
-    "pu_date": "2026-09-25",
-    "pu_city": "RICHMOND",
-    "pu_state": "VA",
-    "pu_hours": "0800-0900",
-    "del_date": "2026-09-25",
-    "del_city": "KESWICK",
-    "del_state": "VA",
-    "del_hours": "0800-1400",
-    "equipment": "26' Straight Box Truck",
-    "weight_lbs": 4300,
-    "carrier_rate": 300,
-    "updated_at": "2026-09-24T16:24:44.795367+00:00",
-    "lane": "RICHMOND VA-KESWICK VA"
   },
   {
     "pro": "50602",
@@ -357,23 +340,6 @@
     "lane": "SHILOH OH-HENDERSONVILLE NC"
   },
   {
-    "pro": "50661",
-    "status": "OPEN",
-    "pu_date": "2026-09-29",
-    "pu_city": "MOUNT STERLING",
-    "pu_state": "KY",
-    "pu_hours": "NEEDED",
-    "del_date": "2026-10-02",
-    "del_city": "MIRA LOMA",
-    "del_state": "CA",
-    "del_hours": "AD REQD",
-    "equipment": "Van",
-    "weight_lbs": 4800,
-    "carrier_rate": 4200,
-    "updated_at": "2026-09-23T20:59:52.573747+00:00",
-    "lane": "MOUNT STERLING KY-MIRA LOMA CA"
-  },
-  {
     "pro": "50668",
     "status": "OPEN",
     "pu_date": "2026-09-29",
@@ -491,6 +457,23 @@
     "carrier_rate": 2300,
     "updated_at": "2026-09-24T13:09:55.930640+00:00",
     "lane": "WINCHESTER KY-BURLINGTON NJ"
+  },
+  {
+    "pro": "50661",
+    "status": "OPEN",
+    "pu_date": "2026-09-30",
+    "pu_city": "MOUNT STERLING",
+    "pu_state": "KY",
+    "pu_hours": "1200",
+    "del_date": "2026-10-04",
+    "del_city": "MIRA LOMA",
+    "del_state": "CA",
+    "del_hours": "0500",
+    "equipment": "Van",
+    "weight_lbs": 4800,
+    "carrier_rate": 4200,
+    "updated_at": "2026-09-24T16:28:13.690708+00:00",
+    "lane": "MOUNT STERLING KY-MIRA LOMA CA"
   },
   {
     "pro": "50107",
@@ -678,23 +661,6 @@
     "carrier_rate": null,
     "updated_at": "2026-09-03T14:33:15.542069+00:00",
     "lane": "LA PORTE TX-GREENVILLE SC"
-  },
-  {
-    "pro": "50470",
-    "status": "RELEASED",
-    "pu_date": "2026-09-16",
-    "pu_city": "RICHMOND",
-    "pu_state": "VA",
-    "pu_hours": "0630-0700",
-    "del_date": "2026-09-16",
-    "del_city": "KESWICK",
-    "del_state": "VA",
-    "del_hours": "0700-1200",
-    "equipment": "26' Straight Box Truck",
-    "weight_lbs": 5000,
-    "carrier_rate": 300,
-    "updated_at": "2026-09-21T14:16:26.717136+00:00",
-    "lane": "RICHMOND VA-KESWICK VA"
   },
   {
     "pro": "50527",
