@@ -51,6 +51,23 @@
     "lane": "WINCHESTER KY-JACKSONVILLE FL"
   },
   {
+    "pro": "50671",
+    "status": "OPEN",
+    "pu_date": "2026-09-24",
+    "pu_city": "JACKSONVILLE",
+    "pu_state": "TX",
+    "pu_hours": "0800-1500",
+    "del_date": "2026-09-25",
+    "del_city": "MACON",
+    "del_state": "GA",
+    "del_hours": "0800-1600",
+    "equipment": "Van",
+    "weight_lbs": 44500,
+    "carrier_rate": 2200,
+    "updated_at": "2026-09-24T16:24:38.655993+00:00",
+    "lane": "JACKSONVILLE TX-MACON GA"
+  },
+  {
     "pro": "50529",
     "status": "OPEN",
     "pu_date": "2026-09-25",
@@ -77,11 +94,11 @@
     "del_date": "2026-09-25",
     "del_city": "KESWICK",
     "del_state": "VA",
-    "del_hours": "CALL!",
+    "del_hours": "0800-1400",
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 4300,
     "carrier_rate": 300,
-    "updated_at": "2026-09-21T16:21:51.514006+00:00",
+    "updated_at": "2026-09-24T16:24:44.795367+00:00",
     "lane": "RICHMOND VA-KESWICK VA"
   },
   {
