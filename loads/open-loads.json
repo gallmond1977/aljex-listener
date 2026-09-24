@@ -94,11 +94,11 @@
     "del_date": "2026-09-25",
     "del_city": "OKLAHOMA CITY",
     "del_state": "OK",
-    "del_hours": "",
+    "del_hours": "0800-1500",
     "equipment": "Van",
     "weight_lbs": 23000,
-    "carrier_rate": 1400,
-    "updated_at": "2026-09-24T14:08:26.160025+00:00",
+    "carrier_rate": 1450,
+    "updated_at": "2026-09-24T14:14:43.265917+00:00",
     "lane": "JACKSONVILLE TX-OKLAHOMA CITY OK"
   },
   {
@@ -1067,7 +1067,7 @@
     "equipment": "Van",
     "weight_lbs": 43212,
     "carrier_rate": 2000,
-    "updated_at": "2026-09-24T13:50:47.253120+00:00",
+    "updated_at": "2026-09-24T14:14:29.959340+00:00",
     "lane": "EL DORADO AR-CALHOUN GA"
   },
   {
