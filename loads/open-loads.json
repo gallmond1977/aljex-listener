@@ -357,6 +357,23 @@
     "lane": "ALPHARETTA GA-URBANDALE IA"
   },
   {
+    "pro": "50668",
+    "status": "OPEN",
+    "pu_date": "2026-09-28",
+    "pu_city": "ALPHARETTA",
+    "pu_state": "GA",
+    "pu_hours": "0900-1600",
+    "del_date": "2026-09-29",
+    "del_city": "ROCK HILL",
+    "del_state": "SC",
+    "del_hours": "0800-1400",
+    "equipment": "Flatbed w/ Tarps",
+    "weight_lbs": 42000,
+    "carrier_rate": 1000,
+    "updated_at": "2026-09-24T15:02:17.463259+00:00",
+    "lane": "ALPHARETTA GA-ROCK HILL SC"
+  },
+  {
     "pro": "50638",
     "status": "OPEN",
     "pu_date": "2026-09-29",
