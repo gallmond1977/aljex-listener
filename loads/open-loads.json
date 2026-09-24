@@ -170,23 +170,6 @@
     "lane": "KANKAKEE IL-JACKSONVILLE TX"
   },
   {
-    "pro": "50659",
-    "status": "OPEN",
-    "pu_date": "2026-09-25",
-    "pu_city": "ALPHARETTA",
-    "pu_state": "GA",
-    "pu_hours": "0900-1600",
-    "del_date": "2026-09-28",
-    "del_city": "URBANDALE",
-    "del_state": "IA",
-    "del_hours": "0700-1500",
-    "equipment": "Flatbed w/ Tarps",
-    "weight_lbs": 42000,
-    "carrier_rate": 3700,
-    "updated_at": "2026-09-24T15:18:53.216321+00:00",
-    "lane": "ALPHARETTA GA-URBANDALE IA"
-  },
-  {
     "pro": "50660",
     "status": "OPEN",
     "pu_date": "2026-09-25",
@@ -423,6 +406,23 @@
     "carrier_rate": 1000,
     "updated_at": "2026-09-24T15:15:54.227203+00:00",
     "lane": "ALPHARETTA GA-ROCK HILL SC"
+  },
+  {
+    "pro": "50670",
+    "status": "OPEN",
+    "pu_date": "2026-09-29",
+    "pu_city": "ALPHARETTA",
+    "pu_state": "GA",
+    "pu_hours": "0900-1600",
+    "del_date": "2026-09-30",
+    "del_city": "MARSHALL",
+    "del_state": "VA",
+    "del_hours": "0800-1500",
+    "equipment": "Flatbed w/ Tarps",
+    "weight_lbs": 42000,
+    "carrier_rate": null,
+    "updated_at": "2026-09-24T15:31:27.037604+00:00",
+    "lane": "ALPHARETTA GA-MARSHALL VA"
   },
   {
     "pro": "50405",
@@ -814,23 +814,6 @@
     "carrier_rate": 150,
     "updated_at": "2026-09-21T17:42:12.433380+00:00",
     "lane": "AUBURN AL-LA CROSSE WI"
-  },
-  {
-    "pro": "50588",
-    "status": "RELEASED",
-    "pu_date": "2026-09-21",
-    "pu_city": "ALPHARETTA",
-    "pu_state": "GA",
-    "pu_hours": "1200-1600",
-    "del_date": "2026-09-23",
-    "del_city": "URBANDALE",
-    "del_state": "IA",
-    "del_hours": "0700-1500",
-    "equipment": "Flatbed w/ Tarps",
-    "weight_lbs": 42000,
-    "carrier_rate": 3800,
-    "updated_at": "2026-09-23T16:07:21.894093+00:00",
-    "lane": "ALPHARETTA GA-URBANDALE IA"
   },
   {
     "pro": "50523",
