@@ -153,6 +153,23 @@
     "lane": "KANKAKEE IL-JACKSONVILLE TX"
   },
   {
+    "pro": "50659",
+    "status": "OPEN",
+    "pu_date": "2026-09-25",
+    "pu_city": "ALPHARETTA",
+    "pu_state": "GA",
+    "pu_hours": "0900-1600",
+    "del_date": "2026-09-28",
+    "del_city": "URBANDALE",
+    "del_state": "IA",
+    "del_hours": "0700-1500",
+    "equipment": "Flatbed w/ Tarps",
+    "weight_lbs": 42000,
+    "carrier_rate": 3700,
+    "updated_at": "2026-09-24T15:18:53.216321+00:00",
+    "lane": "ALPHARETTA GA-URBANDALE IA"
+  },
+  {
     "pro": "50660",
     "status": "OPEN",
     "pu_date": "2026-09-25",
@@ -323,23 +340,6 @@
     "lane": "EL DORADO AR-CALHOUN GA"
   },
   {
-    "pro": "50659",
-    "status": "OPEN",
-    "pu_date": "2026-09-28",
-    "pu_city": "ALPHARETTA",
-    "pu_state": "GA",
-    "pu_hours": "0900-1600",
-    "del_date": "2026-09-29",
-    "del_city": "URBANDALE",
-    "del_state": "IA",
-    "del_hours": "0700-1500",
-    "equipment": "Flatbed w/ Tarps",
-    "weight_lbs": 42000,
-    "carrier_rate": 3700,
-    "updated_at": "2026-09-23T19:42:32.068743+00:00",
-    "lane": "ALPHARETTA GA-URBANDALE IA"
-  },
-  {
     "pro": "50667",
     "status": "OPEN",
     "pu_date": "2026-09-28",
@@ -354,23 +354,6 @@
     "weight_lbs": 42000,
     "carrier_rate": 1000,
     "updated_at": "2026-09-24T15:14:44.268786+00:00",
-    "lane": "ALPHARETTA GA-ROCK HILL SC"
-  },
-  {
-    "pro": "50668",
-    "status": "OPEN",
-    "pu_date": "2026-09-28",
-    "pu_city": "ALPHARETTA",
-    "pu_state": "GA",
-    "pu_hours": "0900-1600",
-    "del_date": "2026-09-29",
-    "del_city": "ROCK HILL",
-    "del_state": "SC",
-    "del_hours": "0800-1400",
-    "equipment": "Flatbed w/ Tarps",
-    "weight_lbs": 42000,
-    "carrier_rate": 1000,
-    "updated_at": "2026-09-24T15:02:17.463259+00:00",
     "lane": "ALPHARETTA GA-ROCK HILL SC"
   },
   {
@@ -406,6 +389,23 @@
     "carrier_rate": 4200,
     "updated_at": "2026-09-23T20:59:52.573747+00:00",
     "lane": "MOUNT STERLING KY-MIRA LOMA CA"
+  },
+  {
+    "pro": "50668",
+    "status": "OPEN",
+    "pu_date": "2026-09-29",
+    "pu_city": "ALPHARETTA",
+    "pu_state": "GA",
+    "pu_hours": "0900-1600",
+    "del_date": "2026-09-30",
+    "del_city": "ROCK HILL",
+    "del_state": "SC",
+    "del_hours": "0800-1400",
+    "equipment": "Flatbed w/ Tarps",
+    "weight_lbs": 42000,
+    "carrier_rate": 1000,
+    "updated_at": "2026-09-24T15:15:54.227203+00:00",
+    "lane": "ALPHARETTA GA-ROCK HILL SC"
   },
   {
     "pro": "50405",
@@ -885,7 +885,7 @@
   },
   {
     "pro": "50646",
-    "status": "DISPATCHED",
+    "status": "PICKUP",
     "pu_date": "2026-09-24",
     "pu_city": "CHESTER",
     "pu_state": "VA",
@@ -897,7 +897,7 @@
     "equipment": "Van",
     "weight_lbs": 44000,
     "carrier_rate": 1950,
-    "updated_at": "2026-09-24T14:20:02.161970+00:00",
+    "updated_at": "2026-09-24T15:15:23.675118+00:00",
     "lane": "CHESTER VA-OWENSBORO KY"
   }
 ]
