@@ -51,23 +51,6 @@
     "lane": "WINCHESTER KY-JACKSONVILLE FL"
   },
   {
-    "pro": "50669",
-    "status": "OPEN",
-    "pu_date": "2026-09-24",
-    "pu_city": "BENSENVILLE",
-    "pu_state": "IL",
-    "pu_hours": "0800-1500",
-    "del_date": "2026-09-25",
-    "del_city": "BELCAMP",
-    "del_state": "MD",
-    "del_hours": "0700-1300",
-    "equipment": "Van",
-    "weight_lbs": 30000,
-    "carrier_rate": 2500,
-    "updated_at": "2026-09-24T15:28:40.399296+00:00",
-    "lane": "BENSENVILLE IL-BELCAMP MD"
-  },
-  {
     "pro": "50529",
     "status": "OPEN",
     "pu_date": "2026-09-25",
@@ -882,5 +865,22 @@
     "carrier_rate": 1950,
     "updated_at": "2026-09-24T15:58:23.645546+00:00",
     "lane": "CHESTER VA-OWENSBORO KY"
+  },
+  {
+    "pro": "50669",
+    "status": "COVERED",
+    "pu_date": "2026-09-24",
+    "pu_city": "BENSENVILLE",
+    "pu_state": "IL",
+    "pu_hours": "0800-1500",
+    "del_date": "2026-09-25",
+    "del_city": "BELCAMP",
+    "del_state": "MD",
+    "del_hours": "0700-1300",
+    "equipment": "Van",
+    "weight_lbs": 30000,
+    "carrier_rate": 2500,
+    "updated_at": "2026-09-24T16:12:55.547318+00:00",
+    "lane": "BENSENVILLE IL-BELCAMP MD"
   }
 ]
