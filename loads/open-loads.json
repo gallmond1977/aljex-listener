@@ -39,7 +39,7 @@
     "pu_date": "2026-09-24",
     "pu_city": "PAYSON",
     "pu_state": "UT",
-    "pu_hours": "0800-1400",
+    "pu_hours": "0800-1500",
     "del_date": "2026-09-25",
     "del_city": "PHOENIX",
     "del_state": "AZ",
@@ -47,7 +47,7 @@
     "equipment": "Flatbed w/ Tarps",
     "weight_lbs": 46000,
     "carrier_rate": 1700,
-    "updated_at": "2026-09-24T19:24:27.366423+00:00",
+    "updated_at": "2026-09-24T19:27:52.460643+00:00",
     "lane": "PAYSON UT-PHOENIX AZ"
   },
   {
@@ -321,6 +321,23 @@
     "carrier_rate": 1480,
     "updated_at": "2026-09-24T18:26:02.791611+00:00",
     "lane": "INDEPENDENCE MO-JACKSONVILLE TX"
+  },
+  {
+    "pro": "50682",
+    "status": "OPEN",
+    "pu_date": "2026-09-28",
+    "pu_city": "ROCK HILL",
+    "pu_state": "SC",
+    "pu_hours": "0800-1200",
+    "del_date": "2026-09-28",
+    "del_city": "MOUNT PLEASANT",
+    "del_state": "SC",
+    "del_hours": "0800-1700",
+    "equipment": "Flatbed Hot Shot",
+    "weight_lbs": 24000,
+    "carrier_rate": 600,
+    "updated_at": "2026-09-24T19:29:06.981903+00:00",
+    "lane": "ROCK HILL SC-MOUNT PLEASANT SC"
   },
   {
     "pro": "50638",
