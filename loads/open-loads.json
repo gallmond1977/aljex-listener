@@ -374,6 +374,23 @@
     "lane": "ALPHARETTA GA-MARSHALL VA"
   },
   {
+    "pro": "50679",
+    "status": "OPEN",
+    "pu_date": "2026-09-29",
+    "pu_city": "JACKSONVILLE",
+    "pu_state": "TX",
+    "pu_hours": "0800-1500",
+    "del_date": "2026-10-01",
+    "del_city": "SUGARCREEK",
+    "del_state": "OH",
+    "del_hours": "0700-1400",
+    "equipment": "Van",
+    "weight_lbs": 43401,
+    "carrier_rate": 2360,
+    "updated_at": "2026-09-24T18:18:36.595554+00:00",
+    "lane": "JACKSONVILLE TX-SUGARCREEK OH"
+  },
+  {
     "pro": "50405",
     "status": "OPEN",
     "pu_date": "2026-09-30",
