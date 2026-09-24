@@ -1038,7 +1038,7 @@
   },
   {
     "pro": "50669",
-    "status": "DISPATCHED",
+    "status": "PICKUP",
     "pu_date": "2026-09-24",
     "pu_city": "BENSENVILLE",
     "pu_state": "IL",
@@ -1050,7 +1050,7 @@
     "equipment": "Van",
     "weight_lbs": 30000,
     "carrier_rate": 2500,
-    "updated_at": "2026-09-24T18:57:05.671076+00:00",
+    "updated_at": "2026-09-24T19:10:09.844545+00:00",
     "lane": "BENSENVILLE IL-BELCAMP MD"
   }
 ]
