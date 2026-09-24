@@ -13,7 +13,7 @@
     "equipment": "Flatbed w/ Tarps",
     "weight_lbs": 37950,
     "carrier_rate": 1200,
-    "updated_at": "2026-09-24T20:12:44.726842+00:00",
+    "updated_at": "2026-09-24T20:19:39.974940+00:00",
     "lane": "EUFAULA AL-DECATUR AL"
   },
   {
@@ -32,6 +32,23 @@
     "carrier_rate": 450,
     "updated_at": "2026-09-24T18:06:43.379646+00:00",
     "lane": "ATLANTA GA-FOREST PARK GA"
+  },
+  {
+    "pro": "50596",
+    "status": "OPEN",
+    "pu_date": "2026-09-25",
+    "pu_city": "RICHMOND",
+    "pu_state": "VA",
+    "pu_hours": "0800",
+    "del_date": "2026-09-25",
+    "del_city": "KESWICK",
+    "del_state": "VA",
+    "del_hours": "0800-1400",
+    "equipment": "26' Straight Box Truck",
+    "weight_lbs": 4300,
+    "carrier_rate": 300,
+    "updated_at": "2026-09-24T20:19:25.589300+00:00",
+    "lane": "RICHMOND VA-KESWICK VA"
   },
   {
     "pro": "50648",
@@ -391,6 +408,40 @@
     "lane": "JACKSONVILLE TX-SUGARCREEK OH"
   },
   {
+    "pro": "50683",
+    "status": "OPEN",
+    "pu_date": "2026-09-29",
+    "pu_city": "PENDERGRASS",
+    "pu_state": "GA",
+    "pu_hours": "",
+    "del_date": "2026-09-30",
+    "del_city": "ZEBULON",
+    "del_state": "NC",
+    "del_hours": "0700-0900",
+    "equipment": "Van",
+    "weight_lbs": 40124,
+    "carrier_rate": null,
+    "updated_at": "2026-09-24T20:19:05.334485+00:00",
+    "lane": "PENDERGRASS GA-ZEBULON NC"
+  },
+  {
+    "pro": "50684",
+    "status": "OPEN",
+    "pu_date": "2026-09-29",
+    "pu_city": "PENDERGRASS",
+    "pu_state": "GA",
+    "pu_hours": "",
+    "del_date": "2026-09-30",
+    "del_city": "ZEBULON",
+    "del_state": "NC",
+    "del_hours": "0700-0900",
+    "equipment": "Van",
+    "weight_lbs": 40124,
+    "carrier_rate": null,
+    "updated_at": "2026-09-24T20:20:08.207116+00:00",
+    "lane": "PENDERGRASS GA-ZEBULON NC"
+  },
+  {
     "pro": "50405",
     "status": "OPEN",
     "pu_date": "2026-09-30",
@@ -714,6 +765,23 @@
     "lane": "LA PORTE TX-GREENVILLE SC"
   },
   {
+    "pro": "50470",
+    "status": "RELEASED",
+    "pu_date": "2026-09-16",
+    "pu_city": "RICHMOND",
+    "pu_state": "VA",
+    "pu_hours": "0630-0700",
+    "del_date": "2026-09-16",
+    "del_city": "KESWICK",
+    "del_state": "VA",
+    "del_hours": "0700-1200",
+    "equipment": "26' Straight Box Truck",
+    "weight_lbs": 5000,
+    "carrier_rate": 300,
+    "updated_at": "2026-09-21T14:16:26.717136+00:00",
+    "lane": "RICHMOND VA-KESWICK VA"
+  },
+  {
     "pro": "50527",
     "status": "RELEASED",
     "pu_date": "2026-09-16",
@@ -746,6 +814,23 @@
     "carrier_rate": 200,
     "updated_at": "2026-09-18T01:05:40.994790+00:00",
     "lane": "RICHMOND VA-RICHMOND VA"
+  },
+  {
+    "pro": "50547",
+    "status": "RELEASED",
+    "pu_date": "2026-09-18",
+    "pu_city": "PENDERGRASS",
+    "pu_state": "GA",
+    "pu_hours": "1000",
+    "del_date": "2026-09-21",
+    "del_city": "ZEBULON",
+    "del_state": "NC",
+    "del_hours": "0700-0900",
+    "equipment": "Van",
+    "weight_lbs": 40124,
+    "carrier_rate": 1300,
+    "updated_at": "2026-09-22T11:31:09.170656+00:00",
+    "lane": "PENDERGRASS GA-ZEBULON NC"
   },
   {
     "pro": "50378",
