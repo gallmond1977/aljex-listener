@@ -34,23 +34,6 @@
     "lane": "EUFAULA AL-DECATUR AL"
   },
   {
-    "pro": "50681",
-    "status": "OPEN",
-    "pu_date": "2026-09-24",
-    "pu_city": "PAYSON",
-    "pu_state": "UT",
-    "pu_hours": "0800-1500",
-    "del_date": "2026-09-25",
-    "del_city": "PHOENIX",
-    "del_state": "AZ",
-    "del_hours": "",
-    "equipment": "Flatbed w/ Tarps",
-    "weight_lbs": 46000,
-    "carrier_rate": 1700,
-    "updated_at": "2026-09-24T19:27:52.460643+00:00",
-    "lane": "PAYSON UT-PHOENIX AZ"
-  },
-  {
     "pro": "50529",
     "status": "OPEN",
     "pu_date": "2026-09-25",
@@ -336,7 +319,7 @@
     "equipment": "Flatbed Hot Shot",
     "weight_lbs": 24000,
     "carrier_rate": 600,
-    "updated_at": "2026-09-24T19:29:06.981903+00:00",
+    "updated_at": "2026-09-24T19:37:51.424097+00:00",
     "lane": "ROCK HILL SC-MOUNT PLEASANT SC"
   },
   {
