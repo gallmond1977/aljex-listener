@@ -85,23 +85,6 @@
     "lane": "LAGRANGE GA-HOUSTON TX"
   },
   {
-    "pro": "50666",
-    "status": "OPEN",
-    "pu_date": "2026-09-24",
-    "pu_city": "JACKSONVILLE",
-    "pu_state": "TX",
-    "pu_hours": "0800-1500",
-    "del_date": "2026-09-25",
-    "del_city": "OKLAHOMA CITY",
-    "del_state": "OK",
-    "del_hours": "0800-1500",
-    "equipment": "Van",
-    "weight_lbs": 23000,
-    "carrier_rate": 1450,
-    "updated_at": "2026-09-24T14:18:04.675167+00:00",
-    "lane": "JACKSONVILLE TX-OKLAHOMA CITY OK"
-  },
-  {
     "pro": "50529",
     "status": "OPEN",
     "pu_date": "2026-09-25",
