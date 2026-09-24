@@ -81,7 +81,7 @@
     "equipment": "Flatbed",
     "weight_lbs": 40000,
     "carrier_rate": 650,
-    "updated_at": "2026-09-23T18:21:58.288633+00:00",
+    "updated_at": "2026-09-24T12:14:53.448750+00:00",
     "lane": "GREENSBORO NC-ROXBORO NC"
   },
   {
@@ -897,7 +897,7 @@
     "equipment": "Van",
     "weight_lbs": 43212,
     "carrier_rate": 2000,
-    "updated_at": "2026-09-23T20:48:06.656528+00:00",
+    "updated_at": "2026-09-24T12:13:34.994886+00:00",
     "lane": "EL DORADO AR-CALHOUN GA"
   }
 ]
