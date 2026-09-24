@@ -1,22 +1,5 @@
 [
   {
-    "pro": "50680",
-    "status": "OPEN",
-    "pu_date": "2026-09-24",
-    "pu_city": "EUFAULA",
-    "pu_state": "AL",
-    "pu_hours": "0800-1600",
-    "del_date": "2026-09-25",
-    "del_city": "DECATUR",
-    "del_state": "AL",
-    "del_hours": "0900-1200",
-    "equipment": "Flatbed w/ Tarps",
-    "weight_lbs": 37950,
-    "carrier_rate": 1200,
-    "updated_at": "2026-09-24T20:26:05.661244+00:00",
-    "lane": "EUFAULA AL-DECATUR AL"
-  },
-  {
     "pro": "50529",
     "status": "OPEN",
     "pu_date": "2026-09-25",
@@ -117,6 +100,23 @@
     "carrier_rate": 700,
     "updated_at": "2026-09-24T18:07:06.047324+00:00",
     "lane": "TAMPA FL-BOCA RATON FL"
+  },
+  {
+    "pro": "50680",
+    "status": "OPEN",
+    "pu_date": "2026-09-25",
+    "pu_city": "EUFAULA",
+    "pu_state": "AL",
+    "pu_hours": "0800-1600",
+    "del_date": "2026-09-25",
+    "del_city": "DECATUR",
+    "del_state": "AL",
+    "del_hours": "",
+    "equipment": "Flatbed w/ Tarps",
+    "weight_lbs": 37950,
+    "carrier_rate": 1200,
+    "updated_at": "2026-09-24T20:39:17.130230+00:00",
+    "lane": "EUFAULA AL-DECATUR AL"
   },
   {
     "pro": "50159",
@@ -987,7 +987,7 @@
   },
   {
     "pro": "50614",
-    "status": "DISPATCHED",
+    "status": "PICKUP",
     "pu_date": "2026-09-24",
     "pu_city": "WINCHESTER",
     "pu_state": "KY",
@@ -999,7 +999,7 @@
     "equipment": "Van",
     "weight_lbs": 4000,
     "carrier_rate": 3800,
-    "updated_at": "2026-09-24T20:13:38.530801+00:00",
+    "updated_at": "2026-09-24T20:38:22.260268+00:00",
     "lane": "WINCHESTER KY-JACKSONVILLE FL"
   },
   {
