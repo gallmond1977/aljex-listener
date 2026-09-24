@@ -153,23 +153,6 @@
     "lane": "ALLIANCE OH-MACON GA"
   },
   {
-    "pro": "50629",
-    "status": "OPEN",
-    "pu_date": "2026-09-25",
-    "pu_city": "MONTGOMERY",
-    "pu_state": "AL",
-    "pu_hours": "0730-1500",
-    "del_date": "2026-09-28",
-    "del_city": "AUGUSTA",
-    "del_state": "GA",
-    "del_hours": "0800-1600",
-    "equipment": "Flatbed",
-    "weight_lbs": 47500,
-    "carrier_rate": 1300,
-    "updated_at": "2026-09-23T21:00:26.425552+00:00",
-    "lane": "MONTGOMERY AL-AUGUSTA GA"
-  },
-  {
     "pro": "50648",
     "status": "OPEN",
     "pu_date": "2026-09-25",
@@ -471,8 +454,8 @@
     "del_hours": "0500",
     "equipment": "Van",
     "weight_lbs": 12282,
-    "carrier_rate": null,
-    "updated_at": "2026-09-23T20:39:44.309046+00:00",
+    "carrier_rate": 2300,
+    "updated_at": "2026-09-24T12:31:58.135073+00:00",
     "lane": "WINCHESTER KY-BURLINGTON NJ"
   },
   {
@@ -880,7 +863,7 @@
     "equipment": "Van",
     "weight_lbs": 13080,
     "carrier_rate": 4300,
-    "updated_at": "2026-09-24T09:41:26.959007+00:00",
+    "updated_at": "2026-09-24T12:31:43.160008+00:00",
     "lane": "MOUNT STERLING KY-MIRA LOMA CA"
   },
   {
@@ -970,7 +953,7 @@
   },
   {
     "pro": "50523",
-    "status": "LOADED",
+    "status": "CONSIGNEE",
     "pu_date": "2026-09-23",
     "pu_city": "WINCHESTER",
     "pu_state": "KY",
@@ -982,7 +965,7 @@
     "equipment": "Van",
     "weight_lbs": 4000,
     "carrier_rate": 2400,
-    "updated_at": "2026-09-23T14:11:48.824660+00:00",
+    "updated_at": "2026-09-24T12:31:49.434387+00:00",
     "lane": "WINCHESTER KY-JACKSONVILLE FL"
   },
   {
@@ -1037,23 +1020,6 @@
     "lane": "WINCHESTER KY-UXBRIDGE MA"
   },
   {
-    "pro": "50628",
-    "status": "LOADED",
-    "pu_date": "2026-09-23",
-    "pu_city": "MONTGOMERY",
-    "pu_state": "AL",
-    "pu_hours": "0730-1500",
-    "del_date": "2026-09-24",
-    "del_city": "AUGUSTA",
-    "del_state": "GA",
-    "del_hours": "0800-1600",
-    "equipment": "Flatbed",
-    "weight_lbs": 47500,
-    "carrier_rate": 1300,
-    "updated_at": "2026-09-23T21:41:31.613722+00:00",
-    "lane": "MONTGOMERY AL-AUGUSTA GA"
-  },
-  {
     "pro": "50635",
     "status": "DELIVERED",
     "pu_date": "2026-09-23",
@@ -1072,7 +1038,7 @@
   },
   {
     "pro": "50626",
-    "status": "COVERED",
+    "status": "DISPATCHED",
     "pu_date": "2026-09-24",
     "pu_city": "EL DORADO",
     "pu_state": "AR",
@@ -1084,7 +1050,7 @@
     "equipment": "Van",
     "weight_lbs": 43212,
     "carrier_rate": 2000,
-    "updated_at": "2026-09-24T12:22:55.433842+00:00",
+    "updated_at": "2026-09-24T12:31:27.220115+00:00",
     "lane": "EL DORADO AR-CALHOUN GA"
   },
   {
