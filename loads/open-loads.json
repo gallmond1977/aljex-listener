@@ -23,14 +23,14 @@
     "pu_city": "EUFAULA",
     "pu_state": "AL",
     "pu_hours": "0800-1600",
-    "del_date": "",
+    "del_date": "2026-09-25",
     "del_city": "DECATUR",
     "del_state": "AL",
     "del_hours": "0900-1200",
-    "equipment": "Flatbed",
-    "weight_lbs": 45600,
-    "carrier_rate": null,
-    "updated_at": "2026-09-24T18:40:01.924155+00:00",
+    "equipment": "Flatbed w/ Tarps",
+    "weight_lbs": 37950,
+    "carrier_rate": 1200,
+    "updated_at": "2026-09-24T18:44:22.434740+00:00",
     "lane": "EUFAULA AL-DECATUR AL"
   },
   {
@@ -982,7 +982,7 @@
     "equipment": "Van",
     "weight_lbs": 4000,
     "carrier_rate": 3800,
-    "updated_at": "2026-09-24T18:33:22.269455+00:00",
+    "updated_at": "2026-09-24T18:44:15.660489+00:00",
     "lane": "WINCHESTER KY-JACKSONVILLE FL"
   },
   {
@@ -1050,7 +1050,7 @@
     "equipment": "Van",
     "weight_lbs": 30000,
     "carrier_rate": 2500,
-    "updated_at": "2026-09-24T17:44:48.851179+00:00",
+    "updated_at": "2026-09-24T18:43:54.413212+00:00",
     "lane": "BENSENVILLE IL-BELCAMP MD"
   }
 ]
