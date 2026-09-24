@@ -17,6 +17,23 @@
     "lane": "ANNISTON AL-RICHARDSON TX"
   },
   {
+    "pro": "50680",
+    "status": "OPEN",
+    "pu_date": "2026-09-24",
+    "pu_city": "EUFAULA",
+    "pu_state": "AL",
+    "pu_hours": "0800-1600",
+    "del_date": "",
+    "del_city": "DECATUR",
+    "del_state": "AL",
+    "del_hours": "0900-1200",
+    "equipment": "Flatbed",
+    "weight_lbs": 45600,
+    "carrier_rate": null,
+    "updated_at": "2026-09-24T18:40:01.924155+00:00",
+    "lane": "EUFAULA AL-DECATUR AL"
+  },
+  {
     "pro": "50529",
     "status": "OPEN",
     "pu_date": "2026-09-25",
