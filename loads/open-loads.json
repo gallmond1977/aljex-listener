@@ -868,7 +868,7 @@
   },
   {
     "pro": "50646",
-    "status": "PICKUP",
+    "status": "LOADED",
     "pu_date": "2026-09-24",
     "pu_city": "CHESTER",
     "pu_state": "VA",
@@ -880,7 +880,7 @@
     "equipment": "Van",
     "weight_lbs": 44000,
     "carrier_rate": 1950,
-    "updated_at": "2026-09-24T15:50:49.603890+00:00",
+    "updated_at": "2026-09-24T15:58:23.645546+00:00",
     "lane": "CHESTER VA-OWENSBORO KY"
   }
 ]
