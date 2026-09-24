@@ -17,23 +17,6 @@
     "lane": "ATLANTA GA-FOREST PARK GA"
   },
   {
-    "pro": "50596",
-    "status": "OPEN",
-    "pu_date": "2026-09-25",
-    "pu_city": "RICHMOND",
-    "pu_state": "VA",
-    "pu_hours": "0800-0900",
-    "del_date": "2026-09-25",
-    "del_city": "KESWICK",
-    "del_state": "VA",
-    "del_hours": "0800-1400",
-    "equipment": "26' Straight Box Truck",
-    "weight_lbs": 4300,
-    "carrier_rate": 300,
-    "updated_at": "2026-09-24T20:29:53.382917+00:00",
-    "lane": "RICHMOND VA-KESWICK VA"
-  },
-  {
     "pro": "50648",
     "status": "OPEN",
     "pu_date": "2026-09-25",
@@ -168,6 +151,23 @@
     "carrier_rate": 1545,
     "updated_at": "2026-09-21T15:12:17.601794+00:00",
     "lane": "WINCHESTER KY-ST CHARLES ON"
+  },
+  {
+    "pro": "50596",
+    "status": "OPEN",
+    "pu_date": "2026-09-28",
+    "pu_city": "RICHMOND",
+    "pu_state": "VA",
+    "pu_hours": "0800-0900",
+    "del_date": "2026-09-28",
+    "del_city": "KESWICK",
+    "del_state": "VA",
+    "del_hours": "0800-1400",
+    "equipment": "26' Straight Box Truck",
+    "weight_lbs": 4300,
+    "carrier_rate": 300,
+    "updated_at": "2026-09-24T20:47:09.122545+00:00",
+    "lane": "RICHMOND VA-KESWICK VA"
   },
   {
     "pro": "50600",
