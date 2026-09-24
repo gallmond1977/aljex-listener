@@ -115,7 +115,7 @@
     "equipment": "Flatbed",
     "weight_lbs": 44900,
     "carrier_rate": 2400,
-    "updated_at": "2026-09-24T16:01:18.421638+00:00",
+    "updated_at": "2026-09-24T16:08:43.122672+00:00",
     "lane": "ALLIANCE OH-MACON GA"
   },
   {
@@ -812,7 +812,7 @@
     "equipment": "Van",
     "weight_lbs": 4000,
     "carrier_rate": 2400,
-    "updated_at": "2026-09-24T15:47:08.597780+00:00",
+    "updated_at": "2026-09-24T16:07:50.401470+00:00",
     "lane": "WINCHESTER KY-JACKSONVILLE FL"
   },
   {
