@@ -115,7 +115,7 @@
     "equipment": "Reefer",
     "weight_lbs": 33095,
     "carrier_rate": null,
-    "updated_at": "2026-09-21T19:04:10.633381+00:00",
+    "updated_at": "2026-09-24T13:35:15.869158+00:00",
     "lane": "ATLANTA GA-FOREST PARK GA"
   },
   {
@@ -1055,7 +1055,7 @@
   },
   {
     "pro": "50636",
-    "status": "COVERED",
+    "status": "PICKUP",
     "pu_date": "2026-09-24",
     "pu_city": "MACON",
     "pu_state": "GA",
@@ -1067,7 +1067,7 @@
     "equipment": "Van",
     "weight_lbs": 34000,
     "carrier_rate": 600,
-    "updated_at": "2026-09-24T13:03:17.920313+00:00",
+    "updated_at": "2026-09-24T13:39:30.578390+00:00",
     "lane": "MACON GA-CALHOUN GA"
   },
   {
