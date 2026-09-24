@@ -51,23 +51,6 @@
     "lane": "ATLANTA GA-FOREST PARK GA"
   },
   {
-    "pro": "50602",
-    "status": "OPEN",
-    "pu_date": "2026-09-25",
-    "pu_city": "ALLIANCE",
-    "pu_state": "OH",
-    "pu_hours": "0700-1530",
-    "del_date": "2026-09-28",
-    "del_city": "MACON",
-    "del_state": "GA",
-    "del_hours": "0730-1600",
-    "equipment": "Flatbed",
-    "weight_lbs": 44900,
-    "carrier_rate": 2400,
-    "updated_at": "2026-09-24T16:15:58.472925+00:00",
-    "lane": "ALLIANCE OH-MACON GA"
-  },
-  {
     "pro": "50648",
     "status": "OPEN",
     "pu_date": "2026-09-25",
