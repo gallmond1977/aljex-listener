@@ -29,8 +29,8 @@
     "del_hours": "1800",
     "equipment": "Van",
     "weight_lbs": 7600,
-    "carrier_rate": 3000,
-    "updated_at": "2026-09-24T14:02:11.980649+00:00",
+    "carrier_rate": 3300,
+    "updated_at": "2026-09-24T16:16:49.588174+00:00",
     "lane": "WINCHESTER KY-JACKSONVILLE FL"
   },
   {
@@ -46,8 +46,8 @@
     "del_hours": "1900",
     "equipment": "Van",
     "weight_lbs": 4000,
-    "carrier_rate": 3000,
-    "updated_at": "2026-09-24T14:02:19.851946+00:00",
+    "carrier_rate": 3300,
+    "updated_at": "2026-09-24T16:17:02.075518+00:00",
     "lane": "WINCHESTER KY-JACKSONVILLE FL"
   },
   {
@@ -98,7 +98,7 @@
     "equipment": "Flatbed",
     "weight_lbs": 44900,
     "carrier_rate": 2400,
-    "updated_at": "2026-09-24T16:08:43.122672+00:00",
+    "updated_at": "2026-09-24T16:15:58.472925+00:00",
     "lane": "ALLIANCE OH-MACON GA"
   },
   {
