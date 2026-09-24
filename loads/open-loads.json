@@ -29,8 +29,8 @@
     "del_hours": "1900",
     "equipment": "Van",
     "weight_lbs": 4000,
-    "carrier_rate": 3500,
-    "updated_at": "2026-09-24T17:57:06.556385+00:00",
+    "carrier_rate": 3800,
+    "updated_at": "2026-09-24T18:24:58.635923+00:00",
     "lane": "WINCHESTER KY-JACKSONVILLE FL"
   },
   {
@@ -387,7 +387,7 @@
     "equipment": "Van",
     "weight_lbs": 43401,
     "carrier_rate": 2360,
-    "updated_at": "2026-09-24T18:18:36.595554+00:00",
+    "updated_at": "2026-09-24T18:25:03.022227+00:00",
     "lane": "JACKSONVILLE TX-SUGARCREEK OH"
   },
   {
@@ -953,7 +953,7 @@
   },
   {
     "pro": "50613",
-    "status": "COVERED",
+    "status": "PICKUP",
     "pu_date": "2026-09-24",
     "pu_city": "WINCHESTER",
     "pu_state": "KY",
@@ -965,7 +965,7 @@
     "equipment": "Van",
     "weight_lbs": 7600,
     "carrier_rate": 3500,
-    "updated_at": "2026-09-24T17:48:10.351732+00:00",
+    "updated_at": "2026-09-24T18:23:39.236720+00:00",
     "lane": "WINCHESTER KY-JACKSONVILLE FL"
   },
   {
@@ -1004,7 +1004,7 @@
   },
   {
     "pro": "50654",
-    "status": "COVERED",
+    "status": "PICKUP",
     "pu_date": "2026-09-24",
     "pu_city": "CUMMING",
     "pu_state": "GA",
@@ -1016,7 +1016,7 @@
     "equipment": "Reefer",
     "weight_lbs": 39600,
     "carrier_rate": 900,
-    "updated_at": "2026-09-24T12:26:19.716695+00:00",
+    "updated_at": "2026-09-24T18:24:00.852427+00:00",
     "lane": "CUMMING GA-CANON GA"
   },
   {
