@@ -85,23 +85,6 @@
     "lane": "MACON GA-CALHOUN GA"
   },
   {
-    "pro": "50664",
-    "status": "OPEN",
-    "pu_date": "2026-09-24",
-    "pu_city": "RABUN GAP",
-    "pu_state": "GA",
-    "pu_hours": "0800-1500",
-    "del_date": "2026-09-24",
-    "del_city": "DAVISBORO",
-    "del_state": "GA",
-    "del_hours": "0800-1500",
-    "equipment": "Van",
-    "weight_lbs": 30000,
-    "carrier_rate": 1000,
-    "updated_at": "2026-09-24T13:29:47.260299+00:00",
-    "lane": "RABUN GAP GA-DAVISBORO GA"
-  },
-  {
     "pro": "50665",
     "status": "OPEN",
     "pu_date": "2026-09-24",
@@ -114,8 +97,8 @@
     "del_hours": "0800-1200",
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 7500,
-    "carrier_rate": 1150,
-    "updated_at": "2026-09-24T13:29:10.513626+00:00",
+    "carrier_rate": 1200,
+    "updated_at": "2026-09-24T13:33:07.634966+00:00",
     "lane": "LAGRANGE GA-HOUSTON TX"
   },
   {
