@@ -124,15 +124,15 @@
     "pu_date": "2026-09-25",
     "pu_city": "TAMPA",
     "pu_state": "FL",
-    "pu_hours": "",
+    "pu_hours": "0800-1200",
     "del_date": "2026-09-25",
     "del_city": "BOCA RATON",
     "del_state": "FL",
-    "del_hours": "",
+    "del_hours": "0800-1600",
     "equipment": "Van",
     "weight_lbs": 11500,
     "carrier_rate": 700,
-    "updated_at": "2026-09-24T17:52:45.010838+00:00",
+    "updated_at": "2026-09-24T18:04:27.761426+00:00",
     "lane": "TAMPA FL-BOCA RATON FL"
   },
   {
@@ -319,7 +319,7 @@
     "equipment": "Van",
     "weight_lbs": 44500,
     "carrier_rate": 1480,
-    "updated_at": "2026-09-24T17:59:10.157080+00:00",
+    "updated_at": "2026-09-24T18:04:32.674733+00:00",
     "lane": "INDEPENDENCE MO-JACKSONVILLE TX"
   },
   {
