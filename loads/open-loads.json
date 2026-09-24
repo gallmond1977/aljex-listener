@@ -17,23 +17,6 @@
     "lane": "ANNISTON AL-RICHARDSON TX"
   },
   {
-    "pro": "50614",
-    "status": "OPEN",
-    "pu_date": "2026-09-24",
-    "pu_city": "WINCHESTER",
-    "pu_state": "KY",
-    "pu_hours": "0800-1500",
-    "del_date": "2026-09-25",
-    "del_city": "JACKSONVILLE",
-    "del_state": "FL",
-    "del_hours": "1900",
-    "equipment": "Van",
-    "weight_lbs": 4000,
-    "carrier_rate": 3800,
-    "updated_at": "2026-09-24T18:24:58.635923+00:00",
-    "lane": "WINCHESTER KY-JACKSONVILLE FL"
-  },
-  {
     "pro": "50529",
     "status": "OPEN",
     "pu_date": "2026-09-25",
@@ -966,6 +949,23 @@
     "weight_lbs": 7600,
     "carrier_rate": 3500,
     "updated_at": "2026-09-24T18:23:39.236720+00:00",
+    "lane": "WINCHESTER KY-JACKSONVILLE FL"
+  },
+  {
+    "pro": "50614",
+    "status": "COVERED",
+    "pu_date": "2026-09-24",
+    "pu_city": "WINCHESTER",
+    "pu_state": "KY",
+    "pu_hours": "0800-1500",
+    "del_date": "2026-09-25",
+    "del_city": "JACKSONVILLE",
+    "del_state": "FL",
+    "del_hours": "1900",
+    "equipment": "Van",
+    "weight_lbs": 4000,
+    "carrier_rate": 3800,
+    "updated_at": "2026-09-24T18:33:22.269455+00:00",
     "lane": "WINCHESTER KY-JACKSONVILLE FL"
   },
   {
