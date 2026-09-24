@@ -91,14 +91,14 @@
     "pu_city": "ORLANDO",
     "pu_state": "FL",
     "pu_hours": "0700-1400",
-    "del_date": "",
+    "del_date": "2026-09-25",
     "del_city": "TUSCALOOSA",
     "del_state": "AL",
-    "del_hours": "",
+    "del_hours": "0700-1400",
     "equipment": "Sprinter Van",
     "weight_lbs": 700,
     "carrier_rate": 550,
-    "updated_at": "2026-09-24T12:58:52.659496+00:00",
+    "updated_at": "2026-09-24T13:03:09.638013+00:00",
     "lane": "ORLANDO FL-TUSCALOOSA AL"
   },
   {
@@ -1067,7 +1067,7 @@
     "equipment": "Van",
     "weight_lbs": 34000,
     "carrier_rate": 600,
-    "updated_at": "2026-09-24T12:54:35.951960+00:00",
+    "updated_at": "2026-09-24T13:03:17.920313+00:00",
     "lane": "MACON GA-CALHOUN GA"
   },
   {
