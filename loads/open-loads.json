@@ -80,8 +80,8 @@
     "del_hours": "0700-1300",
     "equipment": "Van",
     "weight_lbs": 30000,
-    "carrier_rate": null,
-    "updated_at": "2026-09-24T15:24:27.293534+00:00",
+    "carrier_rate": 2500,
+    "updated_at": "2026-09-24T15:28:40.399296+00:00",
     "lane": "BENSENVILLE IL-BELCAMP MD"
   },
   {
@@ -885,7 +885,7 @@
   },
   {
     "pro": "50626",
-    "status": "DISPATCHED",
+    "status": "PICKUP",
     "pu_date": "2026-09-24",
     "pu_city": "EL DORADO",
     "pu_state": "AR",
@@ -897,7 +897,7 @@
     "equipment": "Van",
     "weight_lbs": 43212,
     "carrier_rate": 2000,
-    "updated_at": "2026-09-24T14:14:29.959340+00:00",
+    "updated_at": "2026-09-24T15:28:37.388686+00:00",
     "lane": "EL DORADO AR-CALHOUN GA"
   },
   {
