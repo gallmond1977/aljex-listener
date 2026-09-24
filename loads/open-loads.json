@@ -13,7 +13,7 @@
     "equipment": "Flatbed w/ Tarps",
     "weight_lbs": 37950,
     "carrier_rate": 1200,
-    "updated_at": "2026-09-24T20:19:39.974940+00:00",
+    "updated_at": "2026-09-24T20:26:05.661244+00:00",
     "lane": "EUFAULA AL-DECATUR AL"
   },
   {
@@ -39,7 +39,7 @@
     "pu_date": "2026-09-25",
     "pu_city": "RICHMOND",
     "pu_state": "VA",
-    "pu_hours": "0800",
+    "pu_hours": "0800-0900",
     "del_date": "2026-09-25",
     "del_city": "KESWICK",
     "del_state": "VA",
@@ -47,7 +47,7 @@
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 4300,
     "carrier_rate": 300,
-    "updated_at": "2026-09-24T20:19:25.589300+00:00",
+    "updated_at": "2026-09-24T20:29:53.382917+00:00",
     "lane": "RICHMOND VA-KESWICK VA"
   },
   {
