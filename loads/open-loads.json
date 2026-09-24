@@ -68,6 +68,23 @@
     "lane": "LAGRANGE GA-HOUSTON TX"
   },
   {
+    "pro": "50669",
+    "status": "OPEN",
+    "pu_date": "2026-09-24",
+    "pu_city": "BENSENVILLE",
+    "pu_state": "IL",
+    "pu_hours": "0800-1500",
+    "del_date": "2026-09-25",
+    "del_city": "BELCAMP",
+    "del_state": "MD",
+    "del_hours": "0700-1300",
+    "equipment": "Van",
+    "weight_lbs": 30000,
+    "carrier_rate": null,
+    "updated_at": "2026-09-24T15:24:27.293534+00:00",
+    "lane": "BENSENVILLE IL-BELCAMP MD"
+  },
+  {
     "pro": "50529",
     "status": "OPEN",
     "pu_date": "2026-09-25",
