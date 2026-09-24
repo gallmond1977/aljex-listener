@@ -953,7 +953,7 @@
   },
   {
     "pro": "50613",
-    "status": "PICKUP",
+    "status": "LOADED",
     "pu_date": "2026-09-24",
     "pu_city": "WINCHESTER",
     "pu_state": "KY",
@@ -965,7 +965,7 @@
     "equipment": "Van",
     "weight_lbs": 7600,
     "carrier_rate": 3500,
-    "updated_at": "2026-09-24T18:49:10.975666+00:00",
+    "updated_at": "2026-09-24T18:55:16.127659+00:00",
     "lane": "WINCHESTER KY-JACKSONVILLE FL"
   },
   {
@@ -1050,7 +1050,7 @@
     "equipment": "Van",
     "weight_lbs": 30000,
     "carrier_rate": 2500,
-    "updated_at": "2026-09-24T18:43:54.413212+00:00",
+    "updated_at": "2026-09-24T18:57:05.671076+00:00",
     "lane": "BENSENVILLE IL-BELCAMP MD"
   }
 ]
