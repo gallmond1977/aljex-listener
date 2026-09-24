@@ -51,21 +51,21 @@
     "lane": "WINCHESTER KY-JACKSONVILLE FL"
   },
   {
-    "pro": "50671",
+    "pro": "50672",
     "status": "OPEN",
     "pu_date": "2026-09-24",
-    "pu_city": "JACKSONVILLE",
-    "pu_state": "TX",
+    "pu_city": "CHARLOTTE",
+    "pu_state": "NC",
     "pu_hours": "0800-1500",
     "del_date": "2026-09-25",
-    "del_city": "MACON",
-    "del_state": "GA",
-    "del_hours": "0800-1300",
-    "equipment": "Van",
-    "weight_lbs": 44500,
-    "carrier_rate": 2300,
-    "updated_at": "2026-09-24T16:33:03.429253+00:00",
-    "lane": "JACKSONVILLE TX-MACON GA"
+    "del_city": "GREENVILLE",
+    "del_state": "NC",
+    "del_hours": "0700-0900",
+    "equipment": "Sprinter Van",
+    "weight_lbs": 200,
+    "carrier_rate": 400,
+    "updated_at": "2026-09-24T16:40:11.185600+00:00",
+    "lane": "CHARLOTTE NC-GREENVILLE NC"
   },
   {
     "pro": "50529",
@@ -281,11 +281,11 @@
     "del_date": "2026-09-29",
     "del_city": "WINCHESTER",
     "del_state": "KY",
-    "del_hours": "",
+    "del_hours": "0800-1100",
     "equipment": "Sprinter Van",
     "weight_lbs": 200,
-    "carrier_rate": null,
-    "updated_at": "2026-09-24T16:31:35.144077+00:00",
+    "carrier_rate": 650,
+    "updated_at": "2026-09-24T16:36:21.827478+00:00",
     "lane": "ROCKVILLE MD-WINCHESTER KY"
   },
   {
@@ -321,6 +321,23 @@
     "carrier_rate": 1000,
     "updated_at": "2026-09-24T15:14:44.268786+00:00",
     "lane": "ALPHARETTA GA-ROCK HILL SC"
+  },
+  {
+    "pro": "50673",
+    "status": "OPEN",
+    "pu_date": "2026-09-28",
+    "pu_city": "RICHMOND",
+    "pu_state": "VA",
+    "pu_hours": "0600-0630",
+    "del_date": "2026-09-28",
+    "del_city": "DELAPLANE",
+    "del_state": "VA",
+    "del_hours": "0900",
+    "equipment": "26' Straight Box Truck",
+    "weight_lbs": 5000,
+    "carrier_rate": 350,
+    "updated_at": "2026-09-24T16:39:41.831540+00:00",
+    "lane": "RICHMOND VA-DELAPLANE VA"
   },
   {
     "pro": "50638",
