@@ -489,7 +489,7 @@
     "equipment": "Van",
     "weight_lbs": 4800,
     "carrier_rate": 4200,
-    "updated_at": "2026-09-24T16:30:58.979430+00:00",
+    "updated_at": "2026-09-24T16:51:32.699761+00:00",
     "lane": "MOUNT STERLING KY-MIRA LOMA CA"
   },
   {
@@ -834,7 +834,7 @@
   },
   {
     "pro": "50626",
-    "status": "PICKUP",
+    "status": "LOADED",
     "pu_date": "2026-09-24",
     "pu_city": "EL DORADO",
     "pu_state": "AR",
@@ -846,7 +846,7 @@
     "equipment": "Van",
     "weight_lbs": 43212,
     "carrier_rate": 2000,
-    "updated_at": "2026-09-24T15:28:37.388686+00:00",
+    "updated_at": "2026-09-24T16:50:22.787955+00:00",
     "lane": "EL DORADO AR-CALHOUN GA"
   },
   {
