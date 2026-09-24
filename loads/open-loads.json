@@ -98,7 +98,7 @@
     "equipment": "Van",
     "weight_lbs": 30000,
     "carrier_rate": 1000,
-    "updated_at": "2026-09-24T13:21:39.927240+00:00",
+    "updated_at": "2026-09-24T13:29:47.260299+00:00",
     "lane": "RABUN GAP GA-DAVISBORO GA"
   },
   {
@@ -111,11 +111,11 @@
     "del_date": "2026-09-25",
     "del_city": "HOUSTON",
     "del_state": "TX",
-    "del_hours": "",
+    "del_hours": "0800-1200",
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 7500,
-    "carrier_rate": null,
-    "updated_at": "2026-09-24T13:24:40.023135+00:00",
+    "carrier_rate": 1150,
+    "updated_at": "2026-09-24T13:29:10.513626+00:00",
     "lane": "LAGRANGE GA-HOUSTON TX"
   },
   {
