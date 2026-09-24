@@ -187,6 +187,23 @@
     "lane": "AUBURN AL-HOUSTON TX"
   },
   {
+    "pro": "50667",
+    "status": "OPEN",
+    "pu_date": "2026-09-25",
+    "pu_city": "ALPHARETTA",
+    "pu_state": "GA",
+    "pu_hours": "0900-1600",
+    "del_date": "2026-09-25",
+    "del_city": "ROCK HILL",
+    "del_state": "SC",
+    "del_hours": "",
+    "equipment": "Flatbed w/ Tarps",
+    "weight_lbs": 42000,
+    "carrier_rate": 1000,
+    "updated_at": "2026-09-24T14:43:10.089347+00:00",
+    "lane": "ALPHARETTA GA-ROCK HILL SC"
+  },
+  {
     "pro": "50466",
     "status": "OPEN",
     "pu_date": "2026-09-28",
@@ -851,7 +868,7 @@
   },
   {
     "pro": "50501",
-    "status": "CONSIGNEE",
+    "status": "DELIVERED",
     "pu_date": "2026-09-21",
     "pu_city": "MOUNT STERLING",
     "pu_state": "KY",
@@ -863,7 +880,7 @@
     "equipment": "Van",
     "weight_lbs": 13080,
     "carrier_rate": 4300,
-    "updated_at": "2026-09-24T12:31:43.160008+00:00",
+    "updated_at": "2026-09-24T14:42:39.459988+00:00",
     "lane": "MOUNT STERLING KY-MIRA LOMA CA"
   },
   {
