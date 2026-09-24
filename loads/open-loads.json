@@ -46,8 +46,8 @@
     "del_hours": "2200",
     "equipment": "Reefer",
     "weight_lbs": 33095,
-    "carrier_rate": null,
-    "updated_at": "2026-09-24T13:35:15.869158+00:00",
+    "carrier_rate": 450,
+    "updated_at": "2026-09-24T18:06:43.379646+00:00",
     "lane": "ATLANTA GA-FOREST PARK GA"
   },
   {
@@ -124,7 +124,7 @@
     "pu_date": "2026-09-25",
     "pu_city": "TAMPA",
     "pu_state": "FL",
-    "pu_hours": "0800-1200",
+    "pu_hours": "0800-0900",
     "del_date": "2026-09-25",
     "del_city": "BOCA RATON",
     "del_state": "FL",
@@ -132,7 +132,7 @@
     "equipment": "Van",
     "weight_lbs": 11500,
     "carrier_rate": 700,
-    "updated_at": "2026-09-24T18:04:27.761426+00:00",
+    "updated_at": "2026-09-24T18:07:06.047324+00:00",
     "lane": "TAMPA FL-BOCA RATON FL"
   },
   {
@@ -319,7 +319,7 @@
     "equipment": "Van",
     "weight_lbs": 44500,
     "carrier_rate": 1480,
-    "updated_at": "2026-09-24T18:04:32.674733+00:00",
+    "updated_at": "2026-09-24T18:05:37.302724+00:00",
     "lane": "INDEPENDENCE MO-JACKSONVILLE TX"
   },
   {
