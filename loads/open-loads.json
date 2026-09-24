@@ -91,14 +91,14 @@
     "pu_city": "EUFAULA",
     "pu_state": "AL",
     "pu_hours": "0800-1600",
-    "del_date": "2026-09-25",
+    "del_date": "",
     "del_city": "DECATUR",
     "del_state": "AL",
     "del_hours": "",
     "equipment": "Flatbed w/ Tarps",
     "weight_lbs": 37950,
     "carrier_rate": 1200,
-    "updated_at": "2026-09-24T20:39:17.130230+00:00",
+    "updated_at": "2026-09-24T20:54:03.964967+00:00",
     "lane": "EUFAULA AL-DECATUR AL"
   },
   {
