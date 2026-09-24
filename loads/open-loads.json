@@ -51,23 +51,6 @@
     "lane": "WINCHESTER KY-JACKSONVILLE FL"
   },
   {
-    "pro": "50665",
-    "status": "OPEN",
-    "pu_date": "2026-09-24",
-    "pu_city": "LAGRANGE",
-    "pu_state": "GA",
-    "pu_hours": "0800-1700",
-    "del_date": "2026-09-25",
-    "del_city": "HOUSTON",
-    "del_state": "TX",
-    "del_hours": "0700-1900",
-    "equipment": "26' Straight Box Truck",
-    "weight_lbs": 7500,
-    "carrier_rate": 1300,
-    "updated_at": "2026-09-24T15:44:06.374450+00:00",
-    "lane": "LAGRANGE GA-HOUSTON TX"
-  },
-  {
     "pro": "50669",
     "status": "OPEN",
     "pu_date": "2026-09-24",
@@ -817,7 +800,7 @@
   },
   {
     "pro": "50523",
-    "status": "CONSIGNEE",
+    "status": "DELIVERED",
     "pu_date": "2026-09-23",
     "pu_city": "WINCHESTER",
     "pu_state": "KY",
@@ -829,7 +812,7 @@
     "equipment": "Van",
     "weight_lbs": 4000,
     "carrier_rate": 2400,
-    "updated_at": "2026-09-24T14:45:32.493468+00:00",
+    "updated_at": "2026-09-24T15:47:08.597780+00:00",
     "lane": "WINCHESTER KY-JACKSONVILLE FL"
   },
   {
