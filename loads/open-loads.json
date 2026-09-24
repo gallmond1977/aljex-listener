@@ -1,22 +1,5 @@
 [
   {
-    "pro": "50107",
-    "status": "OPEN",
-    "pu_date": "2026-09-24",
-    "pu_city": "COLUMBUS",
-    "pu_state": "GA",
-    "pu_hours": "",
-    "del_date": "2026-09-24",
-    "del_city": "VAN WERT",
-    "del_state": "OH",
-    "del_hours": "0900",
-    "equipment": "Van",
-    "weight_lbs": 11100,
-    "carrier_rate": 1500,
-    "updated_at": "2026-09-23T14:56:34.504749+00:00",
-    "lane": "COLUMBUS GA-VAN WERT OH"
-  },
-  {
     "pro": "50159",
     "status": "OPEN",
     "pu_date": "2026-09-24",
@@ -491,6 +474,23 @@
     "carrier_rate": 2300,
     "updated_at": "2026-09-24T13:09:55.930640+00:00",
     "lane": "WINCHESTER KY-BURLINGTON NJ"
+  },
+  {
+    "pro": "50107",
+    "status": "OPEN",
+    "pu_date": "2026-10-02",
+    "pu_city": "COLUMBUS",
+    "pu_state": "GA",
+    "pu_hours": "",
+    "del_date": "2026-10-05",
+    "del_city": "VAN WERT",
+    "del_state": "OH",
+    "del_hours": "0900",
+    "equipment": "Van",
+    "weight_lbs": 11100,
+    "carrier_rate": 1500,
+    "updated_at": "2026-09-24T13:42:31.458161+00:00",
+    "lane": "COLUMBUS GA-VAN WERT OH"
   },
   {
     "pro": "50657",
