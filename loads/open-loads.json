@@ -29,8 +29,8 @@
     "del_hours": "1900",
     "equipment": "Van",
     "weight_lbs": 4000,
-    "carrier_rate": 3400,
-    "updated_at": "2026-09-24T17:43:04.537366+00:00",
+    "carrier_rate": 3500,
+    "updated_at": "2026-09-24T17:57:06.556385+00:00",
     "lane": "WINCHESTER KY-JACKSONVILLE FL"
   },
   {
@@ -318,8 +318,8 @@
     "del_hours": "0800-1500",
     "equipment": "Van",
     "weight_lbs": 44500,
-    "carrier_rate": null,
-    "updated_at": "2026-09-24T17:54:16.062146+00:00",
+    "carrier_rate": 1480,
+    "updated_at": "2026-09-24T17:59:10.157080+00:00",
     "lane": "INDEPENDENCE MO-JACKSONVILLE TX"
   },
   {
