@@ -34,6 +34,23 @@
     "lane": "EUFAULA AL-DECATUR AL"
   },
   {
+    "pro": "50681",
+    "status": "OPEN",
+    "pu_date": "2026-09-24",
+    "pu_city": "PAYSON",
+    "pu_state": "UT",
+    "pu_hours": "0800-1400",
+    "del_date": "2026-09-25",
+    "del_city": "PHOENIX",
+    "del_state": "AZ",
+    "del_hours": "",
+    "equipment": "Flatbed w/ Tarps",
+    "weight_lbs": 46000,
+    "carrier_rate": 1700,
+    "updated_at": "2026-09-24T19:24:27.366423+00:00",
+    "lane": "PAYSON UT-PHOENIX AZ"
+  },
+  {
     "pro": "50529",
     "status": "OPEN",
     "pu_date": "2026-09-25",
@@ -100,23 +117,6 @@
     "carrier_rate": 900,
     "updated_at": "2026-09-24T13:20:12.181317+00:00",
     "lane": "AUBURN AL-HOUSTON TX"
-  },
-  {
-    "pro": "50674",
-    "status": "OPEN",
-    "pu_date": "2026-09-25",
-    "pu_city": "CUMMING",
-    "pu_state": "GA",
-    "pu_hours": "1900",
-    "del_date": "2026-09-28",
-    "del_city": "CANON",
-    "del_state": "GA",
-    "del_hours": "0600",
-    "equipment": "Reefer",
-    "weight_lbs": 39600,
-    "carrier_rate": 1000,
-    "updated_at": "2026-09-24T17:00:20.446237+00:00",
-    "lane": "CUMMING GA-CANON GA"
   },
   {
     "pro": "50676",
@@ -714,23 +714,6 @@
     "lane": "LA PORTE TX-GREENVILLE SC"
   },
   {
-    "pro": "50460",
-    "status": "RELEASED",
-    "pu_date": "2026-09-15",
-    "pu_city": "CUMMING",
-    "pu_state": "GA",
-    "pu_hours": "2100",
-    "del_date": "2026-09-16",
-    "del_city": "CANON",
-    "del_state": "GA",
-    "del_hours": "0600",
-    "equipment": "Reefer",
-    "weight_lbs": 1800,
-    "carrier_rate": 950,
-    "updated_at": "2026-09-18T12:27:07.674522+00:00",
-    "lane": "CUMMING GA-CANON GA"
-  },
-  {
     "pro": "50527",
     "status": "RELEASED",
     "pu_date": "2026-09-16",
@@ -763,40 +746,6 @@
     "carrier_rate": 200,
     "updated_at": "2026-09-18T01:05:40.994790+00:00",
     "lane": "RICHMOND VA-RICHMOND VA"
-  },
-  {
-    "pro": "50528",
-    "status": "RELEASED",
-    "pu_date": "2026-09-17",
-    "pu_city": "CUMMING",
-    "pu_state": "GA",
-    "pu_hours": "2100",
-    "del_date": "2026-09-18",
-    "del_city": "CANON",
-    "del_state": "GA",
-    "del_hours": "1100",
-    "equipment": "Reefer",
-    "weight_lbs": 1800,
-    "carrier_rate": 1000,
-    "updated_at": "2026-09-18T12:49:00.956905+00:00",
-    "lane": "CUMMING GA-CANON GA"
-  },
-  {
-    "pro": "50555",
-    "status": "RELEASED",
-    "pu_date": "2026-09-18",
-    "pu_city": "CUMMING",
-    "pu_state": "GA",
-    "pu_hours": "1100",
-    "del_date": "2026-09-21",
-    "del_city": "CANON",
-    "del_state": "GA",
-    "del_hours": "0600",
-    "equipment": "Reefer",
-    "weight_lbs": 1800,
-    "carrier_rate": 1250,
-    "updated_at": "2026-09-21T20:01:15.957415+00:00",
-    "lane": "CUMMING GA-CANON GA"
   },
   {
     "pro": "50378",
@@ -882,23 +831,6 @@
     "carrier_rate": 150,
     "updated_at": "2026-09-21T17:42:12.433380+00:00",
     "lane": "AUBURN AL-LA CROSSE WI"
-  },
-  {
-    "pro": "50599",
-    "status": "RELEASED",
-    "pu_date": "2026-09-22",
-    "pu_city": "CUMMING",
-    "pu_state": "GA",
-    "pu_hours": "2100",
-    "del_date": "2026-09-23",
-    "del_city": "CANON",
-    "del_state": "GA",
-    "del_hours": "0600",
-    "equipment": "Reefer",
-    "weight_lbs": 39600,
-    "carrier_rate": 1000,
-    "updated_at": "2026-09-24T11:50:18.009443+00:00",
-    "lane": "CUMMING GA-CANON GA"
   },
   {
     "pro": "50523",
@@ -1018,23 +950,6 @@
     "carrier_rate": 1950,
     "updated_at": "2026-09-24T16:32:33.505980+00:00",
     "lane": "CHESTER VA-OWENSBORO KY"
-  },
-  {
-    "pro": "50654",
-    "status": "DISPATCHED",
-    "pu_date": "2026-09-24",
-    "pu_city": "CUMMING",
-    "pu_state": "GA",
-    "pu_hours": "2100",
-    "del_date": "2026-09-25",
-    "del_city": "CANON",
-    "del_state": "GA",
-    "del_hours": "0600",
-    "equipment": "Reefer",
-    "weight_lbs": 39600,
-    "carrier_rate": 900,
-    "updated_at": "2026-09-24T18:51:39.530383+00:00",
-    "lane": "CUMMING GA-CANON GA"
   },
   {
     "pro": "50669",
