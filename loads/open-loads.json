@@ -132,7 +132,7 @@
     "equipment": "Van",
     "weight_lbs": 11500,
     "carrier_rate": 700,
-    "updated_at": "2026-09-24T17:47:27.935769+00:00",
+    "updated_at": "2026-09-24T17:52:45.010838+00:00",
     "lane": "TAMPA FL-BOCA RATON FL"
   },
   {
@@ -304,6 +304,23 @@
     "carrier_rate": 350,
     "updated_at": "2026-09-24T16:39:41.831540+00:00",
     "lane": "RICHMOND VA-DELAPLANE VA"
+  },
+  {
+    "pro": "50678",
+    "status": "OPEN",
+    "pu_date": "2026-09-28",
+    "pu_city": "INDEPENDENCE",
+    "pu_state": "MO",
+    "pu_hours": "0700-1530",
+    "del_date": "2026-09-29",
+    "del_city": "JACKSONVILLE",
+    "del_state": "TX",
+    "del_hours": "0800-1500",
+    "equipment": "Van",
+    "weight_lbs": 44500,
+    "carrier_rate": null,
+    "updated_at": "2026-09-24T17:54:16.062146+00:00",
+    "lane": "INDEPENDENCE MO-JACKSONVILLE TX"
   },
   {
     "pro": "50638",
@@ -523,7 +540,7 @@
     "equipment": "Van",
     "weight_lbs": 43438,
     "carrier_rate": 2000,
-    "updated_at": "2026-09-24T17:49:08.473735+00:00",
+    "updated_at": "2026-09-24T17:51:03.330284+00:00",
     "lane": "GARLAND TX-CALHOUN GA"
   },
   {
