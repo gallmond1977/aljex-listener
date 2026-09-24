@@ -970,7 +970,7 @@
   },
   {
     "pro": "50614",
-    "status": "COVERED",
+    "status": "DISPATCHED",
     "pu_date": "2026-09-24",
     "pu_city": "WINCHESTER",
     "pu_state": "KY",
@@ -982,7 +982,7 @@
     "equipment": "Van",
     "weight_lbs": 4000,
     "carrier_rate": 3800,
-    "updated_at": "2026-09-24T18:47:36.233241+00:00",
+    "updated_at": "2026-09-24T18:52:39.612476+00:00",
     "lane": "WINCHESTER KY-JACKSONVILLE FL"
   },
   {
@@ -1021,7 +1021,7 @@
   },
   {
     "pro": "50654",
-    "status": "COVERED",
+    "status": "DISPATCHED",
     "pu_date": "2026-09-24",
     "pu_city": "CUMMING",
     "pu_state": "GA",
@@ -1033,7 +1033,7 @@
     "equipment": "Reefer",
     "weight_lbs": 39600,
     "carrier_rate": 900,
-    "updated_at": "2026-09-24T18:50:03.913267+00:00",
+    "updated_at": "2026-09-24T18:51:39.530383+00:00",
     "lane": "CUMMING GA-CANON GA"
   },
   {
