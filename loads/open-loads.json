@@ -149,7 +149,7 @@
     "equipment": "Flatbed",
     "weight_lbs": 44900,
     "carrier_rate": 2300,
-    "updated_at": "2026-09-22T16:42:53.099205+00:00",
+    "updated_at": "2026-09-24T12:50:46.158138+00:00",
     "lane": "ALLIANCE OH-MACON GA"
   },
   {
@@ -982,7 +982,7 @@
     "equipment": "Van",
     "weight_lbs": 4000,
     "carrier_rate": 2400,
-    "updated_at": "2026-09-24T11:48:19.275244+00:00",
+    "updated_at": "2026-09-24T12:52:38.676432+00:00",
     "lane": "WINCHESTER KY-BURLINGTON NJ"
   },
   {
@@ -1067,7 +1067,7 @@
     "equipment": "Van",
     "weight_lbs": 34000,
     "carrier_rate": 600,
-    "updated_at": "2026-09-24T12:16:59.015072+00:00",
+    "updated_at": "2026-09-24T12:54:35.951960+00:00",
     "lane": "MACON GA-CALHOUN GA"
   },
   {
