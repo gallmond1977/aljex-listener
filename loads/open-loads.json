@@ -34,23 +34,6 @@
     "lane": "MIAMI FL-CHARLOTTE NC"
   },
   {
-    "pro": "50589",
-    "status": "OPEN",
-    "pu_date": "2026-09-28",
-    "pu_city": "WINCHESTER",
-    "pu_state": "KY",
-    "pu_hours": "0800-1500",
-    "del_date": "2026-09-30",
-    "del_city": "ST CHARLES",
-    "del_state": "ON",
-    "del_hours": "0800",
-    "equipment": "Van",
-    "weight_lbs": 5000,
-    "carrier_rate": 1545,
-    "updated_at": "2026-09-21T15:12:17.601794+00:00",
-    "lane": "WINCHESTER KY-ST CHARLES ON"
-  },
-  {
     "pro": "50600",
     "status": "OPEN",
     "pu_date": "2026-09-28",
@@ -236,23 +219,6 @@
     "carrier_rate": 1500,
     "updated_at": "2026-09-25T18:07:37.737268+00:00",
     "lane": "VILLA RICA GA-RICHMOND VA"
-  },
-  {
-    "pro": "50699",
-    "status": "OPEN",
-    "pu_date": "2026-09-28",
-    "pu_city": "CALHOUN",
-    "pu_state": "GA",
-    "pu_hours": "0730-1100",
-    "del_date": "2026-09-28",
-    "del_city": "TEMPLE",
-    "del_state": "GA",
-    "del_hours": "0700-1430",
-    "equipment": "Van",
-    "weight_lbs": 39580,
-    "carrier_rate": 650,
-    "updated_at": "2026-09-25T18:47:25.711048+00:00",
-    "lane": "CALHOUN GA-TEMPLE GA"
   },
   {
     "pro": "50700",
