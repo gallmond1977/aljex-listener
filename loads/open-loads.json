@@ -30,7 +30,7 @@
     "equipment": "Van",
     "weight_lbs": 42840,
     "carrier_rate": 1700,
-    "updated_at": "2026-09-23T16:05:01.671791+00:00",
+    "updated_at": "2026-09-25T13:36:57.170996+00:00",
     "lane": "CHESTER VA-OWENSBORO KY"
   },
   {
@@ -335,8 +335,8 @@
     "del_hours": "0800-1400",
     "equipment": "Flatbed w/ Tarps",
     "weight_lbs": 42000,
-    "carrier_rate": 1000,
-    "updated_at": "2026-09-24T15:15:54.227203+00:00",
+    "carrier_rate": 1200,
+    "updated_at": "2026-09-25T13:36:03.136240+00:00",
     "lane": "ALPHARETTA GA-ROCK HILL SC"
   },
   {
@@ -352,8 +352,8 @@
     "del_hours": "0800-1500",
     "equipment": "Flatbed w/ Tarps",
     "weight_lbs": 42000,
-    "carrier_rate": null,
-    "updated_at": "2026-09-24T15:31:27.037604+00:00",
+    "carrier_rate": 2500,
+    "updated_at": "2026-09-25T13:39:04.377092+00:00",
     "lane": "ALPHARETTA GA-MARSHALL VA"
   },
   {
