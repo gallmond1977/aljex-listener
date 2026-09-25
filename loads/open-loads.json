@@ -85,23 +85,6 @@
     "lane": "TAMPA FL-BOCA RATON FL"
   },
   {
-    "pro": "50680",
-    "status": "OPEN",
-    "pu_date": "2026-09-25",
-    "pu_city": "EUFAULA",
-    "pu_state": "AL",
-    "pu_hours": "0800-1600",
-    "del_date": "",
-    "del_city": "DECATUR",
-    "del_state": "AL",
-    "del_hours": "",
-    "equipment": "Flatbed w/ Tarps",
-    "weight_lbs": 37950,
-    "carrier_rate": 1200,
-    "updated_at": "2026-09-24T20:54:03.964967+00:00",
-    "lane": "EUFAULA AL-DECATUR AL"
-  },
-  {
     "pro": "50159",
     "status": "OPEN",
     "pu_date": "2026-09-28",
