@@ -953,7 +953,7 @@
   },
   {
     "pro": "50626",
-    "status": "LOADED",
+    "status": "CONSIGNEE",
     "pu_date": "2026-09-24",
     "pu_city": "EL DORADO",
     "pu_state": "AR",
@@ -965,7 +965,7 @@
     "equipment": "Van",
     "weight_lbs": 43212,
     "carrier_rate": 2000,
-    "updated_at": "2026-09-25T13:07:34.442628+00:00",
+    "updated_at": "2026-09-25T13:31:01.160020+00:00",
     "lane": "EL DORADO AR-CALHOUN GA"
   },
   {
