@@ -51,6 +51,23 @@
     "lane": "AUBURN AL-HOUSTON TX"
   },
   {
+    "pro": "50688",
+    "status": "OPEN",
+    "pu_date": "2026-09-25",
+    "pu_city": "SHALLOTTE",
+    "pu_state": "NC",
+    "pu_hours": "0800-1200",
+    "del_date": "2026-09-25",
+    "del_city": "JACKSONVILLE",
+    "del_state": "NC",
+    "del_hours": "0700-1400",
+    "equipment": "26' Straight Box Truck",
+    "weight_lbs": 4147,
+    "carrier_rate": 400,
+    "updated_at": "2026-09-25T15:40:02.804322+00:00",
+    "lane": "SHALLOTTE NC-JACKSONVILLE NC"
+  },
+  {
     "pro": "50159",
     "status": "OPEN",
     "pu_date": "2026-09-28",
