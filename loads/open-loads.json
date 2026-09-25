@@ -166,7 +166,7 @@
     "equipment": "Flatbed",
     "weight_lbs": 24000,
     "carrier_rate": 600,
-    "updated_at": "2026-09-25T15:55:49.972276+00:00",
+    "updated_at": "2026-09-25T18:41:27.312240+00:00",
     "lane": "ROCK HILL SC-MOUNT PLEASANT SC"
   },
   {
@@ -525,6 +525,23 @@
     "carrier_rate": 450,
     "updated_at": "2026-09-25T17:59:48.779404+00:00",
     "lane": "ATLANTA GA-DECATUR GA"
+  },
+  {
+    "pro": "50698",
+    "status": "OPEN",
+    "pu_date": "2026-09-30",
+    "pu_city": "CALHOUN",
+    "pu_state": "GA",
+    "pu_hours": "0800-1400",
+    "del_date": "2026-10-01",
+    "del_city": "RICHMOND",
+    "del_state": "VA",
+    "del_hours": "0700-1400",
+    "equipment": "Van",
+    "weight_lbs": 41800,
+    "carrier_rate": 2000,
+    "updated_at": "2026-09-25T18:44:23.783363+00:00",
+    "lane": "CALHOUN GA-RICHMOND VA"
   },
   {
     "pro": "50648",
