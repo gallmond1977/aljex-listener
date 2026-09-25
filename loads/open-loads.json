@@ -9,11 +9,11 @@
     "del_date": "2026-09-28",
     "del_city": "OWENSBORO",
     "del_state": "KY",
-    "del_hours": "",
+    "del_hours": "0800-1500",
     "equipment": "Van",
     "weight_lbs": 42840,
     "carrier_rate": 1700,
-    "updated_at": "2026-09-25T13:36:57.170996+00:00",
+    "updated_at": "2026-09-25T14:25:45.799280+00:00",
     "lane": "CHESTER VA-OWENSBORO KY"
   },
   {
@@ -77,11 +77,11 @@
     "del_date": "",
     "del_city": "JACKSONVILLE",
     "del_state": "NC",
-    "del_hours": "0700-1500",
+    "del_hours": "0700-1400",
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 4147,
-    "carrier_rate": 350,
-    "updated_at": "2026-09-25T14:23:40.364491+00:00",
+    "carrier_rate": 400,
+    "updated_at": "2026-09-25T14:28:44.628325+00:00",
     "lane": "SOUTH BRUNSWICK NC-JACKSONVILLE NC"
   },
   {
