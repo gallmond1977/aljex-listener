@@ -119,23 +119,6 @@
     "lane": "WINCHESTER KY-ST CHARLES ON"
   },
   {
-    "pro": "50596",
-    "status": "OPEN",
-    "pu_date": "2026-09-28",
-    "pu_city": "RICHMOND",
-    "pu_state": "VA",
-    "pu_hours": "0800-0900",
-    "del_date": "2026-09-28",
-    "del_city": "KESWICK",
-    "del_state": "VA",
-    "del_hours": "0800-1400",
-    "equipment": "Flatbed Hot Shot",
-    "weight_lbs": 4300,
-    "carrier_rate": 450,
-    "updated_at": "2026-09-25T12:46:42.050706+00:00",
-    "lane": "RICHMOND VA-KESWICK VA"
-  },
-  {
     "pro": "50600",
     "status": "OPEN",
     "pu_date": "2026-09-28",
@@ -318,8 +301,8 @@
     "del_hours": "0700-1300",
     "equipment": "Van",
     "weight_lbs": 16574,
-    "carrier_rate": null,
-    "updated_at": "2026-09-25T12:59:03.515785+00:00",
+    "carrier_rate": 1700,
+    "updated_at": "2026-09-25T13:01:57.645016+00:00",
     "lane": "BUFFALO NY-BELCAMP MD"
   },
   {
@@ -748,23 +731,6 @@
     "lane": "LA PORTE TX-GREENVILLE SC"
   },
   {
-    "pro": "50470",
-    "status": "RELEASED",
-    "pu_date": "2026-09-16",
-    "pu_city": "RICHMOND",
-    "pu_state": "VA",
-    "pu_hours": "0630-0700",
-    "del_date": "2026-09-16",
-    "del_city": "KESWICK",
-    "del_state": "VA",
-    "del_hours": "0700-1200",
-    "equipment": "26' Straight Box Truck",
-    "weight_lbs": 5000,
-    "carrier_rate": 300,
-    "updated_at": "2026-09-21T14:16:26.717136+00:00",
-    "lane": "RICHMOND VA-KESWICK VA"
-  },
-  {
     "pro": "50534",
     "status": "RELEASED",
     "pu_date": "2026-09-17",
@@ -931,7 +897,7 @@
     "equipment": "Van",
     "weight_lbs": 10200,
     "carrier_rate": 3800,
-    "updated_at": "2026-09-24T12:39:02.925616+00:00",
+    "updated_at": "2026-09-25T13:03:42.759746+00:00",
     "lane": "WINCHESTER KY-UXBRIDGE MA"
   },
   {
