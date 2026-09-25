@@ -46,8 +46,8 @@
     "del_hours": "0800-1400",
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 10467,
-    "carrier_rate": 1000,
-    "updated_at": "2026-09-25T15:05:28.524208+00:00",
+    "carrier_rate": 1150,
+    "updated_at": "2026-09-25T16:11:29.513925+00:00",
     "lane": "AUBURN AL-HOUSTON TX"
   },
   {
@@ -440,6 +440,23 @@
     "carrier_rate": null,
     "updated_at": "2026-09-24T20:20:08.207116+00:00",
     "lane": "PENDERGRASS GA-ZEBULON NC"
+  },
+  {
+    "pro": "50692",
+    "status": "OPEN",
+    "pu_date": "2026-09-29",
+    "pu_city": "COLUMBUS",
+    "pu_state": "GA",
+    "pu_hours": "0800-1500",
+    "del_date": "2026-09-30",
+    "del_city": "SANTA ROSA BEACH",
+    "del_state": "FL",
+    "del_hours": "0600-1400",
+    "equipment": "Flatbed w/ Tarps",
+    "weight_lbs": 46401,
+    "carrier_rate": 1000,
+    "updated_at": "2026-09-25T16:10:59.208762+00:00",
+    "lane": "COLUMBUS GA-SANTA ROSA BEACH FL"
   },
   {
     "pro": "50405",
