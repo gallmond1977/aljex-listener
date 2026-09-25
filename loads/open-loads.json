@@ -248,10 +248,10 @@
     "del_city": "CHARLESTON",
     "del_state": "SC",
     "del_hours": "0700-1500",
-    "equipment": "Flatbed Hot Shot",
+    "equipment": "Flatbed",
     "weight_lbs": 10000,
-    "carrier_rate": null,
-    "updated_at": "2026-09-25T17:59:54.589705+00:00",
+    "carrier_rate": 1000,
+    "updated_at": "2026-09-25T18:02:27.159623+00:00",
     "lane": "LILLINGTON NC-CHARLESTON SC"
   },
   {
