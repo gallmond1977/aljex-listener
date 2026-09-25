@@ -34,23 +34,6 @@
     "lane": "KANKAKEE IL-JACKSONVILLE TX"
   },
   {
-    "pro": "50660",
-    "status": "OPEN",
-    "pu_date": "2026-09-25",
-    "pu_city": "AUBURN",
-    "pu_state": "AL",
-    "pu_hours": "0800-1500",
-    "del_date": "2026-09-28",
-    "del_city": "HOUSTON",
-    "del_state": "TX",
-    "del_hours": "0800-1400",
-    "equipment": "26' Straight Box Truck",
-    "weight_lbs": 10467,
-    "carrier_rate": 1000,
-    "updated_at": "2026-09-25T14:24:48.105528+00:00",
-    "lane": "AUBURN AL-HOUSTON TX"
-  },
-  {
     "pro": "50688",
     "status": "OPEN",
     "pu_date": "2026-09-25",
@@ -66,6 +49,23 @@
     "carrier_rate": 350,
     "updated_at": "2026-09-25T14:47:55.069047+00:00",
     "lane": "SOUTH BRUNSWICK NC-JACKSONVILLE NC"
+  },
+  {
+    "pro": "50690",
+    "status": "OPEN",
+    "pu_date": "2026-09-25",
+    "pu_city": "COLUMBIA",
+    "pu_state": "SC",
+    "pu_hours": "0800-1200",
+    "del_date": "",
+    "del_city": "RIDGEVILLE",
+    "del_state": "SC",
+    "del_hours": "",
+    "equipment": "Flatbed Hot Shot",
+    "weight_lbs": 9000,
+    "carrier_rate": null,
+    "updated_at": "2026-09-25T14:55:03.194919+00:00",
+    "lane": "COLUMBIA SC-RIDGEVILLE SC"
   },
   {
     "pro": "50159",
