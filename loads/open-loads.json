@@ -17,23 +17,6 @@
     "lane": "CHESTER VA-OWENSBORO KY"
   },
   {
-    "pro": "50688",
-    "status": "OPEN",
-    "pu_date": "2026-09-25",
-    "pu_city": "SHALLOTTE",
-    "pu_state": "NC",
-    "pu_hours": "0800-1400",
-    "del_date": "2026-09-28",
-    "del_city": "JACKSONVILLE",
-    "del_state": "NC",
-    "del_hours": "0700-0900",
-    "equipment": "26' Straight Box Truck",
-    "weight_lbs": 4147,
-    "carrier_rate": 400,
-    "updated_at": "2026-09-25T16:19:43.720827+00:00",
-    "lane": "SHALLOTTE NC-JACKSONVILLE NC"
-  },
-  {
     "pro": "50159",
     "status": "OPEN",
     "pu_date": "2026-09-28",
@@ -153,23 +136,6 @@
     "lane": "WINCHESTER KY-UXBRIDGE MA"
   },
   {
-    "pro": "50651",
-    "status": "OPEN",
-    "pu_date": "2026-09-28",
-    "pu_city": "EL DORADO",
-    "pu_state": "AR",
-    "pu_hours": "0700-1500",
-    "del_date": "2026-09-29",
-    "del_city": "CALHOUN",
-    "del_state": "GA",
-    "del_hours": "0730-1400",
-    "equipment": "Van",
-    "weight_lbs": 43212,
-    "carrier_rate": 2000,
-    "updated_at": "2026-09-23T16:31:44.521118+00:00",
-    "lane": "EL DORADO AR-CALHOUN GA"
-  },
-  {
     "pro": "50667",
     "status": "OPEN",
     "pu_date": "2026-09-28",
@@ -270,6 +236,23 @@
     "carrier_rate": 800,
     "updated_at": "2026-09-25T14:12:41.766472+00:00",
     "lane": "GREER SC-THOMASTON GA"
+  },
+  {
+    "pro": "50688",
+    "status": "OPEN",
+    "pu_date": "2026-09-28",
+    "pu_city": "SHALLOTTE",
+    "pu_state": "NC",
+    "pu_hours": "0700-1500",
+    "del_date": "2026-09-28",
+    "del_city": "JACKSONVILLE",
+    "del_state": "NC",
+    "del_hours": "0700-0900",
+    "equipment": "26' Straight Box Truck",
+    "weight_lbs": 4147,
+    "carrier_rate": 400,
+    "updated_at": "2026-09-25T17:37:01.253661+00:00",
+    "lane": "SHALLOTTE NC-JACKSONVILLE NC"
   },
   {
     "pro": "50690",
@@ -799,23 +782,6 @@
     "lane": "GARLAND TX-CALHOUN GA"
   },
   {
-    "pro": "50476",
-    "status": "RELEASED",
-    "pu_date": "2026-09-21",
-    "pu_city": "EL DORADO",
-    "pu_state": "AR",
-    "pu_hours": "0700-1500",
-    "del_date": "2026-09-22",
-    "del_city": "CALHOUN",
-    "del_state": "GA",
-    "del_hours": "0730-1430",
-    "equipment": "Van",
-    "weight_lbs": 43006,
-    "carrier_rate": 2000,
-    "updated_at": "2026-09-23T18:55:04.151567+00:00",
-    "lane": "EL DORADO AR-CALHOUN GA"
-  },
-  {
     "pro": "50501",
     "status": "RELEASED",
     "pu_date": "2026-09-21",
@@ -899,23 +865,6 @@
     "carrier_rate": 1800,
     "updated_at": "2026-09-24T13:24:20.953326+00:00",
     "lane": "BUFFALO NY-BELCAMP MD"
-  },
-  {
-    "pro": "50626",
-    "status": "RELEASED",
-    "pu_date": "2026-09-24",
-    "pu_city": "EL DORADO",
-    "pu_state": "AR",
-    "pu_hours": "0700-1500",
-    "del_date": "2026-09-25",
-    "del_city": "CALHOUN",
-    "del_state": "GA",
-    "del_hours": "0730-1400",
-    "equipment": "Van",
-    "weight_lbs": 43212,
-    "carrier_rate": 2000,
-    "updated_at": "2026-09-25T15:01:43.263340+00:00",
-    "lane": "EL DORADO AR-CALHOUN GA"
   },
   {
     "pro": "50646",
