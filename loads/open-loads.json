@@ -34,6 +34,23 @@
     "lane": "KANKAKEE IL-JACKSONVILLE TX"
   },
   {
+    "pro": "50660",
+    "status": "OPEN",
+    "pu_date": "2026-09-25",
+    "pu_city": "AUBURN",
+    "pu_state": "AL",
+    "pu_hours": "0800-1500",
+    "del_date": "2026-09-28",
+    "del_city": "HOUSTON",
+    "del_state": "TX",
+    "del_hours": "0800-1400",
+    "equipment": "26' Straight Box Truck",
+    "weight_lbs": 10467,
+    "carrier_rate": 1000,
+    "updated_at": "2026-09-25T15:01:47.014779+00:00",
+    "lane": "AUBURN AL-HOUSTON TX"
+  },
+  {
     "pro": "50688",
     "status": "OPEN",
     "pu_date": "2026-09-25",
@@ -63,8 +80,8 @@
     "del_hours": "",
     "equipment": "Flatbed Hot Shot",
     "weight_lbs": 9000,
-    "carrier_rate": null,
-    "updated_at": "2026-09-25T14:58:26.521321+00:00",
+    "carrier_rate": 400,
+    "updated_at": "2026-09-25T15:00:30.174178+00:00",
     "lane": "COLUMBIA SC-RIDGEVILLE SC"
   },
   {
@@ -336,7 +353,7 @@
     "equipment": "Flatbed Hot Shot",
     "weight_lbs": 4300,
     "carrier_rate": 600,
-    "updated_at": "2026-09-25T14:39:56.496659+00:00",
+    "updated_at": "2026-09-25T15:00:19.766967+00:00",
     "lane": "BYRON GA-DALLAS GA"
   },
   {
@@ -987,7 +1004,7 @@
   },
   {
     "pro": "50626",
-    "status": "DELIVERED",
+    "status": "RELEASED",
     "pu_date": "2026-09-24",
     "pu_city": "EL DORADO",
     "pu_state": "AR",
@@ -999,7 +1016,7 @@
     "equipment": "Van",
     "weight_lbs": 43212,
     "carrier_rate": 2000,
-    "updated_at": "2026-09-25T13:47:17.083123+00:00",
+    "updated_at": "2026-09-25T15:01:43.263340+00:00",
     "lane": "EL DORADO AR-CALHOUN GA"
   },
   {
