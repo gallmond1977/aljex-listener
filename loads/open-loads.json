@@ -315,11 +315,11 @@
     "del_date": "2026-09-29",
     "del_city": "THOMASTON",
     "del_state": "GA",
-    "del_hours": "0800-1500",
+    "del_hours": "",
     "equipment": "Van",
     "weight_lbs": 12350,
     "carrier_rate": 800,
-    "updated_at": "2026-09-25T13:53:59.389435+00:00",
+    "updated_at": "2026-09-25T13:56:33.313797+00:00",
     "lane": "GREER SC-THOMASTON GA"
   },
   {
