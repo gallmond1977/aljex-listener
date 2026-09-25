@@ -262,14 +262,14 @@
     "pu_state": "KY",
     "pu_hours": "1400",
     "del_date": "",
-    "del_city": "SARASOTA",
+    "del_city": "HIALEAH",
     "del_state": "FL",
     "del_hours": "2230",
     "equipment": "Van",
     "weight_lbs": 5646,
     "carrier_rate": 5000,
-    "updated_at": "2026-09-25T19:54:21.916921+00:00",
-    "lane": "WINCHESTER KY-SARASOTA FL"
+    "updated_at": "2026-09-25T19:57:04.866634+00:00",
+    "lane": "WINCHESTER KY-HIALEAH FL"
   },
   {
     "pro": "50638",
