@@ -68,6 +68,23 @@
     "lane": "AUBURN AL-HOUSTON TX"
   },
   {
+    "pro": "50687",
+    "status": "OPEN",
+    "pu_date": "2026-09-25",
+    "pu_city": "WINCHESTER",
+    "pu_state": "KY",
+    "pu_hours": "1200-1530",
+    "del_date": "2026-09-28",
+    "del_city": "JOLIET",
+    "del_state": "IL",
+    "del_hours": "",
+    "equipment": "Van",
+    "weight_lbs": 12480,
+    "carrier_rate": null,
+    "updated_at": "2026-09-25T14:18:28.376177+00:00",
+    "lane": "WINCHESTER KY-JOLIET IL"
+  },
+  {
     "pro": "50159",
     "status": "OPEN",
     "pu_date": "2026-09-28",
