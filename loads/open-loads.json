@@ -17,23 +17,6 @@
     "lane": "CHESTER VA-OWENSBORO KY"
   },
   {
-    "pro": "50660",
-    "status": "OPEN",
-    "pu_date": "2026-09-25",
-    "pu_city": "AUBURN",
-    "pu_state": "AL",
-    "pu_hours": "0800-1500",
-    "del_date": "2026-09-28",
-    "del_city": "HOUSTON",
-    "del_state": "TX",
-    "del_hours": "0800-1400",
-    "equipment": "26' Straight Box Truck",
-    "weight_lbs": 10467,
-    "carrier_rate": 1200,
-    "updated_at": "2026-09-25T16:28:37.976782+00:00",
-    "lane": "AUBURN AL-HOUSTON TX"
-  },
-  {
     "pro": "50688",
     "status": "OPEN",
     "pu_date": "2026-09-25",
