@@ -646,6 +646,23 @@
     "lane": "GREENWOOD WI-LITHIA SPRINGS GA"
   },
   {
+    "pro": "50691",
+    "status": "OPEN",
+    "pu_date": "2026-10-08",
+    "pu_city": "ALLENTOWN",
+    "pu_state": "PA",
+    "pu_hours": "0630-1500",
+    "del_date": "",
+    "del_city": "GREENVILLE",
+    "del_state": "NC",
+    "del_hours": "0800",
+    "equipment": "Flatbed Hot Shot",
+    "weight_lbs": 1,
+    "carrier_rate": null,
+    "updated_at": "2026-09-25T15:54:43.673035+00:00",
+    "lane": "ALLENTOWN PA-GREENVILLE NC"
+  },
+  {
     "pro": "50082",
     "status": "OPEN",
     "pu_date": "2026-10-12",
