@@ -221,6 +221,23 @@
     "lane": "VILLA RICA GA-RICHMOND VA"
   },
   {
+    "pro": "50699",
+    "status": "OPEN",
+    "pu_date": "2026-09-28",
+    "pu_city": "CALHOUN",
+    "pu_state": "GA",
+    "pu_hours": "0730-1100",
+    "del_date": "2026-09-28",
+    "del_city": "TEMPLE",
+    "del_state": "GA",
+    "del_hours": "0700-1430",
+    "equipment": "Van",
+    "weight_lbs": 39580,
+    "carrier_rate": 650,
+    "updated_at": "2026-09-25T20:26:13.851499+00:00",
+    "lane": "CALHOUN GA-TEMPLE GA"
+  },
+  {
     "pro": "50700",
     "status": "OPEN",
     "pu_date": "2026-09-28",
@@ -234,7 +251,7 @@
     "equipment": "Van",
     "weight_lbs": 4572,
     "carrier_rate": 5000,
-    "updated_at": "2026-09-25T20:21:29.754333+00:00",
+    "updated_at": "2026-09-25T20:28:21.036206+00:00",
     "lane": "WINCHESTER KY-HIALEAH FL"
   },
   {
