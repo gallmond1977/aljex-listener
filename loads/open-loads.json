@@ -163,10 +163,10 @@
     "del_city": "KESWICK",
     "del_state": "VA",
     "del_hours": "0800-1400",
-    "equipment": "26' Straight Box Truck",
+    "equipment": "Flatbed Hot Shot",
     "weight_lbs": 4300,
-    "carrier_rate": 300,
-    "updated_at": "2026-09-24T20:47:09.122545+00:00",
+    "carrier_rate": 400,
+    "updated_at": "2026-09-25T11:49:43.880513+00:00",
     "lane": "RICHMOND VA-KESWICK VA"
   },
   {
