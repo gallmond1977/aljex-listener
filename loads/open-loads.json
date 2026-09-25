@@ -12,8 +12,8 @@
     "del_hours": "0800-1500",
     "equipment": "Van",
     "weight_lbs": 42840,
-    "carrier_rate": 1700,
-    "updated_at": "2026-09-25T14:25:45.799280+00:00",
+    "carrier_rate": 1800,
+    "updated_at": "2026-09-25T14:40:53.080295+00:00",
     "lane": "CHESTER VA-OWENSBORO KY"
   },
   {
@@ -64,7 +64,7 @@
     "equipment": "Van",
     "weight_lbs": 12480,
     "carrier_rate": 1100,
-    "updated_at": "2026-09-25T14:38:36.496992+00:00",
+    "updated_at": "2026-09-25T14:41:58.486904+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
