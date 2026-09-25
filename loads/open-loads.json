@@ -234,7 +234,7 @@
     "equipment": "Van",
     "weight_lbs": 4572,
     "carrier_rate": 5000,
-    "updated_at": "2026-09-25T20:10:37.202784+00:00",
+    "updated_at": "2026-09-25T20:21:29.754333+00:00",
     "lane": "WINCHESTER KY-HIALEAH FL"
   },
   {
@@ -931,7 +931,7 @@
     "equipment": "Van",
     "weight_lbs": 30000,
     "carrier_rate": 2500,
-    "updated_at": "2026-09-25T20:12:03.273922+00:00",
+    "updated_at": "2026-09-25T20:20:59.315094+00:00",
     "lane": "BENSENVILLE IL-BELCAMP MD"
   },
   {
