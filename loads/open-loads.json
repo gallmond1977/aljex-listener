@@ -153,23 +153,6 @@
     "lane": "WINCHESTER KY-UXBRIDGE MA"
   },
   {
-    "pro": "50615",
-    "status": "OPEN",
-    "pu_date": "2026-09-28",
-    "pu_city": "WINCHESTER",
-    "pu_state": "KY",
-    "pu_hours": "1100-1300",
-    "del_date": "2026-09-29",
-    "del_city": "JACKSONVILLE",
-    "del_state": "FL",
-    "del_hours": "0500",
-    "equipment": "Van",
-    "weight_lbs": 8544,
-    "carrier_rate": 2500,
-    "updated_at": "2026-09-23T20:17:13.804634+00:00",
-    "lane": "WINCHESTER KY-JACKSONVILLE FL"
-  },
-  {
     "pro": "50651",
     "status": "OPEN",
     "pu_date": "2026-09-28",
@@ -867,23 +850,6 @@
     "lane": "AUBURN AL-LA CROSSE WI"
   },
   {
-    "pro": "50523",
-    "status": "DELIVERED",
-    "pu_date": "2026-09-23",
-    "pu_city": "WINCHESTER",
-    "pu_state": "KY",
-    "pu_hours": "0800-1500",
-    "del_date": "2026-09-24",
-    "del_city": "JACKSONVILLE",
-    "del_state": "FL",
-    "del_hours": "0900",
-    "equipment": "Van",
-    "weight_lbs": 4000,
-    "carrier_rate": 2400,
-    "updated_at": "2026-09-24T16:07:50.401470+00:00",
-    "lane": "WINCHESTER KY-JACKSONVILLE FL"
-  },
-  {
     "pro": "50524",
     "status": "RELEASED",
     "pu_date": "2026-09-23",
@@ -935,40 +901,6 @@
     "lane": "BUFFALO NY-BELCAMP MD"
   },
   {
-    "pro": "50613",
-    "status": "LOADED",
-    "pu_date": "2026-09-24",
-    "pu_city": "WINCHESTER",
-    "pu_state": "KY",
-    "pu_hours": "0800-1500",
-    "del_date": "2026-09-25",
-    "del_city": "JACKSONVILLE",
-    "del_state": "FL",
-    "del_hours": "1800",
-    "equipment": "Van",
-    "weight_lbs": 7600,
-    "carrier_rate": 3500,
-    "updated_at": "2026-09-25T13:52:26.426914+00:00",
-    "lane": "WINCHESTER KY-JACKSONVILLE FL"
-  },
-  {
-    "pro": "50614",
-    "status": "LOADED",
-    "pu_date": "2026-09-24",
-    "pu_city": "WINCHESTER",
-    "pu_state": "KY",
-    "pu_hours": "0800-1600",
-    "del_date": "2026-09-25",
-    "del_city": "JACKSONVILLE",
-    "del_state": "FL",
-    "del_hours": "1900",
-    "equipment": "Van",
-    "weight_lbs": 4000,
-    "carrier_rate": 3800,
-    "updated_at": "2026-09-25T13:06:36.360722+00:00",
-    "lane": "WINCHESTER KY-JACKSONVILLE FL"
-  },
-  {
     "pro": "50626",
     "status": "RELEASED",
     "pu_date": "2026-09-24",
@@ -987,7 +919,7 @@
   },
   {
     "pro": "50646",
-    "status": "CONSIGNEE",
+    "status": "DELIVERED",
     "pu_date": "2026-09-24",
     "pu_city": "CHESTER",
     "pu_state": "VA",
@@ -999,7 +931,7 @@
     "equipment": "Van",
     "weight_lbs": 44000,
     "carrier_rate": 1950,
-    "updated_at": "2026-09-25T16:45:54.313097+00:00",
+    "updated_at": "2026-09-25T17:00:18.155084+00:00",
     "lane": "CHESTER VA-OWENSBORO KY"
   },
   {
