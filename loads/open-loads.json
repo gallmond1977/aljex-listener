@@ -54,7 +54,7 @@
     "pro": "50688",
     "status": "OPEN",
     "pu_date": "2026-09-25",
-    "pu_city": "SOUTH BRUNSWICK",
+    "pu_city": "SHALLOTTE",
     "pu_state": "NC",
     "pu_hours": "0800-1200",
     "del_date": "2026-09-25",
@@ -64,8 +64,8 @@
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 4147,
     "carrier_rate": 400,
-    "updated_at": "2026-09-25T15:15:54.199469+00:00",
-    "lane": "SOUTH BRUNSWICK NC-JACKSONVILLE NC"
+    "updated_at": "2026-09-25T15:22:40.586155+00:00",
+    "lane": "SHALLOTTE NC-JACKSONVILLE NC"
   },
   {
     "pro": "50159",
