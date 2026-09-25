@@ -60,11 +60,11 @@
     "del_date": "2026-09-28",
     "del_city": "JOLIET",
     "del_state": "IL",
-    "del_hours": "",
+    "del_hours": "1600",
     "equipment": "Van",
     "weight_lbs": 12480,
-    "carrier_rate": null,
-    "updated_at": "2026-09-25T14:18:28.376177+00:00",
+    "carrier_rate": 1100,
+    "updated_at": "2026-09-25T14:38:36.496992+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
@@ -74,14 +74,14 @@
     "pu_city": "SOUTH BRUNSWICK",
     "pu_state": "NC",
     "pu_hours": "0800-1200",
-    "del_date": "",
+    "del_date": "2026-09-25",
     "del_city": "JACKSONVILLE",
     "del_state": "NC",
     "del_hours": "0700-1400",
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 4147,
     "carrier_rate": 350,
-    "updated_at": "2026-09-25T14:33:14.657225+00:00",
+    "updated_at": "2026-09-25T14:38:19.638625+00:00",
     "lane": "SOUTH BRUNSWICK NC-JACKSONVILLE NC"
   },
   {
@@ -338,6 +338,23 @@
     "carrier_rate": 800,
     "updated_at": "2026-09-25T14:12:41.766472+00:00",
     "lane": "GREER SC-THOMASTON GA"
+  },
+  {
+    "pro": "50689",
+    "status": "OPEN",
+    "pu_date": "2026-09-28",
+    "pu_city": "BYRON",
+    "pu_state": "GA",
+    "pu_hours": "0800-0830",
+    "del_date": "2026-09-28",
+    "del_city": "DALLAS",
+    "del_state": "GA",
+    "del_hours": "0800-1200",
+    "equipment": "Flatbed Hot Shot",
+    "weight_lbs": 4300,
+    "carrier_rate": 600,
+    "updated_at": "2026-09-25T14:39:56.496659+00:00",
+    "lane": "BYRON GA-DALLAS GA"
   },
   {
     "pro": "50638",
