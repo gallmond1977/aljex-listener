@@ -268,7 +268,7 @@
     "equipment": "Van",
     "weight_lbs": 4572,
     "carrier_rate": 5000,
-    "updated_at": "2026-09-25T20:07:54.907337+00:00",
+    "updated_at": "2026-09-25T20:10:37.202784+00:00",
     "lane": "WINCHESTER KY-HIALEAH FL"
   },
   {
@@ -953,7 +953,7 @@
   },
   {
     "pro": "50669",
-    "status": "CONSIGNEE",
+    "status": "DELIVERED",
     "pu_date": "2026-09-24",
     "pu_city": "BENSENVILLE",
     "pu_state": "IL",
@@ -965,7 +965,7 @@
     "equipment": "Van",
     "weight_lbs": 30000,
     "carrier_rate": 2500,
-    "updated_at": "2026-09-25T19:23:38.081532+00:00",
+    "updated_at": "2026-09-25T20:12:03.273922+00:00",
     "lane": "BENSENVILLE IL-BELCAMP MD"
   },
   {
