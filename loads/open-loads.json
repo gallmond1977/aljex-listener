@@ -13,7 +13,7 @@
     "equipment": "Van",
     "weight_lbs": 42840,
     "carrier_rate": 1800,
-    "updated_at": "2026-09-25T14:40:53.080295+00:00",
+    "updated_at": "2026-09-25T16:15:14.403265+00:00",
     "lane": "CHESTER VA-OWENSBORO KY"
   },
   {
@@ -56,15 +56,15 @@
     "pu_date": "2026-09-25",
     "pu_city": "SHALLOTTE",
     "pu_state": "NC",
-    "pu_hours": "0800-1300",
-    "del_date": "2026-09-25",
+    "pu_hours": "0800-1400",
+    "del_date": "2026-09-28",
     "del_city": "JACKSONVILLE",
     "del_state": "NC",
-    "del_hours": "0700-1500",
+    "del_hours": "0700-0900",
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 4147,
     "carrier_rate": 400,
-    "updated_at": "2026-09-25T15:42:58.414391+00:00",
+    "updated_at": "2026-09-25T16:19:43.720827+00:00",
     "lane": "SHALLOTTE NC-JACKSONVILLE NC"
   },
   {
@@ -797,23 +797,6 @@
     "carrier_rate": null,
     "updated_at": "2026-09-03T14:33:15.542069+00:00",
     "lane": "LA PORTE TX-GREENVILLE SC"
-  },
-  {
-    "pro": "50534",
-    "status": "RELEASED",
-    "pu_date": "2026-09-17",
-    "pu_city": "BUFFALO",
-    "pu_state": "NY",
-    "pu_hours": "1300",
-    "del_date": "2026-09-18",
-    "del_city": "BELCAMP",
-    "del_state": "MD",
-    "del_hours": "0700-1300",
-    "equipment": "Van",
-    "weight_lbs": 7500,
-    "carrier_rate": 1700,
-    "updated_at": "2026-09-18T16:15:41.377044+00:00",
-    "lane": "BUFFALO NY-BELCAMP MD"
   },
   {
     "pro": "50547",
