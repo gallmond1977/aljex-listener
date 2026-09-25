@@ -931,7 +931,7 @@
     "equipment": "Van",
     "weight_lbs": 7600,
     "carrier_rate": 3500,
-    "updated_at": "2026-09-24T18:55:16.127659+00:00",
+    "updated_at": "2026-09-25T13:06:47.747896+00:00",
     "lane": "WINCHESTER KY-JACKSONVILLE FL"
   },
   {
@@ -948,7 +948,7 @@
     "equipment": "Van",
     "weight_lbs": 4000,
     "carrier_rate": 3800,
-    "updated_at": "2026-09-24T21:28:08.707045+00:00",
+    "updated_at": "2026-09-25T13:06:36.360722+00:00",
     "lane": "WINCHESTER KY-JACKSONVILLE FL"
   },
   {
@@ -965,7 +965,7 @@
     "equipment": "Van",
     "weight_lbs": 43212,
     "carrier_rate": 2000,
-    "updated_at": "2026-09-24T16:50:22.787955+00:00",
+    "updated_at": "2026-09-25T13:07:34.442628+00:00",
     "lane": "EL DORADO AR-CALHOUN GA"
   },
   {
