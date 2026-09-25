@@ -30,7 +30,7 @@
     "equipment": "Van",
     "weight_lbs": 43000,
     "carrier_rate": 2750,
-    "updated_at": "2026-09-25T15:43:23.523288+00:00",
+    "updated_at": "2026-09-25T15:48:33.155204+00:00",
     "lane": "KANKAKEE IL-JACKSONVILLE TX"
   },
   {
@@ -282,10 +282,10 @@
     "del_city": "MOUNT PLEASANT",
     "del_state": "SC",
     "del_hours": "0800-1700",
-    "equipment": "Flatbed Hot Shot",
+    "equipment": "Flatbed",
     "weight_lbs": 24000,
     "carrier_rate": 600,
-    "updated_at": "2026-09-24T19:37:51.424097+00:00",
+    "updated_at": "2026-09-25T15:49:14.723494+00:00",
     "lane": "ROCK HILL SC-MOUNT PLEASANT SC"
   },
   {
