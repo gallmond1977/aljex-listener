@@ -285,7 +285,7 @@
     "equipment": "Flatbed",
     "weight_lbs": 24000,
     "carrier_rate": 600,
-    "updated_at": "2026-09-25T15:49:14.723494+00:00",
+    "updated_at": "2026-09-25T15:55:49.972276+00:00",
     "lane": "ROCK HILL SC-MOUNT PLEASANT SC"
   },
   {
@@ -321,23 +321,6 @@
     "carrier_rate": 800,
     "updated_at": "2026-09-25T14:12:41.766472+00:00",
     "lane": "GREER SC-THOMASTON GA"
-  },
-  {
-    "pro": "50689",
-    "status": "OPEN",
-    "pu_date": "2026-09-28",
-    "pu_city": "BYRON",
-    "pu_state": "GA",
-    "pu_hours": "0800-0830",
-    "del_date": "2026-09-28",
-    "del_city": "DALLAS",
-    "del_state": "GA",
-    "del_hours": "0800-1200",
-    "equipment": "Flatbed Hot Shot",
-    "weight_lbs": 4300,
-    "carrier_rate": 600,
-    "updated_at": "2026-09-25T15:00:19.766967+00:00",
-    "lane": "BYRON GA-DALLAS GA"
   },
   {
     "pro": "50690",
@@ -652,14 +635,14 @@
     "pu_city": "ALLENTOWN",
     "pu_state": "PA",
     "pu_hours": "0630-1500",
-    "del_date": "",
+    "del_date": "2026-10-09",
     "del_city": "GREENVILLE",
     "del_state": "NC",
     "del_hours": "0800",
     "equipment": "Flatbed Hot Shot",
     "weight_lbs": 1,
     "carrier_rate": null,
-    "updated_at": "2026-09-25T15:54:43.673035+00:00",
+    "updated_at": "2026-09-25T15:56:42.772808+00:00",
     "lane": "ALLENTOWN PA-GREENVILLE NC"
   },
   {
