@@ -51,23 +51,6 @@
     "lane": "AUBURN AL-HOUSTON TX"
   },
   {
-    "pro": "50687",
-    "status": "OPEN",
-    "pu_date": "2026-09-25",
-    "pu_city": "WINCHESTER",
-    "pu_state": "KY",
-    "pu_hours": "1200-1530",
-    "del_date": "2026-09-28",
-    "del_city": "JOLIET",
-    "del_state": "IL",
-    "del_hours": "1600",
-    "equipment": "Van",
-    "weight_lbs": 12480,
-    "carrier_rate": 1100,
-    "updated_at": "2026-09-25T14:41:58.486904+00:00",
-    "lane": "WINCHESTER KY-JOLIET IL"
-  },
-  {
     "pro": "50688",
     "status": "OPEN",
     "pu_date": "2026-09-25",
@@ -81,7 +64,7 @@
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 4147,
     "carrier_rate": 350,
-    "updated_at": "2026-09-25T14:38:19.638625+00:00",
+    "updated_at": "2026-09-25T14:47:55.069047+00:00",
     "lane": "SOUTH BRUNSWICK NC-JACKSONVILLE NC"
   },
   {
