@@ -68,23 +68,6 @@
     "lane": "AUBURN AL-HOUSTON TX"
   },
   {
-    "pro": "50676",
-    "status": "OPEN",
-    "pu_date": "2026-09-25",
-    "pu_city": "TAMPA",
-    "pu_state": "FL",
-    "pu_hours": "0800-0900",
-    "del_date": "2026-09-25",
-    "del_city": "BOCA RATON",
-    "del_state": "FL",
-    "del_hours": "0800-1600",
-    "equipment": "Van",
-    "weight_lbs": 11500,
-    "carrier_rate": 700,
-    "updated_at": "2026-09-24T18:07:06.047324+00:00",
-    "lane": "TAMPA FL-BOCA RATON FL"
-  },
-  {
     "pro": "50159",
     "status": "OPEN",
     "pu_date": "2026-09-28",
@@ -200,7 +183,7 @@
     "equipment": "Van",
     "weight_lbs": 13083,
     "carrier_rate": 3500,
-    "updated_at": "2026-09-25T12:04:41.353921+00:00",
+    "updated_at": "2026-09-25T12:54:31.310203+00:00",
     "lane": "WINCHESTER KY-UXBRIDGE MA"
   },
   {
@@ -217,7 +200,7 @@
     "equipment": "Van",
     "weight_lbs": 4871,
     "carrier_rate": 3500,
-    "updated_at": "2026-09-25T12:04:45.915689+00:00",
+    "updated_at": "2026-09-25T12:53:13.195042+00:00",
     "lane": "WINCHESTER KY-UXBRIDGE MA"
   },
   {
