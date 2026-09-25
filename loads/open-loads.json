@@ -47,7 +47,7 @@
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 10467,
     "carrier_rate": 1000,
-    "updated_at": "2026-09-25T15:01:47.014779+00:00",
+    "updated_at": "2026-09-25T15:05:28.524208+00:00",
     "lane": "AUBURN AL-HOUSTON TX"
   },
   {
@@ -66,23 +66,6 @@
     "carrier_rate": 350,
     "updated_at": "2026-09-25T14:47:55.069047+00:00",
     "lane": "SOUTH BRUNSWICK NC-JACKSONVILLE NC"
-  },
-  {
-    "pro": "50690",
-    "status": "OPEN",
-    "pu_date": "2026-09-25",
-    "pu_city": "COLUMBIA",
-    "pu_state": "SC",
-    "pu_hours": "0800-1200",
-    "del_date": "",
-    "del_city": "RIDGEVILLE",
-    "del_state": "SC",
-    "del_hours": "",
-    "equipment": "Flatbed Hot Shot",
-    "weight_lbs": 9000,
-    "carrier_rate": 400,
-    "updated_at": "2026-09-25T15:00:30.174178+00:00",
-    "lane": "COLUMBIA SC-RIDGEVILLE SC"
   },
   {
     "pro": "50159",
@@ -355,6 +338,23 @@
     "carrier_rate": 600,
     "updated_at": "2026-09-25T15:00:19.766967+00:00",
     "lane": "BYRON GA-DALLAS GA"
+  },
+  {
+    "pro": "50690",
+    "status": "OPEN",
+    "pu_date": "2026-09-28",
+    "pu_city": "COLUMBIA",
+    "pu_state": "SC",
+    "pu_hours": "0800-1200",
+    "del_date": "2026-09-28",
+    "del_city": "RIDGEVILLE",
+    "del_state": "SC",
+    "del_hours": "",
+    "equipment": "Flatbed Hot Shot",
+    "weight_lbs": 9000,
+    "carrier_rate": 400,
+    "updated_at": "2026-09-25T15:10:07.489318+00:00",
+    "lane": "COLUMBIA SC-RIDGEVILLE SC"
   },
   {
     "pro": "50638",
@@ -1050,7 +1050,7 @@
     "equipment": "Van",
     "weight_lbs": 30000,
     "carrier_rate": 2500,
-    "updated_at": "2026-09-25T13:27:13.612774+00:00",
+    "updated_at": "2026-09-25T15:07:14.472028+00:00",
     "lane": "BENSENVILLE IL-BELCAMP MD"
   },
   {
