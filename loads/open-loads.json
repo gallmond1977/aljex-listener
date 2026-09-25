@@ -1,22 +1,5 @@
 [
   {
-    "pro": "50648",
-    "status": "OPEN",
-    "pu_date": "2026-09-25",
-    "pu_city": "CHESTER",
-    "pu_state": "VA",
-    "pu_hours": "0700-1500",
-    "del_date": "2026-09-28",
-    "del_city": "OWENSBORO",
-    "del_state": "KY",
-    "del_hours": "0800-1500",
-    "equipment": "Van",
-    "weight_lbs": 42840,
-    "carrier_rate": 1800,
-    "updated_at": "2026-09-25T16:23:09.470280+00:00",
-    "lane": "CHESTER VA-OWENSBORO KY"
-  },
-  {
     "pro": "50159",
     "status": "OPEN",
     "pu_date": "2026-09-28",
@@ -508,6 +491,23 @@
     "carrier_rate": 900,
     "updated_at": "2026-09-24T17:47:08.911768+00:00",
     "lane": "JACKSONVILLE TX-JACKSON MS"
+  },
+  {
+    "pro": "50648",
+    "status": "OPEN",
+    "pu_date": "2026-10-01",
+    "pu_city": "CHESTER",
+    "pu_state": "VA",
+    "pu_hours": "0700-1500",
+    "del_date": "2026-10-02",
+    "del_city": "OWENSBORO",
+    "del_state": "KY",
+    "del_hours": "0730-0900",
+    "equipment": "Van",
+    "weight_lbs": 42840,
+    "carrier_rate": 1800,
+    "updated_at": "2026-09-25T17:47:00.733446+00:00",
+    "lane": "CHESTER VA-OWENSBORO KY"
   },
   {
     "pro": "50107",
