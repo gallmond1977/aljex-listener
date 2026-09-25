@@ -264,11 +264,11 @@
     "del_date": "",
     "del_city": "HIALEAH",
     "del_state": "FL",
-    "del_hours": "2230",
+    "del_hours": "",
     "equipment": "Van",
-    "weight_lbs": 5646,
+    "weight_lbs": 4572,
     "carrier_rate": 5000,
-    "updated_at": "2026-09-25T19:57:04.866634+00:00",
+    "updated_at": "2026-09-25T20:03:30.248692+00:00",
     "lane": "WINCHESTER KY-HIALEAH FL"
   },
   {
