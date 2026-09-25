@@ -209,7 +209,7 @@
     "pu_date": "2026-09-28",
     "pu_city": "LILLINGTON",
     "pu_state": "NC",
-    "pu_hours": "0800-1200",
+    "pu_hours": "1000",
     "del_date": "2026-09-29",
     "del_city": "CHARLESTON",
     "del_state": "SC",
@@ -217,7 +217,7 @@
     "equipment": "Flatbed",
     "weight_lbs": 10000,
     "carrier_rate": 1000,
-    "updated_at": "2026-09-25T18:31:37.272709+00:00",
+    "updated_at": "2026-09-25T19:05:04.987514+00:00",
     "lane": "LILLINGTON NC-CHARLESTON SC"
   },
   {
