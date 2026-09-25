@@ -1,22 +1,5 @@
 [
   {
-    "pro": "50529",
-    "status": "OPEN",
-    "pu_date": "2026-09-25",
-    "pu_city": "ATLANTA",
-    "pu_state": "GA",
-    "pu_hours": "1530",
-    "del_date": "2026-09-25",
-    "del_city": "FOREST PARK",
-    "del_state": "GA",
-    "del_hours": "2200",
-    "equipment": "Reefer",
-    "weight_lbs": 33095,
-    "carrier_rate": 500,
-    "updated_at": "2026-09-25T13:52:50.497429+00:00",
-    "lane": "ATLANTA GA-FOREST PARK GA"
-  },
-  {
     "pro": "50648",
     "status": "OPEN",
     "pu_date": "2026-09-25",
@@ -64,7 +47,7 @@
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 10467,
     "carrier_rate": 1000,
-    "updated_at": "2026-09-25T13:27:03.169543+00:00",
+    "updated_at": "2026-09-25T14:24:48.105528+00:00",
     "lane": "AUBURN AL-HOUSTON TX"
   },
   {
@@ -83,6 +66,23 @@
     "carrier_rate": null,
     "updated_at": "2026-09-25T14:18:28.376177+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
+  },
+  {
+    "pro": "50688",
+    "status": "OPEN",
+    "pu_date": "2026-09-25",
+    "pu_city": "SOUTH BRUNSWICK",
+    "pu_state": "NC",
+    "pu_hours": "0800-1200",
+    "del_date": "",
+    "del_city": "JACKSONVILLE",
+    "del_state": "NC",
+    "del_hours": "0700-1500",
+    "equipment": "26' Straight Box Truck",
+    "weight_lbs": 4147,
+    "carrier_rate": 350,
+    "updated_at": "2026-09-25T14:23:40.364491+00:00",
+    "lane": "SOUTH BRUNSWICK NC-JACKSONVILLE NC"
   },
   {
     "pro": "50159",
@@ -1035,5 +1035,22 @@
     "carrier_rate": 2500,
     "updated_at": "2026-09-25T13:27:13.612774+00:00",
     "lane": "BENSENVILLE IL-BELCAMP MD"
+  },
+  {
+    "pro": "50529",
+    "status": "COVERED",
+    "pu_date": "2026-09-25",
+    "pu_city": "ATLANTA",
+    "pu_state": "GA",
+    "pu_hours": "1530",
+    "del_date": "2026-09-25",
+    "del_city": "FOREST PARK",
+    "del_state": "GA",
+    "del_hours": "2200",
+    "equipment": "Reefer",
+    "weight_lbs": 33095,
+    "carrier_rate": 580,
+    "updated_at": "2026-09-25T14:22:22.496610+00:00",
+    "lane": "ATLANTA GA-FOREST PARK GA"
   }
 ]
