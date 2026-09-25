@@ -165,8 +165,8 @@
     "del_hours": "0800-1700",
     "equipment": "Flatbed",
     "weight_lbs": 24000,
-    "carrier_rate": 600,
-    "updated_at": "2026-09-25T18:41:27.312240+00:00",
+    "carrier_rate": 650,
+    "updated_at": "2026-09-25T19:20:49.083863+00:00",
     "lane": "ROCK HILL SC-MOUNT PLEASANT SC"
   },
   {
@@ -936,7 +936,7 @@
   },
   {
     "pro": "50669",
-    "status": "LOADED",
+    "status": "CONSIGNEE",
     "pu_date": "2026-09-24",
     "pu_city": "BENSENVILLE",
     "pu_state": "IL",
@@ -948,7 +948,7 @@
     "equipment": "Van",
     "weight_lbs": 30000,
     "carrier_rate": 2500,
-    "updated_at": "2026-09-25T15:28:10.642545+00:00",
+    "updated_at": "2026-09-25T19:23:38.081532+00:00",
     "lane": "BENSENVILLE IL-BELCAMP MD"
   },
   {
@@ -970,7 +970,7 @@
   },
   {
     "pro": "50595",
-    "status": "DELIVERED",
+    "status": "RELEASED",
     "pu_date": "2026-09-25",
     "pu_city": "ATLANTA",
     "pu_state": "GA",
@@ -982,7 +982,7 @@
     "equipment": "Reefer",
     "weight_lbs": 21264,
     "carrier_rate": 450,
-    "updated_at": "2026-09-25T14:49:09.015260+00:00",
+    "updated_at": "2026-09-25T19:24:24.716215+00:00",
     "lane": "ATLANTA GA-DECATUR GA"
   }
 ]
