@@ -267,8 +267,8 @@
     "del_hours": "2230",
     "equipment": "Van",
     "weight_lbs": 5646,
-    "carrier_rate": null,
-    "updated_at": "2026-09-25T19:48:57.330335+00:00",
+    "carrier_rate": 5000,
+    "updated_at": "2026-09-25T19:54:21.916921+00:00",
     "lane": "WINCHESTER KY-SARASOTA FL"
   },
   {
