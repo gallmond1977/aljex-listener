@@ -255,6 +255,23 @@
     "lane": "CALHOUN GA-TEMPLE GA"
   },
   {
+    "pro": "50700",
+    "status": "OPEN",
+    "pu_date": "2026-09-28",
+    "pu_city": "WINCHESTER",
+    "pu_state": "KY",
+    "pu_hours": "1400",
+    "del_date": "",
+    "del_city": "SARASOTA",
+    "del_state": "FL",
+    "del_hours": "2230",
+    "equipment": "Van",
+    "weight_lbs": 5646,
+    "carrier_rate": null,
+    "updated_at": "2026-09-25T19:48:57.330335+00:00",
+    "lane": "WINCHESTER KY-SARASOTA FL"
+  },
+  {
     "pro": "50638",
     "status": "OPEN",
     "pu_date": "2026-09-29",
