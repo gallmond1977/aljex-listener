@@ -12,8 +12,8 @@
     "del_hours": "2200",
     "equipment": "Reefer",
     "weight_lbs": 33095,
-    "carrier_rate": 450,
-    "updated_at": "2026-09-25T12:58:29.062606+00:00",
+    "carrier_rate": 500,
+    "updated_at": "2026-09-25T13:52:50.497429+00:00",
     "lane": "ATLANTA GA-FOREST PARK GA"
   },
   {
@@ -304,6 +304,23 @@
     "carrier_rate": 1700,
     "updated_at": "2026-09-25T13:01:57.645016+00:00",
     "lane": "BUFFALO NY-BELCAMP MD"
+  },
+  {
+    "pro": "50686",
+    "status": "OPEN",
+    "pu_date": "2026-09-28",
+    "pu_city": "GREER",
+    "pu_state": "SC",
+    "pu_hours": "0700-1500",
+    "del_date": "2026-09-29",
+    "del_city": "THOMASTON",
+    "del_state": "GA",
+    "del_hours": "0800-1500",
+    "equipment": "Van",
+    "weight_lbs": 12350,
+    "carrier_rate": 800,
+    "updated_at": "2026-09-25T13:53:59.389435+00:00",
+    "lane": "GREER SC-THOMASTON GA"
   },
   {
     "pro": "50638",
@@ -931,7 +948,7 @@
     "equipment": "Van",
     "weight_lbs": 7600,
     "carrier_rate": 3500,
-    "updated_at": "2026-09-25T13:06:47.747896+00:00",
+    "updated_at": "2026-09-25T13:52:26.426914+00:00",
     "lane": "WINCHESTER KY-JACKSONVILLE FL"
   },
   {
