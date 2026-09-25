@@ -204,23 +204,6 @@
     "lane": "COLUMBIA SC-RIDGEVILLE SC"
   },
   {
-    "pro": "50693",
-    "status": "OPEN",
-    "pu_date": "2026-09-28",
-    "pu_city": "LILLINGTON",
-    "pu_state": "NC",
-    "pu_hours": "1000",
-    "del_date": "2026-09-29",
-    "del_city": "CHARLESTON",
-    "del_state": "SC",
-    "del_hours": "0700-1500",
-    "equipment": "Flatbed",
-    "weight_lbs": 10000,
-    "carrier_rate": 1000,
-    "updated_at": "2026-09-25T19:10:50.539327+00:00",
-    "lane": "LILLINGTON NC-CHARLESTON SC"
-  },
-  {
     "pro": "50695",
     "status": "OPEN",
     "pu_date": "2026-09-28",
@@ -914,7 +897,7 @@
     "equipment": "Van",
     "weight_lbs": 10200,
     "carrier_rate": 3800,
-    "updated_at": "2026-09-25T13:03:42.759746+00:00",
+    "updated_at": "2026-09-25T19:19:25.278759+00:00",
     "lane": "WINCHESTER KY-UXBRIDGE MA"
   },
   {
