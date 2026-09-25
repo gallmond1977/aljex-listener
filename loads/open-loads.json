@@ -782,23 +782,6 @@
     "lane": "RICHMOND VA-KESWICK VA"
   },
   {
-    "pro": "50516",
-    "status": "RELEASED",
-    "pu_date": "2026-09-17",
-    "pu_city": "RICHMOND",
-    "pu_state": "VA",
-    "pu_hours": "0900-0930",
-    "del_date": "2026-09-17",
-    "del_city": "RICHMOND",
-    "del_state": "VA",
-    "del_hours": "1000-1100",
-    "equipment": "26' Straight Box Truck",
-    "weight_lbs": 1500,
-    "carrier_rate": 200,
-    "updated_at": "2026-09-18T01:05:40.994790+00:00",
-    "lane": "RICHMOND VA-RICHMOND VA"
-  },
-  {
     "pro": "50547",
     "status": "RELEASED",
     "pu_date": "2026-09-18",
