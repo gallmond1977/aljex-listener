@@ -13,25 +13,8 @@
     "equipment": "Van",
     "weight_lbs": 42840,
     "carrier_rate": 1800,
-    "updated_at": "2026-09-25T16:15:14.403265+00:00",
+    "updated_at": "2026-09-25T16:23:09.470280+00:00",
     "lane": "CHESTER VA-OWENSBORO KY"
-  },
-  {
-    "pro": "50652",
-    "status": "OPEN",
-    "pu_date": "2026-09-25",
-    "pu_city": "KANKAKEE",
-    "pu_state": "IL",
-    "pu_hours": "0700-1700",
-    "del_date": "2026-09-28",
-    "del_city": "JACKSONVILLE",
-    "del_state": "TX",
-    "del_hours": "0800-1500",
-    "equipment": "Van",
-    "weight_lbs": 43000,
-    "carrier_rate": 2750,
-    "updated_at": "2026-09-25T15:48:33.155204+00:00",
-    "lane": "KANKAKEE IL-JACKSONVILLE TX"
   },
   {
     "pro": "50660",
