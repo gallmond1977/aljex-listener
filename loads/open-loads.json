@@ -241,9 +241,9 @@
     "pro": "50693",
     "status": "OPEN",
     "pu_date": "2026-09-28",
-    "pu_city": "HOLLY SPRINGS",
+    "pu_city": "LILLINGTON",
     "pu_state": "NC",
-    "pu_hours": "0800-1400",
+    "pu_hours": "0800-1200",
     "del_date": "2026-09-29",
     "del_city": "CHARLESTON",
     "del_state": "SC",
@@ -251,8 +251,8 @@
     "equipment": "Flatbed Hot Shot",
     "weight_lbs": 10000,
     "carrier_rate": null,
-    "updated_at": "2026-09-25T17:53:22.619670+00:00",
-    "lane": "HOLLY SPRINGS NC-CHARLESTON SC"
+    "updated_at": "2026-09-25T17:59:54.589705+00:00",
+    "lane": "LILLINGTON NC-CHARLESTON SC"
   },
   {
     "pro": "50638",
@@ -491,6 +491,23 @@
     "carrier_rate": 900,
     "updated_at": "2026-09-24T17:47:08.911768+00:00",
     "lane": "JACKSONVILLE TX-JACKSON MS"
+  },
+  {
+    "pro": "50694",
+    "status": "OPEN",
+    "pu_date": "2026-09-30",
+    "pu_city": "ATLANTA",
+    "pu_state": "GA",
+    "pu_hours": "",
+    "del_date": "2026-09-30",
+    "del_city": "DECATUR",
+    "del_state": "GA",
+    "del_hours": "",
+    "equipment": "Reefer",
+    "weight_lbs": 24808,
+    "carrier_rate": 450,
+    "updated_at": "2026-09-25T17:59:48.779404+00:00",
+    "lane": "ATLANTA GA-DECATUR GA"
   },
   {
     "pro": "50648",
@@ -880,7 +897,7 @@
     "equipment": "Van",
     "weight_lbs": 44000,
     "carrier_rate": 1950,
-    "updated_at": "2026-09-25T17:00:18.155084+00:00",
+    "updated_at": "2026-09-25T17:56:22.186612+00:00",
     "lane": "CHESTER VA-OWENSBORO KY"
   },
   {
@@ -916,5 +933,22 @@
     "carrier_rate": 580,
     "updated_at": "2026-09-25T15:13:47.838175+00:00",
     "lane": "ATLANTA GA-FOREST PARK GA"
+  },
+  {
+    "pro": "50595",
+    "status": "DELIVERED",
+    "pu_date": "2026-09-25",
+    "pu_city": "ATLANTA",
+    "pu_state": "GA",
+    "pu_hours": "0700",
+    "del_date": "2026-09-25",
+    "del_city": "DECATUR",
+    "del_state": "GA",
+    "del_hours": "1000",
+    "equipment": "Reefer",
+    "weight_lbs": 21264,
+    "carrier_rate": 450,
+    "updated_at": "2026-09-25T14:49:09.015260+00:00",
+    "lane": "ATLANTA GA-DECATUR GA"
   }
 ]
