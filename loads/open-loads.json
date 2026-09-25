@@ -64,7 +64,7 @@
     "equipment": "Van",
     "weight_lbs": 42500,
     "carrier_rate": 2000,
-    "updated_at": "2026-09-21T18:06:35.803733+00:00",
+    "updated_at": "2026-09-25T18:39:42.940917+00:00",
     "lane": "AUBURN AL-LA CROSSE WI"
   },
   {
@@ -80,8 +80,8 @@
     "del_hours": "0800-1500",
     "equipment": "Van",
     "weight_lbs": 42500,
-    "carrier_rate": null,
-    "updated_at": "2026-09-21T17:40:08.228328+00:00",
+    "carrier_rate": 2000,
+    "updated_at": "2026-09-25T18:40:09.483238+00:00",
     "lane": "AUBURN AL-LA CROSSE WI"
   },
   {
@@ -372,6 +372,23 @@
     "carrier_rate": 1000,
     "updated_at": "2026-09-25T16:10:59.208762+00:00",
     "lane": "COLUMBUS GA-SANTA ROSA BEACH FL"
+  },
+  {
+    "pro": "50697",
+    "status": "OPEN",
+    "pu_date": "2026-09-29",
+    "pu_city": "CALHOUN",
+    "pu_state": "GA",
+    "pu_hours": "0800-1430",
+    "del_date": "2026-09-30",
+    "del_city": "LINCOLNTON",
+    "del_state": "NC",
+    "del_hours": "0700-1500",
+    "equipment": "Van",
+    "weight_lbs": 42000,
+    "carrier_rate": 1200,
+    "updated_at": "2026-09-25T18:39:55.917844+00:00",
+    "lane": "CALHOUN GA-LINCOLNTON NC"
   },
   {
     "pro": "50405",
@@ -865,6 +882,23 @@
     "carrier_rate": 3800,
     "updated_at": "2026-09-25T13:03:42.759746+00:00",
     "lane": "WINCHESTER KY-UXBRIDGE MA"
+  },
+  {
+    "pro": "50644",
+    "status": "DELIVERED",
+    "pu_date": "2026-09-24",
+    "pu_city": "CALHOUN",
+    "pu_state": "GA",
+    "pu_hours": "0800-1430",
+    "del_date": "2026-09-24",
+    "del_city": "LINCOLNTON",
+    "del_state": "NC",
+    "del_hours": "0700-1500",
+    "equipment": "Van",
+    "weight_lbs": 41000,
+    "carrier_rate": 1300,
+    "updated_at": "2026-09-24T19:19:08.547064+00:00",
+    "lane": "CALHOUN GA-LINCOLNTON NC"
   },
   {
     "pro": "50646",
