@@ -13,7 +13,7 @@
     "equipment": "Reefer",
     "weight_lbs": 33095,
     "carrier_rate": 450,
-    "updated_at": "2026-09-24T18:06:43.379646+00:00",
+    "updated_at": "2026-09-25T12:58:29.062606+00:00",
     "lane": "ATLANTA GA-FOREST PARK GA"
   },
   {
@@ -183,7 +183,7 @@
     "equipment": "Van",
     "weight_lbs": 13083,
     "carrier_rate": 3500,
-    "updated_at": "2026-09-25T12:54:31.310203+00:00",
+    "updated_at": "2026-09-25T12:55:59.716193+00:00",
     "lane": "WINCHESTER KY-UXBRIDGE MA"
   },
   {
@@ -304,6 +304,23 @@
     "carrier_rate": 600,
     "updated_at": "2026-09-24T19:37:51.424097+00:00",
     "lane": "ROCK HILL SC-MOUNT PLEASANT SC"
+  },
+  {
+    "pro": "50685",
+    "status": "OPEN",
+    "pu_date": "2026-09-28",
+    "pu_city": "BUFFALO",
+    "pu_state": "NY",
+    "pu_hours": "1000-1300",
+    "del_date": "2026-09-29",
+    "del_city": "BELCAMP",
+    "del_state": "MD",
+    "del_hours": "0700-1300",
+    "equipment": "Van",
+    "weight_lbs": 16574,
+    "carrier_rate": null,
+    "updated_at": "2026-09-25T12:59:03.515785+00:00",
+    "lane": "BUFFALO NY-BELCAMP MD"
   },
   {
     "pro": "50638",
@@ -748,6 +765,23 @@
     "lane": "RICHMOND VA-KESWICK VA"
   },
   {
+    "pro": "50534",
+    "status": "RELEASED",
+    "pu_date": "2026-09-17",
+    "pu_city": "BUFFALO",
+    "pu_state": "NY",
+    "pu_hours": "1300",
+    "del_date": "2026-09-18",
+    "del_city": "BELCAMP",
+    "del_state": "MD",
+    "del_hours": "0700-1300",
+    "equipment": "Van",
+    "weight_lbs": 7500,
+    "carrier_rate": 1700,
+    "updated_at": "2026-09-18T16:15:41.377044+00:00",
+    "lane": "BUFFALO NY-BELCAMP MD"
+  },
+  {
     "pro": "50547",
     "status": "RELEASED",
     "pu_date": "2026-09-18",
@@ -899,6 +933,23 @@
     "carrier_rate": 3800,
     "updated_at": "2026-09-24T12:39:02.925616+00:00",
     "lane": "WINCHESTER KY-UXBRIDGE MA"
+  },
+  {
+    "pro": "50620",
+    "status": "DELIVERED",
+    "pu_date": "2026-09-23",
+    "pu_city": "BUFFALO",
+    "pu_state": "NY",
+    "pu_hours": "1300",
+    "del_date": "2026-09-24",
+    "del_city": "BELCAMP",
+    "del_state": "MD",
+    "del_hours": "0700-1300",
+    "equipment": "Van",
+    "weight_lbs": 8570,
+    "carrier_rate": 1800,
+    "updated_at": "2026-09-24T13:24:20.953326+00:00",
+    "lane": "BUFFALO NY-BELCAMP MD"
   },
   {
     "pro": "50613",
