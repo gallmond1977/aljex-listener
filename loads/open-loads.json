@@ -166,7 +166,7 @@
     "equipment": "Flatbed Hot Shot",
     "weight_lbs": 4300,
     "carrier_rate": 400,
-    "updated_at": "2026-09-25T11:56:53.595047+00:00",
+    "updated_at": "2026-09-25T12:01:03.440083+00:00",
     "lane": "RICHMOND VA-KESWICK VA"
   },
   {
@@ -217,7 +217,7 @@
     "equipment": "Van",
     "weight_lbs": 13083,
     "carrier_rate": 3500,
-    "updated_at": "2026-09-25T11:58:58.407240+00:00",
+    "updated_at": "2026-09-25T12:04:41.353921+00:00",
     "lane": "WINCHESTER KY-UXBRIDGE MA"
   },
   {
@@ -226,15 +226,15 @@
     "pu_date": "2026-09-28",
     "pu_city": "WINCHESTER",
     "pu_state": "KY",
-    "pu_hours": "NEEDED",
+    "pu_hours": "0800-1500",
     "del_date": "2026-09-30",
     "del_city": "UXBRIDGE",
     "del_state": "MA",
-    "del_hours": "AD REQD",
+    "del_hours": "1700",
     "equipment": "Van",
     "weight_lbs": 4871,
     "carrier_rate": 3500,
-    "updated_at": "2026-09-23T20:08:37.241836+00:00",
+    "updated_at": "2026-09-25T12:04:45.915689+00:00",
     "lane": "WINCHESTER KY-UXBRIDGE MA"
   },
   {
@@ -851,7 +851,7 @@
   },
   {
     "pro": "50501",
-    "status": "DELIVERED",
+    "status": "RELEASED",
     "pu_date": "2026-09-21",
     "pu_city": "MOUNT STERLING",
     "pu_state": "KY",
@@ -863,7 +863,7 @@
     "equipment": "Van",
     "weight_lbs": 13080,
     "carrier_rate": 4300,
-    "updated_at": "2026-09-24T14:42:39.459988+00:00",
+    "updated_at": "2026-09-25T12:04:43.918451+00:00",
     "lane": "MOUNT STERLING KY-MIRA LOMA CA"
   },
   {
