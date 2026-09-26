@@ -936,19 +936,19 @@
   },
   {
     "pro": "50529",
-    "status": "CONSIGNEE",
+    "status": "DELIVERED",
     "pu_date": "2026-09-25",
     "pu_city": "ATLANTA",
     "pu_state": "GA",
     "pu_hours": "1530",
-    "del_date": "2026-09-25",
+    "del_date": "2026-09-26",
     "del_city": "FOREST PARK",
     "del_state": "GA",
     "del_hours": "2200",
     "equipment": "Reefer",
     "weight_lbs": 33095,
     "carrier_rate": 580,
-    "updated_at": "2026-09-25T22:38:17.026960+00:00",
+    "updated_at": "2026-09-26T05:28:14.563219+00:00",
     "lane": "ATLANTA GA-FOREST PARK GA"
   },
   {
