@@ -40,14 +40,14 @@
     "pu_city": "BELCAMP",
     "pu_state": "MD",
     "pu_hours": "1500",
-    "del_date": "",
+    "del_date": "2026-09-29",
     "del_city": "KANSAS CITY",
     "del_state": "MO",
     "del_hours": "CALL!",
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 8000,
-    "carrier_rate": null,
-    "updated_at": "2026-09-28T16:08:11.007527+00:00",
+    "carrier_rate": 1700,
+    "updated_at": "2026-09-28T16:24:37.322987+00:00",
     "lane": "BELCAMP MD-KANSAS CITY MO"
   },
   {
@@ -63,8 +63,8 @@
     "del_hours": "CALL!",
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 8000,
-    "carrier_rate": null,
-    "updated_at": "2026-09-28T16:18:43.703364+00:00",
+    "carrier_rate": 1450,
+    "updated_at": "2026-09-28T16:22:40.957854+00:00",
     "lane": "BELCAMP MD-SAINT LOUIS MO"
   },
   {
@@ -829,7 +829,7 @@
     "equipment": "Van",
     "weight_lbs": 40124,
     "carrier_rate": 1300,
-    "updated_at": "2026-09-28T16:16:28.158845+00:00",
+    "updated_at": "2026-09-28T16:25:10.511158+00:00",
     "lane": "PENDERGRASS GA-ZEBULON NC"
   }
 ]
