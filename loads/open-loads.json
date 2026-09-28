@@ -39,7 +39,7 @@
     "pu_date": "2026-09-29",
     "pu_city": "WINCHESTER",
     "pu_state": "KY",
-    "pu_hours": "0800-1500",
+    "pu_hours": "0800-1400",
     "del_date": "2026-09-30",
     "del_city": "UXBRIDGE",
     "del_state": "MA",
@@ -47,7 +47,7 @@
     "equipment": "Van",
     "weight_lbs": 4871,
     "carrier_rate": 3500,
-    "updated_at": "2026-09-28T19:13:32.999077+00:00",
+    "updated_at": "2026-09-28T19:24:41.110945+00:00",
     "lane": "WINCHESTER KY-UXBRIDGE MA"
   },
   {
