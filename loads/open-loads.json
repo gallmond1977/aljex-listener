@@ -63,9 +63,26 @@
     "del_hours": "0700-1400",
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 8000,
-    "carrier_rate": 1500,
-    "updated_at": "2026-09-28T16:28:31.627907+00:00",
+    "carrier_rate": 1400,
+    "updated_at": "2026-09-28T16:33:46.289307+00:00",
     "lane": "BELCAMP MD-EAST MOLINE IL"
+  },
+  {
+    "pro": "50712",
+    "status": "OPEN",
+    "pu_date": "2026-09-28",
+    "pu_city": "MIAMI",
+    "pu_state": "FL",
+    "pu_hours": "1400",
+    "del_date": "2026-09-30",
+    "del_city": "CHARLOTTE",
+    "del_state": "NC",
+    "del_hours": "0800",
+    "equipment": "Flatbed w/ Tarps",
+    "weight_lbs": 48000,
+    "carrier_rate": 1700,
+    "updated_at": "2026-09-28T16:32:07.171047+00:00",
+    "lane": "MIAMI FL-CHARLOTTE NC"
   },
   {
     "pro": "50638",
