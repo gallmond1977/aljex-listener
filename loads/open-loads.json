@@ -34,23 +34,6 @@
     "lane": "OAKLAND TN-PHENIX CITY AL"
   },
   {
-    "pro": "50712",
-    "status": "OPEN",
-    "pu_date": "2026-09-28",
-    "pu_city": "MIAMI",
-    "pu_state": "FL",
-    "pu_hours": "1400",
-    "del_date": "2026-09-30",
-    "del_city": "CHARLOTTE",
-    "del_state": "NC",
-    "del_hours": "0800",
-    "equipment": "Flatbed w/ Tarps",
-    "weight_lbs": 48000,
-    "carrier_rate": 1700,
-    "updated_at": "2026-09-28T16:32:07.171047+00:00",
-    "lane": "MIAMI FL-CHARLOTTE NC"
-  },
-  {
     "pro": "50159",
     "status": "OPEN",
     "pu_date": "2026-09-29",
