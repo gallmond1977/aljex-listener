@@ -149,7 +149,7 @@
     "equipment": "Van",
     "weight_lbs": 4572,
     "carrier_rate": 5000,
-    "updated_at": "2026-09-28T12:04:25.367119+00:00",
+    "updated_at": "2026-09-28T13:29:02.506557+00:00",
     "lane": "WINCHESTER KY-HIALEAH FL"
   },
   {
@@ -914,7 +914,7 @@
     "equipment": "Flatbed w/ Tarps",
     "weight_lbs": 42000,
     "carrier_rate": 1300,
-    "updated_at": "2026-09-28T13:24:42.257802+00:00",
+    "updated_at": "2026-09-28T13:26:07.665845+00:00",
     "lane": "ALPHARETTA GA-ROCK HILL SC"
   },
   {
@@ -931,7 +931,7 @@
     "equipment": "Van",
     "weight_lbs": 43000,
     "carrier_rate": 1600,
-    "updated_at": "2026-09-28T13:22:55.072246+00:00",
+    "updated_at": "2026-09-28T13:25:39.959679+00:00",
     "lane": "VILLA RICA GA-RICHMOND VA"
   }
 ]
