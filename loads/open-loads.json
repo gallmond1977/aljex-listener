@@ -47,25 +47,25 @@
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 8000,
     "carrier_rate": 1700,
-    "updated_at": "2026-09-28T16:24:37.322987+00:00",
+    "updated_at": "2026-09-28T16:29:16.502383+00:00",
     "lane": "BELCAMP MD-KANSAS CITY MO"
   },
   {
-    "pro": "50711",
+    "pro": "50710",
     "status": "OPEN",
     "pu_date": "2026-09-28",
     "pu_city": "BELCAMP",
     "pu_state": "MD",
     "pu_hours": "1500",
     "del_date": "2026-09-29",
-    "del_city": "SAINT LOUIS",
-    "del_state": "MO",
-    "del_hours": "CALL!",
+    "del_city": "EAST MOLINE",
+    "del_state": "IL",
+    "del_hours": "0700-1400",
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 8000,
-    "carrier_rate": 1450,
-    "updated_at": "2026-09-28T16:22:40.957854+00:00",
-    "lane": "BELCAMP MD-SAINT LOUIS MO"
+    "carrier_rate": 1500,
+    "updated_at": "2026-09-28T16:28:31.627907+00:00",
+    "lane": "BELCAMP MD-EAST MOLINE IL"
   },
   {
     "pro": "50638",
@@ -204,21 +204,21 @@
     "lane": "CONOVER NC-KITTANNING PA"
   },
   {
-    "pro": "50710",
+    "pro": "50711",
     "status": "OPEN",
     "pu_date": "2026-09-29",
     "pu_city": "BELCAMP",
     "pu_state": "MD",
-    "pu_hours": "0700-1500",
+    "pu_hours": "1500",
     "del_date": "2026-09-30",
-    "del_city": "EAST MOLINE",
-    "del_state": "IL",
+    "del_city": "SAINT LOUIS",
+    "del_state": "MO",
     "del_hours": "CALL!",
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 8000,
-    "carrier_rate": null,
-    "updated_at": "2026-09-28T16:15:51.199656+00:00",
-    "lane": "BELCAMP MD-EAST MOLINE IL"
+    "carrier_rate": 1450,
+    "updated_at": "2026-09-28T16:28:53.745931+00:00",
+    "lane": "BELCAMP MD-SAINT LOUIS MO"
   },
   {
     "pro": "50405",
