@@ -81,7 +81,7 @@
     "equipment": "Flatbed w/ Tarps",
     "weight_lbs": 46401,
     "carrier_rate": 1000,
-    "updated_at": "2026-09-25T16:10:59.208762+00:00",
+    "updated_at": "2026-09-28T19:31:48.988227+00:00",
     "lane": "COLUMBUS GA-SANTA ROSA BEACH FL"
   },
   {
@@ -131,8 +131,8 @@
     "del_hours": "0700-1000",
     "equipment": "Van Hazmat",
     "weight_lbs": 44940,
-    "carrier_rate": 2200,
-    "updated_at": "2026-09-28T19:29:06.956176+00:00",
+    "carrier_rate": 2000,
+    "updated_at": "2026-09-28T19:33:09.531785+00:00",
     "lane": "OAKLAND TN-PHENIX CITY AL"
   },
   {
