@@ -29,8 +29,8 @@
     "del_hours": "0800",
     "equipment": "Flatbed",
     "weight_lbs": 48000,
-    "carrier_rate": 1600,
-    "updated_at": "2026-09-28T15:20:53.439531+00:00",
+    "carrier_rate": 1700,
+    "updated_at": "2026-09-28T15:35:15.266019+00:00",
     "lane": "MIAMI FL-CHARLOTTE NC"
   },
   {
@@ -64,7 +64,7 @@
     "equipment": "Van",
     "weight_lbs": 44500,
     "carrier_rate": 1700,
-    "updated_at": "2026-09-28T15:33:30.772351+00:00",
+    "updated_at": "2026-09-28T15:35:56.370230+00:00",
     "lane": "INDEPENDENCE MO-JACKSONVILLE TX"
   },
   {
