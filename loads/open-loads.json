@@ -175,7 +175,7 @@
     "pu_date": "2026-09-29",
     "pu_city": "PENDERGRASS",
     "pu_state": "GA",
-    "pu_hours": "",
+    "pu_hours": "1300",
     "del_date": "2026-09-30",
     "del_city": "ZEBULON",
     "del_state": "NC",
@@ -183,7 +183,7 @@
     "equipment": "Van",
     "weight_lbs": 40124,
     "carrier_rate": 1200,
-    "updated_at": "2026-09-28T14:48:50.468322+00:00",
+    "updated_at": "2026-09-28T15:05:55.473047+00:00",
     "lane": "PENDERGRASS GA-ZEBULON NC"
   },
   {
@@ -192,7 +192,7 @@
     "pu_date": "2026-09-29",
     "pu_city": "PENDERGRASS",
     "pu_state": "GA",
-    "pu_hours": "",
+    "pu_hours": "1430",
     "del_date": "2026-09-30",
     "del_city": "ZEBULON",
     "del_state": "NC",
@@ -200,7 +200,7 @@
     "equipment": "Van",
     "weight_lbs": 40124,
     "carrier_rate": 1200,
-    "updated_at": "2026-09-28T14:49:41.970531+00:00",
+    "updated_at": "2026-09-28T15:06:13.325028+00:00",
     "lane": "PENDERGRASS GA-ZEBULON NC"
   },
   {
