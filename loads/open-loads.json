@@ -98,7 +98,7 @@
     "equipment": "Van",
     "weight_lbs": 44500,
     "carrier_rate": 1500,
-    "updated_at": "2026-09-28T13:32:42.985199+00:00",
+    "updated_at": "2026-09-28T13:39:00.827888+00:00",
     "lane": "INDEPENDENCE MO-JACKSONVILLE TX"
   },
   {
@@ -306,6 +306,23 @@
     "lane": "CALHOUN GA-LINCOLNTON NC"
   },
   {
+    "pro": "50698",
+    "status": "OPEN",
+    "pu_date": "2026-09-29",
+    "pu_city": "CALHOUN",
+    "pu_state": "GA",
+    "pu_hours": "0800-1400",
+    "del_date": "2026-09-30",
+    "del_city": "RICHMOND",
+    "del_state": "VA",
+    "del_hours": "0700-1400",
+    "equipment": "Van",
+    "weight_lbs": 41800,
+    "carrier_rate": 2000,
+    "updated_at": "2026-09-28T13:35:12.045727+00:00",
+    "lane": "CALHOUN GA-RICHMOND VA"
+  },
+  {
     "pro": "50405",
     "status": "OPEN",
     "pu_date": "2026-09-30",
@@ -440,23 +457,6 @@
     "carrier_rate": 450,
     "updated_at": "2026-09-25T19:41:16.200766+00:00",
     "lane": "ATLANTA GA-DECATUR GA"
-  },
-  {
-    "pro": "50698",
-    "status": "OPEN",
-    "pu_date": "2026-09-30",
-    "pu_city": "CALHOUN",
-    "pu_state": "GA",
-    "pu_hours": "0800-1400",
-    "del_date": "2026-10-01",
-    "del_city": "RICHMOND",
-    "del_state": "VA",
-    "del_hours": "0700-1400",
-    "equipment": "Van",
-    "weight_lbs": 41800,
-    "carrier_rate": 2000,
-    "updated_at": "2026-09-25T18:44:23.783363+00:00",
-    "lane": "CALHOUN GA-RICHMOND VA"
   },
   {
     "pro": "50648",
