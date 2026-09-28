@@ -119,23 +119,6 @@
     "lane": "ROCK HILL SC-MOUNT PLEASANT SC"
   },
   {
-    "pro": "50695",
-    "status": "OPEN",
-    "pu_date": "2026-09-28",
-    "pu_city": "VILLA RICA",
-    "pu_state": "GA",
-    "pu_hours": "0800-1500",
-    "del_date": "2026-09-29",
-    "del_city": "RICHMOND",
-    "del_state": "VA",
-    "del_hours": "0800-1500",
-    "equipment": "Van",
-    "weight_lbs": 43000,
-    "carrier_rate": 1500,
-    "updated_at": "2026-09-25T18:06:34.403503+00:00",
-    "lane": "VILLA RICA GA-RICHMOND VA"
-  },
-  {
     "pro": "50696",
     "status": "OPEN",
     "pu_date": "2026-09-28",
@@ -931,7 +914,24 @@
     "equipment": "Flatbed w/ Tarps",
     "weight_lbs": 42000,
     "carrier_rate": 1300,
-    "updated_at": "2026-09-28T13:19:41.230087+00:00",
+    "updated_at": "2026-09-28T13:24:42.257802+00:00",
     "lane": "ALPHARETTA GA-ROCK HILL SC"
+  },
+  {
+    "pro": "50695",
+    "status": "COVERED",
+    "pu_date": "2026-09-28",
+    "pu_city": "VILLA RICA",
+    "pu_state": "GA",
+    "pu_hours": "0800-1500",
+    "del_date": "2026-09-29",
+    "del_city": "RICHMOND",
+    "del_state": "VA",
+    "del_hours": "0800-1500",
+    "equipment": "Van",
+    "weight_lbs": 43000,
+    "carrier_rate": 1600,
+    "updated_at": "2026-09-28T13:22:55.072246+00:00",
+    "lane": "VILLA RICA GA-RICHMOND VA"
   }
 ]
