@@ -85,23 +85,6 @@
     "lane": "WINCHESTER KY-UXBRIDGE MA"
   },
   {
-    "pro": "50667",
-    "status": "OPEN",
-    "pu_date": "2026-09-28",
-    "pu_city": "ALPHARETTA",
-    "pu_state": "GA",
-    "pu_hours": "0900-1600",
-    "del_date": "2026-09-29",
-    "del_city": "ROCK HILL",
-    "del_state": "SC",
-    "del_hours": "0800-1400",
-    "equipment": "Flatbed w/ Tarps",
-    "weight_lbs": 42000,
-    "carrier_rate": 1300,
-    "updated_at": "2026-09-25T18:54:40.886428+00:00",
-    "lane": "ALPHARETTA GA-ROCK HILL SC"
-  },
-  {
     "pro": "50678",
     "status": "OPEN",
     "pu_date": "2026-09-28",
@@ -933,5 +916,22 @@
     "carrier_rate": 450,
     "updated_at": "2026-09-25T19:24:24.716215+00:00",
     "lane": "ATLANTA GA-DECATUR GA"
+  },
+  {
+    "pro": "50667",
+    "status": "COVERED",
+    "pu_date": "2026-09-28",
+    "pu_city": "ALPHARETTA",
+    "pu_state": "GA",
+    "pu_hours": "0900-1600",
+    "del_date": "2026-09-29",
+    "del_city": "ROCK HILL",
+    "del_state": "SC",
+    "del_hours": "0800-1400",
+    "equipment": "Flatbed w/ Tarps",
+    "weight_lbs": 42000,
+    "carrier_rate": 1300,
+    "updated_at": "2026-09-28T13:19:41.230087+00:00",
+    "lane": "ALPHARETTA GA-ROCK HILL SC"
   }
 ]
