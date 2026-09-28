@@ -149,7 +149,7 @@
     "equipment": "Van Hazmat",
     "weight_lbs": 44940,
     "carrier_rate": 2200,
-    "updated_at": "2026-09-28T14:43:51.419500+00:00",
+    "updated_at": "2026-09-28T14:54:52.305622+00:00",
     "lane": "OAKLAND TN-PHENIX CITY AL"
   },
   {
@@ -863,7 +863,7 @@
     "equipment": "Reefer",
     "weight_lbs": 33095,
     "carrier_rate": 580,
-    "updated_at": "2026-09-26T05:28:14.563219+00:00",
+    "updated_at": "2026-09-28T14:54:54.928074+00:00",
     "lane": "ATLANTA GA-FOREST PARK GA"
   },
   {
