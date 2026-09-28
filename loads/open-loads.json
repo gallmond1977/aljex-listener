@@ -131,8 +131,8 @@
     "del_hours": "0800-1500",
     "equipment": "Van",
     "weight_lbs": 44500,
-    "carrier_rate": 1480,
-    "updated_at": "2026-09-24T18:26:02.791611+00:00",
+    "carrier_rate": 1500,
+    "updated_at": "2026-09-28T12:29:06.993190+00:00",
     "lane": "INDEPENDENCE MO-JACKSONVILLE TX"
   },
   {
@@ -168,23 +168,6 @@
     "carrier_rate": 800,
     "updated_at": "2026-09-28T12:24:41.897825+00:00",
     "lane": "GREER SC-THOMASTON GA"
-  },
-  {
-    "pro": "50690",
-    "status": "OPEN",
-    "pu_date": "2026-09-28",
-    "pu_city": "COLUMBIA",
-    "pu_state": "SC",
-    "pu_hours": "0800-1200",
-    "del_date": "2026-09-28",
-    "del_city": "RIDGEVILLE",
-    "del_state": "SC",
-    "del_hours": "",
-    "equipment": "Flatbed Hot Shot",
-    "weight_lbs": 9000,
-    "carrier_rate": 400,
-    "updated_at": "2026-09-25T20:35:18.073735+00:00",
-    "lane": "COLUMBIA SC-RIDGEVILLE SC"
   },
   {
     "pro": "50695",
