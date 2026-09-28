@@ -233,8 +233,8 @@
     "del_hours": "0700-1530",
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 8000,
-    "carrier_rate": 1450,
-    "updated_at": "2026-09-28T17:53:28.130124+00:00",
+    "carrier_rate": 1350,
+    "updated_at": "2026-09-28T18:05:05.664564+00:00",
     "lane": "BELCAMP MD-SAINT LOUIS MO"
   },
   {
@@ -885,7 +885,7 @@
   },
   {
     "pro": "50610",
-    "status": "PICKUP",
+    "status": "LOADED",
     "pu_date": "2026-09-28",
     "pu_city": "WINCHESTER",
     "pu_state": "KY",
@@ -897,7 +897,7 @@
     "equipment": "Van",
     "weight_lbs": 13083,
     "carrier_rate": 3800,
-    "updated_at": "2026-09-28T16:00:47.414192+00:00",
+    "updated_at": "2026-09-28T18:04:48.160485+00:00",
     "lane": "WINCHESTER KY-UXBRIDGE MA"
   },
   {
