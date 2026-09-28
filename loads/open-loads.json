@@ -102,23 +102,6 @@
     "lane": "INDEPENDENCE MO-JACKSONVILLE TX"
   },
   {
-    "pro": "50682",
-    "status": "OPEN",
-    "pu_date": "2026-09-28",
-    "pu_city": "ROCK HILL",
-    "pu_state": "SC",
-    "pu_hours": "0800-1500",
-    "del_date": "2026-09-29",
-    "del_city": "MOUNT PLEASANT",
-    "del_state": "SC",
-    "del_hours": "0800-1000",
-    "equipment": "Flatbed",
-    "weight_lbs": 24000,
-    "carrier_rate": 700,
-    "updated_at": "2026-09-28T13:57:01.966510+00:00",
-    "lane": "ROCK HILL SC-MOUNT PLEASANT SC"
-  },
-  {
     "pro": "50700",
     "status": "OPEN",
     "pu_date": "2026-09-28",
@@ -132,7 +115,7 @@
     "equipment": "Van",
     "weight_lbs": 4572,
     "carrier_rate": 5000,
-    "updated_at": "2026-09-28T14:19:45.423220+00:00",
+    "updated_at": "2026-09-28T14:20:33.994473+00:00",
     "lane": "WINCHESTER KY-HIALEAH FL"
   },
   {
@@ -914,7 +897,7 @@
     "equipment": "Flatbed w/ Tarps",
     "weight_lbs": 42000,
     "carrier_rate": 1300,
-    "updated_at": "2026-09-28T13:40:50.401041+00:00",
+    "updated_at": "2026-09-28T14:23:30.484213+00:00",
     "lane": "ALPHARETTA GA-ROCK HILL SC"
   }
 ]
