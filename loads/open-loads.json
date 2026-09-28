@@ -1,22 +1,5 @@
 [
   {
-    "pro": "50703",
-    "status": "OPEN",
-    "pu_date": "2026-09-28",
-    "pu_city": "OAKLAND",
-    "pu_state": "TN",
-    "pu_hours": "0800-1500",
-    "del_date": "2026-09-29",
-    "del_city": "PHENIX CITY",
-    "del_state": "AL",
-    "del_hours": "0700-1000",
-    "equipment": "Van Hazmat",
-    "weight_lbs": 44940,
-    "carrier_rate": 2200,
-    "updated_at": "2026-09-28T18:10:01.148341+00:00",
-    "lane": "OAKLAND TN-PHENIX CITY AL"
-  },
-  {
     "pro": "50159",
     "status": "OPEN",
     "pu_date": "2026-09-29",
@@ -134,6 +117,23 @@
     "carrier_rate": 5000,
     "updated_at": "2026-09-28T16:01:05.779350+00:00",
     "lane": "WINCHESTER KY-HIALEAH FL"
+  },
+  {
+    "pro": "50703",
+    "status": "OPEN",
+    "pu_date": "2026-09-29",
+    "pu_city": "OAKLAND",
+    "pu_state": "TN",
+    "pu_hours": "0800-1500",
+    "del_date": "2026-09-30",
+    "del_city": "PHENIX CITY",
+    "del_state": "AL",
+    "del_hours": "0700-1000",
+    "equipment": "Van Hazmat",
+    "weight_lbs": 44940,
+    "carrier_rate": 2200,
+    "updated_at": "2026-09-28T19:29:06.956176+00:00",
+    "lane": "OAKLAND TN-PHENIX CITY AL"
   },
   {
     "pro": "50709",
