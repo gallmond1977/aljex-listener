@@ -47,24 +47,7 @@
     "equipment": "Van",
     "weight_lbs": 42500,
     "carrier_rate": 2000,
-    "updated_at": "2026-09-25T18:39:42.940917+00:00",
-    "lane": "AUBURN AL-LA CROSSE WI"
-  },
-  {
-    "pro": "50601",
-    "status": "OPEN",
-    "pu_date": "2026-09-28",
-    "pu_city": "AUBURN",
-    "pu_state": "AL",
-    "pu_hours": "0800-1500",
-    "del_date": "2026-09-29",
-    "del_city": "LA CROSSE",
-    "del_state": "WI",
-    "del_hours": "0800-1500",
-    "equipment": "Van",
-    "weight_lbs": 42500,
-    "carrier_rate": 2000,
-    "updated_at": "2026-09-25T18:40:09.483238+00:00",
+    "updated_at": "2026-09-28T13:13:25.668954+00:00",
     "lane": "AUBURN AL-LA CROSSE WI"
   },
   {
