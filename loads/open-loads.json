@@ -234,7 +234,7 @@
     "equipment": "Van",
     "weight_lbs": 40124,
     "carrier_rate": 1200,
-    "updated_at": "2026-09-28T14:38:51.819984+00:00",
+    "updated_at": "2026-09-28T14:48:50.468322+00:00",
     "lane": "PENDERGRASS GA-ZEBULON NC"
   },
   {
@@ -251,7 +251,7 @@
     "equipment": "Van",
     "weight_lbs": 40124,
     "carrier_rate": 1200,
-    "updated_at": "2026-09-28T14:38:38.014795+00:00",
+    "updated_at": "2026-09-28T14:49:41.970531+00:00",
     "lane": "PENDERGRASS GA-ZEBULON NC"
   },
   {
@@ -304,6 +304,23 @@
     "carrier_rate": 2200,
     "updated_at": "2026-09-28T14:33:36.695296+00:00",
     "lane": "CALHOUN GA-RICHMOND VA"
+  },
+  {
+    "pro": "50705",
+    "status": "OPEN",
+    "pu_date": "2026-09-29",
+    "pu_city": "CONOVER",
+    "pu_state": "NC",
+    "pu_hours": "1200-1630",
+    "del_date": "2026-09-30",
+    "del_city": "KITTANNING",
+    "del_state": "PA",
+    "del_hours": "0800",
+    "equipment": "Van",
+    "weight_lbs": 20000,
+    "carrier_rate": null,
+    "updated_at": "2026-09-28T14:47:22.862100+00:00",
+    "lane": "CONOVER NC-KITTANNING PA"
   },
   {
     "pro": "50405",
