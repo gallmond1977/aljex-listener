@@ -311,7 +311,7 @@
     "pu_date": "2026-09-29",
     "pu_city": "CONOVER",
     "pu_state": "NC",
-    "pu_hours": "1200-1630",
+    "pu_hours": "0900-1500",
     "del_date": "2026-09-30",
     "del_city": "KITTANNING",
     "del_state": "PA",
@@ -319,7 +319,7 @@
     "equipment": "Van",
     "weight_lbs": 20000,
     "carrier_rate": null,
-    "updated_at": "2026-09-28T14:47:22.862100+00:00",
+    "updated_at": "2026-09-28T14:56:02.452234+00:00",
     "lane": "CONOVER NC-KITTANNING PA"
   },
   {
