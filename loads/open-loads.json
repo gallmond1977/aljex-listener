@@ -153,6 +153,23 @@
     "lane": "BELCAMP MD-SAINT LOUIS MO"
   },
   {
+    "pro": "50718",
+    "status": "OPEN",
+    "pu_date": "2026-09-29",
+    "pu_city": "AUBURN",
+    "pu_state": "AL",
+    "pu_hours": "0800-1500",
+    "del_date": "2026-09-30",
+    "del_city": "TAYLORS",
+    "del_state": "SC",
+    "del_hours": "",
+    "equipment": "26' Straight Box Truck",
+    "weight_lbs": 2655,
+    "carrier_rate": null,
+    "updated_at": "2026-09-28T21:03:41.170523+00:00",
+    "lane": "AUBURN AL-TAYLORS SC"
+  },
+  {
     "pro": "50405",
     "status": "OPEN",
     "pu_date": "2026-09-30",
