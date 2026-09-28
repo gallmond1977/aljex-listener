@@ -1,22 +1,5 @@
 [
   {
-    "pro": "50159",
-    "status": "OPEN",
-    "pu_date": "2026-09-28",
-    "pu_city": "ANNISTON",
-    "pu_state": "AL",
-    "pu_hours": "0800-1400",
-    "del_date": "",
-    "del_city": "RICHARDSON",
-    "del_state": "TX",
-    "del_hours": "",
-    "equipment": "26' Straight Box Truck",
-    "weight_lbs": 8000,
-    "carrier_rate": null,
-    "updated_at": "2026-09-24T19:52:03.212998+00:00",
-    "lane": "ANNISTON AL-RICHARDSON TX"
-  },
-  {
     "pro": "50612",
     "status": "OPEN",
     "pu_date": "2026-09-28",
@@ -47,7 +30,7 @@
     "equipment": "Van Hazmat",
     "weight_lbs": 44940,
     "carrier_rate": 2000,
-    "updated_at": "2026-09-28T17:15:09.391909+00:00",
+    "updated_at": "2026-09-28T17:16:17.266433+00:00",
     "lane": "OAKLAND TN-PHENIX CITY AL"
   },
   {
@@ -83,6 +66,23 @@
     "carrier_rate": 1700,
     "updated_at": "2026-09-28T16:32:07.171047+00:00",
     "lane": "MIAMI FL-CHARLOTTE NC"
+  },
+  {
+    "pro": "50159",
+    "status": "OPEN",
+    "pu_date": "2026-09-29",
+    "pu_city": "ANNISTON",
+    "pu_state": "AL",
+    "pu_hours": "0800-1400",
+    "del_date": "",
+    "del_city": "RICHARDSON",
+    "del_state": "TX",
+    "del_hours": "",
+    "equipment": "26' Straight Box Truck",
+    "weight_lbs": 8000,
+    "carrier_rate": null,
+    "updated_at": "2026-09-28T17:16:44.598904+00:00",
+    "lane": "ANNISTON AL-RICHARDSON TX"
   },
   {
     "pro": "50638",
