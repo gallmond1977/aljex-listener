@@ -136,23 +136,6 @@
     "lane": "WINCHESTER KY-HIALEAH FL"
   },
   {
-    "pro": "50705",
-    "status": "OPEN",
-    "pu_date": "2026-09-29",
-    "pu_city": "CONOVER",
-    "pu_state": "NC",
-    "pu_hours": "0900-1500",
-    "del_date": "2026-09-30",
-    "del_city": "KITTANNING",
-    "del_state": "PA",
-    "del_hours": "0800",
-    "equipment": "Van",
-    "weight_lbs": 20000,
-    "carrier_rate": 1400,
-    "updated_at": "2026-09-28T15:23:22.231569+00:00",
-    "lane": "CONOVER NC-KITTANNING PA"
-  },
-  {
     "pro": "50709",
     "status": "OPEN",
     "pu_date": "2026-09-29",
@@ -780,23 +763,6 @@
     "carrier_rate": 3800,
     "updated_at": "2026-09-28T18:04:48.160485+00:00",
     "lane": "WINCHESTER KY-UXBRIDGE MA"
-  },
-  {
-    "pro": "50704",
-    "status": "DISPATCHED",
-    "pu_date": "2026-09-28",
-    "pu_city": "CONOVER",
-    "pu_state": "NC",
-    "pu_hours": "1200-1630",
-    "del_date": "2026-09-29",
-    "del_city": "KITTANNING",
-    "del_state": "PA",
-    "del_hours": "0800",
-    "equipment": "Van",
-    "weight_lbs": 20000,
-    "carrier_rate": 1500,
-    "updated_at": "2026-09-28T18:39:10.304141+00:00",
-    "lane": "CONOVER NC-KITTANNING PA"
   },
   {
     "pro": "50683",
