@@ -17,23 +17,6 @@
     "lane": "ANNISTON AL-RICHARDSON TX"
   },
   {
-    "pro": "50466",
-    "status": "OPEN",
-    "pu_date": "2026-09-28",
-    "pu_city": "MIAMI",
-    "pu_state": "FL",
-    "pu_hours": "1400",
-    "del_date": "2026-09-30",
-    "del_city": "CHARLOTTE",
-    "del_state": "NC",
-    "del_hours": "0800",
-    "equipment": "Flatbed",
-    "weight_lbs": 48000,
-    "carrier_rate": 1700,
-    "updated_at": "2026-09-28T15:35:15.266019+00:00",
-    "lane": "MIAMI FL-CHARLOTTE NC"
-  },
-  {
     "pro": "50612",
     "status": "OPEN",
     "pu_date": "2026-09-28",
@@ -49,23 +32,6 @@
     "carrier_rate": 3500,
     "updated_at": "2026-09-25T12:53:13.195042+00:00",
     "lane": "WINCHESTER KY-UXBRIDGE MA"
-  },
-  {
-    "pro": "50678",
-    "status": "OPEN",
-    "pu_date": "2026-09-28",
-    "pu_city": "INDEPENDENCE",
-    "pu_state": "MO",
-    "pu_hours": "0700-1530",
-    "del_date": "2026-09-29",
-    "del_city": "JACKSONVILLE",
-    "del_state": "TX",
-    "del_hours": "0800-1500",
-    "equipment": "Van",
-    "weight_lbs": 44500,
-    "carrier_rate": 1700,
-    "updated_at": "2026-09-28T16:08:43.063850+00:00",
-    "lane": "INDEPENDENCE MO-JACKSONVILLE TX"
   },
   {
     "pro": "50709",
