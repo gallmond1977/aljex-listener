@@ -243,7 +243,7 @@
     "pu_date": "2026-09-30",
     "pu_city": "DALLAS",
     "pu_state": "NC",
-    "pu_hours": "CALL! 8-3",
+    "pu_hours": "0800-1500",
     "del_date": "2026-10-01",
     "del_city": "MUSCLE SHOALS",
     "del_state": "AL",
@@ -251,7 +251,7 @@
     "equipment": "Van",
     "weight_lbs": 44000,
     "carrier_rate": 1400,
-    "updated_at": "2026-09-10T18:57:31.885557+00:00",
+    "updated_at": "2026-09-28T16:56:59.398438+00:00",
     "lane": "DALLAS NC-MUSCLE SHOALS AL"
   },
   {
