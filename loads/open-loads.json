@@ -68,23 +68,6 @@
     "lane": "JACKSONVILLE TX-SUGARCREEK OH"
   },
   {
-    "pro": "50684",
-    "status": "OPEN",
-    "pu_date": "2026-09-29",
-    "pu_city": "PENDERGRASS",
-    "pu_state": "GA",
-    "pu_hours": "1430",
-    "del_date": "2026-09-30",
-    "del_city": "ZEBULON",
-    "del_state": "NC",
-    "del_hours": "0700-0900",
-    "equipment": "Van",
-    "weight_lbs": 40124,
-    "carrier_rate": 1200,
-    "updated_at": "2026-09-28T15:06:13.325028+00:00",
-    "lane": "PENDERGRASS GA-ZEBULON NC"
-  },
-  {
     "pro": "50692",
     "status": "OPEN",
     "pu_date": "2026-09-29",
@@ -166,7 +149,7 @@
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 2655,
     "carrier_rate": null,
-    "updated_at": "2026-09-28T21:11:16.558427+00:00",
+    "updated_at": "2026-09-28T21:16:13.211399+00:00",
     "lane": "AUBURN AL-TAYLORS SC"
   },
   {
@@ -629,23 +612,6 @@
     "lane": "LA PORTE TX-GREENVILLE SC"
   },
   {
-    "pro": "50547",
-    "status": "RELEASED",
-    "pu_date": "2026-09-18",
-    "pu_city": "PENDERGRASS",
-    "pu_state": "GA",
-    "pu_hours": "1000",
-    "del_date": "2026-09-21",
-    "del_city": "ZEBULON",
-    "del_state": "NC",
-    "del_hours": "0700-0900",
-    "equipment": "Van",
-    "weight_lbs": 40124,
-    "carrier_rate": 1300,
-    "updated_at": "2026-09-22T11:31:09.170656+00:00",
-    "lane": "PENDERGRASS GA-ZEBULON NC"
-  },
-  {
     "pro": "50378",
     "status": "RELEASED",
     "pu_date": "2026-09-21",
@@ -848,22 +814,5 @@
     "carrier_rate": 3800,
     "updated_at": "2026-09-28T18:04:48.160485+00:00",
     "lane": "WINCHESTER KY-UXBRIDGE MA"
-  },
-  {
-    "pro": "50683",
-    "status": "COVERED",
-    "pu_date": "2026-09-29",
-    "pu_city": "PENDERGRASS",
-    "pu_state": "GA",
-    "pu_hours": "1300",
-    "del_date": "2026-09-30",
-    "del_city": "ZEBULON",
-    "del_state": "NC",
-    "del_hours": "0700-0900",
-    "equipment": "Van",
-    "weight_lbs": 40124,
-    "carrier_rate": 1300,
-    "updated_at": "2026-09-28T16:25:10.511158+00:00",
-    "lane": "PENDERGRASS GA-ZEBULON NC"
   }
 ]
