@@ -90,7 +90,7 @@
     "pu_date": "2026-09-28",
     "pu_city": "ANAHEIM",
     "pu_state": "CA",
-    "pu_hours": "0900-1300",
+    "pu_hours": "1000-1300",
     "del_date": "2026-09-28",
     "del_city": "CERRITOS",
     "del_state": "CA",
@@ -98,7 +98,7 @@
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 1000,
     "carrier_rate": 200,
-    "updated_at": "2026-09-28T15:34:00.956285+00:00",
+    "updated_at": "2026-09-28T15:41:47.898832+00:00",
     "lane": "ANAHEIM CA-CERRITOS CA"
   },
   {
@@ -219,23 +219,6 @@
     "carrier_rate": 1100,
     "updated_at": "2026-09-28T12:42:01.163743+00:00",
     "lane": "CALHOUN GA-LINCOLNTON NC"
-  },
-  {
-    "pro": "50698",
-    "status": "OPEN",
-    "pu_date": "2026-09-29",
-    "pu_city": "CALHOUN",
-    "pu_state": "GA",
-    "pu_hours": "0800-1400",
-    "del_date": "2026-09-30",
-    "del_city": "RICHMOND",
-    "del_state": "VA",
-    "del_hours": "0700-1400",
-    "equipment": "Van",
-    "weight_lbs": 41800,
-    "carrier_rate": 2200,
-    "updated_at": "2026-09-28T14:33:36.695296+00:00",
-    "lane": "CALHOUN GA-RICHMOND VA"
   },
   {
     "pro": "50705",
