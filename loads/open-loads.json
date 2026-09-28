@@ -204,6 +204,23 @@
     "lane": "WINCHESTER KY-HIALEAH FL"
   },
   {
+    "pro": "50701",
+    "status": "OPEN",
+    "pu_date": "2026-09-28",
+    "pu_city": "ROME",
+    "pu_state": "GA",
+    "pu_hours": "0600-1200",
+    "del_date": "2026-09-29",
+    "del_city": "BELCAMP",
+    "del_state": "MD",
+    "del_hours": "0700-1500",
+    "equipment": "Flatbed w/ Tarps",
+    "weight_lbs": 40000,
+    "carrier_rate": null,
+    "updated_at": "2026-09-28T13:03:31.578609+00:00",
+    "lane": "ROME GA-BELCAMP MD"
+  },
+  {
     "pro": "50638",
     "status": "OPEN",
     "pu_date": "2026-09-29",
