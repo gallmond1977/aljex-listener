@@ -85,6 +85,23 @@
     "lane": "WINCHESTER KY-UXBRIDGE MA"
   },
   {
+    "pro": "50667",
+    "status": "OPEN",
+    "pu_date": "2026-09-28",
+    "pu_city": "ALPHARETTA",
+    "pu_state": "GA",
+    "pu_hours": "0900-1600",
+    "del_date": "2026-09-29",
+    "del_city": "ROCK HILL",
+    "del_state": "SC",
+    "del_hours": "0800-1400",
+    "equipment": "Flatbed w/ Tarps",
+    "weight_lbs": 42000,
+    "carrier_rate": 1300,
+    "updated_at": "2026-09-28T14:27:28.831561+00:00",
+    "lane": "ALPHARETTA GA-ROCK HILL SC"
+  },
+  {
     "pro": "50678",
     "status": "OPEN",
     "pu_date": "2026-09-28",
@@ -151,23 +168,6 @@
     "carrier_rate": 1000,
     "updated_at": "2026-09-23T15:10:16.912446+00:00",
     "lane": "SHILOH OH-HENDERSONVILLE NC"
-  },
-  {
-    "pro": "50668",
-    "status": "OPEN",
-    "pu_date": "2026-09-29",
-    "pu_city": "ALPHARETTA",
-    "pu_state": "GA",
-    "pu_hours": "0900-1600",
-    "del_date": "2026-09-30",
-    "del_city": "ROCK HILL",
-    "del_state": "SC",
-    "del_hours": "0800-1400",
-    "equipment": "Flatbed w/ Tarps",
-    "weight_lbs": 42000,
-    "carrier_rate": 1300,
-    "updated_at": "2026-09-28T12:44:50.464123+00:00",
-    "lane": "ALPHARETTA GA-ROCK HILL SC"
   },
   {
     "pro": "50670",
@@ -800,7 +800,7 @@
   },
   {
     "pro": "50646",
-    "status": "DELIVERED",
+    "status": "RELEASED",
     "pu_date": "2026-09-24",
     "pu_city": "CHESTER",
     "pu_state": "VA",
@@ -812,7 +812,7 @@
     "equipment": "Van",
     "weight_lbs": 44000,
     "carrier_rate": 1950,
-    "updated_at": "2026-09-25T17:56:22.186612+00:00",
+    "updated_at": "2026-09-28T14:26:11.832318+00:00",
     "lane": "CHESTER VA-OWENSBORO KY"
   },
   {
@@ -884,20 +884,20 @@
     "lane": "WINCHESTER KY-UXBRIDGE MA"
   },
   {
-    "pro": "50667",
+    "pro": "50668",
     "status": "COVERED",
-    "pu_date": "2026-09-28",
+    "pu_date": "2026-09-29",
     "pu_city": "ALPHARETTA",
     "pu_state": "GA",
     "pu_hours": "0900-1600",
-    "del_date": "2026-09-29",
+    "del_date": "2026-09-30",
     "del_city": "ROCK HILL",
     "del_state": "SC",
     "del_hours": "0800-1400",
     "equipment": "Flatbed w/ Tarps",
     "weight_lbs": 42000,
     "carrier_rate": 1300,
-    "updated_at": "2026-09-28T14:23:30.484213+00:00",
+    "updated_at": "2026-09-28T14:29:11.728095+00:00",
     "lane": "ALPHARETTA GA-ROCK HILL SC"
   }
 ]
