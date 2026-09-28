@@ -29,8 +29,8 @@
     "del_hours": "0800",
     "equipment": "Flatbed",
     "weight_lbs": 48000,
-    "carrier_rate": 1500,
-    "updated_at": "2026-09-18T19:46:11.856747+00:00",
+    "carrier_rate": 1600,
+    "updated_at": "2026-09-28T15:20:53.439531+00:00",
     "lane": "MIAMI FL-CHARLOTTE NC"
   },
   {
@@ -85,23 +85,6 @@
     "lane": "WINCHESTER KY-HIALEAH FL"
   },
   {
-    "pro": "50701",
-    "status": "OPEN",
-    "pu_date": "2026-09-28",
-    "pu_city": "ROME",
-    "pu_state": "GA",
-    "pu_hours": "2200",
-    "del_date": "2026-09-29",
-    "del_city": "BELCAMP",
-    "del_state": "MD",
-    "del_hours": "0700-1500",
-    "equipment": "Flatbed w/ Tarps",
-    "weight_lbs": 40000,
-    "carrier_rate": 3400,
-    "updated_at": "2026-09-28T15:18:08.896839+00:00",
-    "lane": "ROME GA-BELCAMP MD"
-  },
-  {
     "pro": "50706",
     "status": "OPEN",
     "pu_date": "2026-09-28",
@@ -115,7 +98,7 @@
     "equipment": "Flatbed w/ Tarps",
     "weight_lbs": 37600,
     "carrier_rate": 1700,
-    "updated_at": "2026-09-28T15:19:33.629848+00:00",
+    "updated_at": "2026-09-28T15:21:34.055530+00:00",
     "lane": "SAVANNAH GA-WINSTON SALEM NC"
   },
   {
@@ -267,8 +250,8 @@
     "del_hours": "0800",
     "equipment": "Van",
     "weight_lbs": 20000,
-    "carrier_rate": null,
-    "updated_at": "2026-09-28T14:56:02.452234+00:00",
+    "carrier_rate": 1400,
+    "updated_at": "2026-09-28T15:23:22.231569+00:00",
     "lane": "CONOVER NC-KITTANNING PA"
   },
   {
@@ -277,15 +260,15 @@
     "pu_date": "2026-09-29",
     "pu_city": "UNION CITY",
     "pu_state": "GA",
-    "pu_hours": "0800-1030",
+    "pu_hours": "1000",
     "del_date": "2026-09-30",
     "del_city": "HOUSTON",
     "del_state": "TX",
     "del_hours": "0600-1500",
-    "equipment": "26' Straight Box Truck",
-    "weight_lbs": 8000,
+    "equipment": "Sprinter Van",
+    "weight_lbs": 2500,
     "carrier_rate": 1000,
-    "updated_at": "2026-09-28T15:20:09.894755+00:00",
+    "updated_at": "2026-09-28T15:21:55.288556+00:00",
     "lane": "UNION CITY GA-HOUSTON TX"
   },
   {
