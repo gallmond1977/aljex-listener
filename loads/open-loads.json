@@ -51,6 +51,23 @@
     "lane": "BELCAMP MD-KANSAS CITY MO"
   },
   {
+    "pro": "50711",
+    "status": "OPEN",
+    "pu_date": "2026-09-28",
+    "pu_city": "BELCAMP",
+    "pu_state": "MD",
+    "pu_hours": "1500",
+    "del_date": "2026-09-29",
+    "del_city": "SAINT LOUIS",
+    "del_state": "MO",
+    "del_hours": "CALL!",
+    "equipment": "26' Straight Box Truck",
+    "weight_lbs": 8000,
+    "carrier_rate": null,
+    "updated_at": "2026-09-28T16:18:43.703364+00:00",
+    "lane": "BELCAMP MD-SAINT LOUIS MO"
+  },
+  {
     "pro": "50638",
     "status": "OPEN",
     "pu_date": "2026-09-29",
@@ -185,6 +202,23 @@
     "carrier_rate": 1400,
     "updated_at": "2026-09-28T15:23:22.231569+00:00",
     "lane": "CONOVER NC-KITTANNING PA"
+  },
+  {
+    "pro": "50710",
+    "status": "OPEN",
+    "pu_date": "2026-09-29",
+    "pu_city": "BELCAMP",
+    "pu_state": "MD",
+    "pu_hours": "0700-1500",
+    "del_date": "2026-09-30",
+    "del_city": "EAST MOLINE",
+    "del_state": "IL",
+    "del_hours": "CALL!",
+    "equipment": "26' Straight Box Truck",
+    "weight_lbs": 8000,
+    "carrier_rate": null,
+    "updated_at": "2026-09-28T16:15:51.199656+00:00",
+    "lane": "BELCAMP MD-EAST MOLINE IL"
   },
   {
     "pro": "50405",
@@ -795,7 +829,7 @@
     "equipment": "Van",
     "weight_lbs": 40124,
     "carrier_rate": 1300,
-    "updated_at": "2026-09-28T16:09:18.953961+00:00",
+    "updated_at": "2026-09-28T16:16:28.158845+00:00",
     "lane": "PENDERGRASS GA-ZEBULON NC"
   }
 ]
