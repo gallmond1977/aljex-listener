@@ -221,23 +221,6 @@
     "lane": "BELCAMP MD-SAINT LOUIS MO"
   },
   {
-    "pro": "50713",
-    "status": "OPEN",
-    "pu_date": "2026-09-29",
-    "pu_city": "CUMMING",
-    "pu_state": "GA",
-    "pu_hours": "2100",
-    "del_date": "2026-09-30",
-    "del_city": "CANON",
-    "del_state": "GA",
-    "del_hours": "0600",
-    "equipment": "Reefer",
-    "weight_lbs": 39600,
-    "carrier_rate": 900,
-    "updated_at": "2026-09-28T16:48:49.494395+00:00",
-    "lane": "CUMMING GA-CANON GA"
-  },
-  {
     "pro": "50405",
     "status": "OPEN",
     "pu_date": "2026-09-30",
@@ -372,6 +355,23 @@
     "carrier_rate": 450,
     "updated_at": "2026-09-25T19:41:16.200766+00:00",
     "lane": "ATLANTA GA-DECATUR GA"
+  },
+  {
+    "pro": "50714",
+    "status": "OPEN",
+    "pu_date": "2026-09-30",
+    "pu_city": "RICHMOND",
+    "pu_state": "VA",
+    "pu_hours": "0700-0730",
+    "del_date": "2026-09-30",
+    "del_city": "PRINCE FREDERICK",
+    "del_state": "MD",
+    "del_hours": "CALL!",
+    "equipment": "26' Straight Box Truck",
+    "weight_lbs": 1425,
+    "carrier_rate": 250,
+    "updated_at": "2026-09-28T18:19:30.219761+00:00",
+    "lane": "RICHMOND VA-PRINCE FREDERICK MD"
   },
   {
     "pro": "50648",
@@ -629,23 +629,6 @@
     "lane": "PENDERGRASS GA-ZEBULON NC"
   },
   {
-    "pro": "50555",
-    "status": "RELEASED",
-    "pu_date": "2026-09-18",
-    "pu_city": "CUMMING",
-    "pu_state": "GA",
-    "pu_hours": "1100",
-    "del_date": "2026-09-21",
-    "del_city": "CANON",
-    "del_state": "GA",
-    "del_hours": "0600",
-    "equipment": "Reefer",
-    "weight_lbs": 1800,
-    "carrier_rate": 1250,
-    "updated_at": "2026-09-21T20:01:15.957415+00:00",
-    "lane": "CUMMING GA-CANON GA"
-  },
-  {
     "pro": "50378",
     "status": "RELEASED",
     "pu_date": "2026-09-21",
@@ -695,23 +678,6 @@
     "carrier_rate": 4300,
     "updated_at": "2026-09-25T12:04:43.918451+00:00",
     "lane": "MOUNT STERLING KY-MIRA LOMA CA"
-  },
-  {
-    "pro": "50599",
-    "status": "RELEASED",
-    "pu_date": "2026-09-22",
-    "pu_city": "CUMMING",
-    "pu_state": "GA",
-    "pu_hours": "2100",
-    "del_date": "2026-09-23",
-    "del_city": "CANON",
-    "del_state": "GA",
-    "del_hours": "0600",
-    "equipment": "Reefer",
-    "weight_lbs": 39600,
-    "carrier_rate": 1000,
-    "updated_at": "2026-09-24T11:50:18.009443+00:00",
-    "lane": "CUMMING GA-CANON GA"
   },
   {
     "pro": "50524",
@@ -782,23 +748,6 @@
     "lane": "CHESTER VA-OWENSBORO KY"
   },
   {
-    "pro": "50654",
-    "status": "RELEASED",
-    "pu_date": "2026-09-24",
-    "pu_city": "CUMMING",
-    "pu_state": "GA",
-    "pu_hours": "2100",
-    "del_date": "2026-09-25",
-    "del_city": "CANON",
-    "del_state": "GA",
-    "del_hours": "0600",
-    "equipment": "Reefer",
-    "weight_lbs": 39600,
-    "carrier_rate": 900,
-    "updated_at": "2026-09-25T19:34:33.301646+00:00",
-    "lane": "CUMMING GA-CANON GA"
-  },
-  {
     "pro": "50669",
     "status": "DELIVERED",
     "pu_date": "2026-09-24",
@@ -848,23 +797,6 @@
     "carrier_rate": 450,
     "updated_at": "2026-09-25T19:24:24.716215+00:00",
     "lane": "ATLANTA GA-DECATUR GA"
-  },
-  {
-    "pro": "50674",
-    "status": "RELEASED",
-    "pu_date": "2026-09-25",
-    "pu_city": "CUMMING",
-    "pu_state": "GA",
-    "pu_hours": "1900",
-    "del_date": "2026-09-28",
-    "del_city": "CANON",
-    "del_state": "GA",
-    "del_hours": "0600",
-    "equipment": "Reefer",
-    "weight_lbs": 39600,
-    "carrier_rate": 1100,
-    "updated_at": "2026-09-28T14:42:19.586299+00:00",
-    "lane": "CUMMING GA-CANON GA"
   },
   {
     "pro": "50610",
