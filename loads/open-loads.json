@@ -34,6 +34,23 @@
     "lane": "MIAMI FL-CHARLOTTE NC"
   },
   {
+    "pro": "50589",
+    "status": "OPEN",
+    "pu_date": "2026-09-28",
+    "pu_city": "WINCHESTER",
+    "pu_state": "KY",
+    "pu_hours": "0800-1500",
+    "del_date": "2026-09-30",
+    "del_city": "ST CHARLES",
+    "del_state": "ON",
+    "del_hours": "0800",
+    "equipment": "Van",
+    "weight_lbs": 5000,
+    "carrier_rate": 1500,
+    "updated_at": "2026-09-28T13:49:52.154902+00:00",
+    "lane": "WINCHESTER KY-ST CHARLES ON"
+  },
+  {
     "pro": "50600",
     "status": "OPEN",
     "pu_date": "2026-09-28",
@@ -166,7 +183,7 @@
     "equipment": "Flatbed",
     "weight_lbs": 31929,
     "carrier_rate": 400,
-    "updated_at": "2026-09-28T13:45:07.244425+00:00",
+    "updated_at": "2026-09-28T13:45:49.642802+00:00",
     "lane": "ATLANTA GA-CANTON GA"
   },
   {
@@ -914,7 +931,7 @@
     "equipment": "Van",
     "weight_lbs": 13083,
     "carrier_rate": 3800,
-    "updated_at": "2026-09-28T13:44:17.280769+00:00",
+    "updated_at": "2026-09-28T13:45:34.023144+00:00",
     "lane": "WINCHESTER KY-UXBRIDGE MA"
   },
   {
