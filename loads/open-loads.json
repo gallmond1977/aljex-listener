@@ -51,23 +51,6 @@
     "lane": "AUBURN AL-LA CROSSE WI"
   },
   {
-    "pro": "50610",
-    "status": "OPEN",
-    "pu_date": "2026-09-28",
-    "pu_city": "WINCHESTER",
-    "pu_state": "KY",
-    "pu_hours": "0800-1500",
-    "del_date": "2026-09-30",
-    "del_city": "UXBRIDGE",
-    "del_state": "MA",
-    "del_hours": "1700",
-    "equipment": "Van",
-    "weight_lbs": 13083,
-    "carrier_rate": 3500,
-    "updated_at": "2026-09-25T12:55:59.716193+00:00",
-    "lane": "WINCHESTER KY-UXBRIDGE MA"
-  },
-  {
     "pro": "50612",
     "status": "OPEN",
     "pu_date": "2026-09-28",
@@ -168,6 +151,23 @@
     "carrier_rate": 3400,
     "updated_at": "2026-09-28T13:10:14.214470+00:00",
     "lane": "ROME GA-BELCAMP MD"
+  },
+  {
+    "pro": "50702",
+    "status": "OPEN",
+    "pu_date": "2026-09-28",
+    "pu_city": "ATLANTA",
+    "pu_state": "GA",
+    "pu_hours": "0900-1400",
+    "del_date": "2026-09-28",
+    "del_city": "CANTON",
+    "del_state": "GA",
+    "del_hours": "0700-1600",
+    "equipment": "Flatbed",
+    "weight_lbs": 31929,
+    "carrier_rate": 400,
+    "updated_at": "2026-09-28T13:45:07.244425+00:00",
+    "lane": "ATLANTA GA-CANTON GA"
   },
   {
     "pro": "50638",
@@ -901,6 +901,23 @@
     "lane": "ATLANTA GA-DECATUR GA"
   },
   {
+    "pro": "50610",
+    "status": "COVERED",
+    "pu_date": "2026-09-28",
+    "pu_city": "WINCHESTER",
+    "pu_state": "KY",
+    "pu_hours": "0800-1500",
+    "del_date": "2026-09-30",
+    "del_city": "UXBRIDGE",
+    "del_state": "MA",
+    "del_hours": "1700",
+    "equipment": "Van",
+    "weight_lbs": 13083,
+    "carrier_rate": 3800,
+    "updated_at": "2026-09-28T13:44:17.280769+00:00",
+    "lane": "WINCHESTER KY-UXBRIDGE MA"
+  },
+  {
     "pro": "50667",
     "status": "COVERED",
     "pu_date": "2026-09-28",
@@ -914,7 +931,7 @@
     "equipment": "Flatbed w/ Tarps",
     "weight_lbs": 42000,
     "carrier_rate": 1300,
-    "updated_at": "2026-09-28T13:26:07.665845+00:00",
+    "updated_at": "2026-09-28T13:40:50.401041+00:00",
     "lane": "ALPHARETTA GA-ROCK HILL SC"
   },
   {
