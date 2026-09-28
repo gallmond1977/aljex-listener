@@ -51,23 +51,6 @@
     "lane": "ANNISTON AL-RICHARDSON TX"
   },
   {
-    "pro": "50670",
-    "status": "OPEN",
-    "pu_date": "2026-09-29",
-    "pu_city": "ALPHARETTA",
-    "pu_state": "GA",
-    "pu_hours": "0900-1600",
-    "del_date": "2026-09-30",
-    "del_city": "MARSHALL",
-    "del_state": "VA",
-    "del_hours": "0800-1500",
-    "equipment": "Flatbed w/ Tarps",
-    "weight_lbs": 42000,
-    "carrier_rate": 2500,
-    "updated_at": "2026-09-25T13:47:13.487457+00:00",
-    "lane": "ALPHARETTA GA-MARSHALL VA"
-  },
-  {
     "pro": "50679",
     "status": "OPEN",
     "pu_date": "2026-09-29",
