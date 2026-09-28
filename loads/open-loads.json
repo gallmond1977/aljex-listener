@@ -63,8 +63,8 @@
     "del_hours": "0800-1500",
     "equipment": "Van",
     "weight_lbs": 44500,
-    "carrier_rate": 1600,
-    "updated_at": "2026-09-28T14:15:33.781997+00:00",
+    "carrier_rate": 1700,
+    "updated_at": "2026-09-28T15:33:30.772351+00:00",
     "lane": "INDEPENDENCE MO-JACKSONVILLE TX"
   },
   {
@@ -85,21 +85,21 @@
     "lane": "WINCHESTER KY-HIALEAH FL"
   },
   {
-    "pro": "50706",
+    "pro": "50708",
     "status": "OPEN",
     "pu_date": "2026-09-28",
-    "pu_city": "SAVANNAH",
-    "pu_state": "GA",
-    "pu_hours": "0800-1400",
-    "del_date": "2026-09-29",
-    "del_city": "WINSTON SALEM",
-    "del_state": "NC",
-    "del_hours": "0800-1000",
-    "equipment": "Flatbed w/ Tarps",
-    "weight_lbs": 37600,
-    "carrier_rate": 1700,
-    "updated_at": "2026-09-28T15:21:34.055530+00:00",
-    "lane": "SAVANNAH GA-WINSTON SALEM NC"
+    "pu_city": "ANAHEIM",
+    "pu_state": "CA",
+    "pu_hours": "0900-1300",
+    "del_date": "2026-09-28",
+    "del_city": "CERRITOS",
+    "del_state": "CA",
+    "del_hours": "0800-1500",
+    "equipment": "26' Straight Box Truck",
+    "weight_lbs": 1000,
+    "carrier_rate": 200,
+    "updated_at": "2026-09-28T15:34:00.956285+00:00",
+    "lane": "ANAHEIM CA-CERRITOS CA"
   },
   {
     "pro": "50638",
@@ -253,23 +253,6 @@
     "carrier_rate": 1400,
     "updated_at": "2026-09-28T15:23:22.231569+00:00",
     "lane": "CONOVER NC-KITTANNING PA"
-  },
-  {
-    "pro": "50707",
-    "status": "OPEN",
-    "pu_date": "2026-09-29",
-    "pu_city": "UNION CITY",
-    "pu_state": "GA",
-    "pu_hours": "1000",
-    "del_date": "2026-09-30",
-    "del_city": "HOUSTON",
-    "del_state": "TX",
-    "del_hours": "0600-1500",
-    "equipment": "Sprinter Van",
-    "weight_lbs": 2500,
-    "carrier_rate": 1000,
-    "updated_at": "2026-09-28T15:29:09.303284+00:00",
-    "lane": "UNION CITY GA-HOUSTON TX"
   },
   {
     "pro": "50405",
@@ -746,23 +729,6 @@
     "carrier_rate": 3800,
     "updated_at": "2026-09-28T11:35:23.659316+00:00",
     "lane": "WINCHESTER KY-UXBRIDGE MA"
-  },
-  {
-    "pro": "50623",
-    "status": "RELEASED",
-    "pu_date": "2026-09-23",
-    "pu_city": "UNION CITY",
-    "pu_state": "GA",
-    "pu_hours": "0800-1030",
-    "del_date": "2026-09-24",
-    "del_city": "HOUSTON",
-    "del_state": "TX",
-    "del_hours": "0800-1500",
-    "equipment": "26' Straight Box Truck",
-    "weight_lbs": 8000,
-    "carrier_rate": 1400,
-    "updated_at": "2026-09-24T12:04:32.387602+00:00",
-    "lane": "UNION CITY GA-HOUSTON TX"
   },
   {
     "pro": "50644",
