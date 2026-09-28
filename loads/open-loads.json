@@ -90,7 +90,7 @@
     "pu_date": "2026-09-28",
     "pu_city": "ROME",
     "pu_state": "GA",
-    "pu_hours": "0600-1200",
+    "pu_hours": "2200",
     "del_date": "2026-09-29",
     "del_city": "BELCAMP",
     "del_state": "MD",
@@ -98,7 +98,7 @@
     "equipment": "Flatbed w/ Tarps",
     "weight_lbs": 40000,
     "carrier_rate": 3400,
-    "updated_at": "2026-09-28T13:10:14.214470+00:00",
+    "updated_at": "2026-09-28T15:18:08.896839+00:00",
     "lane": "ROME GA-BELCAMP MD"
   },
   {
@@ -115,7 +115,7 @@
     "equipment": "Flatbed w/ Tarps",
     "weight_lbs": 37600,
     "carrier_rate": 1700,
-    "updated_at": "2026-09-28T15:14:17.515367+00:00",
+    "updated_at": "2026-09-28T15:19:33.629848+00:00",
     "lane": "SAVANNAH GA-WINSTON SALEM NC"
   },
   {
@@ -270,6 +270,23 @@
     "carrier_rate": null,
     "updated_at": "2026-09-28T14:56:02.452234+00:00",
     "lane": "CONOVER NC-KITTANNING PA"
+  },
+  {
+    "pro": "50707",
+    "status": "OPEN",
+    "pu_date": "2026-09-29",
+    "pu_city": "UNION CITY",
+    "pu_state": "GA",
+    "pu_hours": "0800-1030",
+    "del_date": "2026-09-30",
+    "del_city": "HOUSTON",
+    "del_state": "TX",
+    "del_hours": "0600-1500",
+    "equipment": "26' Straight Box Truck",
+    "weight_lbs": 8000,
+    "carrier_rate": 1000,
+    "updated_at": "2026-09-28T15:20:09.894755+00:00",
+    "lane": "UNION CITY GA-HOUSTON TX"
   },
   {
     "pro": "50405",
@@ -746,6 +763,23 @@
     "carrier_rate": 3800,
     "updated_at": "2026-09-28T11:35:23.659316+00:00",
     "lane": "WINCHESTER KY-UXBRIDGE MA"
+  },
+  {
+    "pro": "50623",
+    "status": "RELEASED",
+    "pu_date": "2026-09-23",
+    "pu_city": "UNION CITY",
+    "pu_state": "GA",
+    "pu_hours": "0800-1030",
+    "del_date": "2026-09-24",
+    "del_city": "HOUSTON",
+    "del_state": "TX",
+    "del_hours": "0800-1500",
+    "equipment": "26' Straight Box Truck",
+    "weight_lbs": 8000,
+    "carrier_rate": 1400,
+    "updated_at": "2026-09-24T12:04:32.387602+00:00",
+    "lane": "UNION CITY GA-HOUSTON TX"
   },
   {
     "pro": "50644",
