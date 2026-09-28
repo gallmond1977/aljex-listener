@@ -102,23 +102,6 @@
     "lane": "COLUMBUS GA-SANTA ROSA BEACH FL"
   },
   {
-    "pro": "50697",
-    "status": "OPEN",
-    "pu_date": "2026-09-29",
-    "pu_city": "CALHOUN",
-    "pu_state": "GA",
-    "pu_hours": "0800-1430",
-    "del_date": "2026-09-30",
-    "del_city": "LINCOLNTON",
-    "del_state": "NC",
-    "del_hours": "0700-1500",
-    "equipment": "Van",
-    "weight_lbs": 42000,
-    "carrier_rate": 1100,
-    "updated_at": "2026-09-28T20:04:36.771185+00:00",
-    "lane": "CALHOUN GA-LINCOLNTON NC"
-  },
-  {
     "pro": "50703",
     "status": "OPEN",
     "pu_date": "2026-09-29",
@@ -763,23 +746,6 @@
     "carrier_rate": 2000,
     "updated_at": "2026-09-25T15:01:43.263340+00:00",
     "lane": "EL DORADO AR-CALHOUN GA"
-  },
-  {
-    "pro": "50644",
-    "status": "RELEASED",
-    "pu_date": "2026-09-24",
-    "pu_city": "CALHOUN",
-    "pu_state": "GA",
-    "pu_hours": "0800-1430",
-    "del_date": "2026-09-24",
-    "del_city": "LINCOLNTON",
-    "del_state": "NC",
-    "del_hours": "0700-1500",
-    "equipment": "Van",
-    "weight_lbs": 41000,
-    "carrier_rate": 1300,
-    "updated_at": "2026-09-28T14:35:20.111264+00:00",
-    "lane": "CALHOUN GA-LINCOLNTON NC"
   },
   {
     "pro": "50646",
