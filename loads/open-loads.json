@@ -115,7 +115,7 @@
     "equipment": "Flatbed",
     "weight_lbs": 24000,
     "carrier_rate": 700,
-    "updated_at": "2026-09-28T13:51:20.837259+00:00",
+    "updated_at": "2026-09-28T13:57:01.966510+00:00",
     "lane": "ROCK HILL SC-MOUNT PLEASANT SC"
   },
   {
@@ -919,7 +919,7 @@
   },
   {
     "pro": "50610",
-    "status": "COVERED",
+    "status": "DISPATCHED",
     "pu_date": "2026-09-28",
     "pu_city": "WINCHESTER",
     "pu_state": "KY",
@@ -931,7 +931,7 @@
     "equipment": "Van",
     "weight_lbs": 13083,
     "carrier_rate": 3800,
-    "updated_at": "2026-09-28T13:45:34.023144+00:00",
+    "updated_at": "2026-09-28T13:59:27.751481+00:00",
     "lane": "WINCHESTER KY-UXBRIDGE MA"
   },
   {
