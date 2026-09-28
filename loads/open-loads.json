@@ -30,7 +30,7 @@
     "equipment": "Van Hazmat",
     "weight_lbs": 44940,
     "carrier_rate": 2200,
-    "updated_at": "2026-09-28T17:35:50.928738+00:00",
+    "updated_at": "2026-09-28T17:54:17.363022+00:00",
     "lane": "OAKLAND TN-PHENIX CITY AL"
   },
   {
@@ -226,15 +226,15 @@
     "pu_date": "2026-09-29",
     "pu_city": "BELCAMP",
     "pu_state": "MD",
-    "pu_hours": "1500",
+    "pu_hours": "0700-1500",
     "del_date": "2026-09-30",
     "del_city": "SAINT LOUIS",
     "del_state": "MO",
-    "del_hours": "CALL!",
+    "del_hours": "0700-1530",
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 8000,
     "carrier_rate": 1450,
-    "updated_at": "2026-09-28T16:28:53.745931+00:00",
+    "updated_at": "2026-09-28T17:53:28.130124+00:00",
     "lane": "BELCAMP MD-SAINT LOUIS MO"
   },
   {
