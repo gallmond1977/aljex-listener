@@ -153,23 +153,6 @@
     "lane": "ROCK HILL SC-MOUNT PLEASANT SC"
   },
   {
-    "pro": "50686",
-    "status": "OPEN",
-    "pu_date": "2026-09-28",
-    "pu_city": "GREER",
-    "pu_state": "SC",
-    "pu_hours": "0700-1500",
-    "del_date": "2026-09-29",
-    "del_city": "THOMASTON",
-    "del_state": "GA",
-    "del_hours": "0800-1500",
-    "equipment": "Van",
-    "weight_lbs": 12725,
-    "carrier_rate": 800,
-    "updated_at": "2026-09-28T12:44:32.645270+00:00",
-    "lane": "GREER SC-THOMASTON GA"
-  },
-  {
     "pro": "50695",
     "status": "OPEN",
     "pu_date": "2026-09-28",
