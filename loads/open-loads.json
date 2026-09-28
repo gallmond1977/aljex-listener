@@ -64,8 +64,25 @@
     "equipment": "Van",
     "weight_lbs": 44500,
     "carrier_rate": 1700,
-    "updated_at": "2026-09-28T15:35:56.370230+00:00",
+    "updated_at": "2026-09-28T16:08:43.063850+00:00",
     "lane": "INDEPENDENCE MO-JACKSONVILLE TX"
+  },
+  {
+    "pro": "50709",
+    "status": "OPEN",
+    "pu_date": "2026-09-28",
+    "pu_city": "BELCAMP",
+    "pu_state": "MD",
+    "pu_hours": "1500",
+    "del_date": "",
+    "del_city": "KANSAS CITY",
+    "del_state": "MO",
+    "del_hours": "CALL!",
+    "equipment": "26' Straight Box Truck",
+    "weight_lbs": 8000,
+    "carrier_rate": null,
+    "updated_at": "2026-09-28T16:08:11.007527+00:00",
+    "lane": "BELCAMP MD-KANSAS CITY MO"
   },
   {
     "pro": "50638",
@@ -117,23 +134,6 @@
     "carrier_rate": 2360,
     "updated_at": "2026-09-24T18:25:03.022227+00:00",
     "lane": "JACKSONVILLE TX-SUGARCREEK OH"
-  },
-  {
-    "pro": "50683",
-    "status": "OPEN",
-    "pu_date": "2026-09-29",
-    "pu_city": "PENDERGRASS",
-    "pu_state": "GA",
-    "pu_hours": "1300",
-    "del_date": "2026-09-30",
-    "del_city": "ZEBULON",
-    "del_state": "NC",
-    "del_hours": "0700-0900",
-    "equipment": "Van",
-    "weight_lbs": 40124,
-    "carrier_rate": 1200,
-    "updated_at": "2026-09-28T15:05:55.473047+00:00",
-    "lane": "PENDERGRASS GA-ZEBULON NC"
   },
   {
     "pro": "50684",
@@ -814,5 +814,22 @@
     "carrier_rate": 1500,
     "updated_at": "2026-09-28T15:04:43.916244+00:00",
     "lane": "CONOVER NC-KITTANNING PA"
+  },
+  {
+    "pro": "50683",
+    "status": "COVERED",
+    "pu_date": "2026-09-29",
+    "pu_city": "PENDERGRASS",
+    "pu_state": "GA",
+    "pu_hours": "1300",
+    "del_date": "2026-09-30",
+    "del_city": "ZEBULON",
+    "del_state": "NC",
+    "del_hours": "0700-0900",
+    "equipment": "Van",
+    "weight_lbs": 40124,
+    "carrier_rate": 1300,
+    "updated_at": "2026-09-28T16:09:18.953961+00:00",
+    "lane": "PENDERGRASS GA-ZEBULON NC"
   }
 ]
