@@ -68,40 +68,6 @@
     "lane": "INDEPENDENCE MO-JACKSONVILLE TX"
   },
   {
-    "pro": "50700",
-    "status": "OPEN",
-    "pu_date": "2026-09-28",
-    "pu_city": "WINCHESTER",
-    "pu_state": "KY",
-    "pu_hours": "1400",
-    "del_date": "",
-    "del_city": "HIALEAH",
-    "del_state": "FL",
-    "del_hours": "",
-    "equipment": "Van",
-    "weight_lbs": 4572,
-    "carrier_rate": 5000,
-    "updated_at": "2026-09-28T14:20:33.994473+00:00",
-    "lane": "WINCHESTER KY-HIALEAH FL"
-  },
-  {
-    "pro": "50708",
-    "status": "OPEN",
-    "pu_date": "2026-09-28",
-    "pu_city": "ANAHEIM",
-    "pu_state": "CA",
-    "pu_hours": "1000-1300",
-    "del_date": "2026-09-28",
-    "del_city": "CERRITOS",
-    "del_state": "CA",
-    "del_hours": "0800-1500",
-    "equipment": "26' Straight Box Truck",
-    "weight_lbs": 1000,
-    "carrier_rate": 200,
-    "updated_at": "2026-09-28T15:59:13.674858+00:00",
-    "lane": "ANAHEIM CA-CERRITOS CA"
-  },
-  {
     "pro": "50638",
     "status": "OPEN",
     "pu_date": "2026-09-29",
@@ -219,6 +185,23 @@
     "carrier_rate": 1100,
     "updated_at": "2026-09-28T12:42:01.163743+00:00",
     "lane": "CALHOUN GA-LINCOLNTON NC"
+  },
+  {
+    "pro": "50700",
+    "status": "OPEN",
+    "pu_date": "2026-09-29",
+    "pu_city": "WINCHESTER",
+    "pu_state": "KY",
+    "pu_hours": "1400",
+    "del_date": "",
+    "del_city": "HIALEAH",
+    "del_state": "FL",
+    "del_hours": "",
+    "equipment": "Van",
+    "weight_lbs": 4572,
+    "carrier_rate": 5000,
+    "updated_at": "2026-09-28T16:01:05.779350+00:00",
+    "lane": "WINCHESTER KY-HIALEAH FL"
   },
   {
     "pro": "50705",
@@ -800,7 +783,7 @@
   },
   {
     "pro": "50610",
-    "status": "DISPATCHED",
+    "status": "PICKUP",
     "pu_date": "2026-09-28",
     "pu_city": "WINCHESTER",
     "pu_state": "KY",
@@ -812,7 +795,7 @@
     "equipment": "Van",
     "weight_lbs": 13083,
     "carrier_rate": 3800,
-    "updated_at": "2026-09-28T13:59:27.751481+00:00",
+    "updated_at": "2026-09-28T16:00:47.414192+00:00",
     "lane": "WINCHESTER KY-UXBRIDGE MA"
   },
   {
