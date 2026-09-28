@@ -98,7 +98,7 @@
     "equipment": "Van",
     "weight_lbs": 42000,
     "carrier_rate": 1100,
-    "updated_at": "2026-09-28T12:42:01.163743+00:00",
+    "updated_at": "2026-09-28T20:04:36.771185+00:00",
     "lane": "CALHOUN GA-LINCOLNTON NC"
   },
   {
@@ -277,7 +277,7 @@
     "pu_date": "2026-09-30",
     "pu_city": "ATLANTA",
     "pu_state": "GA",
-    "pu_hours": "",
+    "pu_hours": "0700",
     "del_date": "2026-09-30",
     "del_city": "DECATUR",
     "del_state": "GA",
@@ -285,7 +285,7 @@
     "equipment": "Reefer",
     "weight_lbs": 24808,
     "carrier_rate": 450,
-    "updated_at": "2026-09-25T19:41:16.200766+00:00",
+    "updated_at": "2026-09-28T20:02:41.759572+00:00",
     "lane": "ATLANTA GA-DECATUR GA"
   },
   {
@@ -328,15 +328,15 @@
     "pu_date": "2026-09-30",
     "pu_city": "COLUMBUS",
     "pu_state": "GA",
-    "pu_hours": "0900",
+    "pu_hours": "1300",
     "del_date": "2026-10-01",
     "del_city": "TRYON",
     "del_state": "NC",
     "del_hours": "0800-0900",
     "equipment": "26' Straight Box Truck",
-    "weight_lbs": 10000,
+    "weight_lbs": 1500,
     "carrier_rate": null,
-    "updated_at": "2026-09-28T19:59:03.519650+00:00",
+    "updated_at": "2026-09-28T20:03:35.692069+00:00",
     "lane": "COLUMBUS GA-TRYON NC"
   },
   {
