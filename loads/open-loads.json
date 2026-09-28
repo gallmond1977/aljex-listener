@@ -34,23 +34,6 @@
     "lane": "MIAMI FL-CHARLOTTE NC"
   },
   {
-    "pro": "50589",
-    "status": "OPEN",
-    "pu_date": "2026-09-28",
-    "pu_city": "WINCHESTER",
-    "pu_state": "KY",
-    "pu_hours": "0800-1500",
-    "del_date": "2026-09-30",
-    "del_city": "ST CHARLES",
-    "del_state": "ON",
-    "del_hours": "0800",
-    "equipment": "Van",
-    "weight_lbs": 5000,
-    "carrier_rate": 1500,
-    "updated_at": "2026-09-28T13:49:52.154902+00:00",
-    "lane": "WINCHESTER KY-ST CHARLES ON"
-  },
-  {
     "pro": "50612",
     "status": "OPEN",
     "pu_date": "2026-09-28",
@@ -117,6 +100,23 @@
     "carrier_rate": 3400,
     "updated_at": "2026-09-28T13:10:14.214470+00:00",
     "lane": "ROME GA-BELCAMP MD"
+  },
+  {
+    "pro": "50706",
+    "status": "OPEN",
+    "pu_date": "2026-09-28",
+    "pu_city": "SAVANNAH",
+    "pu_state": "GA",
+    "pu_hours": "0800-1400",
+    "del_date": "2026-09-29",
+    "del_city": "WINSTON SALEM",
+    "del_state": "NC",
+    "del_hours": "0800-1000",
+    "equipment": "Flatbed w/ Tarps",
+    "weight_lbs": 37600,
+    "carrier_rate": 1700,
+    "updated_at": "2026-09-28T15:14:17.515367+00:00",
+    "lane": "SAVANNAH GA-WINSTON SALEM NC"
   },
   {
     "pro": "50638",
@@ -812,7 +812,7 @@
     "equipment": "Reefer",
     "weight_lbs": 33095,
     "carrier_rate": 580,
-    "updated_at": "2026-09-28T14:54:54.928074+00:00",
+    "updated_at": "2026-09-28T15:10:46.185394+00:00",
     "lane": "ATLANTA GA-FOREST PARK GA"
   },
   {
