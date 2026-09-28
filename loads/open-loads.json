@@ -102,23 +102,6 @@
     "lane": "CALHOUN GA-LINCOLNTON NC"
   },
   {
-    "pro": "50700",
-    "status": "OPEN",
-    "pu_date": "2026-09-29",
-    "pu_city": "WINCHESTER",
-    "pu_state": "KY",
-    "pu_hours": "1400",
-    "del_date": "",
-    "del_city": "HIALEAH",
-    "del_state": "FL",
-    "del_hours": "",
-    "equipment": "Van",
-    "weight_lbs": 4572,
-    "carrier_rate": 5000,
-    "updated_at": "2026-09-28T19:43:51.457396+00:00",
-    "lane": "WINCHESTER KY-HIALEAH FL"
-  },
-  {
     "pro": "50703",
     "status": "OPEN",
     "pu_date": "2026-09-29",
@@ -323,6 +306,40 @@
     "lane": "RICHMOND VA-PRINCE FREDERICK MD"
   },
   {
+    "pro": "50715",
+    "status": "OPEN",
+    "pu_date": "2026-09-30",
+    "pu_city": "COLUMBUS",
+    "pu_state": "GA",
+    "pu_hours": "1300",
+    "del_date": "2026-10-01",
+    "del_city": "TRYON",
+    "del_state": "NC",
+    "del_hours": "CALL",
+    "equipment": "Van",
+    "weight_lbs": 6520,
+    "carrier_rate": null,
+    "updated_at": "2026-09-28T19:58:01.796654+00:00",
+    "lane": "COLUMBUS GA-TRYON NC"
+  },
+  {
+    "pro": "50716",
+    "status": "OPEN",
+    "pu_date": "2026-09-30",
+    "pu_city": "COLUMBUS",
+    "pu_state": "GA",
+    "pu_hours": "0900",
+    "del_date": "2026-10-01",
+    "del_city": "TRYON",
+    "del_state": "NC",
+    "del_hours": "0800-0900",
+    "equipment": "26' Straight Box Truck",
+    "weight_lbs": 10000,
+    "carrier_rate": null,
+    "updated_at": "2026-09-28T19:59:03.519650+00:00",
+    "lane": "COLUMBUS GA-TRYON NC"
+  },
+  {
     "pro": "50648",
     "status": "OPEN",
     "pu_date": "2026-10-01",
@@ -338,6 +355,23 @@
     "carrier_rate": 1800,
     "updated_at": "2026-09-25T17:47:00.733446+00:00",
     "lane": "CHESTER VA-OWENSBORO KY"
+  },
+  {
+    "pro": "50700",
+    "status": "OPEN",
+    "pu_date": "2026-10-01",
+    "pu_city": "WINCHESTER",
+    "pu_state": "KY",
+    "pu_hours": "",
+    "del_date": "",
+    "del_city": "HIALEAH",
+    "del_state": "FL",
+    "del_hours": "",
+    "equipment": "Van",
+    "weight_lbs": 4572,
+    "carrier_rate": 5000,
+    "updated_at": "2026-09-28T19:57:36.248528+00:00",
+    "lane": "WINCHESTER KY-HIALEAH FL"
   },
   {
     "pro": "50107",
@@ -512,7 +546,7 @@
   {
     "pro": "50542",
     "status": "OPEN",
-    "pu_date": "2026-11-13",
+    "pu_date": "2026-11-02",
     "pu_city": "OLD FORT",
     "pu_state": "NC",
     "pu_hours": "0800-1800",
@@ -523,7 +557,7 @@
     "equipment": "Van",
     "weight_lbs": 41500,
     "carrier_rate": 1500,
-    "updated_at": "2026-09-17T15:35:40.976472+00:00",
+    "updated_at": "2026-09-28T19:59:21.549371+00:00",
     "lane": "OLD FORT NC-COLUMBUS GA"
   },
   {
