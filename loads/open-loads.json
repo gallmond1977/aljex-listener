@@ -51,23 +51,6 @@
     "lane": "WINCHESTER KY-ST CHARLES ON"
   },
   {
-    "pro": "50600",
-    "status": "OPEN",
-    "pu_date": "2026-09-28",
-    "pu_city": "AUBURN",
-    "pu_state": "AL",
-    "pu_hours": "0800-1500",
-    "del_date": "2026-09-29",
-    "del_city": "LA CROSSE",
-    "del_state": "WI",
-    "del_hours": "0800-1500",
-    "equipment": "Van",
-    "weight_lbs": 42500,
-    "carrier_rate": 2000,
-    "updated_at": "2026-09-28T13:13:25.668954+00:00",
-    "lane": "AUBURN AL-LA CROSSE WI"
-  },
-  {
     "pro": "50612",
     "status": "OPEN",
     "pu_date": "2026-09-28",
@@ -153,6 +136,23 @@
     "lane": "ROME GA-BELCAMP MD"
   },
   {
+    "pro": "50703",
+    "status": "OPEN",
+    "pu_date": "2026-09-28",
+    "pu_city": "OAKLAND",
+    "pu_state": "TN",
+    "pu_hours": "0800-1500",
+    "del_date": "2026-09-29",
+    "del_city": "PHENIX CITY",
+    "del_state": "AL",
+    "del_hours": "0700-1000",
+    "equipment": "Van Hazmat",
+    "weight_lbs": 44900,
+    "carrier_rate": 2200,
+    "updated_at": "2026-09-28T14:39:26.862913+00:00",
+    "lane": "OAKLAND TN-PHENIX CITY AL"
+  },
+  {
     "pro": "50638",
     "status": "OPEN",
     "pu_date": "2026-09-29",
@@ -216,8 +216,8 @@
     "del_hours": "0700-0900",
     "equipment": "Van",
     "weight_lbs": 40124,
-    "carrier_rate": null,
-    "updated_at": "2026-09-24T20:19:05.334485+00:00",
+    "carrier_rate": 1200,
+    "updated_at": "2026-09-28T14:38:51.819984+00:00",
     "lane": "PENDERGRASS GA-ZEBULON NC"
   },
   {
@@ -233,8 +233,8 @@
     "del_hours": "0700-0900",
     "equipment": "Van",
     "weight_lbs": 40124,
-    "carrier_rate": null,
-    "updated_at": "2026-09-24T20:20:08.207116+00:00",
+    "carrier_rate": 1200,
+    "updated_at": "2026-09-28T14:38:38.014795+00:00",
     "lane": "PENDERGRASS GA-ZEBULON NC"
   },
   {
@@ -731,23 +731,6 @@
     "lane": "MOUNT STERLING KY-MIRA LOMA CA"
   },
   {
-    "pro": "50581",
-    "status": "RELEASED",
-    "pu_date": "2026-09-21",
-    "pu_city": "AUBURN",
-    "pu_state": "AL",
-    "pu_hours": "0800-1500",
-    "del_date": "2026-09-21",
-    "del_city": "LA CROSSE",
-    "del_state": "WI",
-    "del_hours": "0800-1500",
-    "equipment": "Van",
-    "weight_lbs": 42500,
-    "carrier_rate": 150,
-    "updated_at": "2026-09-21T17:42:12.433380+00:00",
-    "lane": "AUBURN AL-LA CROSSE WI"
-  },
-  {
     "pro": "50524",
     "status": "RELEASED",
     "pu_date": "2026-09-23",
@@ -783,7 +766,7 @@
   },
   {
     "pro": "50644",
-    "status": "DELIVERED",
+    "status": "RELEASED",
     "pu_date": "2026-09-24",
     "pu_city": "CALHOUN",
     "pu_state": "GA",
@@ -795,7 +778,7 @@
     "equipment": "Van",
     "weight_lbs": 41000,
     "carrier_rate": 1300,
-    "updated_at": "2026-09-24T19:19:08.547064+00:00",
+    "updated_at": "2026-09-28T14:35:20.111264+00:00",
     "lane": "CALHOUN GA-LINCOLNTON NC"
   },
   {
