@@ -166,7 +166,7 @@
     "equipment": "Van",
     "weight_lbs": 9600,
     "carrier_rate": 1100,
-    "updated_at": "2026-09-29T19:41:34.527681+00:00",
+    "updated_at": "2026-09-29T20:46:21.728798+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
@@ -183,7 +183,7 @@
     "equipment": "Van",
     "weight_lbs": 12480,
     "carrier_rate": 1100,
-    "updated_at": "2026-09-29T19:41:41.591083+00:00",
+    "updated_at": "2026-09-29T20:47:11.629346+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
@@ -230,11 +230,11 @@
     "del_date": "2026-10-02",
     "del_city": "QUINCY",
     "del_state": "IL",
-    "del_hours": "",
+    "del_hours": "0900",
     "equipment": "Van",
     "weight_lbs": 42840,
     "carrier_rate": null,
-    "updated_at": "2026-09-29T20:32:11.954769+00:00",
+    "updated_at": "2026-09-29T20:49:19.374789+00:00",
     "lane": "CHESTER VA-QUINCY IL"
   },
   {
@@ -829,7 +829,7 @@
     "equipment": "Van",
     "weight_lbs": 9600,
     "carrier_rate": 1200,
-    "updated_at": "2026-09-29T20:32:37.661738+00:00",
+    "updated_at": "2026-09-29T20:45:46.576372+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
   }
 ]
