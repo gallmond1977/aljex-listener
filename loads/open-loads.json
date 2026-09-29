@@ -340,6 +340,23 @@
     "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
+    "pro": "50729",
+    "status": "OPEN",
+    "pu_date": "2026-09-30",
+    "pu_city": "COLUMBUS",
+    "pu_state": "GA",
+    "pu_hours": "0630-0800",
+    "del_date": "2026-09-30",
+    "del_city": "COLUMBUS",
+    "del_state": "GA",
+    "del_hours": "0800-1800",
+    "equipment": "26' Straight Box Truck",
+    "weight_lbs": 8000,
+    "carrier_rate": null,
+    "updated_at": "2026-09-29T14:09:19.636325+00:00",
+    "lane": "COLUMBUS GA-COLUMBUS GA"
+  },
+  {
     "pro": "50648",
     "status": "OPEN",
     "pu_date": "2026-10-01",
@@ -749,7 +766,7 @@
   },
   {
     "pro": "50719",
-    "status": "DISPATCHED",
+    "status": "PICKUP",
     "pu_date": "2026-09-29",
     "pu_city": "WINCHESTER",
     "pu_state": "KY",
@@ -761,7 +778,7 @@
     "equipment": "Van",
     "weight_lbs": 16680,
     "carrier_rate": 1100,
-    "updated_at": "2026-09-29T13:49:12.680764+00:00",
+    "updated_at": "2026-09-29T14:05:34.492957+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
   }
 ]
