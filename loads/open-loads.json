@@ -63,8 +63,8 @@
     "del_hours": "0700-1400",
     "equipment": "Van",
     "weight_lbs": 43401,
-    "carrier_rate": 2360,
-    "updated_at": "2026-09-24T18:25:03.022227+00:00",
+    "carrier_rate": 2500,
+    "updated_at": "2026-09-29T12:59:19.164887+00:00",
     "lane": "JACKSONVILLE TX-SUGARCREEK OH"
   },
   {
@@ -404,7 +404,7 @@
     "equipment": "Van",
     "weight_lbs": 9600,
     "carrier_rate": null,
-    "updated_at": "2026-09-29T12:42:54.930527+00:00",
+    "updated_at": "2026-09-29T12:57:46.516083+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
@@ -421,7 +421,7 @@
     "equipment": "Van",
     "weight_lbs": 9600,
     "carrier_rate": null,
-    "updated_at": "2026-09-29T12:44:27.604616+00:00",
+    "updated_at": "2026-09-29T12:58:38.338391+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
@@ -438,7 +438,7 @@
     "equipment": "Van",
     "weight_lbs": 12480,
     "carrier_rate": null,
-    "updated_at": "2026-09-29T12:46:46.772754+00:00",
+    "updated_at": "2026-09-29T12:59:39.980754+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
