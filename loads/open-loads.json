@@ -80,8 +80,8 @@
     "del_hours": "0800-1430",
     "equipment": "Van",
     "weight_lbs": 33600,
-    "carrier_rate": 1000,
-    "updated_at": "2026-09-29T15:39:44.197966+00:00",
+    "carrier_rate": 1100,
+    "updated_at": "2026-09-29T16:16:58.587149+00:00",
     "lane": "MONTGOMERY AL-WAYCROSS GA"
   },
   {
@@ -90,15 +90,15 @@
     "pu_date": "2026-09-29",
     "pu_city": "BUFFALO",
     "pu_state": "NY",
-    "pu_hours": "",
+    "pu_hours": "1200-1500",
     "del_date": "2026-09-30",
     "del_city": "BELCAMP",
     "del_state": "MD",
     "del_hours": "0700-1200",
     "equipment": "Van",
     "weight_lbs": 15500,
-    "carrier_rate": null,
-    "updated_at": "2026-09-29T16:05:21.407097+00:00",
+    "carrier_rate": 1900,
+    "updated_at": "2026-09-29T16:19:15.536763+00:00",
     "lane": "BUFFALO NY-BELCAMP MD"
   },
   {
