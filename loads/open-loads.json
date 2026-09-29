@@ -51,23 +51,6 @@
     "lane": "OAKLAND TN-PHENIX CITY AL"
   },
   {
-    "pro": "50723",
-    "status": "OPEN",
-    "pu_date": "2026-09-29",
-    "pu_city": "MONTGOMERY",
-    "pu_state": "AL",
-    "pu_hours": "1100-1630",
-    "del_date": "2026-09-30",
-    "del_city": "WAYCROSS",
-    "del_state": "GA",
-    "del_hours": "0800-1430",
-    "equipment": "Van",
-    "weight_lbs": 33600,
-    "carrier_rate": 1100,
-    "updated_at": "2026-09-29T16:16:58.587149+00:00",
-    "lane": "MONTGOMERY AL-WAYCROSS GA"
-  },
-  {
     "pro": "50405",
     "status": "OPEN",
     "pu_date": "2026-09-30",
