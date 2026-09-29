@@ -17,23 +17,6 @@
     "lane": "ANNISTON AL-RICHARDSON TX"
   },
   {
-    "pro": "50648",
-    "status": "OPEN",
-    "pu_date": "2026-09-29",
-    "pu_city": "CHESTER",
-    "pu_state": "VA",
-    "pu_hours": "0700-1500",
-    "del_date": "2026-09-30",
-    "del_city": "OWENSBORO",
-    "del_state": "KY",
-    "del_hours": "0730-0900",
-    "equipment": "Van",
-    "weight_lbs": 42840,
-    "carrier_rate": 2000,
-    "updated_at": "2026-09-29T16:39:23.552703+00:00",
-    "lane": "CHESTER VA-OWENSBORO KY"
-  },
-  {
     "pro": "50692",
     "status": "OPEN",
     "pu_date": "2026-09-29",
@@ -63,8 +46,8 @@
     "del_hours": "0700-1000",
     "equipment": "Van Hazmat",
     "weight_lbs": 44940,
-    "carrier_rate": 2400,
-    "updated_at": "2026-09-29T15:42:00.347480+00:00",
+    "carrier_rate": 2600,
+    "updated_at": "2026-09-29T16:42:38.713185+00:00",
     "lane": "OAKLAND TN-PHENIX CITY AL"
   },
   {
@@ -729,23 +712,6 @@
     "carrier_rate": 3800,
     "updated_at": "2026-09-26T14:03:57.475377+00:00",
     "lane": "WINCHESTER KY-JACKSONVILLE FL"
-  },
-  {
-    "pro": "50646",
-    "status": "RELEASED",
-    "pu_date": "2026-09-24",
-    "pu_city": "CHESTER",
-    "pu_state": "VA",
-    "pu_hours": "0700-1500",
-    "del_date": "2026-09-25",
-    "del_city": "OWENSBORO",
-    "del_state": "KY",
-    "del_hours": "0800-1500",
-    "equipment": "Van",
-    "weight_lbs": 44000,
-    "carrier_rate": 1950,
-    "updated_at": "2026-09-28T14:26:11.832318+00:00",
-    "lane": "CHESTER VA-OWENSBORO KY"
   },
   {
     "pro": "50669",
