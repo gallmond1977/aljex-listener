@@ -60,11 +60,11 @@
     "del_date": "2026-09-30",
     "del_city": "KANSAS CITY",
     "del_state": "MO",
-    "del_hours": "CALL!",
+    "del_hours": "0700-1530",
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 8000,
     "carrier_rate": 1600,
-    "updated_at": "2026-09-29T11:59:06.914382+00:00",
+    "updated_at": "2026-09-29T14:14:07.178189+00:00",
     "lane": "BELCAMP MD-KANSAS CITY MO"
   },
   {
@@ -352,8 +352,8 @@
     "del_hours": "0800-1800",
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 8000,
-    "carrier_rate": null,
-    "updated_at": "2026-09-29T14:09:19.636325+00:00",
+    "carrier_rate": 550,
+    "updated_at": "2026-09-29T14:15:00.348003+00:00",
     "lane": "COLUMBUS GA-COLUMBUS GA"
   },
   {
@@ -406,6 +406,23 @@
     "carrier_rate": 1500,
     "updated_at": "2026-09-24T17:38:46.327302+00:00",
     "lane": "COLUMBUS GA-VAN WERT OH"
+  },
+  {
+    "pro": "50730",
+    "status": "OPEN",
+    "pu_date": "2026-10-02",
+    "pu_city": "WINCHESTER",
+    "pu_state": "KY",
+    "pu_hours": "1100-1300",
+    "del_date": "2026-10-05",
+    "del_city": "JACKSONVILLE",
+    "del_state": "FL",
+    "del_hours": "",
+    "equipment": "Van",
+    "weight_lbs": 4000,
+    "carrier_rate": null,
+    "updated_at": "2026-09-29T14:12:40.907346+00:00",
+    "lane": "WINCHESTER KY-JACKSONVILLE FL"
   },
   {
     "pro": "50657",
@@ -680,6 +697,23 @@
     "lane": "MOUNT STERLING KY-MIRA LOMA CA"
   },
   {
+    "pro": "50523",
+    "status": "DELIVERED",
+    "pu_date": "2026-09-23",
+    "pu_city": "WINCHESTER",
+    "pu_state": "KY",
+    "pu_hours": "0800-1500",
+    "del_date": "2026-09-24",
+    "del_city": "JACKSONVILLE",
+    "del_state": "FL",
+    "del_hours": "0900",
+    "equipment": "Van",
+    "weight_lbs": 4000,
+    "carrier_rate": 2400,
+    "updated_at": "2026-09-24T16:07:50.401470+00:00",
+    "lane": "WINCHESTER KY-JACKSONVILLE FL"
+  },
+  {
     "pro": "50524",
     "status": "RELEASED",
     "pu_date": "2026-09-23",
@@ -695,6 +729,40 @@
     "carrier_rate": 2400,
     "updated_at": "2026-09-24T15:12:17.134851+00:00",
     "lane": "WINCHESTER KY-BURLINGTON NJ"
+  },
+  {
+    "pro": "50613",
+    "status": "DELIVERED",
+    "pu_date": "2026-09-24",
+    "pu_city": "WINCHESTER",
+    "pu_state": "KY",
+    "pu_hours": "0800-1500",
+    "del_date": "2026-09-26",
+    "del_city": "JACKSONVILLE",
+    "del_state": "FL",
+    "del_hours": "1800",
+    "equipment": "Van",
+    "weight_lbs": 7600,
+    "carrier_rate": 3500,
+    "updated_at": "2026-09-28T11:52:36.966742+00:00",
+    "lane": "WINCHESTER KY-JACKSONVILLE FL"
+  },
+  {
+    "pro": "50614",
+    "status": "DELIVERED",
+    "pu_date": "2026-09-24",
+    "pu_city": "WINCHESTER",
+    "pu_state": "KY",
+    "pu_hours": "0800-1600",
+    "del_date": "2026-09-26",
+    "del_city": "JACKSONVILLE",
+    "del_state": "FL",
+    "del_hours": "1900",
+    "equipment": "Van",
+    "weight_lbs": 4000,
+    "carrier_rate": 3800,
+    "updated_at": "2026-09-26T14:03:57.475377+00:00",
+    "lane": "WINCHESTER KY-JACKSONVILLE FL"
   },
   {
     "pro": "50646",
@@ -763,6 +831,23 @@
     "carrier_rate": 1100,
     "updated_at": "2026-09-29T13:20:27.928489+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
+  },
+  {
+    "pro": "50615",
+    "status": "DELIVERED",
+    "pu_date": "2026-09-28",
+    "pu_city": "WINCHESTER",
+    "pu_state": "KY",
+    "pu_hours": "1100-1300",
+    "del_date": "2026-09-29",
+    "del_city": "JACKSONVILLE",
+    "del_state": "FL",
+    "del_hours": "0500",
+    "equipment": "Van",
+    "weight_lbs": 8544,
+    "carrier_rate": 2800,
+    "updated_at": "2026-09-29T14:11:54.343858+00:00",
+    "lane": "WINCHESTER KY-JACKSONVILLE FL"
   },
   {
     "pro": "50719",
