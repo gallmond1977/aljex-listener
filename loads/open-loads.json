@@ -199,8 +199,8 @@
     "del_hours": "CALL!",
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 1425,
-    "carrier_rate": 250,
-    "updated_at": "2026-09-28T18:19:30.219761+00:00",
+    "carrier_rate": 500,
+    "updated_at": "2026-09-29T14:48:28.074085+00:00",
     "lane": "RICHMOND VA-PRINCE FREDERICK MD"
   },
   {
@@ -323,21 +323,21 @@
     "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
-    "pro": "50648",
+    "pro": "50732",
     "status": "OPEN",
-    "pu_date": "2026-10-01",
-    "pu_city": "CHESTER",
-    "pu_state": "VA",
-    "pu_hours": "0700-1500",
-    "del_date": "2026-10-02",
-    "del_city": "OWENSBORO",
-    "del_state": "KY",
-    "del_hours": "0730-0900",
+    "pu_date": "2026-09-30",
+    "pu_city": "LAGRANGE",
+    "pu_state": "GA",
+    "pu_hours": "1400-1600",
+    "del_date": "2026-10-01",
+    "del_city": "ORLANDO",
+    "del_state": "FL",
+    "del_hours": "0800-1200",
     "equipment": "Van",
-    "weight_lbs": 42840,
+    "weight_lbs": 36000,
     "carrier_rate": 1800,
-    "updated_at": "2026-09-25T17:47:00.733446+00:00",
-    "lane": "CHESTER VA-OWENSBORO KY"
+    "updated_at": "2026-09-29T14:49:56.080129+00:00",
+    "lane": "LAGRANGE GA-ORLANDO FL"
   },
   {
     "pro": "50700",
@@ -542,6 +542,23 @@
     "carrier_rate": null,
     "updated_at": "2026-09-21T15:50:35.075614+00:00",
     "lane": "RICHMOND VA-MIDLOTHIAN VA"
+  },
+  {
+    "pro": "50648",
+    "status": "OPEN",
+    "pu_date": "2026-10-29",
+    "pu_city": "CHESTER",
+    "pu_state": "VA",
+    "pu_hours": "0700-1500",
+    "del_date": "2026-10-30",
+    "del_city": "OWENSBORO",
+    "del_state": "KY",
+    "del_hours": "0730-0900",
+    "equipment": "Van",
+    "weight_lbs": 42840,
+    "carrier_rate": 1800,
+    "updated_at": "2026-09-29T14:49:45.161346+00:00",
+    "lane": "CHESTER VA-OWENSBORO KY"
   },
   {
     "pro": "50542",
