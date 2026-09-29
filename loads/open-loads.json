@@ -119,23 +119,6 @@
     "lane": "JACKSONVILLE TX-JACKSON MS"
   },
   {
-    "pro": "50692",
-    "status": "OPEN",
-    "pu_date": "2026-09-30",
-    "pu_city": "COLUMBUS",
-    "pu_state": "GA",
-    "pu_hours": "0800-1500",
-    "del_date": "2026-10-01",
-    "del_city": "SANTA ROSA BEACH",
-    "del_state": "FL",
-    "del_hours": "0600-1400",
-    "equipment": "Flatbed w/ Tarps",
-    "weight_lbs": 46401,
-    "carrier_rate": 1100,
-    "updated_at": "2026-09-29T19:01:52.361062+00:00",
-    "lane": "COLUMBUS GA-SANTA ROSA BEACH FL"
-  },
-  {
     "pro": "50714",
     "status": "OPEN",
     "pu_date": "2026-09-30",
