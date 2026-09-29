@@ -85,23 +85,6 @@
     "lane": "MONTGOMERY AL-WAYCROSS GA"
   },
   {
-    "pro": "50728",
-    "status": "OPEN",
-    "pu_date": "2026-09-29",
-    "pu_city": "PITTSBURG",
-    "pu_state": "KS",
-    "pu_hours": "0800-1400",
-    "del_date": "2026-09-30",
-    "del_city": "ASHLAND",
-    "del_state": "OH",
-    "del_hours": "0800-1500",
-    "equipment": "Van",
-    "weight_lbs": 20102,
-    "carrier_rate": 2400,
-    "updated_at": "2026-09-29T13:59:04.281992+00:00",
-    "lane": "PITTSBURG KS-ASHLAND OH"
-  },
-  {
     "pro": "50405",
     "status": "OPEN",
     "pu_date": "2026-09-30",
