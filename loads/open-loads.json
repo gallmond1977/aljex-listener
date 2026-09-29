@@ -30,7 +30,7 @@
     "equipment": "Van",
     "weight_lbs": 42840,
     "carrier_rate": 1700,
-    "updated_at": "2026-09-29T14:52:58.095861+00:00",
+    "updated_at": "2026-09-29T14:58:37.802336+00:00",
     "lane": "CHESTER VA-OWENSBORO KY"
   },
   {
@@ -391,23 +391,6 @@
     "lane": "COLUMBUS GA-VAN WERT OH"
   },
   {
-    "pro": "50730",
-    "status": "OPEN",
-    "pu_date": "2026-10-02",
-    "pu_city": "WINCHESTER",
-    "pu_state": "KY",
-    "pu_hours": "CONFIRM",
-    "del_date": "2026-10-06",
-    "del_city": "JACKSONVILLE",
-    "del_state": "FL",
-    "del_hours": "2000",
-    "equipment": "Van",
-    "weight_lbs": 4000,
-    "carrier_rate": null,
-    "updated_at": "2026-09-29T14:50:39.016489+00:00",
-    "lane": "WINCHESTER KY-JACKSONVILLE FL"
-  },
-  {
     "pro": "50657",
     "status": "OPEN",
     "pu_date": "2026-10-05",
@@ -440,6 +423,23 @@
     "carrier_rate": 2000,
     "updated_at": "2026-09-24T17:51:03.330284+00:00",
     "lane": "GARLAND TX-CALHOUN GA"
+  },
+  {
+    "pro": "50730",
+    "status": "OPEN",
+    "pu_date": "2026-10-05",
+    "pu_city": "WINCHESTER",
+    "pu_state": "KY",
+    "pu_hours": "0800-1500",
+    "del_date": "2026-10-06",
+    "del_city": "JACKSONVILLE",
+    "del_state": "FL",
+    "del_hours": "2000",
+    "equipment": "Van",
+    "weight_lbs": 4000,
+    "carrier_rate": null,
+    "updated_at": "2026-09-29T14:58:59.938032+00:00",
+    "lane": "WINCHESTER KY-JACKSONVILLE FL"
   },
   {
     "pro": "50656",
