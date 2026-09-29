@@ -131,8 +131,8 @@
     "del_hours": "0700-1530",
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 8000,
-    "carrier_rate": 1300,
-    "updated_at": "2026-09-28T18:11:24.340025+00:00",
+    "carrier_rate": 1400,
+    "updated_at": "2026-09-29T12:11:32.844421+00:00",
     "lane": "BELCAMP MD-SAINT LOUIS MO"
   },
   {
@@ -200,7 +200,7 @@
     "equipment": "Van",
     "weight_lbs": 12480,
     "carrier_rate": null,
-    "updated_at": "2026-09-29T12:06:29.567203+00:00",
+    "updated_at": "2026-09-29T12:10:25.376567+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
@@ -234,7 +234,7 @@
     "equipment": "Reefer",
     "weight_lbs": 33095,
     "carrier_rate": null,
-    "updated_at": "2026-09-21T19:01:39.973780+00:00",
+    "updated_at": "2026-09-29T12:12:49.385036+00:00",
     "lane": "ATLANTA GA-FOREST PARK GA"
   },
   {
