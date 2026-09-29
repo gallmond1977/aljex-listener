@@ -119,23 +119,6 @@
     "lane": "BELCAMP MD-KANSAS CITY MO"
   },
   {
-    "pro": "50711",
-    "status": "OPEN",
-    "pu_date": "2026-09-29",
-    "pu_city": "BELCAMP",
-    "pu_state": "MD",
-    "pu_hours": "0800-1500",
-    "del_date": "2026-09-30",
-    "del_city": "SAINT LOUIS",
-    "del_state": "MO",
-    "del_hours": "0700-1530",
-    "equipment": "26' Straight Box Truck",
-    "weight_lbs": 8000,
-    "carrier_rate": 1400,
-    "updated_at": "2026-09-29T12:11:32.844421+00:00",
-    "lane": "BELCAMP MD-SAINT LOUIS MO"
-  },
-  {
     "pro": "50718",
     "status": "OPEN",
     "pu_date": "2026-09-29",
@@ -146,10 +129,10 @@
     "del_city": "TAYLORS",
     "del_state": "SC",
     "del_hours": "",
-    "equipment": "26' Straight Box Truck",
-    "weight_lbs": 2655,
-    "carrier_rate": null,
-    "updated_at": "2026-09-28T21:16:13.211399+00:00",
+    "equipment": "Van Hazmat",
+    "weight_lbs": 6500,
+    "carrier_rate": 1200,
+    "updated_at": "2026-09-29T12:40:01.677447+00:00",
     "lane": "AUBURN AL-TAYLORS SC"
   },
   {
