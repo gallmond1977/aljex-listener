@@ -281,11 +281,11 @@
     "del_date": "2026-10-01",
     "del_city": "ORLANDO",
     "del_state": "FL",
-    "del_hours": "0800-1200",
+    "del_hours": "",
     "equipment": "Van",
     "weight_lbs": 36000,
     "carrier_rate": 1800,
-    "updated_at": "2026-09-29T14:51:08.203445+00:00",
+    "updated_at": "2026-09-29T18:08:51.870870+00:00",
     "lane": "LAGRANGE GA-ORLANDO FL"
   },
   {
