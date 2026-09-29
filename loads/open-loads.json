@@ -119,23 +119,6 @@
     "lane": "OAKLAND TN-PHENIX CITY AL"
   },
   {
-    "pro": "50714",
-    "status": "OPEN",
-    "pu_date": "2026-09-30",
-    "pu_city": "RICHMOND",
-    "pu_state": "VA",
-    "pu_hours": "0700-0730",
-    "del_date": "2026-09-30",
-    "del_city": "PRINCE FREDERICK",
-    "del_state": "MD",
-    "del_hours": "0800-1400",
-    "equipment": "26' Straight Box Truck",
-    "weight_lbs": 1425,
-    "carrier_rate": 375,
-    "updated_at": "2026-09-29T20:26:17.599064+00:00",
-    "lane": "RICHMOND VA-PRINCE FREDERICK MD"
-  },
-  {
     "pro": "50720",
     "status": "OPEN",
     "pu_date": "2026-09-30",
@@ -167,23 +150,6 @@
     "weight_lbs": 12480,
     "carrier_rate": 1100,
     "updated_at": "2026-09-29T19:41:13.448698+00:00",
-    "lane": "WINCHESTER KY-JOLIET IL"
-  },
-  {
-    "pro": "50725",
-    "status": "OPEN",
-    "pu_date": "2026-09-30",
-    "pu_city": "WINCHESTER",
-    "pu_state": "KY",
-    "pu_hours": "1200-1530",
-    "del_date": "2026-10-01",
-    "del_city": "JOLIET",
-    "del_state": "IL",
-    "del_hours": "1230",
-    "equipment": "Van",
-    "weight_lbs": 9600,
-    "carrier_rate": 1100,
-    "updated_at": "2026-09-29T20:29:29.191155+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
@@ -261,15 +227,15 @@
     "pu_city": "CHESTER",
     "pu_state": "VA",
     "pu_hours": "0700-1500",
-    "del_date": "2026-10-01",
-    "del_city": "OWENSBORO",
-    "del_state": "KY",
-    "del_hours": "0730-0900",
+    "del_date": "2026-10-02",
+    "del_city": "QUINCY",
+    "del_state": "IL",
+    "del_hours": "",
     "equipment": "Van",
     "weight_lbs": 42840,
     "carrier_rate": null,
-    "updated_at": "2026-09-29T20:29:42.824285+00:00",
-    "lane": "CHESTER VA-OWENSBORO KY"
+    "updated_at": "2026-09-29T20:32:11.954769+00:00",
+    "lane": "CHESTER VA-QUINCY IL"
   },
   {
     "pro": "50107",
@@ -731,23 +697,6 @@
     "lane": "WINCHESTER KY-JACKSONVILLE FL"
   },
   {
-    "pro": "50646",
-    "status": "RELEASED",
-    "pu_date": "2026-09-24",
-    "pu_city": "CHESTER",
-    "pu_state": "VA",
-    "pu_hours": "0700-1500",
-    "del_date": "2026-09-25",
-    "del_city": "OWENSBORO",
-    "del_state": "KY",
-    "del_hours": "0800-1500",
-    "equipment": "Van",
-    "weight_lbs": 44000,
-    "carrier_rate": 1950,
-    "updated_at": "2026-09-28T14:26:11.832318+00:00",
-    "lane": "CHESTER VA-OWENSBORO KY"
-  },
-  {
     "pro": "50669",
     "status": "DELIVERED",
     "pu_date": "2026-09-24",
@@ -850,23 +799,6 @@
     "lane": "WINCHESTER KY-UXBRIDGE MA"
   },
   {
-    "pro": "50648",
-    "status": "PICKUP",
-    "pu_date": "2026-09-29",
-    "pu_city": "CHESTER",
-    "pu_state": "VA",
-    "pu_hours": "0700-1500",
-    "del_date": "2026-09-30",
-    "del_city": "OWENSBORO",
-    "del_state": "KY",
-    "del_hours": "0730-0900",
-    "equipment": "Van",
-    "weight_lbs": 42840,
-    "carrier_rate": 2000,
-    "updated_at": "2026-09-29T17:26:39.614817+00:00",
-    "lane": "CHESTER VA-OWENSBORO KY"
-  },
-  {
     "pro": "50719",
     "status": "LOADED",
     "pu_date": "2026-09-29",
@@ -881,6 +813,23 @@
     "weight_lbs": 16680,
     "carrier_rate": 1100,
     "updated_at": "2026-09-29T17:55:51.110951+00:00",
+    "lane": "WINCHESTER KY-JOLIET IL"
+  },
+  {
+    "pro": "50725",
+    "status": "COVERED",
+    "pu_date": "2026-09-30",
+    "pu_city": "WINCHESTER",
+    "pu_state": "KY",
+    "pu_hours": "1200-1530",
+    "del_date": "2026-10-01",
+    "del_city": "JOLIET",
+    "del_state": "IL",
+    "del_hours": "1230",
+    "equipment": "Van",
+    "weight_lbs": 9600,
+    "carrier_rate": 1200,
+    "updated_at": "2026-09-29T20:32:37.661738+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
   }
 ]
