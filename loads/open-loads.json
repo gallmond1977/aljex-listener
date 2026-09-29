@@ -272,23 +272,6 @@
     "lane": "JACKSONVILLE TX-MACON GA"
   },
   {
-    "pro": "50737",
-    "status": "OPEN",
-    "pu_date": "2026-09-30",
-    "pu_city": "VILLA RICA",
-    "pu_state": "GA",
-    "pu_hours": "0800-1500",
-    "del_date": "2026-10-01",
-    "del_city": "SANTA ROSA BEACH",
-    "del_state": "FL",
-    "del_hours": "0600-1400",
-    "equipment": "Flatbed w/ Tarps",
-    "weight_lbs": 45640,
-    "carrier_rate": 1400,
-    "updated_at": "2026-09-29T18:47:57.910807+00:00",
-    "lane": "VILLA RICA GA-SANTA ROSA BEACH FL"
-  },
-  {
     "pro": "50107",
     "status": "OPEN",
     "pu_date": "2026-10-02",
@@ -302,7 +285,7 @@
     "equipment": "Van",
     "weight_lbs": 11100,
     "carrier_rate": 1500,
-    "updated_at": "2026-09-29T18:47:02.099293+00:00",
+    "updated_at": "2026-09-29T18:52:43.204054+00:00",
     "lane": "COLUMBUS GA-VAN WERT OH"
   },
   {
@@ -355,6 +338,23 @@
     "carrier_rate": null,
     "updated_at": "2026-09-29T14:58:59.938032+00:00",
     "lane": "WINCHESTER KY-JACKSONVILLE FL"
+  },
+  {
+    "pro": "50738",
+    "status": "OPEN",
+    "pu_date": "2026-10-05",
+    "pu_city": "COLUMBUS",
+    "pu_state": "GA",
+    "pu_hours": "WAITING",
+    "del_date": "2026-10-06",
+    "del_city": "VAN WERT",
+    "del_state": "OH",
+    "del_hours": "0900",
+    "equipment": "Van",
+    "weight_lbs": 11100,
+    "carrier_rate": null,
+    "updated_at": "2026-09-29T18:53:56.422097+00:00",
+    "lane": "COLUMBUS GA-VAN WERT OH"
   },
   {
     "pro": "50656",
