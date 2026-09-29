@@ -17,23 +17,6 @@
     "lane": "ANNISTON AL-RICHARDSON TX"
   },
   {
-    "pro": "50651",
-    "status": "OPEN",
-    "pu_date": "2026-09-29",
-    "pu_city": "EL DORADO",
-    "pu_state": "AR",
-    "pu_hours": "0700-1500",
-    "del_date": "2026-09-30",
-    "del_city": "CALHOUN",
-    "del_state": "GA",
-    "del_hours": "0730-1400",
-    "equipment": "Van",
-    "weight_lbs": 43212,
-    "carrier_rate": 2000,
-    "updated_at": "2026-09-28T20:09:49.151617+00:00",
-    "lane": "EL DORADO AR-CALHOUN GA"
-  },
-  {
     "pro": "50679",
     "status": "OPEN",
     "pu_date": "2026-09-29",
@@ -47,7 +30,7 @@
     "equipment": "Van",
     "weight_lbs": 43401,
     "carrier_rate": 2500,
-    "updated_at": "2026-09-29T13:01:17.494335+00:00",
+    "updated_at": "2026-09-29T13:07:17.845202+00:00",
     "lane": "JACKSONVILLE TX-SUGARCREEK OH"
   },
   {
@@ -731,23 +714,6 @@
     "lane": "GARLAND TX-CALHOUN GA"
   },
   {
-    "pro": "50476",
-    "status": "RELEASED",
-    "pu_date": "2026-09-21",
-    "pu_city": "EL DORADO",
-    "pu_state": "AR",
-    "pu_hours": "0700-1500",
-    "del_date": "2026-09-22",
-    "del_city": "CALHOUN",
-    "del_state": "GA",
-    "del_hours": "0730-1430",
-    "equipment": "Van",
-    "weight_lbs": 43006,
-    "carrier_rate": 2000,
-    "updated_at": "2026-09-23T18:55:04.151567+00:00",
-    "lane": "EL DORADO AR-CALHOUN GA"
-  },
-  {
     "pro": "50501",
     "status": "RELEASED",
     "pu_date": "2026-09-21",
@@ -780,23 +746,6 @@
     "carrier_rate": 2400,
     "updated_at": "2026-09-24T15:12:17.134851+00:00",
     "lane": "WINCHESTER KY-BURLINGTON NJ"
-  },
-  {
-    "pro": "50626",
-    "status": "RELEASED",
-    "pu_date": "2026-09-24",
-    "pu_city": "EL DORADO",
-    "pu_state": "AR",
-    "pu_hours": "0700-1500",
-    "del_date": "2026-09-25",
-    "del_city": "CALHOUN",
-    "del_state": "GA",
-    "del_hours": "0730-1400",
-    "equipment": "Van",
-    "weight_lbs": 43212,
-    "carrier_rate": 2000,
-    "updated_at": "2026-09-25T15:01:43.263340+00:00",
-    "lane": "EL DORADO AR-CALHOUN GA"
   },
   {
     "pro": "50646",
