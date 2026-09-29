@@ -233,8 +233,8 @@
     "del_hours": "0900",
     "equipment": "Van",
     "weight_lbs": 42840,
-    "carrier_rate": null,
-    "updated_at": "2026-09-29T20:49:19.374789+00:00",
+    "carrier_rate": 2300,
+    "updated_at": "2026-09-29T20:53:18.886507+00:00",
     "lane": "CHESTER VA-QUINCY IL"
   },
   {
