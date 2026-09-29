@@ -17,23 +17,6 @@
     "lane": "ANNISTON AL-RICHARDSON TX"
   },
   {
-    "pro": "50679",
-    "status": "OPEN",
-    "pu_date": "2026-09-29",
-    "pu_city": "JACKSONVILLE",
-    "pu_state": "TX",
-    "pu_hours": "0800-1500",
-    "del_date": "2026-10-01",
-    "del_city": "SUGARCREEK",
-    "del_state": "OH",
-    "del_hours": "0700-1400",
-    "equipment": "Van",
-    "weight_lbs": 43401,
-    "carrier_rate": 2500,
-    "updated_at": "2026-09-29T13:07:17.845202+00:00",
-    "lane": "JACKSONVILLE TX-SUGARCREEK OH"
-  },
-  {
     "pro": "50692",
     "status": "OPEN",
     "pu_date": "2026-09-29",
@@ -349,11 +332,11 @@
     "del_date": "2026-10-01",
     "del_city": "JOLIET",
     "del_state": "IL",
-    "del_hours": "",
+    "del_hours": "1230",
     "equipment": "Van",
     "weight_lbs": 9600,
-    "carrier_rate": null,
-    "updated_at": "2026-09-29T12:57:46.516083+00:00",
+    "carrier_rate": 1000,
+    "updated_at": "2026-09-29T13:19:41.114030+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
@@ -366,11 +349,11 @@
     "del_date": "2026-10-01",
     "del_city": "JOLIET",
     "del_state": "IL",
-    "del_hours": "",
+    "del_hours": "1300",
     "equipment": "Van",
     "weight_lbs": 9600,
-    "carrier_rate": null,
-    "updated_at": "2026-09-29T12:58:38.338391+00:00",
+    "carrier_rate": 1000,
+    "updated_at": "2026-09-29T13:19:36.472791+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
@@ -383,11 +366,11 @@
     "del_date": "2026-10-01",
     "del_city": "JOLIET",
     "del_state": "IL",
-    "del_hours": "",
+    "del_hours": "1330",
     "equipment": "Van",
     "weight_lbs": 12480,
-    "carrier_rate": null,
-    "updated_at": "2026-09-29T12:59:39.980754+00:00",
+    "carrier_rate": 1000,
+    "updated_at": "2026-09-29T13:19:32.085608+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
@@ -783,19 +766,19 @@
   },
   {
     "pro": "50687",
-    "status": "CONSIGNEE",
+    "status": "DELIVERED",
     "pu_date": "2026-09-25",
     "pu_city": "WINCHESTER",
     "pu_state": "KY",
     "pu_hours": "1500-1530",
-    "del_date": "2026-09-28",
+    "del_date": "2026-09-29",
     "del_city": "JOLIET",
     "del_state": "IL",
     "del_hours": "1600",
     "equipment": "Van",
     "weight_lbs": 12480,
     "carrier_rate": 1100,
-    "updated_at": "2026-09-28T20:46:36.264669+00:00",
+    "updated_at": "2026-09-29T13:19:57.488356+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
