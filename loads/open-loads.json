@@ -114,9 +114,26 @@
     "del_hours": "0700-1000",
     "equipment": "Van Hazmat",
     "weight_lbs": 44940,
-    "carrier_rate": 2600,
-    "updated_at": "2026-09-29T20:06:29.633728+00:00",
+    "carrier_rate": 2400,
+    "updated_at": "2026-09-29T20:24:04.912348+00:00",
     "lane": "OAKLAND TN-PHENIX CITY AL"
+  },
+  {
+    "pro": "50714",
+    "status": "OPEN",
+    "pu_date": "2026-09-30",
+    "pu_city": "RICHMOND",
+    "pu_state": "VA",
+    "pu_hours": "0700-0730",
+    "del_date": "2026-09-30",
+    "del_city": "PRINCE FREDERICK",
+    "del_state": "MD",
+    "del_hours": "0800-1400",
+    "equipment": "26' Straight Box Truck",
+    "weight_lbs": 1425,
+    "carrier_rate": 350,
+    "updated_at": "2026-09-29T20:22:30.576143+00:00",
+    "lane": "RICHMOND VA-PRINCE FREDERICK MD"
   },
   {
     "pro": "50720",
