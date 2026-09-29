@@ -115,7 +115,7 @@
     "equipment": "Van Hazmat",
     "weight_lbs": 44940,
     "carrier_rate": 2400,
-    "updated_at": "2026-09-29T20:24:04.912348+00:00",
+    "updated_at": "2026-09-29T20:25:51.911153+00:00",
     "lane": "OAKLAND TN-PHENIX CITY AL"
   },
   {
@@ -131,8 +131,8 @@
     "del_hours": "0800-1400",
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 1425,
-    "carrier_rate": 350,
-    "updated_at": "2026-09-29T20:22:30.576143+00:00",
+    "carrier_rate": 375,
+    "updated_at": "2026-09-29T20:26:17.599064+00:00",
     "lane": "RICHMOND VA-PRINCE FREDERICK MD"
   },
   {
@@ -183,7 +183,7 @@
     "equipment": "Van",
     "weight_lbs": 9600,
     "carrier_rate": 1100,
-    "updated_at": "2026-09-29T19:41:23.680704+00:00",
+    "updated_at": "2026-09-29T20:29:29.191155+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
@@ -253,6 +253,23 @@
     "carrier_rate": 2100,
     "updated_at": "2026-09-29T17:17:22.794448+00:00",
     "lane": "JACKSONVILLE TX-MACON GA"
+  },
+  {
+    "pro": "50742",
+    "status": "OPEN",
+    "pu_date": "2026-09-30",
+    "pu_city": "CHESTER",
+    "pu_state": "VA",
+    "pu_hours": "0700-1500",
+    "del_date": "2026-10-01",
+    "del_city": "OWENSBORO",
+    "del_state": "KY",
+    "del_hours": "0730-0900",
+    "equipment": "Van",
+    "weight_lbs": 42840,
+    "carrier_rate": null,
+    "updated_at": "2026-09-29T20:29:42.824285+00:00",
+    "lane": "CHESTER VA-OWENSBORO KY"
   },
   {
     "pro": "50107",
@@ -714,6 +731,23 @@
     "lane": "WINCHESTER KY-JACKSONVILLE FL"
   },
   {
+    "pro": "50646",
+    "status": "RELEASED",
+    "pu_date": "2026-09-24",
+    "pu_city": "CHESTER",
+    "pu_state": "VA",
+    "pu_hours": "0700-1500",
+    "del_date": "2026-09-25",
+    "del_city": "OWENSBORO",
+    "del_state": "KY",
+    "del_hours": "0800-1500",
+    "equipment": "Van",
+    "weight_lbs": 44000,
+    "carrier_rate": 1950,
+    "updated_at": "2026-09-28T14:26:11.832318+00:00",
+    "lane": "CHESTER VA-OWENSBORO KY"
+  },
+  {
     "pro": "50669",
     "status": "DELIVERED",
     "pu_date": "2026-09-24",
@@ -814,6 +848,23 @@
     "carrier_rate": 3850,
     "updated_at": "2026-09-29T15:34:33.843569+00:00",
     "lane": "WINCHESTER KY-UXBRIDGE MA"
+  },
+  {
+    "pro": "50648",
+    "status": "PICKUP",
+    "pu_date": "2026-09-29",
+    "pu_city": "CHESTER",
+    "pu_state": "VA",
+    "pu_hours": "0700-1500",
+    "del_date": "2026-09-30",
+    "del_city": "OWENSBORO",
+    "del_state": "KY",
+    "del_hours": "0730-0900",
+    "equipment": "Van",
+    "weight_lbs": 42840,
+    "carrier_rate": 2000,
+    "updated_at": "2026-09-29T17:26:39.614817+00:00",
+    "lane": "CHESTER VA-OWENSBORO KY"
   },
   {
     "pro": "50719",
