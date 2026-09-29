@@ -1,22 +1,5 @@
 [
   {
-    "pro": "50159",
-    "status": "OPEN",
-    "pu_date": "2026-09-29",
-    "pu_city": "ANNISTON",
-    "pu_state": "AL",
-    "pu_hours": "0800-1400",
-    "del_date": "",
-    "del_city": "RICHARDSON",
-    "del_state": "TX",
-    "del_hours": "",
-    "equipment": "26' Straight Box Truck",
-    "weight_lbs": 8000,
-    "carrier_rate": null,
-    "updated_at": "2026-09-29T12:18:08.018853+00:00",
-    "lane": "ANNISTON AL-RICHARDSON TX"
-  },
-  {
     "pro": "50703",
     "status": "OPEN",
     "pu_date": "2026-09-29",
@@ -34,6 +17,23 @@
     "lane": "OAKLAND TN-PHENIX CITY AL"
   },
   {
+    "pro": "50159",
+    "status": "OPEN",
+    "pu_date": "2026-09-30",
+    "pu_city": "ANNISTON",
+    "pu_state": "AL",
+    "pu_hours": "0800-1400",
+    "del_date": "",
+    "del_city": "RICHARDSON",
+    "del_state": "TX",
+    "del_hours": "",
+    "equipment": "26' Straight Box Truck",
+    "weight_lbs": 8000,
+    "carrier_rate": null,
+    "updated_at": "2026-09-29T19:43:58.515225+00:00",
+    "lane": "ANNISTON AL-RICHARDSON TX"
+  },
+  {
     "pro": "50616",
     "status": "OPEN",
     "pu_date": "2026-09-30",
@@ -46,8 +46,8 @@
     "del_hours": "0500",
     "equipment": "Van",
     "weight_lbs": 12282,
-    "carrier_rate": 2300,
-    "updated_at": "2026-09-29T14:54:04.722621+00:00",
+    "carrier_rate": 2400,
+    "updated_at": "2026-09-29T19:42:48.318266+00:00",
     "lane": "WINCHESTER KY-BURLINGTON NJ"
   },
   {
@@ -63,8 +63,8 @@
     "del_hours": "0700",
     "equipment": "Van",
     "weight_lbs": 11400,
-    "carrier_rate": 2300,
-    "updated_at": "2026-09-23T14:33:17.610524+00:00",
+    "carrier_rate": 2400,
+    "updated_at": "2026-09-29T19:43:00.752353+00:00",
     "lane": "WINCHESTER KY-BURLINGTON NJ"
   },
   {
@@ -80,8 +80,8 @@
     "del_hours": "0500",
     "equipment": "Van",
     "weight_lbs": 4005,
-    "carrier_rate": 2300,
-    "updated_at": "2026-09-29T14:54:24.682768+00:00",
+    "carrier_rate": 2400,
+    "updated_at": "2026-09-29T19:43:20.754892+00:00",
     "lane": "WINCHESTER KY-BURLINGTON NJ"
   },
   {
@@ -148,8 +148,8 @@
     "del_hours": "1930",
     "equipment": "Van",
     "weight_lbs": 14734,
-    "carrier_rate": 1000,
-    "updated_at": "2026-09-29T18:43:00.649104+00:00",
+    "carrier_rate": 1100,
+    "updated_at": "2026-09-29T19:41:00.848147+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
@@ -165,8 +165,8 @@
     "del_hours": "2000",
     "equipment": "Van",
     "weight_lbs": 12480,
-    "carrier_rate": 1000,
-    "updated_at": "2026-09-29T12:51:11.379218+00:00",
+    "carrier_rate": 1100,
+    "updated_at": "2026-09-29T19:41:13.448698+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
@@ -182,8 +182,8 @@
     "del_hours": "1230",
     "equipment": "Van",
     "weight_lbs": 9600,
-    "carrier_rate": 1000,
-    "updated_at": "2026-09-29T13:19:41.114030+00:00",
+    "carrier_rate": 1100,
+    "updated_at": "2026-09-29T19:41:23.680704+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
@@ -199,8 +199,8 @@
     "del_hours": "1300",
     "equipment": "Van",
     "weight_lbs": 9600,
-    "carrier_rate": 1000,
-    "updated_at": "2026-09-29T13:19:36.472791+00:00",
+    "carrier_rate": 1100,
+    "updated_at": "2026-09-29T19:41:34.527681+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
@@ -216,8 +216,8 @@
     "del_hours": "1330",
     "equipment": "Van",
     "weight_lbs": 12480,
-    "carrier_rate": 1000,
-    "updated_at": "2026-09-29T13:19:32.085608+00:00",
+    "carrier_rate": 1100,
+    "updated_at": "2026-09-29T19:41:41.591083+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
