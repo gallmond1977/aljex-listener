@@ -17,23 +17,6 @@
     "lane": "ANNISTON AL-RICHARDSON TX"
   },
   {
-    "pro": "50612",
-    "status": "OPEN",
-    "pu_date": "2026-09-29",
-    "pu_city": "WINCHESTER",
-    "pu_state": "KY",
-    "pu_hours": "0800-1400",
-    "del_date": "2026-09-30",
-    "del_city": "UXBRIDGE",
-    "del_state": "MA",
-    "del_hours": "1700",
-    "equipment": "Van",
-    "weight_lbs": 4871,
-    "carrier_rate": 3500,
-    "updated_at": "2026-09-28T19:24:41.110945+00:00",
-    "lane": "WINCHESTER KY-UXBRIDGE MA"
-  },
-  {
     "pro": "50651",
     "status": "OPEN",
     "pu_date": "2026-09-29",
@@ -64,7 +47,7 @@
     "equipment": "Van",
     "weight_lbs": 43401,
     "carrier_rate": 2500,
-    "updated_at": "2026-09-29T12:59:19.164887+00:00",
+    "updated_at": "2026-09-29T13:01:17.494335+00:00",
     "lane": "JACKSONVILLE TX-SUGARCREEK OH"
   },
   {
@@ -799,23 +782,6 @@
     "lane": "WINCHESTER KY-BURLINGTON NJ"
   },
   {
-    "pro": "50611",
-    "status": "DELIVERED",
-    "pu_date": "2026-09-23",
-    "pu_city": "WINCHESTER",
-    "pu_state": "KY",
-    "pu_hours": "1100-1400",
-    "del_date": "2026-09-25",
-    "del_city": "UXBRIDGE",
-    "del_state": "MA",
-    "del_hours": "1700",
-    "equipment": "Van",
-    "weight_lbs": 10200,
-    "carrier_rate": 3800,
-    "updated_at": "2026-09-28T11:35:23.659316+00:00",
-    "lane": "WINCHESTER KY-UXBRIDGE MA"
-  },
-  {
     "pro": "50626",
     "status": "RELEASED",
     "pu_date": "2026-09-24",
@@ -899,22 +865,5 @@
     "carrier_rate": 1100,
     "updated_at": "2026-09-28T20:46:36.264669+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
-  },
-  {
-    "pro": "50610",
-    "status": "LOADED",
-    "pu_date": "2026-09-28",
-    "pu_city": "WINCHESTER",
-    "pu_state": "KY",
-    "pu_hours": "0800-1500",
-    "del_date": "2026-09-30",
-    "del_city": "UXBRIDGE",
-    "del_state": "MA",
-    "del_hours": "1700",
-    "equipment": "Van",
-    "weight_lbs": 13083,
-    "carrier_rate": 3800,
-    "updated_at": "2026-09-28T18:04:48.160485+00:00",
-    "lane": "WINCHESTER KY-UXBRIDGE MA"
   }
 ]
