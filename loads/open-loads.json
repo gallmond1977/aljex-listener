@@ -170,23 +170,6 @@
     "lane": "RICHMOND VA-PRINCE FREDERICK MD"
   },
   {
-    "pro": "50715",
-    "status": "OPEN",
-    "pu_date": "2026-09-30",
-    "pu_city": "COLUMBUS",
-    "pu_state": "GA",
-    "pu_hours": "1300",
-    "del_date": "2026-10-01",
-    "del_city": "TRYON",
-    "del_state": "NC",
-    "del_hours": "CALL",
-    "equipment": "Van",
-    "weight_lbs": 6520,
-    "carrier_rate": null,
-    "updated_at": "2026-09-28T19:58:01.796654+00:00",
-    "lane": "COLUMBUS GA-TRYON NC"
-  },
-  {
     "pro": "50716",
     "status": "OPEN",
     "pu_date": "2026-09-30",
@@ -199,8 +182,8 @@
     "del_hours": "0800-0900",
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 1500,
-    "carrier_rate": null,
-    "updated_at": "2026-09-29T12:01:34.148808+00:00",
+    "carrier_rate": 700,
+    "updated_at": "2026-09-29T17:37:53.472475+00:00",
     "lane": "COLUMBUS GA-TRYON NC"
   },
   {
