@@ -29,8 +29,8 @@
     "del_hours": "0600-1400",
     "equipment": "Flatbed w/ Tarps",
     "weight_lbs": 46401,
-    "carrier_rate": 1000,
-    "updated_at": "2026-09-29T13:21:51.305885+00:00",
+    "carrier_rate": 1100,
+    "updated_at": "2026-09-29T14:38:31.354288+00:00",
     "lane": "COLUMBUS GA-SANTA ROSA BEACH FL"
   },
   {
@@ -47,7 +47,7 @@
     "equipment": "Van Hazmat",
     "weight_lbs": 44940,
     "carrier_rate": 2200,
-    "updated_at": "2026-09-29T14:34:50.240116+00:00",
+    "updated_at": "2026-09-29T14:38:06.550267+00:00",
     "lane": "OAKLAND TN-PHENIX CITY AL"
   },
   {
@@ -97,8 +97,8 @@
     "del_hours": "1300",
     "equipment": "Reefer",
     "weight_lbs": 33095,
-    "carrier_rate": null,
-    "updated_at": "2026-09-29T12:12:49.385036+00:00",
+    "carrier_rate": 450,
+    "updated_at": "2026-09-29T14:36:20.022803+00:00",
     "lane": "ATLANTA GA-FOREST PARK GA"
   },
   {
@@ -379,7 +379,7 @@
     "pu_date": "2026-10-02",
     "pu_city": "WINCHESTER",
     "pu_state": "KY",
-    "pu_hours": "1100-1300",
+    "pu_hours": "CONFIRM",
     "del_date": "2026-10-05",
     "del_city": "JACKSONVILLE",
     "del_state": "FL",
@@ -387,7 +387,7 @@
     "equipment": "Van",
     "weight_lbs": 4000,
     "carrier_rate": null,
-    "updated_at": "2026-09-29T14:12:40.907346+00:00",
+    "updated_at": "2026-09-29T14:40:03.605783+00:00",
     "lane": "WINCHESTER KY-JACKSONVILLE FL"
   },
   {
