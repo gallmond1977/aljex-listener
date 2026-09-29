@@ -112,10 +112,10 @@
     "del_city": "ATLANTA",
     "del_state": "GA",
     "del_hours": "0800-1600",
-    "equipment": "26' Straight Box Truck",
+    "equipment": "Flatbed",
     "weight_lbs": 10250,
-    "carrier_rate": 200,
-    "updated_at": "2026-09-29T12:20:12.595668+00:00",
+    "carrier_rate": 350,
+    "updated_at": "2026-09-29T13:31:24.783622+00:00",
     "lane": "ATLANTA GA-ATLANTA GA"
   },
   {
@@ -783,7 +783,7 @@
   },
   {
     "pro": "50719",
-    "status": "COVERED",
+    "status": "DISPATCHED",
     "pu_date": "2026-09-29",
     "pu_city": "WINCHESTER",
     "pu_state": "KY",
@@ -795,7 +795,7 @@
     "equipment": "Van",
     "weight_lbs": 16680,
     "carrier_rate": 1100,
-    "updated_at": "2026-09-29T13:14:31.161898+00:00",
+    "updated_at": "2026-09-29T13:34:39.385978+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
   }
 ]
