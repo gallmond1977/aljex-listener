@@ -162,11 +162,11 @@
     "del_date": "2026-09-30",
     "del_city": "JOLIET",
     "del_state": "IL",
-    "del_hours": "",
+    "del_hours": "0830",
     "equipment": "Van",
     "weight_lbs": 16680,
-    "carrier_rate": null,
-    "updated_at": "2026-09-29T12:08:28.698854+00:00",
+    "carrier_rate": 1000,
+    "updated_at": "2026-09-29T12:21:00.967139+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
@@ -179,11 +179,11 @@
     "del_date": "2026-09-30",
     "del_city": "JOLIET",
     "del_state": "IL",
-    "del_hours": "",
+    "del_hours": "1930",
     "equipment": "Van",
     "weight_lbs": 14734,
-    "carrier_rate": null,
-    "updated_at": "2026-09-29T12:04:09.883678+00:00",
+    "carrier_rate": 1000,
+    "updated_at": "2026-09-29T12:22:47.082021+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
@@ -196,11 +196,11 @@
     "del_date": "2026-09-30",
     "del_city": "JOLIET",
     "del_state": "IL",
-    "del_hours": "",
+    "del_hours": "2000",
     "equipment": "Van",
     "weight_lbs": 12480,
-    "carrier_rate": null,
-    "updated_at": "2026-09-29T12:10:25.376567+00:00",
+    "carrier_rate": 1000,
+    "updated_at": "2026-09-29T12:24:49.752754+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
@@ -234,7 +234,7 @@
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 10250,
     "carrier_rate": 200,
-    "updated_at": "2026-09-29T12:19:14.578930+00:00",
+    "updated_at": "2026-09-29T12:20:12.595668+00:00",
     "lane": "ATLANTA GA-ATLANTA GA"
   },
   {
