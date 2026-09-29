@@ -102,23 +102,6 @@
     "lane": "AUBURN AL-TAYLORS SC"
   },
   {
-    "pro": "50719",
-    "status": "OPEN",
-    "pu_date": "2026-09-29",
-    "pu_city": "WINCHESTER",
-    "pu_state": "KY",
-    "pu_hours": "1200-1530",
-    "del_date": "2026-09-30",
-    "del_city": "JOLIET",
-    "del_state": "IL",
-    "del_hours": "0830",
-    "equipment": "Van",
-    "weight_lbs": 16680,
-    "carrier_rate": 1000,
-    "updated_at": "2026-09-29T12:28:47.338228+00:00",
-    "lane": "WINCHESTER KY-JOLIET IL"
-  },
-  {
     "pro": "50723",
     "status": "OPEN",
     "pu_date": "2026-09-29",
@@ -813,6 +796,23 @@
     "weight_lbs": 12480,
     "carrier_rate": 1100,
     "updated_at": "2026-09-28T20:46:36.264669+00:00",
+    "lane": "WINCHESTER KY-JOLIET IL"
+  },
+  {
+    "pro": "50719",
+    "status": "COVERED",
+    "pu_date": "2026-09-29",
+    "pu_city": "WINCHESTER",
+    "pu_state": "KY",
+    "pu_hours": "1200-1530",
+    "del_date": "2026-09-30",
+    "del_city": "JOLIET",
+    "del_state": "IL",
+    "del_hours": "0830",
+    "equipment": "Van",
+    "weight_lbs": 16680,
+    "carrier_rate": 1100,
+    "updated_at": "2026-09-29T13:14:31.161898+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
   }
 ]
