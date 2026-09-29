@@ -102,23 +102,6 @@
     "lane": "DALLAS NC-MUSCLE SHOALS AL"
   },
   {
-    "pro": "50598",
-    "status": "OPEN",
-    "pu_date": "2026-09-30",
-    "pu_city": "ATLANTA",
-    "pu_state": "GA",
-    "pu_hours": "1000",
-    "del_date": "2026-09-30",
-    "del_city": "FOREST PARK",
-    "del_state": "GA",
-    "del_hours": "1300",
-    "equipment": "Reefer",
-    "weight_lbs": 33095,
-    "carrier_rate": 450,
-    "updated_at": "2026-09-29T14:52:05.488884+00:00",
-    "lane": "ATLANTA GA-FOREST PARK GA"
-  },
-  {
     "pro": "50616",
     "status": "OPEN",
     "pu_date": "2026-09-30",
@@ -780,23 +763,6 @@
     "carrier_rate": 2500,
     "updated_at": "2026-09-25T20:20:59.315094+00:00",
     "lane": "BENSENVILLE IL-BELCAMP MD"
-  },
-  {
-    "pro": "50529",
-    "status": "DELIVERED",
-    "pu_date": "2026-09-25",
-    "pu_city": "ATLANTA",
-    "pu_state": "GA",
-    "pu_hours": "1530",
-    "del_date": "2026-09-26",
-    "del_city": "FOREST PARK",
-    "del_state": "GA",
-    "del_hours": "2200",
-    "equipment": "Reefer",
-    "weight_lbs": 33095,
-    "carrier_rate": 580,
-    "updated_at": "2026-09-28T19:07:04.083914+00:00",
-    "lane": "ATLANTA GA-FOREST PARK GA"
   },
   {
     "pro": "50687",
