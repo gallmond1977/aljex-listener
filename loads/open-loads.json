@@ -336,7 +336,7 @@
     "equipment": "Van",
     "weight_lbs": 44500,
     "carrier_rate": 2100,
-    "updated_at": "2026-09-29T17:13:11.907125+00:00",
+    "updated_at": "2026-09-29T17:17:22.794448+00:00",
     "lane": "JACKSONVILLE TX-MACON GA"
   },
   {
@@ -438,7 +438,7 @@
     "equipment": "Reefer",
     "weight_lbs": 43500,
     "carrier_rate": null,
-    "updated_at": "2026-09-24T12:23:55.990120+00:00",
+    "updated_at": "2026-09-29T17:19:52.781448+00:00",
     "lane": "GREENWOOD WI-LITHIA SPRINGS GA"
   },
   {
