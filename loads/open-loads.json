@@ -46,8 +46,8 @@
     "del_hours": "0700-1000",
     "equipment": "Van Hazmat",
     "weight_lbs": 44940,
-    "carrier_rate": 2000,
-    "updated_at": "2026-09-28T20:06:10.685759+00:00",
+    "carrier_rate": 2200,
+    "updated_at": "2026-09-29T14:25:45.693229+00:00",
     "lane": "OAKLAND TN-PHENIX CITY AL"
   },
   {
@@ -64,7 +64,7 @@
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 8000,
     "carrier_rate": 1600,
-    "updated_at": "2026-09-29T14:14:07.178189+00:00",
+    "updated_at": "2026-09-29T14:26:39.849431+00:00",
     "lane": "BELCAMP MD-KANSAS CITY MO"
   },
   {
