@@ -285,7 +285,7 @@
     "equipment": "Reefer",
     "weight_lbs": 43500,
     "carrier_rate": null,
-    "updated_at": "2026-09-29T19:58:41.309435+00:00",
+    "updated_at": "2026-09-29T20:05:00.706408+00:00",
     "lane": "GREENWOOD WI-LITHIA SPRINGS GA"
   },
   {
@@ -298,11 +298,11 @@
     "del_date": "2026-10-02",
     "del_city": "DUBLIN",
     "del_state": "GA",
-    "del_hours": "0700-1500",
+    "del_hours": "CALL!",
     "equipment": "Van",
     "weight_lbs": 15000,
     "carrier_rate": 650,
-    "updated_at": "2026-09-29T19:55:38.960467+00:00",
+    "updated_at": "2026-09-29T20:02:51.971567+00:00",
     "lane": "NEWNAN GA-DUBLIN GA"
   },
   {
