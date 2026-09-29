@@ -119,23 +119,6 @@
     "lane": "OAKLAND TN-PHENIX CITY AL"
   },
   {
-    "pro": "50714",
-    "status": "OPEN",
-    "pu_date": "2026-09-30",
-    "pu_city": "RICHMOND",
-    "pu_state": "VA",
-    "pu_hours": "0700-0730",
-    "del_date": "2026-09-30",
-    "del_city": "PRINCE FREDERICK",
-    "del_state": "MD",
-    "del_hours": "0800-1400",
-    "equipment": "26' Straight Box Truck",
-    "weight_lbs": 1425,
-    "carrier_rate": 350,
-    "updated_at": "2026-09-29T19:49:49.058686+00:00",
-    "lane": "RICHMOND VA-PRINCE FREDERICK MD"
-  },
-  {
     "pro": "50720",
     "status": "OPEN",
     "pu_date": "2026-09-30",
