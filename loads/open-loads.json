@@ -80,26 +80,9 @@
     "del_hours": "0800-1430",
     "equipment": "Van",
     "weight_lbs": 33600,
-    "carrier_rate": 900,
-    "updated_at": "2026-09-29T13:48:55.048221+00:00",
+    "carrier_rate": 1000,
+    "updated_at": "2026-09-29T13:53:20.116331+00:00",
     "lane": "MONTGOMERY AL-WAYCROSS GA"
-  },
-  {
-    "pro": "50724",
-    "status": "OPEN",
-    "pu_date": "2026-09-29",
-    "pu_city": "ATLANTA",
-    "pu_state": "GA",
-    "pu_hours": "0900-1300",
-    "del_date": "2026-09-29",
-    "del_city": "ATLANTA",
-    "del_state": "GA",
-    "del_hours": "0800-1600",
-    "equipment": "Flatbed",
-    "weight_lbs": 10250,
-    "carrier_rate": 350,
-    "updated_at": "2026-09-29T13:48:45.217738+00:00",
-    "lane": "ATLANTA GA-ATLANTA GA"
   },
   {
     "pro": "50728",
@@ -115,7 +98,7 @@
     "equipment": "Van",
     "weight_lbs": 20102,
     "carrier_rate": 2400,
-    "updated_at": "2026-09-29T13:42:09.858777+00:00",
+    "updated_at": "2026-09-29T13:51:03.828258+00:00",
     "lane": "PITTSBURG KS-ASHLAND OH"
   },
   {
