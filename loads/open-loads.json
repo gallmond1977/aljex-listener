@@ -153,23 +153,6 @@
     "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
-    "pro": "50722",
-    "status": "OPEN",
-    "pu_date": "2026-09-29",
-    "pu_city": "WINCHESTER",
-    "pu_state": "KY",
-    "pu_hours": "1200-1530",
-    "del_date": "2026-09-30",
-    "del_city": "JOLIET",
-    "del_state": "IL",
-    "del_hours": "2000",
-    "equipment": "Van",
-    "weight_lbs": 12480,
-    "carrier_rate": 1000,
-    "updated_at": "2026-09-29T12:30:07.873486+00:00",
-    "lane": "WINCHESTER KY-JOLIET IL"
-  },
-  {
     "pro": "50723",
     "status": "OPEN",
     "pu_date": "2026-09-29",
@@ -391,21 +374,21 @@
     "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
-    "pro": "50721",
+    "pro": "50722",
     "status": "OPEN",
     "pu_date": "2026-09-30",
-    "pu_city": "COLUMBUS",
-    "pu_state": "GA",
-    "pu_hours": "0800-1500",
-    "del_date": "2026-10-01",
-    "del_city": "STEVENS",
-    "del_state": "PA",
-    "del_hours": "0700-1500",
+    "pu_city": "WINCHESTER",
+    "pu_state": "KY",
+    "pu_hours": "0800-1300",
+    "del_date": "2026-09-30",
+    "del_city": "JOLIET",
+    "del_state": "IL",
+    "del_hours": "2000",
     "equipment": "Van",
-    "weight_lbs": 44250,
-    "carrier_rate": 2800,
-    "updated_at": "2026-09-29T12:03:13.522482+00:00",
-    "lane": "COLUMBUS GA-STEVENS PA"
+    "weight_lbs": 12480,
+    "carrier_rate": 1000,
+    "updated_at": "2026-09-29T12:51:11.379218+00:00",
+    "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
     "pro": "50725",
@@ -797,23 +780,6 @@
     "carrier_rate": 4300,
     "updated_at": "2026-09-25T12:04:43.918451+00:00",
     "lane": "MOUNT STERLING KY-MIRA LOMA CA"
-  },
-  {
-    "pro": "50597",
-    "status": "RELEASED",
-    "pu_date": "2026-09-22",
-    "pu_city": "COLUMBUS",
-    "pu_state": "GA",
-    "pu_hours": "0800-1500",
-    "del_date": "2026-09-23",
-    "del_city": "STEVENS",
-    "del_state": "PA",
-    "del_hours": "0700-1500",
-    "equipment": "Van",
-    "weight_lbs": 44415,
-    "carrier_rate": 2700,
-    "updated_at": "2026-09-28T19:51:49.406573+00:00",
-    "lane": "COLUMBUS GA-STEVENS PA"
   },
   {
     "pro": "50524",
