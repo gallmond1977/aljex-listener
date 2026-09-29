@@ -166,7 +166,7 @@
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 1425,
     "carrier_rate": 250,
-    "updated_at": "2026-09-29T15:14:07.547982+00:00",
+    "updated_at": "2026-09-29T17:56:25.726818+00:00",
     "lane": "RICHMOND VA-PRINCE FREDERICK MD"
   },
   {
@@ -766,7 +766,7 @@
   },
   {
     "pro": "50719",
-    "status": "PICKUP",
+    "status": "LOADED",
     "pu_date": "2026-09-29",
     "pu_city": "WINCHESTER",
     "pu_state": "KY",
@@ -778,7 +778,7 @@
     "equipment": "Van",
     "weight_lbs": 16680,
     "carrier_rate": 1100,
-    "updated_at": "2026-09-29T16:49:45.705195+00:00",
+    "updated_at": "2026-09-29T17:55:51.110951+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
   }
 ]
