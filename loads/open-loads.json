@@ -166,7 +166,7 @@
     "equipment": "Van",
     "weight_lbs": 14734,
     "carrier_rate": 1000,
-    "updated_at": "2026-09-29T12:49:45.295439+00:00",
+    "updated_at": "2026-09-29T18:43:00.649104+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
@@ -284,8 +284,8 @@
     "del_hours": "0600-1400",
     "equipment": "Flatbed w/ Tarps",
     "weight_lbs": 45640,
-    "carrier_rate": null,
-    "updated_at": "2026-09-29T18:37:59.577488+00:00",
+    "carrier_rate": 1400,
+    "updated_at": "2026-09-29T18:40:34.236700+00:00",
     "lane": "VILLA RICA GA-SANTA ROSA BEACH FL"
   },
   {
