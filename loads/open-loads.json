@@ -272,23 +272,6 @@
     "lane": "JACKSONVILLE TX-MACON GA"
   },
   {
-    "pro": "50700",
-    "status": "OPEN",
-    "pu_date": "2026-10-01",
-    "pu_city": "WINCHESTER",
-    "pu_state": "KY",
-    "pu_hours": "",
-    "del_date": "",
-    "del_city": "HIALEAH",
-    "del_state": "FL",
-    "del_hours": "",
-    "equipment": "Van",
-    "weight_lbs": 4572,
-    "carrier_rate": 5000,
-    "updated_at": "2026-09-29T15:42:58.876131+00:00",
-    "lane": "WINCHESTER KY-HIALEAH FL"
-  },
-  {
     "pro": "50107",
     "status": "OPEN",
     "pu_date": "2026-10-02",
@@ -372,6 +355,23 @@
     "carrier_rate": null,
     "updated_at": "2026-09-29T17:26:19.387632+00:00",
     "lane": "GREENWOOD WI-LITHIA SPRINGS GA"
+  },
+  {
+    "pro": "50700",
+    "status": "OPEN",
+    "pu_date": "2026-10-06",
+    "pu_city": "WINCHESTER",
+    "pu_state": "KY",
+    "pu_hours": "",
+    "del_date": "",
+    "del_city": "HIALEAH",
+    "del_state": "FL",
+    "del_hours": "",
+    "equipment": "Van",
+    "weight_lbs": 4572,
+    "carrier_rate": 5000,
+    "updated_at": "2026-09-29T18:18:08.239772+00:00",
+    "lane": "WINCHESTER KY-HIALEAH FL"
   },
   {
     "pro": "50691",
