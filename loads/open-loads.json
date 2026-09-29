@@ -234,7 +234,7 @@
     "equipment": "Van",
     "weight_lbs": 42840,
     "carrier_rate": 2300,
-    "updated_at": "2026-09-29T20:53:18.886507+00:00",
+    "updated_at": "2026-09-29T21:00:01.704693+00:00",
     "lane": "CHESTER VA-QUINCY IL"
   },
   {
@@ -406,6 +406,23 @@
     "carrier_rate": null,
     "updated_at": "2026-09-25T15:56:42.772808+00:00",
     "lane": "ALLENTOWN PA-GREENVILLE NC"
+  },
+  {
+    "pro": "50743",
+    "status": "OPEN",
+    "pu_date": "2026-10-09",
+    "pu_city": "ATLANTA",
+    "pu_state": "GA",
+    "pu_hours": "",
+    "del_date": "2026-10-09",
+    "del_city": "DECATUR",
+    "del_state": "GA",
+    "del_hours": "",
+    "equipment": "Reefer",
+    "weight_lbs": 22150,
+    "carrier_rate": 450,
+    "updated_at": "2026-09-29T20:58:56.202719+00:00",
+    "lane": "ATLANTA GA-DECATUR GA"
   },
   {
     "pro": "50082",
@@ -731,6 +748,23 @@
     "lane": "JACKSONVILLE TX-MACON GA"
   },
   {
+    "pro": "50595",
+    "status": "RELEASED",
+    "pu_date": "2026-09-25",
+    "pu_city": "ATLANTA",
+    "pu_state": "GA",
+    "pu_hours": "0700",
+    "del_date": "2026-09-25",
+    "del_city": "DECATUR",
+    "del_state": "GA",
+    "del_hours": "1000",
+    "equipment": "Reefer",
+    "weight_lbs": 21264,
+    "carrier_rate": 450,
+    "updated_at": "2026-09-25T19:24:24.716215+00:00",
+    "lane": "ATLANTA GA-DECATUR GA"
+  },
+  {
     "pro": "50687",
     "status": "DELIVERED",
     "pu_date": "2026-09-25",
@@ -816,6 +850,23 @@
     "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
+    "pro": "50694",
+    "status": "COVERED",
+    "pu_date": "2026-09-30",
+    "pu_city": "ATLANTA",
+    "pu_state": "GA",
+    "pu_hours": "0700",
+    "del_date": "2026-09-30",
+    "del_city": "DECATUR",
+    "del_state": "GA",
+    "del_hours": "1000",
+    "equipment": "Reefer",
+    "weight_lbs": 24808,
+    "carrier_rate": 450,
+    "updated_at": "2026-09-29T11:55:37.529175+00:00",
+    "lane": "ATLANTA GA-DECATUR GA"
+  },
+  {
     "pro": "50725",
     "status": "COVERED",
     "pu_date": "2026-09-30",
@@ -831,5 +882,22 @@
     "carrier_rate": 1200,
     "updated_at": "2026-09-29T20:45:46.576372+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
+  },
+  {
+    "pro": "50731",
+    "status": "COVERED",
+    "pu_date": "2026-09-30",
+    "pu_city": "ATLANTA",
+    "pu_state": "GA",
+    "pu_hours": "0730",
+    "del_date": "2026-09-30",
+    "del_city": "DECATUR",
+    "del_state": "GA",
+    "del_hours": "1100",
+    "equipment": "Reefer",
+    "weight_lbs": 24808,
+    "carrier_rate": 450,
+    "updated_at": "2026-09-29T15:29:21.803644+00:00",
+    "lane": "ATLANTA GA-DECATUR GA"
   }
 ]
