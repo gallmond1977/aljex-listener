@@ -68,23 +68,6 @@
     "lane": "BELCAMP MD-KANSAS CITY MO"
   },
   {
-    "pro": "50718",
-    "status": "OPEN",
-    "pu_date": "2026-09-29",
-    "pu_city": "AUBURN",
-    "pu_state": "AL",
-    "pu_hours": "0800-1500",
-    "del_date": "2026-09-30",
-    "del_city": "TAYLORS",
-    "del_state": "SC",
-    "del_hours": "",
-    "equipment": "Van Hazmat",
-    "weight_lbs": 6500,
-    "carrier_rate": 1200,
-    "updated_at": "2026-09-29T12:40:01.677447+00:00",
-    "lane": "AUBURN AL-TAYLORS SC"
-  },
-  {
     "pro": "50723",
     "status": "OPEN",
     "pu_date": "2026-09-29",
@@ -117,6 +100,23 @@
     "carrier_rate": 350,
     "updated_at": "2026-09-29T13:36:29.324406+00:00",
     "lane": "ATLANTA GA-ATLANTA GA"
+  },
+  {
+    "pro": "50728",
+    "status": "OPEN",
+    "pu_date": "2026-09-29",
+    "pu_city": "PITTSBURG",
+    "pu_state": "KS",
+    "pu_hours": "0800-1400",
+    "del_date": "2026-09-30",
+    "del_city": "ASHLAND",
+    "del_state": "OH",
+    "del_hours": "0800-1500",
+    "equipment": "Van",
+    "weight_lbs": 20102,
+    "carrier_rate": 2400,
+    "updated_at": "2026-09-29T13:42:09.858777+00:00",
+    "lane": "PITTSBURG KS-ASHLAND OH"
   },
   {
     "pro": "50405",
