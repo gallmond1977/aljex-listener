@@ -234,7 +234,7 @@
     "equipment": "Van",
     "weight_lbs": 42840,
     "carrier_rate": 2300,
-    "updated_at": "2026-09-29T21:00:01.704693+00:00",
+    "updated_at": "2026-09-29T21:00:23.459098+00:00",
     "lane": "CHESTER VA-QUINCY IL"
   },
   {
@@ -417,11 +417,28 @@
     "del_date": "2026-10-09",
     "del_city": "DECATUR",
     "del_state": "GA",
-    "del_hours": "",
+    "del_hours": "1000",
     "equipment": "Reefer",
     "weight_lbs": 22150,
     "carrier_rate": 450,
-    "updated_at": "2026-09-29T20:58:56.202719+00:00",
+    "updated_at": "2026-09-29T21:00:36.241120+00:00",
+    "lane": "ATLANTA GA-DECATUR GA"
+  },
+  {
+    "pro": "50744",
+    "status": "OPEN",
+    "pu_date": "2026-10-09",
+    "pu_city": "ATLANTA",
+    "pu_state": "GA",
+    "pu_hours": "",
+    "del_date": "2026-10-09",
+    "del_city": "DECATUR",
+    "del_state": "GA",
+    "del_hours": "1100",
+    "equipment": "Reefer",
+    "weight_lbs": 21264,
+    "carrier_rate": 450,
+    "updated_at": "2026-09-29T21:03:32.547380+00:00",
     "lane": "ATLANTA GA-DECATUR GA"
   },
   {
