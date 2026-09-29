@@ -340,6 +340,23 @@
     "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
+    "pro": "50731",
+    "status": "OPEN",
+    "pu_date": "2026-09-30",
+    "pu_city": "ATLANTA",
+    "pu_state": "GA",
+    "pu_hours": "",
+    "del_date": "2026-09-30",
+    "del_city": "DECATUR",
+    "del_state": "GA",
+    "del_hours": "1000",
+    "equipment": "Reefer",
+    "weight_lbs": 24808,
+    "carrier_rate": 450,
+    "updated_at": "2026-09-29T14:24:19.001694+00:00",
+    "lane": "ATLANTA GA-DECATUR GA"
+  },
+  {
     "pro": "50648",
     "status": "OPEN",
     "pu_date": "2026-10-01",
@@ -799,6 +816,23 @@
     "lane": "ATLANTA GA-FOREST PARK GA"
   },
   {
+    "pro": "50595",
+    "status": "RELEASED",
+    "pu_date": "2026-09-25",
+    "pu_city": "ATLANTA",
+    "pu_state": "GA",
+    "pu_hours": "0700",
+    "del_date": "2026-09-25",
+    "del_city": "DECATUR",
+    "del_state": "GA",
+    "del_hours": "1000",
+    "equipment": "Reefer",
+    "weight_lbs": 21264,
+    "carrier_rate": 450,
+    "updated_at": "2026-09-25T19:24:24.716215+00:00",
+    "lane": "ATLANTA GA-DECATUR GA"
+  },
+  {
     "pro": "50687",
     "status": "DELIVERED",
     "pu_date": "2026-09-25",
@@ -848,5 +882,22 @@
     "carrier_rate": 1100,
     "updated_at": "2026-09-29T14:19:58.345619+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
+  },
+  {
+    "pro": "50694",
+    "status": "COVERED",
+    "pu_date": "2026-09-30",
+    "pu_city": "ATLANTA",
+    "pu_state": "GA",
+    "pu_hours": "0700",
+    "del_date": "2026-09-30",
+    "del_city": "DECATUR",
+    "del_state": "GA",
+    "del_hours": "1000",
+    "equipment": "Reefer",
+    "weight_lbs": 24808,
+    "carrier_rate": 450,
+    "updated_at": "2026-09-29T11:55:37.529175+00:00",
+    "lane": "ATLANTA GA-DECATUR GA"
   }
 ]
