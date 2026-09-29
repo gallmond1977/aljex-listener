@@ -63,8 +63,8 @@
     "del_hours": "0700-1000",
     "equipment": "Van Hazmat",
     "weight_lbs": 44940,
-    "carrier_rate": 2200,
-    "updated_at": "2026-09-29T14:38:06.550267+00:00",
+    "carrier_rate": 2400,
+    "updated_at": "2026-09-29T15:42:00.347480+00:00",
     "lane": "OAKLAND TN-PHENIX CITY AL"
   },
   {
@@ -353,7 +353,7 @@
     "equipment": "Van",
     "weight_lbs": 4572,
     "carrier_rate": 5000,
-    "updated_at": "2026-09-28T19:57:36.248528+00:00",
+    "updated_at": "2026-09-29T15:42:58.876131+00:00",
     "lane": "WINCHESTER KY-HIALEAH FL"
   },
   {
