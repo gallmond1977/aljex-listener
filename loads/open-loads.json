@@ -13,7 +13,7 @@
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 8000,
     "carrier_rate": null,
-    "updated_at": "2026-09-28T17:16:44.598904+00:00",
+    "updated_at": "2026-09-29T12:18:08.018853+00:00",
     "lane": "ANNISTON AL-RICHARDSON TX"
   },
   {
@@ -202,6 +202,40 @@
     "carrier_rate": null,
     "updated_at": "2026-09-29T12:10:25.376567+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
+  },
+  {
+    "pro": "50723",
+    "status": "OPEN",
+    "pu_date": "2026-09-29",
+    "pu_city": "MONTGOMERY",
+    "pu_state": "AL",
+    "pu_hours": "1100-1630",
+    "del_date": "2026-09-30",
+    "del_city": "WAYCROSS",
+    "del_state": "GA",
+    "del_hours": "0800-1430",
+    "equipment": "Van",
+    "weight_lbs": 33600,
+    "carrier_rate": 900,
+    "updated_at": "2026-09-29T12:16:43.841358+00:00",
+    "lane": "MONTGOMERY AL-WAYCROSS GA"
+  },
+  {
+    "pro": "50724",
+    "status": "OPEN",
+    "pu_date": "2026-09-29",
+    "pu_city": "ATLANTA",
+    "pu_state": "GA",
+    "pu_hours": "0900-1300",
+    "del_date": "2026-09-29",
+    "del_city": "ATLANTA",
+    "del_state": "GA",
+    "del_hours": "0800-1600",
+    "equipment": "26' Straight Box Truck",
+    "weight_lbs": 10250,
+    "carrier_rate": 200,
+    "updated_at": "2026-09-29T12:19:14.578930+00:00",
+    "lane": "ATLANTA GA-ATLANTA GA"
   },
   {
     "pro": "50405",
