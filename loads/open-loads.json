@@ -272,23 +272,6 @@
     "lane": "JACKSONVILLE TX-JACKSON MS"
   },
   {
-    "pro": "50694",
-    "status": "OPEN",
-    "pu_date": "2026-09-30",
-    "pu_city": "ATLANTA",
-    "pu_state": "GA",
-    "pu_hours": "0700",
-    "del_date": "2026-09-30",
-    "del_city": "DECATUR",
-    "del_state": "GA",
-    "del_hours": "",
-    "equipment": "Reefer",
-    "weight_lbs": 24808,
-    "carrier_rate": 450,
-    "updated_at": "2026-09-28T20:26:25.514800+00:00",
-    "lane": "ATLANTA GA-DECATUR GA"
-  },
-  {
     "pro": "50714",
     "status": "OPEN",
     "pu_date": "2026-09-30",
@@ -780,23 +763,6 @@
     "carrier_rate": 580,
     "updated_at": "2026-09-28T19:07:04.083914+00:00",
     "lane": "ATLANTA GA-FOREST PARK GA"
-  },
-  {
-    "pro": "50595",
-    "status": "RELEASED",
-    "pu_date": "2026-09-25",
-    "pu_city": "ATLANTA",
-    "pu_state": "GA",
-    "pu_hours": "0700",
-    "del_date": "2026-09-25",
-    "del_city": "DECATUR",
-    "del_state": "GA",
-    "del_hours": "1000",
-    "equipment": "Reefer",
-    "weight_lbs": 21264,
-    "carrier_rate": 450,
-    "updated_at": "2026-09-25T19:24:24.716215+00:00",
-    "lane": "ATLANTA GA-DECATUR GA"
   },
   {
     "pro": "50610",
