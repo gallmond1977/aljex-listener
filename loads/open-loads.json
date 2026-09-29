@@ -51,23 +51,6 @@
     "lane": "OAKLAND TN-PHENIX CITY AL"
   },
   {
-    "pro": "50736",
-    "status": "OPEN",
-    "pu_date": "2026-09-29",
-    "pu_city": "CERRITOS",
-    "pu_state": "CA",
-    "pu_hours": "1400",
-    "del_date": "2026-09-29",
-    "del_city": "ANAHEIM",
-    "del_state": "CA",
-    "del_hours": "0800-1500",
-    "equipment": "26' Straight Box Truck",
-    "weight_lbs": 1000,
-    "carrier_rate": 200,
-    "updated_at": "2026-09-29T17:44:39.866617+00:00",
-    "lane": "CERRITOS CA-ANAHEIM CA"
-  },
-  {
     "pro": "50405",
     "status": "OPEN",
     "pu_date": "2026-09-30",
