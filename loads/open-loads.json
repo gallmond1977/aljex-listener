@@ -1,22 +1,5 @@
 [
   {
-    "pro": "50703",
-    "status": "OPEN",
-    "pu_date": "2026-09-29",
-    "pu_city": "OAKLAND",
-    "pu_state": "TN",
-    "pu_hours": "0800-1500",
-    "del_date": "2026-09-30",
-    "del_city": "PHENIX CITY",
-    "del_state": "AL",
-    "del_hours": "0700-1000",
-    "equipment": "Van Hazmat",
-    "weight_lbs": 44940,
-    "carrier_rate": 2600,
-    "updated_at": "2026-09-29T16:56:39.402180+00:00",
-    "lane": "OAKLAND TN-PHENIX CITY AL"
-  },
-  {
     "pro": "50159",
     "status": "OPEN",
     "pu_date": "2026-09-30",
@@ -117,6 +100,23 @@
     "carrier_rate": 900,
     "updated_at": "2026-09-24T17:47:08.911768+00:00",
     "lane": "JACKSONVILLE TX-JACKSON MS"
+  },
+  {
+    "pro": "50703",
+    "status": "OPEN",
+    "pu_date": "2026-09-30",
+    "pu_city": "OAKLAND",
+    "pu_state": "TN",
+    "pu_hours": "0800-1500",
+    "del_date": "2026-10-01",
+    "del_city": "PHENIX CITY",
+    "del_state": "AL",
+    "del_hours": "0700-1000",
+    "equipment": "Van Hazmat",
+    "weight_lbs": 44940,
+    "carrier_rate": 2600,
+    "updated_at": "2026-09-29T20:06:29.633728+00:00",
+    "lane": "OAKLAND TN-PHENIX CITY AL"
   },
   {
     "pro": "50714",
@@ -284,8 +284,8 @@
     "del_hours": "0800",
     "equipment": "Reefer",
     "weight_lbs": 43500,
-    "carrier_rate": null,
-    "updated_at": "2026-09-29T20:05:00.706408+00:00",
+    "carrier_rate": 5000,
+    "updated_at": "2026-09-29T20:09:48.762383+00:00",
     "lane": "GREENWOOD WI-LITHIA SPRINGS GA"
   },
   {
