@@ -323,6 +323,23 @@
     "lane": "LAGRANGE GA-ORLANDO FL"
   },
   {
+    "pro": "50735",
+    "status": "OPEN",
+    "pu_date": "2026-09-30",
+    "pu_city": "JACKSONVILLE",
+    "pu_state": "TX",
+    "pu_hours": "0800-1500",
+    "del_date": "2026-10-02",
+    "del_city": "MACON",
+    "del_state": "GA",
+    "del_hours": "0800-1500",
+    "equipment": "Van",
+    "weight_lbs": 44500,
+    "carrier_rate": null,
+    "updated_at": "2026-09-29T17:04:51.348845+00:00",
+    "lane": "JACKSONVILLE TX-MACON GA"
+  },
+  {
     "pro": "50700",
     "status": "OPEN",
     "pu_date": "2026-10-01",
@@ -729,6 +746,23 @@
     "carrier_rate": 2500,
     "updated_at": "2026-09-25T20:20:59.315094+00:00",
     "lane": "BENSENVILLE IL-BELCAMP MD"
+  },
+  {
+    "pro": "50671",
+    "status": "RELEASED",
+    "pu_date": "2026-09-24",
+    "pu_city": "JACKSONVILLE",
+    "pu_state": "TX",
+    "pu_hours": "0800-1500",
+    "del_date": "2026-09-25",
+    "del_city": "MACON",
+    "del_state": "GA",
+    "del_hours": "0800-1300",
+    "equipment": "Van",
+    "weight_lbs": 44500,
+    "carrier_rate": 2300,
+    "updated_at": "2026-09-28T14:27:25.152046+00:00",
+    "lane": "JACKSONVILLE TX-MACON GA"
   },
   {
     "pro": "50687",
