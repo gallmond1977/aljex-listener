@@ -90,7 +90,7 @@
     "pu_date": "2026-09-29",
     "pu_city": "BUFFALO",
     "pu_state": "NY",
-    "pu_hours": "1200-1500",
+    "pu_hours": "",
     "del_date": "2026-09-30",
     "del_city": "BELCAMP",
     "del_state": "MD",
@@ -98,7 +98,7 @@
     "equipment": "Van",
     "weight_lbs": 15500,
     "carrier_rate": null,
-    "updated_at": "2026-09-29T16:03:00.868553+00:00",
+    "updated_at": "2026-09-29T16:05:21.407097+00:00",
     "lane": "BUFFALO NY-BELCAMP MD"
   },
   {
