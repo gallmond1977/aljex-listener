@@ -170,6 +170,23 @@
     "lane": "GREENWOOD WI-LITHIA SPRINGS GA"
   },
   {
+    "pro": "50657",
+    "status": "OPEN",
+    "pu_date": "2026-10-02",
+    "pu_city": "GREENWOOD",
+    "pu_state": "WI",
+    "pu_hours": "1930",
+    "del_date": "2026-10-07",
+    "del_city": "LITHIA SPRINGS",
+    "del_state": "GA",
+    "del_hours": "1000",
+    "equipment": "Reefer",
+    "weight_lbs": 43500,
+    "carrier_rate": null,
+    "updated_at": "2026-09-30T19:43:39.311730+00:00",
+    "lane": "GREENWOOD WI-LITHIA SPRINGS GA"
+  },
+  {
     "pro": "50739",
     "status": "OPEN",
     "pu_date": "2026-10-02",
@@ -253,23 +270,6 @@
     "carrier_rate": 900,
     "updated_at": "2026-09-30T16:46:06.095789+00:00",
     "lane": "MONCURE NC-ATLANTA GA"
-  },
-  {
-    "pro": "50657",
-    "status": "OPEN",
-    "pu_date": "2026-10-05",
-    "pu_city": "GREENWOOD",
-    "pu_state": "WI",
-    "pu_hours": "1400",
-    "del_date": "2026-10-07",
-    "del_city": "LITHIA SPRINGS",
-    "del_state": "GA",
-    "del_hours": "1000",
-    "equipment": "Reefer",
-    "weight_lbs": 43500,
-    "carrier_rate": null,
-    "updated_at": "2026-09-30T17:01:43.419503+00:00",
-    "lane": "GREENWOOD WI-LITHIA SPRINGS GA"
   },
   {
     "pro": "50677",
