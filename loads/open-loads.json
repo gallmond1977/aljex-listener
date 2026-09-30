@@ -136,23 +136,6 @@
     "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
-    "pro": "50767",
-    "status": "OPEN",
-    "pu_date": "2026-10-01",
-    "pu_city": "COLUMBUS",
-    "pu_state": "GA",
-    "pu_hours": "0800-1000",
-    "del_date": "2026-10-01",
-    "del_city": "WARNER ROBINS",
-    "del_state": "GA",
-    "del_hours": "1200-1300",
-    "equipment": "Flatbed Hot Shot",
-    "weight_lbs": 4500,
-    "carrier_rate": 450,
-    "updated_at": "2026-09-30T20:49:34.991538+00:00",
-    "lane": "COLUMBUS GA-WARNER ROBINS GA"
-  },
-  {
     "pro": "50107",
     "status": "OPEN",
     "pu_date": "2026-10-02",
