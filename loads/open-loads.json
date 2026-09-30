@@ -217,8 +217,25 @@
     "equipment": "Van",
     "weight_lbs": 42840,
     "carrier_rate": 2300,
-    "updated_at": "2026-09-30T12:33:20.491017+00:00",
+    "updated_at": "2026-09-30T12:36:24.002643+00:00",
     "lane": "CHESTER VA-QUINCY IL"
+  },
+  {
+    "pro": "50746",
+    "status": "OPEN",
+    "pu_date": "2026-09-30",
+    "pu_city": "LILLINGTON",
+    "pu_state": "NC",
+    "pu_hours": "0900-1200",
+    "del_date": "2026-10-01",
+    "del_city": "CHARLESTON",
+    "del_state": "SC",
+    "del_hours": "0700-1500",
+    "equipment": "26' Straight Box Truck",
+    "weight_lbs": 1000,
+    "carrier_rate": 400,
+    "updated_at": "2026-09-30T12:38:43.501430+00:00",
+    "lane": "LILLINGTON NC-CHARLESTON SC"
   },
   {
     "pro": "50107",
@@ -848,6 +865,23 @@
     "carrier_rate": 2800,
     "updated_at": "2026-09-29T15:55:18.667377+00:00",
     "lane": "WINCHESTER KY-JACKSONVILLE FL"
+  },
+  {
+    "pro": "50693",
+    "status": "RELEASED",
+    "pu_date": "2026-09-28",
+    "pu_city": "LILLINGTON",
+    "pu_state": "NC",
+    "pu_hours": "1000",
+    "del_date": "2026-09-29",
+    "del_city": "CHARLESTON",
+    "del_state": "SC",
+    "del_hours": "0700-1500",
+    "equipment": "Flatbed",
+    "weight_lbs": 10000,
+    "carrier_rate": 1100,
+    "updated_at": "2026-09-29T16:36:08.677525+00:00",
+    "lane": "LILLINGTON NC-CHARLESTON SC"
   },
   {
     "pro": "50612",
