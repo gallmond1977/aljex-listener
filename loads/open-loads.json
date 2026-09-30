@@ -64,7 +64,7 @@
     "equipment": "Van",
     "weight_lbs": 44000,
     "carrier_rate": 900,
-    "updated_at": "2026-09-30T15:53:43.691037+00:00",
+    "updated_at": "2026-09-30T16:43:17.442123+00:00",
     "lane": "MONCURE NC-ATLANTA GA"
   },
   {
@@ -98,7 +98,7 @@
     "equipment": "Van",
     "weight_lbs": 44000,
     "carrier_rate": 900,
-    "updated_at": "2026-09-30T15:54:56.179237+00:00",
+    "updated_at": "2026-09-30T16:44:02.925467+00:00",
     "lane": "MONCURE NC-ATLANTA GA"
   },
   {
@@ -234,7 +234,7 @@
     "equipment": "Van",
     "weight_lbs": 44000,
     "carrier_rate": 900,
-    "updated_at": "2026-09-30T15:55:09.826564+00:00",
+    "updated_at": "2026-09-30T16:44:48.491141+00:00",
     "lane": "MONCURE NC-ATLANTA GA"
   },
   {
@@ -744,7 +744,7 @@
     "equipment": "Van",
     "weight_lbs": 12282,
     "carrier_rate": 3000,
-    "updated_at": "2026-09-30T16:29:51.656837+00:00",
+    "updated_at": "2026-09-30T16:45:10.378694+00:00",
     "lane": "WINCHESTER KY-BURLINGTON NJ"
   },
   {
