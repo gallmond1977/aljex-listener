@@ -124,7 +124,7 @@
     "pu_date": "2026-10-01",
     "pu_city": "RALEIGH",
     "pu_state": "NC",
-    "pu_hours": "0800",
+    "pu_hours": "0900",
     "del_date": "2026-10-01",
     "del_city": "WINSTON SALEM",
     "del_state": "NC",
@@ -132,7 +132,7 @@
     "equipment": "Van",
     "weight_lbs": 6643,
     "carrier_rate": 450,
-    "updated_at": "2026-09-30T18:09:35.485798+00:00",
+    "updated_at": "2026-09-30T18:32:14.579617+00:00",
     "lane": "RALEIGH NC-WINSTON SALEM NC"
   },
   {
@@ -175,7 +175,7 @@
     "pu_date": "2026-10-02",
     "pu_city": "WINCHESTER",
     "pu_state": "KY",
-    "pu_hours": "1200-1500",
+    "pu_hours": "1400",
     "del_date": "2026-10-05",
     "del_city": "UXBRIDGE",
     "del_state": "MA",
@@ -183,7 +183,7 @@
     "equipment": "Van",
     "weight_lbs": 4200,
     "carrier_rate": 3800,
-    "updated_at": "2026-09-30T11:33:52.714908+00:00",
+    "updated_at": "2026-09-30T18:30:51.771067+00:00",
     "lane": "WINCHESTER KY-UXBRIDGE MA"
   },
   {
@@ -209,7 +209,7 @@
     "pu_date": "2026-10-02",
     "pu_city": "WINCHESTER",
     "pu_state": "KY",
-    "pu_hours": "1200-1500",
+    "pu_hours": "1400",
     "del_date": "2026-10-05",
     "del_city": "BURLINGTON",
     "del_state": "NJ",
@@ -217,7 +217,7 @@
     "equipment": "Van",
     "weight_lbs": 4200,
     "carrier_rate": 2300,
-    "updated_at": "2026-09-30T11:34:33.901653+00:00",
+    "updated_at": "2026-09-30T18:31:17.288552+00:00",
     "lane": "WINCHESTER KY-BURLINGTON NJ"
   },
   {
@@ -647,7 +647,7 @@
   },
   {
     "pro": "50669",
-    "status": "DELIVERED",
+    "status": "RELEASED",
     "pu_date": "2026-09-24",
     "pu_city": "BENSENVILLE",
     "pu_state": "IL",
@@ -659,7 +659,7 @@
     "equipment": "Van",
     "weight_lbs": 30000,
     "carrier_rate": 2500,
-    "updated_at": "2026-09-25T20:20:59.315094+00:00",
+    "updated_at": "2026-09-30T18:34:20.887023+00:00",
     "lane": "BENSENVILLE IL-BELCAMP MD"
   },
   {
