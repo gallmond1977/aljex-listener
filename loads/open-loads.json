@@ -115,7 +115,7 @@
     "equipment": "Flatbed",
     "weight_lbs": 36000,
     "carrier_rate": 2200,
-    "updated_at": "2026-09-30T14:22:59.941746+00:00",
+    "updated_at": "2026-09-30T14:34:44.611968+00:00",
     "lane": "LINCOLN NE-ATLANTA GA"
   },
   {
@@ -134,6 +134,23 @@
     "carrier_rate": null,
     "updated_at": "2026-09-30T13:18:26.392316+00:00",
     "lane": "ANNISTON AL-RICHARDSON TX"
+  },
+  {
+    "pro": "50749",
+    "status": "OPEN",
+    "pu_date": "2026-10-01",
+    "pu_city": "SAVANNAH",
+    "pu_state": "GA",
+    "pu_hours": "0800-1600",
+    "del_date": "2026-10-02",
+    "del_city": "SAVANNAH",
+    "del_state": "GA",
+    "del_hours": "",
+    "equipment": "Van",
+    "weight_lbs": 28000,
+    "carrier_rate": 2300,
+    "updated_at": "2026-09-30T14:34:36.380334+00:00",
+    "lane": "SAVANNAH GA-SAVANNAH GA"
   },
   {
     "pro": "50107",
@@ -277,15 +294,15 @@
     "pu_date": "2026-10-05",
     "pu_city": "COLUMBUS",
     "pu_state": "GA",
-    "pu_hours": "WAITING",
+    "pu_hours": "1300",
     "del_date": "2026-10-06",
     "del_city": "VAN WERT",
     "del_state": "OH",
     "del_hours": "0900",
     "equipment": "Van",
-    "weight_lbs": 11100,
+    "weight_lbs": 9131,
     "carrier_rate": null,
-    "updated_at": "2026-09-29T18:53:56.422097+00:00",
+    "updated_at": "2026-09-30T14:34:44.857367+00:00",
     "lane": "COLUMBUS GA-VAN WERT OH"
   },
   {
