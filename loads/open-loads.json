@@ -1,22 +1,5 @@
 [
   {
-    "pro": "50159",
-    "status": "OPEN",
-    "pu_date": "2026-09-30",
-    "pu_city": "ANNISTON",
-    "pu_state": "AL",
-    "pu_hours": "0800-1400",
-    "del_date": "",
-    "del_city": "RICHARDSON",
-    "del_state": "TX",
-    "del_hours": "",
-    "equipment": "26' Straight Box Truck",
-    "weight_lbs": 8000,
-    "carrier_rate": null,
-    "updated_at": "2026-09-29T19:43:58.515225+00:00",
-    "lane": "ANNISTON AL-RICHARDSON TX"
-  },
-  {
     "pro": "50598",
     "status": "OPEN",
     "pu_date": "2026-09-30",
@@ -48,23 +31,6 @@
     "weight_lbs": 12282,
     "carrier_rate": 2400,
     "updated_at": "2026-09-29T19:42:48.318266+00:00",
-    "lane": "WINCHESTER KY-BURLINGTON NJ"
-  },
-  {
-    "pro": "50617",
-    "status": "OPEN",
-    "pu_date": "2026-09-30",
-    "pu_city": "WINCHESTER",
-    "pu_state": "KY",
-    "pu_hours": "0800-1400",
-    "del_date": "2026-10-01",
-    "del_city": "BURLINGTON",
-    "del_state": "NJ",
-    "del_hours": "0700",
-    "equipment": "Van",
-    "weight_lbs": 11400,
-    "carrier_rate": 2400,
-    "updated_at": "2026-09-29T19:43:00.752353+00:00",
     "lane": "WINCHESTER KY-BURLINGTON NJ"
   },
   {
@@ -202,6 +168,23 @@
     "carrier_rate": 450,
     "updated_at": "2026-09-30T13:06:13.509098+00:00",
     "lane": "LILLINGTON NC-CHARLESTON SC"
+  },
+  {
+    "pro": "50159",
+    "status": "OPEN",
+    "pu_date": "2026-10-01",
+    "pu_city": "ANNISTON",
+    "pu_state": "AL",
+    "pu_hours": "0800-1400",
+    "del_date": "",
+    "del_city": "RICHARDSON",
+    "del_state": "TX",
+    "del_hours": "",
+    "equipment": "26' Straight Box Truck",
+    "weight_lbs": 8000,
+    "carrier_rate": null,
+    "updated_at": "2026-09-30T13:18:26.392316+00:00",
+    "lane": "ANNISTON AL-RICHARDSON TX"
   },
   {
     "pro": "50747",
@@ -795,7 +778,7 @@
     "equipment": "Van",
     "weight_lbs": 8544,
     "carrier_rate": 2800,
-    "updated_at": "2026-09-29T15:55:18.667377+00:00",
+    "updated_at": "2026-09-30T13:19:57.999857+00:00",
     "lane": "WINCHESTER KY-JACKSONVILLE FL"
   },
   {
@@ -848,6 +831,23 @@
     "carrier_rate": 1100,
     "updated_at": "2026-09-29T17:55:51.110951+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
+  },
+  {
+    "pro": "50617",
+    "status": "COVERED",
+    "pu_date": "2026-09-30",
+    "pu_city": "WINCHESTER",
+    "pu_state": "KY",
+    "pu_hours": "0800-1400",
+    "del_date": "2026-10-01",
+    "del_city": "BURLINGTON",
+    "del_state": "NJ",
+    "del_hours": "0700",
+    "equipment": "Van",
+    "weight_lbs": 11400,
+    "carrier_rate": 2500,
+    "updated_at": "2026-09-30T13:18:15.303922+00:00",
+    "lane": "WINCHESTER KY-BURLINGTON NJ"
   },
   {
     "pro": "50720",
