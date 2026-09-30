@@ -94,11 +94,11 @@
     "del_date": "2026-10-02",
     "del_city": "BENTONVILLE",
     "del_state": "AR",
-    "del_hours": "CALL",
+    "del_hours": "0900-1600",
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 1000,
-    "carrier_rate": null,
-    "updated_at": "2026-09-30T20:28:57.944778+00:00",
+    "carrier_rate": 1400,
+    "updated_at": "2026-09-30T20:35:01.511413+00:00",
     "lane": "WINCHESTER KY-BENTONVILLE AR"
   },
   {
