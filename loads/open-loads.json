@@ -119,6 +119,23 @@
     "lane": "JACKSONVILLE TX-JACKSON MS"
   },
   {
+    "pro": "50714",
+    "status": "OPEN",
+    "pu_date": "2026-09-30",
+    "pu_city": "RICHMOND",
+    "pu_state": "VA",
+    "pu_hours": "0800-1000",
+    "del_date": "2026-09-30",
+    "del_city": "PRINCE FREDERICK",
+    "del_state": "MD",
+    "del_hours": "0800-1400",
+    "equipment": "26' Straight Box Truck",
+    "weight_lbs": 1425,
+    "carrier_rate": 350,
+    "updated_at": "2026-09-30T12:23:02.244159+00:00",
+    "lane": "RICHMOND VA-PRINCE FREDERICK MD"
+  },
+  {
     "pro": "50720",
     "status": "OPEN",
     "pu_date": "2026-09-30",
@@ -902,7 +919,7 @@
   },
   {
     "pro": "50722",
-    "status": "COVERED",
+    "status": "PICKUP",
     "pu_date": "2026-09-30",
     "pu_city": "WINCHESTER",
     "pu_state": "KY",
@@ -914,7 +931,7 @@
     "equipment": "Van",
     "weight_lbs": 12480,
     "carrier_rate": 1200,
-    "updated_at": "2026-09-30T12:19:52.217789+00:00",
+    "updated_at": "2026-09-30T12:22:19.164054+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
