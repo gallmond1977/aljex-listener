@@ -897,7 +897,7 @@
     "equipment": "Reefer",
     "weight_lbs": 24808,
     "carrier_rate": 450,
-    "updated_at": "2026-09-30T11:45:00.387685+00:00",
+    "updated_at": "2026-09-30T11:46:05.217846+00:00",
     "lane": "ATLANTA GA-DECATUR GA"
   },
   {
@@ -919,7 +919,7 @@
   },
   {
     "pro": "50731",
-    "status": "COVERED",
+    "status": "PICKUP",
     "pu_date": "2026-09-30",
     "pu_city": "ATLANTA",
     "pu_state": "GA",
@@ -931,7 +931,7 @@
     "equipment": "Reefer",
     "weight_lbs": 24808,
     "carrier_rate": 450,
-    "updated_at": "2026-09-29T15:29:21.803644+00:00",
+    "updated_at": "2026-09-30T11:48:44.055976+00:00",
     "lane": "ATLANTA GA-DECATUR GA"
   }
 ]
