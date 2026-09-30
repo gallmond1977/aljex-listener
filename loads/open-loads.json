@@ -114,8 +114,8 @@
     "del_hours": "0700-1500",
     "equipment": "Van",
     "weight_lbs": 44500,
-    "carrier_rate": 900,
-    "updated_at": "2026-09-24T17:47:08.911768+00:00",
+    "carrier_rate": 950,
+    "updated_at": "2026-09-30T13:09:48.595450+00:00",
     "lane": "JACKSONVILLE TX-JACKSON MS"
   },
   {
@@ -199,8 +199,8 @@
     "del_hours": "0700-1500",
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 1000,
-    "carrier_rate": 400,
-    "updated_at": "2026-09-30T12:38:43.501430+00:00",
+    "carrier_rate": 450,
+    "updated_at": "2026-09-30T13:06:13.509098+00:00",
     "lane": "LILLINGTON NC-CHARLESTON SC"
   },
   {
