@@ -111,11 +111,11 @@
     "del_date": "2026-10-02",
     "del_city": "JOLIET",
     "del_state": "IL",
-    "del_hours": "",
+    "del_hours": "1500",
     "equipment": "Van",
     "weight_lbs": 5700,
     "carrier_rate": 1000,
-    "updated_at": "2026-09-30T20:17:21.803207+00:00",
+    "updated_at": "2026-09-30T20:24:42.638619+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
@@ -128,11 +128,11 @@
     "del_date": "2026-10-02",
     "del_city": "JOLIET",
     "del_state": "IL",
-    "del_hours": "",
+    "del_hours": "2000",
     "equipment": "Van",
     "weight_lbs": 12480,
     "carrier_rate": 1000,
-    "updated_at": "2026-09-30T20:17:57.482890+00:00",
+    "updated_at": "2026-09-30T20:24:07.241439+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
