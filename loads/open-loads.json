@@ -85,23 +85,6 @@
     "lane": "CHESTER VA-QUINCY IL"
   },
   {
-    "pro": "50746",
-    "status": "OPEN",
-    "pu_date": "2026-09-30",
-    "pu_city": "LILLINGTON",
-    "pu_state": "NC",
-    "pu_hours": "0900-1200",
-    "del_date": "2026-10-01",
-    "del_city": "CHARLESTON",
-    "del_state": "SC",
-    "del_hours": "0700-1500",
-    "equipment": "26' Straight Box Truck",
-    "weight_lbs": 1000,
-    "carrier_rate": 550,
-    "updated_at": "2026-09-30T14:13:13.638929+00:00",
-    "lane": "LILLINGTON NC-CHARLESTON SC"
-  },
-  {
     "pro": "50748",
     "status": "OPEN",
     "pu_date": "2026-09-30",
@@ -115,7 +98,7 @@
     "equipment": "Flatbed",
     "weight_lbs": 36000,
     "carrier_rate": 2200,
-    "updated_at": "2026-09-30T14:34:44.611968+00:00",
+    "updated_at": "2026-09-30T14:35:38.123001+00:00",
     "lane": "LINCOLN NE-ATLANTA GA"
   },
   {
@@ -136,23 +119,6 @@
     "lane": "ANNISTON AL-RICHARDSON TX"
   },
   {
-    "pro": "50749",
-    "status": "OPEN",
-    "pu_date": "2026-10-01",
-    "pu_city": "SAVANNAH",
-    "pu_state": "GA",
-    "pu_hours": "0800-1600",
-    "del_date": "2026-10-02",
-    "del_city": "SAVANNAH",
-    "del_state": "GA",
-    "del_hours": "",
-    "equipment": "Van",
-    "weight_lbs": 28000,
-    "carrier_rate": 2300,
-    "updated_at": "2026-09-30T14:34:36.380334+00:00",
-    "lane": "SAVANNAH GA-SAVANNAH GA"
-  },
-  {
     "pro": "50107",
     "status": "OPEN",
     "pu_date": "2026-10-02",
@@ -166,7 +132,7 @@
     "equipment": "Van",
     "weight_lbs": 11100,
     "carrier_rate": 1500,
-    "updated_at": "2026-09-29T18:52:43.204054+00:00",
+    "updated_at": "2026-09-30T14:35:55.896519+00:00",
     "lane": "COLUMBUS GA-VAN WERT OH"
   },
   {
@@ -678,23 +644,6 @@
     "carrier_rate": 2800,
     "updated_at": "2026-09-30T13:20:21.886651+00:00",
     "lane": "WINCHESTER KY-JACKSONVILLE FL"
-  },
-  {
-    "pro": "50693",
-    "status": "RELEASED",
-    "pu_date": "2026-09-28",
-    "pu_city": "LILLINGTON",
-    "pu_state": "NC",
-    "pu_hours": "1000",
-    "del_date": "2026-09-29",
-    "del_city": "CHARLESTON",
-    "del_state": "SC",
-    "del_hours": "0700-1500",
-    "equipment": "Flatbed",
-    "weight_lbs": 10000,
-    "carrier_rate": 1100,
-    "updated_at": "2026-09-29T16:36:08.677525+00:00",
-    "lane": "LILLINGTON NC-CHARLESTON SC"
   },
   {
     "pro": "50612",
