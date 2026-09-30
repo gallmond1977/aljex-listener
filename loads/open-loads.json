@@ -1,22 +1,5 @@
 [
   {
-    "pro": "50618",
-    "status": "OPEN",
-    "pu_date": "2026-09-30",
-    "pu_city": "WINCHESTER",
-    "pu_state": "KY",
-    "pu_hours": "1100-1400",
-    "del_date": "2026-10-01",
-    "del_city": "BURLINGTON",
-    "del_state": "NJ",
-    "del_hours": "0500",
-    "equipment": "Van",
-    "weight_lbs": 4005,
-    "carrier_rate": 2600,
-    "updated_at": "2026-09-30T15:55:08.551304+00:00",
-    "lane": "WINCHESTER KY-BURLINGTON NJ"
-  },
-  {
     "pro": "50675",
     "status": "OPEN",
     "pu_date": "2026-09-30",
@@ -268,7 +251,7 @@
     "equipment": "Reefer",
     "weight_lbs": 43500,
     "carrier_rate": null,
-    "updated_at": "2026-09-24T12:29:38.930310+00:00",
+    "updated_at": "2026-09-30T16:59:00.381128+00:00",
     "lane": "GREENWOOD WI-LITHIA SPRINGS GA"
   },
   {
@@ -745,6 +728,23 @@
     "weight_lbs": 11400,
     "carrier_rate": 2500,
     "updated_at": "2026-09-30T15:53:27.621505+00:00",
+    "lane": "WINCHESTER KY-BURLINGTON NJ"
+  },
+  {
+    "pro": "50618",
+    "status": "COVERED",
+    "pu_date": "2026-09-30",
+    "pu_city": "WINCHESTER",
+    "pu_state": "KY",
+    "pu_hours": "1100-1400",
+    "del_date": "2026-10-01",
+    "del_city": "BURLINGTON",
+    "del_state": "NJ",
+    "del_hours": "0500",
+    "equipment": "Van",
+    "weight_lbs": 4005,
+    "carrier_rate": 2600,
+    "updated_at": "2026-09-30T16:58:51.749890+00:00",
     "lane": "WINCHESTER KY-BURLINGTON NJ"
   }
 ]
