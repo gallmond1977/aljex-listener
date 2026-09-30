@@ -284,8 +284,8 @@
     "del_hours": "1700",
     "equipment": "Van",
     "weight_lbs": 4200,
-    "carrier_rate": null,
-    "updated_at": "2026-09-30T11:28:29.677473+00:00",
+    "carrier_rate": 3800,
+    "updated_at": "2026-09-30T11:33:52.714908+00:00",
     "lane": "WINCHESTER KY-UXBRIDGE MA"
   },
   {
@@ -318,8 +318,8 @@
     "del_hours": "1100",
     "equipment": "Van",
     "weight_lbs": 4200,
-    "carrier_rate": null,
-    "updated_at": "2026-09-30T11:28:08.806899+00:00",
+    "carrier_rate": 2300,
+    "updated_at": "2026-09-30T11:34:33.901653+00:00",
     "lane": "WINCHESTER KY-BURLINGTON NJ"
   },
   {
