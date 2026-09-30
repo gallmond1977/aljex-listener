@@ -1,22 +1,5 @@
 [
   {
-    "pro": "50752",
-    "status": "OPEN",
-    "pu_date": "2026-09-30",
-    "pu_city": "MONCURE",
-    "pu_state": "NC",
-    "pu_hours": "0730-1600",
-    "del_date": "2026-10-01",
-    "del_city": "ATLANTA",
-    "del_state": "GA",
-    "del_hours": "0800-1600",
-    "equipment": "Van",
-    "weight_lbs": 44000,
-    "carrier_rate": 900,
-    "updated_at": "2026-09-30T16:43:17.442123+00:00",
-    "lane": "MONCURE NC-ATLANTA GA"
-  },
-  {
     "pro": "50159",
     "status": "OPEN",
     "pu_date": "2026-10-01",
@@ -32,6 +15,23 @@
     "carrier_rate": null,
     "updated_at": "2026-09-30T13:18:26.392316+00:00",
     "lane": "ANNISTON AL-RICHARDSON TX"
+  },
+  {
+    "pro": "50752",
+    "status": "OPEN",
+    "pu_date": "2026-10-01",
+    "pu_city": "MONCURE",
+    "pu_state": "NC",
+    "pu_hours": "0730-1600",
+    "del_date": "2026-10-02",
+    "del_city": "ATLANTA",
+    "del_state": "GA",
+    "del_hours": "0800-1600",
+    "equipment": "Van",
+    "weight_lbs": 44000,
+    "carrier_rate": 900,
+    "updated_at": "2026-09-30T19:38:42.987969+00:00",
+    "lane": "MONCURE NC-ATLANTA GA"
   },
   {
     "pro": "50753",
