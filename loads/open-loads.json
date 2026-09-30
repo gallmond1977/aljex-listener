@@ -97,8 +97,8 @@
     "del_hours": "0800-1400",
     "equipment": "Van",
     "weight_lbs": 25000,
-    "carrier_rate": 1000,
-    "updated_at": "2026-09-30T18:17:46.454436+00:00",
+    "carrier_rate": 1200,
+    "updated_at": "2026-09-30T19:26:58.191675+00:00",
     "lane": "BELCAMP MD-SECAUCUS NJ"
   },
   {
@@ -132,7 +132,7 @@
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 1000,
     "carrier_rate": null,
-    "updated_at": "2026-09-30T19:23:17.419872+00:00",
+    "updated_at": "2026-09-30T19:27:28.276536+00:00",
     "lane": "WINCHESTER KY-BENTONVILLE AR"
   },
   {
