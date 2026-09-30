@@ -51,23 +51,6 @@
     "lane": "MONCURE NC-ATLANTA GA"
   },
   {
-    "pro": "50756",
-    "status": "OPEN",
-    "pu_date": "2026-10-01",
-    "pu_city": "UNION CITY",
-    "pu_state": "GA",
-    "pu_hours": "0900",
-    "del_date": "2026-10-02",
-    "del_city": "SANFORD",
-    "del_state": "FL",
-    "del_hours": "0700",
-    "equipment": "26' Straight Box Truck",
-    "weight_lbs": 7000,
-    "carrier_rate": 1100,
-    "updated_at": "2026-09-30T19:13:53.661868+00:00",
-    "lane": "UNION CITY GA-SANFORD FL"
-  },
-  {
     "pro": "50757",
     "status": "OPEN",
     "pu_date": "2026-10-01",
@@ -763,5 +746,22 @@
     "carrier_rate": 2600,
     "updated_at": "2026-09-30T19:05:50.639714+00:00",
     "lane": "WINCHESTER KY-BURLINGTON NJ"
+  },
+  {
+    "pro": "50756",
+    "status": "COVERED",
+    "pu_date": "2026-10-01",
+    "pu_city": "UNION CITY",
+    "pu_state": "GA",
+    "pu_hours": "0900",
+    "del_date": "2026-10-02",
+    "del_city": "SANFORD",
+    "del_state": "FL",
+    "del_hours": "0700",
+    "equipment": "26' Straight Box Truck",
+    "weight_lbs": 7000,
+    "carrier_rate": 1150,
+    "updated_at": "2026-09-30T19:53:35.749268+00:00",
+    "lane": "UNION CITY GA-SANFORD FL"
   }
 ]
