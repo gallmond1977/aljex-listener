@@ -68,23 +68,6 @@
     "lane": "UNION CITY GA-SANFORD FL"
   },
   {
-    "pro": "50760",
-    "status": "OPEN",
-    "pu_date": "2026-10-01",
-    "pu_city": "BELCAMP",
-    "pu_state": "MD",
-    "pu_hours": "0800-0900",
-    "del_date": "2026-10-01",
-    "del_city": "SECAUCUS",
-    "del_state": "NJ",
-    "del_hours": "0800-1400",
-    "equipment": "Van",
-    "weight_lbs": 25000,
-    "carrier_rate": 1200,
-    "updated_at": "2026-09-30T19:32:36.979127+00:00",
-    "lane": "BELCAMP MD-SECAUCUS NJ"
-  },
-  {
     "pro": "50761",
     "status": "OPEN",
     "pu_date": "2026-10-01",
@@ -166,7 +149,7 @@
     "equipment": "Reefer",
     "weight_lbs": 43500,
     "carrier_rate": null,
-    "updated_at": "2026-09-30T19:45:32.149570+00:00",
+    "updated_at": "2026-09-30T20:00:16.036224+00:00",
     "lane": "GREENWOOD WI-LITHIA SPRINGS GA"
   },
   {
@@ -761,7 +744,7 @@
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 7000,
     "carrier_rate": 1150,
-    "updated_at": "2026-09-30T19:53:35.749268+00:00",
+    "updated_at": "2026-09-30T19:58:18.438210+00:00",
     "lane": "UNION CITY GA-SANFORD FL"
   }
 ]
