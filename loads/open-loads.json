@@ -81,7 +81,7 @@
     "equipment": "Van",
     "weight_lbs": 43500,
     "carrier_rate": 1000,
-    "updated_at": "2026-09-30T17:59:05.449941+00:00",
+    "updated_at": "2026-09-30T20:41:42.293757+00:00",
     "lane": "BUENA VISTA GA-BRENTWOOD TN"
   },
   {
@@ -134,6 +134,23 @@
     "carrier_rate": 1000,
     "updated_at": "2026-09-30T20:24:07.241439+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
+  },
+  {
+    "pro": "50767",
+    "status": "OPEN",
+    "pu_date": "2026-10-01",
+    "pu_city": "COLUMBUS",
+    "pu_state": "GA",
+    "pu_hours": "0800-1000",
+    "del_date": "2026-10-01",
+    "del_city": "WARNER ROBINS",
+    "del_state": "GA",
+    "del_hours": "1200-1300",
+    "equipment": "Flatbed Hot Shot",
+    "weight_lbs": 4500,
+    "carrier_rate": 450,
+    "updated_at": "2026-09-30T20:40:53.115197+00:00",
+    "lane": "COLUMBUS GA-WARNER ROBINS GA"
   },
   {
     "pro": "50107",
