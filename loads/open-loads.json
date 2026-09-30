@@ -17,6 +17,23 @@
     "lane": "WINCHESTER KY-BURLINGTON NJ"
   },
   {
+    "pro": "50618",
+    "status": "OPEN",
+    "pu_date": "2026-09-30",
+    "pu_city": "WINCHESTER",
+    "pu_state": "KY",
+    "pu_hours": "1100-1400",
+    "del_date": "2026-10-01",
+    "del_city": "BURLINGTON",
+    "del_state": "NJ",
+    "del_hours": "0500",
+    "equipment": "Van",
+    "weight_lbs": 4005,
+    "carrier_rate": 2600,
+    "updated_at": "2026-09-30T15:50:51.956832+00:00",
+    "lane": "WINCHESTER KY-BURLINGTON NJ"
+  },
+  {
     "pro": "50675",
     "status": "OPEN",
     "pu_date": "2026-09-30",
@@ -81,7 +98,7 @@
     "equipment": "Van",
     "weight_lbs": 44000,
     "carrier_rate": 900,
-    "updated_at": "2026-09-30T15:49:46.184536+00:00",
+    "updated_at": "2026-09-30T15:53:43.691037+00:00",
     "lane": "MONCURE NC-ATLANTA GA"
   },
   {
@@ -100,6 +117,57 @@
     "carrier_rate": null,
     "updated_at": "2026-09-30T13:18:26.392316+00:00",
     "lane": "ANNISTON AL-RICHARDSON TX"
+  },
+  {
+    "pro": "50753",
+    "status": "OPEN",
+    "pu_date": "2026-10-01",
+    "pu_city": "MONCURE",
+    "pu_state": "NC",
+    "pu_hours": "0730-1600",
+    "del_date": "2026-10-02",
+    "del_city": "ATLANTA",
+    "del_state": "GA",
+    "del_hours": "0800-1600",
+    "equipment": "Van",
+    "weight_lbs": 44000,
+    "carrier_rate": 900,
+    "updated_at": "2026-09-30T15:54:56.179237+00:00",
+    "lane": "MONCURE NC-ATLANTA GA"
+  },
+  {
+    "pro": "50754",
+    "status": "OPEN",
+    "pu_date": "2026-10-01",
+    "pu_city": "MONCURE",
+    "pu_state": "NC",
+    "pu_hours": "0730-1600",
+    "del_date": "2026-10-02",
+    "del_city": "ATLANTA",
+    "del_state": "GA",
+    "del_hours": "0800-1600",
+    "equipment": "Van",
+    "weight_lbs": 44000,
+    "carrier_rate": 900,
+    "updated_at": "2026-09-30T15:51:23.406383+00:00",
+    "lane": "MONCURE NC-ATLANTA GA"
+  },
+  {
+    "pro": "50755",
+    "status": "OPEN",
+    "pu_date": "2026-10-01",
+    "pu_city": "MONCURE",
+    "pu_state": "NC",
+    "pu_hours": "0730-1600",
+    "del_date": "2026-10-02",
+    "del_city": "ATLANTA",
+    "del_state": "GA",
+    "del_hours": "0800-1600",
+    "equipment": "Van",
+    "weight_lbs": 44000,
+    "carrier_rate": 900,
+    "updated_at": "2026-09-30T15:53:16.680081+00:00",
+    "lane": "MONCURE NC-ATLANTA GA"
   },
   {
     "pro": "50107",
@@ -676,24 +744,7 @@
     "equipment": "Van",
     "weight_lbs": 11400,
     "carrier_rate": 2500,
-    "updated_at": "2026-09-30T15:08:40.053489+00:00",
-    "lane": "WINCHESTER KY-BURLINGTON NJ"
-  },
-  {
-    "pro": "50618",
-    "status": "COVERED",
-    "pu_date": "2026-09-30",
-    "pu_city": "WINCHESTER",
-    "pu_state": "KY",
-    "pu_hours": "1100-1400",
-    "del_date": "2026-10-01",
-    "del_city": "BURLINGTON",
-    "del_state": "NJ",
-    "del_hours": "0500",
-    "equipment": "Van",
-    "weight_lbs": 4005,
-    "carrier_rate": 2600,
-    "updated_at": "2026-09-30T15:09:20.444464+00:00",
+    "updated_at": "2026-09-30T15:53:27.621505+00:00",
     "lane": "WINCHESTER KY-BURLINGTON NJ"
   }
 ]
