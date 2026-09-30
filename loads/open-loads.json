@@ -119,23 +119,6 @@
     "lane": "BUENA VISTA GA-BRENTWOOD TN"
   },
   {
-    "pro": "50763",
-    "status": "OPEN",
-    "pu_date": "2026-10-01",
-    "pu_city": "CLARENCE",
-    "pu_state": "NY",
-    "pu_hours": "1200-1500",
-    "del_date": "2026-10-02",
-    "del_city": "BELCAMP",
-    "del_state": "MD",
-    "del_hours": "0700-1300",
-    "equipment": "26' Straight Box Truck",
-    "weight_lbs": 1000,
-    "carrier_rate": 900,
-    "updated_at": "2026-09-30T18:41:31.425884+00:00",
-    "lane": "CLARENCE NY-BELCAMP MD"
-  },
-  {
     "pro": "50107",
     "status": "OPEN",
     "pu_date": "2026-10-02",
