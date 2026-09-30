@@ -68,23 +68,6 @@
     "lane": "CHESTER VA-QUINCY IL"
   },
   {
-    "pro": "50751",
-    "status": "OPEN",
-    "pu_date": "2026-09-30",
-    "pu_city": "OAKLAND",
-    "pu_state": "TN",
-    "pu_hours": "0800-1500",
-    "del_date": "2026-10-01",
-    "del_city": "SALISBURY",
-    "del_state": "NC",
-    "del_hours": "0600-0800",
-    "equipment": "Van Hazmat",
-    "weight_lbs": 44900,
-    "carrier_rate": 2450,
-    "updated_at": "2026-09-30T15:09:20.405556+00:00",
-    "lane": "OAKLAND TN-SALISBURY NC"
-  },
-  {
     "pro": "50159",
     "status": "OPEN",
     "pu_date": "2026-10-01",
@@ -542,23 +525,6 @@
     "carrier_rate": 3800,
     "updated_at": "2026-09-28T11:35:23.659316+00:00",
     "lane": "WINCHESTER KY-UXBRIDGE MA"
-  },
-  {
-    "pro": "50609",
-    "status": "RELEASED",
-    "pu_date": "2026-09-24",
-    "pu_city": "OAKLAND",
-    "pu_state": "TN",
-    "pu_hours": "0800-1500",
-    "del_date": "2026-09-25",
-    "del_city": "SALISBURY",
-    "del_state": "NC",
-    "del_hours": "0600-0800",
-    "equipment": "Van Hazmat",
-    "weight_lbs": 44900,
-    "carrier_rate": 2800,
-    "updated_at": "2026-09-28T14:25:13.302275+00:00",
-    "lane": "OAKLAND TN-SALISBURY NC"
   },
   {
     "pro": "50613",
