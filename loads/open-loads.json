@@ -63,8 +63,8 @@
     "del_hours": "0700",
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 7000,
-    "carrier_rate": 1000,
-    "updated_at": "2026-09-30T17:50:34.473841+00:00",
+    "carrier_rate": 1100,
+    "updated_at": "2026-09-30T19:13:53.661868+00:00",
     "lane": "UNION CITY GA-SANFORD FL"
   },
   {
@@ -80,8 +80,8 @@
     "del_hours": "0900",
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 7000,
-    "carrier_rate": 1000,
-    "updated_at": "2026-09-30T17:44:54.263649+00:00",
+    "carrier_rate": 1100,
+    "updated_at": "2026-09-30T19:14:05.204988+00:00",
     "lane": "UNION CITY GA-SANFORD FL"
   },
   {
@@ -659,7 +659,7 @@
     "equipment": "Van",
     "weight_lbs": 13083,
     "carrier_rate": 3800,
-    "updated_at": "2026-09-30T12:45:33.807218+00:00",
+    "updated_at": "2026-09-30T19:13:11.761262+00:00",
     "lane": "WINCHESTER KY-UXBRIDGE MA"
   },
   {
@@ -693,7 +693,7 @@
     "equipment": "Van",
     "weight_lbs": 4871,
     "carrier_rate": 3850,
-    "updated_at": "2026-09-29T15:34:33.843569+00:00",
+    "updated_at": "2026-09-30T19:14:56.880949+00:00",
     "lane": "WINCHESTER KY-UXBRIDGE MA"
   },
   {
