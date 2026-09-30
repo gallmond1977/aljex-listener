@@ -430,7 +430,7 @@
     "pu_date": "2026-10-09",
     "pu_city": "ATLANTA",
     "pu_state": "GA",
-    "pu_hours": "",
+    "pu_hours": "0700",
     "del_date": "2026-10-09",
     "del_city": "DECATUR",
     "del_state": "GA",
@@ -438,7 +438,7 @@
     "equipment": "Reefer",
     "weight_lbs": 22150,
     "carrier_rate": 450,
-    "updated_at": "2026-09-29T21:05:50.961454+00:00",
+    "updated_at": "2026-09-30T11:54:16.817108+00:00",
     "lane": "ATLANTA GA-DECATUR GA"
   },
   {
@@ -447,7 +447,7 @@
     "pu_date": "2026-10-09",
     "pu_city": "ATLANTA",
     "pu_state": "GA",
-    "pu_hours": "",
+    "pu_hours": "0730",
     "del_date": "2026-10-09",
     "del_city": "DECATUR",
     "del_state": "GA",
@@ -455,7 +455,7 @@
     "equipment": "Reefer",
     "weight_lbs": 21264,
     "carrier_rate": 450,
-    "updated_at": "2026-09-29T21:06:11.617273+00:00",
+    "updated_at": "2026-09-30T11:54:14.539659+00:00",
     "lane": "ATLANTA GA-DECATUR GA"
   },
   {
