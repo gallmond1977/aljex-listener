@@ -119,6 +119,23 @@
     "lane": "BUENA VISTA GA-BRENTWOOD TN"
   },
   {
+    "pro": "50762",
+    "status": "OPEN",
+    "pu_date": "2026-10-01",
+    "pu_city": "RALEIGH",
+    "pu_state": "NC",
+    "pu_hours": "0800",
+    "del_date": "2026-10-01",
+    "del_city": "WINSTON SALEM",
+    "del_state": "NC",
+    "del_hours": "0800-1500",
+    "equipment": "Van",
+    "weight_lbs": 6643,
+    "carrier_rate": 450,
+    "updated_at": "2026-09-30T18:09:35.485798+00:00",
+    "lane": "RALEIGH NC-WINSTON SALEM NC"
+  },
+  {
     "pro": "50107",
     "status": "OPEN",
     "pu_date": "2026-10-02",
@@ -612,6 +629,23 @@
     "lane": "WINCHESTER KY-JACKSONVILLE FL"
   },
   {
+    "pro": "50653",
+    "status": "RELEASED",
+    "pu_date": "2026-09-24",
+    "pu_city": "RALEIGH",
+    "pu_state": "NC",
+    "pu_hours": "0800",
+    "del_date": "2026-09-24",
+    "del_city": "WINSTON SALEM",
+    "del_state": "NC",
+    "del_hours": "0800-1500",
+    "equipment": "Van",
+    "weight_lbs": 5351,
+    "carrier_rate": 500,
+    "updated_at": "2026-09-24T15:52:41.476923+00:00",
+    "lane": "RALEIGH NC-WINSTON SALEM NC"
+  },
+  {
     "pro": "50669",
     "status": "DELIVERED",
     "pu_date": "2026-09-24",
@@ -715,7 +749,7 @@
   },
   {
     "pro": "50617",
-    "status": "PICKUP",
+    "status": "LOADED",
     "pu_date": "2026-09-30",
     "pu_city": "WINCHESTER",
     "pu_state": "KY",
@@ -727,7 +761,7 @@
     "equipment": "Van",
     "weight_lbs": 11400,
     "carrier_rate": 2500,
-    "updated_at": "2026-09-30T15:53:27.621505+00:00",
+    "updated_at": "2026-09-30T18:08:56.313321+00:00",
     "lane": "WINCHESTER KY-BURLINGTON NJ"
   },
   {
