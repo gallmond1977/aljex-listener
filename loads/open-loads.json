@@ -81,25 +81,8 @@
     "equipment": "Van",
     "weight_lbs": 42840,
     "carrier_rate": 2400,
-    "updated_at": "2026-09-30T14:41:02.334891+00:00",
+    "updated_at": "2026-09-30T14:46:17.500850+00:00",
     "lane": "CHESTER VA-QUINCY IL"
-  },
-  {
-    "pro": "50748",
-    "status": "OPEN",
-    "pu_date": "2026-09-30",
-    "pu_city": "LINCOLN",
-    "pu_state": "NE",
-    "pu_hours": "0730-1530",
-    "del_date": "2026-10-02",
-    "del_city": "ATLANTA",
-    "del_state": "GA",
-    "del_hours": "0800-1600",
-    "equipment": "Flatbed",
-    "weight_lbs": 36000,
-    "carrier_rate": 2200,
-    "updated_at": "2026-09-30T14:35:38.123001+00:00",
-    "lane": "LINCOLN NE-ATLANTA GA"
   },
   {
     "pro": "50159",
