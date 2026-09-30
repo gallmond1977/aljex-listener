@@ -13,7 +13,7 @@
     "equipment": "Van",
     "weight_lbs": 12282,
     "carrier_rate": 2500,
-    "updated_at": "2026-09-30T14:43:33.142652+00:00",
+    "updated_at": "2026-09-30T15:07:16.645665+00:00",
     "lane": "WINCHESTER KY-BURLINGTON NJ"
   },
   {
@@ -66,6 +66,23 @@
     "carrier_rate": 2400,
     "updated_at": "2026-09-30T14:46:17.500850+00:00",
     "lane": "CHESTER VA-QUINCY IL"
+  },
+  {
+    "pro": "50751",
+    "status": "OPEN",
+    "pu_date": "2026-09-30",
+    "pu_city": "OAKLAND",
+    "pu_state": "TN",
+    "pu_hours": "0800-1500",
+    "del_date": "2026-10-01",
+    "del_city": "SALISBURY",
+    "del_state": "NC",
+    "del_hours": "0600-0800",
+    "equipment": "Van Hazmat",
+    "weight_lbs": 44900,
+    "carrier_rate": 2450,
+    "updated_at": "2026-09-30T15:09:20.405556+00:00",
+    "lane": "OAKLAND TN-SALISBURY NC"
   },
   {
     "pro": "50159",
@@ -147,9 +164,9 @@
     "del_state": "GA",
     "del_hours": "CALL!",
     "equipment": "Van",
-    "weight_lbs": 15000,
+    "weight_lbs": 3400,
     "carrier_rate": 650,
-    "updated_at": "2026-09-29T20:02:51.971567+00:00",
+    "updated_at": "2026-09-30T15:09:58.414685+00:00",
     "lane": "NEWNAN GA-DUBLIN GA"
   },
   {
@@ -527,6 +544,23 @@
     "lane": "WINCHESTER KY-UXBRIDGE MA"
   },
   {
+    "pro": "50609",
+    "status": "RELEASED",
+    "pu_date": "2026-09-24",
+    "pu_city": "OAKLAND",
+    "pu_state": "TN",
+    "pu_hours": "0800-1500",
+    "del_date": "2026-09-25",
+    "del_city": "SALISBURY",
+    "del_state": "NC",
+    "del_hours": "0600-0800",
+    "equipment": "Van Hazmat",
+    "weight_lbs": 44900,
+    "carrier_rate": 2800,
+    "updated_at": "2026-09-28T14:25:13.302275+00:00",
+    "lane": "OAKLAND TN-SALISBURY NC"
+  },
+  {
     "pro": "50613",
     "status": "RELEASED",
     "pu_date": "2026-09-24",
@@ -647,7 +681,7 @@
   },
   {
     "pro": "50617",
-    "status": "DISPATCHED",
+    "status": "PICKUP",
     "pu_date": "2026-09-30",
     "pu_city": "WINCHESTER",
     "pu_state": "KY",
@@ -659,7 +693,7 @@
     "equipment": "Van",
     "weight_lbs": 11400,
     "carrier_rate": 2500,
-    "updated_at": "2026-09-30T13:50:12.779736+00:00",
+    "updated_at": "2026-09-30T15:08:40.053489+00:00",
     "lane": "WINCHESTER KY-BURLINGTON NJ"
   },
   {
@@ -676,7 +710,7 @@
     "equipment": "Van",
     "weight_lbs": 4005,
     "carrier_rate": 2600,
-    "updated_at": "2026-09-30T14:26:30.372352+00:00",
+    "updated_at": "2026-09-30T15:09:20.444464+00:00",
     "lane": "WINCHESTER KY-BURLINGTON NJ"
   }
 ]
