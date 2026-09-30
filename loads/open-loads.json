@@ -272,6 +272,23 @@
     "lane": "GREENWOOD WI-LITHIA SPRINGS GA"
   },
   {
+    "pro": "50739",
+    "status": "OPEN",
+    "pu_date": "2026-10-02",
+    "pu_city": "WINCHESTER",
+    "pu_state": "KY",
+    "pu_hours": "0800-1500",
+    "del_date": "2026-10-05",
+    "del_city": "UXBRIDGE",
+    "del_state": "MA",
+    "del_hours": "1700",
+    "equipment": "Van",
+    "weight_lbs": 4200,
+    "carrier_rate": null,
+    "updated_at": "2026-09-30T11:24:45.397978+00:00",
+    "lane": "WINCHESTER KY-UXBRIDGE MA"
+  },
+  {
     "pro": "50741",
     "status": "OPEN",
     "pu_date": "2026-10-02",
@@ -328,7 +345,7 @@
     "pu_date": "2026-10-05",
     "pu_city": "WINCHESTER",
     "pu_state": "KY",
-    "pu_hours": "0800-1500",
+    "pu_hours": "1200-1500",
     "del_date": "2026-10-06",
     "del_city": "JACKSONVILLE",
     "del_state": "FL",
@@ -336,7 +353,7 @@
     "equipment": "Van",
     "weight_lbs": 4000,
     "carrier_rate": null,
-    "updated_at": "2026-09-29T14:58:59.938032+00:00",
+    "updated_at": "2026-09-30T11:20:31.452433+00:00",
     "lane": "WINCHESTER KY-JACKSONVILLE FL"
   },
   {
@@ -355,23 +372,6 @@
     "carrier_rate": null,
     "updated_at": "2026-09-29T18:53:56.422097+00:00",
     "lane": "COLUMBUS GA-VAN WERT OH"
-  },
-  {
-    "pro": "50739",
-    "status": "OPEN",
-    "pu_date": "2026-10-05",
-    "pu_city": "WINCHESTER",
-    "pu_state": "KY",
-    "pu_hours": "0800-1500",
-    "del_date": "",
-    "del_city": "UXBRIDGE",
-    "del_state": "MA",
-    "del_hours": "1700",
-    "equipment": "Van",
-    "weight_lbs": 13083,
-    "carrier_rate": null,
-    "updated_at": "2026-09-29T19:10:41.453738+00:00",
-    "lane": "WINCHESTER KY-UXBRIDGE MA"
   },
   {
     "pro": "50700",
