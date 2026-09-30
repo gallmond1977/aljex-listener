@@ -119,23 +119,6 @@
     "lane": "BUENA VISTA GA-BRENTWOOD TN"
   },
   {
-    "pro": "50762",
-    "status": "OPEN",
-    "pu_date": "2026-10-01",
-    "pu_city": "RALEIGH",
-    "pu_state": "NC",
-    "pu_hours": "0800",
-    "del_date": "2026-10-01",
-    "del_city": "WINSTON SALEM",
-    "del_state": "NC",
-    "del_hours": "0800-1500",
-    "equipment": "Van",
-    "weight_lbs": 6643,
-    "carrier_rate": 450,
-    "updated_at": "2026-09-30T18:35:47.925308+00:00",
-    "lane": "RALEIGH NC-WINSTON SALEM NC"
-  },
-  {
     "pro": "50763",
     "status": "OPEN",
     "pu_date": "2026-10-01",
@@ -148,8 +131,8 @@
     "del_hours": "0700-1300",
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 1000,
-    "carrier_rate": null,
-    "updated_at": "2026-09-30T18:36:24.953133+00:00",
+    "carrier_rate": 900,
+    "updated_at": "2026-09-30T18:41:31.425884+00:00",
     "lane": "CLARENCE NY-BELCAMP MD"
   },
   {
@@ -644,23 +627,6 @@
     "carrier_rate": 3800,
     "updated_at": "2026-09-30T14:13:08.598221+00:00",
     "lane": "WINCHESTER KY-JACKSONVILLE FL"
-  },
-  {
-    "pro": "50653",
-    "status": "RELEASED",
-    "pu_date": "2026-09-24",
-    "pu_city": "RALEIGH",
-    "pu_state": "NC",
-    "pu_hours": "0800",
-    "del_date": "2026-09-24",
-    "del_city": "WINSTON SALEM",
-    "del_state": "NC",
-    "del_hours": "0800-1500",
-    "equipment": "Van",
-    "weight_lbs": 5351,
-    "carrier_rate": 500,
-    "updated_at": "2026-09-24T15:52:41.476923+00:00",
-    "lane": "RALEIGH NC-WINSTON SALEM NC"
   },
   {
     "pro": "50669",
