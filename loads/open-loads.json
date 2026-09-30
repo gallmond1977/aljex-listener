@@ -51,23 +51,6 @@
     "lane": "LAGRANGE GA-ORLANDO FL"
   },
   {
-    "pro": "50735",
-    "status": "OPEN",
-    "pu_date": "2026-09-30",
-    "pu_city": "JACKSONVILLE",
-    "pu_state": "TX",
-    "pu_hours": "0800-1500",
-    "del_date": "2026-10-02",
-    "del_city": "MACON",
-    "del_state": "GA",
-    "del_hours": "0800-1500",
-    "equipment": "Van",
-    "weight_lbs": 44500,
-    "carrier_rate": 2200,
-    "updated_at": "2026-09-30T14:54:14.379959+00:00",
-    "lane": "JACKSONVILLE TX-MACON GA"
-  },
-  {
     "pro": "50742",
     "status": "OPEN",
     "pu_date": "2026-09-30",
@@ -264,11 +247,11 @@
     "del_date": "2026-10-05",
     "del_city": "KESWICK",
     "del_state": "VA",
-    "del_hours": "0700-1200",
+    "del_hours": "CALL!",
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 5000,
     "carrier_rate": 300,
-    "updated_at": "2026-09-30T14:54:52.935786+00:00",
+    "updated_at": "2026-09-30T14:56:14.097850+00:00",
     "lane": "RICHMOND VA-KESWICK VA"
   },
   {
@@ -593,23 +576,6 @@
     "carrier_rate": 2500,
     "updated_at": "2026-09-25T20:20:59.315094+00:00",
     "lane": "BENSENVILLE IL-BELCAMP MD"
-  },
-  {
-    "pro": "50671",
-    "status": "RELEASED",
-    "pu_date": "2026-09-24",
-    "pu_city": "JACKSONVILLE",
-    "pu_state": "TX",
-    "pu_hours": "0800-1500",
-    "del_date": "2026-09-25",
-    "del_city": "MACON",
-    "del_state": "GA",
-    "del_hours": "0800-1300",
-    "equipment": "Van",
-    "weight_lbs": 44500,
-    "carrier_rate": 2300,
-    "updated_at": "2026-09-28T14:27:25.152046+00:00",
-    "lane": "JACKSONVILLE TX-MACON GA"
   },
   {
     "pro": "50596",
