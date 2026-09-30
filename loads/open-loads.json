@@ -323,6 +323,23 @@
     "lane": "ALLENTOWN PA-GREENVILLE NC"
   },
   {
+    "pro": "50758",
+    "status": "OPEN",
+    "pu_date": "2026-10-09",
+    "pu_city": "GARLAND",
+    "pu_state": "TX",
+    "pu_hours": "1200-1500",
+    "del_date": "2026-10-12",
+    "del_city": "CALHOUN",
+    "del_state": "GA",
+    "del_hours": "0730-1400",
+    "equipment": "Van",
+    "weight_lbs": 40949,
+    "carrier_rate": 2000,
+    "updated_at": "2026-09-30T17:16:38.833686+00:00",
+    "lane": "GARLAND TX-CALHOUN GA"
+  },
+  {
     "pro": "50082",
     "status": "OPEN",
     "pu_date": "2026-10-12",
