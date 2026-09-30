@@ -68,23 +68,6 @@
     "lane": "UNION CITY GA-SANFORD FL"
   },
   {
-    "pro": "50761",
-    "status": "OPEN",
-    "pu_date": "2026-10-01",
-    "pu_city": "BUENA VISTA",
-    "pu_state": "GA",
-    "pu_hours": "1230-1430",
-    "del_date": "2026-10-02",
-    "del_city": "BRENTWOOD",
-    "del_state": "TN",
-    "del_hours": "0900-1200",
-    "equipment": "Van",
-    "weight_lbs": 43500,
-    "carrier_rate": 1000,
-    "updated_at": "2026-09-30T20:41:42.293757+00:00",
-    "lane": "BUENA VISTA GA-BRENTWOOD TN"
-  },
-  {
     "pro": "50764",
     "status": "OPEN",
     "pu_date": "2026-10-01",
