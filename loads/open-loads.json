@@ -119,23 +119,6 @@
     "lane": "JACKSONVILLE TX-JACKSON MS"
   },
   {
-    "pro": "50703",
-    "status": "OPEN",
-    "pu_date": "2026-09-30",
-    "pu_city": "OAKLAND",
-    "pu_state": "TN",
-    "pu_hours": "0800-1500",
-    "del_date": "2026-10-01",
-    "del_city": "PHENIX CITY",
-    "del_state": "AL",
-    "del_hours": "0700-1000",
-    "equipment": "Van Hazmat",
-    "weight_lbs": 44940,
-    "carrier_rate": 2400,
-    "updated_at": "2026-09-29T20:25:51.911153+00:00",
-    "lane": "OAKLAND TN-PHENIX CITY AL"
-  },
-  {
     "pro": "50720",
     "status": "OPEN",
     "pu_date": "2026-09-30",
