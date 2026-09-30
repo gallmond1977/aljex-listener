@@ -148,8 +148,8 @@
     "del_hours": "CALL!",
     "equipment": "Van",
     "weight_lbs": 3400,
-    "carrier_rate": 650,
-    "updated_at": "2026-09-30T15:09:58.414685+00:00",
+    "carrier_rate": 600,
+    "updated_at": "2026-09-30T15:24:25.101640+00:00",
     "lane": "NEWNAN GA-DUBLIN GA"
   },
   {
