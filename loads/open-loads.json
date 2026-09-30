@@ -1,22 +1,5 @@
 [
   {
-    "pro": "50598",
-    "status": "OPEN",
-    "pu_date": "2026-09-30",
-    "pu_city": "ATLANTA",
-    "pu_state": "GA",
-    "pu_hours": "1000",
-    "del_date": "2026-09-30",
-    "del_city": "FOREST PARK",
-    "del_state": "GA",
-    "del_hours": "1300",
-    "equipment": "Reefer",
-    "weight_lbs": 33095,
-    "carrier_rate": 500,
-    "updated_at": "2026-09-30T13:11:58.217245+00:00",
-    "lane": "ATLANTA GA-FOREST PARK GA"
-  },
-  {
     "pro": "50616",
     "status": "OPEN",
     "pu_date": "2026-09-30",
@@ -31,23 +14,6 @@
     "weight_lbs": 12282,
     "carrier_rate": 2400,
     "updated_at": "2026-09-29T19:42:48.318266+00:00",
-    "lane": "WINCHESTER KY-BURLINGTON NJ"
-  },
-  {
-    "pro": "50618",
-    "status": "OPEN",
-    "pu_date": "2026-09-30",
-    "pu_city": "WINCHESTER",
-    "pu_state": "KY",
-    "pu_hours": "1100-1400",
-    "del_date": "2026-10-01",
-    "del_city": "BURLINGTON",
-    "del_state": "NJ",
-    "del_hours": "0500",
-    "equipment": "Van",
-    "weight_lbs": 4005,
-    "carrier_rate": 2400,
-    "updated_at": "2026-09-29T19:43:20.754892+00:00",
     "lane": "WINCHESTER KY-BURLINGTON NJ"
   },
   {
@@ -714,23 +680,6 @@
     "lane": "JACKSONVILLE TX-MACON GA"
   },
   {
-    "pro": "50529",
-    "status": "RELEASED",
-    "pu_date": "2026-09-25",
-    "pu_city": "ATLANTA",
-    "pu_state": "GA",
-    "pu_hours": "1530",
-    "del_date": "2026-09-26",
-    "del_city": "FOREST PARK",
-    "del_state": "GA",
-    "del_hours": "2200",
-    "equipment": "Reefer",
-    "weight_lbs": 33095,
-    "carrier_rate": 580,
-    "updated_at": "2026-09-30T13:23:34.659940+00:00",
-    "lane": "ATLANTA GA-FOREST PARK GA"
-  },
-  {
     "pro": "50687",
     "status": "DELIVERED",
     "pu_date": "2026-09-25",
@@ -847,6 +796,23 @@
     "weight_lbs": 11400,
     "carrier_rate": 2500,
     "updated_at": "2026-09-30T13:18:15.303922+00:00",
+    "lane": "WINCHESTER KY-BURLINGTON NJ"
+  },
+  {
+    "pro": "50618",
+    "status": "COVERED",
+    "pu_date": "2026-09-30",
+    "pu_city": "WINCHESTER",
+    "pu_state": "KY",
+    "pu_hours": "1100-1400",
+    "del_date": "2026-10-01",
+    "del_city": "BURLINGTON",
+    "del_state": "NJ",
+    "del_hours": "0500",
+    "equipment": "Van",
+    "weight_lbs": 4005,
+    "carrier_rate": 2600,
+    "updated_at": "2026-09-30T13:38:29.366242+00:00",
     "lane": "WINCHESTER KY-BURLINGTON NJ"
   },
   {
