@@ -766,7 +766,7 @@
   },
   {
     "pro": "50617",
-    "status": "COVERED",
+    "status": "DISPATCHED",
     "pu_date": "2026-09-30",
     "pu_city": "WINCHESTER",
     "pu_state": "KY",
@@ -778,7 +778,7 @@
     "equipment": "Van",
     "weight_lbs": 11400,
     "carrier_rate": 2500,
-    "updated_at": "2026-09-30T13:18:15.303922+00:00",
+    "updated_at": "2026-09-30T13:49:49.865554+00:00",
     "lane": "WINCHESTER KY-BURLINGTON NJ"
   },
   {
@@ -812,7 +812,7 @@
     "equipment": "Van",
     "weight_lbs": 14734,
     "carrier_rate": 1200,
-    "updated_at": "2026-09-30T13:26:03.776396+00:00",
+    "updated_at": "2026-09-30T13:47:10.671218+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
