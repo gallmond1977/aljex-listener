@@ -81,7 +81,7 @@
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 7000,
     "carrier_rate": 1000,
-    "updated_at": "2026-09-30T16:14:15.295875+00:00",
+    "updated_at": "2026-09-30T17:44:54.263649+00:00",
     "lane": "UNION CITY GA-SANFORD FL"
   },
   {
@@ -100,6 +100,23 @@
     "carrier_rate": 900,
     "updated_at": "2026-09-30T17:31:49.230720+00:00",
     "lane": "CUMMING GA-CANON GA"
+  },
+  {
+    "pro": "50760",
+    "status": "OPEN",
+    "pu_date": "2026-10-01",
+    "pu_city": "BELCAMP",
+    "pu_state": "MD",
+    "pu_hours": "0800-0900",
+    "del_date": "2026-10-01",
+    "del_city": "SECAUCUS",
+    "del_state": "NJ",
+    "del_hours": "0800-1400",
+    "equipment": "26' Straight Box Truck",
+    "weight_lbs": 5500,
+    "carrier_rate": null,
+    "updated_at": "2026-09-30T17:42:25.169079+00:00",
+    "lane": "BELCAMP MD-SECAUCUS NJ"
   },
   {
     "pro": "50107",
@@ -761,7 +778,7 @@
     "equipment": "Van",
     "weight_lbs": 12282,
     "carrier_rate": 3000,
-    "updated_at": "2026-09-30T17:32:01.644267+00:00",
+    "updated_at": "2026-09-30T17:44:38.387227+00:00",
     "lane": "WINCHESTER KY-BURLINGTON NJ"
   },
   {
