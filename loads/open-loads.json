@@ -200,7 +200,7 @@
     "equipment": "Flatbed",
     "weight_lbs": 46500,
     "carrier_rate": 1700,
-    "updated_at": "2026-09-30T12:58:24.375504+00:00",
+    "updated_at": "2026-09-30T13:28:45.813641+00:00",
     "lane": "COLUMBUS GA-FLETCHER NC"
   },
   {
@@ -863,7 +863,7 @@
     "equipment": "Van",
     "weight_lbs": 14734,
     "carrier_rate": 1200,
-    "updated_at": "2026-09-30T13:24:04.364746+00:00",
+    "updated_at": "2026-09-30T13:26:03.776396+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
