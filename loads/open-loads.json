@@ -119,23 +119,6 @@
     "lane": "JACKSONVILLE TX-JACKSON MS"
   },
   {
-    "pro": "50726",
-    "status": "OPEN",
-    "pu_date": "2026-09-30",
-    "pu_city": "WINCHESTER",
-    "pu_state": "KY",
-    "pu_hours": "1200-1530",
-    "del_date": "2026-10-01",
-    "del_city": "JOLIET",
-    "del_state": "IL",
-    "del_hours": "1300",
-    "equipment": "Van",
-    "weight_lbs": 9600,
-    "carrier_rate": 1100,
-    "updated_at": "2026-09-29T20:46:21.728798+00:00",
-    "lane": "WINCHESTER KY-JOLIET IL"
-  },
-  {
     "pro": "50727",
     "status": "OPEN",
     "pu_date": "2026-09-30",
@@ -219,6 +202,23 @@
     "carrier_rate": 400,
     "updated_at": "2026-09-30T12:38:43.501430+00:00",
     "lane": "LILLINGTON NC-CHARLESTON SC"
+  },
+  {
+    "pro": "50747",
+    "status": "OPEN",
+    "pu_date": "2026-10-01",
+    "pu_city": "COLUMBUS",
+    "pu_state": "GA",
+    "pu_hours": "0700-1500",
+    "del_date": "2026-10-02",
+    "del_city": "FLETCHER",
+    "del_state": "NC",
+    "del_hours": "0700-0800",
+    "equipment": "Flatbed",
+    "weight_lbs": 46500,
+    "carrier_rate": 1700,
+    "updated_at": "2026-09-30T12:58:24.375504+00:00",
+    "lane": "COLUMBUS GA-FLETCHER NC"
   },
   {
     "pro": "50107",
@@ -898,6 +898,23 @@
     "weight_lbs": 9600,
     "carrier_rate": 1200,
     "updated_at": "2026-09-29T20:45:46.576372+00:00",
+    "lane": "WINCHESTER KY-JOLIET IL"
+  },
+  {
+    "pro": "50726",
+    "status": "COVERED",
+    "pu_date": "2026-09-30",
+    "pu_city": "WINCHESTER",
+    "pu_state": "KY",
+    "pu_hours": "1200-1530",
+    "del_date": "2026-10-01",
+    "del_city": "JOLIET",
+    "del_state": "IL",
+    "del_hours": "1300",
+    "equipment": "Van",
+    "weight_lbs": 9600,
+    "carrier_rate": 1200,
+    "updated_at": "2026-09-30T12:56:53.557259+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
   }
 ]
