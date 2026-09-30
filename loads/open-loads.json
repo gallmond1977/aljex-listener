@@ -681,7 +681,7 @@
   },
   {
     "pro": "50610",
-    "status": "LOADED",
+    "status": "CONSIGNEE",
     "pu_date": "2026-09-28",
     "pu_city": "WINCHESTER",
     "pu_state": "KY",
@@ -693,7 +693,7 @@
     "equipment": "Van",
     "weight_lbs": 13083,
     "carrier_rate": 3800,
-    "updated_at": "2026-09-30T19:13:11.761262+00:00",
+    "updated_at": "2026-09-30T20:56:20.670568+00:00",
     "lane": "WINCHESTER KY-UXBRIDGE MA"
   },
   {
@@ -715,7 +715,7 @@
   },
   {
     "pro": "50612",
-    "status": "LOADED",
+    "status": "CONSIGNEE",
     "pu_date": "2026-09-29",
     "pu_city": "WINCHESTER",
     "pu_state": "KY",
@@ -727,7 +727,7 @@
     "equipment": "Van",
     "weight_lbs": 4871,
     "carrier_rate": 3850,
-    "updated_at": "2026-09-30T19:14:56.880949+00:00",
+    "updated_at": "2026-09-30T20:57:07.451322+00:00",
     "lane": "WINCHESTER KY-UXBRIDGE MA"
   },
   {
