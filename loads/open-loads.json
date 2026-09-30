@@ -277,7 +277,7 @@
     "pu_date": "2026-10-02",
     "pu_city": "WINCHESTER",
     "pu_state": "KY",
-    "pu_hours": "0800-1500",
+    "pu_hours": "1200-1500",
     "del_date": "2026-10-05",
     "del_city": "UXBRIDGE",
     "del_state": "MA",
@@ -285,7 +285,7 @@
     "equipment": "Van",
     "weight_lbs": 4200,
     "carrier_rate": null,
-    "updated_at": "2026-09-30T11:24:45.397978+00:00",
+    "updated_at": "2026-09-30T11:28:29.677473+00:00",
     "lane": "WINCHESTER KY-UXBRIDGE MA"
   },
   {
@@ -304,6 +304,23 @@
     "carrier_rate": 650,
     "updated_at": "2026-09-29T20:02:51.971567+00:00",
     "lane": "NEWNAN GA-DUBLIN GA"
+  },
+  {
+    "pro": "50745",
+    "status": "OPEN",
+    "pu_date": "2026-10-02",
+    "pu_city": "WINCHESTER",
+    "pu_state": "KY",
+    "pu_hours": "1200-1500",
+    "del_date": "2026-10-05",
+    "del_city": "BURLINGTON",
+    "del_state": "NJ",
+    "del_hours": "1100",
+    "equipment": "Van",
+    "weight_lbs": 4200,
+    "carrier_rate": null,
+    "updated_at": "2026-09-30T11:28:08.806899+00:00",
+    "lane": "WINCHESTER KY-BURLINGTON NJ"
   },
   {
     "pro": "50657",
