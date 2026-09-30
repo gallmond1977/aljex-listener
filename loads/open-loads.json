@@ -12,8 +12,8 @@
     "del_hours": "0500",
     "equipment": "Van",
     "weight_lbs": 12282,
-    "carrier_rate": 2500,
-    "updated_at": "2026-09-30T15:07:16.645665+00:00",
+    "carrier_rate": 2600,
+    "updated_at": "2026-09-30T15:47:38.441319+00:00",
     "lane": "WINCHESTER KY-BURLINGTON NJ"
   },
   {
@@ -63,9 +63,26 @@
     "del_hours": "0900",
     "equipment": "Van",
     "weight_lbs": 42840,
-    "carrier_rate": 2400,
-    "updated_at": "2026-09-30T14:46:17.500850+00:00",
+    "carrier_rate": 2800,
+    "updated_at": "2026-09-30T15:47:01.318195+00:00",
     "lane": "CHESTER VA-QUINCY IL"
+  },
+  {
+    "pro": "50752",
+    "status": "OPEN",
+    "pu_date": "2026-09-30",
+    "pu_city": "MONCURE",
+    "pu_state": "NC",
+    "pu_hours": "0730-1600",
+    "del_date": "2026-10-01",
+    "del_city": "ATLANTA",
+    "del_state": "GA",
+    "del_hours": "0800-1600",
+    "equipment": "Van",
+    "weight_lbs": 44000,
+    "carrier_rate": 900,
+    "updated_at": "2026-09-30T15:49:46.184536+00:00",
+    "lane": "MONCURE NC-ATLANTA GA"
   },
   {
     "pro": "50159",
