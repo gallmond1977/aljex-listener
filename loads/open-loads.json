@@ -64,7 +64,7 @@
     "equipment": "Van",
     "weight_lbs": 12480,
     "carrier_rate": 1200,
-    "updated_at": "2026-09-30T13:54:32.795313+00:00",
+    "updated_at": "2026-09-30T13:56:11.983422+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
@@ -134,6 +134,23 @@
     "carrier_rate": 500,
     "updated_at": "2026-09-30T13:21:21.087085+00:00",
     "lane": "LILLINGTON NC-CHARLESTON SC"
+  },
+  {
+    "pro": "50748",
+    "status": "OPEN",
+    "pu_date": "2026-09-30",
+    "pu_city": "LINCOLN",
+    "pu_state": "NE",
+    "pu_hours": "0800-1600",
+    "del_date": "",
+    "del_city": "DORAVILLE",
+    "del_state": "GA",
+    "del_hours": "300017803",
+    "equipment": "Flatbed",
+    "weight_lbs": null,
+    "carrier_rate": null,
+    "updated_at": "2026-09-30T14:00:31.799616+00:00",
+    "lane": "LINCOLN NE-DORAVILLE GA"
   },
   {
     "pro": "50159",
