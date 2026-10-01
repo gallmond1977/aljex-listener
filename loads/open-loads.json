@@ -664,7 +664,7 @@
   },
   {
     "pro": "50610",
-    "status": "CONSIGNEE",
+    "status": "DELIVERED",
     "pu_date": "2026-09-28",
     "pu_city": "WINCHESTER",
     "pu_state": "KY",
@@ -676,7 +676,7 @@
     "equipment": "Van",
     "weight_lbs": 13083,
     "carrier_rate": 3800,
-    "updated_at": "2026-09-30T20:56:20.670568+00:00",
+    "updated_at": "2026-10-01T11:55:00.276038+00:00",
     "lane": "WINCHESTER KY-UXBRIDGE MA"
   },
   {
