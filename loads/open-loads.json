@@ -68,23 +68,6 @@
     "lane": "NEWNAN GA-DUBLIN GA"
   },
   {
-    "pro": "50753",
-    "status": "OPEN",
-    "pu_date": "2026-10-02",
-    "pu_city": "MONCURE",
-    "pu_state": "NC",
-    "pu_hours": "0730-1600",
-    "del_date": "2026-10-05",
-    "del_city": "ATLANTA",
-    "del_state": "GA",
-    "del_hours": "0800-1600",
-    "equipment": "Van",
-    "weight_lbs": 44000,
-    "carrier_rate": 900,
-    "updated_at": "2026-10-01T15:13:29.071230+00:00",
-    "lane": "MONCURE NC-ATLANTA GA"
-  },
-  {
     "pro": "50754",
     "status": "OPEN",
     "pu_date": "2026-10-02",
@@ -712,6 +695,23 @@
     "carrier_rate": 700,
     "updated_at": "2026-10-01T13:16:01.071916+00:00",
     "lane": "COLUMBUS GA-TRYON NC"
+  },
+  {
+    "pro": "50753",
+    "status": "DISPATCHED",
+    "pu_date": "2026-10-01",
+    "pu_city": "MONCURE",
+    "pu_state": "NC",
+    "pu_hours": "0730-1600",
+    "del_date": "2026-10-02",
+    "del_city": "ATLANTA",
+    "del_state": "GA",
+    "del_hours": "0800-1600",
+    "equipment": "Van",
+    "weight_lbs": 44000,
+    "carrier_rate": 1000,
+    "updated_at": "2026-10-01T18:03:17.150896+00:00",
+    "lane": "MONCURE NC-ATLANTA GA"
   },
   {
     "pro": "50107",
