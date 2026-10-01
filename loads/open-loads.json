@@ -51,6 +51,23 @@
     "lane": "MONCURE NC-ATLANTA GA"
   },
   {
+    "pro": "50764",
+    "status": "OPEN",
+    "pu_date": "2026-10-01",
+    "pu_city": "WINCHESTER",
+    "pu_state": "KY",
+    "pu_hours": "1200-1500",
+    "del_date": "2026-10-02",
+    "del_city": "BENTONVILLE",
+    "del_state": "AR",
+    "del_hours": "0900-1600",
+    "equipment": "26' Straight Box Truck",
+    "weight_lbs": 1000,
+    "carrier_rate": 1645,
+    "updated_at": "2026-10-01T14:59:44.894466+00:00",
+    "lane": "WINCHESTER KY-BENTONVILLE AR"
+  },
+  {
     "pro": "50766",
     "status": "OPEN",
     "pu_date": "2026-10-01",
@@ -81,7 +98,7 @@
     "equipment": "Van",
     "weight_lbs": 44000,
     "carrier_rate": 800,
-    "updated_at": "2026-10-01T14:53:20.824920+00:00",
+    "updated_at": "2026-10-01T14:55:37.968431+00:00",
     "lane": "WADESBORO NC-ATLANTA GA"
   },
   {
@@ -98,7 +115,7 @@
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 2200,
     "carrier_rate": 900,
-    "updated_at": "2026-10-01T14:55:04.321477+00:00",
+    "updated_at": "2026-10-01T14:55:52.076615+00:00",
     "lane": "KITTANNING PA-PLAINFIELD IN"
   },
   {
@@ -267,8 +284,8 @@
     "del_hours": "0800-1000",
     "equipment": "Flatbed",
     "weight_lbs": 35000,
-    "carrier_rate": null,
-    "updated_at": "2026-10-01T14:54:55.643960+00:00",
+    "carrier_rate": 850,
+    "updated_at": "2026-10-01T14:57:25.883670+00:00",
     "lane": "FAIRBURN GA-SAVANNAH GA"
   },
   {
