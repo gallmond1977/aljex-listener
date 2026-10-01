@@ -34,23 +34,6 @@
     "lane": "GREENWOOD WI-LITHIA SPRINGS GA"
   },
   {
-    "pro": "50741",
-    "status": "OPEN",
-    "pu_date": "2026-10-02",
-    "pu_city": "NEWNAN",
-    "pu_state": "GA",
-    "pu_hours": "0700-0800",
-    "del_date": "2026-10-02",
-    "del_city": "DUBLIN",
-    "del_state": "GA",
-    "del_hours": "0800-1200",
-    "equipment": "Van",
-    "weight_lbs": 3400,
-    "carrier_rate": 750,
-    "updated_at": "2026-10-01T18:53:49.633286+00:00",
-    "lane": "NEWNAN GA-DUBLIN GA"
-  },
-  {
     "pro": "50775",
     "status": "OPEN",
     "pu_date": "2026-10-02",
