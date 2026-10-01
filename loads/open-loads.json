@@ -328,7 +328,7 @@
     "pu_date": "2026-10-08",
     "pu_city": "MOUNT STERLING",
     "pu_state": "KY",
-    "pu_hours": "",
+    "pu_hours": "1300",
     "del_date": "2026-10-12",
     "del_city": "MIRA LOMA",
     "del_state": "CA",
@@ -336,7 +336,7 @@
     "equipment": "Van",
     "weight_lbs": 4800,
     "carrier_rate": null,
-    "updated_at": "2026-10-01T16:38:45.397290+00:00",
+    "updated_at": "2026-10-01T18:07:39.993889+00:00",
     "lane": "MOUNT STERLING KY-MIRA LOMA CA"
   },
   {
@@ -710,7 +710,7 @@
     "equipment": "Van",
     "weight_lbs": 44000,
     "carrier_rate": 1000,
-    "updated_at": "2026-10-01T18:03:17.150896+00:00",
+    "updated_at": "2026-10-01T18:06:51.663832+00:00",
     "lane": "MONCURE NC-ATLANTA GA"
   },
   {
@@ -744,7 +744,7 @@
     "equipment": "Van",
     "weight_lbs": 44000,
     "carrier_rate": 1000,
-    "updated_at": "2026-10-01T17:47:27.919843+00:00",
+    "updated_at": "2026-10-01T18:06:23.478733+00:00",
     "lane": "MONCURE NC-ATLANTA GA"
   }
 ]
