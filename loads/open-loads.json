@@ -81,8 +81,25 @@
     "equipment": "Van",
     "weight_lbs": 44000,
     "carrier_rate": 800,
-    "updated_at": "2026-10-01T14:48:46.153321+00:00",
+    "updated_at": "2026-10-01T14:53:20.824920+00:00",
     "lane": "WADESBORO NC-ATLANTA GA"
+  },
+  {
+    "pro": "50778",
+    "status": "OPEN",
+    "pu_date": "2026-10-01",
+    "pu_city": "KITTANNING",
+    "pu_state": "PA",
+    "pu_hours": "0800-1400",
+    "del_date": "2026-10-02",
+    "del_city": "PLAINFIELD",
+    "del_state": "IN",
+    "del_hours": "0800-1100",
+    "equipment": "26' Straight Box Truck",
+    "weight_lbs": 2200,
+    "carrier_rate": 900,
+    "updated_at": "2026-10-01T14:55:04.321477+00:00",
+    "lane": "KITTANNING PA-PLAINFIELD IN"
   },
   {
     "pro": "50656",
@@ -236,6 +253,23 @@
     "carrier_rate": 300,
     "updated_at": "2026-09-30T14:56:14.097850+00:00",
     "lane": "RICHMOND VA-KESWICK VA"
+  },
+  {
+    "pro": "50777",
+    "status": "OPEN",
+    "pu_date": "2026-10-05",
+    "pu_city": "FAIRBURN",
+    "pu_state": "GA",
+    "pu_hours": "1300-1500",
+    "del_date": "2026-10-06",
+    "del_city": "SAVANNAH",
+    "del_state": "GA",
+    "del_hours": "0800-1000",
+    "equipment": "Flatbed",
+    "weight_lbs": 35000,
+    "carrier_rate": null,
+    "updated_at": "2026-10-01T14:54:55.643960+00:00",
+    "lane": "FAIRBURN GA-SAVANNAH GA"
   },
   {
     "pro": "50700",
