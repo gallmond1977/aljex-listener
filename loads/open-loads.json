@@ -51,23 +51,6 @@
     "lane": "MONCURE NC-ATLANTA GA"
   },
   {
-    "pro": "50762",
-    "status": "OPEN",
-    "pu_date": "2026-10-01",
-    "pu_city": "RALEIGH",
-    "pu_state": "NC",
-    "pu_hours": "0800-0900",
-    "del_date": "2026-10-01",
-    "del_city": "WINSTON SALEM",
-    "del_state": "NC",
-    "del_hours": "0800-1500",
-    "equipment": "Van",
-    "weight_lbs": 6643,
-    "carrier_rate": 500,
-    "updated_at": "2026-10-01T13:04:18.788960+00:00",
-    "lane": "RALEIGH NC-WINSTON SALEM NC"
-  },
-  {
     "pro": "50764",
     "status": "OPEN",
     "pu_date": "2026-10-01",
@@ -661,23 +644,6 @@
     "carrier_rate": 3800,
     "updated_at": "2026-09-30T14:13:08.598221+00:00",
     "lane": "WINCHESTER KY-JACKSONVILLE FL"
-  },
-  {
-    "pro": "50653",
-    "status": "RELEASED",
-    "pu_date": "2026-09-24",
-    "pu_city": "RALEIGH",
-    "pu_state": "NC",
-    "pu_hours": "0800",
-    "del_date": "2026-09-24",
-    "del_city": "WINSTON SALEM",
-    "del_state": "NC",
-    "del_hours": "0800-1500",
-    "equipment": "Van",
-    "weight_lbs": 5351,
-    "carrier_rate": 500,
-    "updated_at": "2026-09-24T15:52:41.476923+00:00",
-    "lane": "RALEIGH NC-WINSTON SALEM NC"
   },
   {
     "pro": "50669",
