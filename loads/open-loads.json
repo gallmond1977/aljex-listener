@@ -68,6 +68,23 @@
     "lane": "COLUMBUS GA-SAVANNAH GA"
   },
   {
+    "pro": "50786",
+    "status": "OPEN",
+    "pu_date": "2026-10-02",
+    "pu_city": "AMHERST",
+    "pu_state": "VA",
+    "pu_hours": "0800-0900",
+    "del_date": "2026-10-02",
+    "del_city": "MIDDLEBURG",
+    "del_state": "VA",
+    "del_hours": "CALL!",
+    "equipment": "26' Straight Box Truck",
+    "weight_lbs": 1700,
+    "carrier_rate": 450,
+    "updated_at": "2026-10-01T19:53:47.342947+00:00",
+    "lane": "AMHERST VA-MIDDLEBURG VA"
+  },
+  {
     "pro": "50159",
     "status": "OPEN",
     "pu_date": "2026-10-05",
@@ -232,9 +249,9 @@
     "del_state": "TX",
     "del_hours": "0800-1200",
     "equipment": "Van",
-    "weight_lbs": 39170,
+    "weight_lbs": 41000,
     "carrier_rate": 1450,
-    "updated_at": "2026-10-01T19:48:07.005413+00:00",
+    "updated_at": "2026-10-01T19:53:31.471480+00:00",
     "lane": "TUSCALOOSA AL-JACKSONVILLE TX"
   },
   {
