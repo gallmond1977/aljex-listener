@@ -153,6 +153,23 @@
     "lane": "MONCURE NC-ATLANTA GA"
   },
   {
+    "pro": "50781",
+    "status": "OPEN",
+    "pu_date": "2026-10-02",
+    "pu_city": "BELCAMP",
+    "pu_state": "MD",
+    "pu_hours": "0700-0800",
+    "del_date": "2026-10-02",
+    "del_city": "SECAUCUS",
+    "del_state": "NJ",
+    "del_hours": "0800-1400",
+    "equipment": "Van",
+    "weight_lbs": 25000,
+    "carrier_rate": null,
+    "updated_at": "2026-10-01T15:47:46.436497+00:00",
+    "lane": "BELCAMP MD-SECAUCUS NJ"
+  },
+  {
     "pro": "50159",
     "status": "OPEN",
     "pu_date": "2026-10-05",
@@ -814,6 +831,23 @@
     "carrier_rate": 1200,
     "updated_at": "2026-09-30T19:46:45.682456+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
+  },
+  {
+    "pro": "50760",
+    "status": "PICKUP",
+    "pu_date": "2026-10-01",
+    "pu_city": "BELCAMP",
+    "pu_state": "MD",
+    "pu_hours": "0800-0900",
+    "del_date": "2026-10-01",
+    "del_city": "SECAUCUS",
+    "del_state": "NJ",
+    "del_hours": "0800-1400",
+    "equipment": "Van",
+    "weight_lbs": 25000,
+    "carrier_rate": 150,
+    "updated_at": "2026-10-01T15:49:34.577334+00:00",
+    "lane": "BELCAMP MD-SECAUCUS NJ"
   },
   {
     "pro": "50765",
