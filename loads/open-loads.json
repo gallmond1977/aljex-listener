@@ -51,23 +51,6 @@
     "lane": "WADESBORO NC-ATLANTA GA"
   },
   {
-    "pro": "50778",
-    "status": "OPEN",
-    "pu_date": "2026-10-01",
-    "pu_city": "KITTANNING",
-    "pu_state": "PA",
-    "pu_hours": "0800-1400",
-    "del_date": "2026-10-02",
-    "del_city": "PLAINFIELD",
-    "del_state": "IN",
-    "del_hours": "0800-1100",
-    "equipment": "26' Straight Box Truck",
-    "weight_lbs": 2200,
-    "carrier_rate": 900,
-    "updated_at": "2026-10-01T14:55:52.076615+00:00",
-    "lane": "KITTANNING PA-PLAINFIELD IN"
-  },
-  {
     "pro": "50656",
     "status": "OPEN",
     "pu_date": "2026-10-02",
@@ -562,7 +545,7 @@
   },
   {
     "pro": "50523",
-    "status": "DELIVERED",
+    "status": "RELEASED",
     "pu_date": "2026-09-23",
     "pu_city": "WINCHESTER",
     "pu_state": "KY",
@@ -574,7 +557,7 @@
     "equipment": "Van",
     "weight_lbs": 4000,
     "carrier_rate": 2400,
-    "updated_at": "2026-09-24T16:07:50.401470+00:00",
+    "updated_at": "2026-10-01T15:36:22.283520+00:00",
     "lane": "WINCHESTER KY-JACKSONVILLE FL"
   },
   {
