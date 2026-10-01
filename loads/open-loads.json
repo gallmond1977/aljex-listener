@@ -193,14 +193,14 @@
     "pu_city": "WINCHESTER",
     "pu_state": "KY",
     "pu_hours": "",
-    "del_date": "",
+    "del_date": "2026-10-09",
     "del_city": "HIALEAH",
     "del_state": "FL",
-    "del_hours": "",
+    "del_hours": "0130",
     "equipment": "Van",
     "weight_lbs": 4572,
     "carrier_rate": 5000,
-    "updated_at": "2026-10-01T20:28:00.931479+00:00",
+    "updated_at": "2026-10-01T20:31:23.333325+00:00",
     "lane": "WINCHESTER KY-HIALEAH FL"
   },
   {
