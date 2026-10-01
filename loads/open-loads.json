@@ -51,23 +51,6 @@
     "lane": "MONCURE NC-ATLANTA GA"
   },
   {
-    "pro": "50765",
-    "status": "OPEN",
-    "pu_date": "2026-10-01",
-    "pu_city": "WINCHESTER",
-    "pu_state": "KY",
-    "pu_hours": "1200-1500",
-    "del_date": "2026-10-02",
-    "del_city": "JOLIET",
-    "del_state": "IL",
-    "del_hours": "1500",
-    "equipment": "Van",
-    "weight_lbs": 5700,
-    "carrier_rate": 1200,
-    "updated_at": "2026-10-01T13:32:21.394929+00:00",
-    "lane": "WINCHESTER KY-JOLIET IL"
-  },
-  {
     "pro": "50766",
     "status": "OPEN",
     "pu_date": "2026-10-01",
@@ -779,6 +762,23 @@
     "weight_lbs": 12480,
     "carrier_rate": 1200,
     "updated_at": "2026-09-30T19:46:45.682456+00:00",
+    "lane": "WINCHESTER KY-JOLIET IL"
+  },
+  {
+    "pro": "50765",
+    "status": "COVERED",
+    "pu_date": "2026-10-01",
+    "pu_city": "WINCHESTER",
+    "pu_state": "KY",
+    "pu_hours": "1200-1500",
+    "del_date": "2026-10-02",
+    "del_city": "JOLIET",
+    "del_state": "IL",
+    "del_hours": "1500",
+    "equipment": "Van",
+    "weight_lbs": 5700,
+    "carrier_rate": 1200,
+    "updated_at": "2026-10-01T14:44:03.238698+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
