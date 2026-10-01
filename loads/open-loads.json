@@ -77,11 +77,11 @@
     "del_date": "2026-10-02",
     "del_city": "MIDDLEBURG",
     "del_state": "VA",
-    "del_hours": "CALL!",
+    "del_hours": "ETA!",
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 1700,
     "carrier_rate": 450,
-    "updated_at": "2026-10-01T19:53:47.342947+00:00",
+    "updated_at": "2026-10-01T20:04:42.343847+00:00",
     "lane": "AMHERST VA-MIDDLEBURG VA"
   },
   {
@@ -251,7 +251,24 @@
     "equipment": "Van",
     "weight_lbs": 41000,
     "carrier_rate": 1450,
-    "updated_at": "2026-10-01T19:59:38.141610+00:00",
+    "updated_at": "2026-10-01T20:02:43.904363+00:00",
+    "lane": "TUSCALOOSA AL-JACKSONVILLE TX"
+  },
+  {
+    "pro": "50787",
+    "status": "OPEN",
+    "pu_date": "2026-10-06",
+    "pu_city": "TUSCALOOSA",
+    "pu_state": "AL",
+    "pu_hours": "0800-1530",
+    "del_date": "2026-10-07",
+    "del_city": "JACKSONVILLE",
+    "del_state": "TX",
+    "del_hours": "0800-1200",
+    "equipment": "Van",
+    "weight_lbs": 41000,
+    "carrier_rate": 1450,
+    "updated_at": "2026-10-01T20:04:41.701873+00:00",
     "lane": "TUSCALOOSA AL-JACKSONVILLE TX"
   },
   {
