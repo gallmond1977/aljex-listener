@@ -114,8 +114,8 @@
     "del_hours": "0800-1530",
     "equipment": "Flatbed Hot Shot",
     "weight_lbs": 6000,
-    "carrier_rate": 700,
-    "updated_at": "2026-10-01T17:40:53.747648+00:00",
+    "carrier_rate": 750,
+    "updated_at": "2026-10-01T18:12:06.815109+00:00",
     "lane": "COLUMBUS GA-SAVANNAH GA"
   },
   {
@@ -710,7 +710,7 @@
     "equipment": "Van",
     "weight_lbs": 44000,
     "carrier_rate": 1000,
-    "updated_at": "2026-10-01T18:06:51.663832+00:00",
+    "updated_at": "2026-10-01T18:12:46.657680+00:00",
     "lane": "MONCURE NC-ATLANTA GA"
   },
   {
