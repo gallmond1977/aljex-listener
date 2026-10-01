@@ -199,8 +199,8 @@
     "del_hours": "0900",
     "equipment": "Van",
     "weight_lbs": 9131,
-    "carrier_rate": null,
-    "updated_at": "2026-09-30T14:34:44.857367+00:00",
+    "carrier_rate": 1600,
+    "updated_at": "2026-10-01T16:56:06.212542+00:00",
     "lane": "COLUMBUS GA-VAN WERT OH"
   },
   {
