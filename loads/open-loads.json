@@ -176,14 +176,14 @@
     "pu_city": "GREENWOOD",
     "pu_state": "WI",
     "pu_hours": "1930",
-    "del_date": "2026-10-07",
+    "del_date": "2026-10-05",
     "del_city": "LITHIA SPRINGS",
     "del_state": "GA",
-    "del_hours": "1000",
+    "del_hours": "1200",
     "equipment": "Reefer",
     "weight_lbs": 43500,
     "carrier_rate": null,
-    "updated_at": "2026-09-30T20:02:49.082859+00:00",
+    "updated_at": "2026-10-01T13:05:25.892199+00:00",
     "lane": "GREENWOOD WI-LITHIA SPRINGS GA"
   },
   {
