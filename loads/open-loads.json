@@ -165,8 +165,8 @@
     "del_hours": "0800-1400",
     "equipment": "Van",
     "weight_lbs": 25000,
-    "carrier_rate": null,
-    "updated_at": "2026-10-01T15:47:46.436497+00:00",
+    "carrier_rate": 1200,
+    "updated_at": "2026-10-01T15:54:50.049404+00:00",
     "lane": "BELCAMP MD-SECAUCUS NJ"
   },
   {
@@ -834,7 +834,7 @@
   },
   {
     "pro": "50760",
-    "status": "PICKUP",
+    "status": "DELIVERED",
     "pu_date": "2026-10-01",
     "pu_city": "BELCAMP",
     "pu_state": "MD",
@@ -846,7 +846,7 @@
     "equipment": "Van",
     "weight_lbs": 25000,
     "carrier_rate": 150,
-    "updated_at": "2026-10-01T15:49:34.577334+00:00",
+    "updated_at": "2026-10-01T15:51:29.866943+00:00",
     "lane": "BELCAMP MD-SECAUCUS NJ"
   },
   {
