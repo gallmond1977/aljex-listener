@@ -163,10 +163,10 @@
     "del_city": "TRYON",
     "del_state": "NC",
     "del_hours": "0800-0900",
-    "equipment": "26' Straight Box Truck",
-    "weight_lbs": 1500,
+    "equipment": "Van",
+    "weight_lbs": 2830,
     "carrier_rate": null,
-    "updated_at": "2026-10-01T17:32:37.936861+00:00",
+    "updated_at": "2026-10-01T17:35:25.591664+00:00",
     "lane": "COLUMBUS GA-TRYON NC"
   },
   {
