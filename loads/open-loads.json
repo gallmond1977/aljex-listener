@@ -77,11 +77,11 @@
     "del_date": "2026-10-02",
     "del_city": "DUBLIN",
     "del_state": "GA",
-    "del_hours": "CALL!",
+    "del_hours": "0800-1200",
     "equipment": "Van",
     "weight_lbs": 3400,
-    "carrier_rate": 650,
-    "updated_at": "2026-10-01T12:25:18.369726+00:00",
+    "carrier_rate": 700,
+    "updated_at": "2026-10-01T16:13:10.813116+00:00",
     "lane": "NEWNAN GA-DUBLIN GA"
   },
   {
@@ -366,11 +366,11 @@
     "del_date": "2026-10-12",
     "del_city": "MIRA LOMA",
     "del_state": "CA",
-    "del_hours": "REQ",
+    "del_hours": "0630",
     "equipment": "Van",
     "weight_lbs": 4800,
     "carrier_rate": null,
-    "updated_at": "2026-10-01T13:30:50.670348+00:00",
+    "updated_at": "2026-10-01T16:13:35.433557+00:00",
     "lane": "MOUNT STERLING KY-MIRA LOMA CA"
   },
   {
