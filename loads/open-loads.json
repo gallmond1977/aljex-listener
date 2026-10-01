@@ -51,23 +51,6 @@
     "lane": "MONCURE NC-ATLANTA GA"
   },
   {
-    "pro": "50764",
-    "status": "OPEN",
-    "pu_date": "2026-10-01",
-    "pu_city": "WINCHESTER",
-    "pu_state": "KY",
-    "pu_hours": "1200-1500",
-    "del_date": "2026-10-02",
-    "del_city": "BENTONVILLE",
-    "del_state": "AR",
-    "del_hours": "0900-1600",
-    "equipment": "26' Straight Box Truck",
-    "weight_lbs": 1000,
-    "carrier_rate": 1645,
-    "updated_at": "2026-10-01T14:59:44.894466+00:00",
-    "lane": "WINCHESTER KY-BENTONVILLE AR"
-  },
-  {
     "pro": "50766",
     "status": "OPEN",
     "pu_date": "2026-10-01",
@@ -287,6 +270,23 @@
     "carrier_rate": 850,
     "updated_at": "2026-10-01T14:57:25.883670+00:00",
     "lane": "FAIRBURN GA-SAVANNAH GA"
+  },
+  {
+    "pro": "50779",
+    "status": "OPEN",
+    "pu_date": "2026-10-05",
+    "pu_city": "DENVER",
+    "pu_state": "NC",
+    "pu_hours": "1300-1400",
+    "del_date": "2026-10-06",
+    "del_city": "RIVERVIEW",
+    "del_state": "FL",
+    "del_hours": "0800-1500",
+    "equipment": "Step or Drop Deck",
+    "weight_lbs": 10400,
+    "carrier_rate": null,
+    "updated_at": "2026-10-01T15:06:50.218443+00:00",
+    "lane": "DENVER NC-RIVERVIEW FL"
   },
   {
     "pro": "50700",
