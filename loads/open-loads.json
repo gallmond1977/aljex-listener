@@ -391,6 +391,23 @@
     "lane": "GARLAND TX-CALHOUN GA"
   },
   {
+    "pro": "50769",
+    "status": "OPEN",
+    "pu_date": "2026-10-09",
+    "pu_city": "MOUNT STERLING",
+    "pu_state": "KY",
+    "pu_hours": "",
+    "del_date": "2026-10-12",
+    "del_city": "MIRA LOMA",
+    "del_state": "CA",
+    "del_hours": "",
+    "equipment": "Van",
+    "weight_lbs": 4800,
+    "carrier_rate": null,
+    "updated_at": "2026-10-01T12:35:42.692677+00:00",
+    "lane": "MOUNT STERLING KY-MIRA LOMA CA"
+  },
+  {
     "pro": "50082",
     "status": "OPEN",
     "pu_date": "2026-10-12",
@@ -542,6 +559,23 @@
     "carrier_rate": null,
     "updated_at": "2026-09-03T14:33:15.542069+00:00",
     "lane": "LA PORTE TX-GREENVILLE SC"
+  },
+  {
+    "pro": "50501",
+    "status": "RELEASED",
+    "pu_date": "2026-09-21",
+    "pu_city": "MOUNT STERLING",
+    "pu_state": "KY",
+    "pu_hours": "1300",
+    "del_date": "2026-09-24",
+    "del_city": "MIRA LOMA",
+    "del_state": "CA",
+    "del_hours": "0330",
+    "equipment": "Van",
+    "weight_lbs": 13080,
+    "carrier_rate": 4300,
+    "updated_at": "2026-09-25T12:04:43.918451+00:00",
+    "lane": "MOUNT STERLING KY-MIRA LOMA CA"
   },
   {
     "pro": "50523",
@@ -814,6 +848,23 @@
     "carrier_rate": 2600,
     "updated_at": "2026-10-01T12:31:06.538038+00:00",
     "lane": "WINCHESTER KY-BURLINGTON NJ"
+  },
+  {
+    "pro": "50661",
+    "status": "LOADED",
+    "pu_date": "2026-09-30",
+    "pu_city": "MOUNT STERLING",
+    "pu_state": "KY",
+    "pu_hours": "1200",
+    "del_date": "2026-10-04",
+    "del_city": "MIRA LOMA",
+    "del_state": "CA",
+    "del_hours": "0500",
+    "equipment": "Van",
+    "weight_lbs": 4800,
+    "carrier_rate": 4400,
+    "updated_at": "2026-09-30T19:01:41.580150+00:00",
+    "lane": "MOUNT STERLING KY-MIRA LOMA CA"
   },
   {
     "pro": "50720",
