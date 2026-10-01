@@ -244,14 +244,14 @@
     "pu_city": "TUSCALOOSA",
     "pu_state": "AL",
     "pu_hours": "0800-1530",
-    "del_date": "",
+    "del_date": "2026-10-07",
     "del_city": "JACKSONVILLE",
     "del_state": "TX",
     "del_hours": "0800-1200",
     "equipment": "Van",
     "weight_lbs": 41000,
     "carrier_rate": 1450,
-    "updated_at": "2026-10-01T19:53:31.471480+00:00",
+    "updated_at": "2026-10-01T19:59:38.141610+00:00",
     "lane": "TUSCALOOSA AL-JACKSONVILLE TX"
   },
   {
