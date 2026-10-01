@@ -30,7 +30,7 @@
     "equipment": "Van",
     "weight_lbs": 44000,
     "carrier_rate": 900,
-    "updated_at": "2026-10-01T17:07:21.805949+00:00",
+    "updated_at": "2026-10-01T17:13:25.655137+00:00",
     "lane": "WADESBORO NC-ATLANTA GA"
   },
   {
@@ -134,6 +134,23 @@
     "carrier_rate": 900,
     "updated_at": "2026-09-30T16:46:06.095789+00:00",
     "lane": "MONCURE NC-ATLANTA GA"
+  },
+  {
+    "pro": "50782",
+    "status": "OPEN",
+    "pu_date": "2026-10-02",
+    "pu_city": "COLUMBUS",
+    "pu_state": "GA",
+    "pu_hours": "0730-1430",
+    "del_date": "2026-10-05",
+    "del_city": "SAVANNAH",
+    "del_state": "GA",
+    "del_hours": "",
+    "equipment": "Flatbed Hot Shot",
+    "weight_lbs": 8000,
+    "carrier_rate": null,
+    "updated_at": "2026-10-01T17:15:01.641975+00:00",
+    "lane": "COLUMBUS GA-SAVANNAH GA"
   },
   {
     "pro": "50159",
