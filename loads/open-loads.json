@@ -68,23 +68,6 @@
     "lane": "KITTANNING PA-PLAINFIELD IN"
   },
   {
-    "pro": "50780",
-    "status": "OPEN",
-    "pu_date": "2026-10-01",
-    "pu_city": "LENOIR CITY",
-    "pu_state": "TN",
-    "pu_hours": "0800-1300",
-    "del_date": "2026-10-01",
-    "del_city": "KNOXVILLE",
-    "del_state": "TN",
-    "del_hours": "0800-1600",
-    "equipment": "26' Straight Box Truck",
-    "weight_lbs": 2000,
-    "carrier_rate": 250,
-    "updated_at": "2026-10-01T15:22:12.995696+00:00",
-    "lane": "LENOIR CITY TN-KNOXVILLE TN"
-  },
-  {
     "pro": "50656",
     "status": "OPEN",
     "pu_date": "2026-10-02",
@@ -863,7 +846,7 @@
     "equipment": "Van",
     "weight_lbs": 5700,
     "carrier_rate": 1200,
-    "updated_at": "2026-10-01T15:24:51.623817+00:00",
+    "updated_at": "2026-10-01T15:25:16.879692+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
