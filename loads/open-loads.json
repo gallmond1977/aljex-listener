@@ -51,23 +51,6 @@
     "lane": "NEWNAN GA-DUBLIN GA"
   },
   {
-    "pro": "50755",
-    "status": "OPEN",
-    "pu_date": "2026-10-02",
-    "pu_city": "MONCURE",
-    "pu_state": "NC",
-    "pu_hours": "0730-1600",
-    "del_date": "2026-10-05",
-    "del_city": "ATLANTA",
-    "del_state": "GA",
-    "del_hours": "0800",
-    "equipment": "Van",
-    "weight_lbs": 44000,
-    "carrier_rate": 900,
-    "updated_at": "2026-09-30T16:46:06.095789+00:00",
-    "lane": "MONCURE NC-ATLANTA GA"
-  },
-  {
     "pro": "50775",
     "status": "OPEN",
     "pu_date": "2026-10-02",
@@ -243,15 +226,15 @@
     "pu_date": "2026-10-06",
     "pu_city": "WAYCROSS",
     "pu_state": "GA",
-    "pu_hours": "",
+    "pu_hours": "0800-1100",
     "del_date": "2026-10-06",
     "del_city": "ATLANTA",
     "del_state": "GA",
-    "del_hours": "",
+    "del_hours": "0800-1600",
     "equipment": "Flatbed Hot Shot",
     "weight_lbs": 4200,
-    "carrier_rate": null,
-    "updated_at": "2026-10-01T19:10:11.778885+00:00",
+    "carrier_rate": 450,
+    "updated_at": "2026-10-01T19:13:29.863460+00:00",
     "lane": "WAYCROSS GA-ATLANTA GA"
   },
   {
@@ -663,23 +646,6 @@
     "lane": "MOUNT STERLING KY-MIRA LOMA CA"
   },
   {
-    "pro": "50753",
-    "status": "PICKUP",
-    "pu_date": "2026-10-01",
-    "pu_city": "MONCURE",
-    "pu_state": "NC",
-    "pu_hours": "0730-1600",
-    "del_date": "2026-10-02",
-    "del_city": "ATLANTA",
-    "del_state": "GA",
-    "del_hours": "0800-1600",
-    "equipment": "Van",
-    "weight_lbs": 44000,
-    "carrier_rate": 1000,
-    "updated_at": "2026-10-01T18:58:28.532049+00:00",
-    "lane": "MONCURE NC-ATLANTA GA"
-  },
-  {
     "pro": "50107",
     "status": "COVERED",
     "pu_date": "2026-10-02",
@@ -695,39 +661,5 @@
     "carrier_rate": 1700,
     "updated_at": "2026-10-01T13:00:14.785136+00:00",
     "lane": "COLUMBUS GA-VAN WERT OH"
-  },
-  {
-    "pro": "50752",
-    "status": "COVERED",
-    "pu_date": "2026-10-02",
-    "pu_city": "MONCURE",
-    "pu_state": "NC",
-    "pu_hours": "0730-1600",
-    "del_date": "2026-10-02",
-    "del_city": "ATLANTA",
-    "del_state": "GA",
-    "del_hours": "0800-1600",
-    "equipment": "Van",
-    "weight_lbs": 44000,
-    "carrier_rate": 1000,
-    "updated_at": "2026-10-01T18:06:23.478733+00:00",
-    "lane": "MONCURE NC-ATLANTA GA"
-  },
-  {
-    "pro": "50754",
-    "status": "COVERED",
-    "pu_date": "2026-10-02",
-    "pu_city": "MONCURE",
-    "pu_state": "NC",
-    "pu_hours": "0730-1600",
-    "del_date": "2026-10-05",
-    "del_city": "ATLANTA",
-    "del_state": "GA",
-    "del_hours": "0800-1600",
-    "equipment": "Van",
-    "weight_lbs": 44000,
-    "carrier_rate": 900,
-    "updated_at": "2026-10-01T18:28:17.648940+00:00",
-    "lane": "MONCURE NC-ATLANTA GA"
   }
 ]
