@@ -68,23 +68,6 @@
     "lane": "COLUMBUS GA-SAVANNAH GA"
   },
   {
-    "pro": "50786",
-    "status": "OPEN",
-    "pu_date": "2026-10-02",
-    "pu_city": "AMHERST",
-    "pu_state": "VA",
-    "pu_hours": "0800-0900",
-    "del_date": "2026-10-02",
-    "del_city": "MIDDLEBURG",
-    "del_state": "VA",
-    "del_hours": "1200-1300",
-    "equipment": "26' Straight Box Truck",
-    "weight_lbs": 1700,
-    "carrier_rate": 500,
-    "updated_at": "2026-10-01T20:24:54.317853+00:00",
-    "lane": "AMHERST VA-MIDDLEBURG VA"
-  },
-  {
     "pro": "50159",
     "status": "OPEN",
     "pu_date": "2026-10-05",
@@ -217,7 +200,7 @@
     "equipment": "Van",
     "weight_lbs": 4572,
     "carrier_rate": 5000,
-    "updated_at": "2026-10-01T17:55:46.761131+00:00",
+    "updated_at": "2026-10-01T20:28:00.931479+00:00",
     "lane": "WINCHESTER KY-HIALEAH FL"
   },
   {
