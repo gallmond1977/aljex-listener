@@ -51,23 +51,6 @@
     "lane": "MONCURE NC-ATLANTA GA"
   },
   {
-    "pro": "50764",
-    "status": "OPEN",
-    "pu_date": "2026-10-01",
-    "pu_city": "WINCHESTER",
-    "pu_state": "KY",
-    "pu_hours": "1200-1500",
-    "del_date": "2026-10-02",
-    "del_city": "BENTONVILLE",
-    "del_state": "AR",
-    "del_hours": "0900-1600",
-    "equipment": "26' Straight Box Truck",
-    "weight_lbs": 1000,
-    "carrier_rate": 1550,
-    "updated_at": "2026-10-01T14:29:56.565891+00:00",
-    "lane": "WINCHESTER KY-BENTONVILLE AR"
-  },
-  {
     "pro": "50765",
     "status": "OPEN",
     "pu_date": "2026-10-01",
