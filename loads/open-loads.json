@@ -119,23 +119,6 @@
     "lane": "SAVANNAH GA-SAVANNAH GA"
   },
   {
-    "pro": "50774",
-    "status": "OPEN",
-    "pu_date": "2026-10-01",
-    "pu_city": "HEADLAND",
-    "pu_state": "AL",
-    "pu_hours": "0800-1400",
-    "del_date": "2026-10-01",
-    "del_city": "HALEYVILLE",
-    "del_state": "AL",
-    "del_hours": "0800-1100",
-    "equipment": "Van",
-    "weight_lbs": 18000,
-    "carrier_rate": 1000,
-    "updated_at": "2026-10-01T13:54:42.207801+00:00",
-    "lane": "HEADLAND AL-HALEYVILLE AL"
-  },
-  {
     "pro": "50656",
     "status": "OPEN",
     "pu_date": "2026-10-02",
