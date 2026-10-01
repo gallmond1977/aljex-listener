@@ -149,7 +149,7 @@
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 2500,
     "carrier_rate": 400,
-    "updated_at": "2026-10-01T12:53:26.572218+00:00",
+    "updated_at": "2026-10-01T12:55:35.890092+00:00",
     "lane": "SHALLOTTE NC-ROCK HILL SC"
   },
   {
@@ -981,8 +981,8 @@
     "del_hours": "0900",
     "equipment": "Van",
     "weight_lbs": 11100,
-    "carrier_rate": 1500,
-    "updated_at": "2026-10-01T12:54:53.693672+00:00",
+    "carrier_rate": 1700,
+    "updated_at": "2026-10-01T13:00:14.785136+00:00",
     "lane": "COLUMBUS GA-VAN WERT OH"
   }
 ]
