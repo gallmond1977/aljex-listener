@@ -63,8 +63,8 @@
     "del_hours": "0900-1600",
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 1000,
-    "carrier_rate": 1450,
-    "updated_at": "2026-10-01T12:29:09.113748+00:00",
+    "carrier_rate": 1550,
+    "updated_at": "2026-10-01T13:37:06.504328+00:00",
     "lane": "WINCHESTER KY-BENTONVILLE AR"
   },
   {
@@ -98,7 +98,7 @@
     "equipment": "Van",
     "weight_lbs": 12480,
     "carrier_rate": 1200,
-    "updated_at": "2026-10-01T13:32:33.453896+00:00",
+    "updated_at": "2026-10-01T13:39:22.520237+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
@@ -151,23 +151,6 @@
     "carrier_rate": 5200,
     "updated_at": "2026-10-01T13:31:45.133848+00:00",
     "lane": "GREENWOOD WI-LITHIA SPRINGS GA"
-  },
-  {
-    "pro": "50739",
-    "status": "OPEN",
-    "pu_date": "2026-10-02",
-    "pu_city": "WINCHESTER",
-    "pu_state": "KY",
-    "pu_hours": "1400",
-    "del_date": "2026-10-05",
-    "del_city": "UXBRIDGE",
-    "del_state": "MA",
-    "del_hours": "1700",
-    "equipment": "Van",
-    "weight_lbs": 4200,
-    "carrier_rate": 3800,
-    "updated_at": "2026-09-30T18:30:51.771067+00:00",
-    "lane": "WINCHESTER KY-UXBRIDGE MA"
   },
   {
     "pro": "50741",
@@ -561,23 +544,6 @@
     "lane": "WINCHESTER KY-JACKSONVILLE FL"
   },
   {
-    "pro": "50611",
-    "status": "DELIVERED",
-    "pu_date": "2026-09-23",
-    "pu_city": "WINCHESTER",
-    "pu_state": "KY",
-    "pu_hours": "1100-1400",
-    "del_date": "2026-09-25",
-    "del_city": "UXBRIDGE",
-    "del_state": "MA",
-    "del_hours": "1700",
-    "equipment": "Van",
-    "weight_lbs": 10200,
-    "carrier_rate": 3800,
-    "updated_at": "2026-09-28T11:35:23.659316+00:00",
-    "lane": "WINCHESTER KY-UXBRIDGE MA"
-  },
-  {
     "pro": "50613",
     "status": "RELEASED",
     "pu_date": "2026-09-24",
@@ -680,23 +646,6 @@
     "lane": "RICHMOND VA-KESWICK VA"
   },
   {
-    "pro": "50610",
-    "status": "DELIVERED",
-    "pu_date": "2026-09-28",
-    "pu_city": "WINCHESTER",
-    "pu_state": "KY",
-    "pu_hours": "0800-1500",
-    "del_date": "2026-09-30",
-    "del_city": "UXBRIDGE",
-    "del_state": "MA",
-    "del_hours": "1700",
-    "equipment": "Van",
-    "weight_lbs": 13083,
-    "carrier_rate": 3800,
-    "updated_at": "2026-10-01T11:55:23.619056+00:00",
-    "lane": "WINCHESTER KY-UXBRIDGE MA"
-  },
-  {
     "pro": "50615",
     "status": "RELEASED",
     "pu_date": "2026-09-28",
@@ -712,23 +661,6 @@
     "carrier_rate": 2800,
     "updated_at": "2026-09-30T13:20:21.886651+00:00",
     "lane": "WINCHESTER KY-JACKSONVILLE FL"
-  },
-  {
-    "pro": "50612",
-    "status": "DELIVERED",
-    "pu_date": "2026-09-29",
-    "pu_city": "WINCHESTER",
-    "pu_state": "KY",
-    "pu_hours": "0800-1400",
-    "del_date": "2026-10-01",
-    "del_city": "UXBRIDGE",
-    "del_state": "MA",
-    "del_hours": "1700",
-    "equipment": "Van",
-    "weight_lbs": 4871,
-    "carrier_rate": 3850,
-    "updated_at": "2026-10-01T11:56:33.709970+00:00",
-    "lane": "WINCHESTER KY-UXBRIDGE MA"
   },
   {
     "pro": "50719",
