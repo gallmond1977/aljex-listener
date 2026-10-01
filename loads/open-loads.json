@@ -238,6 +238,23 @@
     "lane": "WINCHESTER KY-HIALEAH FL"
   },
   {
+    "pro": "50784",
+    "status": "OPEN",
+    "pu_date": "2026-10-06",
+    "pu_city": "WAYCROSS",
+    "pu_state": "GA",
+    "pu_hours": "",
+    "del_date": "2026-10-06",
+    "del_city": "ATLANTA",
+    "del_state": "GA",
+    "del_hours": "",
+    "equipment": "Flatbed Hot Shot",
+    "weight_lbs": 4200,
+    "carrier_rate": null,
+    "updated_at": "2026-10-01T19:10:11.778885+00:00",
+    "lane": "WAYCROSS GA-ATLANTA GA"
+  },
+  {
     "pro": "50771",
     "status": "OPEN",
     "pu_date": "2026-10-07",
