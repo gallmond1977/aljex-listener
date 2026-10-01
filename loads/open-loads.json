@@ -119,23 +119,6 @@
     "lane": "SAVANNAH GA-SAVANNAH GA"
   },
   {
-    "pro": "50770",
-    "status": "OPEN",
-    "pu_date": "2026-10-01",
-    "pu_city": "SHALLOTTE",
-    "pu_state": "NC",
-    "pu_hours": "0700-1500",
-    "del_date": "2026-10-02",
-    "del_city": "ROCK HILL",
-    "del_state": "SC",
-    "del_hours": "0800-1400",
-    "equipment": "26' Straight Box Truck",
-    "weight_lbs": 2500,
-    "carrier_rate": 400,
-    "updated_at": "2026-10-01T12:55:35.890092+00:00",
-    "lane": "SHALLOTTE NC-ROCK HILL SC"
-  },
-  {
     "pro": "50656",
     "status": "OPEN",
     "pu_date": "2026-10-02",
