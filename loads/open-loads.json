@@ -80,8 +80,8 @@
     "del_hours": "1500",
     "equipment": "Van",
     "weight_lbs": 5700,
-    "carrier_rate": 1000,
-    "updated_at": "2026-09-30T20:24:42.638619+00:00",
+    "carrier_rate": 1200,
+    "updated_at": "2026-10-01T13:32:21.394929+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
@@ -97,8 +97,8 @@
     "del_hours": "2000",
     "equipment": "Van",
     "weight_lbs": 12480,
-    "carrier_rate": 1000,
-    "updated_at": "2026-09-30T20:24:07.241439+00:00",
+    "carrier_rate": 1200,
+    "updated_at": "2026-10-01T13:32:33.453896+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
@@ -149,7 +149,7 @@
     "equipment": "Reefer",
     "weight_lbs": 43500,
     "carrier_rate": 5200,
-    "updated_at": "2026-10-01T13:25:02.176894+00:00",
+    "updated_at": "2026-10-01T13:31:45.133848+00:00",
     "lane": "GREENWOOD WI-LITHIA SPRINGS GA"
   },
   {
@@ -362,15 +362,15 @@
     "pu_date": "2026-10-09",
     "pu_city": "MOUNT STERLING",
     "pu_state": "KY",
-    "pu_hours": "",
+    "pu_hours": "NEEDED",
     "del_date": "2026-10-12",
     "del_city": "MIRA LOMA",
     "del_state": "CA",
-    "del_hours": "",
+    "del_hours": "REQ",
     "equipment": "Van",
     "weight_lbs": 4800,
     "carrier_rate": null,
-    "updated_at": "2026-10-01T12:35:42.692677+00:00",
+    "updated_at": "2026-10-01T13:30:50.670348+00:00",
     "lane": "MOUNT STERLING KY-MIRA LOMA CA"
   },
   {
