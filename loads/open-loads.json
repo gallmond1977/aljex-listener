@@ -81,7 +81,7 @@
     "equipment": "Van",
     "weight_lbs": 44000,
     "carrier_rate": 800,
-    "updated_at": "2026-10-01T14:24:39.463836+00:00",
+    "updated_at": "2026-10-01T14:48:46.153321+00:00",
     "lane": "WADESBORO NC-ATLANTA GA"
   },
   {
@@ -270,6 +270,23 @@
     "carrier_rate": null,
     "updated_at": "2026-10-01T13:21:16.505074+00:00",
     "lane": "ATLANTA GA-FOREST PARK GA"
+  },
+  {
+    "pro": "50776",
+    "status": "OPEN",
+    "pu_date": "2026-10-07",
+    "pu_city": "PHENIX CITY",
+    "pu_state": "AL",
+    "pu_hours": "1200-1500",
+    "del_date": "2026-10-08",
+    "del_city": "HAMILTON",
+    "del_state": "MI",
+    "del_hours": "0700",
+    "equipment": "Van",
+    "weight_lbs": 41000,
+    "carrier_rate": 2100,
+    "updated_at": "2026-10-01T14:47:44.794753+00:00",
+    "lane": "PHENIX CITY AL-HAMILTON MI"
   },
   {
     "pro": "50691",
