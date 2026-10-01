@@ -13,7 +13,7 @@
     "equipment": "Van",
     "weight_lbs": 44000,
     "carrier_rate": 900,
-    "updated_at": "2026-10-01T15:14:21.823502+00:00",
+    "updated_at": "2026-10-01T15:15:26.155412+00:00",
     "lane": "MONCURE NC-ATLANTA GA"
   },
   {
@@ -74,14 +74,14 @@
     "pu_city": "LENOIR CITY",
     "pu_state": "TN",
     "pu_hours": "0800-1300",
-    "del_date": "",
+    "del_date": "2026-10-01",
     "del_city": "KNOXVILLE",
     "del_state": "TN",
     "del_hours": "0800-1600",
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 2000,
     "carrier_rate": 200,
-    "updated_at": "2026-10-01T15:11:17.206713+00:00",
+    "updated_at": "2026-10-01T15:15:55.126028+00:00",
     "lane": "LENOIR CITY TN-KNOXVILLE TN"
   },
   {
@@ -783,7 +783,7 @@
   },
   {
     "pro": "50722",
-    "status": "LOADED",
+    "status": "DELIVERED",
     "pu_date": "2026-09-30",
     "pu_city": "WINCHESTER",
     "pu_state": "KY",
@@ -795,7 +795,7 @@
     "equipment": "Van",
     "weight_lbs": 12480,
     "carrier_rate": 1200,
-    "updated_at": "2026-09-30T16:13:38.464470+00:00",
+    "updated_at": "2026-10-01T15:18:05.202977+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
