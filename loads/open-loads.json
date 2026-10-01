@@ -80,8 +80,8 @@
     "del_hours": "0900-1600",
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 1000,
-    "carrier_rate": 1300,
-    "updated_at": "2026-09-30T20:36:12.992268+00:00",
+    "carrier_rate": 1450,
+    "updated_at": "2026-10-01T12:29:09.113748+00:00",
     "lane": "WINCHESTER KY-BENTONVILLE AR"
   },
   {
@@ -216,8 +216,8 @@
     "del_hours": "CALL!",
     "equipment": "Van",
     "weight_lbs": 3400,
-    "carrier_rate": 600,
-    "updated_at": "2026-09-30T15:24:25.101640+00:00",
+    "carrier_rate": 650,
+    "updated_at": "2026-10-01T12:25:18.369726+00:00",
     "lane": "NEWNAN GA-DUBLIN GA"
   },
   {
