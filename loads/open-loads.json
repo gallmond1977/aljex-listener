@@ -17,6 +17,23 @@
     "lane": "MONCURE NC-ATLANTA GA"
   },
   {
+    "pro": "50759",
+    "status": "OPEN",
+    "pu_date": "2026-10-01",
+    "pu_city": "CUMMING",
+    "pu_state": "GA",
+    "pu_hours": "2100",
+    "del_date": "2026-10-02",
+    "del_city": "CANON",
+    "del_state": "GA",
+    "del_hours": "0600",
+    "equipment": "Reefer",
+    "weight_lbs": 39600,
+    "carrier_rate": 1000,
+    "updated_at": "2026-10-01T17:19:41.424446+00:00",
+    "lane": "CUMMING GA-CANON GA"
+  },
+  {
     "pro": "50775",
     "status": "OPEN",
     "pu_date": "2026-10-01",
@@ -147,9 +164,9 @@
     "del_state": "GA",
     "del_hours": "",
     "equipment": "Flatbed Hot Shot",
-    "weight_lbs": 8000,
-    "carrier_rate": null,
-    "updated_at": "2026-10-01T17:15:01.641975+00:00",
+    "weight_lbs": 6000,
+    "carrier_rate": 700,
+    "updated_at": "2026-10-01T17:16:38.056185+00:00",
     "lane": "COLUMBUS GA-SAVANNAH GA"
   },
   {
@@ -595,6 +612,23 @@
     "lane": "WINCHESTER KY-JACKSONVILLE FL"
   },
   {
+    "pro": "50654",
+    "status": "RELEASED",
+    "pu_date": "2026-09-24",
+    "pu_city": "CUMMING",
+    "pu_state": "GA",
+    "pu_hours": "2100",
+    "del_date": "2026-09-25",
+    "del_city": "CANON",
+    "del_state": "GA",
+    "del_hours": "0600",
+    "equipment": "Reefer",
+    "weight_lbs": 39600,
+    "carrier_rate": 900,
+    "updated_at": "2026-09-25T19:34:33.301646+00:00",
+    "lane": "CUMMING GA-CANON GA"
+  },
+  {
     "pro": "50669",
     "status": "RELEASED",
     "pu_date": "2026-09-24",
@@ -629,6 +663,23 @@
     "lane": "ATLANTA GA-FOREST PARK GA"
   },
   {
+    "pro": "50674",
+    "status": "RELEASED",
+    "pu_date": "2026-09-25",
+    "pu_city": "CUMMING",
+    "pu_state": "GA",
+    "pu_hours": "1900",
+    "del_date": "2026-09-28",
+    "del_city": "CANON",
+    "del_state": "GA",
+    "del_hours": "0600",
+    "equipment": "Reefer",
+    "weight_lbs": 39600,
+    "carrier_rate": 1100,
+    "updated_at": "2026-09-28T14:42:19.586299+00:00",
+    "lane": "CUMMING GA-CANON GA"
+  },
+  {
     "pro": "50596",
     "status": "RELEASED",
     "pu_date": "2026-09-28",
@@ -661,6 +712,23 @@
     "carrier_rate": 2800,
     "updated_at": "2026-09-30T13:20:21.886651+00:00",
     "lane": "WINCHESTER KY-JACKSONVILLE FL"
+  },
+  {
+    "pro": "50713",
+    "status": "RELEASED",
+    "pu_date": "2026-09-29",
+    "pu_city": "CUMMING",
+    "pu_state": "GA",
+    "pu_hours": "2100",
+    "del_date": "2026-09-30",
+    "del_city": "CANON",
+    "del_state": "GA",
+    "del_hours": "0600",
+    "equipment": "Reefer",
+    "weight_lbs": 39600,
+    "carrier_rate": 1000,
+    "updated_at": "2026-09-30T15:01:59.857715+00:00",
+    "lane": "CUMMING GA-CANON GA"
   },
   {
     "pro": "50598",
