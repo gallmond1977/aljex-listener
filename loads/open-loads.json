@@ -340,6 +340,23 @@
     "lane": "ALLENTOWN PA-GREENVILLE NC"
   },
   {
+    "pro": "50769",
+    "status": "OPEN",
+    "pu_date": "2026-10-08",
+    "pu_city": "MOUNT STERLING",
+    "pu_state": "KY",
+    "pu_hours": "",
+    "del_date": "2026-10-12",
+    "del_city": "MIRA LOMA",
+    "del_state": "CA",
+    "del_hours": "0630",
+    "equipment": "Van",
+    "weight_lbs": 4800,
+    "carrier_rate": null,
+    "updated_at": "2026-10-01T16:38:45.397290+00:00",
+    "lane": "MOUNT STERLING KY-MIRA LOMA CA"
+  },
+  {
     "pro": "50758",
     "status": "OPEN",
     "pu_date": "2026-10-09",
@@ -355,23 +372,6 @@
     "carrier_rate": 2000,
     "updated_at": "2026-09-30T17:16:38.833686+00:00",
     "lane": "GARLAND TX-CALHOUN GA"
-  },
-  {
-    "pro": "50769",
-    "status": "OPEN",
-    "pu_date": "2026-10-09",
-    "pu_city": "MOUNT STERLING",
-    "pu_state": "KY",
-    "pu_hours": "NEEDED",
-    "del_date": "2026-10-12",
-    "del_city": "MIRA LOMA",
-    "del_state": "CA",
-    "del_hours": "0630",
-    "equipment": "Van",
-    "weight_lbs": 4800,
-    "carrier_rate": null,
-    "updated_at": "2026-10-01T16:13:35.433557+00:00",
-    "lane": "MOUNT STERLING KY-MIRA LOMA CA"
   },
   {
     "pro": "50082",
