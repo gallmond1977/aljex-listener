@@ -119,6 +119,23 @@
     "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
+    "pro": "50768",
+    "status": "OPEN",
+    "pu_date": "2026-10-01",
+    "pu_city": "SAVANNAH",
+    "pu_state": "GA",
+    "pu_hours": "0800-1600",
+    "del_date": "2026-10-02",
+    "del_city": "SAVANNAH",
+    "del_state": "GA",
+    "del_hours": "",
+    "equipment": "Flatbed w/ Tarps",
+    "weight_lbs": 28000,
+    "carrier_rate": 2000,
+    "updated_at": "2026-10-01T12:09:49.302531+00:00",
+    "lane": "SAVANNAH GA-SAVANNAH GA"
+  },
+  {
     "pro": "50107",
     "status": "OPEN",
     "pu_date": "2026-10-02",
@@ -882,5 +899,22 @@
     "carrier_rate": 1200,
     "updated_at": "2026-09-30T19:46:45.682456+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
+  },
+  {
+    "pro": "50749",
+    "status": "RELEASED",
+    "pu_date": "2026-10-01",
+    "pu_city": "SAVANNAH",
+    "pu_state": "GA",
+    "pu_hours": "0800-1600",
+    "del_date": "2026-10-01",
+    "del_city": "SAVANNAH",
+    "del_state": "GA",
+    "del_hours": "",
+    "equipment": "Van",
+    "weight_lbs": 28000,
+    "carrier_rate": 150,
+    "updated_at": "2026-10-01T12:10:00.349990+00:00",
+    "lane": "SAVANNAH GA-SAVANNAH GA"
   }
 ]
