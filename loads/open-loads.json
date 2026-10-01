@@ -145,11 +145,11 @@
     "del_date": "2026-10-05",
     "del_city": "SAVANNAH",
     "del_state": "GA",
-    "del_hours": "",
+    "del_hours": "0800-1530",
     "equipment": "Flatbed Hot Shot",
     "weight_lbs": 6000,
     "carrier_rate": 700,
-    "updated_at": "2026-10-01T17:16:38.056185+00:00",
+    "updated_at": "2026-10-01T17:40:53.747648+00:00",
     "lane": "COLUMBUS GA-SAVANNAH GA"
   },
   {
@@ -165,8 +165,8 @@
     "del_hours": "0800-0900",
     "equipment": "Van",
     "weight_lbs": 2830,
-    "carrier_rate": null,
-    "updated_at": "2026-10-01T17:35:25.591664+00:00",
+    "carrier_rate": 900,
+    "updated_at": "2026-10-01T17:42:35.457020+00:00",
     "lane": "COLUMBUS GA-TRYON NC"
   },
   {
