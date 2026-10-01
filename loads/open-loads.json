@@ -64,7 +64,7 @@
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 1000,
     "carrier_rate": 1550,
-    "updated_at": "2026-10-01T13:37:06.504328+00:00",
+    "updated_at": "2026-10-01T14:19:42.570557+00:00",
     "lane": "WINCHESTER KY-BENTONVILLE AR"
   },
   {
@@ -114,8 +114,8 @@
     "del_hours": "0800-1600",
     "equipment": "Van",
     "weight_lbs": 44000,
-    "carrier_rate": null,
-    "updated_at": "2026-10-01T14:14:42.982965+00:00",
+    "carrier_rate": 800,
+    "updated_at": "2026-10-01T14:16:31.207184+00:00",
     "lane": "WADESBORO NC-ATLANTA GA"
   },
   {
