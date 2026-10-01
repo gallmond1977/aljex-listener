@@ -1,22 +1,5 @@
 [
   {
-    "pro": "50159",
-    "status": "OPEN",
-    "pu_date": "2026-10-01",
-    "pu_city": "ANNISTON",
-    "pu_state": "AL",
-    "pu_hours": "0800-1400",
-    "del_date": "",
-    "del_city": "RICHARDSON",
-    "del_state": "TX",
-    "del_hours": "",
-    "equipment": "26' Straight Box Truck",
-    "weight_lbs": 8000,
-    "carrier_rate": null,
-    "updated_at": "2026-09-30T13:18:26.392316+00:00",
-    "lane": "ANNISTON AL-RICHARDSON TX"
-  },
-  {
     "pro": "50752",
     "status": "OPEN",
     "pu_date": "2026-10-01",
@@ -30,24 +13,7 @@
     "equipment": "Van",
     "weight_lbs": 44000,
     "carrier_rate": 900,
-    "updated_at": "2026-09-30T19:38:42.987969+00:00",
-    "lane": "MONCURE NC-ATLANTA GA"
-  },
-  {
-    "pro": "50753",
-    "status": "OPEN",
-    "pu_date": "2026-10-01",
-    "pu_city": "MONCURE",
-    "pu_state": "NC",
-    "pu_hours": "0730-1600",
-    "del_date": "2026-10-02",
-    "del_city": "ATLANTA",
-    "del_state": "GA",
-    "del_hours": "0800-1600",
-    "equipment": "Van",
-    "weight_lbs": 44000,
-    "carrier_rate": 900,
-    "updated_at": "2026-09-30T16:44:02.925467+00:00",
+    "updated_at": "2026-10-01T15:14:21.823502+00:00",
     "lane": "MONCURE NC-ATLANTA GA"
   },
   {
@@ -81,7 +47,7 @@
     "equipment": "Van",
     "weight_lbs": 44000,
     "carrier_rate": 800,
-    "updated_at": "2026-10-01T14:55:37.968431+00:00",
+    "updated_at": "2026-10-01T15:12:09.619377+00:00",
     "lane": "WADESBORO NC-ATLANTA GA"
   },
   {
@@ -100,6 +66,23 @@
     "carrier_rate": 900,
     "updated_at": "2026-10-01T14:55:52.076615+00:00",
     "lane": "KITTANNING PA-PLAINFIELD IN"
+  },
+  {
+    "pro": "50780",
+    "status": "OPEN",
+    "pu_date": "2026-10-01",
+    "pu_city": "LENOIR CITY",
+    "pu_state": "TN",
+    "pu_hours": "0800-1300",
+    "del_date": "",
+    "del_city": "KNOXVILLE",
+    "del_state": "TN",
+    "del_hours": "0800-1600",
+    "equipment": "26' Straight Box Truck",
+    "weight_lbs": 2000,
+    "carrier_rate": 200,
+    "updated_at": "2026-10-01T15:11:17.206713+00:00",
+    "lane": "LENOIR CITY TN-KNOXVILLE TN"
   },
   {
     "pro": "50656",
@@ -153,6 +136,23 @@
     "lane": "NEWNAN GA-DUBLIN GA"
   },
   {
+    "pro": "50753",
+    "status": "OPEN",
+    "pu_date": "2026-10-02",
+    "pu_city": "MONCURE",
+    "pu_state": "NC",
+    "pu_hours": "0730-1600",
+    "del_date": "2026-10-05",
+    "del_city": "ATLANTA",
+    "del_state": "GA",
+    "del_hours": "0800-1600",
+    "equipment": "Van",
+    "weight_lbs": 44000,
+    "carrier_rate": 900,
+    "updated_at": "2026-10-01T15:13:29.071230+00:00",
+    "lane": "MONCURE NC-ATLANTA GA"
+  },
+  {
     "pro": "50754",
     "status": "OPEN",
     "pu_date": "2026-10-02",
@@ -166,7 +166,7 @@
     "equipment": "Van",
     "weight_lbs": 44000,
     "carrier_rate": 900,
-    "updated_at": "2026-09-30T16:44:48.491141+00:00",
+    "updated_at": "2026-10-01T15:13:57.370508+00:00",
     "lane": "MONCURE NC-ATLANTA GA"
   },
   {
@@ -185,6 +185,23 @@
     "carrier_rate": 900,
     "updated_at": "2026-09-30T16:46:06.095789+00:00",
     "lane": "MONCURE NC-ATLANTA GA"
+  },
+  {
+    "pro": "50159",
+    "status": "OPEN",
+    "pu_date": "2026-10-05",
+    "pu_city": "ANNISTON",
+    "pu_state": "AL",
+    "pu_hours": "0800-1400",
+    "del_date": "",
+    "del_city": "RICHARDSON",
+    "del_state": "TX",
+    "del_hours": "",
+    "equipment": "26' Straight Box Truck",
+    "weight_lbs": 8000,
+    "carrier_rate": null,
+    "updated_at": "2026-10-01T15:14:23.207008+00:00",
+    "lane": "ANNISTON AL-RICHARDSON TX"
   },
   {
     "pro": "50677",
@@ -285,7 +302,7 @@
     "equipment": "Step or Drop Deck",
     "weight_lbs": 10400,
     "carrier_rate": null,
-    "updated_at": "2026-10-01T15:06:50.218443+00:00",
+    "updated_at": "2026-10-01T15:11:38.902103+00:00",
     "lane": "DENVER NC-RIVERVIEW FL"
   },
   {
