@@ -119,23 +119,6 @@
     "lane": "COLUMBUS GA-SAVANNAH GA"
   },
   {
-    "pro": "50783",
-    "status": "OPEN",
-    "pu_date": "2026-10-02",
-    "pu_city": "COLUMBUS",
-    "pu_state": "GA",
-    "pu_hours": "1100",
-    "del_date": "2026-10-05",
-    "del_city": "TRYON",
-    "del_state": "NC",
-    "del_hours": "0800-0900",
-    "equipment": "Van",
-    "weight_lbs": 2830,
-    "carrier_rate": 900,
-    "updated_at": "2026-10-01T17:48:21.984222+00:00",
-    "lane": "COLUMBUS GA-TRYON NC"
-  },
-  {
     "pro": "50159",
     "status": "OPEN",
     "pu_date": "2026-10-05",
@@ -678,23 +661,6 @@
     "carrier_rate": 4400,
     "updated_at": "2026-09-30T19:01:41.580150+00:00",
     "lane": "MOUNT STERLING KY-MIRA LOMA CA"
-  },
-  {
-    "pro": "50716",
-    "status": "DELIVERED",
-    "pu_date": "2026-09-30",
-    "pu_city": "COLUMBUS",
-    "pu_state": "GA",
-    "pu_hours": "1300",
-    "del_date": "2026-10-01",
-    "del_city": "TRYON",
-    "del_state": "NC",
-    "del_hours": "0800-0900",
-    "equipment": "26' Straight Box Truck",
-    "weight_lbs": 1500,
-    "carrier_rate": 700,
-    "updated_at": "2026-10-01T13:16:01.071916+00:00",
-    "lane": "COLUMBUS GA-TRYON NC"
   },
   {
     "pro": "50753",
