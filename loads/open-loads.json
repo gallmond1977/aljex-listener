@@ -1,22 +1,5 @@
 [
   {
-    "pro": "50752",
-    "status": "OPEN",
-    "pu_date": "2026-10-01",
-    "pu_city": "MONCURE",
-    "pu_state": "NC",
-    "pu_hours": "0730-1600",
-    "del_date": "2026-10-02",
-    "del_city": "ATLANTA",
-    "del_state": "GA",
-    "del_hours": "0800-1600",
-    "equipment": "Van",
-    "weight_lbs": 44000,
-    "carrier_rate": 1000,
-    "updated_at": "2026-10-01T17:06:56.541801+00:00",
-    "lane": "MONCURE NC-ATLANTA GA"
-  },
-  {
     "pro": "50775",
     "status": "OPEN",
     "pu_date": "2026-10-01",
@@ -166,7 +149,7 @@
     "equipment": "Van",
     "weight_lbs": 2830,
     "carrier_rate": 900,
-    "updated_at": "2026-10-01T17:42:35.457020+00:00",
+    "updated_at": "2026-10-01T17:48:21.984222+00:00",
     "lane": "COLUMBUS GA-TRYON NC"
   },
   {
@@ -302,7 +285,7 @@
     "equipment": "Van",
     "weight_lbs": 4572,
     "carrier_rate": 5000,
-    "updated_at": "2026-09-29T18:18:08.239772+00:00",
+    "updated_at": "2026-10-01T17:46:24.406499+00:00",
     "lane": "WINCHESTER KY-HIALEAH FL"
   },
   {
@@ -746,5 +729,22 @@
     "carrier_rate": 1700,
     "updated_at": "2026-10-01T13:00:14.785136+00:00",
     "lane": "COLUMBUS GA-VAN WERT OH"
+  },
+  {
+    "pro": "50752",
+    "status": "COVERED",
+    "pu_date": "2026-10-02",
+    "pu_city": "MONCURE",
+    "pu_state": "NC",
+    "pu_hours": "0730-1600",
+    "del_date": "2026-10-02",
+    "del_city": "ATLANTA",
+    "del_state": "GA",
+    "del_hours": "0800-1600",
+    "equipment": "Van",
+    "weight_lbs": 44000,
+    "carrier_rate": 1000,
+    "updated_at": "2026-10-01T17:47:27.919843+00:00",
+    "lane": "MONCURE NC-ATLANTA GA"
   }
 ]
