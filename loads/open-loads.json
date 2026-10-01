@@ -165,8 +165,8 @@
     "del_hours": "1200",
     "equipment": "Reefer",
     "weight_lbs": 43500,
-    "carrier_rate": null,
-    "updated_at": "2026-10-01T13:20:11.542882+00:00",
+    "carrier_rate": 5200,
+    "updated_at": "2026-10-01T13:25:02.176894+00:00",
     "lane": "GREENWOOD WI-LITHIA SPRINGS GA"
   },
   {
@@ -336,7 +336,7 @@
     "equipment": "Reefer",
     "weight_lbs": 30416,
     "carrier_rate": null,
-    "updated_at": "2026-10-01T13:18:51.885827+00:00",
+    "updated_at": "2026-10-01T13:21:16.505074+00:00",
     "lane": "ATLANTA GA-FOREST PARK GA"
   },
   {
