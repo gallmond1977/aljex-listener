@@ -1,5 +1,22 @@
 [
   {
+    "pro": "50159",
+    "status": "OPEN",
+    "pu_date": "2026-10-02",
+    "pu_city": "ANNISTON",
+    "pu_state": "AL",
+    "pu_hours": "0800-1400",
+    "del_date": "2026-10-05",
+    "del_city": "RICHARDSON",
+    "del_state": "TX",
+    "del_hours": "",
+    "equipment": "26' Straight Box Truck",
+    "weight_lbs": 8000,
+    "carrier_rate": null,
+    "updated_at": "2026-10-02T14:39:35.283994+00:00",
+    "lane": "ANNISTON AL-RICHARDSON TX"
+  },
+  {
     "pro": "50775",
     "status": "OPEN",
     "pu_date": "2026-10-02",
@@ -15,23 +32,6 @@
     "carrier_rate": 900,
     "updated_at": "2026-10-02T12:00:34.877913+00:00",
     "lane": "WADESBORO NC-ATLANTA GA"
-  },
-  {
-    "pro": "50159",
-    "status": "OPEN",
-    "pu_date": "2026-10-05",
-    "pu_city": "ANNISTON",
-    "pu_state": "AL",
-    "pu_hours": "0800-1400",
-    "del_date": "",
-    "del_city": "RICHARDSON",
-    "del_state": "TX",
-    "del_hours": "",
-    "equipment": "26' Straight Box Truck",
-    "weight_lbs": 8000,
-    "carrier_rate": null,
-    "updated_at": "2026-10-01T15:14:23.207008+00:00",
-    "lane": "ANNISTON AL-RICHARDSON TX"
   },
   {
     "pro": "50730",
