@@ -187,6 +187,23 @@
     "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
+    "pro": "50801",
+    "status": "OPEN",
+    "pu_date": "2026-10-05",
+    "pu_city": "BENSENVILLE",
+    "pu_state": "IL",
+    "pu_hours": "0800-1500",
+    "del_date": "2026-10-06",
+    "del_city": "BELCAMP",
+    "del_state": "MD",
+    "del_hours": "0700-1500",
+    "equipment": "Van",
+    "weight_lbs": 42000,
+    "carrier_rate": 2500,
+    "updated_at": "2026-10-02T17:38:37.228386+00:00",
+    "lane": "BENSENVILLE IL-BELCAMP MD"
+  },
+  {
     "pro": "50700",
     "status": "OPEN",
     "pu_date": "2026-10-06",
