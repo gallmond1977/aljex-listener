@@ -51,23 +51,6 @@
     "lane": "WINCHESTER KY-JACKSONVILLE FL"
   },
   {
-    "pro": "50750",
-    "status": "OPEN",
-    "pu_date": "2026-10-05",
-    "pu_city": "RICHMOND",
-    "pu_state": "VA",
-    "pu_hours": "0630-0700",
-    "del_date": "2026-10-05",
-    "del_city": "KESWICK",
-    "del_state": "VA",
-    "del_hours": "0800-1200",
-    "equipment": "26' Straight Box Truck",
-    "weight_lbs": 5000,
-    "carrier_rate": 300,
-    "updated_at": "2026-10-01T19:39:54.992262+00:00",
-    "lane": "RICHMOND VA-KESWICK VA"
-  },
-  {
     "pro": "50777",
     "status": "OPEN",
     "pu_date": "2026-10-05",
@@ -374,6 +357,23 @@
     "lane": "BENSENVILLE IL-BELCAMP MD"
   },
   {
+    "pro": "50799",
+    "status": "OPEN",
+    "pu_date": "2026-10-21",
+    "pu_city": "ENTERPRISE",
+    "pu_state": "AL",
+    "pu_hours": "0800-1400",
+    "del_date": "2026-10-22",
+    "del_city": "SALISBURY",
+    "del_state": "NC",
+    "del_hours": "0800",
+    "equipment": "Van",
+    "weight_lbs": 42878,
+    "carrier_rate": null,
+    "updated_at": "2026-10-02T18:06:41.790365+00:00",
+    "lane": "ENTERPRISE AL-SALISBURY NC"
+  },
+  {
     "pro": "50592",
     "status": "OPEN",
     "pu_date": "2026-10-26",
@@ -576,23 +576,6 @@
     "carrier_rate": 1100,
     "updated_at": "2026-09-30T17:51:43.067400+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
-  },
-  {
-    "pro": "50596",
-    "status": "RELEASED",
-    "pu_date": "2026-09-28",
-    "pu_city": "RICHMOND",
-    "pu_state": "VA",
-    "pu_hours": "0800-0900",
-    "del_date": "2026-09-28",
-    "del_city": "KESWICK",
-    "del_state": "VA",
-    "del_hours": "0800-1400",
-    "equipment": "Flatbed Hot Shot",
-    "weight_lbs": 4300,
-    "carrier_rate": 450,
-    "updated_at": "2026-09-28T15:32:47.219896+00:00",
-    "lane": "RICHMOND VA-KESWICK VA"
   },
   {
     "pro": "50615",
