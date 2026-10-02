@@ -115,7 +115,7 @@
     "equipment": "Van",
     "weight_lbs": 9131,
     "carrier_rate": 1600,
-    "updated_at": "2026-10-01T16:56:06.212542+00:00",
+    "updated_at": "2026-10-02T12:17:08.845237+00:00",
     "lane": "COLUMBUS GA-VAN WERT OH"
   },
   {
@@ -659,7 +659,7 @@
     "equipment": "Van",
     "weight_lbs": 43438,
     "carrier_rate": 2100,
-    "updated_at": "2026-10-02T12:13:09.992805+00:00",
+    "updated_at": "2026-10-02T12:16:16.075675+00:00",
     "lane": "GARLAND TX-CALHOUN GA"
   }
 ]
