@@ -115,7 +115,7 @@
     "equipment": "Flatbed Hot Shot",
     "weight_lbs": 6000,
     "carrier_rate": 750,
-    "updated_at": "2026-10-02T15:58:20.850723+00:00",
+    "updated_at": "2026-10-02T16:09:51.190732+00:00",
     "lane": "COLUMBUS GA-SAVANNAH GA"
   },
   {
@@ -202,6 +202,23 @@
     "carrier_rate": null,
     "updated_at": "2026-10-02T15:51:49.994572+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
+  },
+  {
+    "pro": "50798",
+    "status": "OPEN",
+    "pu_date": "2026-10-05",
+    "pu_city": "RALEIGH",
+    "pu_state": "NC",
+    "pu_hours": "0900",
+    "del_date": "2026-10-05",
+    "del_city": "ROANOKE",
+    "del_state": "VA",
+    "del_hours": "0800-1400",
+    "equipment": "Van",
+    "weight_lbs": 7751,
+    "carrier_rate": 1000,
+    "updated_at": "2026-10-02T16:07:54.693720+00:00",
+    "lane": "RALEIGH NC-ROANOKE VA"
   },
   {
     "pro": "50700",
