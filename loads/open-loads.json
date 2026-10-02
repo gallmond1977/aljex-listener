@@ -179,11 +179,11 @@
     "del_date": "2026-10-05",
     "del_city": "ROANOKE",
     "del_state": "VA",
-    "del_hours": "0800-1400",
+    "del_hours": "0800-1500",
     "equipment": "Van",
     "weight_lbs": 7751,
     "carrier_rate": 1000,
-    "updated_at": "2026-10-02T16:12:08.672922+00:00",
+    "updated_at": "2026-10-02T17:10:07.356707+00:00",
     "lane": "RALEIGH NC-ROANOKE VA"
   },
   {
