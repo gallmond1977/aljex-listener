@@ -102,6 +102,23 @@
     "lane": "DENVER NC-RIVERVIEW FL"
   },
   {
+    "pro": "50782",
+    "status": "OPEN",
+    "pu_date": "2026-10-05",
+    "pu_city": "COLUMBUS",
+    "pu_state": "GA",
+    "pu_hours": "0730-1430",
+    "del_date": "2026-10-05",
+    "del_city": "SAVANNAH",
+    "del_state": "GA",
+    "del_hours": "0800-1530",
+    "equipment": "Flatbed Hot Shot",
+    "weight_lbs": 6000,
+    "carrier_rate": 750,
+    "updated_at": "2026-10-02T15:58:20.850723+00:00",
+    "lane": "COLUMBUS GA-SAVANNAH GA"
+  },
+  {
     "pro": "50790",
     "status": "OPEN",
     "pu_date": "2026-10-05",
