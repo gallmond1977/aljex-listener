@@ -30,7 +30,7 @@
     "equipment": "Van",
     "weight_lbs": 44000,
     "carrier_rate": 900,
-    "updated_at": "2026-10-02T15:17:37.756859+00:00",
+    "updated_at": "2026-10-02T16:15:06.841875+00:00",
     "lane": "WADESBORO NC-ATLANTA GA"
   },
   {
@@ -217,7 +217,7 @@
     "equipment": "Van",
     "weight_lbs": 7751,
     "carrier_rate": 1000,
-    "updated_at": "2026-10-02T16:07:54.693720+00:00",
+    "updated_at": "2026-10-02T16:12:08.672922+00:00",
     "lane": "RALEIGH NC-ROANOKE VA"
   },
   {
@@ -851,7 +851,7 @@
   },
   {
     "pro": "50727",
-    "status": "DELIVERED",
+    "status": "RELEASED",
     "pu_date": "2026-09-30",
     "pu_city": "WINCHESTER",
     "pu_state": "KY",
@@ -863,7 +863,7 @@
     "equipment": "Van",
     "weight_lbs": 12480,
     "carrier_rate": 1200,
-    "updated_at": "2026-10-01T20:21:02.621919+00:00",
+    "updated_at": "2026-10-02T16:11:03.482778+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
