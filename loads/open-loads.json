@@ -681,7 +681,7 @@
   },
   {
     "pro": "50107",
-    "status": "DISPATCHED",
+    "status": "PICKUP",
     "pu_date": "2026-10-02",
     "pu_city": "COLUMBUS",
     "pu_state": "GA",
@@ -693,7 +693,7 @@
     "equipment": "Van",
     "weight_lbs": 11100,
     "carrier_rate": 1700,
-    "updated_at": "2026-10-02T14:50:59.260653+00:00",
+    "updated_at": "2026-10-02T15:23:02.777288+00:00",
     "lane": "COLUMBUS GA-VAN WERT OH"
   },
   {
