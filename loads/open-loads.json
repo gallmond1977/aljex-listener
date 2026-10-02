@@ -9,11 +9,11 @@
     "del_date": "2026-10-05",
     "del_city": "RICHARDSON",
     "del_state": "TX",
-    "del_hours": "",
+    "del_hours": "0800-1200",
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 3000,
-    "carrier_rate": null,
-    "updated_at": "2026-10-02T14:42:41.793291+00:00",
+    "carrier_rate": 1200,
+    "updated_at": "2026-10-02T14:49:18.327357+00:00",
     "lane": "ANNISTON AL-RICHARDSON TX"
   },
   {
@@ -141,7 +141,7 @@
     "pu_date": "2026-10-06",
     "pu_city": "WINCHESTER",
     "pu_state": "KY",
-    "pu_hours": "REQ",
+    "pu_hours": "1300-1500",
     "del_date": "2026-10-09",
     "del_city": "HIALEAH",
     "del_state": "FL",
@@ -149,7 +149,7 @@
     "equipment": "Van",
     "weight_lbs": 4572,
     "carrier_rate": 5000,
-    "updated_at": "2026-10-02T13:29:01.343096+00:00",
+    "updated_at": "2026-10-02T14:49:16.149925+00:00",
     "lane": "WINCHESTER KY-HIALEAH FL"
   },
   {
@@ -664,7 +664,7 @@
   },
   {
     "pro": "50107",
-    "status": "COVERED",
+    "status": "DISPATCHED",
     "pu_date": "2026-10-02",
     "pu_city": "COLUMBUS",
     "pu_state": "GA",
@@ -676,7 +676,7 @@
     "equipment": "Van",
     "weight_lbs": 11100,
     "carrier_rate": 1700,
-    "updated_at": "2026-10-02T14:03:54.865233+00:00",
+    "updated_at": "2026-10-02T14:46:21.100765+00:00",
     "lane": "COLUMBUS GA-VAN WERT OH"
   },
   {
