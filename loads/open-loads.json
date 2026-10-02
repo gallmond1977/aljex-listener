@@ -323,6 +323,23 @@
     "lane": "GARLAND TX-CALHOUN GA"
   },
   {
+    "pro": "50803",
+    "status": "OPEN",
+    "pu_date": "2026-10-09",
+    "pu_city": "MOUNT PLEASANT",
+    "pu_state": "TN",
+    "pu_hours": "0800-1600",
+    "del_date": "2026-10-12",
+    "del_city": "BEAN STATION",
+    "del_state": "TN",
+    "del_hours": "0800",
+    "equipment": "Van",
+    "weight_lbs": 15000,
+    "carrier_rate": 900,
+    "updated_at": "2026-10-02T19:34:56.456660+00:00",
+    "lane": "MOUNT PLEASANT TN-BEAN STATION TN"
+  },
+  {
     "pro": "50082",
     "status": "OPEN",
     "pu_date": "2026-10-12",
