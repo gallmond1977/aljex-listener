@@ -247,11 +247,11 @@
     "del_date": "2026-10-08",
     "del_city": "FOREST PARK",
     "del_state": "GA",
-    "del_hours": "NEEDED",
+    "del_hours": "2200",
     "equipment": "Reefer",
     "weight_lbs": 30416,
     "carrier_rate": null,
-    "updated_at": "2026-10-02T18:28:15.824796+00:00",
+    "updated_at": "2026-10-02T21:44:54.071233+00:00",
     "lane": "ATLANTA GA-FOREST PARK GA"
   },
   {
@@ -812,7 +812,7 @@
     "equipment": "Van",
     "weight_lbs": 11100,
     "carrier_rate": 1700,
-    "updated_at": "2026-10-02T20:53:34.727892+00:00",
+    "updated_at": "2026-10-02T21:43:26.918902+00:00",
     "lane": "COLUMBUS GA-VAN WERT OH"
   },
   {
