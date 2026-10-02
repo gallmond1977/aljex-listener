@@ -6,14 +6,14 @@
     "pu_city": "GREENWOOD",
     "pu_state": "WI",
     "pu_hours": "1600",
-    "del_date": "2026-10-08",
+    "del_date": "2026-10-05",
     "del_city": "LITHIA SPRINGS",
     "del_state": "GA",
-    "del_hours": "0800",
+    "del_hours": "0730",
     "equipment": "Reefer",
     "weight_lbs": 43500,
     "carrier_rate": 5300,
-    "updated_at": "2026-10-02T12:11:39.134212+00:00",
+    "updated_at": "2026-10-02T12:33:20.763101+00:00",
     "lane": "GREENWOOD WI-LITHIA SPRINGS GA"
   },
   {
@@ -49,23 +49,6 @@
     "carrier_rate": 900,
     "updated_at": "2026-10-02T12:00:34.877913+00:00",
     "lane": "WADESBORO NC-ATLANTA GA"
-  },
-  {
-    "pro": "50782",
-    "status": "OPEN",
-    "pu_date": "2026-10-02",
-    "pu_city": "COLUMBUS",
-    "pu_state": "GA",
-    "pu_hours": "0730-1430",
-    "del_date": "2026-10-05",
-    "del_city": "SAVANNAH",
-    "del_state": "GA",
-    "del_hours": "0800-1530",
-    "equipment": "Flatbed Hot Shot",
-    "weight_lbs": 6000,
-    "carrier_rate": 750,
-    "updated_at": "2026-10-02T11:58:00.639117+00:00",
-    "lane": "COLUMBUS GA-SAVANNAH GA"
   },
   {
     "pro": "50159",
@@ -168,6 +151,23 @@
     "carrier_rate": null,
     "updated_at": "2026-10-01T15:11:38.902103+00:00",
     "lane": "DENVER NC-RIVERVIEW FL"
+  },
+  {
+    "pro": "50782",
+    "status": "OPEN",
+    "pu_date": "2026-10-05",
+    "pu_city": "COLUMBUS",
+    "pu_state": "GA",
+    "pu_hours": "0730-1430",
+    "del_date": "2026-10-05",
+    "del_city": "SAVANNAH",
+    "del_state": "GA",
+    "del_hours": "0800-1530",
+    "equipment": "Flatbed Hot Shot",
+    "weight_lbs": 6000,
+    "carrier_rate": 750,
+    "updated_at": "2026-10-02T12:33:10.783849+00:00",
+    "lane": "COLUMBUS GA-SAVANNAH GA"
   },
   {
     "pro": "50700",
