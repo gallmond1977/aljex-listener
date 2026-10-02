@@ -17,23 +17,6 @@
     "lane": "WADESBORO NC-ATLANTA GA"
   },
   {
-    "pro": "50785",
-    "status": "OPEN",
-    "pu_date": "2026-10-02",
-    "pu_city": "TUSCALOOSA",
-    "pu_state": "AL",
-    "pu_hours": "0800-1530",
-    "del_date": "2026-10-05",
-    "del_city": "JACKSONVILLE",
-    "del_state": "TX",
-    "del_hours": "0800-1200",
-    "equipment": "Van",
-    "weight_lbs": 41000,
-    "carrier_rate": 1500,
-    "updated_at": "2026-10-02T17:33:14.294484+00:00",
-    "lane": "TUSCALOOSA AL-JACKSONVILLE TX"
-  },
-  {
     "pro": "50794",
     "status": "OPEN",
     "pu_date": "2026-10-02",
@@ -831,6 +814,23 @@
     "carrier_rate": 1200,
     "updated_at": "2026-10-02T13:28:15.686656+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
+  },
+  {
+    "pro": "50785",
+    "status": "COVERED",
+    "pu_date": "2026-10-02",
+    "pu_city": "TUSCALOOSA",
+    "pu_state": "AL",
+    "pu_hours": "0800-1530",
+    "del_date": "2026-10-05",
+    "del_city": "JACKSONVILLE",
+    "del_state": "TX",
+    "del_hours": "0800-1200",
+    "equipment": "Van",
+    "weight_lbs": 41000,
+    "carrier_rate": 1500,
+    "updated_at": "2026-10-02T17:41:56.562467+00:00",
+    "lane": "TUSCALOOSA AL-JACKSONVILLE TX"
   },
   {
     "pro": "50677",
