@@ -1,22 +1,5 @@
 [
   {
-    "pro": "50656",
-    "status": "OPEN",
-    "pu_date": "2026-10-02",
-    "pu_city": "GREENWOOD",
-    "pu_state": "WI",
-    "pu_hours": "1600",
-    "del_date": "2026-10-05",
-    "del_city": "LITHIA SPRINGS",
-    "del_state": "GA",
-    "del_hours": "0730",
-    "equipment": "Reefer",
-    "weight_lbs": 43500,
-    "carrier_rate": 5700,
-    "updated_at": "2026-10-02T14:09:15.769274+00:00",
-    "lane": "GREENWOOD WI-LITHIA SPRINGS GA"
-  },
-  {
     "pro": "50657",
     "status": "OPEN",
     "pu_date": "2026-10-02",
@@ -49,23 +32,6 @@
     "carrier_rate": 900,
     "updated_at": "2026-10-02T12:00:34.877913+00:00",
     "lane": "WADESBORO NC-ATLANTA GA"
-  },
-  {
-    "pro": "50789",
-    "status": "OPEN",
-    "pu_date": "2026-10-02",
-    "pu_city": "LINCOLNTON",
-    "pu_state": "NC",
-    "pu_hours": "0700-1500",
-    "del_date": "2026-10-05",
-    "del_city": "AUBURN",
-    "del_state": "AL",
-    "del_hours": "0700-0800",
-    "equipment": "26' Straight Box Truck",
-    "weight_lbs": 4000,
-    "carrier_rate": 650,
-    "updated_at": "2026-10-02T14:01:34.767403+00:00",
-    "lane": "LINCOLNTON NC-AUBURN AL"
   },
   {
     "pro": "50159",
@@ -153,23 +119,6 @@
     "lane": "DENVER NC-RIVERVIEW FL"
   },
   {
-    "pro": "50788",
-    "status": "OPEN",
-    "pu_date": "2026-10-05",
-    "pu_city": "WHITEHALL",
-    "pu_state": "NY",
-    "pu_hours": "0700-1500",
-    "del_date": "2026-10-06",
-    "del_city": "RALEIGH",
-    "del_state": "NC",
-    "del_hours": "0800-1400",
-    "equipment": "Flatbed w/ Tarps",
-    "weight_lbs": 47328,
-    "carrier_rate": 2300,
-    "updated_at": "2026-10-02T13:23:27.388425+00:00",
-    "lane": "WHITEHALL NY-RALEIGH NC"
-  },
-  {
     "pro": "50790",
     "status": "OPEN",
     "pu_date": "2026-10-05",
@@ -219,6 +168,23 @@
     "carrier_rate": 5000,
     "updated_at": "2026-10-02T13:29:01.343096+00:00",
     "lane": "WINCHESTER KY-HIALEAH FL"
+  },
+  {
+    "pro": "50738",
+    "status": "OPEN",
+    "pu_date": "2026-10-06",
+    "pu_city": "COLUMBUS",
+    "pu_state": "GA",
+    "pu_hours": "1300",
+    "del_date": "2026-10-07",
+    "del_city": "VAN WERT",
+    "del_state": "OH",
+    "del_hours": "0900",
+    "equipment": "Van",
+    "weight_lbs": 9131,
+    "carrier_rate": 1650,
+    "updated_at": "2026-10-02T14:11:52.336265+00:00",
+    "lane": "COLUMBUS GA-VAN WERT OH"
   },
   {
     "pro": "50784",
@@ -712,6 +678,40 @@
     "carrier_rate": 4400,
     "updated_at": "2026-09-30T19:01:41.580150+00:00",
     "lane": "MOUNT STERLING KY-MIRA LOMA CA"
+  },
+  {
+    "pro": "50107",
+    "status": "COVERED",
+    "pu_date": "2026-10-02",
+    "pu_city": "COLUMBUS",
+    "pu_state": "GA",
+    "pu_hours": "1300",
+    "del_date": "2026-10-05",
+    "del_city": "VAN WERT",
+    "del_state": "OH",
+    "del_hours": "0900",
+    "equipment": "Van",
+    "weight_lbs": 11100,
+    "carrier_rate": 1700,
+    "updated_at": "2026-10-02T14:03:54.865233+00:00",
+    "lane": "COLUMBUS GA-VAN WERT OH"
+  },
+  {
+    "pro": "50656",
+    "status": "COVERED",
+    "pu_date": "2026-10-02",
+    "pu_city": "GREENWOOD",
+    "pu_state": "WI",
+    "pu_hours": "1600",
+    "del_date": "2026-10-05",
+    "del_city": "LITHIA SPRINGS",
+    "del_state": "GA",
+    "del_hours": "0730",
+    "equipment": "Reefer",
+    "weight_lbs": 43500,
+    "carrier_rate": 5700,
+    "updated_at": "2026-10-02T14:14:00.538516+00:00",
+    "lane": "GREENWOOD WI-LITHIA SPRINGS GA"
   },
   {
     "pro": "50677",
