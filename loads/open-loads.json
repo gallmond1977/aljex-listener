@@ -119,23 +119,6 @@
     "lane": "COLUMBUS GA-SAVANNAH GA"
   },
   {
-    "pro": "50790",
-    "status": "OPEN",
-    "pu_date": "2026-10-05",
-    "pu_city": "BUFFALO",
-    "pu_state": "NY",
-    "pu_hours": "1300",
-    "del_date": "2026-10-06",
-    "del_city": "BELCAMP",
-    "del_state": "MD",
-    "del_hours": "0700-1300",
-    "equipment": "Van",
-    "weight_lbs": 11194,
-    "carrier_rate": 1800,
-    "updated_at": "2026-10-02T13:18:12.875821+00:00",
-    "lane": "BUFFALO NY-BELCAMP MD"
-  },
-  {
     "pro": "50792",
     "status": "OPEN",
     "pu_date": "2026-10-05",
@@ -561,23 +544,6 @@
     "lane": "WINCHESTER KY-JACKSONVILLE FL"
   },
   {
-    "pro": "50620",
-    "status": "RELEASED",
-    "pu_date": "2026-09-23",
-    "pu_city": "BUFFALO",
-    "pu_state": "NY",
-    "pu_hours": "1300",
-    "del_date": "2026-09-24",
-    "del_city": "BELCAMP",
-    "del_state": "MD",
-    "del_hours": "0700-1300",
-    "equipment": "Van",
-    "weight_lbs": 8570,
-    "carrier_rate": 1800,
-    "updated_at": "2026-09-29T16:03:13.841911+00:00",
-    "lane": "BUFFALO NY-BELCAMP MD"
-  },
-  {
     "pro": "50613",
     "status": "RELEASED",
     "pu_date": "2026-09-24",
@@ -697,23 +663,6 @@
     "lane": "WINCHESTER KY-JACKSONVILLE FL"
   },
   {
-    "pro": "50685",
-    "status": "RELEASED",
-    "pu_date": "2026-09-28",
-    "pu_city": "BUFFALO",
-    "pu_state": "NY",
-    "pu_hours": "1000-1300",
-    "del_date": "2026-09-29",
-    "del_city": "BELCAMP",
-    "del_state": "MD",
-    "del_hours": "0700-1300",
-    "equipment": "Van",
-    "weight_lbs": 16574,
-    "carrier_rate": 1800,
-    "updated_at": "2026-09-30T15:05:06.253261+00:00",
-    "lane": "BUFFALO NY-BELCAMP MD"
-  },
-  {
     "pro": "50719",
     "status": "RELEASED",
     "pu_date": "2026-09-29",
@@ -729,23 +678,6 @@
     "carrier_rate": 1100,
     "updated_at": "2026-09-30T16:33:06.043281+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
-  },
-  {
-    "pro": "50733",
-    "status": "RELEASED",
-    "pu_date": "2026-09-29",
-    "pu_city": "BUFFALO",
-    "pu_state": "NY",
-    "pu_hours": "1200-1500",
-    "del_date": "2026-09-30",
-    "del_city": "BELCAMP",
-    "del_state": "MD",
-    "del_hours": "0700-1200",
-    "equipment": "Van",
-    "weight_lbs": 15500,
-    "carrier_rate": 2000,
-    "updated_at": "2026-10-01T16:40:40.035030+00:00",
-    "lane": "BUFFALO NY-BELCAMP MD"
   },
   {
     "pro": "50598",
