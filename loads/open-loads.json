@@ -204,23 +204,6 @@
     "lane": "BUFFALO NY-BELCAMP MD"
   },
   {
-    "pro": "50792",
-    "status": "OPEN",
-    "pu_date": "2026-10-05",
-    "pu_city": "ALPHARETTA",
-    "pu_state": "GA",
-    "pu_hours": "0900-1600",
-    "del_date": "2026-10-06",
-    "del_city": "DALLAS",
-    "del_state": "TX",
-    "del_hours": "0730-1430",
-    "equipment": "Flatbed w/ Tarps",
-    "weight_lbs": 42000,
-    "carrier_rate": 3400,
-    "updated_at": "2026-10-02T13:50:09.899082+00:00",
-    "lane": "ALPHARETTA GA-DALLAS TX"
-  },
-  {
     "pro": "50793",
     "status": "OPEN",
     "pu_date": "2026-10-05",
