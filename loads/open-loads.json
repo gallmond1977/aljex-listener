@@ -238,23 +238,6 @@
     "lane": "TUSCALOOSA AL-JACKSONVILLE TX"
   },
   {
-    "pro": "50771",
-    "status": "OPEN",
-    "pu_date": "2026-10-07",
-    "pu_city": "ATLANTA",
-    "pu_state": "GA",
-    "pu_hours": "NEEDED",
-    "del_date": "2026-10-08",
-    "del_city": "FOREST PARK",
-    "del_state": "GA",
-    "del_hours": "2200",
-    "equipment": "Reefer",
-    "weight_lbs": 30416,
-    "carrier_rate": null,
-    "updated_at": "2026-10-02T21:44:54.071233+00:00",
-    "lane": "ATLANTA GA-FOREST PARK GA"
-  },
-  {
     "pro": "50776",
     "status": "OPEN",
     "pu_date": "2026-10-07",
@@ -304,6 +287,23 @@
     "carrier_rate": null,
     "updated_at": "2026-10-01T18:07:39.993889+00:00",
     "lane": "MOUNT STERLING KY-MIRA LOMA CA"
+  },
+  {
+    "pro": "50771",
+    "status": "OPEN",
+    "pu_date": "2026-10-08",
+    "pu_city": "ATLANTA",
+    "pu_state": "GA",
+    "pu_hours": "NEEDED",
+    "del_date": "2026-10-08",
+    "del_city": "FOREST PARK",
+    "del_state": "GA",
+    "del_hours": "2200",
+    "equipment": "Reefer",
+    "weight_lbs": 30416,
+    "carrier_rate": null,
+    "updated_at": "2026-10-02T21:46:37.812564+00:00",
+    "lane": "ATLANTA GA-FOREST PARK GA"
   },
   {
     "pro": "50758",
