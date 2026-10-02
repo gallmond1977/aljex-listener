@@ -51,6 +51,23 @@
     "lane": "WADESBORO NC-ATLANTA GA"
   },
   {
+    "pro": "50789",
+    "status": "OPEN",
+    "pu_date": "2026-10-02",
+    "pu_city": "LINCOLNTON",
+    "pu_state": "NC",
+    "pu_hours": "0700-1500",
+    "del_date": "2026-10-05",
+    "del_city": "AUBURN",
+    "del_state": "AL",
+    "del_hours": "0700-0800",
+    "equipment": "26' Straight Box Truck",
+    "weight_lbs": 4000,
+    "carrier_rate": 600,
+    "updated_at": "2026-10-02T12:54:46.729080+00:00",
+    "lane": "LINCOLNTON NC-AUBURN AL"
+  },
+  {
     "pro": "50159",
     "status": "OPEN",
     "pu_date": "2026-10-05",
