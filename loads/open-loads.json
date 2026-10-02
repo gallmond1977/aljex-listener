@@ -85,23 +85,6 @@
     "lane": "WINCHESTER KY-JACKSONVILLE FL"
   },
   {
-    "pro": "50738",
-    "status": "OPEN",
-    "pu_date": "2026-10-05",
-    "pu_city": "COLUMBUS",
-    "pu_state": "GA",
-    "pu_hours": "1300",
-    "del_date": "2026-10-06",
-    "del_city": "VAN WERT",
-    "del_state": "OH",
-    "del_hours": "0900",
-    "equipment": "Van",
-    "weight_lbs": 9131,
-    "carrier_rate": 1600,
-    "updated_at": "2026-10-02T12:38:53.551464+00:00",
-    "lane": "COLUMBUS GA-VAN WERT OH"
-  },
-  {
     "pro": "50750",
     "status": "OPEN",
     "pu_date": "2026-10-05",
@@ -183,7 +166,7 @@
     "equipment": "Flatbed w/ Tarps",
     "weight_lbs": 47328,
     "carrier_rate": 2300,
-    "updated_at": "2026-10-02T12:38:21.634839+00:00",
+    "updated_at": "2026-10-02T12:43:20.259968+00:00",
     "lane": "WHITEHALL NY-RALEIGH NC"
   },
   {
@@ -644,23 +627,6 @@
     "carrier_rate": 4400,
     "updated_at": "2026-09-30T19:01:41.580150+00:00",
     "lane": "MOUNT STERLING KY-MIRA LOMA CA"
-  },
-  {
-    "pro": "50107",
-    "status": "COVERED",
-    "pu_date": "2026-10-02",
-    "pu_city": "COLUMBUS",
-    "pu_state": "GA",
-    "pu_hours": "1300",
-    "del_date": "2026-10-05",
-    "del_city": "VAN WERT",
-    "del_state": "OH",
-    "del_hours": "0900",
-    "equipment": "Van",
-    "weight_lbs": 11100,
-    "carrier_rate": 1700,
-    "updated_at": "2026-10-01T13:00:14.785136+00:00",
-    "lane": "COLUMBUS GA-VAN WERT OH"
   },
   {
     "pro": "50677",
