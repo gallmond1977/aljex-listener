@@ -68,23 +68,6 @@
     "lane": "LINCOLNTON NC-AUBURN AL"
   },
   {
-    "pro": "50791",
-    "status": "OPEN",
-    "pu_date": "2026-10-02",
-    "pu_city": "BROWNSVILLE",
-    "pu_state": "TX",
-    "pu_hours": "0900-1430",
-    "del_date": "2026-10-05",
-    "del_city": "CAMBRIDGE",
-    "del_state": "ON",
-    "del_hours": "0700-1700",
-    "equipment": "Sprinter Van",
-    "weight_lbs": 505,
-    "carrier_rate": 3000,
-    "updated_at": "2026-10-02T13:19:46.739937+00:00",
-    "lane": "BROWNSVILLE TX-CAMBRIDGE ON"
-  },
-  {
     "pro": "50159",
     "status": "OPEN",
     "pu_date": "2026-10-05",
@@ -114,8 +97,8 @@
     "del_hours": "2000",
     "equipment": "Van",
     "weight_lbs": 4000,
-    "carrier_rate": null,
-    "updated_at": "2026-09-30T11:20:31.452433+00:00",
+    "carrier_rate": 2800,
+    "updated_at": "2026-10-02T13:22:27.564067+00:00",
     "lane": "WINCHESTER KY-JACKSONVILLE FL"
   },
   {
@@ -183,7 +166,7 @@
     "equipment": "Flatbed w/ Tarps",
     "weight_lbs": 47328,
     "carrier_rate": 2300,
-    "updated_at": "2026-10-02T12:43:20.259968+00:00",
+    "updated_at": "2026-10-02T13:23:27.388425+00:00",
     "lane": "WHITEHALL NY-RALEIGH NC"
   },
   {
@@ -217,7 +200,7 @@
     "equipment": "Van",
     "weight_lbs": 4572,
     "carrier_rate": 5000,
-    "updated_at": "2026-10-02T12:29:15.085436+00:00",
+    "updated_at": "2026-10-02T13:24:37.211994+00:00",
     "lane": "WINCHESTER KY-HIALEAH FL"
   },
   {
