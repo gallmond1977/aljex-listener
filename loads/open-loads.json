@@ -170,23 +170,6 @@
     "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
-    "pro": "50798",
-    "status": "OPEN",
-    "pu_date": "2026-10-05",
-    "pu_city": "RALEIGH",
-    "pu_state": "NC",
-    "pu_hours": "0900",
-    "del_date": "2026-10-05",
-    "del_city": "ROANOKE",
-    "del_state": "VA",
-    "del_hours": "0800-1500",
-    "equipment": "Van",
-    "weight_lbs": 7751,
-    "carrier_rate": 1000,
-    "updated_at": "2026-10-02T17:10:07.356707+00:00",
-    "lane": "RALEIGH NC-ROANOKE VA"
-  },
-  {
     "pro": "50700",
     "status": "OPEN",
     "pu_date": "2026-10-06",
@@ -251,7 +234,7 @@
     "equipment": "Van",
     "weight_lbs": 41000,
     "carrier_rate": 1450,
-    "updated_at": "2026-10-01T20:02:43.904363+00:00",
+    "updated_at": "2026-10-02T17:13:57.053954+00:00",
     "lane": "TUSCALOOSA AL-JACKSONVILLE TX"
   },
   {
