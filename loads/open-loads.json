@@ -80,8 +80,8 @@
     "del_hours": "0800-1500",
     "equipment": "Step or Drop Deck",
     "weight_lbs": 10400,
-    "carrier_rate": null,
-    "updated_at": "2026-10-01T15:11:38.902103+00:00",
+    "carrier_rate": 850,
+    "updated_at": "2026-10-02T18:26:00.471703+00:00",
     "lane": "DENVER NC-RIVERVIEW FL"
   },
   {
@@ -227,14 +227,14 @@
     "pu_city": "ATLANTA",
     "pu_state": "GA",
     "pu_hours": "NEEDED",
-    "del_date": "2026-10-07",
+    "del_date": "2026-10-08",
     "del_city": "FOREST PARK",
     "del_state": "GA",
     "del_hours": "NEEDED",
     "equipment": "Reefer",
     "weight_lbs": 30416,
     "carrier_rate": null,
-    "updated_at": "2026-10-02T18:21:49.568805+00:00",
+    "updated_at": "2026-10-02T18:28:15.824796+00:00",
     "lane": "ATLANTA GA-FOREST PARK GA"
   },
   {
