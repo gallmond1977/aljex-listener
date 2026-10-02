@@ -12,8 +12,8 @@
     "del_hours": "0800",
     "equipment": "Reefer",
     "weight_lbs": 43500,
-    "carrier_rate": 5000,
-    "updated_at": "2026-09-29T20:09:48.762383+00:00",
+    "carrier_rate": 5300,
+    "updated_at": "2026-10-02T12:11:39.134212+00:00",
     "lane": "GREENWOOD WI-LITHIA SPRINGS GA"
   },
   {
@@ -29,8 +29,8 @@
     "del_hours": "1200",
     "equipment": "Reefer",
     "weight_lbs": 43500,
-    "carrier_rate": 5200,
-    "updated_at": "2026-10-01T13:31:45.133848+00:00",
+    "carrier_rate": 5300,
+    "updated_at": "2026-10-02T12:11:58.137896+00:00",
     "lane": "GREENWOOD WI-LITHIA SPRINGS GA"
   },
   {
@@ -83,23 +83,6 @@
     "carrier_rate": null,
     "updated_at": "2026-10-01T15:14:23.207008+00:00",
     "lane": "ANNISTON AL-RICHARDSON TX"
-  },
-  {
-    "pro": "50677",
-    "status": "OPEN",
-    "pu_date": "2026-10-05",
-    "pu_city": "GARLAND",
-    "pu_state": "TX",
-    "pu_hours": "1200-1400",
-    "del_date": "2026-10-06",
-    "del_city": "CALHOUN",
-    "del_state": "GA",
-    "del_hours": "0730-1400",
-    "equipment": "Van",
-    "weight_lbs": 43438,
-    "carrier_rate": 2000,
-    "updated_at": "2026-09-30T15:02:54.325311+00:00",
-    "lane": "GARLAND TX-CALHOUN GA"
   },
   {
     "pro": "50730",
@@ -661,5 +644,22 @@
     "carrier_rate": 1700,
     "updated_at": "2026-10-01T13:00:14.785136+00:00",
     "lane": "COLUMBUS GA-VAN WERT OH"
+  },
+  {
+    "pro": "50677",
+    "status": "COVERED",
+    "pu_date": "2026-10-05",
+    "pu_city": "GARLAND",
+    "pu_state": "TX",
+    "pu_hours": "1200-1400",
+    "del_date": "2026-10-06",
+    "del_city": "CALHOUN",
+    "del_state": "GA",
+    "del_hours": "0730-1400",
+    "equipment": "Van",
+    "weight_lbs": 43438,
+    "carrier_rate": 2100,
+    "updated_at": "2026-10-02T12:13:09.992805+00:00",
+    "lane": "GARLAND TX-CALHOUN GA"
   }
 ]
