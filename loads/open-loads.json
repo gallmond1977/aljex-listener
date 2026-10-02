@@ -153,6 +153,23 @@
     "lane": "BENSENVILLE IL-BELCAMP MD"
   },
   {
+    "pro": "50802",
+    "status": "OPEN",
+    "pu_date": "2026-10-05",
+    "pu_city": "WINCHESTER",
+    "pu_state": "KY",
+    "pu_hours": "0700-1400",
+    "del_date": "2026-10-06",
+    "del_city": "WILLIAMSON",
+    "del_state": "WV",
+    "del_hours": "0800",
+    "equipment": "26' Straight Box Truck",
+    "weight_lbs": 2500,
+    "carrier_rate": 800,
+    "updated_at": "2026-10-02T19:19:34.178123+00:00",
+    "lane": "WINCHESTER KY-WILLIAMSON WV"
+  },
+  {
     "pro": "50700",
     "status": "OPEN",
     "pu_date": "2026-10-06",
