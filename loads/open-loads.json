@@ -1,22 +1,5 @@
 [
   {
-    "pro": "50657",
-    "status": "OPEN",
-    "pu_date": "2026-10-02",
-    "pu_city": "GREENWOOD",
-    "pu_state": "WI",
-    "pu_hours": "1930",
-    "del_date": "2026-10-05",
-    "del_city": "LITHIA SPRINGS",
-    "del_state": "GA",
-    "del_hours": "1200",
-    "equipment": "Reefer",
-    "weight_lbs": 43500,
-    "carrier_rate": 5300,
-    "updated_at": "2026-10-02T12:11:58.137896+00:00",
-    "lane": "GREENWOOD WI-LITHIA SPRINGS GA"
-  },
-  {
     "pro": "50775",
     "status": "OPEN",
     "pu_date": "2026-10-02",
@@ -183,7 +166,7 @@
     "equipment": "Van",
     "weight_lbs": 9131,
     "carrier_rate": 1650,
-    "updated_at": "2026-10-02T14:11:52.336265+00:00",
+    "updated_at": "2026-10-02T14:20:08.570302+00:00",
     "lane": "COLUMBUS GA-VAN WERT OH"
   },
   {
@@ -695,23 +678,6 @@
     "carrier_rate": 1700,
     "updated_at": "2026-10-02T14:03:54.865233+00:00",
     "lane": "COLUMBUS GA-VAN WERT OH"
-  },
-  {
-    "pro": "50656",
-    "status": "COVERED",
-    "pu_date": "2026-10-02",
-    "pu_city": "GREENWOOD",
-    "pu_state": "WI",
-    "pu_hours": "1600",
-    "del_date": "2026-10-05",
-    "del_city": "LITHIA SPRINGS",
-    "del_state": "GA",
-    "del_hours": "0730",
-    "equipment": "Reefer",
-    "weight_lbs": 43500,
-    "carrier_rate": 5700,
-    "updated_at": "2026-10-02T14:14:00.538516+00:00",
-    "lane": "GREENWOOD WI-LITHIA SPRINGS GA"
   },
   {
     "pro": "50677",
