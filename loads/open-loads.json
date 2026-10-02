@@ -60,11 +60,11 @@
     "del_date": "2026-10-06",
     "del_city": "GAINESVILLE",
     "del_state": "GA",
-    "del_hours": "0800-1500",
+    "del_hours": "0800-1000",
     "equipment": "Step or Drop Deck",
     "weight_lbs": 18000,
     "carrier_rate": 1000,
-    "updated_at": "2026-10-02T20:14:59.709176+00:00",
+    "updated_at": "2026-10-02T20:19:38.384509+00:00",
     "lane": "DENVER NC-GAINESVILLE GA"
   },
   {
