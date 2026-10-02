@@ -233,8 +233,8 @@
     "del_hours": "0700-1500",
     "equipment": "Flatbed w/ Tarps",
     "weight_lbs": 42000,
-    "carrier_rate": null,
-    "updated_at": "2026-10-02T13:47:16.439716+00:00",
+    "carrier_rate": 3300,
+    "updated_at": "2026-10-02T13:51:33.862388+00:00",
     "lane": "ALPHARETTA GA-BELCAMP MD"
   },
   {
@@ -778,7 +778,7 @@
     "equipment": "Van",
     "weight_lbs": 9131,
     "carrier_rate": 1650,
-    "updated_at": "2026-10-02T13:42:20.032897+00:00",
+    "updated_at": "2026-10-02T13:54:38.124833+00:00",
     "lane": "COLUMBUS GA-VAN WERT OH"
   }
 ]
