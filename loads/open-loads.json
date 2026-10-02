@@ -13,7 +13,7 @@
     "equipment": "Reefer",
     "weight_lbs": 43500,
     "carrier_rate": 5300,
-    "updated_at": "2026-10-02T12:33:20.763101+00:00",
+    "updated_at": "2026-10-02T12:39:13.290689+00:00",
     "lane": "GREENWOOD WI-LITHIA SPRINGS GA"
   },
   {
@@ -98,7 +98,7 @@
     "equipment": "Van",
     "weight_lbs": 9131,
     "carrier_rate": 1600,
-    "updated_at": "2026-10-02T12:17:08.845237+00:00",
+    "updated_at": "2026-10-02T12:38:53.551464+00:00",
     "lane": "COLUMBUS GA-VAN WERT OH"
   },
   {
@@ -168,6 +168,23 @@
     "carrier_rate": 750,
     "updated_at": "2026-10-02T12:33:10.783849+00:00",
     "lane": "COLUMBUS GA-SAVANNAH GA"
+  },
+  {
+    "pro": "50788",
+    "status": "OPEN",
+    "pu_date": "2026-10-05",
+    "pu_city": "WHITEHALL",
+    "pu_state": "NY",
+    "pu_hours": "0700-1500",
+    "del_date": "2026-10-06",
+    "del_city": "RALEIGH",
+    "del_state": "NC",
+    "del_hours": "0800-1400",
+    "equipment": "Flatbed w/ Tarps",
+    "weight_lbs": 47328,
+    "carrier_rate": 2300,
+    "updated_at": "2026-10-02T12:38:21.634839+00:00",
+    "lane": "WHITEHALL NY-RALEIGH NC"
   },
   {
     "pro": "50700",
