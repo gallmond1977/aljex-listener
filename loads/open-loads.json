@@ -5,15 +5,15 @@
     "pu_date": "2026-10-02",
     "pu_city": "ANNISTON",
     "pu_state": "AL",
-    "pu_hours": "0800-1400",
+    "pu_hours": "0800-1500",
     "del_date": "2026-10-05",
     "del_city": "RICHARDSON",
     "del_state": "TX",
     "del_hours": "",
     "equipment": "26' Straight Box Truck",
-    "weight_lbs": 8000,
+    "weight_lbs": 3000,
     "carrier_rate": null,
-    "updated_at": "2026-10-02T14:39:35.283994+00:00",
+    "updated_at": "2026-10-02T14:42:41.793291+00:00",
     "lane": "ANNISTON AL-RICHARDSON TX"
   },
   {
