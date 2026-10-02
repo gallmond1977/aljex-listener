@@ -153,23 +153,6 @@
     "lane": "ALPHARETTA GA-DALLAS TX"
   },
   {
-    "pro": "50793",
-    "status": "OPEN",
-    "pu_date": "2026-10-05",
-    "pu_city": "ALPHARETTA",
-    "pu_state": "GA",
-    "pu_hours": "0900-1800",
-    "del_date": "2026-10-06",
-    "del_city": "BELCAMP",
-    "del_state": "MD",
-    "del_hours": "0700-1500",
-    "equipment": "Flatbed w/ Tarps",
-    "weight_lbs": 42000,
-    "carrier_rate": 3300,
-    "updated_at": "2026-10-02T13:51:33.862388+00:00",
-    "lane": "ALPHARETTA GA-BELCAMP MD"
-  },
-  {
     "pro": "50795",
     "status": "OPEN",
     "pu_date": "2026-10-05",
