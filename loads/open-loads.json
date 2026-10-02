@@ -159,14 +159,14 @@
     "pu_city": "WINCHESTER",
     "pu_state": "KY",
     "pu_hours": "",
-    "del_date": "",
+    "del_date": "2026-10-06",
     "del_city": "JOLIET",
     "del_state": "IL",
     "del_hours": "",
     "equipment": "Van",
     "weight_lbs": 14580,
     "carrier_rate": null,
-    "updated_at": "2026-10-02T15:33:31.914357+00:00",
+    "updated_at": "2026-10-02T15:42:53.306799+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
@@ -176,14 +176,14 @@
     "pu_city": "WINCHESTER",
     "pu_state": "KY",
     "pu_hours": "",
-    "del_date": "",
+    "del_date": "2026-10-06",
     "del_city": "JOLIET",
     "del_state": "IL",
     "del_hours": "",
     "equipment": "Van",
     "weight_lbs": 12480,
     "carrier_rate": null,
-    "updated_at": "2026-10-02T15:39:34.809821+00:00",
+    "updated_at": "2026-10-02T15:42:48.452481+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
