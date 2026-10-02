@@ -166,7 +166,7 @@
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 2500,
     "carrier_rate": 800,
-    "updated_at": "2026-10-02T19:24:37.280832+00:00",
+    "updated_at": "2026-10-02T19:28:34.434860+00:00",
     "lane": "WINCHESTER KY-WILLIAMSON WV"
   },
   {
@@ -817,7 +817,7 @@
   },
   {
     "pro": "50785",
-    "status": "PICKUP",
+    "status": "LOADED",
     "pu_date": "2026-10-02",
     "pu_city": "TUSCALOOSA",
     "pu_state": "AL",
@@ -829,7 +829,7 @@
     "equipment": "Van",
     "weight_lbs": 41000,
     "carrier_rate": 1500,
-    "updated_at": "2026-10-02T18:14:01.128448+00:00",
+    "updated_at": "2026-10-02T19:29:17.860245+00:00",
     "lane": "TUSCALOOSA AL-JACKSONVILLE TX"
   },
   {
