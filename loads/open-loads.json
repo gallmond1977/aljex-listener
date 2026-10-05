@@ -63,8 +63,8 @@
     "del_hours": "0600-0800",
     "equipment": "Van Hazmat",
     "weight_lbs": 44900,
-    "carrier_rate": 2400,
-    "updated_at": "2026-10-05T13:28:29.522537+00:00",
+    "carrier_rate": 2600,
+    "updated_at": "2026-10-05T14:44:30.148368+00:00",
     "lane": "OAKLAND TN-SALISBURY NC"
   },
   {
@@ -80,8 +80,8 @@
     "del_hours": "0700-1000",
     "equipment": "Van Hazmat",
     "weight_lbs": 44940,
-    "carrier_rate": 2100,
-    "updated_at": "2026-10-05T13:35:04.368626+00:00",
+    "carrier_rate": 2400,
+    "updated_at": "2026-10-05T14:45:07.378085+00:00",
     "lane": "OAKLAND TN-PHENIX CITY AL"
   },
   {
@@ -100,23 +100,6 @@
     "carrier_rate": 900,
     "updated_at": "2026-10-05T13:06:25.562290+00:00",
     "lane": "AUBURN AL-HOUSTON TX"
-  },
-  {
-    "pro": "50807",
-    "status": "OPEN",
-    "pu_date": "2026-10-05",
-    "pu_city": "CLARENCE",
-    "pu_state": "NY",
-    "pu_hours": "1200-1500",
-    "del_date": "2026-10-06",
-    "del_city": "BELCAMP",
-    "del_state": "MD",
-    "del_hours": "0700-1500",
-    "equipment": "26' Straight Box Truck",
-    "weight_lbs": 1500,
-    "carrier_rate": 800,
-    "updated_at": "2026-10-05T14:37:19.711301+00:00",
-    "lane": "CLARENCE NY-BELCAMP MD"
   },
   {
     "pro": "50808",
@@ -850,23 +833,6 @@
     "lane": "OAKLAND TN-SALISBURY NC"
   },
   {
-    "pro": "50763",
-    "status": "RELEASED",
-    "pu_date": "2026-10-01",
-    "pu_city": "CLARENCE",
-    "pu_state": "NY",
-    "pu_hours": "1200-1500",
-    "del_date": "2026-10-02",
-    "del_city": "BELCAMP",
-    "del_state": "MD",
-    "del_hours": "0700-1300",
-    "equipment": "26' Straight Box Truck",
-    "weight_lbs": 1000,
-    "carrier_rate": 900,
-    "updated_at": "2026-10-02T14:44:06.619903+00:00",
-    "lane": "CLARENCE NY-BELCAMP MD"
-  },
-  {
     "pro": "50765",
     "status": "DELIVERED",
     "pu_date": "2026-10-01",
@@ -936,7 +902,7 @@
   },
   {
     "pro": "50677",
-    "status": "DISPATCHED",
+    "status": "PICKUP",
     "pu_date": "2026-10-05",
     "pu_city": "GARLAND",
     "pu_state": "TX",
@@ -948,7 +914,7 @@
     "equipment": "Van",
     "weight_lbs": 43438,
     "carrier_rate": 2100,
-    "updated_at": "2026-10-05T14:25:36.955021+00:00",
+    "updated_at": "2026-10-05T14:44:52.159508+00:00",
     "lane": "GARLAND TX-CALHOUN GA"
   },
   {
