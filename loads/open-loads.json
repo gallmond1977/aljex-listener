@@ -13,7 +13,7 @@
     "equipment": "Van",
     "weight_lbs": 44000,
     "carrier_rate": 900,
-    "updated_at": "2026-10-02T20:05:00.231864+00:00",
+    "updated_at": "2026-10-05T16:30:56.491444+00:00",
     "lane": "WADESBORO NC-ATLANTA GA"
   },
   {
@@ -149,7 +149,7 @@
     "equipment": "Flatbed",
     "weight_lbs": 47500,
     "carrier_rate": 1200,
-    "updated_at": "2026-10-05T16:30:07.947910+00:00",
+    "updated_at": "2026-10-05T16:31:38.383285+00:00",
     "lane": "MONTGOMERY AL-AUGUSTA GA"
   },
   {
@@ -166,7 +166,7 @@
     "equipment": "Van",
     "weight_lbs": 44000,
     "carrier_rate": null,
-    "updated_at": "2026-10-05T16:18:30.429649+00:00",
+    "updated_at": "2026-10-05T16:33:45.170488+00:00",
     "lane": "PASADENA TX-GREENVILLE SC"
   },
   {
