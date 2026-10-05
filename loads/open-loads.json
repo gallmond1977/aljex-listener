@@ -29,8 +29,8 @@
     "del_hours": "0800-1000",
     "equipment": "Flatbed",
     "weight_lbs": 35000,
-    "carrier_rate": 850,
-    "updated_at": "2026-10-01T20:51:58.406140+00:00",
+    "carrier_rate": 950,
+    "updated_at": "2026-10-05T12:43:37.200244+00:00",
     "lane": "FAIRBURN GA-SAVANNAH GA"
   },
   {
@@ -880,7 +880,7 @@
     "equipment": "Van",
     "weight_lbs": 11100,
     "carrier_rate": 1700,
-    "updated_at": "2026-10-02T21:43:26.918902+00:00",
+    "updated_at": "2026-10-05T12:42:35.221042+00:00",
     "lane": "COLUMBUS GA-VAN WERT OH"
   },
   {
