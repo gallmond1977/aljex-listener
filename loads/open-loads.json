@@ -30,7 +30,7 @@
     "equipment": "Flatbed",
     "weight_lbs": 47500,
     "carrier_rate": null,
-    "updated_at": "2026-10-05T20:13:39.718987+00:00",
+    "updated_at": "2026-10-05T20:16:48.942276+00:00",
     "lane": "EVANSVILLE IN-SUWANEE GA"
   },
   {
@@ -63,8 +63,8 @@
     "del_hours": "0800-1600",
     "equipment": "Flatbed Hot Shot",
     "weight_lbs": 4200,
-    "carrier_rate": 450,
-    "updated_at": "2026-10-01T19:13:29.863460+00:00",
+    "carrier_rate": 500,
+    "updated_at": "2026-10-05T20:18:51.878508+00:00",
     "lane": "WAYCROSS GA-ATLANTA GA"
   },
   {
@@ -102,40 +102,6 @@
     "lane": "WADESBORO NC-ATLANTA GA"
   },
   {
-    "pro": "50796",
-    "status": "OPEN",
-    "pu_date": "2026-10-06",
-    "pu_city": "WINCHESTER",
-    "pu_state": "KY",
-    "pu_hours": "REQ",
-    "del_date": "2026-10-06",
-    "del_city": "JOLIET",
-    "del_state": "IL",
-    "del_hours": "1230",
-    "equipment": "Van",
-    "weight_lbs": 14580,
-    "carrier_rate": 1000,
-    "updated_at": "2026-10-05T11:48:39.666324+00:00",
-    "lane": "WINCHESTER KY-JOLIET IL"
-  },
-  {
-    "pro": "50797",
-    "status": "OPEN",
-    "pu_date": "2026-10-06",
-    "pu_city": "WINCHESTER",
-    "pu_state": "KY",
-    "pu_hours": "REQ",
-    "del_date": "2026-10-06",
-    "del_city": "JOLIET",
-    "del_state": "IL",
-    "del_hours": "1300",
-    "equipment": "Van",
-    "weight_lbs": 12480,
-    "carrier_rate": 1000,
-    "updated_at": "2026-10-05T11:48:42.468092+00:00",
-    "lane": "WINCHESTER KY-JOLIET IL"
-  },
-  {
     "pro": "50804",
     "status": "OPEN",
     "pu_date": "2026-10-06",
@@ -149,7 +115,7 @@
     "equipment": "Van Hazmat",
     "weight_lbs": 44900,
     "carrier_rate": 2800,
-    "updated_at": "2026-10-05T19:47:07.394990+00:00",
+    "updated_at": "2026-10-05T20:17:38.003019+00:00",
     "lane": "OAKLAND TN-SALISBURY NC"
   },
   {
@@ -238,6 +204,40 @@
     "lane": "PHENIX CITY AL-HAMILTON MI"
   },
   {
+    "pro": "50796",
+    "status": "OPEN",
+    "pu_date": "2026-10-07",
+    "pu_city": "WINCHESTER",
+    "pu_state": "KY",
+    "pu_hours": "REQ",
+    "del_date": "2026-10-06",
+    "del_city": "JOLIET",
+    "del_state": "IL",
+    "del_hours": "1230",
+    "equipment": "Van",
+    "weight_lbs": 14580,
+    "carrier_rate": 1000,
+    "updated_at": "2026-10-05T20:18:05.675809+00:00",
+    "lane": "WINCHESTER KY-JOLIET IL"
+  },
+  {
+    "pro": "50797",
+    "status": "OPEN",
+    "pu_date": "2026-10-07",
+    "pu_city": "WINCHESTER",
+    "pu_state": "KY",
+    "pu_hours": "REQ",
+    "del_date": "2026-10-06",
+    "del_city": "JOLIET",
+    "del_state": "IL",
+    "del_hours": "1300",
+    "equipment": "Van",
+    "weight_lbs": 12480,
+    "carrier_rate": 1000,
+    "updated_at": "2026-10-05T20:17:20.677368+00:00",
+    "lane": "WINCHESTER KY-JOLIET IL"
+  },
+  {
     "pro": "50819",
     "status": "OPEN",
     "pu_date": "2026-10-07",
@@ -319,7 +319,7 @@
     "equipment": "Reefer",
     "weight_lbs": 30416,
     "carrier_rate": 450,
-    "updated_at": "2026-10-05T15:14:17.171127+00:00",
+    "updated_at": "2026-10-05T20:19:23.753563+00:00",
     "lane": "ATLANTA GA-FOREST PARK GA"
   },
   {
