@@ -85,23 +85,6 @@
     "lane": "POSEYVILLE IN-LOUISVILLE KY"
   },
   {
-    "pro": "50814",
-    "status": "OPEN",
-    "pu_date": "2026-10-05",
-    "pu_city": "JACKSONVILLE",
-    "pu_state": "FL",
-    "pu_hours": "1200-1600",
-    "del_date": "2026-10-06",
-    "del_city": "NORCROSS",
-    "del_state": "GA",
-    "del_hours": "0800-1200",
-    "equipment": "Flatbed Hot Shot",
-    "weight_lbs": 12260,
-    "carrier_rate": 850,
-    "updated_at": "2026-10-05T16:14:01.751515+00:00",
-    "lane": "JACKSONVILLE FL-NORCROSS GA"
-  },
-  {
     "pro": "50815",
     "status": "OPEN",
     "pu_date": "2026-10-05",
@@ -117,6 +100,23 @@
     "carrier_rate": 1200,
     "updated_at": "2026-10-05T16:28:43.503572+00:00",
     "lane": "MONTGOMERY AL-AUGUSTA GA"
+  },
+  {
+    "pro": "50817",
+    "status": "OPEN",
+    "pu_date": "2026-10-05",
+    "pu_city": "CHEHALIS",
+    "pu_state": "WA",
+    "pu_hours": "",
+    "del_date": "",
+    "del_city": "ALBUQUERQUE",
+    "del_state": "NM",
+    "del_hours": "",
+    "equipment": "Flatbed",
+    "weight_lbs": 48000,
+    "carrier_rate": 6700,
+    "updated_at": "2026-10-05T16:59:51.980045+00:00",
+    "lane": "CHEHALIS WA-ALBUQUERQUE NM"
   },
   {
     "pro": "49852",
@@ -455,7 +455,7 @@
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 4000,
     "carrier_rate": 200,
-    "updated_at": "2026-10-05T16:53:56.833827+00:00",
+    "updated_at": "2026-10-05T16:58:03.097299+00:00",
     "lane": "RICHMOND VA-RICHMOND VA"
   },
   {
