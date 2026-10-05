@@ -902,7 +902,7 @@
   },
   {
     "pro": "50107",
-    "status": "LOADED",
+    "status": "CONSIGNEE",
     "pu_date": "2026-10-02",
     "pu_city": "COLUMBUS",
     "pu_state": "GA",
@@ -914,7 +914,7 @@
     "equipment": "Van",
     "weight_lbs": 11100,
     "carrier_rate": 1700,
-    "updated_at": "2026-10-05T12:42:35.221042+00:00",
+    "updated_at": "2026-10-05T13:45:57.770177+00:00",
     "lane": "COLUMBUS GA-VAN WERT OH"
   },
   {
@@ -965,7 +965,7 @@
     "equipment": "Van",
     "weight_lbs": 43438,
     "carrier_rate": 2100,
-    "updated_at": "2026-10-05T13:29:42.887695+00:00",
+    "updated_at": "2026-10-05T13:46:56.382778+00:00",
     "lane": "GARLAND TX-CALHOUN GA"
   },
   {
