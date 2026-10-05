@@ -17,23 +17,6 @@
     "lane": "WADESBORO NC-ATLANTA GA"
   },
   {
-    "pro": "50777",
-    "status": "OPEN",
-    "pu_date": "2026-10-05",
-    "pu_city": "FAIRBURN",
-    "pu_state": "GA",
-    "pu_hours": "1300-1500",
-    "del_date": "2026-10-06",
-    "del_city": "SAVANNAH",
-    "del_state": "GA",
-    "del_hours": "0800-1000",
-    "equipment": "Flatbed",
-    "weight_lbs": 35000,
-    "carrier_rate": 950,
-    "updated_at": "2026-10-05T13:12:48.103179+00:00",
-    "lane": "FAIRBURN GA-SAVANNAH GA"
-  },
-  {
     "pro": "50794",
     "status": "OPEN",
     "pu_date": "2026-10-05",
@@ -68,23 +51,6 @@
     "lane": "WADESBORO NC-ATLANTA GA"
   },
   {
-    "pro": "50801",
-    "status": "OPEN",
-    "pu_date": "2026-10-05",
-    "pu_city": "BENSENVILLE",
-    "pu_state": "IL",
-    "pu_hours": "0800-1500",
-    "del_date": "2026-10-06",
-    "del_city": "BELCAMP",
-    "del_state": "MD",
-    "del_hours": "0700-1500",
-    "equipment": "Van",
-    "weight_lbs": 42000,
-    "carrier_rate": 2700,
-    "updated_at": "2026-10-05T12:46:20.503321+00:00",
-    "lane": "BENSENVILLE IL-BELCAMP MD"
-  },
-  {
     "pro": "50804",
     "status": "OPEN",
     "pu_date": "2026-10-05",
@@ -98,7 +64,7 @@
     "equipment": "Van Hazmat",
     "weight_lbs": 44900,
     "carrier_rate": 2400,
-    "updated_at": "2026-10-05T12:31:49.994502+00:00",
+    "updated_at": "2026-10-05T13:28:29.522537+00:00",
     "lane": "OAKLAND TN-SALISBURY NC"
   },
   {
@@ -236,6 +202,23 @@
     "carrier_rate": 1000,
     "updated_at": "2026-10-05T11:48:42.468092+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
+  },
+  {
+    "pro": "50807",
+    "status": "OPEN",
+    "pu_date": "2026-10-06",
+    "pu_city": "CLARENCE",
+    "pu_state": "NY",
+    "pu_hours": "1200-1500",
+    "del_date": "2026-10-07",
+    "del_city": "BELCAMP",
+    "del_state": "MD",
+    "del_hours": "0700-1500",
+    "equipment": "26' Straight Box Truck",
+    "weight_lbs": 1500,
+    "carrier_rate": null,
+    "updated_at": "2026-10-05T13:29:53.339903+00:00",
+    "lane": "CLARENCE NY-BELCAMP MD"
   },
   {
     "pro": "50730",
@@ -867,6 +850,23 @@
     "lane": "OAKLAND TN-SALISBURY NC"
   },
   {
+    "pro": "50763",
+    "status": "RELEASED",
+    "pu_date": "2026-10-01",
+    "pu_city": "CLARENCE",
+    "pu_state": "NY",
+    "pu_hours": "1200-1500",
+    "del_date": "2026-10-02",
+    "del_city": "BELCAMP",
+    "del_state": "MD",
+    "del_hours": "0700-1300",
+    "equipment": "26' Straight Box Truck",
+    "weight_lbs": 1000,
+    "carrier_rate": 900,
+    "updated_at": "2026-10-02T14:44:06.619903+00:00",
+    "lane": "CLARENCE NY-BELCAMP MD"
+  },
+  {
     "pro": "50765",
     "status": "DELIVERED",
     "pu_date": "2026-10-01",
@@ -931,7 +931,7 @@
     "equipment": "Van",
     "weight_lbs": 41000,
     "carrier_rate": 1500,
-    "updated_at": "2026-10-02T20:06:47.409446+00:00",
+    "updated_at": "2026-10-05T13:25:56.898690+00:00",
     "lane": "TUSCALOOSA AL-JACKSONVILLE TX"
   },
   {
@@ -948,7 +948,24 @@
     "equipment": "Van",
     "weight_lbs": 43438,
     "carrier_rate": 2100,
-    "updated_at": "2026-10-05T12:36:21.239351+00:00",
+    "updated_at": "2026-10-05T13:29:42.887695+00:00",
     "lane": "GARLAND TX-CALHOUN GA"
+  },
+  {
+    "pro": "50801",
+    "status": "COVERED",
+    "pu_date": "2026-10-05",
+    "pu_city": "BENSENVILLE",
+    "pu_state": "IL",
+    "pu_hours": "0800-1500",
+    "del_date": "2026-10-06",
+    "del_city": "BELCAMP",
+    "del_state": "MD",
+    "del_hours": "0700-1500",
+    "equipment": "Van",
+    "weight_lbs": 42000,
+    "carrier_rate": 2800,
+    "updated_at": "2026-10-05T13:29:22.047996+00:00",
+    "lane": "BENSENVILLE IL-BELCAMP MD"
   }
 ]
