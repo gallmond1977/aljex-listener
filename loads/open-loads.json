@@ -1,22 +1,5 @@
 [
   {
-    "pro": "50775",
-    "status": "OPEN",
-    "pu_date": "2026-10-05",
-    "pu_city": "WADESBORO",
-    "pu_state": "NC",
-    "pu_hours": "0730-1630",
-    "del_date": "2026-10-06",
-    "del_city": "ATLANTA",
-    "del_state": "GA",
-    "del_hours": "0800-1600",
-    "equipment": "Van",
-    "weight_lbs": 44000,
-    "carrier_rate": 900,
-    "updated_at": "2026-10-05T16:30:56.491444+00:00",
-    "lane": "WADESBORO NC-ATLANTA GA"
-  },
-  {
     "pro": "50794",
     "status": "OPEN",
     "pu_date": "2026-10-05",
@@ -136,23 +119,6 @@
     "lane": "MONTGOMERY AL-AUGUSTA GA"
   },
   {
-    "pro": "50816",
-    "status": "OPEN",
-    "pu_date": "2026-10-05",
-    "pu_city": "MONTGOMERY",
-    "pu_state": "AL",
-    "pu_hours": "0730-1500",
-    "del_date": "2026-10-06",
-    "del_city": "AUGUSTA",
-    "del_state": "GA",
-    "del_hours": "0800-1600",
-    "equipment": "Flatbed",
-    "weight_lbs": 47500,
-    "carrier_rate": 1200,
-    "updated_at": "2026-10-05T16:31:38.383285+00:00",
-    "lane": "MONTGOMERY AL-AUGUSTA GA"
-  },
-  {
     "pro": "49852",
     "status": "OPEN",
     "pu_date": "2026-10-06",
@@ -233,8 +199,8 @@
     "del_hours": "0800-1200",
     "equipment": "Van",
     "weight_lbs": 41000,
-    "carrier_rate": 1450,
-    "updated_at": "2026-10-05T14:37:26.214225+00:00",
+    "carrier_rate": 1500,
+    "updated_at": "2026-10-05T16:40:05.157859+00:00",
     "lane": "TUSCALOOSA AL-JACKSONVILLE TX"
   },
   {
@@ -1088,6 +1054,23 @@
     "lane": "GARLAND TX-CALHOUN GA"
   },
   {
+    "pro": "50775",
+    "status": "COVERED",
+    "pu_date": "2026-10-05",
+    "pu_city": "WADESBORO",
+    "pu_state": "NC",
+    "pu_hours": "0730-1630",
+    "del_date": "2026-10-06",
+    "del_city": "ATLANTA",
+    "del_state": "GA",
+    "del_hours": "0800-1600",
+    "equipment": "Van",
+    "weight_lbs": 44000,
+    "carrier_rate": 950,
+    "updated_at": "2026-10-05T16:37:38.578222+00:00",
+    "lane": "WADESBORO NC-ATLANTA GA"
+  },
+  {
     "pro": "50790",
     "status": "LOADED",
     "pu_date": "2026-10-05",
@@ -1120,5 +1103,22 @@
     "carrier_rate": 2800,
     "updated_at": "2026-10-05T14:24:47.525183+00:00",
     "lane": "BENSENVILLE IL-BELCAMP MD"
+  },
+  {
+    "pro": "50816",
+    "status": "COVERED",
+    "pu_date": "2026-10-06",
+    "pu_city": "MONTGOMERY",
+    "pu_state": "AL",
+    "pu_hours": "0730-1500",
+    "del_date": "2026-10-07",
+    "del_city": "AUGUSTA",
+    "del_state": "GA",
+    "del_hours": "0800-1600",
+    "equipment": "Flatbed",
+    "weight_lbs": 47500,
+    "carrier_rate": 1200,
+    "updated_at": "2026-10-05T16:39:55.511730+00:00",
+    "lane": "MONTGOMERY AL-AUGUSTA GA"
   }
 ]
