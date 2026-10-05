@@ -357,6 +357,23 @@
     "lane": "HOUSTON TX-SANFORD FL"
   },
   {
+    "pro": "50824",
+    "status": "OPEN",
+    "pu_date": "2026-10-08",
+    "pu_city": "GREENVILLE",
+    "pu_state": "NC",
+    "pu_hours": "",
+    "del_date": "2026-10-08",
+    "del_city": "WILSON",
+    "del_state": "NC",
+    "del_hours": "",
+    "equipment": "Flatbed Hot Shot",
+    "weight_lbs": 8900,
+    "carrier_rate": 350,
+    "updated_at": "2026-10-05T19:26:14.111420+00:00",
+    "lane": "GREENVILLE NC-WILSON NC"
+  },
+  {
     "pro": "50758",
     "status": "OPEN",
     "pu_date": "2026-10-09",
