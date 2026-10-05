@@ -17,23 +17,6 @@
     "lane": "CHEHALIS WA-ALBUQUERQUE NM"
   },
   {
-    "pro": "49852",
-    "status": "OPEN",
-    "pu_date": "2026-10-06",
-    "pu_city": "PASADENA",
-    "pu_state": "TX",
-    "pu_hours": "1300",
-    "del_date": "2026-10-08",
-    "del_city": "GREENVILLE",
-    "del_state": "SC",
-    "del_hours": "0630-1330",
-    "equipment": "Van",
-    "weight_lbs": 44000,
-    "carrier_rate": 2800,
-    "updated_at": "2026-10-05T19:31:49.089992+00:00",
-    "lane": "PASADENA TX-GREENVILLE SC"
-  },
-  {
     "pro": "50700",
     "status": "OPEN",
     "pu_date": "2026-10-06",
@@ -49,23 +32,6 @@
     "carrier_rate": 5000,
     "updated_at": "2026-10-02T14:58:19.682010+00:00",
     "lane": "WINCHESTER KY-HIALEAH FL"
-  },
-  {
-    "pro": "50738",
-    "status": "OPEN",
-    "pu_date": "2026-10-06",
-    "pu_city": "COLUMBUS",
-    "pu_state": "GA",
-    "pu_hours": "1300",
-    "del_date": "2026-10-07",
-    "del_city": "VAN WERT",
-    "del_state": "OH",
-    "del_hours": "0900",
-    "equipment": "Van",
-    "weight_lbs": 9131,
-    "carrier_rate": 1650,
-    "updated_at": "2026-10-05T19:59:07.068707+00:00",
-    "lane": "COLUMBUS GA-VAN WERT OH"
   },
   {
     "pro": "50784",
@@ -984,23 +950,6 @@
     "carrier_rate": 1200,
     "updated_at": "2026-10-05T16:27:53.830677+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
-  },
-  {
-    "pro": "50107",
-    "status": "RELEASED",
-    "pu_date": "2026-10-02",
-    "pu_city": "COLUMBUS",
-    "pu_state": "GA",
-    "pu_hours": "1300",
-    "del_date": "2026-10-05",
-    "del_city": "VAN WERT",
-    "del_state": "OH",
-    "del_hours": "0900",
-    "equipment": "Van",
-    "weight_lbs": 11100,
-    "carrier_rate": 1700,
-    "updated_at": "2026-10-05T13:59:38.364462+00:00",
-    "lane": "COLUMBUS GA-VAN WERT OH"
   },
   {
     "pro": "50766",
