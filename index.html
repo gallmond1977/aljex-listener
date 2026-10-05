@@ -834,7 +834,7 @@
     assignRes.forEach(a => { customerAssignments[a.customer_id] = a; });
 
     serviceAssignments = {};
-    serviceAssignRes.forEach(a => { serviceAssignments[a.customer_id] = a; });
+    serviceAssignRes.forEach(a =>    { if (a.service_rep) serviceAssignments[a.customer_id] = a; });
 
     serviceNotesByCustomer = {};
     serviceNotesRes.forEach(n => { serviceNotesByCustomer[n.customer_id] = n; });
