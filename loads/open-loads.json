@@ -63,8 +63,8 @@
     "del_hours": "0800-1200",
     "equipment": "Flatbed Hot Shot",
     "weight_lbs": 12260,
-    "carrier_rate": 900,
-    "updated_at": "2026-10-05T18:25:46.522976+00:00",
+    "carrier_rate": 850,
+    "updated_at": "2026-10-05T18:48:14.726923+00:00",
     "lane": "JACKSONVILLE FL-NORCROSS GA"
   },
   {
@@ -285,8 +285,25 @@
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 650,
     "carrier_rate": 250,
-    "updated_at": "2026-10-05T18:41:15.163011+00:00",
+    "updated_at": "2026-10-05T18:45:52.159093+00:00",
     "lane": "PLEASANT GARDEN NC-CARY NC"
+  },
+  {
+    "pro": "50820",
+    "status": "OPEN",
+    "pu_date": "2026-10-07",
+    "pu_city": "ALPHARETTA",
+    "pu_state": "GA",
+    "pu_hours": "0900-1600",
+    "del_date": "2026-10-08",
+    "del_city": "MARSHALL",
+    "del_state": "VA",
+    "del_hours": "0800-1500",
+    "equipment": "Flatbed w/ Tarps",
+    "weight_lbs": 42000,
+    "carrier_rate": 2500,
+    "updated_at": "2026-10-05T18:49:57.003202+00:00",
+    "lane": "ALPHARETTA GA-MARSHALL VA"
   },
   {
     "pro": "50691",
@@ -362,7 +379,7 @@
     "pu_date": "2026-10-09",
     "pu_city": "GARLAND",
     "pu_state": "TX",
-    "pu_hours": "1200-1500",
+    "pu_hours": "ON HOLD",
     "del_date": "2026-10-12",
     "del_city": "CALHOUN",
     "del_state": "GA",
@@ -370,7 +387,7 @@
     "equipment": "Van",
     "weight_lbs": 40949,
     "carrier_rate": 2000,
-    "updated_at": "2026-10-05T18:45:06.746426+00:00",
+    "updated_at": "2026-10-05T18:46:36.345377+00:00",
     "lane": "GARLAND TX-CALHOUN GA"
   },
   {
@@ -765,6 +782,23 @@
     "lane": "BUFFALO NY-BELCAMP MD"
   },
   {
+    "pro": "50670",
+    "status": "RELEASED",
+    "pu_date": "2026-09-29",
+    "pu_city": "ALPHARETTA",
+    "pu_state": "GA",
+    "pu_hours": "0900-1600",
+    "del_date": "2026-09-30",
+    "del_city": "MARSHALL",
+    "del_state": "VA",
+    "del_hours": "0800-1500",
+    "equipment": "Flatbed w/ Tarps",
+    "weight_lbs": 42000,
+    "carrier_rate": 2500,
+    "updated_at": "2026-10-01T15:23:55.930848+00:00",
+    "lane": "ALPHARETTA GA-MARSHALL VA"
+  },
+  {
     "pro": "50719",
     "status": "RELEASED",
     "pu_date": "2026-09-29",
@@ -1004,7 +1038,7 @@
   },
   {
     "pro": "50775",
-    "status": "DISPATCHED",
+    "status": "PICKUP",
     "pu_date": "2026-10-05",
     "pu_city": "WADESBORO",
     "pu_state": "NC",
@@ -1016,7 +1050,7 @@
     "equipment": "Van",
     "weight_lbs": 44000,
     "carrier_rate": 950,
-    "updated_at": "2026-10-05T18:36:11.528858+00:00",
+    "updated_at": "2026-10-05T18:48:51.592449+00:00",
     "lane": "WADESBORO NC-ATLANTA GA"
   },
   {
