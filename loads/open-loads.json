@@ -46,8 +46,8 @@
     "del_hours": "0600-0800",
     "equipment": "Van Hazmat",
     "weight_lbs": 44900,
-    "carrier_rate": 2600,
-    "updated_at": "2026-10-05T14:44:30.148368+00:00",
+    "carrier_rate": 2800,
+    "updated_at": "2026-10-05T17:31:33.954533+00:00",
     "lane": "OAKLAND TN-SALISBURY NC"
   },
   {
@@ -100,6 +100,23 @@
     "carrier_rate": 6700,
     "updated_at": "2026-10-05T17:00:23.614155+00:00",
     "lane": "CHEHALIS WA-ALBUQUERQUE NM"
+  },
+  {
+    "pro": "50818",
+    "status": "OPEN",
+    "pu_date": "2026-10-05",
+    "pu_city": "ANAHEIM",
+    "pu_state": "CA",
+    "pu_hours": "1200",
+    "del_date": "2026-10-05",
+    "del_city": "ANAHEIM",
+    "del_state": "CA",
+    "del_hours": "0800-1500",
+    "equipment": "26' Straight Box Truck",
+    "weight_lbs": 1000,
+    "carrier_rate": null,
+    "updated_at": "2026-10-05T17:31:48.096741+00:00",
+    "lane": "ANAHEIM CA-ANAHEIM CA"
   },
   {
     "pro": "49852",
