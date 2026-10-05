@@ -34,23 +34,6 @@
     "lane": "FAIRBURN GA-SAVANNAH GA"
   },
   {
-    "pro": "50793",
-    "status": "OPEN",
-    "pu_date": "2026-10-05",
-    "pu_city": "ALPHARETTA",
-    "pu_state": "GA",
-    "pu_hours": "0900-1800",
-    "del_date": "2026-10-06",
-    "del_city": "BELCAMP",
-    "del_state": "MD",
-    "del_hours": "0700-1500",
-    "equipment": "Conestoga",
-    "weight_lbs": 42000,
-    "carrier_rate": 3300,
-    "updated_at": "2026-10-05T12:51:59.032312+00:00",
-    "lane": "ALPHARETTA GA-BELCAMP MD"
-  },
-  {
     "pro": "50794",
     "status": "OPEN",
     "pu_date": "2026-10-05",
@@ -145,11 +128,11 @@
     "del_date": "2026-10-06",
     "del_city": "HOUSTON",
     "del_state": "TX",
-    "del_hours": "0800-1400",
+    "del_hours": "0700-1500",
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 9194,
     "carrier_rate": 900,
-    "updated_at": "2026-10-05T13:00:16.248381+00:00",
+    "updated_at": "2026-10-05T13:03:58.335350+00:00",
     "lane": "AUBURN AL-HOUSTON TX"
   },
   {
