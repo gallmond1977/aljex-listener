@@ -1,22 +1,5 @@
 [
   {
-    "pro": "50730",
-    "status": "OPEN",
-    "pu_date": "2026-10-05",
-    "pu_city": "WINCHESTER",
-    "pu_state": "KY",
-    "pu_hours": "1200-1500",
-    "del_date": "2026-10-06",
-    "del_city": "JACKSONVILLE",
-    "del_state": "FL",
-    "del_hours": "2000",
-    "equipment": "Van",
-    "weight_lbs": 4000,
-    "carrier_rate": 2800,
-    "updated_at": "2026-10-02T15:47:16.305221+00:00",
-    "lane": "WINCHESTER KY-JACKSONVILLE FL"
-  },
-  {
     "pro": "50775",
     "status": "OPEN",
     "pu_date": "2026-10-05",
@@ -236,6 +219,23 @@
     "carrier_rate": 1450,
     "updated_at": "2026-10-01T20:06:42.445025+00:00",
     "lane": "TUSCALOOSA AL-JACKSONVILLE TX"
+  },
+  {
+    "pro": "50730",
+    "status": "OPEN",
+    "pu_date": "2026-10-07",
+    "pu_city": "WINCHESTER",
+    "pu_state": "KY",
+    "pu_hours": "1200-1500",
+    "del_date": "2026-10-06",
+    "del_city": "JACKSONVILLE",
+    "del_state": "FL",
+    "del_hours": "2000",
+    "equipment": "Van",
+    "weight_lbs": 4000,
+    "carrier_rate": 2800,
+    "updated_at": "2026-10-05T11:42:47.494857+00:00",
+    "lane": "WINCHESTER KY-JACKSONVILLE FL"
   },
   {
     "pro": "50776",
