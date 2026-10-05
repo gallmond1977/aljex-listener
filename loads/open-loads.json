@@ -130,9 +130,9 @@
     "del_state": "GA",
     "del_hours": "0800-1600",
     "equipment": "Flatbed",
-    "weight_lbs": 47500,
+    "weight_lbs": 47000,
     "carrier_rate": 1200,
-    "updated_at": "2026-10-05T16:25:07.179928+00:00",
+    "updated_at": "2026-10-05T16:28:43.503572+00:00",
     "lane": "MONTGOMERY AL-AUGUSTA GA"
   },
   {
@@ -149,7 +149,7 @@
     "equipment": "Flatbed",
     "weight_lbs": 47500,
     "carrier_rate": 1200,
-    "updated_at": "2026-10-05T16:20:00.117671+00:00",
+    "updated_at": "2026-10-05T16:30:07.947910+00:00",
     "lane": "MONTGOMERY AL-AUGUSTA GA"
   },
   {
@@ -1004,7 +1004,7 @@
   },
   {
     "pro": "50765",
-    "status": "DELIVERED",
+    "status": "RELEASED",
     "pu_date": "2026-10-01",
     "pu_city": "WINCHESTER",
     "pu_state": "KY",
@@ -1016,7 +1016,7 @@
     "equipment": "Van",
     "weight_lbs": 5700,
     "carrier_rate": 1200,
-    "updated_at": "2026-10-02T21:06:29.368097+00:00",
+    "updated_at": "2026-10-05T16:27:53.830677+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
