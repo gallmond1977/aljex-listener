@@ -114,8 +114,8 @@
     "del_hours": "0700-1500",
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 1500,
-    "carrier_rate": null,
-    "updated_at": "2026-10-05T13:42:20.195444+00:00",
+    "carrier_rate": 800,
+    "updated_at": "2026-10-05T14:27:36.682469+00:00",
     "lane": "CLARENCE NY-BELCAMP MD"
   },
   {
@@ -561,23 +561,6 @@
     "lane": "WINCHESTER KY-JACKSONVILLE FL"
   },
   {
-    "pro": "50609",
-    "status": "RELEASED",
-    "pu_date": "2026-09-24",
-    "pu_city": "OAKLAND",
-    "pu_state": "TN",
-    "pu_hours": "0800-1500",
-    "del_date": "2026-09-25",
-    "del_city": "SALISBURY",
-    "del_state": "NC",
-    "del_hours": "0600-0800",
-    "equipment": "Van Hazmat",
-    "weight_lbs": 44900,
-    "carrier_rate": 2800,
-    "updated_at": "2026-09-28T14:25:13.302275+00:00",
-    "lane": "OAKLAND TN-SALISBURY NC"
-  },
-  {
     "pro": "50613",
     "status": "RELEASED",
     "pu_date": "2026-09-24",
@@ -953,7 +936,7 @@
   },
   {
     "pro": "50677",
-    "status": "COVERED",
+    "status": "DISPATCHED",
     "pu_date": "2026-10-05",
     "pu_city": "GARLAND",
     "pu_state": "TX",
@@ -965,7 +948,7 @@
     "equipment": "Van",
     "weight_lbs": 43438,
     "carrier_rate": 2100,
-    "updated_at": "2026-10-05T13:46:56.382778+00:00",
+    "updated_at": "2026-10-05T14:25:36.955021+00:00",
     "lane": "GARLAND TX-CALHOUN GA"
   },
   {
