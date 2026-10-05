@@ -215,9 +215,9 @@
     "del_state": "MD",
     "del_hours": "0700-1300",
     "equipment": "Van",
-    "weight_lbs": 11194,
-    "carrier_rate": null,
-    "updated_at": "2026-10-05T15:59:45.222708+00:00",
+    "weight_lbs": 20000,
+    "carrier_rate": 1700,
+    "updated_at": "2026-10-05T16:04:46.373904+00:00",
     "lane": "BUFFALO NY-BELCAMP MD"
   },
   {
@@ -1016,7 +1016,7 @@
     "equipment": "Van",
     "weight_lbs": 11194,
     "carrier_rate": 1800,
-    "updated_at": "2026-10-05T15:53:26.228644+00:00",
+    "updated_at": "2026-10-05T16:04:28.991825+00:00",
     "lane": "BUFFALO NY-BELCAMP MD"
   },
   {
