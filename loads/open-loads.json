@@ -81,7 +81,7 @@
     "equipment": "Flatbed",
     "weight_lbs": 47000,
     "carrier_rate": 1100,
-    "updated_at": "2026-10-05T15:43:53.232047+00:00",
+    "updated_at": "2026-10-05T16:47:04.907031+00:00",
     "lane": "POSEYVILLE IN-LOUISVILLE KY"
   },
   {
@@ -1067,7 +1067,7 @@
     "equipment": "Van",
     "weight_lbs": 44000,
     "carrier_rate": 950,
-    "updated_at": "2026-10-05T16:37:38.578222+00:00",
+    "updated_at": "2026-10-05T16:48:31.054355+00:00",
     "lane": "WADESBORO NC-ATLANTA GA"
   },
   {
@@ -1089,7 +1089,7 @@
   },
   {
     "pro": "50801",
-    "status": "PICKUP",
+    "status": "LOADED",
     "pu_date": "2026-10-05",
     "pu_city": "BENSENVILLE",
     "pu_state": "IL",
@@ -1101,7 +1101,7 @@
     "equipment": "Van",
     "weight_lbs": 42000,
     "carrier_rate": 2800,
-    "updated_at": "2026-10-05T14:24:47.525183+00:00",
+    "updated_at": "2026-10-05T16:49:46.553495+00:00",
     "lane": "BENSENVILLE IL-BELCAMP MD"
   },
   {
