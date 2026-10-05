@@ -1021,7 +1021,7 @@
   },
   {
     "pro": "50677",
-    "status": "PICKUP",
+    "status": "LOADED",
     "pu_date": "2026-10-05",
     "pu_city": "GARLAND",
     "pu_state": "TX",
@@ -1033,7 +1033,7 @@
     "equipment": "Van",
     "weight_lbs": 43438,
     "carrier_rate": 2100,
-    "updated_at": "2026-10-05T14:44:52.159508+00:00",
+    "updated_at": "2026-10-05T19:37:50.647712+00:00",
     "lane": "GARLAND TX-CALHOUN GA"
   },
   {
