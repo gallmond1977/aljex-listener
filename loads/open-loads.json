@@ -80,8 +80,8 @@
     "del_hours": "0700-1500",
     "equipment": "Van",
     "weight_lbs": 42000,
-    "carrier_rate": 2500,
-    "updated_at": "2026-10-02T17:38:37.228386+00:00",
+    "carrier_rate": 2700,
+    "updated_at": "2026-10-05T12:46:20.503321+00:00",
     "lane": "BENSENVILLE IL-BELCAMP MD"
   },
   {
@@ -132,7 +132,7 @@
     "equipment": "Van Hazmat",
     "weight_lbs": 44940,
     "carrier_rate": 2100,
-    "updated_at": "2026-10-05T12:39:44.740188+00:00",
+    "updated_at": "2026-10-05T12:49:07.473724+00:00",
     "lane": "OAKLAND TN-PHENIX CITY AL"
   },
   {
