@@ -102,6 +102,23 @@
     "lane": "POSEYVILLE IN-LOUISVILLE KY"
   },
   {
+    "pro": "50809",
+    "status": "OPEN",
+    "pu_date": "2026-10-05",
+    "pu_city": "COLUMBUS",
+    "pu_state": "GA",
+    "pu_hours": "1200-1500",
+    "del_date": "2026-10-07",
+    "del_city": "DODGE CITY",
+    "del_state": "KS",
+    "del_hours": "",
+    "equipment": "Van",
+    "weight_lbs": 36187,
+    "carrier_rate": 2800,
+    "updated_at": "2026-10-05T15:19:27.993055+00:00",
+    "lane": "COLUMBUS GA-DODGE CITY KS"
+  },
+  {
     "pro": "50700",
     "status": "OPEN",
     "pu_date": "2026-10-06",
