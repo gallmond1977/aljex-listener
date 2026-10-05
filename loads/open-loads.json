@@ -80,8 +80,8 @@
     "del_hours": "0700-1500",
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 9194,
-    "carrier_rate": 900,
-    "updated_at": "2026-10-05T13:06:25.562290+00:00",
+    "carrier_rate": 950,
+    "updated_at": "2026-10-05T16:14:25.310665+00:00",
     "lane": "AUBURN AL-HOUSTON TX"
   },
   {
@@ -107,16 +107,16 @@
     "pu_date": "2026-10-05",
     "pu_city": "JACKSONVILLE",
     "pu_state": "FL",
-    "pu_hours": "",
+    "pu_hours": "1200-1600",
     "del_date": "2026-10-06",
-    "del_city": "SUMMERVILLE",
-    "del_state": "SC",
-    "del_hours": "0800-1500",
+    "del_city": "NORCROSS",
+    "del_state": "GA",
+    "del_hours": "0800-1200",
     "equipment": "Flatbed Hot Shot",
     "weight_lbs": 12260,
     "carrier_rate": 850,
-    "updated_at": "2026-10-05T16:09:43.656609+00:00",
-    "lane": "JACKSONVILLE FL-SUMMERVILLE SC"
+    "updated_at": "2026-10-05T16:14:01.751515+00:00",
+    "lane": "JACKSONVILLE FL-NORCROSS GA"
   },
   {
     "pro": "50700",
