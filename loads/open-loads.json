@@ -936,7 +936,7 @@
   },
   {
     "pro": "50785",
-    "status": "LOADED",
+    "status": "CONSIGNEE",
     "pu_date": "2026-10-02",
     "pu_city": "TUSCALOOSA",
     "pu_state": "AL",
@@ -948,7 +948,7 @@
     "equipment": "Van",
     "weight_lbs": 41000,
     "carrier_rate": 1500,
-    "updated_at": "2026-10-05T13:25:56.898690+00:00",
+    "updated_at": "2026-10-05T14:22:39.070446+00:00",
     "lane": "TUSCALOOSA AL-JACKSONVILLE TX"
   },
   {
@@ -970,7 +970,7 @@
   },
   {
     "pro": "50801",
-    "status": "DISPATCHED",
+    "status": "PICKUP",
     "pu_date": "2026-10-05",
     "pu_city": "BENSENVILLE",
     "pu_state": "IL",
@@ -982,7 +982,7 @@
     "equipment": "Van",
     "weight_lbs": 42000,
     "carrier_rate": 2800,
-    "updated_at": "2026-10-05T13:37:28.351827+00:00",
+    "updated_at": "2026-10-05T14:24:47.525183+00:00",
     "lane": "BENSENVILLE IL-BELCAMP MD"
   }
 ]
