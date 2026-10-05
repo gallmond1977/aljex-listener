@@ -17,23 +17,6 @@
     "lane": "WADESBORO NC-ATLANTA GA"
   },
   {
-    "pro": "50795",
-    "status": "OPEN",
-    "pu_date": "2026-10-05",
-    "pu_city": "WADESBORO",
-    "pu_state": "NC",
-    "pu_hours": "0730-1630",
-    "del_date": "2026-10-06",
-    "del_city": "ATLANTA",
-    "del_state": "GA",
-    "del_hours": "0800-1600",
-    "equipment": "Van",
-    "weight_lbs": 44000,
-    "carrier_rate": 900,
-    "updated_at": "2026-10-02T16:19:00.221039+00:00",
-    "lane": "WADESBORO NC-ATLANTA GA"
-  },
-  {
     "pro": "50804",
     "status": "OPEN",
     "pu_date": "2026-10-05",
@@ -49,23 +32,6 @@
     "carrier_rate": 2800,
     "updated_at": "2026-10-05T17:31:33.954533+00:00",
     "lane": "OAKLAND TN-SALISBURY NC"
-  },
-  {
-    "pro": "50814",
-    "status": "OPEN",
-    "pu_date": "2026-10-05",
-    "pu_city": "JACKSONVILLE",
-    "pu_state": "FL",
-    "pu_hours": "1200-1600",
-    "del_date": "2026-10-06",
-    "del_city": "NORCROSS",
-    "del_state": "GA",
-    "del_hours": "0800-1200",
-    "equipment": "Flatbed Hot Shot",
-    "weight_lbs": 12260,
-    "carrier_rate": 850,
-    "updated_at": "2026-10-05T18:59:29.229855+00:00",
-    "lane": "JACKSONVILLE FL-NORCROSS GA"
   },
   {
     "pro": "50815",
@@ -168,6 +134,23 @@
     "carrier_rate": 450,
     "updated_at": "2026-10-01T19:13:29.863460+00:00",
     "lane": "WAYCROSS GA-ATLANTA GA"
+  },
+  {
+    "pro": "50795",
+    "status": "OPEN",
+    "pu_date": "2026-10-06",
+    "pu_city": "WADESBORO",
+    "pu_state": "NC",
+    "pu_hours": "0730-1630",
+    "del_date": "2026-10-07",
+    "del_city": "ATLANTA",
+    "del_state": "GA",
+    "del_hours": "0800-1600",
+    "equipment": "Van",
+    "weight_lbs": 44000,
+    "carrier_rate": 900,
+    "updated_at": "2026-10-05T19:03:02.106245+00:00",
+    "lane": "WADESBORO NC-ATLANTA GA"
   },
   {
     "pro": "50796",
@@ -334,9 +317,9 @@
     "del_state": "NC",
     "del_hours": "0800",
     "equipment": "Flatbed Hot Shot",
-    "weight_lbs": 1,
-    "carrier_rate": null,
-    "updated_at": "2026-10-05T19:00:17.973030+00:00",
+    "weight_lbs": 2800,
+    "carrier_rate": 1000,
+    "updated_at": "2026-10-05T19:03:09.267386+00:00",
     "lane": "ALLENTOWN PA-GREENVILLE NC"
   },
   {
