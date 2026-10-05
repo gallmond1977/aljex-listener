@@ -111,11 +111,11 @@
     "del_date": "2026-10-07",
     "del_city": "DODGE CITY",
     "del_state": "KS",
-    "del_hours": "",
+    "del_hours": "0830-1630",
     "equipment": "Van",
     "weight_lbs": 36187,
     "carrier_rate": 2800,
-    "updated_at": "2026-10-05T15:22:55.501750+00:00",
+    "updated_at": "2026-10-05T15:29:58.965647+00:00",
     "lane": "COLUMBUS GA-DODGE CITY KS"
   },
   {
