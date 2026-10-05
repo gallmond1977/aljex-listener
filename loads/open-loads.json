@@ -51,6 +51,23 @@
     "lane": "OAKLAND TN-SALISBURY NC"
   },
   {
+    "pro": "50814",
+    "status": "OPEN",
+    "pu_date": "2026-10-05",
+    "pu_city": "JACKSONVILLE",
+    "pu_state": "FL",
+    "pu_hours": "1200-1600",
+    "del_date": "2026-10-06",
+    "del_city": "NORCROSS",
+    "del_state": "GA",
+    "del_hours": "0800-1200",
+    "equipment": "Flatbed Hot Shot",
+    "weight_lbs": 12260,
+    "carrier_rate": 850,
+    "updated_at": "2026-10-05T18:24:43.866366+00:00",
+    "lane": "JACKSONVILLE FL-NORCROSS GA"
+  },
+  {
     "pro": "50815",
     "status": "OPEN",
     "pu_date": "2026-10-05",
