@@ -64,7 +64,7 @@
     "equipment": "Flatbed Hot Shot",
     "weight_lbs": 12260,
     "carrier_rate": 850,
-    "updated_at": "2026-10-05T18:48:14.726923+00:00",
+    "updated_at": "2026-10-05T18:50:48.598561+00:00",
     "lane": "JACKSONVILLE FL-NORCROSS GA"
   },
   {
@@ -236,6 +236,23 @@
     "carrier_rate": 1700,
     "updated_at": "2026-10-05T17:17:24.154694+00:00",
     "lane": "BUFFALO NY-BELCAMP MD"
+  },
+  {
+    "pro": "50821",
+    "status": "OPEN",
+    "pu_date": "2026-10-06",
+    "pu_city": "ALPHARETTA",
+    "pu_state": "GA",
+    "pu_hours": "0900-1600",
+    "del_date": "2026-10-07",
+    "del_city": "MARSHALL",
+    "del_state": "VA",
+    "del_hours": "0800-1500",
+    "equipment": "Flatbed w/ Tarps",
+    "weight_lbs": 42000,
+    "carrier_rate": 2500,
+    "updated_at": "2026-10-05T18:51:05.823421+00:00",
+    "lane": "ALPHARETTA GA-MARSHALL VA"
   },
   {
     "pro": "50730",
@@ -1050,7 +1067,7 @@
     "equipment": "Van",
     "weight_lbs": 44000,
     "carrier_rate": 950,
-    "updated_at": "2026-10-05T18:48:51.592449+00:00",
+    "updated_at": "2026-10-05T18:52:46.306153+00:00",
     "lane": "WADESBORO NC-ATLANTA GA"
   },
   {
