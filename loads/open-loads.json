@@ -97,8 +97,8 @@
     "del_hours": "0800-1400",
     "equipment": "Flatbed",
     "weight_lbs": 47000,
-    "carrier_rate": 1000,
-    "updated_at": "2026-10-05T14:01:48.553299+00:00",
+    "carrier_rate": 1100,
+    "updated_at": "2026-10-05T15:43:53.232047+00:00",
     "lane": "POSEYVILLE IN-LOUISVILLE KY"
   },
   {
@@ -302,7 +302,7 @@
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 7000,
     "carrier_rate": 2000,
-    "updated_at": "2026-10-05T15:39:56.266424+00:00",
+    "updated_at": "2026-10-05T15:43:14.676125+00:00",
     "lane": "HOUSTON TX-SANFORD FL"
   },
   {
