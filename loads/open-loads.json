@@ -251,7 +251,7 @@
     "equipment": "Flatbed w/ Tarps",
     "weight_lbs": 43000,
     "carrier_rate": 2000,
-    "updated_at": "2026-10-05T15:49:51.173548+00:00",
+    "updated_at": "2026-10-05T15:52:12.727816+00:00",
     "lane": "ATHENS GA-OWENSBORO KY"
   },
   {
@@ -355,6 +355,23 @@
     "carrier_rate": 900,
     "updated_at": "2026-10-05T13:18:06.817727+00:00",
     "lane": "MOUNT PLEASANT TN-BEAN STATION TN"
+  },
+  {
+    "pro": "50812",
+    "status": "OPEN",
+    "pu_date": "2026-10-09",
+    "pu_city": "HOUSTON",
+    "pu_state": "TX",
+    "pu_hours": "0700",
+    "del_date": "2026-10-12",
+    "del_city": "SANFORD",
+    "del_state": "FL",
+    "del_hours": "0700",
+    "equipment": "26' Straight Box Truck",
+    "weight_lbs": 7000,
+    "carrier_rate": 1800,
+    "updated_at": "2026-10-05T15:52:48.402143+00:00",
+    "lane": "HOUSTON TX-SANFORD FL"
   },
   {
     "pro": "50082",
@@ -885,7 +902,7 @@
   },
   {
     "pro": "50785",
-    "status": "CONSIGNEE",
+    "status": "RELEASED",
     "pu_date": "2026-10-02",
     "pu_city": "TUSCALOOSA",
     "pu_state": "AL",
@@ -897,7 +914,7 @@
     "equipment": "Van",
     "weight_lbs": 41000,
     "carrier_rate": 1500,
-    "updated_at": "2026-10-05T14:22:39.070446+00:00",
+    "updated_at": "2026-10-05T15:51:34.574693+00:00",
     "lane": "TUSCALOOSA AL-JACKSONVILLE TX"
   },
   {
