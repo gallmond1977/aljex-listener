@@ -681,7 +681,7 @@
   },
   {
     "pro": "50661",
-    "status": "LOADED",
+    "status": "DELIVERED",
     "pu_date": "2026-09-30",
     "pu_city": "MOUNT STERLING",
     "pu_state": "KY",
@@ -693,7 +693,7 @@
     "equipment": "Van",
     "weight_lbs": 4800,
     "carrier_rate": 4400,
-    "updated_at": "2026-10-02T18:40:22.331990+00:00",
+    "updated_at": "2026-10-05T11:53:26.040046+00:00",
     "lane": "MOUNT STERLING KY-MIRA LOMA CA"
   },
   {
