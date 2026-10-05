@@ -98,7 +98,7 @@
     "equipment": "Flatbed",
     "weight_lbs": 47500,
     "carrier_rate": 6700,
-    "updated_at": "2026-10-05T17:00:23.614155+00:00",
+    "updated_at": "2026-10-05T18:30:44.974767+00:00",
     "lane": "CHEHALIS WA-ALBUQUERQUE NM"
   },
   {
@@ -270,6 +270,23 @@
     "carrier_rate": 2100,
     "updated_at": "2026-10-01T14:47:44.794753+00:00",
     "lane": "PHENIX CITY AL-HAMILTON MI"
+  },
+  {
+    "pro": "50819",
+    "status": "OPEN",
+    "pu_date": "2026-10-07",
+    "pu_city": "PLEASANT GARDEN",
+    "pu_state": "NC",
+    "pu_hours": "0800-1100",
+    "del_date": "2026-10-07",
+    "del_city": "CARY",
+    "del_state": "NC",
+    "del_hours": "0800-1400",
+    "equipment": "26' Straight Box Truck",
+    "weight_lbs": 2500,
+    "carrier_rate": 250,
+    "updated_at": "2026-10-05T18:32:59.204212+00:00",
+    "lane": "PLEASANT GARDEN NC-CARY NC"
   },
   {
     "pro": "50691",
