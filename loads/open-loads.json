@@ -34,6 +34,23 @@
     "lane": "FAIRBURN GA-SAVANNAH GA"
   },
   {
+    "pro": "50793",
+    "status": "OPEN",
+    "pu_date": "2026-10-05",
+    "pu_city": "ALPHARETTA",
+    "pu_state": "GA",
+    "pu_hours": "0900-1800",
+    "del_date": "2026-10-06",
+    "del_city": "BELCAMP",
+    "del_state": "MD",
+    "del_hours": "0700-1500",
+    "equipment": "Conestoga",
+    "weight_lbs": 42000,
+    "carrier_rate": 3300,
+    "updated_at": "2026-10-05T12:51:59.032312+00:00",
+    "lane": "ALPHARETTA GA-BELCAMP MD"
+  },
+  {
     "pro": "50794",
     "status": "OPEN",
     "pu_date": "2026-10-05",
@@ -94,11 +111,11 @@
     "del_date": "2026-10-06",
     "del_city": "WILLIAMSON",
     "del_state": "WV",
-    "del_hours": "0800",
+    "del_hours": "0800-1600",
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 2500,
     "carrier_rate": 800,
-    "updated_at": "2026-10-02T19:28:34.434860+00:00",
+    "updated_at": "2026-10-05T12:55:08.837887+00:00",
     "lane": "WINCHESTER KY-WILLIAMSON WV"
   },
   {
@@ -311,15 +328,15 @@
     "pu_date": "2026-10-08",
     "pu_city": "ATLANTA",
     "pu_state": "GA",
-    "pu_hours": "NEEDED",
+    "pu_hours": "1500",
     "del_date": "2026-10-08",
     "del_city": "FOREST PARK",
     "del_state": "GA",
     "del_hours": "2200",
     "equipment": "Reefer",
     "weight_lbs": 30416,
-    "carrier_rate": null,
-    "updated_at": "2026-10-02T21:46:37.812564+00:00",
+    "carrier_rate": 450,
+    "updated_at": "2026-10-05T12:52:54.176817+00:00",
     "lane": "ATLANTA GA-FOREST PARK GA"
   },
   {
