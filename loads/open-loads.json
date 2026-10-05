@@ -51,23 +51,6 @@
     "lane": "OAKLAND TN-SALISBURY NC"
   },
   {
-    "pro": "50806",
-    "status": "OPEN",
-    "pu_date": "2026-10-05",
-    "pu_city": "AUBURN",
-    "pu_state": "AL",
-    "pu_hours": "0800-1500",
-    "del_date": "2026-10-06",
-    "del_city": "HOUSTON",
-    "del_state": "TX",
-    "del_hours": "0700-1500",
-    "equipment": "26' Straight Box Truck",
-    "weight_lbs": 9194,
-    "carrier_rate": 950,
-    "updated_at": "2026-10-05T16:15:56.280882+00:00",
-    "lane": "AUBURN AL-HOUSTON TX"
-  },
-  {
     "pro": "50808",
     "status": "OPEN",
     "pu_date": "2026-10-05",
@@ -731,23 +714,6 @@
     "lane": "MONTGOMERY AL-AUGUSTA GA"
   },
   {
-    "pro": "50660",
-    "status": "RELEASED",
-    "pu_date": "2026-09-25",
-    "pu_city": "AUBURN",
-    "pu_state": "AL",
-    "pu_hours": "0800-1500",
-    "del_date": "2026-09-28",
-    "del_city": "HOUSTON",
-    "del_state": "TX",
-    "del_hours": "0800-1400",
-    "equipment": "26' Straight Box Truck",
-    "weight_lbs": 10467,
-    "carrier_rate": 1200,
-    "updated_at": "2026-09-29T16:02:05.977469+00:00",
-    "lane": "AUBURN AL-HOUSTON TX"
-  },
-  {
     "pro": "50687",
     "status": "RELEASED",
     "pu_date": "2026-09-25",
@@ -1055,7 +1021,7 @@
   },
   {
     "pro": "50775",
-    "status": "COVERED",
+    "status": "DISPATCHED",
     "pu_date": "2026-10-05",
     "pu_city": "WADESBORO",
     "pu_state": "NC",
@@ -1067,7 +1033,7 @@
     "equipment": "Van",
     "weight_lbs": 44000,
     "carrier_rate": 950,
-    "updated_at": "2026-10-05T16:48:31.054355+00:00",
+    "updated_at": "2026-10-05T17:07:02.437954+00:00",
     "lane": "WADESBORO NC-ATLANTA GA"
   },
   {
