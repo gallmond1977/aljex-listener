@@ -102,23 +102,6 @@
     "lane": "BENSENVILLE IL-BELCAMP MD"
   },
   {
-    "pro": "50802",
-    "status": "OPEN",
-    "pu_date": "2026-10-05",
-    "pu_city": "WINCHESTER",
-    "pu_state": "KY",
-    "pu_hours": "0700-1400",
-    "del_date": "2026-10-06",
-    "del_city": "WILLIAMSON",
-    "del_state": "WV",
-    "del_hours": "0800-1600",
-    "equipment": "26' Straight Box Truck",
-    "weight_lbs": 2500,
-    "carrier_rate": 800,
-    "updated_at": "2026-10-05T12:55:08.837887+00:00",
-    "lane": "WINCHESTER KY-WILLIAMSON WV"
-  },
-  {
     "pro": "50804",
     "status": "OPEN",
     "pu_date": "2026-10-05",
@@ -151,6 +134,23 @@
     "carrier_rate": 2100,
     "updated_at": "2026-10-05T12:49:07.473724+00:00",
     "lane": "OAKLAND TN-PHENIX CITY AL"
+  },
+  {
+    "pro": "50806",
+    "status": "OPEN",
+    "pu_date": "2026-10-05",
+    "pu_city": "AUBURN",
+    "pu_state": "AL",
+    "pu_hours": "0800-1500",
+    "del_date": "2026-10-06",
+    "del_city": "HOUSTON",
+    "del_state": "TX",
+    "del_hours": "0800-1400",
+    "equipment": "26' Straight Box Truck",
+    "weight_lbs": 9194,
+    "carrier_rate": 900,
+    "updated_at": "2026-10-05T13:00:16.248381+00:00",
+    "lane": "AUBURN AL-HOUSTON TX"
   },
   {
     "pro": "50700",
@@ -661,6 +661,23 @@
     "carrier_rate": 580,
     "updated_at": "2026-09-30T13:23:34.659940+00:00",
     "lane": "ATLANTA GA-FOREST PARK GA"
+  },
+  {
+    "pro": "50660",
+    "status": "RELEASED",
+    "pu_date": "2026-09-25",
+    "pu_city": "AUBURN",
+    "pu_state": "AL",
+    "pu_hours": "0800-1500",
+    "del_date": "2026-09-28",
+    "del_city": "HOUSTON",
+    "del_state": "TX",
+    "del_hours": "0800-1400",
+    "equipment": "26' Straight Box Truck",
+    "weight_lbs": 10467,
+    "carrier_rate": 1200,
+    "updated_at": "2026-09-29T16:02:05.977469+00:00",
+    "lane": "AUBURN AL-HOUSTON TX"
   },
   {
     "pro": "50687",
