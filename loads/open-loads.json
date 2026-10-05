@@ -64,7 +64,7 @@
     "equipment": "Flatbed Hot Shot",
     "weight_lbs": 12260,
     "carrier_rate": 850,
-    "updated_at": "2026-10-05T18:50:48.598561+00:00",
+    "updated_at": "2026-10-05T18:59:29.229855+00:00",
     "lane": "JACKSONVILLE FL-NORCROSS GA"
   },
   {
@@ -336,7 +336,7 @@
     "equipment": "Flatbed Hot Shot",
     "weight_lbs": 1,
     "carrier_rate": null,
-    "updated_at": "2026-09-25T15:56:42.772808+00:00",
+    "updated_at": "2026-10-05T19:00:17.973030+00:00",
     "lane": "ALLENTOWN PA-GREENVILLE NC"
   },
   {
@@ -474,6 +474,23 @@
     "carrier_rate": 200,
     "updated_at": "2026-10-05T17:10:53.025485+00:00",
     "lane": "RICHMOND VA-RICHMOND VA"
+  },
+  {
+    "pro": "50822",
+    "status": "OPEN",
+    "pu_date": "2026-10-15",
+    "pu_city": "BELCAMP",
+    "pu_state": "MD",
+    "pu_hours": "0700-1500",
+    "del_date": "2026-10-19",
+    "del_city": "EL PASO",
+    "del_state": "TX",
+    "del_hours": "CALL!!",
+    "equipment": "Van",
+    "weight_lbs": 8000,
+    "carrier_rate": null,
+    "updated_at": "2026-10-05T18:59:36.575286+00:00",
+    "lane": "BELCAMP MD-EL PASO TX"
   },
   {
     "pro": "50541",
