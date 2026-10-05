@@ -85,23 +85,6 @@
     "lane": "CHEHALIS WA-ALBUQUERQUE NM"
   },
   {
-    "pro": "50818",
-    "status": "OPEN",
-    "pu_date": "2026-10-05",
-    "pu_city": "ANAHEIM",
-    "pu_state": "CA",
-    "pu_hours": "1200",
-    "del_date": "2026-10-05",
-    "del_city": "ANAHEIM",
-    "del_state": "CA",
-    "del_hours": "0800-1500",
-    "equipment": "26' Straight Box Truck",
-    "weight_lbs": 1000,
-    "carrier_rate": 300,
-    "updated_at": "2026-10-05T17:44:31.180570+00:00",
-    "lane": "ANAHEIM CA-ANAHEIM CA"
-  },
-  {
     "pro": "49852",
     "status": "OPEN",
     "pu_date": "2026-10-06",
