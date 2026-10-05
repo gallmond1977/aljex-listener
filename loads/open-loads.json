@@ -119,6 +119,23 @@
     "lane": "OAKLAND TN-SALISBURY NC"
   },
   {
+    "pro": "50805",
+    "status": "OPEN",
+    "pu_date": "2026-10-05",
+    "pu_city": "OAKLAND",
+    "pu_state": "TN",
+    "pu_hours": "0800-1500",
+    "del_date": "2026-10-06",
+    "del_city": "PHENIX CITY",
+    "del_state": "AL",
+    "del_hours": "0700-1000",
+    "equipment": "Van Hazmat",
+    "weight_lbs": 44940,
+    "carrier_rate": 2100,
+    "updated_at": "2026-10-05T12:39:44.740188+00:00",
+    "lane": "OAKLAND TN-PHENIX CITY AL"
+  },
+  {
     "pro": "50700",
     "status": "OPEN",
     "pu_date": "2026-10-06",
@@ -714,6 +731,23 @@
     "lane": "MOUNT STERLING KY-MIRA LOMA CA"
   },
   {
+    "pro": "50703",
+    "status": "DELIVERED",
+    "pu_date": "2026-09-30",
+    "pu_city": "OAKLAND",
+    "pu_state": "TN",
+    "pu_hours": "0800-1500",
+    "del_date": "2026-10-01",
+    "del_city": "PHENIX CITY",
+    "del_state": "AL",
+    "del_hours": "0700-1000",
+    "equipment": "Van Hazmat",
+    "weight_lbs": 44940,
+    "carrier_rate": 2600,
+    "updated_at": "2026-10-01T19:31:20.981183+00:00",
+    "lane": "OAKLAND TN-PHENIX CITY AL"
+  },
+  {
     "pro": "50720",
     "status": "DELIVERED",
     "pu_date": "2026-09-30",
@@ -897,7 +931,7 @@
     "equipment": "Van",
     "weight_lbs": 43438,
     "carrier_rate": 2100,
-    "updated_at": "2026-10-02T12:16:16.075675+00:00",
+    "updated_at": "2026-10-05T12:36:21.239351+00:00",
     "lane": "GARLAND TX-CALHOUN GA"
   }
 ]
