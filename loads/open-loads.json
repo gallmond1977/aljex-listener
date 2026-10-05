@@ -68,23 +68,6 @@
     "lane": "OAKLAND TN-SALISBURY NC"
   },
   {
-    "pro": "50805",
-    "status": "OPEN",
-    "pu_date": "2026-10-05",
-    "pu_city": "OAKLAND",
-    "pu_state": "TN",
-    "pu_hours": "0800-1500",
-    "del_date": "2026-10-06",
-    "del_city": "PHENIX CITY",
-    "del_state": "AL",
-    "del_hours": "0700-1000",
-    "equipment": "Van Hazmat",
-    "weight_lbs": 44940,
-    "carrier_rate": 2400,
-    "updated_at": "2026-10-05T14:45:07.378085+00:00",
-    "lane": "OAKLAND TN-PHENIX CITY AL"
-  },
-  {
     "pro": "50806",
     "status": "OPEN",
     "pu_date": "2026-10-05",
@@ -712,23 +695,6 @@
     "carrier_rate": 4400,
     "updated_at": "2026-10-05T12:00:54.904387+00:00",
     "lane": "MOUNT STERLING KY-MIRA LOMA CA"
-  },
-  {
-    "pro": "50703",
-    "status": "RELEASED",
-    "pu_date": "2026-09-30",
-    "pu_city": "OAKLAND",
-    "pu_state": "TN",
-    "pu_hours": "0800-1500",
-    "del_date": "2026-10-01",
-    "del_city": "PHENIX CITY",
-    "del_state": "AL",
-    "del_hours": "0700-1000",
-    "equipment": "Van Hazmat",
-    "weight_lbs": 44940,
-    "carrier_rate": 2600,
-    "updated_at": "2026-10-05T13:41:41.070205+00:00",
-    "lane": "OAKLAND TN-PHENIX CITY AL"
   },
   {
     "pro": "50720",
