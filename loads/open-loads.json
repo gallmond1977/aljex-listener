@@ -283,9 +283,9 @@
     "del_state": "NC",
     "del_hours": "0800-1400",
     "equipment": "26' Straight Box Truck",
-    "weight_lbs": 2500,
+    "weight_lbs": 650,
     "carrier_rate": 250,
-    "updated_at": "2026-10-05T18:32:59.204212+00:00",
+    "updated_at": "2026-10-05T18:41:15.163011+00:00",
     "lane": "PLEASANT GARDEN NC-CARY NC"
   },
   {
@@ -370,7 +370,7 @@
     "equipment": "Van",
     "weight_lbs": 40949,
     "carrier_rate": 2000,
-    "updated_at": "2026-10-05T18:36:30.146694+00:00",
+    "updated_at": "2026-10-05T18:45:06.746426+00:00",
     "lane": "GARLAND TX-CALHOUN GA"
   },
   {
