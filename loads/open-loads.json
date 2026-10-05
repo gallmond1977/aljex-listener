@@ -255,23 +255,6 @@
     "lane": "PHENIX CITY AL-HAMILTON MI"
   },
   {
-    "pro": "50811",
-    "status": "OPEN",
-    "pu_date": "2026-10-07",
-    "pu_city": "ATHENS",
-    "pu_state": "GA",
-    "pu_hours": "",
-    "del_date": "2026-10-08",
-    "del_city": "OWENSBORO",
-    "del_state": "KY",
-    "del_hours": "0800-1500",
-    "equipment": "Flatbed w/ Tarps",
-    "weight_lbs": 43000,
-    "carrier_rate": 2000,
-    "updated_at": "2026-10-05T18:09:54.257940+00:00",
-    "lane": "ATHENS GA-OWENSBORO KY"
-  },
-  {
     "pro": "50691",
     "status": "OPEN",
     "pu_date": "2026-10-08",
