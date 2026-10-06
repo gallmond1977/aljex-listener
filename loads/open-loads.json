@@ -64,7 +64,7 @@
     "equipment": "Van Hazmat",
     "weight_lbs": 44900,
     "carrier_rate": 2800,
-    "updated_at": "2026-10-06T12:13:53.713990+00:00",
+    "updated_at": "2026-10-06T12:27:55.633542+00:00",
     "lane": "OAKLAND TN-SALISBURY NC"
   },
   {
@@ -170,23 +170,6 @@
     "lane": "COLUMBUS GA-ATLANTA GA"
   },
   {
-    "pro": "50828",
-    "status": "OPEN",
-    "pu_date": "2026-10-06",
-    "pu_city": "WILMINGTON",
-    "pu_state": "NC",
-    "pu_hours": "0800-1500",
-    "del_date": "2026-10-07",
-    "del_city": "FLETCHER",
-    "del_state": "NC",
-    "del_hours": "0700-1100",
-    "equipment": "Flatbed Hot Shot",
-    "weight_lbs": 2800,
-    "carrier_rate": 900,
-    "updated_at": "2026-10-06T12:19:31.547767+00:00",
-    "lane": "WILMINGTON NC-FLETCHER NC"
-  },
-  {
     "pro": "50829",
     "status": "OPEN",
     "pu_date": "2026-10-06",
@@ -200,7 +183,7 @@
     "equipment": "Van",
     "weight_lbs": 15001,
     "carrier_rate": 1000,
-    "updated_at": "2026-10-06T12:24:50.645769+00:00",
+    "updated_at": "2026-10-06T12:27:00.759649+00:00",
     "lane": "MOUNT PLEASANT TN-LAWRENCEVILLE GA"
   },
   {
