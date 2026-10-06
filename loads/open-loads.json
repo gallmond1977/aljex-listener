@@ -17,40 +17,6 @@
     "lane": "WINCHESTER KY-JACKSONVILLE FL"
   },
   {
-    "pro": "50796",
-    "status": "OPEN",
-    "pu_date": "2026-10-07",
-    "pu_city": "WINCHESTER",
-    "pu_state": "KY",
-    "pu_hours": "REQ",
-    "del_date": "",
-    "del_city": "JOLIET",
-    "del_state": "IL",
-    "del_hours": "",
-    "equipment": "Van",
-    "weight_lbs": 14580,
-    "carrier_rate": 1000,
-    "updated_at": "2026-10-06T11:40:32.335645+00:00",
-    "lane": "WINCHESTER KY-JOLIET IL"
-  },
-  {
-    "pro": "50797",
-    "status": "OPEN",
-    "pu_date": "2026-10-07",
-    "pu_city": "WINCHESTER",
-    "pu_state": "KY",
-    "pu_hours": "REQ",
-    "del_date": "2026-10-06",
-    "del_city": "JOLIET",
-    "del_state": "IL",
-    "del_hours": "1300",
-    "equipment": "Van",
-    "weight_lbs": 12480,
-    "carrier_rate": 1000,
-    "updated_at": "2026-10-05T20:17:20.677368+00:00",
-    "lane": "WINCHESTER KY-JOLIET IL"
-  },
-  {
     "pro": "50815",
     "status": "OPEN",
     "pu_date": "2026-10-07",
@@ -132,7 +98,7 @@
     "equipment": "Van",
     "weight_lbs": 42000,
     "carrier_rate": 3600,
-    "updated_at": "2026-10-06T20:09:57.866563+00:00",
+    "updated_at": "2026-10-06T20:14:47.022758+00:00",
     "lane": "RICE LAKE WI-PINE APPLE AL"
   },
   {
@@ -168,6 +134,40 @@
     "carrier_rate": 450,
     "updated_at": "2026-10-05T20:19:23.753563+00:00",
     "lane": "ATLANTA GA-FOREST PARK GA"
+  },
+  {
+    "pro": "50796",
+    "status": "OPEN",
+    "pu_date": "2026-10-08",
+    "pu_city": "WINCHESTER",
+    "pu_state": "KY",
+    "pu_hours": "REQ",
+    "del_date": "",
+    "del_city": "JOLIET",
+    "del_state": "IL",
+    "del_hours": "",
+    "equipment": "Van",
+    "weight_lbs": 14580,
+    "carrier_rate": 1000,
+    "updated_at": "2026-10-06T20:12:02.069085+00:00",
+    "lane": "WINCHESTER KY-JOLIET IL"
+  },
+  {
+    "pro": "50797",
+    "status": "OPEN",
+    "pu_date": "2026-10-08",
+    "pu_city": "WINCHESTER",
+    "pu_state": "KY",
+    "pu_hours": "REQ",
+    "del_date": "",
+    "del_city": "JOLIET",
+    "del_state": "IL",
+    "del_hours": "",
+    "equipment": "Van",
+    "weight_lbs": 12480,
+    "carrier_rate": 1000,
+    "updated_at": "2026-10-06T20:12:43.247892+00:00",
+    "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
     "pro": "50810",
@@ -247,11 +247,11 @@
     "del_date": "2026-10-08",
     "del_city": "JOHNSON CITY",
     "del_state": "TN",
-    "del_hours": "CALL",
+    "del_hours": "CALL!",
     "equipment": "Van",
     "weight_lbs": 12000,
     "carrier_rate": 1100,
-    "updated_at": "2026-10-06T20:00:18.407477+00:00",
+    "updated_at": "2026-10-06T20:12:01.951436+00:00",
     "lane": "COLUMBUS GA-JOHNSON CITY TN"
   },
   {
@@ -354,6 +354,23 @@
     "weight_lbs": 43317,
     "carrier_rate": 1500,
     "updated_at": "2026-10-06T20:09:31.512430+00:00",
+    "lane": "ATHENS AL-GULFPORT MS"
+  },
+  {
+    "pro": "50850",
+    "status": "OPEN",
+    "pu_date": "2026-10-12",
+    "pu_city": "ATHENS",
+    "pu_state": "AL",
+    "pu_hours": "0700-1500",
+    "del_date": "2026-10-13",
+    "del_city": "GULFPORT",
+    "del_state": "MS",
+    "del_hours": "0700-1030",
+    "equipment": "Van",
+    "weight_lbs": 43158,
+    "carrier_rate": 1500,
+    "updated_at": "2026-10-06T20:11:06.604390+00:00",
     "lane": "ATHENS AL-GULFPORT MS"
   },
   {
