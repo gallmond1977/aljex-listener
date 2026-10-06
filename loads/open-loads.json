@@ -64,7 +64,7 @@
     "equipment": "Van Hazmat",
     "weight_lbs": 44900,
     "carrier_rate": 3000,
-    "updated_at": "2026-10-06T13:57:16.000968+00:00",
+    "updated_at": "2026-10-06T14:04:04.429287+00:00",
     "lane": "OAKLAND TN-SALISBURY NC"
   },
   {
@@ -987,7 +987,7 @@
   },
   {
     "pro": "50677",
-    "status": "LOADED",
+    "status": "CONSIGNEE",
     "pu_date": "2026-10-05",
     "pu_city": "GARLAND",
     "pu_state": "TX",
@@ -999,7 +999,7 @@
     "equipment": "Van",
     "weight_lbs": 43438,
     "carrier_rate": 2100,
-    "updated_at": "2026-10-06T13:44:57.140305+00:00",
+    "updated_at": "2026-10-06T14:02:18.241627+00:00",
     "lane": "GARLAND TX-CALHOUN GA"
   },
   {
