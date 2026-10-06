@@ -68,23 +68,6 @@
     "lane": "OAKLAND TN-SALISBURY NC"
   },
   {
-    "pro": "50808",
-    "status": "OPEN",
-    "pu_date": "2026-10-06",
-    "pu_city": "POSEYVILLE",
-    "pu_state": "IN",
-    "pu_hours": "0700-1400",
-    "del_date": "2026-10-06",
-    "del_city": "LOUISVILLE",
-    "del_state": "KY",
-    "del_hours": "0800-1400",
-    "equipment": "Flatbed",
-    "weight_lbs": 47000,
-    "carrier_rate": 1150,
-    "updated_at": "2026-10-05T21:03:00.703847+00:00",
-    "lane": "POSEYVILLE IN-LOUISVILLE KY"
-  },
-  {
     "pro": "50815",
     "status": "OPEN",
     "pu_date": "2026-10-06",
@@ -158,7 +141,7 @@
     "pu_date": "2026-10-06",
     "pu_city": "COLUMBUS",
     "pu_state": "GA",
-    "pu_hours": "1030",
+    "pu_hours": "1030-1100",
     "del_date": "2026-10-06",
     "del_city": "ATLANTA",
     "del_state": "GA",
@@ -166,7 +149,7 @@
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 9000,
     "carrier_rate": 300,
-    "updated_at": "2026-10-05T20:48:10.685653+00:00",
+    "updated_at": "2026-10-06T13:24:56.301569+00:00",
     "lane": "COLUMBUS GA-ATLANTA GA"
   },
   {
