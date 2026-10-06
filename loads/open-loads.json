@@ -85,6 +85,23 @@
     "lane": "GAINESVILLE GA-CULLMAN AL"
   },
   {
+    "pro": "50845",
+    "status": "OPEN",
+    "pu_date": "2026-10-06",
+    "pu_city": "AUBURN",
+    "pu_state": "AL",
+    "pu_hours": "0800-1500",
+    "del_date": "2026-10-07",
+    "del_city": "MORRILTON",
+    "del_state": "AR",
+    "del_hours": "0700-1300",
+    "equipment": "Van",
+    "weight_lbs": 40771,
+    "carrier_rate": 1200,
+    "updated_at": "2026-10-06T17:04:40.380372+00:00",
+    "lane": "AUBURN AL-MORRILTON AR"
+  },
+  {
     "pro": "50730",
     "status": "OPEN",
     "pu_date": "2026-10-07",
@@ -333,10 +350,10 @@
     "del_city": "WINSTON SALEM",
     "del_state": "NC",
     "del_hours": "0800-1200",
-    "equipment": "Sprinter Van",
-    "weight_lbs": 500,
-    "carrier_rate": 450,
-    "updated_at": "2026-10-06T16:57:06.242037+00:00",
+    "equipment": "26' Straight Box Truck",
+    "weight_lbs": 2800,
+    "carrier_rate": 500,
+    "updated_at": "2026-10-06T17:02:13.525600+00:00",
     "lane": "MACON GA-WINSTON SALEM NC"
   },
   {
