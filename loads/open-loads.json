@@ -1,22 +1,5 @@
 [
   {
-    "pro": "50794",
-    "status": "OPEN",
-    "pu_date": "2026-10-06",
-    "pu_city": "WADESBORO",
-    "pu_state": "NC",
-    "pu_hours": "0730-1630",
-    "del_date": "2026-10-07",
-    "del_city": "ATLANTA",
-    "del_state": "GA",
-    "del_hours": "0800-1600",
-    "equipment": "Van",
-    "weight_lbs": 44000,
-    "carrier_rate": 900,
-    "updated_at": "2026-10-05T19:46:07.008882+00:00",
-    "lane": "WADESBORO NC-ATLANTA GA"
-  },
-  {
     "pro": "50815",
     "status": "OPEN",
     "pu_date": "2026-10-06",
@@ -389,6 +372,23 @@
     "carrier_rate": 1800,
     "updated_at": "2026-10-06T14:54:51.727771+00:00",
     "lane": "GARLAND TX-CALHOUN GA"
+  },
+  {
+    "pro": "50846",
+    "status": "OPEN",
+    "pu_date": "2026-10-15",
+    "pu_city": "RICHMOND",
+    "pu_state": "VA",
+    "pu_hours": "0730-0800",
+    "del_date": "2026-10-15",
+    "del_city": "MIDLOTHIAN",
+    "del_state": "VA",
+    "del_hours": "0900-1200",
+    "equipment": "Flatbed",
+    "weight_lbs": 18800,
+    "carrier_rate": 500,
+    "updated_at": "2026-10-06T18:09:59.607556+00:00",
+    "lane": "RICHMOND VA-MIDLOTHIAN VA"
   },
   {
     "pro": "50541",
@@ -901,23 +901,6 @@
     "lane": "GARLAND TX-CALHOUN GA"
   },
   {
-    "pro": "50775",
-    "status": "LOADED",
-    "pu_date": "2026-10-05",
-    "pu_city": "WADESBORO",
-    "pu_state": "NC",
-    "pu_hours": "0730-1630",
-    "del_date": "2026-10-06",
-    "del_city": "ATLANTA",
-    "del_state": "GA",
-    "del_hours": "0800-1600",
-    "equipment": "Van",
-    "weight_lbs": 44000,
-    "carrier_rate": 950,
-    "updated_at": "2026-10-06T15:32:33.987799+00:00",
-    "lane": "WADESBORO NC-ATLANTA GA"
-  },
-  {
     "pro": "50801",
     "status": "DELIVERED",
     "pu_date": "2026-10-05",
@@ -933,23 +916,6 @@
     "carrier_rate": 2800,
     "updated_at": "2026-10-06T12:30:15.894572+00:00",
     "lane": "BENSENVILLE IL-BELCAMP MD"
-  },
-  {
-    "pro": "50795",
-    "status": "COVERED",
-    "pu_date": "2026-10-06",
-    "pu_city": "WADESBORO",
-    "pu_state": "NC",
-    "pu_hours": "0730-1630",
-    "del_date": "2026-10-07",
-    "del_city": "ATLANTA",
-    "del_state": "GA",
-    "del_hours": "0800-1600",
-    "equipment": "Van",
-    "weight_lbs": 44000,
-    "carrier_rate": 900,
-    "updated_at": "2026-10-06T18:04:48.404229+00:00",
-    "lane": "WADESBORO NC-ATLANTA GA"
   },
   {
     "pro": "50816",
