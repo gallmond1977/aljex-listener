@@ -158,15 +158,15 @@
     "pu_date": "2026-10-07",
     "pu_city": "PHENIX CITY",
     "pu_state": "AL",
-    "pu_hours": "1200-1500",
+    "pu_hours": "0800-1500",
     "del_date": "2026-10-08",
     "del_city": "HAMILTON",
     "del_state": "MI",
     "del_hours": "0700",
     "equipment": "Van",
-    "weight_lbs": 41000,
-    "carrier_rate": 2100,
-    "updated_at": "2026-10-06T14:08:49.644517+00:00",
+    "weight_lbs": 38000,
+    "carrier_rate": 2000,
+    "updated_at": "2026-10-06T14:54:13.393235+00:00",
     "lane": "PHENIX CITY AL-HAMILTON MI"
   },
   {
@@ -489,7 +489,7 @@
     "equipment": "Van",
     "weight_lbs": 36600,
     "carrier_rate": 1800,
-    "updated_at": "2026-10-06T14:49:48.147131+00:00",
+    "updated_at": "2026-10-06T14:54:51.727771+00:00",
     "lane": "GARLAND TX-CALHOUN GA"
   },
   {
