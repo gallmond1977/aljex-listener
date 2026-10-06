@@ -98,7 +98,7 @@
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 4900,
     "carrier_rate": 500,
-    "updated_at": "2026-10-06T15:04:49.604625+00:00",
+    "updated_at": "2026-10-06T15:25:06.783072+00:00",
     "lane": "GAINESVILLE GA-CULLMAN AL"
   },
   {
@@ -1055,7 +1055,7 @@
   },
   {
     "pro": "50677",
-    "status": "CONSIGNEE",
+    "status": "DELIVERED",
     "pu_date": "2026-10-05",
     "pu_city": "GARLAND",
     "pu_state": "TX",
@@ -1067,7 +1067,7 @@
     "equipment": "Van",
     "weight_lbs": 43438,
     "carrier_rate": 2100,
-    "updated_at": "2026-10-06T14:02:18.241627+00:00",
+    "updated_at": "2026-10-06T15:21:44.042476+00:00",
     "lane": "GARLAND TX-CALHOUN GA"
   },
   {
