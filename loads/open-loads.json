@@ -64,7 +64,7 @@
     "equipment": "Van Hazmat",
     "weight_lbs": 44900,
     "carrier_rate": 2800,
-    "updated_at": "2026-10-05T20:17:38.003019+00:00",
+    "updated_at": "2026-10-06T12:08:10.106248+00:00",
     "lane": "OAKLAND TN-SALISBURY NC"
   },
   {
@@ -270,6 +270,23 @@
     "carrier_rate": 2500,
     "updated_at": "2026-10-05T18:49:57.003202+00:00",
     "lane": "ALPHARETTA GA-MARSHALL VA"
+  },
+  {
+    "pro": "50827",
+    "status": "OPEN",
+    "pu_date": "2026-10-07",
+    "pu_city": "OPELIKA",
+    "pu_state": "AL",
+    "pu_hours": "1200-1500",
+    "del_date": "2026-10-07",
+    "del_city": "COLUMBIA",
+    "del_state": "AL",
+    "del_hours": "0530-1900",
+    "equipment": "Flatbed",
+    "weight_lbs": 47000,
+    "carrier_rate": null,
+    "updated_at": "2026-10-06T12:07:06.113903+00:00",
+    "lane": "OPELIKA AL-COLUMBIA AL"
   },
   {
     "pro": "50691",
@@ -950,6 +967,23 @@
     "carrier_rate": 2450,
     "updated_at": "2026-10-01T16:40:20.432308+00:00",
     "lane": "OAKLAND TN-SALISBURY NC"
+  },
+  {
+    "pro": "50734",
+    "status": "RELEASED",
+    "pu_date": "2026-10-01",
+    "pu_city": "OPELIKA",
+    "pu_state": "AL",
+    "pu_hours": "1200-1500",
+    "del_date": "2026-10-01",
+    "del_city": "COLUMBIA",
+    "del_state": "AL",
+    "del_hours": "0530-1900",
+    "equipment": "Flatbed",
+    "weight_lbs": 47000,
+    "carrier_rate": 1000,
+    "updated_at": "2026-10-01T19:18:32.009886+00:00",
+    "lane": "OPELIKA AL-COLUMBIA AL"
   },
   {
     "pro": "50765",
