@@ -176,14 +176,14 @@
     "pu_city": "WINCHESTER",
     "pu_state": "KY",
     "pu_hours": "1200-1500",
-    "del_date": "",
+    "del_date": "2026-10-08",
     "del_city": "JACKSONVILLE",
     "del_state": "FL",
-    "del_hours": "",
+    "del_hours": "2200",
     "equipment": "Van",
     "weight_lbs": 4000,
     "carrier_rate": 2800,
-    "updated_at": "2026-10-05T20:40:29.721284+00:00",
+    "updated_at": "2026-10-06T11:58:31.795009+00:00",
     "lane": "WINCHESTER KY-JACKSONVILLE FL"
   },
   {
