@@ -187,23 +187,6 @@
     "lane": "MOUNT PLEASANT TN-LAWRENCEVILLE GA"
   },
   {
-    "pro": "50830",
-    "status": "OPEN",
-    "pu_date": "2026-10-06",
-    "pu_city": "HICKORY",
-    "pu_state": "NC",
-    "pu_hours": "0800-1400",
-    "del_date": "2026-10-06",
-    "del_city": "WEST UNION",
-    "del_state": "SC",
-    "del_hours": "0800-1500",
-    "equipment": "26' Straight Box Truck",
-    "weight_lbs": 1100,
-    "carrier_rate": 300,
-    "updated_at": "2026-10-06T12:41:04.054518+00:00",
-    "lane": "HICKORY NC-WEST UNION SC"
-  },
-  {
     "pro": "50832",
     "status": "OPEN",
     "pu_date": "2026-10-06",
@@ -221,21 +204,21 @@
     "lane": "LENOIR CITY TN-KNOXVILLE TN"
   },
   {
-    "pro": "50833",
+    "pro": "50834",
     "status": "OPEN",
     "pu_date": "2026-10-06",
-    "pu_city": "LINCOLN",
-    "pu_state": "NE",
-    "pu_hours": "0730-1530",
+    "pu_city": "BELCAMP",
+    "pu_state": "MD",
+    "pu_hours": "1200-1500",
     "del_date": "2026-10-08",
-    "del_city": "AUGUSTA",
-    "del_state": "GA",
-    "del_hours": "0800-1600",
-    "equipment": "Flatbed Hot Shot",
-    "weight_lbs": 12348,
-    "carrier_rate": 2600,
-    "updated_at": "2026-10-06T13:04:15.117176+00:00",
-    "lane": "LINCOLN NE-AUGUSTA GA"
+    "del_city": "CARROLLTON",
+    "del_state": "TX",
+    "del_hours": "0700",
+    "equipment": "Sprinter Van",
+    "weight_lbs": 2000,
+    "carrier_rate": null,
+    "updated_at": "2026-10-06T13:09:29.449491+00:00",
+    "lane": "BELCAMP MD-CARROLLTON TX"
   },
   {
     "pro": "50730",
