@@ -204,23 +204,6 @@
     "lane": "HICKORY NC-WEST UNION SC"
   },
   {
-    "pro": "50831",
-    "status": "OPEN",
-    "pu_date": "2026-10-06",
-    "pu_city": "COLUMBUS",
-    "pu_state": "GA",
-    "pu_hours": "0800-1200",
-    "del_date": "2026-10-07",
-    "del_city": "SAINT LOUIS",
-    "del_state": "MO",
-    "del_hours": "0800-1500",
-    "equipment": "Van",
-    "weight_lbs": 26434,
-    "carrier_rate": 1400,
-    "updated_at": "2026-10-06T12:53:46.679274+00:00",
-    "lane": "COLUMBUS GA-SAINT LOUIS MO"
-  },
-  {
     "pro": "50832",
     "status": "OPEN",
     "pu_date": "2026-10-06",
@@ -234,8 +217,25 @@
     "equipment": "Sprinter Van",
     "weight_lbs": 200,
     "carrier_rate": null,
-    "updated_at": "2026-10-06T12:59:30.184727+00:00",
+    "updated_at": "2026-10-06T13:01:54.261348+00:00",
     "lane": "LENOIR CITY TN-KNOXVILLE TN"
+  },
+  {
+    "pro": "50833",
+    "status": "OPEN",
+    "pu_date": "2026-10-06",
+    "pu_city": "LINCOLN",
+    "pu_state": "NE",
+    "pu_hours": "0730-1530",
+    "del_date": "2026-10-08",
+    "del_city": "AUGUSTA",
+    "del_state": "GA",
+    "del_hours": "0800-1600",
+    "equipment": "Flatbed Hot Shot",
+    "weight_lbs": 12348,
+    "carrier_rate": 2600,
+    "updated_at": "2026-10-06T13:04:15.117176+00:00",
+    "lane": "LINCOLN NE-AUGUSTA GA"
   },
   {
     "pro": "50730",
@@ -442,23 +442,6 @@
     "lane": "GREENVILLE NC-WILSON NC"
   },
   {
-    "pro": "50758",
-    "status": "OPEN",
-    "pu_date": "2026-10-09",
-    "pu_city": "GARLAND",
-    "pu_state": "TX",
-    "pu_hours": "ON HOLD",
-    "del_date": "2026-10-12",
-    "del_city": "CALHOUN",
-    "del_state": "GA",
-    "del_hours": "0730-1400",
-    "equipment": "Van",
-    "weight_lbs": 40949,
-    "carrier_rate": 2000,
-    "updated_at": "2026-10-05T18:46:36.345377+00:00",
-    "lane": "GARLAND TX-CALHOUN GA"
-  },
-  {
     "pro": "50803",
     "status": "OPEN",
     "pu_date": "2026-10-09",
@@ -525,6 +508,23 @@
     "carrier_rate": 200,
     "updated_at": "2026-09-21T15:21:49.835330+00:00",
     "lane": "RICHMOND VA-RICHMOND VA"
+  },
+  {
+    "pro": "50758",
+    "status": "OPEN",
+    "pu_date": "2026-10-13",
+    "pu_city": "GARLAND",
+    "pu_state": "TX",
+    "pu_hours": "1200-1400",
+    "del_date": "2026-10-14",
+    "del_city": "CALHOUN",
+    "del_state": "GA",
+    "del_hours": "0730-1400",
+    "equipment": "Van",
+    "weight_lbs": 40949,
+    "carrier_rate": 2000,
+    "updated_at": "2026-10-06T13:04:39.510770+00:00",
+    "lane": "GARLAND TX-CALHOUN GA"
   },
   {
     "pro": "50257",
