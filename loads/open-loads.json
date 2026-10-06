@@ -200,7 +200,7 @@
     "equipment": "Van",
     "weight_lbs": 15001,
     "carrier_rate": 1000,
-    "updated_at": "2026-10-06T12:19:51.080981+00:00",
+    "updated_at": "2026-10-06T12:24:50.645769+00:00",
     "lane": "MOUNT PLEASANT TN-LAWRENCEVILLE GA"
   },
   {
@@ -270,23 +270,6 @@
     "carrier_rate": 1000,
     "updated_at": "2026-10-05T20:17:20.677368+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
-  },
-  {
-    "pro": "50819",
-    "status": "OPEN",
-    "pu_date": "2026-10-07",
-    "pu_city": "PLEASANT GARDEN",
-    "pu_state": "NC",
-    "pu_hours": "0800-1100",
-    "del_date": "2026-10-07",
-    "del_city": "CARY",
-    "del_state": "NC",
-    "del_hours": "0800-1400",
-    "equipment": "26' Straight Box Truck",
-    "weight_lbs": 650,
-    "carrier_rate": 250,
-    "updated_at": "2026-10-05T18:45:52.159093+00:00",
-    "lane": "PLEASANT GARDEN NC-CARY NC"
   },
   {
     "pro": "50820",
