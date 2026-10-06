@@ -85,23 +85,6 @@
     "lane": "GAINESVILLE GA-CULLMAN AL"
   },
   {
-    "pro": "50842",
-    "status": "OPEN",
-    "pu_date": "2026-10-06",
-    "pu_city": "TAMPA",
-    "pu_state": "FL",
-    "pu_hours": "0800-1500",
-    "del_date": "2026-10-07",
-    "del_city": "SAVANNAH",
-    "del_state": "GA",
-    "del_hours": "0700-1500",
-    "equipment": "26' Straight Box Truck",
-    "weight_lbs": 1100,
-    "carrier_rate": 350,
-    "updated_at": "2026-10-06T15:08:14.618556+00:00",
-    "lane": "TAMPA FL-SAVANNAH GA"
-  },
-  {
     "pro": "50843",
     "status": "OPEN",
     "pu_date": "2026-10-06",
