@@ -136,6 +136,23 @@
     "lane": "MACON GA-CALHOUN GA"
   },
   {
+    "pro": "50840",
+    "status": "OPEN",
+    "pu_date": "2026-10-06",
+    "pu_city": "GAINESVILLE",
+    "pu_state": "GA",
+    "pu_hours": "0800-1600",
+    "del_date": "2026-10-07",
+    "del_city": "CULLMAN",
+    "del_state": "AL",
+    "del_hours": "0800",
+    "equipment": "26' Straight Box Truck",
+    "weight_lbs": 4900,
+    "carrier_rate": 500,
+    "updated_at": "2026-10-06T14:59:32.722934+00:00",
+    "lane": "GAINESVILLE GA-CULLMAN AL"
+  },
+  {
     "pro": "50730",
     "status": "OPEN",
     "pu_date": "2026-10-07",
@@ -355,6 +372,23 @@
     "carrier_rate": 4800,
     "updated_at": "2026-10-06T13:45:44.313262+00:00",
     "lane": "ALPHARETTA GA-AMARILLO TX"
+  },
+  {
+    "pro": "50841",
+    "status": "OPEN",
+    "pu_date": "2026-10-08",
+    "pu_city": "OPELIKA",
+    "pu_state": "AL",
+    "pu_hours": "0800-1500",
+    "del_date": "2026-10-08",
+    "del_city": "SATSUMA",
+    "del_state": "AL",
+    "del_hours": "0800-1600",
+    "equipment": "Flatbed",
+    "weight_lbs": 47000,
+    "carrier_rate": 1100,
+    "updated_at": "2026-10-06T14:59:05.755227+00:00",
+    "lane": "OPELIKA AL-SATSUMA AL"
   },
   {
     "pro": "50803",
