@@ -34,23 +34,6 @@
     "lane": "WADESBORO NC-ATLANTA GA"
   },
   {
-    "pro": "50804",
-    "status": "OPEN",
-    "pu_date": "2026-10-06",
-    "pu_city": "OAKLAND",
-    "pu_state": "TN",
-    "pu_hours": "0800-1500",
-    "del_date": "2026-10-07",
-    "del_city": "SALISBURY",
-    "del_state": "NC",
-    "del_hours": "0600-0800",
-    "equipment": "Van Hazmat",
-    "weight_lbs": 44900,
-    "carrier_rate": 3000,
-    "updated_at": "2026-10-06T14:48:39.170847+00:00",
-    "lane": "OAKLAND TN-SALISBURY NC"
-  },
-  {
     "pro": "50815",
     "status": "OPEN",
     "pu_date": "2026-10-06",
@@ -94,11 +77,11 @@
     "del_date": "2026-10-07",
     "del_city": "MORRILTON",
     "del_state": "AR",
-    "del_hours": "0700-1300",
+    "del_hours": "0700-1600",
     "equipment": "Van",
     "weight_lbs": 40771,
     "carrier_rate": 1200,
-    "updated_at": "2026-10-06T17:04:40.380372+00:00",
+    "updated_at": "2026-10-06T17:08:12.819084+00:00",
     "lane": "AUBURN AL-MORRILTON AR"
   },
   {
@@ -353,7 +336,7 @@
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 2800,
     "carrier_rate": 500,
-    "updated_at": "2026-10-06T17:02:13.525600+00:00",
+    "updated_at": "2026-10-06T17:08:16.625920+00:00",
     "lane": "MACON GA-WINSTON SALEM NC"
   },
   {
@@ -865,23 +848,6 @@
     "carrier_rate": 1200,
     "updated_at": "2026-10-02T16:11:03.482778+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
-  },
-  {
-    "pro": "50751",
-    "status": "RELEASED",
-    "pu_date": "2026-09-30",
-    "pu_city": "OAKLAND",
-    "pu_state": "TN",
-    "pu_hours": "0800-1500",
-    "del_date": "2026-10-01",
-    "del_city": "SALISBURY",
-    "del_state": "NC",
-    "del_hours": "0600-0800",
-    "equipment": "Van Hazmat",
-    "weight_lbs": 44900,
-    "carrier_rate": 2450,
-    "updated_at": "2026-10-01T16:40:20.432308+00:00",
-    "lane": "OAKLAND TN-SALISBURY NC"
   },
   {
     "pro": "50734",
