@@ -238,23 +238,6 @@
     "lane": "OPELIKA AL-COLUMBIA AL"
   },
   {
-    "pro": "50691",
-    "status": "OPEN",
-    "pu_date": "2026-10-08",
-    "pu_city": "ALLENTOWN",
-    "pu_state": "PA",
-    "pu_hours": "0630-1500",
-    "del_date": "2026-10-09",
-    "del_city": "GREENVILLE",
-    "del_state": "NC",
-    "del_hours": "0800",
-    "equipment": "Flatbed Hot Shot",
-    "weight_lbs": 2800,
-    "carrier_rate": 1000,
-    "updated_at": "2026-10-06T16:14:39.166200+00:00",
-    "lane": "ALLENTOWN PA-GREENVILLE NC"
-  },
-  {
     "pro": "50769",
     "status": "OPEN",
     "pu_date": "2026-10-08",
@@ -389,6 +372,23 @@
     "carrier_rate": 200,
     "updated_at": "2026-09-21T15:21:49.835330+00:00",
     "lane": "RICHMOND VA-RICHMOND VA"
+  },
+  {
+    "pro": "50844",
+    "status": "OPEN",
+    "pu_date": "2026-10-12",
+    "pu_city": "MACON",
+    "pu_state": "GA",
+    "pu_hours": "",
+    "del_date": "2026-10-13",
+    "del_city": "WINSTON SALEM",
+    "del_state": "NC",
+    "del_hours": "0800-1200",
+    "equipment": "Sprinter Van",
+    "weight_lbs": 500,
+    "carrier_rate": null,
+    "updated_at": "2026-10-06T16:19:27.144312+00:00",
+    "lane": "MACON GA-WINSTON SALEM NC"
   },
   {
     "pro": "50758",
@@ -1021,7 +1021,7 @@
   },
   {
     "pro": "50816",
-    "status": "PICKUP",
+    "status": "LOADED",
     "pu_date": "2026-10-06",
     "pu_city": "MONTGOMERY",
     "pu_state": "AL",
@@ -1033,7 +1033,7 @@
     "equipment": "Flatbed",
     "weight_lbs": 47500,
     "carrier_rate": 1200,
-    "updated_at": "2026-10-06T15:09:19.946640+00:00",
+    "updated_at": "2026-10-06T16:19:43.221108+00:00",
     "lane": "MONTGOMERY AL-AUGUSTA GA"
   },
   {
