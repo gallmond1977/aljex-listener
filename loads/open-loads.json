@@ -136,6 +136,23 @@
     "lane": "GAINESVILLE GA-CULLMAN AL"
   },
   {
+    "pro": "50853",
+    "status": "OPEN",
+    "pu_date": "2026-10-07",
+    "pu_city": "OAKLAND",
+    "pu_state": "TN",
+    "pu_hours": "0800-1500",
+    "del_date": "2026-10-08",
+    "del_city": "MIDLOTHIAN",
+    "del_state": "TX",
+    "del_hours": "0600-1500",
+    "equipment": "Van Hazmat",
+    "weight_lbs": 44900,
+    "carrier_rate": 2000,
+    "updated_at": "2026-10-06T19:38:54.784173+00:00",
+    "lane": "OAKLAND TN-MIDLOTHIAN TX"
+  },
+  {
     "pro": "50769",
     "status": "OPEN",
     "pu_date": "2026-10-08",
@@ -227,14 +244,14 @@
     "pu_city": "SALEM",
     "pu_state": "VA",
     "pu_hours": "1000-1500",
-    "del_date": "",
+    "del_date": "2026-10-09",
     "del_city": "SAVANNAH",
     "del_state": "GA",
     "del_hours": "0800-1400",
     "equipment": "Flatbed w/ Tarps",
-    "weight_lbs": 47500,
+    "weight_lbs": 44500,
     "carrier_rate": null,
-    "updated_at": "2026-10-06T19:35:08.692117+00:00",
+    "updated_at": "2026-10-06T19:37:30.211749+00:00",
     "lane": "SALEM VA-SAVANNAH GA"
   },
   {
