@@ -193,14 +193,14 @@
     "pu_city": "HICKORY",
     "pu_state": "NC",
     "pu_hours": "0800-1400",
-    "del_date": "",
+    "del_date": "2026-10-06",
     "del_city": "WEST UNION",
     "del_state": "SC",
-    "del_hours": "",
+    "del_hours": "0800-1500",
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 1100,
-    "carrier_rate": 350,
-    "updated_at": "2026-10-06T12:33:48.345759+00:00",
+    "carrier_rate": 300,
+    "updated_at": "2026-10-06T12:38:41.940477+00:00",
     "lane": "HICKORY NC-WEST UNION SC"
   },
   {
@@ -936,7 +936,7 @@
   },
   {
     "pro": "50725",
-    "status": "DELIVERED",
+    "status": "RELEASED",
     "pu_date": "2026-09-30",
     "pu_city": "WINCHESTER",
     "pu_state": "KY",
@@ -948,7 +948,7 @@
     "equipment": "Van",
     "weight_lbs": 9600,
     "carrier_rate": 1200,
-    "updated_at": "2026-10-01T19:47:14.765177+00:00",
+    "updated_at": "2026-10-06T12:38:39.236566+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
