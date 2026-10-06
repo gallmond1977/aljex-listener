@@ -328,7 +328,7 @@
     "pu_date": "2026-10-12",
     "pu_city": "MACON",
     "pu_state": "GA",
-    "pu_hours": "AD REQD",
+    "pu_hours": "0700-1600",
     "del_date": "2026-10-13",
     "del_city": "WINSTON SALEM",
     "del_state": "NC",
@@ -336,7 +336,7 @@
     "equipment": "Sprinter Van",
     "weight_lbs": 500,
     "carrier_rate": 450,
-    "updated_at": "2026-10-06T16:54:40.333748+00:00",
+    "updated_at": "2026-10-06T16:57:06.242037+00:00",
     "lane": "MACON GA-WINSTON SALEM NC"
   },
   {
