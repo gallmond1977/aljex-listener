@@ -153,6 +153,23 @@
     "lane": "OPELIKA AL-COLUMBIA AL"
   },
   {
+    "pro": "50847",
+    "status": "OPEN",
+    "pu_date": "2026-10-07",
+    "pu_city": "SAVANNAH",
+    "pu_state": "GA",
+    "pu_hours": "APPT ONLY",
+    "del_date": "2026-10-08",
+    "del_city": "ATLANTA",
+    "del_state": "GA",
+    "del_hours": "0930",
+    "equipment": "Van",
+    "weight_lbs": 44000,
+    "carrier_rate": 800,
+    "updated_at": "2026-10-06T18:18:52.932963+00:00",
+    "lane": "SAVANNAH GA-ATLANTA GA"
+  },
+  {
     "pro": "50769",
     "status": "OPEN",
     "pu_date": "2026-10-08",
