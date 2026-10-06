@@ -187,23 +187,6 @@
     "lane": "MOUNT PLEASANT TN-LAWRENCEVILLE GA"
   },
   {
-    "pro": "50834",
-    "status": "OPEN",
-    "pu_date": "2026-10-06",
-    "pu_city": "BELCAMP",
-    "pu_state": "MD",
-    "pu_hours": "1200-1500",
-    "del_date": "2026-10-08",
-    "del_city": "CARROLLTON",
-    "del_state": "TX",
-    "del_hours": "CALL!",
-    "equipment": "Sprinter Van",
-    "weight_lbs": 2000,
-    "carrier_rate": null,
-    "updated_at": "2026-10-06T13:15:08.036333+00:00",
-    "lane": "BELCAMP MD-CARROLLTON TX"
-  },
-  {
     "pro": "50730",
     "status": "OPEN",
     "pu_date": "2026-10-07",
