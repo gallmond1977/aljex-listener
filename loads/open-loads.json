@@ -141,7 +141,7 @@
     "pu_date": "2026-10-07",
     "pu_city": "WINCHESTER",
     "pu_state": "KY",
-    "pu_hours": "1200-1500",
+    "pu_hours": "1330",
     "del_date": "2026-10-08",
     "del_city": "JACKSONVILLE",
     "del_state": "FL",
@@ -149,7 +149,7 @@
     "equipment": "Van",
     "weight_lbs": 4000,
     "carrier_rate": 2800,
-    "updated_at": "2026-10-06T13:27:37.372934+00:00",
+    "updated_at": "2026-10-06T13:37:32.676122+00:00",
     "lane": "WINCHESTER KY-JACKSONVILLE FL"
   },
   {
@@ -338,6 +338,23 @@
     "carrier_rate": 350,
     "updated_at": "2026-10-05T19:26:14.111420+00:00",
     "lane": "GREENVILLE NC-WILSON NC"
+  },
+  {
+    "pro": "50836",
+    "status": "OPEN",
+    "pu_date": "2026-10-08",
+    "pu_city": "ALPHARETTA",
+    "pu_state": "GA",
+    "pu_hours": "0900-1600",
+    "del_date": "2026-10-12",
+    "del_city": "AMARILLO",
+    "del_state": "TX",
+    "del_hours": "0800-1400",
+    "equipment": "Flatbed w/ Tarps",
+    "weight_lbs": 42000,
+    "carrier_rate": null,
+    "updated_at": "2026-10-06T13:38:22.703272+00:00",
+    "lane": "ALPHARETTA GA-AMARILLO TX"
   },
   {
     "pro": "50803",
