@@ -119,23 +119,6 @@
     "lane": "ALPHARETTA GA-MARSHALL VA"
   },
   {
-    "pro": "50827",
-    "status": "OPEN",
-    "pu_date": "2026-10-07",
-    "pu_city": "OPELIKA",
-    "pu_state": "AL",
-    "pu_hours": "1200-1500",
-    "del_date": "2026-10-07",
-    "del_city": "COLUMBIA",
-    "del_state": "AL",
-    "del_hours": "0530-1900",
-    "equipment": "Flatbed",
-    "weight_lbs": 47000,
-    "carrier_rate": 900,
-    "updated_at": "2026-10-06T15:09:46.113785+00:00",
-    "lane": "OPELIKA AL-COLUMBIA AL"
-  },
-  {
     "pro": "50840",
     "status": "OPEN",
     "pu_date": "2026-10-07",
@@ -175,15 +158,15 @@
     "pu_date": "2026-10-07",
     "pu_city": "AVENEL",
     "pu_state": "NJ",
-    "pu_hours": "0700",
+    "pu_hours": "0700-1200",
     "del_date": "2026-10-08",
     "del_city": "RICHMOND",
     "del_state": "VA",
-    "del_hours": "0700-1200",
+    "del_hours": "0700-1500",
     "equipment": "Flatbed Hot Shot",
     "weight_lbs": 13000,
     "carrier_rate": 1100,
-    "updated_at": "2026-10-06T18:46:58.539063+00:00",
+    "updated_at": "2026-10-06T18:59:26.689426+00:00",
     "lane": "AVENEL NJ-RICHMOND VA"
   },
   {
@@ -865,23 +848,6 @@
     "carrier_rate": 1200,
     "updated_at": "2026-10-02T16:11:03.482778+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
-  },
-  {
-    "pro": "50734",
-    "status": "RELEASED",
-    "pu_date": "2026-10-01",
-    "pu_city": "OPELIKA",
-    "pu_state": "AL",
-    "pu_hours": "1200-1500",
-    "del_date": "2026-10-01",
-    "del_city": "COLUMBIA",
-    "del_state": "AL",
-    "del_hours": "0530-1900",
-    "equipment": "Flatbed",
-    "weight_lbs": 47000,
-    "carrier_rate": 1000,
-    "updated_at": "2026-10-01T19:18:32.009886+00:00",
-    "lane": "OPELIKA AL-COLUMBIA AL"
   },
   {
     "pro": "50765",
