@@ -119,23 +119,6 @@
     "lane": "EVANSVILLE IN-SUWANEE GA"
   },
   {
-    "pro": "50829",
-    "status": "OPEN",
-    "pu_date": "2026-10-06",
-    "pu_city": "MOUNT PLEASANT",
-    "pu_state": "TN",
-    "pu_hours": "0800-1530",
-    "del_date": "2026-10-07",
-    "del_city": "LAWRENCEVILLE",
-    "del_state": "GA",
-    "del_hours": "0700-1500",
-    "equipment": "Van",
-    "weight_lbs": 15001,
-    "carrier_rate": 1000,
-    "updated_at": "2026-10-06T13:47:51.159766+00:00",
-    "lane": "MOUNT PLEASANT TN-LAWRENCEVILLE GA"
-  },
-  {
     "pro": "50730",
     "status": "OPEN",
     "pu_date": "2026-10-07",
