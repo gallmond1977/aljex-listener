@@ -102,23 +102,6 @@
     "lane": "CHEHALIS WA-ALBUQUERQUE NM"
   },
   {
-    "pro": "50821",
-    "status": "OPEN",
-    "pu_date": "2026-10-06",
-    "pu_city": "ALPHARETTA",
-    "pu_state": "GA",
-    "pu_hours": "0900-1600",
-    "del_date": "2026-10-07",
-    "del_city": "MARSHALL",
-    "del_state": "VA",
-    "del_hours": "0800-1500",
-    "equipment": "Flatbed w/ Tarps",
-    "weight_lbs": 42000,
-    "carrier_rate": 2500,
-    "updated_at": "2026-10-06T13:13:19.414775+00:00",
-    "lane": "ALPHARETTA GA-MARSHALL VA"
-  },
-  {
     "pro": "50825",
     "status": "OPEN",
     "pu_date": "2026-10-06",
@@ -134,23 +117,6 @@
     "carrier_rate": 2400,
     "updated_at": "2026-10-05T21:02:51.823816+00:00",
     "lane": "EVANSVILLE IN-SUWANEE GA"
-  },
-  {
-    "pro": "50826",
-    "status": "OPEN",
-    "pu_date": "2026-10-06",
-    "pu_city": "COLUMBUS",
-    "pu_state": "GA",
-    "pu_hours": "1030-1100",
-    "del_date": "2026-10-06",
-    "del_city": "ATLANTA",
-    "del_state": "GA",
-    "del_hours": "0800-1600",
-    "equipment": "26' Straight Box Truck",
-    "weight_lbs": 9000,
-    "carrier_rate": 300,
-    "updated_at": "2026-10-06T13:24:56.301569+00:00",
-    "lane": "COLUMBUS GA-ATLANTA GA"
   },
   {
     "pro": "50829",
@@ -455,7 +421,7 @@
     "equipment": "Van",
     "weight_lbs": 40949,
     "carrier_rate": 2000,
-    "updated_at": "2026-10-06T13:04:39.510770+00:00",
+    "updated_at": "2026-10-06T13:31:38.713384+00:00",
     "lane": "GARLAND TX-CALHOUN GA"
   },
   {
@@ -1084,7 +1050,24 @@
     "equipment": "Flatbed",
     "weight_lbs": 47500,
     "carrier_rate": 1200,
-    "updated_at": "2026-10-06T12:43:35.811026+00:00",
+    "updated_at": "2026-10-06T13:31:26.737776+00:00",
     "lane": "MONTGOMERY AL-AUGUSTA GA"
+  },
+  {
+    "pro": "50821",
+    "status": "COVERED",
+    "pu_date": "2026-10-06",
+    "pu_city": "ALPHARETTA",
+    "pu_state": "GA",
+    "pu_hours": "0900-1600",
+    "del_date": "2026-10-07",
+    "del_city": "MARSHALL",
+    "del_state": "VA",
+    "del_hours": "0800-1500",
+    "equipment": "Flatbed w/ Tarps",
+    "weight_lbs": 42000,
+    "carrier_rate": 2750,
+    "updated_at": "2026-10-06T13:34:56.460015+00:00",
+    "lane": "ALPHARETTA GA-MARSHALL VA"
   }
 ]
