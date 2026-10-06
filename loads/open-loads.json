@@ -251,7 +251,7 @@
     "equipment": "Flatbed Hot Shot",
     "weight_lbs": 2800,
     "carrier_rate": 1000,
-    "updated_at": "2026-10-05T19:03:09.267386+00:00",
+    "updated_at": "2026-10-06T16:14:39.166200+00:00",
     "lane": "ALLENTOWN PA-GREENVILLE NC"
   },
   {
@@ -304,23 +304,6 @@
     "carrier_rate": 2000,
     "updated_at": "2026-10-05T15:45:27.369512+00:00",
     "lane": "HOUSTON TX-SANFORD FL"
-  },
-  {
-    "pro": "50824",
-    "status": "OPEN",
-    "pu_date": "2026-10-08",
-    "pu_city": "GREENVILLE",
-    "pu_state": "NC",
-    "pu_hours": "",
-    "del_date": "2026-10-08",
-    "del_city": "WILSON",
-    "del_state": "NC",
-    "del_hours": "",
-    "equipment": "Flatbed Hot Shot",
-    "weight_lbs": 8900,
-    "carrier_rate": 350,
-    "updated_at": "2026-10-05T19:26:14.111420+00:00",
-    "lane": "GREENVILLE NC-WILSON NC"
   },
   {
     "pro": "50836",
