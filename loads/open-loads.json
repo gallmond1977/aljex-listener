@@ -63,8 +63,8 @@
     "del_hours": "0800-1600",
     "equipment": "Flatbed",
     "weight_lbs": 47000,
-    "carrier_rate": 1200,
-    "updated_at": "2026-10-05T19:46:26.657288+00:00",
+    "carrier_rate": 1250,
+    "updated_at": "2026-10-06T15:39:22.537290+00:00",
     "lane": "MONTGOMERY AL-AUGUSTA GA"
   },
   {
@@ -128,11 +128,11 @@
     "del_date": "2026-10-08",
     "del_city": "OKLAHOMA CITY",
     "del_state": "OK",
-    "del_hours": "APPT!",
+    "del_hours": "0800",
     "equipment": "Van",
     "weight_lbs": 36000,
     "carrier_rate": 2300,
-    "updated_at": "2026-10-06T15:14:03.159324+00:00",
+    "updated_at": "2026-10-06T15:38:23.845098+00:00",
     "lane": "LAGRANGE GA-OKLAHOMA CITY OK"
   },
   {
@@ -217,7 +217,7 @@
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 650,
     "carrier_rate": 300,
-    "updated_at": "2026-10-06T12:34:09.269526+00:00",
+    "updated_at": "2026-10-06T15:40:00.774624+00:00",
     "lane": "PLEASANT GARDEN NC-CARY NC"
   },
   {
