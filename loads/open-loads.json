@@ -13,7 +13,7 @@
     "equipment": "Van",
     "weight_lbs": 4572,
     "carrier_rate": 5300,
-    "updated_at": "2026-10-06T14:44:41.553692+00:00",
+    "updated_at": "2026-10-06T14:48:34.311048+00:00",
     "lane": "WINCHESTER KY-HIALEAH FL"
   },
   {
@@ -64,7 +64,7 @@
     "equipment": "Van Hazmat",
     "weight_lbs": 44900,
     "carrier_rate": 3000,
-    "updated_at": "2026-10-06T14:04:04.429287+00:00",
+    "updated_at": "2026-10-06T14:48:39.170847+00:00",
     "lane": "OAKLAND TN-SALISBURY NC"
   },
   {
@@ -474,6 +474,23 @@
     "carrier_rate": null,
     "updated_at": "2026-10-05T18:59:36.575286+00:00",
     "lane": "BELCAMP MD-EL PASO TX"
+  },
+  {
+    "pro": "50839",
+    "status": "OPEN",
+    "pu_date": "2026-10-15",
+    "pu_city": "GARLAND",
+    "pu_state": "TX",
+    "pu_hours": "1200-1400",
+    "del_date": "2026-10-16",
+    "del_city": "CALHOUN",
+    "del_state": "GA",
+    "del_hours": "0730-1400",
+    "equipment": "Van",
+    "weight_lbs": 36600,
+    "carrier_rate": 1800,
+    "updated_at": "2026-10-06T14:49:48.147131+00:00",
+    "lane": "GARLAND TX-CALHOUN GA"
   },
   {
     "pro": "50541",
