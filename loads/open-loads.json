@@ -114,8 +114,8 @@
     "del_hours": "0600-1500",
     "equipment": "Van Hazmat",
     "weight_lbs": 44900,
-    "carrier_rate": 2000,
-    "updated_at": "2026-10-06T19:59:58.697141+00:00",
+    "carrier_rate": 2200,
+    "updated_at": "2026-10-06T20:02:23.619555+00:00",
     "lane": "OAKLAND TN-MIDLOTHIAN TX"
   },
   {
@@ -219,6 +219,23 @@
     "carrier_rate": null,
     "updated_at": "2026-10-06T19:46:26.830441+00:00",
     "lane": "SALEM VA-SAVANNAH GA"
+  },
+  {
+    "pro": "50854",
+    "status": "OPEN",
+    "pu_date": "2026-10-08",
+    "pu_city": "COLUMBUS",
+    "pu_state": "GA",
+    "pu_hours": "1100",
+    "del_date": "2026-10-08",
+    "del_city": "JOHNSON CITY",
+    "del_state": "TN",
+    "del_hours": "CALL",
+    "equipment": "Van",
+    "weight_lbs": 12000,
+    "carrier_rate": 1100,
+    "updated_at": "2026-10-06T20:00:18.407477+00:00",
+    "lane": "COLUMBUS GA-JOHNSON CITY TN"
   },
   {
     "pro": "50803",
