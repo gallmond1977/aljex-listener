@@ -166,8 +166,25 @@
     "equipment": "Van",
     "weight_lbs": 44000,
     "carrier_rate": 800,
-    "updated_at": "2026-10-06T18:20:52.960951+00:00",
+    "updated_at": "2026-10-06T18:29:53.282193+00:00",
     "lane": "SAVANNAH GA-ATLANTA GA"
+  },
+  {
+    "pro": "50848",
+    "status": "OPEN",
+    "pu_date": "2026-10-07",
+    "pu_city": "AVENEL",
+    "pu_state": "NJ",
+    "pu_hours": "0700",
+    "del_date": "2026-10-08",
+    "del_city": "DELTAVILLE",
+    "del_state": "VA",
+    "del_hours": "0730-1530",
+    "equipment": "Flatbed Hot Shot",
+    "weight_lbs": 13000,
+    "carrier_rate": 1100,
+    "updated_at": "2026-10-06T18:25:13.884210+00:00",
+    "lane": "AVENEL NJ-DELTAVILLE VA"
   },
   {
     "pro": "50769",
@@ -848,6 +865,23 @@
     "carrier_rate": 1200,
     "updated_at": "2026-10-02T16:11:03.482778+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
+  },
+  {
+    "pro": "50740",
+    "status": "RELEASED",
+    "pu_date": "2026-09-30",
+    "pu_city": "AVENEL",
+    "pu_state": "NJ",
+    "pu_hours": "0700",
+    "del_date": "2026-09-30",
+    "del_city": "DELTAVILLE",
+    "del_state": "VA",
+    "del_hours": "0730-1530",
+    "equipment": "Sprinter Van",
+    "weight_lbs": 360,
+    "carrier_rate": 650,
+    "updated_at": "2026-10-05T13:40:06.215401+00:00",
+    "lane": "AVENEL NJ-DELTAVILLE VA"
   },
   {
     "pro": "50734",
