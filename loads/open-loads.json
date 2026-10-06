@@ -13,7 +13,7 @@
     "equipment": "Van",
     "weight_lbs": 4572,
     "carrier_rate": 5000,
-    "updated_at": "2026-10-02T14:58:19.682010+00:00",
+    "updated_at": "2026-10-06T12:52:36.830848+00:00",
     "lane": "WINCHESTER KY-HIALEAH FL"
   },
   {
@@ -202,6 +202,23 @@
     "carrier_rate": 300,
     "updated_at": "2026-10-06T12:41:04.054518+00:00",
     "lane": "HICKORY NC-WEST UNION SC"
+  },
+  {
+    "pro": "50831",
+    "status": "OPEN",
+    "pu_date": "2026-10-06",
+    "pu_city": "COLUMBUS",
+    "pu_state": "GA",
+    "pu_hours": "0800-1200",
+    "del_date": "2026-10-07",
+    "del_city": "SAINT LOUIS",
+    "del_state": "MO",
+    "del_hours": "0800-1500",
+    "equipment": "Van",
+    "weight_lbs": 26434,
+    "carrier_rate": 1400,
+    "updated_at": "2026-10-06T12:53:46.679274+00:00",
+    "lane": "COLUMBUS GA-SAINT LOUIS MO"
   },
   {
     "pro": "50730",
