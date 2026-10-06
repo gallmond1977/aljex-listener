@@ -85,6 +85,23 @@
     "lane": "RICE LAKE WI-PINE APPLE AL"
   },
   {
+    "pro": "50856",
+    "status": "OPEN",
+    "pu_date": "2026-10-07",
+    "pu_city": "MORROW",
+    "pu_state": "GA",
+    "pu_hours": "1000-1500",
+    "del_date": "2026-10-07",
+    "del_city": "LEESBURG",
+    "del_state": "GA",
+    "del_hours": "0800-1600",
+    "equipment": "Flatbed Hot Shot",
+    "weight_lbs": 5000,
+    "carrier_rate": 500,
+    "updated_at": "2026-10-06T20:54:15.944766+00:00",
+    "lane": "MORROW GA-LEESBURG GA"
+  },
+  {
     "pro": "50769",
     "status": "OPEN",
     "pu_date": "2026-10-08",
@@ -999,7 +1016,7 @@
     "equipment": "Conestoga",
     "weight_lbs": 42000,
     "carrier_rate": 2750,
-    "updated_at": "2026-10-06T20:37:36.610772+00:00",
+    "updated_at": "2026-10-06T20:52:05.801286+00:00",
     "lane": "ALPHARETTA GA-MARSHALL VA"
   }
 ]
