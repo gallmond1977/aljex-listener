@@ -98,7 +98,7 @@
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 4900,
     "carrier_rate": 550,
-    "updated_at": "2026-10-06T15:28:46.888819+00:00",
+    "updated_at": "2026-10-06T15:33:28.176521+00:00",
     "lane": "GAINESVILLE GA-CULLMAN AL"
   },
   {
@@ -355,23 +355,6 @@
     "carrier_rate": 4800,
     "updated_at": "2026-10-06T13:45:44.313262+00:00",
     "lane": "ALPHARETTA GA-AMARILLO TX"
-  },
-  {
-    "pro": "50841",
-    "status": "OPEN",
-    "pu_date": "2026-10-08",
-    "pu_city": "OPELIKA",
-    "pu_state": "AL",
-    "pu_hours": "0800-1500",
-    "del_date": "2026-10-08",
-    "del_city": "SATSUMA",
-    "del_state": "AL",
-    "del_hours": "0800-1600",
-    "equipment": "Flatbed",
-    "weight_lbs": 47000,
-    "carrier_rate": 1100,
-    "updated_at": "2026-10-06T14:59:05.755227+00:00",
-    "lane": "OPELIKA AL-SATSUMA AL"
   },
   {
     "pro": "50803",
@@ -677,23 +660,6 @@
     "weight_lbs": 4000,
     "carrier_rate": 2400,
     "updated_at": "2026-10-01T15:36:22.283520+00:00",
-    "lane": "WINCHESTER KY-JACKSONVILLE FL"
-  },
-  {
-    "pro": "50613",
-    "status": "RELEASED",
-    "pu_date": "2026-09-24",
-    "pu_city": "WINCHESTER",
-    "pu_state": "KY",
-    "pu_hours": "0800-1500",
-    "del_date": "2026-09-26",
-    "del_city": "JACKSONVILLE",
-    "del_state": "FL",
-    "del_hours": "1800",
-    "equipment": "Van",
-    "weight_lbs": 7600,
-    "carrier_rate": 3500,
-    "updated_at": "2026-09-29T15:33:43.295258+00:00",
     "lane": "WINCHESTER KY-JACKSONVILLE FL"
   },
   {
@@ -1084,7 +1050,7 @@
     "equipment": "Van",
     "weight_lbs": 44000,
     "carrier_rate": 950,
-    "updated_at": "2026-10-06T13:46:16.176109+00:00",
+    "updated_at": "2026-10-06T15:32:33.987799+00:00",
     "lane": "WADESBORO NC-ATLANTA GA"
   },
   {
