@@ -119,6 +119,23 @@
     "lane": "EVANSVILLE IN-SUWANEE GA"
   },
   {
+    "pro": "50837",
+    "status": "OPEN",
+    "pu_date": "2026-10-06",
+    "pu_city": "MACON",
+    "pu_state": "GA",
+    "pu_hours": "0730-1400",
+    "del_date": "2026-10-07",
+    "del_city": "STATESVILLE",
+    "del_state": "NC",
+    "del_hours": "0730-1500",
+    "equipment": "Sprinter Van",
+    "weight_lbs": 565,
+    "carrier_rate": 500,
+    "updated_at": "2026-10-06T14:10:05.267283+00:00",
+    "lane": "MACON GA-STATESVILLE NC"
+  },
+  {
     "pro": "50730",
     "status": "OPEN",
     "pu_date": "2026-10-07",
@@ -149,7 +166,7 @@
     "equipment": "Van",
     "weight_lbs": 41000,
     "carrier_rate": 2100,
-    "updated_at": "2026-10-01T14:47:44.794753+00:00",
+    "updated_at": "2026-10-06T14:08:49.644517+00:00",
     "lane": "PHENIX CITY AL-HAMILTON MI"
   },
   {
