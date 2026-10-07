@@ -98,7 +98,7 @@
     "equipment": "Van",
     "weight_lbs": 34000,
     "carrier_rate": 600,
-    "updated_at": "2026-10-07T12:53:51.870757+00:00",
+    "updated_at": "2026-10-07T12:56:19.756915+00:00",
     "lane": "MACON GA-CALHOUN GA"
   },
   {
@@ -115,8 +115,25 @@
     "equipment": "Van",
     "weight_lbs": 34000,
     "carrier_rate": 600,
-    "updated_at": "2026-10-07T12:54:31.189044+00:00",
+    "updated_at": "2026-10-07T12:56:28.242325+00:00",
     "lane": "MACON GA-CALHOUN GA"
+  },
+  {
+    "pro": "50860",
+    "status": "OPEN",
+    "pu_date": "2026-10-07",
+    "pu_city": "SOUTH BOSTON",
+    "pu_state": "VA",
+    "pu_hours": "",
+    "del_date": "2026-10-08",
+    "del_city": "HALEYVILLE",
+    "del_state": "AL",
+    "del_hours": "0730-1100",
+    "equipment": "Van",
+    "weight_lbs": 43000,
+    "carrier_rate": null,
+    "updated_at": "2026-10-07T12:57:15.563921+00:00",
+    "lane": "SOUTH BOSTON VA-HALEYVILLE AL"
   },
   {
     "pro": "50769",
@@ -1084,7 +1101,7 @@
     "equipment": "Van",
     "weight_lbs": 44000,
     "carrier_rate": 2800,
-    "updated_at": "2026-10-06T18:52:13.583440+00:00",
+    "updated_at": "2026-10-07T12:57:16.456711+00:00",
     "lane": "PASADENA TX-GREENVILLE SC"
   },
   {
