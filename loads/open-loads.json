@@ -81,7 +81,7 @@
     "equipment": "Sprinter Van",
     "weight_lbs": 900,
     "carrier_rate": null,
-    "updated_at": "2026-10-07T16:23:34.553435+00:00",
+    "updated_at": "2026-10-07T16:27:11.830325+00:00",
     "lane": "CLARENCE NY-BELCAMP MD"
   },
   {
@@ -173,9 +173,9 @@
     "pro": "50852",
     "status": "OPEN",
     "pu_date": "2026-10-08",
-    "pu_city": "SALEM",
+    "pu_city": "HILLSVILLE",
     "pu_state": "VA",
-    "pu_hours": "1000-1500",
+    "pu_hours": "0630-1500",
     "del_date": "2026-10-09",
     "del_city": "SAVANNAH",
     "del_state": "GA",
@@ -183,8 +183,8 @@
     "equipment": "Flatbed w/ Tarps",
     "weight_lbs": 44500,
     "carrier_rate": 1400,
-    "updated_at": "2026-10-07T16:24:14.803690+00:00",
-    "lane": "SALEM VA-SAVANNAH GA"
+    "updated_at": "2026-10-07T16:29:07.081280+00:00",
+    "lane": "HILLSVILLE VA-SAVANNAH GA"
   },
   {
     "pro": "50861",
