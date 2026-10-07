@@ -119,23 +119,6 @@
     "lane": "WINCHESTER KY-FREDERICTON NB"
   },
   {
-    "pro": "50863",
-    "status": "OPEN",
-    "pu_date": "2026-10-07",
-    "pu_city": "CHARLOTTE",
-    "pu_state": "NC",
-    "pu_hours": "0800-1400",
-    "del_date": "2026-10-08",
-    "del_city": "CHARLESTON",
-    "del_state": "SC",
-    "del_hours": "0700-1500",
-    "equipment": "26' Straight Box Truck",
-    "weight_lbs": 1800,
-    "carrier_rate": 400,
-    "updated_at": "2026-10-07T14:14:08.048387+00:00",
-    "lane": "CHARLOTTE NC-CHARLESTON SC"
-  },
-  {
     "pro": "50769",
     "status": "OPEN",
     "pu_date": "2026-10-08",
