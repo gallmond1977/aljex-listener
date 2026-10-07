@@ -132,7 +132,7 @@
     "equipment": "Van",
     "weight_lbs": 43000,
     "carrier_rate": null,
-    "updated_at": "2026-10-07T12:57:15.563921+00:00",
+    "updated_at": "2026-10-07T13:01:43.488438+00:00",
     "lane": "SOUTH BOSTON VA-HALEYVILLE AL"
   },
   {
@@ -540,7 +540,7 @@
     "equipment": "Van",
     "weight_lbs": 14572,
     "carrier_rate": 550,
-    "updated_at": "2026-10-07T12:53:12.307112+00:00",
+    "updated_at": "2026-10-07T13:03:45.596374+00:00",
     "lane": "ANDERSONVILLE GA-MACON GA"
   },
   {
@@ -1106,7 +1106,7 @@
   },
   {
     "pro": "50816",
-    "status": "CONSIGNEE",
+    "status": "DELIVERED",
     "pu_date": "2026-10-06",
     "pu_city": "MONTGOMERY",
     "pu_state": "AL",
@@ -1118,7 +1118,7 @@
     "equipment": "Flatbed",
     "weight_lbs": 47500,
     "carrier_rate": 1200,
-    "updated_at": "2026-10-07T11:59:21.045598+00:00",
+    "updated_at": "2026-10-07T13:05:01.207664+00:00",
     "lane": "MONTGOMERY AL-AUGUSTA GA"
   },
   {
