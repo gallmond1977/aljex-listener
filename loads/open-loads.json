@@ -799,23 +799,6 @@
     "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
-    "pro": "50615",
-    "status": "RELEASED",
-    "pu_date": "2026-09-28",
-    "pu_city": "WINCHESTER",
-    "pu_state": "KY",
-    "pu_hours": "1100-1300",
-    "del_date": "2026-09-29",
-    "del_city": "JACKSONVILLE",
-    "del_state": "FL",
-    "del_hours": "0500",
-    "equipment": "Van",
-    "weight_lbs": 8544,
-    "carrier_rate": 2800,
-    "updated_at": "2026-09-30T13:20:21.886651+00:00",
-    "lane": "WINCHESTER KY-JACKSONVILLE FL"
-  },
-  {
     "pro": "50670",
     "status": "RELEASED",
     "pu_date": "2026-09-29",
