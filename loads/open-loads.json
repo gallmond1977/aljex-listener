@@ -13,7 +13,7 @@
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 10290,
     "carrier_rate": 450,
-    "updated_at": "2026-10-07T16:47:56.095400+00:00",
+    "updated_at": "2026-10-07T17:28:48.623042+00:00",
     "lane": "ROCK HILL SC-CARY NC"
   },
   {
@@ -168,7 +168,7 @@
     "equipment": "Flatbed w/ Tarps",
     "weight_lbs": 44500,
     "carrier_rate": 1400,
-    "updated_at": "2026-10-07T17:24:41.139038+00:00",
+    "updated_at": "2026-10-07T17:25:41.369761+00:00",
     "lane": "HILLSVILLE VA-SAVANNAH GA"
   },
   {
@@ -306,6 +306,24 @@
     "carrier_rate": 6000,
     "updated_at": "2026-10-07T17:01:41.019219+00:00",
     "lane": "BELCAMP MD-OAKLAND CA"
+  },
+  {
+    "pro": "8890422",
+    "status": "OPEN",
+    "spot": true,
+    "pu_date": "2026-10-08",
+    "pu_city": "ROCK HILL",
+    "pu_state": "SC",
+    "pu_hours": "",
+    "del_date": "2026-10-08",
+    "del_city": "CARY",
+    "del_state": "NC",
+    "del_hours": "",
+    "equipment": "26' Straight Box Truck",
+    "weight_lbs": 10290,
+    "carrier_rate": 400,
+    "updated_at": "2026-10-07T17:28:18.961330+00:00",
+    "lane": "ROCK HILL SC-CARY NC"
   },
   {
     "pro": "50803",
