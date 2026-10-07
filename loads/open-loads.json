@@ -34,23 +34,6 @@
     "lane": "OAKLAND TN-MIDLOTHIAN TX"
   },
   {
-    "pro": "50858",
-    "status": "OPEN",
-    "pu_date": "2026-10-07",
-    "pu_city": "MACON",
-    "pu_state": "GA",
-    "pu_hours": "0800-1530",
-    "del_date": "2026-10-08",
-    "del_city": "CALHOUN",
-    "del_state": "GA",
-    "del_hours": "0700-1500",
-    "equipment": "Van",
-    "weight_lbs": 34000,
-    "carrier_rate": 600,
-    "updated_at": "2026-10-07T14:29:56.281528+00:00",
-    "lane": "MACON GA-CALHOUN GA"
-  },
-  {
     "pro": "50859",
     "status": "OPEN",
     "pu_date": "2026-10-07",
@@ -66,23 +49,6 @@
     "carrier_rate": 600,
     "updated_at": "2026-10-07T12:56:28.242325+00:00",
     "lane": "MACON GA-CALHOUN GA"
-  },
-  {
-    "pro": "50861",
-    "status": "OPEN",
-    "pu_date": "2026-10-07",
-    "pu_city": "WINCHESTER",
-    "pu_state": "KY",
-    "pu_hours": "0800-1000",
-    "del_date": "2026-10-09",
-    "del_city": "FREDERICTON",
-    "del_state": "NB",
-    "del_hours": "1200",
-    "equipment": "Van",
-    "weight_lbs": 5000,
-    "carrier_rate": 3000,
-    "updated_at": "2026-10-07T13:38:52.742524+00:00",
-    "lane": "WINCHESTER KY-FREDERICTON NB"
   },
   {
     "pro": "50864",
@@ -250,9 +216,26 @@
     "del_hours": "CALL!",
     "equipment": "Van",
     "weight_lbs": 12000,
-    "carrier_rate": 1100,
-    "updated_at": "2026-10-06T20:12:01.951436+00:00",
+    "carrier_rate": 1200,
+    "updated_at": "2026-10-07T14:43:07.451130+00:00",
     "lane": "COLUMBUS GA-JOHNSON CITY TN"
+  },
+  {
+    "pro": "50861",
+    "status": "OPEN",
+    "pu_date": "2026-10-08",
+    "pu_city": "WINCHESTER",
+    "pu_state": "KY",
+    "pu_hours": "1400",
+    "del_date": "2026-10-12",
+    "del_city": "FREDERICTON",
+    "del_state": "NB",
+    "del_hours": "1200",
+    "equipment": "Van",
+    "weight_lbs": 5000,
+    "carrier_rate": 3200,
+    "updated_at": "2026-10-07T14:44:51.343055+00:00",
+    "lane": "WINCHESTER KY-FREDERICTON NB"
   },
   {
     "pro": "50803",
@@ -1068,6 +1051,23 @@
     "weight_lbs": 34000,
     "carrier_rate": 600,
     "updated_at": "2026-10-07T14:24:25.164533+00:00",
+    "lane": "MACON GA-CALHOUN GA"
+  },
+  {
+    "pro": "50858",
+    "status": "COVERED",
+    "pu_date": "2026-10-07",
+    "pu_city": "MACON",
+    "pu_state": "GA",
+    "pu_hours": "0800-1530",
+    "del_date": "2026-10-08",
+    "del_city": "CALHOUN",
+    "del_state": "GA",
+    "del_hours": "0700-1500",
+    "equipment": "Van",
+    "weight_lbs": 34000,
+    "carrier_rate": 650,
+    "updated_at": "2026-10-07T14:41:34.161526+00:00",
     "lane": "MACON GA-CALHOUN GA"
   }
 ]
