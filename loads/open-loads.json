@@ -63,8 +63,8 @@
     "del_hours": "0800-0900",
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 10290,
-    "carrier_rate": 400,
-    "updated_at": "2026-10-07T16:34:44.569019+00:00",
+    "carrier_rate": 450,
+    "updated_at": "2026-10-07T16:47:56.095400+00:00",
     "lane": "ROCK HILL SC-CARY NC"
   },
   {
@@ -305,6 +305,23 @@
     "carrier_rate": 300,
     "updated_at": "2026-10-07T16:37:09.962996+00:00",
     "lane": "RALEIGH NC-WINSTON SALEM NC"
+  },
+  {
+    "pro": "50875",
+    "status": "OPEN",
+    "pu_date": "2026-10-08",
+    "pu_city": "BELCAMP",
+    "pu_state": "MD",
+    "pu_hours": "0700-1500",
+    "del_date": "2026-10-12",
+    "del_city": "OAKLAND",
+    "del_state": "CA",
+    "del_hours": "CALL!!",
+    "equipment": "Van",
+    "weight_lbs": 15000,
+    "carrier_rate": null,
+    "updated_at": "2026-10-07T16:49:57.472922+00:00",
+    "lane": "BELCAMP MD-OAKLAND CA"
   },
   {
     "pro": "50803",
