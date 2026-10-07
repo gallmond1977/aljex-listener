@@ -372,8 +372,8 @@
     "del_hours": "0700-1530",
     "equipment": "Van",
     "weight_lbs": 15000,
-    "carrier_rate": null,
-    "updated_at": "2026-10-07T18:09:30.008534+00:00",
+    "carrier_rate": 1000,
+    "updated_at": "2026-10-07T18:14:18.584119+00:00",
     "lane": "NEWNAN GA-KNOXVILLE TN"
   },
   {
@@ -1019,7 +1019,7 @@
     "equipment": "Conestoga",
     "weight_lbs": 42000,
     "carrier_rate": 2750,
-    "updated_at": "2026-10-07T17:22:39.446282+00:00",
+    "updated_at": "2026-10-07T18:11:32.802532+00:00",
     "lane": "ALPHARETTA GA-MARSHALL VA"
   },
   {
