@@ -482,14 +482,14 @@
     "pu_city": "ANDERSONVILLE",
     "pu_state": "GA",
     "pu_hours": "0800-1500",
-    "del_date": "",
+    "del_date": "2026-10-15",
     "del_city": "MACON",
     "del_state": "GA",
     "del_hours": "0730-1630",
     "equipment": "Van",
-    "weight_lbs": 41330,
-    "carrier_rate": null,
-    "updated_at": "2026-10-07T12:40:10.989164+00:00",
+    "weight_lbs": 14572,
+    "carrier_rate": 500,
+    "updated_at": "2026-10-07T12:43:55.343454+00:00",
     "lane": "ANDERSONVILLE GA-MACON GA"
   },
   {
@@ -1067,7 +1067,7 @@
     "equipment": "Conestoga",
     "weight_lbs": 42000,
     "carrier_rate": 2750,
-    "updated_at": "2026-10-06T20:52:05.801286+00:00",
+    "updated_at": "2026-10-07T12:45:04.702284+00:00",
     "lane": "ALPHARETTA GA-MARSHALL VA"
   }
 ]
