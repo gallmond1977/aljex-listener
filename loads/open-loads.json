@@ -230,11 +230,11 @@
     "del_date": "2026-10-09",
     "del_city": "BIRMINGHAM",
     "del_state": "AL",
-    "del_hours": "0800-1630",
+    "del_hours": "0800-1600",
     "equipment": "Van",
     "weight_lbs": 35000,
     "carrier_rate": 800,
-    "updated_at": "2026-10-07T16:03:59.732322+00:00",
+    "updated_at": "2026-10-07T16:08:01.387725+00:00",
     "lane": "LAGRANGE GA-BIRMINGHAM AL"
   },
   {
@@ -285,7 +285,7 @@
     "equipment": "Van",
     "weight_lbs": 15000,
     "carrier_rate": 1000,
-    "updated_at": "2026-10-07T15:58:56.586894+00:00",
+    "updated_at": "2026-10-07T16:09:29.635093+00:00",
     "lane": "MOUNT PLEASANT TN-BEAN STATION TN"
   },
   {
