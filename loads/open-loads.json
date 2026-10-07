@@ -116,8 +116,8 @@
     "del_hours": "0800-1400",
     "equipment": "Flatbed w/ Tarps",
     "weight_lbs": 42000,
-    "carrier_rate": 4800,
-    "updated_at": "2026-10-06T13:45:44.313262+00:00",
+    "carrier_rate": 5000,
+    "updated_at": "2026-10-07T18:33:16.492982+00:00",
     "lane": "ALPHARETTA GA-AMARILLO TX"
   },
   {
@@ -221,6 +221,23 @@
     "carrier_rate": 6000,
     "updated_at": "2026-10-07T17:01:41.019219+00:00",
     "lane": "BELCAMP MD-OAKLAND CA"
+  },
+  {
+    "pro": "50878",
+    "status": "OPEN",
+    "pu_date": "2026-10-08",
+    "pu_city": "CARY",
+    "pu_state": "NC",
+    "pu_hours": "0700-1430",
+    "del_date": "2026-10-08",
+    "del_city": "FAYETTEVILLE",
+    "del_state": "NC",
+    "del_hours": "0700-1530",
+    "equipment": "26' Straight Box Truck",
+    "weight_lbs": 5000,
+    "carrier_rate": 300,
+    "updated_at": "2026-10-07T18:31:54.832293+00:00",
+    "lane": "CARY NC-FAYETTEVILLE NC"
   },
   {
     "pro": "8890422",
@@ -734,23 +751,6 @@
     "lane": "LA PORTE TX-GREENVILLE SC"
   },
   {
-    "pro": "50669",
-    "status": "RELEASED",
-    "pu_date": "2026-09-24",
-    "pu_city": "BENSENVILLE",
-    "pu_state": "IL",
-    "pu_hours": "0800-1500",
-    "del_date": "2026-09-25",
-    "del_city": "BELCAMP",
-    "del_state": "MD",
-    "del_hours": "0700-1300",
-    "equipment": "Van",
-    "weight_lbs": 30000,
-    "carrier_rate": 2500,
-    "updated_at": "2026-09-30T18:34:20.887023+00:00",
-    "lane": "BENSENVILLE IL-BELCAMP MD"
-  },
-  {
     "pro": "50670",
     "status": "RELEASED",
     "pu_date": "2026-09-29",
@@ -973,7 +973,7 @@
   },
   {
     "pro": "50821",
-    "status": "CONSIGNEE",
+    "status": "DELIVERED",
     "pu_date": "2026-10-06",
     "pu_city": "ALPHARETTA",
     "pu_state": "GA",
@@ -985,7 +985,7 @@
     "equipment": "Conestoga",
     "weight_lbs": 42000,
     "carrier_rate": 2750,
-    "updated_at": "2026-10-07T18:11:32.802532+00:00",
+    "updated_at": "2026-10-07T18:35:06.046070+00:00",
     "lane": "ALPHARETTA GA-MARSHALL VA"
   }
 ]
