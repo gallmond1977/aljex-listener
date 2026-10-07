@@ -63,8 +63,8 @@
     "del_hours": "0630-1530",
     "equipment": "Van",
     "weight_lbs": 15000,
-    "carrier_rate": 4000,
-    "updated_at": "2026-10-07T15:06:27.295152+00:00",
+    "carrier_rate": 4100,
+    "updated_at": "2026-10-07T16:02:03.739134+00:00",
     "lane": "BELCAMP MD-PFLUGERVILLE TX"
   },
   {
@@ -79,9 +79,9 @@
     "del_state": "NC",
     "del_hours": "0700-0800",
     "equipment": "26' Straight Box Truck",
-    "weight_lbs": 8900,
+    "weight_lbs": 6500,
     "carrier_rate": 350,
-    "updated_at": "2026-10-07T15:59:05.207516+00:00",
+    "updated_at": "2026-10-07T16:04:30.451530+00:00",
     "lane": "ROCK HILL SC-PLEASANT GARDEN NC"
   },
   {
@@ -200,7 +200,7 @@
     "equipment": "Van",
     "weight_lbs": 5000,
     "carrier_rate": 3300,
-    "updated_at": "2026-10-07T15:47:12.538085+00:00",
+    "updated_at": "2026-10-07T16:01:04.587798+00:00",
     "lane": "WINCHESTER KY-FREDERICTON NB"
   },
   {
@@ -226,15 +226,15 @@
     "pu_date": "2026-10-08",
     "pu_city": "LAGRANGE",
     "pu_state": "GA",
-    "pu_hours": "1400-1600",
+    "pu_hours": "0800-1200",
     "del_date": "2026-10-09",
     "del_city": "BIRMINGHAM",
     "del_state": "AL",
     "del_hours": "0800-1630",
     "equipment": "Van",
-    "weight_lbs": 20000,
+    "weight_lbs": 35000,
     "carrier_rate": 800,
-    "updated_at": "2026-10-07T15:45:15.251924+00:00",
+    "updated_at": "2026-10-07T16:03:59.732322+00:00",
     "lane": "LAGRANGE GA-BIRMINGHAM AL"
   },
   {
