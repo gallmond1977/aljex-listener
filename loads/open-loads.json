@@ -217,27 +217,10 @@
     "del_state": "NC",
     "del_hours": "0700-1530",
     "equipment": "26' Straight Box Truck",
-    "weight_lbs": 5000,
+    "weight_lbs": 2000,
     "carrier_rate": 300,
-    "updated_at": "2026-10-07T18:37:32.432308+00:00",
+    "updated_at": "2026-10-07T19:13:57.096028+00:00",
     "lane": "CARY NC-FAYETTEVILLE NC"
-  },
-  {
-    "pro": "50880",
-    "status": "OPEN",
-    "pu_date": "2026-10-08",
-    "pu_city": "WINCHESTER",
-    "pu_state": "KY",
-    "pu_hours": "1400",
-    "del_date": "2026-10-12",
-    "del_city": "FREDERICTON",
-    "del_state": "NB",
-    "del_hours": "0800",
-    "equipment": "Van",
-    "weight_lbs": 5000,
-    "carrier_rate": null,
-    "updated_at": "2026-10-07T19:05:49.795434+00:00",
-    "lane": "WINCHESTER KY-FREDERICTON NB"
   },
   {
     "pro": "8890422",
@@ -256,6 +239,24 @@
     "carrier_rate": 400,
     "updated_at": "2026-10-07T17:28:18.961330+00:00",
     "lane": "ROCK HILL SC-CARY NC"
+  },
+  {
+    "pro": "8890423",
+    "status": "OPEN",
+    "spot": true,
+    "pu_date": "2026-10-08",
+    "pu_city": "OAKLAND",
+    "pu_state": "TN",
+    "pu_hours": "",
+    "del_date": "2026-10-09",
+    "del_city": "SALISBURY",
+    "del_state": "NC",
+    "del_hours": "",
+    "equipment": "Van Hazmat",
+    "weight_lbs": 44900,
+    "carrier_rate": 4200,
+    "updated_at": "2026-10-07T19:13:13.752398+00:00",
+    "lane": "OAKLAND TN-SALISBURY NC"
   },
   {
     "pro": "50803",
@@ -953,5 +954,22 @@
     "carrier_rate": 2800,
     "updated_at": "2026-10-07T12:57:16.456711+00:00",
     "lane": "PASADENA TX-GREENVILLE SC"
+  },
+  {
+    "pro": "50880",
+    "status": "COVERED",
+    "pu_date": "2026-10-08",
+    "pu_city": "WINCHESTER",
+    "pu_state": "KY",
+    "pu_hours": "1400",
+    "del_date": "2026-10-12",
+    "del_city": "FREDERICTON",
+    "del_state": "NB",
+    "del_hours": "0800",
+    "equipment": "Van",
+    "weight_lbs": 5000,
+    "carrier_rate": 3300,
+    "updated_at": "2026-10-07T19:12:58.956505+00:00",
+    "lane": "WINCHESTER KY-FREDERICTON NB"
   }
 ]
