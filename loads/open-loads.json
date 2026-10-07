@@ -13,7 +13,7 @@
     "equipment": "Van",
     "weight_lbs": 44000,
     "carrier_rate": 800,
-    "updated_at": "2026-10-07T19:31:45.511077+00:00",
+    "updated_at": "2026-10-07T19:37:03.824060+00:00",
     "lane": "MONCURE NC-ATLANTA GA"
   },
   {
@@ -201,8 +201,8 @@
     "del_hours": "0800-1600",
     "equipment": "Van",
     "weight_lbs": 35000,
-    "carrier_rate": 800,
-    "updated_at": "2026-10-07T16:08:01.387725+00:00",
+    "carrier_rate": 850,
+    "updated_at": "2026-10-07T19:35:45.989352+00:00",
     "lane": "LAGRANGE GA-BIRMINGHAM AL"
   },
   {
@@ -236,7 +236,7 @@
     "equipment": "Van",
     "weight_lbs": 15000,
     "carrier_rate": 6000,
-    "updated_at": "2026-10-07T17:01:41.019219+00:00",
+    "updated_at": "2026-10-07T19:39:11.548424+00:00",
     "lane": "BELCAMP MD-OAKLAND CA"
   },
   {
@@ -497,6 +497,23 @@
     "lane": "ATHENS AL-GULFPORT MS"
   },
   {
+    "pro": "50883",
+    "status": "OPEN",
+    "pu_date": "2026-10-12",
+    "pu_city": "MONCURE",
+    "pu_state": "NC",
+    "pu_hours": "0730-1600",
+    "del_date": "2026-10-13",
+    "del_city": "ATLANTA",
+    "del_state": "GA",
+    "del_hours": "0800-1600",
+    "equipment": "Van",
+    "weight_lbs": 44000,
+    "carrier_rate": 800,
+    "updated_at": "2026-10-07T19:36:44.980531+00:00",
+    "lane": "MONCURE NC-ATLANTA GA"
+  },
+  {
     "pro": "50758",
     "status": "OPEN",
     "pu_date": "2026-10-13",
@@ -512,6 +529,23 @@
     "carrier_rate": 2000,
     "updated_at": "2026-10-06T14:38:25.462305+00:00",
     "lane": "GARLAND TX-CALHOUN GA"
+  },
+  {
+    "pro": "50884",
+    "status": "OPEN",
+    "pu_date": "2026-10-13",
+    "pu_city": "MONCURE",
+    "pu_state": "NC",
+    "pu_hours": "0730-1600",
+    "del_date": "2026-10-14",
+    "del_city": "ATLANTA",
+    "del_state": "GA",
+    "del_hours": "0800-1600",
+    "equipment": "Van",
+    "weight_lbs": 44000,
+    "carrier_rate": 800,
+    "updated_at": "2026-10-07T19:39:08.789474+00:00",
+    "lane": "MONCURE NC-ATLANTA GA"
   },
   {
     "pro": "49856",
@@ -1088,7 +1122,7 @@
     "equipment": "Van",
     "weight_lbs": 44000,
     "carrier_rate": 900,
-    "updated_at": "2026-10-07T19:30:45.870275+00:00",
+    "updated_at": "2026-10-07T19:36:58.601530+00:00",
     "lane": "MONCURE NC-ATLANTA GA"
   },
   {
