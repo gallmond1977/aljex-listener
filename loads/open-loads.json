@@ -13,7 +13,7 @@
     "equipment": "Flatbed w/ Tarps",
     "weight_lbs": 42000,
     "carrier_rate": 2500,
-    "updated_at": "2026-10-07T11:49:21.178095+00:00",
+    "updated_at": "2026-10-07T15:36:21.469951+00:00",
     "lane": "ALPHARETTA GA-MARSHALL VA"
   },
   {
@@ -32,23 +32,6 @@
     "carrier_rate": 2200,
     "updated_at": "2026-10-06T20:39:22.497200+00:00",
     "lane": "OAKLAND TN-MIDLOTHIAN TX"
-  },
-  {
-    "pro": "50859",
-    "status": "OPEN",
-    "pu_date": "2026-10-07",
-    "pu_city": "MACON",
-    "pu_state": "GA",
-    "pu_hours": "0800-1530",
-    "del_date": "2026-10-08",
-    "del_city": "CALHOUN",
-    "del_state": "GA",
-    "del_hours": "0700-1500",
-    "equipment": "Van",
-    "weight_lbs": 34000,
-    "carrier_rate": 650,
-    "updated_at": "2026-10-07T15:34:56.164503+00:00",
-    "lane": "MACON GA-CALHOUN GA"
   },
   {
     "pro": "50864",
@@ -200,7 +183,7 @@
     "equipment": "Van",
     "weight_lbs": 5000,
     "carrier_rate": 3300,
-    "updated_at": "2026-10-07T15:20:53.603018+00:00",
+    "updated_at": "2026-10-07T15:37:12.688833+00:00",
     "lane": "WINCHESTER KY-FREDERICTON NB"
   },
   {
@@ -216,8 +199,8 @@
     "del_hours": "0600-1400",
     "equipment": "Flatbed w/ Tarps",
     "weight_lbs": 46908,
-    "carrier_rate": null,
-    "updated_at": "2026-10-07T15:34:07.918508+00:00",
+    "carrier_rate": 1200,
+    "updated_at": "2026-10-07T15:38:01.388036+00:00",
     "lane": "COLUMBUS GA-SANTA ROSA BEACH FL"
   },
   {
@@ -663,23 +646,6 @@
     "lane": "LA PORTE TX-GREENVILLE SC"
   },
   {
-    "pro": "50662",
-    "status": "RELEASED",
-    "pu_date": "2026-09-24",
-    "pu_city": "MACON",
-    "pu_state": "GA",
-    "pu_hours": "0800-1530",
-    "del_date": "2026-09-28",
-    "del_city": "CALHOUN",
-    "del_state": "GA",
-    "del_hours": "0700-1500",
-    "equipment": "Van",
-    "weight_lbs": 34000,
-    "carrier_rate": 650,
-    "updated_at": "2026-10-01T14:45:56.342151+00:00",
-    "lane": "MACON GA-CALHOUN GA"
-  },
-  {
     "pro": "50669",
     "status": "RELEASED",
     "pu_date": "2026-09-24",
@@ -1018,39 +984,5 @@
     "carrier_rate": 2750,
     "updated_at": "2026-10-07T12:45:53.303471+00:00",
     "lane": "ALPHARETTA GA-MARSHALL VA"
-  },
-  {
-    "pro": "50838",
-    "status": "CONSIGNEE",
-    "pu_date": "2026-10-06",
-    "pu_city": "MACON",
-    "pu_state": "GA",
-    "pu_hours": "0800-1530",
-    "del_date": "2026-10-07",
-    "del_city": "CALHOUN",
-    "del_state": "GA",
-    "del_hours": "0700-1500",
-    "equipment": "Van",
-    "weight_lbs": 34000,
-    "carrier_rate": 600,
-    "updated_at": "2026-10-07T14:24:25.164533+00:00",
-    "lane": "MACON GA-CALHOUN GA"
-  },
-  {
-    "pro": "50858",
-    "status": "COVERED",
-    "pu_date": "2026-10-07",
-    "pu_city": "MACON",
-    "pu_state": "GA",
-    "pu_hours": "0800-1530",
-    "del_date": "2026-10-08",
-    "del_city": "CALHOUN",
-    "del_state": "GA",
-    "del_hours": "0700-1500",
-    "equipment": "Van",
-    "weight_lbs": 34000,
-    "carrier_rate": 650,
-    "updated_at": "2026-10-07T15:11:54.255344+00:00",
-    "lane": "MACON GA-CALHOUN GA"
   }
 ]
