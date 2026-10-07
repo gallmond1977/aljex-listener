@@ -151,7 +151,7 @@
     "equipment": "Van",
     "weight_lbs": 5000,
     "carrier_rate": 3300,
-    "updated_at": "2026-10-07T19:02:23.162287+00:00",
+    "updated_at": "2026-10-07T19:08:18.773663+00:00",
     "lane": "WINCHESTER KY-FREDERICTON NB"
   },
   {
@@ -229,14 +229,14 @@
     "pu_city": "WINCHESTER",
     "pu_state": "KY",
     "pu_hours": "1400",
-    "del_date": "",
+    "del_date": "2026-10-12",
     "del_city": "FREDERICTON",
     "del_state": "NB",
     "del_hours": "0800",
     "equipment": "Van",
     "weight_lbs": 5000,
     "carrier_rate": null,
-    "updated_at": "2026-10-07T19:04:35.517095+00:00",
+    "updated_at": "2026-10-07T19:05:49.795434+00:00",
     "lane": "WINCHESTER KY-FREDERICTON NB"
   },
   {
