@@ -102,6 +102,23 @@
     "lane": "WADESBORO NC-ATLANTA GA"
   },
   {
+    "pro": "50865",
+    "status": "OPEN",
+    "pu_date": "2026-10-07",
+    "pu_city": "BELCAMP",
+    "pu_state": "MD",
+    "pu_hours": "1300-1500",
+    "del_date": "2026-10-09",
+    "del_city": "PFLUGERVILLE",
+    "del_state": "TX",
+    "del_hours": "0630-1530",
+    "equipment": "Van",
+    "weight_lbs": 8000,
+    "carrier_rate": null,
+    "updated_at": "2026-10-07T14:39:50.331444+00:00",
+    "lane": "BELCAMP MD-PFLUGERVILLE TX"
+  },
+  {
     "pro": "50769",
     "status": "OPEN",
     "pu_date": "2026-10-08",
