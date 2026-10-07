@@ -46,8 +46,8 @@
     "del_hours": "0700-1500",
     "equipment": "Van",
     "weight_lbs": 34000,
-    "carrier_rate": 600,
-    "updated_at": "2026-10-07T12:56:28.242325+00:00",
+    "carrier_rate": 650,
+    "updated_at": "2026-10-07T15:34:56.164503+00:00",
     "lane": "MACON GA-CALHOUN GA"
   },
   {
@@ -202,6 +202,23 @@
     "carrier_rate": 3300,
     "updated_at": "2026-10-07T15:20:53.603018+00:00",
     "lane": "WINCHESTER KY-FREDERICTON NB"
+  },
+  {
+    "pro": "50866",
+    "status": "OPEN",
+    "pu_date": "2026-10-08",
+    "pu_city": "COLUMBUS",
+    "pu_state": "GA",
+    "pu_hours": "1300-1500",
+    "del_date": "2026-10-09",
+    "del_city": "SANTA ROSA BEACH",
+    "del_state": "FL",
+    "del_hours": "0600-1400",
+    "equipment": "Flatbed w/ Tarps",
+    "weight_lbs": 46908,
+    "carrier_rate": null,
+    "updated_at": "2026-10-07T15:34:07.918508+00:00",
+    "lane": "COLUMBUS GA-SANTA ROSA BEACH FL"
   },
   {
     "pro": "50803",
@@ -746,6 +763,23 @@
     "carrier_rate": 1100,
     "updated_at": "2026-09-30T16:33:06.043281+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
+  },
+  {
+    "pro": "50692",
+    "status": "RELEASED",
+    "pu_date": "2026-09-30",
+    "pu_city": "COLUMBUS",
+    "pu_state": "GA",
+    "pu_hours": "0800-1500",
+    "del_date": "2026-10-01",
+    "del_city": "SANTA ROSA BEACH",
+    "del_state": "FL",
+    "del_hours": "0600-1400",
+    "equipment": "Flatbed w/ Tarps",
+    "weight_lbs": 46401,
+    "carrier_rate": 1250,
+    "updated_at": "2026-10-05T13:15:07.638061+00:00",
+    "lane": "COLUMBUS GA-SANTA ROSA BEACH FL"
   },
   {
     "pro": "50720",
