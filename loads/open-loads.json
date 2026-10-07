@@ -68,6 +68,24 @@
     "lane": "ROCK HILL SC-CARY NC"
   },
   {
+    "pro": "8890420",
+    "status": "OPEN",
+    "spot": true,
+    "pu_date": "2026-10-07",
+    "pu_city": "RICE LAKE",
+    "pu_state": "WI",
+    "pu_hours": "",
+    "del_date": "2026-10-08",
+    "del_city": "PINE APPLE",
+    "del_state": "AL",
+    "del_hours": "",
+    "equipment": "Van",
+    "weight_lbs": 42000,
+    "carrier_rate": 3600,
+    "updated_at": "2026-10-07T15:46:13.759842+00:00",
+    "lane": "RICE LAKE WI-PINE APPLE AL"
+  },
+  {
     "pro": "50796",
     "status": "OPEN",
     "pu_date": "2026-10-08",
@@ -266,9 +284,9 @@
     "del_state": "NC",
     "del_hours": "0800-1500",
     "equipment": "Van",
-    "weight_lbs": 10033,
+    "weight_lbs": 7221,
     "carrier_rate": 500,
-    "updated_at": "2026-10-07T16:32:10.469134+00:00",
+    "updated_at": "2026-10-07T16:37:23.663361+00:00",
     "lane": "RALEIGH NC-WINSTON SALEM NC"
   },
   {
@@ -283,9 +301,9 @@
     "del_state": "NC",
     "del_hours": "0800-1500",
     "equipment": "26' Straight Box Truck",
-    "weight_lbs": 5110,
+    "weight_lbs": 2812,
     "carrier_rate": 300,
-    "updated_at": "2026-10-07T16:32:37.999604+00:00",
+    "updated_at": "2026-10-07T16:37:09.962996+00:00",
     "lane": "RALEIGH NC-WINSTON SALEM NC"
   },
   {
