@@ -1,22 +1,5 @@
 [
   {
-    "pro": "50882",
-    "status": "OPEN",
-    "pu_date": "2026-10-07",
-    "pu_city": "MONCURE",
-    "pu_state": "NC",
-    "pu_hours": "0730-1600",
-    "del_date": "2026-10-08",
-    "del_city": "ATLANTA",
-    "del_state": "GA",
-    "del_hours": "0800-1600",
-    "equipment": "Van",
-    "weight_lbs": 44000,
-    "carrier_rate": 800,
-    "updated_at": "2026-10-07T19:51:14.911366+00:00",
-    "lane": "MONCURE NC-ATLANTA GA"
-  },
-  {
     "pro": "8890420",
     "status": "OPEN",
     "spot": true,
@@ -206,6 +189,23 @@
     "lane": "MACON GA-WINSTON SALEM NC"
   },
   {
+    "pro": "50882",
+    "status": "OPEN",
+    "pu_date": "2026-10-08",
+    "pu_city": "MONCURE",
+    "pu_state": "NC",
+    "pu_hours": "0730-1600",
+    "del_date": "2026-10-09",
+    "del_city": "ATLANTA",
+    "del_state": "GA",
+    "del_hours": "0800-1600",
+    "equipment": "Van",
+    "weight_lbs": 44000,
+    "carrier_rate": 800,
+    "updated_at": "2026-10-07T20:19:03.079475+00:00",
+    "lane": "MONCURE NC-ATLANTA GA"
+  },
+  {
     "pro": "50885",
     "status": "OPEN",
     "pu_date": "2026-10-08",
@@ -253,7 +253,7 @@
     "equipment": "Van",
     "weight_lbs": 44000,
     "carrier_rate": 2000,
-    "updated_at": "2026-10-07T20:09:34.986276+00:00",
+    "updated_at": "2026-10-07T20:19:05.008413+00:00",
     "lane": "JACKSONVILLE TX-ENDICOTT NE"
   },
   {
