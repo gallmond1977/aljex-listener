@@ -51,23 +51,6 @@
     "lane": "WADESBORO NC-ATLANTA GA"
   },
   {
-    "pro": "50865",
-    "status": "OPEN",
-    "pu_date": "2026-10-07",
-    "pu_city": "BELCAMP",
-    "pu_state": "MD",
-    "pu_hours": "1300-1500",
-    "del_date": "2026-10-09",
-    "del_city": "PFLUGERVILLE",
-    "del_state": "TX",
-    "del_hours": "0630-1530",
-    "equipment": "Van",
-    "weight_lbs": 15000,
-    "carrier_rate": 4100,
-    "updated_at": "2026-10-07T16:02:03.739134+00:00",
-    "lane": "BELCAMP MD-PFLUGERVILLE TX"
-  },
-  {
     "pro": "50871",
     "status": "OPEN",
     "pu_date": "2026-10-07",
@@ -83,6 +66,23 @@
     "carrier_rate": 400,
     "updated_at": "2026-10-07T16:11:56.204820+00:00",
     "lane": "ROCK HILL SC-CARY NC"
+  },
+  {
+    "pro": "50872",
+    "status": "OPEN",
+    "pu_date": "2026-10-07",
+    "pu_city": "CLARENCE",
+    "pu_state": "NY",
+    "pu_hours": "0530-1530",
+    "del_date": "2026-10-08",
+    "del_city": "BELCAMP",
+    "del_state": "MD",
+    "del_hours": "0700-1500",
+    "equipment": "Sprinter Van",
+    "weight_lbs": 900,
+    "carrier_rate": null,
+    "updated_at": "2026-10-07T16:23:34.553435+00:00",
+    "lane": "CLARENCE NY-BELCAMP MD"
   },
   {
     "pro": "50796",
@@ -183,7 +183,7 @@
     "equipment": "Flatbed w/ Tarps",
     "weight_lbs": 44500,
     "carrier_rate": 1400,
-    "updated_at": "2026-10-07T12:10:42.306936+00:00",
+    "updated_at": "2026-10-07T16:24:14.803690+00:00",
     "lane": "SALEM VA-SAVANNAH GA"
   },
   {
@@ -901,6 +901,23 @@
     "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
+    "pro": "50763",
+    "status": "RELEASED",
+    "pu_date": "2026-10-01",
+    "pu_city": "CLARENCE",
+    "pu_state": "NY",
+    "pu_hours": "1200-1500",
+    "del_date": "2026-10-02",
+    "del_city": "BELCAMP",
+    "del_state": "MD",
+    "del_hours": "0700-1300",
+    "equipment": "26' Straight Box Truck",
+    "weight_lbs": 1000,
+    "carrier_rate": 900,
+    "updated_at": "2026-10-02T14:44:06.619903+00:00",
+    "lane": "CLARENCE NY-BELCAMP MD"
+  },
+  {
     "pro": "50765",
     "status": "RELEASED",
     "pu_date": "2026-10-01",
@@ -936,7 +953,7 @@
   },
   {
     "pro": "50677",
-    "status": "DELIVERED",
+    "status": "RELEASED",
     "pu_date": "2026-10-05",
     "pu_city": "GARLAND",
     "pu_state": "TX",
@@ -948,7 +965,7 @@
     "equipment": "Van",
     "weight_lbs": 43438,
     "carrier_rate": 2100,
-    "updated_at": "2026-10-06T15:21:44.042476+00:00",
+    "updated_at": "2026-10-07T16:21:59.546993+00:00",
     "lane": "GARLAND TX-CALHOUN GA"
   },
   {
@@ -984,6 +1001,23 @@
     "carrier_rate": 2800,
     "updated_at": "2026-10-06T12:30:15.894572+00:00",
     "lane": "BENSENVILLE IL-BELCAMP MD"
+  },
+  {
+    "pro": "50807",
+    "status": "RELEASED",
+    "pu_date": "2026-10-05",
+    "pu_city": "CLARENCE",
+    "pu_state": "NY",
+    "pu_hours": "1200-1500",
+    "del_date": "2026-10-06",
+    "del_city": "BELCAMP",
+    "del_state": "MD",
+    "del_hours": "0700-1500",
+    "equipment": "26' Straight Box Truck",
+    "weight_lbs": 1500,
+    "carrier_rate": 800,
+    "updated_at": "2026-10-06T14:37:31.418217+00:00",
+    "lane": "CLARENCE NY-BELCAMP MD"
   },
   {
     "pro": "49852",
