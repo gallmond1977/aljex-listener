@@ -98,7 +98,7 @@
     "equipment": "Van",
     "weight_lbs": 43000,
     "carrier_rate": 1650,
-    "updated_at": "2026-10-07T13:27:09.361830+00:00",
+    "updated_at": "2026-10-07T13:51:43.887195+00:00",
     "lane": "SOUTH BOSTON VA-HALEYVILLE AL"
   },
   {
@@ -117,6 +117,23 @@
     "carrier_rate": 3000,
     "updated_at": "2026-10-07T13:38:52.742524+00:00",
     "lane": "WINCHESTER KY-FREDERICTON NB"
+  },
+  {
+    "pro": "50863",
+    "status": "OPEN",
+    "pu_date": "2026-10-07",
+    "pu_city": "CHARLOTTE",
+    "pu_state": "NC",
+    "pu_hours": "0800-1400",
+    "del_date": "2026-10-08",
+    "del_city": "CHARLESTON",
+    "del_state": "SC",
+    "del_hours": "",
+    "equipment": "26' Straight Box Truck",
+    "weight_lbs": 1800,
+    "carrier_rate": 400,
+    "updated_at": "2026-10-07T13:55:06.424566+00:00",
+    "lane": "CHARLOTTE NC-CHARLESTON SC"
   },
   {
     "pro": "50769",
@@ -304,6 +321,23 @@
     "carrier_rate": 1800,
     "updated_at": "2026-10-05T19:18:44.859385+00:00",
     "lane": "UNION CITY GA-HOUSTON TX"
+  },
+  {
+    "pro": "50862",
+    "status": "OPEN",
+    "pu_date": "2026-10-09",
+    "pu_city": "BENSENVILLE",
+    "pu_state": "IL",
+    "pu_hours": "READY?",
+    "del_date": "2026-10-12",
+    "del_city": "ALPHARETTA",
+    "del_state": "GA",
+    "del_hours": "0800-1700",
+    "equipment": "Van",
+    "weight_lbs": 34300,
+    "carrier_rate": null,
+    "updated_at": "2026-10-07T13:54:15.428651+00:00",
+    "lane": "BENSENVILLE IL-ALPHARETTA GA"
   },
   {
     "pro": "50082",
