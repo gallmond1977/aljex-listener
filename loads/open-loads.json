@@ -274,23 +274,6 @@
     "lane": "RALEIGH NC-WINSTON SALEM NC"
   },
   {
-    "pro": "50874",
-    "status": "OPEN",
-    "pu_date": "2026-10-08",
-    "pu_city": "RALEIGH",
-    "pu_state": "NC",
-    "pu_hours": "0900",
-    "del_date": "2026-10-08",
-    "del_city": "WINSTON SALEM",
-    "del_state": "NC",
-    "del_hours": "0800-1500",
-    "equipment": "26' Straight Box Truck",
-    "weight_lbs": 2812,
-    "carrier_rate": 300,
-    "updated_at": "2026-10-07T16:57:04.086119+00:00",
-    "lane": "RALEIGH NC-WINSTON SALEM NC"
-  },
-  {
     "pro": "50875",
     "status": "OPEN",
     "pu_date": "2026-10-08",
@@ -1072,5 +1055,22 @@
     "carrier_rate": 2750,
     "updated_at": "2026-10-07T17:22:39.446282+00:00",
     "lane": "ALPHARETTA GA-MARSHALL VA"
+  },
+  {
+    "pro": "50874",
+    "status": "COVERED",
+    "pu_date": "2026-10-08",
+    "pu_city": "RALEIGH",
+    "pu_state": "NC",
+    "pu_hours": "0900",
+    "del_date": "2026-10-08",
+    "del_city": "WINSTON SALEM",
+    "del_state": "NC",
+    "del_hours": "0800-1500",
+    "equipment": "26' Straight Box Truck",
+    "weight_lbs": 2812,
+    "carrier_rate": 350,
+    "updated_at": "2026-10-07T17:41:42.700835+00:00",
+    "lane": "RALEIGH NC-WINSTON SALEM NC"
   }
 ]
