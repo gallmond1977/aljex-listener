@@ -82,8 +82,8 @@
     "del_hours": "0700",
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 7000,
-    "carrier_rate": 2000,
-    "updated_at": "2026-10-05T15:45:27.369512+00:00",
+    "carrier_rate": 2200,
+    "updated_at": "2026-10-07T19:20:46.966380+00:00",
     "lane": "HOUSTON TX-SANFORD FL"
   },
   {
@@ -204,23 +204,6 @@
     "carrier_rate": 6000,
     "updated_at": "2026-10-07T17:01:41.019219+00:00",
     "lane": "BELCAMP MD-OAKLAND CA"
-  },
-  {
-    "pro": "50878",
-    "status": "OPEN",
-    "pu_date": "2026-10-08",
-    "pu_city": "CARY",
-    "pu_state": "NC",
-    "pu_hours": "1000-1430",
-    "del_date": "2026-10-08",
-    "del_city": "FAYETTEVILLE",
-    "del_state": "NC",
-    "del_hours": "0700-1530",
-    "equipment": "26' Straight Box Truck",
-    "weight_lbs": 2000,
-    "carrier_rate": 300,
-    "updated_at": "2026-10-07T19:13:57.096028+00:00",
-    "lane": "CARY NC-FAYETTEVILLE NC"
   },
   {
     "pro": "50881",
