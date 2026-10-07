@@ -124,7 +124,7 @@
     "pu_date": "2026-10-07",
     "pu_city": "SOUTH BOSTON",
     "pu_state": "VA",
-    "pu_hours": "",
+    "pu_hours": "AD RDY?",
     "del_date": "2026-10-08",
     "del_city": "HALEYVILLE",
     "del_state": "AL",
@@ -132,7 +132,7 @@
     "equipment": "Van",
     "weight_lbs": 43000,
     "carrier_rate": 1650,
-    "updated_at": "2026-10-07T13:06:51.832429+00:00",
+    "updated_at": "2026-10-07T13:12:42.492506+00:00",
     "lane": "SOUTH BOSTON VA-HALEYVILLE AL"
   },
   {
