@@ -183,7 +183,7 @@
     "equipment": "Van",
     "weight_lbs": 5000,
     "carrier_rate": 3300,
-    "updated_at": "2026-10-07T15:43:54.950816+00:00",
+    "updated_at": "2026-10-07T15:47:12.538085+00:00",
     "lane": "WINCHESTER KY-FREDERICTON NB"
   },
   {
@@ -202,6 +202,23 @@
     "carrier_rate": 1200,
     "updated_at": "2026-10-07T15:38:01.388036+00:00",
     "lane": "COLUMBUS GA-SANTA ROSA BEACH FL"
+  },
+  {
+    "pro": "50867",
+    "status": "OPEN",
+    "pu_date": "2026-10-08",
+    "pu_city": "LAGRANGE",
+    "pu_state": "GA",
+    "pu_hours": "1400-1600",
+    "del_date": "2026-10-09",
+    "del_city": "BIRMINGHAM",
+    "del_state": "AL",
+    "del_hours": "0800-1630",
+    "equipment": "Van",
+    "weight_lbs": 20000,
+    "carrier_rate": 800,
+    "updated_at": "2026-10-07T15:45:15.251924+00:00",
+    "lane": "LAGRANGE GA-BIRMINGHAM AL"
   },
   {
     "pro": "50803",
