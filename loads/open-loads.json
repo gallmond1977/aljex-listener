@@ -79,9 +79,9 @@
     "del_state": "TX",
     "del_hours": "0630-1530",
     "equipment": "Van",
-    "weight_lbs": 8000,
+    "weight_lbs": 15000,
     "carrier_rate": null,
-    "updated_at": "2026-10-07T14:39:50.331444+00:00",
+    "updated_at": "2026-10-07T15:03:45.446444+00:00",
     "lane": "BELCAMP MD-PFLUGERVILLE TX"
   },
   {
@@ -217,7 +217,7 @@
     "equipment": "Van",
     "weight_lbs": 5000,
     "carrier_rate": 3300,
-    "updated_at": "2026-10-07T14:56:38.288017+00:00",
+    "updated_at": "2026-10-07T15:04:47.522051+00:00",
     "lane": "WINCHESTER KY-FREDERICTON NB"
   },
   {
