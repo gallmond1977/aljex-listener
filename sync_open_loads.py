@@ -195,6 +195,15 @@ def fetch_load_records():
     return list(by_record_id.values())
 
 
+def fetch_spot_records():
+    """
+    Spot quotes live in their own Aljex table, "spots" (not "loads"), keyed by
+    spot_number. A failure here must not take the regular loads feed down, so
+    the caller treats it as "no spots this run".
+    """
+    return _get_records(table="spots")
+
+
 # ---------------------------------------------------------------------
 # Field mapping / transformation
 # ---------------------------------------------------------------------
@@ -313,7 +322,48 @@ def transform_record(record):
     }
 
 
-def select_rows(records):
+def transform_spot(record):
+    """
+    Maps one /records/spots item into the same row shape as a load, plus
+    "spot": true. Spots have no status or pickup date of their own, so:
+      - they count as OPEN until their expiration_date passes (skipped after),
+      - pu_date is the date the spot was entered (the dashboard groups by it).
+    Returns None for a record with no spot_number or an expired spot.
+    """
+    data = _load_fields(record)
+    spot_no = str(data.get("spot_number") or "").strip()
+    if not spot_no:
+        return None
+
+    exp = _parse_date(data.get("expiration_date"))
+    if exp is not None and exp < datetime.now(timezone.utc).date():
+        return None
+
+    pu_city = data.get("pickup_city") or ""
+    pu_state = data.get("pickup_state") or ""
+    del_city = data.get("consignee_city") or ""
+    del_state = data.get("consignee_state") or ""
+    return {
+        "pro": spot_no,
+        "status": OPEN_LOADS_STATUS,
+        "spot": True,
+        "pu_date": data.get("date_entered") or "",
+        "pu_city": pu_city,
+        "pu_state": pu_state,
+        "pu_hours": "",
+        "del_date": data.get("expiration_date") or "",
+        "del_city": del_city,
+        "del_state": del_state,
+        "del_hours": "",
+        "equipment": _equipment_name(data.get("type")),
+        "weight_lbs": _parse_number(data.get("weight")),
+        "carrier_rate": _parse_number(data.get("carrier_rate")),
+        "updated_at": record.get("received_at") or "",
+        "lane": _make_lane(pu_city, pu_state, del_city, del_state),
+    }
+
+
+def select_rows(records, spot_records=()):
     """
     Applies the selection rule described in this module's docstring:
     OPEN loads with a pickup_date today or later (no backward lookback -
@@ -376,7 +426,9 @@ def select_rows(records):
         and is_recent(r)
     ]
 
-    rows = open_rows + same_lane_rows
+    spot_rows = [t for t in (transform_spot(r) for r in spot_records) if t is not None]
+
+    rows = open_rows + spot_rows + same_lane_rows
     rows.sort(key=lambda r: (r["status"] != OPEN_LOADS_STATUS, r["pu_date"], r["pro"]))
     return rows
 
@@ -419,7 +471,13 @@ def main():
         log.exception("Failed to fetch load records from %s.", ALJEX_LISTENER_URL)
         sys.exit(1)
 
-    rows = select_rows(records)
+    try:
+        spot_records = fetch_spot_records()
+    except Exception:
+        log.exception("Could not fetch spots - continuing with loads only.")
+        spot_records = []
+
+    rows = select_rows(records, spot_records)
     log.info("Selected %d rows to write to %s.", len(rows), OUTPUT_PATH)
 
     try:

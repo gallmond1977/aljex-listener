@@ -247,7 +247,10 @@ def aljex_webhook():
     if not table_name or not action:
         return jsonify({"error": "Missing required sync parameters"}), 400
 
-    record_id = form.get("id", "")
+    # Loads, customers etc. identify themselves with "id"; Aljex's "spots" table
+    # uses "spot_number" instead (without this every spot was stored under a
+    # blank record_id and each new spot overwrote the last).
+    record_id = form.get("id") or form.get("spot_number") or ""
 
     import json
 
