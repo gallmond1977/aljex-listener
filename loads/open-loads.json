@@ -13,7 +13,7 @@
     "equipment": "Van",
     "weight_lbs": 44000,
     "carrier_rate": 800,
-    "updated_at": "2026-10-07T19:37:03.824060+00:00",
+    "updated_at": "2026-10-07T19:51:14.911366+00:00",
     "lane": "MONCURE NC-ATLANTA GA"
   },
   {
@@ -234,9 +234,9 @@
     "del_state": "NC",
     "del_hours": "0800-1500",
     "equipment": "Van",
-    "weight_lbs": 43000,
+    "weight_lbs": 40000,
     "carrier_rate": 500,
-    "updated_at": "2026-10-07T19:47:28.798513+00:00",
+    "updated_at": "2026-10-07T19:50:47.927999+00:00",
     "lane": "CENTRAL SC-BELMONT NC"
   },
   {
@@ -253,8 +253,25 @@
     "equipment": "Van",
     "weight_lbs": 43500,
     "carrier_rate": 1000,
-    "updated_at": "2026-10-07T19:49:01.509867+00:00",
+    "updated_at": "2026-10-07T19:52:35.231883+00:00",
     "lane": "BUENA VISTA GA-INDIAN TRAIL NC"
+  },
+  {
+    "pro": "50887",
+    "status": "OPEN",
+    "pu_date": "2026-10-08",
+    "pu_city": "JACKSONVILLE",
+    "pu_state": "TX",
+    "pu_hours": "0800-1500",
+    "del_date": "",
+    "del_city": "ENDICOTT",
+    "del_state": "NE",
+    "del_hours": "0700-1530",
+    "equipment": "Van",
+    "weight_lbs": 44500,
+    "carrier_rate": 2000,
+    "updated_at": "2026-10-07T19:54:42.567916+00:00",
+    "lane": "JACKSONVILLE TX-ENDICOTT NE"
   },
   {
     "pro": "8890422",
