@@ -121,23 +121,6 @@
     "lane": "HOUSTON TX-SANFORD FL"
   },
   {
-    "pro": "50836",
-    "status": "OPEN",
-    "pu_date": "2026-10-08",
-    "pu_city": "ALPHARETTA",
-    "pu_state": "GA",
-    "pu_hours": "0900-1600",
-    "del_date": "2026-10-12",
-    "del_city": "AMARILLO",
-    "del_state": "TX",
-    "del_hours": "0800-1400",
-    "equipment": "Flatbed w/ Tarps",
-    "weight_lbs": 42000,
-    "carrier_rate": 5000,
-    "updated_at": "2026-10-07T18:33:16.492982+00:00",
-    "lane": "ALPHARETTA GA-AMARILLO TX"
-  },
-  {
     "pro": "50847",
     "status": "OPEN",
     "pu_date": "2026-10-08",
