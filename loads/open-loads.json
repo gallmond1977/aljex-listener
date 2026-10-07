@@ -53,23 +53,6 @@
     "lane": "OAKLAND TN-MIDLOTHIAN TX"
   },
   {
-    "pro": "50769",
-    "status": "OPEN",
-    "pu_date": "2026-10-08",
-    "pu_city": "MOUNT STERLING",
-    "pu_state": "KY",
-    "pu_hours": "1300",
-    "del_date": "2026-10-12",
-    "del_city": "MIRA LOMA",
-    "del_state": "CA",
-    "del_hours": "0630",
-    "equipment": "Van",
-    "weight_lbs": 4800,
-    "carrier_rate": 4300,
-    "updated_at": "2026-10-07T19:29:42.437779+00:00",
-    "lane": "MOUNT STERLING KY-MIRA LOMA CA"
-  },
-  {
     "pro": "50796",
     "status": "OPEN",
     "pu_date": "2026-10-08",
@@ -238,6 +221,40 @@
     "carrier_rate": 500,
     "updated_at": "2026-10-07T19:25:13.099128+00:00",
     "lane": "MACON GA-WINSTON SALEM NC"
+  },
+  {
+    "pro": "50885",
+    "status": "OPEN",
+    "pu_date": "2026-10-08",
+    "pu_city": "CENTRAL",
+    "pu_state": "SC",
+    "pu_hours": "0800-1130",
+    "del_date": "2026-10-08",
+    "del_city": "BELMONT",
+    "del_state": "NC",
+    "del_hours": "0800-1500",
+    "equipment": "Van",
+    "weight_lbs": 43000,
+    "carrier_rate": 500,
+    "updated_at": "2026-10-07T19:47:28.798513+00:00",
+    "lane": "CENTRAL SC-BELMONT NC"
+  },
+  {
+    "pro": "50886",
+    "status": "OPEN",
+    "pu_date": "2026-10-08",
+    "pu_city": "BUENA VISTA",
+    "pu_state": "GA",
+    "pu_hours": "1200-1500",
+    "del_date": "2026-10-09",
+    "del_city": "INDIAN TRAIL",
+    "del_state": "NC",
+    "del_hours": "0700-1500",
+    "equipment": "Van",
+    "weight_lbs": 43500,
+    "carrier_rate": 1000,
+    "updated_at": "2026-10-07T19:49:01.509867+00:00",
+    "lane": "BUENA VISTA GA-INDIAN TRAIL NC"
   },
   {
     "pro": "8890422",
@@ -818,23 +835,6 @@
     "carrier_rate": 1000,
     "updated_at": "2026-10-05T13:24:11.941714+00:00",
     "lane": "UNION CITY GA-HOUSTON TX"
-  },
-  {
-    "pro": "50661",
-    "status": "RELEASED",
-    "pu_date": "2026-09-30",
-    "pu_city": "MOUNT STERLING",
-    "pu_state": "KY",
-    "pu_hours": "1200",
-    "del_date": "2026-10-04",
-    "del_city": "MIRA LOMA",
-    "del_state": "CA",
-    "del_hours": "0500",
-    "equipment": "Van",
-    "weight_lbs": 4800,
-    "carrier_rate": 4400,
-    "updated_at": "2026-10-05T12:00:54.904387+00:00",
-    "lane": "MOUNT STERLING KY-MIRA LOMA CA"
   },
   {
     "pro": "50692",
