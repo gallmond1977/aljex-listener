@@ -360,6 +360,23 @@
     "lane": "CHEHALIS WA-SALT LAKE CITY UT"
   },
   {
+    "pro": "50877",
+    "status": "OPEN",
+    "pu_date": "2026-10-09",
+    "pu_city": "NEWNAN",
+    "pu_state": "GA",
+    "pu_hours": "0700",
+    "del_date": "2026-10-09",
+    "del_city": "KNOXVILLE",
+    "del_state": "TN",
+    "del_hours": "0700-1530",
+    "equipment": "Van",
+    "weight_lbs": 15000,
+    "carrier_rate": null,
+    "updated_at": "2026-10-07T18:09:30.008534+00:00",
+    "lane": "NEWNAN GA-KNOXVILLE TN"
+  },
+  {
     "pro": "50082",
     "status": "OPEN",
     "pu_date": "2026-10-12",
