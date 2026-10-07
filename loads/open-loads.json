@@ -81,7 +81,7 @@
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 8900,
     "carrier_rate": 350,
-    "updated_at": "2026-10-07T15:53:17.272121+00:00",
+    "updated_at": "2026-10-07T15:59:05.207516+00:00",
     "lane": "ROCK HILL SC-PLEASANT GARDEN NC"
   },
   {
@@ -238,6 +238,40 @@
     "lane": "LAGRANGE GA-BIRMINGHAM AL"
   },
   {
+    "pro": "50869",
+    "status": "OPEN",
+    "pu_date": "2026-10-08",
+    "pu_city": "LELAND",
+    "pu_state": "NC",
+    "pu_hours": "1100-1400",
+    "del_date": "2026-10-09",
+    "del_city": "SAVANNAH",
+    "del_state": "GA",
+    "del_hours": "0700-1400",
+    "equipment": "Flatbed",
+    "weight_lbs": 41200,
+    "carrier_rate": 1000,
+    "updated_at": "2026-10-07T15:58:09.071069+00:00",
+    "lane": "LELAND NC-SAVANNAH GA"
+  },
+  {
+    "pro": "50870",
+    "status": "OPEN",
+    "pu_date": "2026-10-08",
+    "pu_city": "LAGRANGE",
+    "pu_state": "GA",
+    "pu_hours": "1400-1600",
+    "del_date": "2026-10-09",
+    "del_city": "LITHIA SPRINGS",
+    "del_state": "GA",
+    "del_hours": "0800-1500",
+    "equipment": "Van",
+    "weight_lbs": 36000,
+    "carrier_rate": 600,
+    "updated_at": "2026-10-07T15:58:56.797432+00:00",
+    "lane": "LAGRANGE GA-LITHIA SPRINGS GA"
+  },
+  {
     "pro": "50803",
     "status": "OPEN",
     "pu_date": "2026-10-09",
@@ -250,8 +284,8 @@
     "del_hours": "0800",
     "equipment": "Van",
     "weight_lbs": 15000,
-    "carrier_rate": 900,
-    "updated_at": "2026-10-05T13:18:06.817727+00:00",
+    "carrier_rate": 1000,
+    "updated_at": "2026-10-07T15:58:56.586894+00:00",
     "lane": "MOUNT PLEASANT TN-BEAN STATION TN"
   },
   {
