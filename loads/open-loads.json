@@ -1,22 +1,5 @@
 [
   {
-    "pro": "50879",
-    "status": "OPEN",
-    "pu_date": "2026-10-07",
-    "pu_city": "MONCURE",
-    "pu_state": "NC",
-    "pu_hours": "0730-1600",
-    "del_date": "2026-10-08",
-    "del_city": "ATLANTA",
-    "del_state": "GA",
-    "del_hours": "0800-1600",
-    "equipment": "Van",
-    "weight_lbs": 44000,
-    "carrier_rate": 800,
-    "updated_at": "2026-10-07T18:55:27.332904+00:00",
-    "lane": "MONCURE NC-ATLANTA GA"
-  },
-  {
     "pro": "8890420",
     "status": "OPEN",
     "spot": true,
@@ -168,7 +151,7 @@
     "equipment": "Van",
     "weight_lbs": 5000,
     "carrier_rate": 3300,
-    "updated_at": "2026-10-07T18:01:59.240596+00:00",
+    "updated_at": "2026-10-07T19:02:23.162287+00:00",
     "lane": "WINCHESTER KY-FREDERICTON NB"
   },
   {
@@ -238,6 +221,23 @@
     "carrier_rate": 300,
     "updated_at": "2026-10-07T18:37:32.432308+00:00",
     "lane": "CARY NC-FAYETTEVILLE NC"
+  },
+  {
+    "pro": "50880",
+    "status": "OPEN",
+    "pu_date": "2026-10-08",
+    "pu_city": "WINCHESTER",
+    "pu_state": "KY",
+    "pu_hours": "1400",
+    "del_date": "",
+    "del_city": "FREDERICTON",
+    "del_state": "NB",
+    "del_hours": "0800",
+    "equipment": "Van",
+    "weight_lbs": 5000,
+    "carrier_rate": null,
+    "updated_at": "2026-10-07T19:04:35.517095+00:00",
+    "lane": "WINCHESTER KY-FREDERICTON NB"
   },
   {
     "pro": "8890422",
@@ -870,23 +870,6 @@
     "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
-    "pro": "50753",
-    "status": "RELEASED",
-    "pu_date": "2026-10-01",
-    "pu_city": "MONCURE",
-    "pu_state": "NC",
-    "pu_hours": "0730-1600",
-    "del_date": "2026-10-02",
-    "del_city": "ATLANTA",
-    "del_state": "GA",
-    "del_hours": "0800-1600",
-    "equipment": "Van",
-    "weight_lbs": 44000,
-    "carrier_rate": 1000,
-    "updated_at": "2026-10-06T14:34:50.414024+00:00",
-    "lane": "MONCURE NC-ATLANTA GA"
-  },
-  {
     "pro": "50765",
     "status": "RELEASED",
     "pu_date": "2026-10-01",
@@ -902,57 +885,6 @@
     "carrier_rate": 1200,
     "updated_at": "2026-10-05T16:27:53.830677+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
-  },
-  {
-    "pro": "50752",
-    "status": "RELEASED",
-    "pu_date": "2026-10-02",
-    "pu_city": "MONCURE",
-    "pu_state": "NC",
-    "pu_hours": "0730-1600",
-    "del_date": "2026-10-05",
-    "del_city": "ATLANTA",
-    "del_state": "GA",
-    "del_hours": "0800-1600",
-    "equipment": "Van",
-    "weight_lbs": 44000,
-    "carrier_rate": 1000,
-    "updated_at": "2026-10-06T12:49:37.400103+00:00",
-    "lane": "MONCURE NC-ATLANTA GA"
-  },
-  {
-    "pro": "50754",
-    "status": "RELEASED",
-    "pu_date": "2026-10-02",
-    "pu_city": "MONCURE",
-    "pu_state": "NC",
-    "pu_hours": "0730-1600",
-    "del_date": "2026-10-05",
-    "del_city": "ATLANTA",
-    "del_state": "GA",
-    "del_hours": "0800-1600",
-    "equipment": "Van",
-    "weight_lbs": 44000,
-    "carrier_rate": 900,
-    "updated_at": "2026-10-07T18:50:07.406022+00:00",
-    "lane": "MONCURE NC-ATLANTA GA"
-  },
-  {
-    "pro": "50755",
-    "status": "RELEASED",
-    "pu_date": "2026-10-02",
-    "pu_city": "MONCURE",
-    "pu_state": "NC",
-    "pu_hours": "0730-1600",
-    "del_date": "2026-10-05",
-    "del_city": "ATLANTA",
-    "del_state": "GA",
-    "del_hours": "0800",
-    "equipment": "Van",
-    "weight_lbs": 44000,
-    "carrier_rate": 1000,
-    "updated_at": "2026-10-06T14:34:20.964455+00:00",
-    "lane": "MONCURE NC-ATLANTA GA"
   },
   {
     "pro": "50766",
