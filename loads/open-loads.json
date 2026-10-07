@@ -1,22 +1,5 @@
 [
   {
-    "pro": "50871",
-    "status": "OPEN",
-    "pu_date": "2026-10-07",
-    "pu_city": "ROCK HILL",
-    "pu_state": "SC",
-    "pu_hours": "0800-1430",
-    "del_date": "2026-10-08",
-    "del_city": "CARY",
-    "del_state": "NC",
-    "del_hours": "0800-0900",
-    "equipment": "26' Straight Box Truck",
-    "weight_lbs": 10290,
-    "carrier_rate": 450,
-    "updated_at": "2026-10-07T17:28:48.623042+00:00",
-    "lane": "ROCK HILL SC-CARY NC"
-  },
-  {
     "pro": "8890420",
     "status": "OPEN",
     "spot": true,
@@ -185,7 +168,7 @@
     "equipment": "Van",
     "weight_lbs": 5000,
     "carrier_rate": 3300,
-    "updated_at": "2026-10-07T17:17:18.814700+00:00",
+    "updated_at": "2026-10-07T17:59:36.365800+00:00",
     "lane": "WINCHESTER KY-FREDERICTON NB"
   },
   {
