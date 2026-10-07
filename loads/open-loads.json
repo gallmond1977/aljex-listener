@@ -489,7 +489,7 @@
     "equipment": "Van",
     "weight_lbs": 14572,
     "carrier_rate": 500,
-    "updated_at": "2026-10-07T12:43:55.343454+00:00",
+    "updated_at": "2026-10-07T12:45:57.465288+00:00",
     "lane": "ANDERSONVILLE GA-MACON GA"
   },
   {
@@ -1067,7 +1067,7 @@
     "equipment": "Conestoga",
     "weight_lbs": 42000,
     "carrier_rate": 2750,
-    "updated_at": "2026-10-07T12:45:04.702284+00:00",
+    "updated_at": "2026-10-07T12:45:53.303471+00:00",
     "lane": "ALPHARETTA GA-MARSHALL VA"
   }
 ]
