@@ -185,7 +185,7 @@
     "equipment": "Van",
     "weight_lbs": 5000,
     "carrier_rate": 3300,
-    "updated_at": "2026-10-07T16:01:04.587798+00:00",
+    "updated_at": "2026-10-07T17:17:18.814700+00:00",
     "lane": "WINCHESTER KY-FREDERICTON NB"
   },
   {
@@ -374,6 +374,23 @@
     "carrier_rate": null,
     "updated_at": "2026-10-07T13:54:15.428651+00:00",
     "lane": "BENSENVILLE IL-ALPHARETTA GA"
+  },
+  {
+    "pro": "50876",
+    "status": "OPEN",
+    "pu_date": "2026-10-09",
+    "pu_city": "CHEHALIS",
+    "pu_state": "WA",
+    "pu_hours": "0800-1600",
+    "del_date": "2026-10-12",
+    "del_city": "SALT LAKE CITY",
+    "del_state": "UT",
+    "del_hours": "",
+    "equipment": "Flatbed w/ Tarps",
+    "weight_lbs": 48000,
+    "carrier_rate": 4000,
+    "updated_at": "2026-10-07T17:19:23.965966+00:00",
+    "lane": "CHEHALIS WA-SALT LAKE CITY UT"
   },
   {
     "pro": "50082",
