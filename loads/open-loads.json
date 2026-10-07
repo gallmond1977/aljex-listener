@@ -34,23 +34,6 @@
     "lane": "OAKLAND TN-MIDLOTHIAN TX"
   },
   {
-    "pro": "50855",
-    "status": "OPEN",
-    "pu_date": "2026-10-07",
-    "pu_city": "RICE LAKE",
-    "pu_state": "WI",
-    "pu_hours": "",
-    "del_date": "2026-10-09",
-    "del_city": "PINE APPLE",
-    "del_state": "AL",
-    "del_hours": "",
-    "equipment": "Van",
-    "weight_lbs": 42000,
-    "carrier_rate": 3600,
-    "updated_at": "2026-10-07T13:44:54.280735+00:00",
-    "lane": "RICE LAKE WI-PINE APPLE AL"
-  },
-  {
     "pro": "50858",
     "status": "OPEN",
     "pu_date": "2026-10-07",
@@ -64,7 +47,7 @@
     "equipment": "Van",
     "weight_lbs": 34000,
     "carrier_rate": 600,
-    "updated_at": "2026-10-07T12:56:19.756915+00:00",
+    "updated_at": "2026-10-07T14:29:56.281528+00:00",
     "lane": "MACON GA-CALHOUN GA"
   },
   {
@@ -83,23 +66,6 @@
     "carrier_rate": 600,
     "updated_at": "2026-10-07T12:56:28.242325+00:00",
     "lane": "MACON GA-CALHOUN GA"
-  },
-  {
-    "pro": "50860",
-    "status": "OPEN",
-    "pu_date": "2026-10-07",
-    "pu_city": "SOUTH BOSTON",
-    "pu_state": "VA",
-    "pu_hours": "0800-1530",
-    "del_date": "2026-10-08",
-    "del_city": "HALEYVILLE",
-    "del_state": "AL",
-    "del_hours": "0730-1100",
-    "equipment": "Van",
-    "weight_lbs": 43000,
-    "carrier_rate": 1650,
-    "updated_at": "2026-10-07T13:51:43.887195+00:00",
-    "lane": "SOUTH BOSTON VA-HALEYVILLE AL"
   },
   {
     "pro": "50861",
