@@ -100,7 +100,7 @@
     "equipment": "Flatbed w/ Tarps",
     "weight_lbs": 42000,
     "carrier_rate": 2500,
-    "updated_at": "2026-10-07T17:07:22.280616+00:00",
+    "updated_at": "2026-10-07T18:17:26.440669+00:00",
     "lane": "ALPHARETTA GA-MARSHALL VA"
   },
   {
@@ -221,23 +221,6 @@
     "carrier_rate": 1000,
     "updated_at": "2026-10-07T15:58:09.071069+00:00",
     "lane": "LELAND NC-SAVANNAH GA"
-  },
-  {
-    "pro": "50873",
-    "status": "OPEN",
-    "pu_date": "2026-10-08",
-    "pu_city": "RALEIGH",
-    "pu_state": "NC",
-    "pu_hours": "0800",
-    "del_date": "2026-10-08",
-    "del_city": "WINSTON SALEM",
-    "del_state": "NC",
-    "del_hours": "0800-1500",
-    "equipment": "Van",
-    "weight_lbs": 7221,
-    "carrier_rate": 500,
-    "updated_at": "2026-10-07T16:55:29.622050+00:00",
-    "lane": "RALEIGH NC-WINSTON SALEM NC"
   },
   {
     "pro": "50875",
@@ -904,23 +887,6 @@
     "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
-    "pro": "50762",
-    "status": "RELEASED",
-    "pu_date": "2026-10-01",
-    "pu_city": "RALEIGH",
-    "pu_state": "NC",
-    "pu_hours": "0800-0900",
-    "del_date": "2026-10-01",
-    "del_city": "WINSTON SALEM",
-    "del_state": "NC",
-    "del_hours": "0800-1500",
-    "equipment": "Van",
-    "weight_lbs": 6643,
-    "carrier_rate": 600,
-    "updated_at": "2026-10-05T13:16:38.777786+00:00",
-    "lane": "RALEIGH NC-WINSTON SALEM NC"
-  },
-  {
     "pro": "50765",
     "status": "RELEASED",
     "pu_date": "2026-10-01",
@@ -1021,22 +987,5 @@
     "carrier_rate": 2750,
     "updated_at": "2026-10-07T18:11:32.802532+00:00",
     "lane": "ALPHARETTA GA-MARSHALL VA"
-  },
-  {
-    "pro": "50874",
-    "status": "COVERED",
-    "pu_date": "2026-10-08",
-    "pu_city": "RALEIGH",
-    "pu_state": "NC",
-    "pu_hours": "0900",
-    "del_date": "2026-10-08",
-    "del_city": "WINSTON SALEM",
-    "del_state": "NC",
-    "del_hours": "0800-1500",
-    "equipment": "26' Straight Box Truck",
-    "weight_lbs": 2812,
-    "carrier_rate": 350,
-    "updated_at": "2026-10-07T17:41:42.700835+00:00",
-    "lane": "RALEIGH NC-WINSTON SALEM NC"
   }
 ]
