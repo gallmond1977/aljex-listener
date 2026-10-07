@@ -223,6 +223,23 @@
     "lane": "CARY NC-FAYETTEVILLE NC"
   },
   {
+    "pro": "50881",
+    "status": "OPEN",
+    "pu_date": "2026-10-08",
+    "pu_city": "MACON",
+    "pu_state": "GA",
+    "pu_hours": "",
+    "del_date": "2026-10-09",
+    "del_city": "WINSTON SALEM",
+    "del_state": "NC",
+    "del_hours": "0800-1200",
+    "equipment": "26' Straight Box Truck",
+    "weight_lbs": 2800,
+    "carrier_rate": 500,
+    "updated_at": "2026-10-07T19:18:36.313074+00:00",
+    "lane": "MACON GA-WINSTON SALEM NC"
+  },
+  {
     "pro": "8890422",
     "status": "OPEN",
     "spot": true,
