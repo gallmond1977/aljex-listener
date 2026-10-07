@@ -85,23 +85,6 @@
     "lane": "RICE LAKE WI-PINE APPLE AL"
   },
   {
-    "pro": "50856",
-    "status": "OPEN",
-    "pu_date": "2026-10-07",
-    "pu_city": "MORROW",
-    "pu_state": "GA",
-    "pu_hours": "1100-1400",
-    "del_date": "2026-10-07",
-    "del_city": "LEESBURG",
-    "del_state": "GA",
-    "del_hours": "0800-1630",
-    "equipment": "Flatbed Hot Shot",
-    "weight_lbs": 5000,
-    "carrier_rate": 500,
-    "updated_at": "2026-10-07T12:26:41.538445+00:00",
-    "lane": "MORROW GA-LEESBURG GA"
-  },
-  {
     "pro": "50769",
     "status": "OPEN",
     "pu_date": "2026-10-08",
@@ -132,7 +115,7 @@
     "equipment": "Reefer",
     "weight_lbs": 30416,
     "carrier_rate": 450,
-    "updated_at": "2026-10-07T12:00:28.968392+00:00",
+    "updated_at": "2026-10-07T12:38:40.280026+00:00",
     "lane": "ATLANTA GA-FOREST PARK GA"
   },
   {
@@ -491,6 +474,23 @@
     "carrier_rate": 500,
     "updated_at": "2026-10-06T18:09:59.607556+00:00",
     "lane": "RICHMOND VA-MIDLOTHIAN VA"
+  },
+  {
+    "pro": "50857",
+    "status": "OPEN",
+    "pu_date": "2026-10-15",
+    "pu_city": "ANDERSONVILLE",
+    "pu_state": "GA",
+    "pu_hours": "0800-1500",
+    "del_date": "",
+    "del_city": "MACON",
+    "del_state": "GA",
+    "del_hours": "0730-1630",
+    "equipment": "Van",
+    "weight_lbs": 41330,
+    "carrier_rate": null,
+    "updated_at": "2026-10-07T12:40:10.989164+00:00",
+    "lane": "ANDERSONVILLE GA-MACON GA"
   },
   {
     "pro": "50541",
