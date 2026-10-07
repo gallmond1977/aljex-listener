@@ -119,6 +119,23 @@
     "lane": "WINCHESTER KY-FREDERICTON NB"
   },
   {
+    "pro": "50864",
+    "status": "OPEN",
+    "pu_date": "2026-10-07",
+    "pu_city": "WADESBORO",
+    "pu_state": "NC",
+    "pu_hours": "0730-1630",
+    "del_date": "2026-10-08",
+    "del_city": "ATLANTA",
+    "del_state": "GA",
+    "del_hours": "0800-1600",
+    "equipment": "Van",
+    "weight_lbs": 44000,
+    "carrier_rate": 900,
+    "updated_at": "2026-10-07T14:20:42.881645+00:00",
+    "lane": "WADESBORO NC-ATLANTA GA"
+  },
+  {
     "pro": "50769",
     "status": "OPEN",
     "pu_date": "2026-10-08",
@@ -952,6 +969,23 @@
     "lane": "GARLAND TX-CALHOUN GA"
   },
   {
+    "pro": "50775",
+    "status": "RELEASED",
+    "pu_date": "2026-10-05",
+    "pu_city": "WADESBORO",
+    "pu_state": "NC",
+    "pu_hours": "0730-1630",
+    "del_date": "2026-10-06",
+    "del_city": "ATLANTA",
+    "del_state": "GA",
+    "del_hours": "0800-1600",
+    "equipment": "Van",
+    "weight_lbs": 44000,
+    "carrier_rate": 950,
+    "updated_at": "2026-10-07T11:46:39.171915+00:00",
+    "lane": "WADESBORO NC-ATLANTA GA"
+  },
+  {
     "pro": "50801",
     "status": "DELIVERED",
     "pu_date": "2026-10-05",
@@ -986,6 +1020,40 @@
     "lane": "PASADENA TX-GREENVILLE SC"
   },
   {
+    "pro": "50794",
+    "status": "LOADED",
+    "pu_date": "2026-10-06",
+    "pu_city": "WADESBORO",
+    "pu_state": "NC",
+    "pu_hours": "0730-1630",
+    "del_date": "2026-10-07",
+    "del_city": "ATLANTA",
+    "del_state": "GA",
+    "del_hours": "0800-1600",
+    "equipment": "Van",
+    "weight_lbs": 44000,
+    "carrier_rate": 900,
+    "updated_at": "2026-10-07T12:59:23.425412+00:00",
+    "lane": "WADESBORO NC-ATLANTA GA"
+  },
+  {
+    "pro": "50795",
+    "status": "DELIVERED",
+    "pu_date": "2026-10-06",
+    "pu_city": "WADESBORO",
+    "pu_state": "NC",
+    "pu_hours": "0730-1630",
+    "del_date": "2026-10-07",
+    "del_city": "ATLANTA",
+    "del_state": "GA",
+    "del_hours": "0800-1600",
+    "equipment": "Van",
+    "weight_lbs": 44000,
+    "carrier_rate": 900,
+    "updated_at": "2026-10-07T13:00:11.477052+00:00",
+    "lane": "WADESBORO NC-ATLANTA GA"
+  },
+  {
     "pro": "50821",
     "status": "LOADED",
     "pu_date": "2026-10-06",
@@ -1004,7 +1072,7 @@
   },
   {
     "pro": "50838",
-    "status": "LOADED",
+    "status": "CONSIGNEE",
     "pu_date": "2026-10-06",
     "pu_city": "MACON",
     "pu_state": "GA",
@@ -1016,7 +1084,7 @@
     "equipment": "Van",
     "weight_lbs": 34000,
     "carrier_rate": 600,
-    "updated_at": "2026-10-07T12:31:48.236743+00:00",
+    "updated_at": "2026-10-07T14:24:25.164533+00:00",
     "lane": "MACON GA-CALHOUN GA"
   }
 ]
