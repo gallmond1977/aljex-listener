@@ -240,23 +240,6 @@
     "lane": "LELAND NC-SAVANNAH GA"
   },
   {
-    "pro": "50870",
-    "status": "OPEN",
-    "pu_date": "2026-10-08",
-    "pu_city": "LAGRANGE",
-    "pu_state": "GA",
-    "pu_hours": "1400-1600",
-    "del_date": "2026-10-09",
-    "del_city": "LITHIA SPRINGS",
-    "del_state": "GA",
-    "del_hours": "0800",
-    "equipment": "Van",
-    "weight_lbs": 36000,
-    "carrier_rate": 600,
-    "updated_at": "2026-10-07T16:10:51.515691+00:00",
-    "lane": "LAGRANGE GA-LITHIA SPRINGS GA"
-  },
-  {
     "pro": "50873",
     "status": "OPEN",
     "pu_date": "2026-10-08",
@@ -783,23 +766,6 @@
     "carrier_rate": 2500,
     "updated_at": "2026-09-30T18:34:20.887023+00:00",
     "lane": "BENSENVILLE IL-BELCAMP MD"
-  },
-  {
-    "pro": "50687",
-    "status": "RELEASED",
-    "pu_date": "2026-09-25",
-    "pu_city": "WINCHESTER",
-    "pu_state": "KY",
-    "pu_hours": "1500-1530",
-    "del_date": "2026-09-29",
-    "del_city": "JOLIET",
-    "del_state": "IL",
-    "del_hours": "1600",
-    "equipment": "Van",
-    "weight_lbs": 12480,
-    "carrier_rate": 1100,
-    "updated_at": "2026-09-30T17:51:43.067400+00:00",
-    "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
     "pro": "50670",
