@@ -223,23 +223,6 @@
     "lane": "BUENA VISTA GA-INDIAN TRAIL NC"
   },
   {
-    "pro": "50887",
-    "status": "OPEN",
-    "pu_date": "2026-10-08",
-    "pu_city": "JACKSONVILLE",
-    "pu_state": "TX",
-    "pu_hours": "0800-1500",
-    "del_date": "2026-10-09",
-    "del_city": "ENDICOTT",
-    "del_state": "NE",
-    "del_hours": "0700-1530",
-    "equipment": "Van",
-    "weight_lbs": 44000,
-    "carrier_rate": 2100,
-    "updated_at": "2026-10-07T20:47:02.115601+00:00",
-    "lane": "JACKSONVILLE TX-ENDICOTT NE"
-  },
-  {
     "pro": "50888",
     "status": "OPEN",
     "pu_date": "2026-10-08",
@@ -253,7 +236,7 @@
     "equipment": "Van Hazmat",
     "weight_lbs": 44900,
     "carrier_rate": 4000,
-    "updated_at": "2026-10-07T20:41:45.272877+00:00",
+    "updated_at": "2026-10-07T20:54:11.807313+00:00",
     "lane": "OAKLAND TN-SALISBURY NC"
   },
   {
