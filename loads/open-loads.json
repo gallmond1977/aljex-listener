@@ -17,23 +17,6 @@
     "lane": "WINCHESTER KY-JACKSONVILLE FL"
   },
   {
-    "pro": "50815",
-    "status": "OPEN",
-    "pu_date": "2026-10-07",
-    "pu_city": "MONTGOMERY",
-    "pu_state": "AL",
-    "pu_hours": "0730-1500",
-    "del_date": "2026-10-08",
-    "del_city": "AUGUSTA",
-    "del_state": "GA",
-    "del_hours": "0800-1600",
-    "equipment": "Flatbed",
-    "weight_lbs": 47000,
-    "carrier_rate": 1250,
-    "updated_at": "2026-10-06T19:52:25.944326+00:00",
-    "lane": "MONTGOMERY AL-AUGUSTA GA"
-  },
-  {
     "pro": "50820",
     "status": "OPEN",
     "pu_date": "2026-10-07",
@@ -124,7 +107,7 @@
     "pu_date": "2026-10-07",
     "pu_city": "SOUTH BOSTON",
     "pu_state": "VA",
-    "pu_hours": "AD RDY?",
+    "pu_hours": "0800-1530",
     "del_date": "2026-10-08",
     "del_city": "HALEYVILLE",
     "del_state": "AL",
@@ -132,8 +115,25 @@
     "equipment": "Van",
     "weight_lbs": 43000,
     "carrier_rate": 1650,
-    "updated_at": "2026-10-07T13:12:42.492506+00:00",
+    "updated_at": "2026-10-07T13:27:09.361830+00:00",
     "lane": "SOUTH BOSTON VA-HALEYVILLE AL"
+  },
+  {
+    "pro": "50861",
+    "status": "OPEN",
+    "pu_date": "2026-10-07",
+    "pu_city": "WINCHESTER",
+    "pu_state": "KY",
+    "pu_hours": "0800-1000",
+    "del_date": "2026-10-09",
+    "del_city": "FREDERICTON",
+    "del_state": "NB",
+    "del_hours": "1200",
+    "equipment": "Van",
+    "weight_lbs": 5000,
+    "carrier_rate": 3000,
+    "updated_at": "2026-10-07T13:29:20.393749+00:00",
+    "lane": "WINCHESTER KY-FREDERICTON NB"
   },
   {
     "pro": "50769",
@@ -765,23 +765,6 @@
     "lane": "BENSENVILLE IL-BELCAMP MD"
   },
   {
-    "pro": "50629",
-    "status": "RELEASED",
-    "pu_date": "2026-09-25",
-    "pu_city": "MONTGOMERY",
-    "pu_state": "AL",
-    "pu_hours": "0730-1500",
-    "del_date": "2026-09-28",
-    "del_city": "AUGUSTA",
-    "del_state": "GA",
-    "del_hours": "0800-1600",
-    "equipment": "Flatbed",
-    "weight_lbs": 47500,
-    "carrier_rate": 1300,
-    "updated_at": "2026-09-30T14:17:21.233786+00:00",
-    "lane": "MONTGOMERY AL-AUGUSTA GA"
-  },
-  {
     "pro": "50687",
     "status": "RELEASED",
     "pu_date": "2026-09-25",
@@ -1035,23 +1018,6 @@
     "carrier_rate": 2800,
     "updated_at": "2026-10-07T12:57:16.456711+00:00",
     "lane": "PASADENA TX-GREENVILLE SC"
-  },
-  {
-    "pro": "50816",
-    "status": "DELIVERED",
-    "pu_date": "2026-10-06",
-    "pu_city": "MONTGOMERY",
-    "pu_state": "AL",
-    "pu_hours": "0730-1500",
-    "del_date": "2026-10-07",
-    "del_city": "AUGUSTA",
-    "del_state": "GA",
-    "del_hours": "0800-1600",
-    "equipment": "Flatbed",
-    "weight_lbs": 47500,
-    "carrier_rate": 1200,
-    "updated_at": "2026-10-07T13:05:17.759192+00:00",
-    "lane": "MONTGOMERY AL-AUGUSTA GA"
   },
   {
     "pro": "50821",
