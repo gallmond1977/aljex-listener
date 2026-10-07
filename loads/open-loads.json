@@ -115,7 +115,7 @@
     "equipment": "Van",
     "weight_lbs": 14580,
     "carrier_rate": 1000,
-    "updated_at": "2026-10-07T14:54:58.576000+00:00",
+    "updated_at": "2026-10-07T14:56:30.018527+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
@@ -216,8 +216,8 @@
     "del_hours": "0800",
     "equipment": "Van",
     "weight_lbs": 5000,
-    "carrier_rate": 3200,
-    "updated_at": "2026-10-07T14:52:47.645333+00:00",
+    "carrier_rate": 3300,
+    "updated_at": "2026-10-07T14:56:38.288017+00:00",
     "lane": "WINCHESTER KY-FREDERICTON NB"
   },
   {
@@ -1050,7 +1050,7 @@
     "equipment": "Van",
     "weight_lbs": 34000,
     "carrier_rate": 650,
-    "updated_at": "2026-10-07T14:41:34.161526+00:00",
+    "updated_at": "2026-10-07T14:57:47.724523+00:00",
     "lane": "MACON GA-CALHOUN GA"
   }
 ]
