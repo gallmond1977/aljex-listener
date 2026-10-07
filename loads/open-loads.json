@@ -155,23 +155,6 @@
     "lane": "WINCHESTER KY-FREDERICTON NB"
   },
   {
-    "pro": "50867",
-    "status": "OPEN",
-    "pu_date": "2026-10-08",
-    "pu_city": "LAGRANGE",
-    "pu_state": "GA",
-    "pu_hours": "0800-1200",
-    "del_date": "2026-10-09",
-    "del_city": "BIRMINGHAM",
-    "del_state": "AL",
-    "del_hours": "0800-1600",
-    "equipment": "Van",
-    "weight_lbs": 35000,
-    "carrier_rate": 850,
-    "updated_at": "2026-10-07T19:35:45.989352+00:00",
-    "lane": "LAGRANGE GA-BIRMINGHAM AL"
-  },
-  {
     "pro": "50869",
     "status": "OPEN",
     "pu_date": "2026-10-08",
@@ -219,7 +202,7 @@
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 2800,
     "carrier_rate": 500,
-    "updated_at": "2026-10-07T19:25:13.099128+00:00",
+    "updated_at": "2026-10-07T20:07:50.682227+00:00",
     "lane": "MACON GA-WINSTON SALEM NC"
   },
   {
@@ -268,9 +251,9 @@
     "del_state": "NE",
     "del_hours": "0700-1530",
     "equipment": "Van",
-    "weight_lbs": 44500,
+    "weight_lbs": 44000,
     "carrier_rate": 2000,
-    "updated_at": "2026-10-07T20:05:08.697706+00:00",
+    "updated_at": "2026-10-07T20:09:34.986276+00:00",
     "lane": "JACKSONVILLE TX-ENDICOTT NE"
   },
   {
