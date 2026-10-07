@@ -90,7 +90,7 @@
     "pu_date": "2026-10-07",
     "pu_city": "MORROW",
     "pu_state": "GA",
-    "pu_hours": "READY?",
+    "pu_hours": "1100-1400",
     "del_date": "2026-10-07",
     "del_city": "LEESBURG",
     "del_state": "GA",
@@ -98,7 +98,7 @@
     "equipment": "Flatbed Hot Shot",
     "weight_lbs": 5000,
     "carrier_rate": 500,
-    "updated_at": "2026-10-06T20:56:41.409291+00:00",
+    "updated_at": "2026-10-07T12:19:35.083674+00:00",
     "lane": "MORROW GA-LEESBURG GA"
   },
   {
