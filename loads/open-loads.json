@@ -68,23 +68,6 @@
     "lane": "BELCAMP MD-PFLUGERVILLE TX"
   },
   {
-    "pro": "50868",
-    "status": "OPEN",
-    "pu_date": "2026-10-07",
-    "pu_city": "ROCK HILL",
-    "pu_state": "SC",
-    "pu_hours": "0800-1430",
-    "del_date": "2026-10-08",
-    "del_city": "PLEASANT GARDEN",
-    "del_state": "NC",
-    "del_hours": "0700-0800",
-    "equipment": "26' Straight Box Truck",
-    "weight_lbs": 6500,
-    "carrier_rate": 350,
-    "updated_at": "2026-10-07T16:04:30.451530+00:00",
-    "lane": "ROCK HILL SC-PLEASANT GARDEN NC"
-  },
-  {
     "pro": "50871",
     "status": "OPEN",
     "pu_date": "2026-10-07",
