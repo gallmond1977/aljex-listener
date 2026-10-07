@@ -168,7 +168,7 @@
     "equipment": "Flatbed w/ Tarps",
     "weight_lbs": 44500,
     "carrier_rate": 1400,
-    "updated_at": "2026-10-07T16:29:07.081280+00:00",
+    "updated_at": "2026-10-07T17:24:41.139038+00:00",
     "lane": "HILLSVILLE VA-SAVANNAH GA"
   },
   {
@@ -387,9 +387,9 @@
     "del_state": "UT",
     "del_hours": "",
     "equipment": "Flatbed w/ Tarps",
-    "weight_lbs": 48000,
+    "weight_lbs": 47500,
     "carrier_rate": 4000,
-    "updated_at": "2026-10-07T17:19:23.965966+00:00",
+    "updated_at": "2026-10-07T17:21:28.009669+00:00",
     "lane": "CHEHALIS WA-SALT LAKE CITY UT"
   },
   {
@@ -1040,7 +1040,7 @@
   },
   {
     "pro": "50821",
-    "status": "LOADED",
+    "status": "CONSIGNEE",
     "pu_date": "2026-10-06",
     "pu_city": "ALPHARETTA",
     "pu_state": "GA",
@@ -1052,7 +1052,7 @@
     "equipment": "Conestoga",
     "weight_lbs": 42000,
     "carrier_rate": 2750,
-    "updated_at": "2026-10-07T12:45:53.303471+00:00",
+    "updated_at": "2026-10-07T17:22:39.446282+00:00",
     "lane": "ALPHARETTA GA-MARSHALL VA"
   }
 ]
