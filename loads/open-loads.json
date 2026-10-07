@@ -228,7 +228,7 @@
     "pu_date": "2026-10-08",
     "pu_city": "CARY",
     "pu_state": "NC",
-    "pu_hours": "0700-1430",
+    "pu_hours": "1000-1430",
     "del_date": "2026-10-08",
     "del_city": "FAYETTEVILLE",
     "del_state": "NC",
@@ -236,7 +236,7 @@
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 5000,
     "carrier_rate": 300,
-    "updated_at": "2026-10-07T18:31:54.832293+00:00",
+    "updated_at": "2026-10-07T18:37:32.432308+00:00",
     "lane": "CARY NC-FAYETTEVILLE NC"
   },
   {
@@ -339,7 +339,7 @@
     "equipment": "Flatbed w/ Tarps",
     "weight_lbs": 46908,
     "carrier_rate": 1000,
-    "updated_at": "2026-10-07T18:23:22.082099+00:00",
+    "updated_at": "2026-10-07T18:35:57.323651+00:00",
     "lane": "COLUMBUS GA-SANTA ROSA BEACH FL"
   },
   {
@@ -973,7 +973,7 @@
   },
   {
     "pro": "50821",
-    "status": "DELIVERED",
+    "status": "RELEASED",
     "pu_date": "2026-10-06",
     "pu_city": "ALPHARETTA",
     "pu_state": "GA",
@@ -985,7 +985,7 @@
     "equipment": "Conestoga",
     "weight_lbs": 42000,
     "carrier_rate": 2750,
-    "updated_at": "2026-10-07T18:35:06.046070+00:00",
+    "updated_at": "2026-10-07T18:35:08.245701+00:00",
     "lane": "ALPHARETTA GA-MARSHALL VA"
   }
 ]
