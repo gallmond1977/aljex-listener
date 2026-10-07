@@ -17,40 +17,6 @@
     "lane": "ALPHARETTA GA-MARSHALL VA"
   },
   {
-    "pro": "50853",
-    "status": "OPEN",
-    "pu_date": "2026-10-07",
-    "pu_city": "OAKLAND",
-    "pu_state": "TN",
-    "pu_hours": "0800-1500",
-    "del_date": "2026-10-08",
-    "del_city": "MIDLOTHIAN",
-    "del_state": "TX",
-    "del_hours": "0600-1500",
-    "equipment": "Van Hazmat",
-    "weight_lbs": 44900,
-    "carrier_rate": 2400,
-    "updated_at": "2026-10-07T15:54:14.645742+00:00",
-    "lane": "OAKLAND TN-MIDLOTHIAN TX"
-  },
-  {
-    "pro": "50864",
-    "status": "OPEN",
-    "pu_date": "2026-10-07",
-    "pu_city": "WADESBORO",
-    "pu_state": "NC",
-    "pu_hours": "0730-1630",
-    "del_date": "2026-10-08",
-    "del_city": "ATLANTA",
-    "del_state": "GA",
-    "del_hours": "0800-1600",
-    "equipment": "Van",
-    "weight_lbs": 44000,
-    "carrier_rate": 950,
-    "updated_at": "2026-10-07T15:28:39.121408+00:00",
-    "lane": "WADESBORO NC-ATLANTA GA"
-  },
-  {
     "pro": "50871",
     "status": "OPEN",
     "pu_date": "2026-10-07",
@@ -86,6 +52,24 @@
     "lane": "RICE LAKE WI-PINE APPLE AL"
   },
   {
+    "pro": "8890421",
+    "status": "OPEN",
+    "spot": true,
+    "pu_date": "2026-10-07",
+    "pu_city": "OAKLAND",
+    "pu_state": "TN",
+    "pu_hours": "",
+    "del_date": "2026-10-08",
+    "del_city": "MIDLOTHIAN",
+    "del_state": "TX",
+    "del_hours": "",
+    "equipment": "Van Hazmat",
+    "weight_lbs": 44900,
+    "carrier_rate": 2400,
+    "updated_at": "2026-10-07T16:58:39.117296+00:00",
+    "lane": "OAKLAND TN-MIDLOTHIAN TX"
+  },
+  {
     "pro": "50796",
     "status": "OPEN",
     "pu_date": "2026-10-08",
@@ -99,7 +83,7 @@
     "equipment": "Van",
     "weight_lbs": 14580,
     "carrier_rate": 1000,
-    "updated_at": "2026-10-07T14:56:30.018527+00:00",
+    "updated_at": "2026-10-07T17:02:07.514850+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
@@ -116,7 +100,7 @@
     "equipment": "Van",
     "weight_lbs": 12480,
     "carrier_rate": 1000,
-    "updated_at": "2026-10-07T15:06:24.535003+00:00",
+    "updated_at": "2026-10-07T17:02:15.983999+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
@@ -286,7 +270,7 @@
     "equipment": "Van",
     "weight_lbs": 7221,
     "carrier_rate": 500,
-    "updated_at": "2026-10-07T16:37:23.663361+00:00",
+    "updated_at": "2026-10-07T16:55:29.622050+00:00",
     "lane": "RALEIGH NC-WINSTON SALEM NC"
   },
   {
@@ -303,7 +287,7 @@
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 2812,
     "carrier_rate": 300,
-    "updated_at": "2026-10-07T16:37:09.962996+00:00",
+    "updated_at": "2026-10-07T16:57:04.086119+00:00",
     "lane": "RALEIGH NC-WINSTON SALEM NC"
   },
   {
@@ -316,11 +300,11 @@
     "del_date": "2026-10-12",
     "del_city": "OAKLAND",
     "del_state": "CA",
-    "del_hours": "CALL!!",
+    "del_hours": "0300-1200",
     "equipment": "Van",
     "weight_lbs": 15000,
-    "carrier_rate": null,
-    "updated_at": "2026-10-07T16:49:57.472922+00:00",
+    "carrier_rate": 6000,
+    "updated_at": "2026-10-07T17:01:41.019219+00:00",
     "lane": "BELCAMP MD-OAKLAND CA"
   },
   {
@@ -1004,23 +988,6 @@
     "lane": "GARLAND TX-CALHOUN GA"
   },
   {
-    "pro": "50775",
-    "status": "RELEASED",
-    "pu_date": "2026-10-05",
-    "pu_city": "WADESBORO",
-    "pu_state": "NC",
-    "pu_hours": "0730-1630",
-    "del_date": "2026-10-06",
-    "del_city": "ATLANTA",
-    "del_state": "GA",
-    "del_hours": "0800-1600",
-    "equipment": "Van",
-    "weight_lbs": 44000,
-    "carrier_rate": 950,
-    "updated_at": "2026-10-07T11:46:39.171915+00:00",
-    "lane": "WADESBORO NC-ATLANTA GA"
-  },
-  {
     "pro": "50801",
     "status": "DELIVERED",
     "pu_date": "2026-10-05",
@@ -1053,40 +1020,6 @@
     "carrier_rate": 2800,
     "updated_at": "2026-10-07T12:57:16.456711+00:00",
     "lane": "PASADENA TX-GREENVILLE SC"
-  },
-  {
-    "pro": "50794",
-    "status": "CONSIGNEE",
-    "pu_date": "2026-10-06",
-    "pu_city": "WADESBORO",
-    "pu_state": "NC",
-    "pu_hours": "0730-1630",
-    "del_date": "2026-10-07",
-    "del_city": "ATLANTA",
-    "del_state": "GA",
-    "del_hours": "0800-1600",
-    "equipment": "Van",
-    "weight_lbs": 44000,
-    "carrier_rate": 900,
-    "updated_at": "2026-10-07T15:17:29.417717+00:00",
-    "lane": "WADESBORO NC-ATLANTA GA"
-  },
-  {
-    "pro": "50795",
-    "status": "DELIVERED",
-    "pu_date": "2026-10-06",
-    "pu_city": "WADESBORO",
-    "pu_state": "NC",
-    "pu_hours": "0730-1630",
-    "del_date": "2026-10-07",
-    "del_city": "ATLANTA",
-    "del_state": "GA",
-    "del_hours": "0800-1600",
-    "equipment": "Van",
-    "weight_lbs": 44000,
-    "carrier_rate": 900,
-    "updated_at": "2026-10-07T13:00:11.477052+00:00",
-    "lane": "WADESBORO NC-ATLANTA GA"
   },
   {
     "pro": "50821",
