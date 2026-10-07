@@ -85,6 +85,23 @@
     "lane": "ROCK HILL SC-PLEASANT GARDEN NC"
   },
   {
+    "pro": "50871",
+    "status": "OPEN",
+    "pu_date": "2026-10-07",
+    "pu_city": "ROCK HILL",
+    "pu_state": "SC",
+    "pu_hours": "0800-0900",
+    "del_date": "2026-10-08",
+    "del_city": "CARY",
+    "del_state": "NC",
+    "del_hours": "0800-0900",
+    "equipment": "26' Straight Box Truck",
+    "weight_lbs": 10290,
+    "carrier_rate": 400,
+    "updated_at": "2026-10-07T16:11:56.204820+00:00",
+    "lane": "ROCK HILL SC-CARY NC"
+  },
+  {
     "pro": "50796",
     "status": "OPEN",
     "pu_date": "2026-10-08",
@@ -264,11 +281,11 @@
     "del_date": "2026-10-09",
     "del_city": "LITHIA SPRINGS",
     "del_state": "GA",
-    "del_hours": "0800-1500",
+    "del_hours": "0800",
     "equipment": "Van",
     "weight_lbs": 36000,
     "carrier_rate": 600,
-    "updated_at": "2026-10-07T15:58:56.797432+00:00",
+    "updated_at": "2026-10-07T16:10:51.515691+00:00",
     "lane": "LAGRANGE GA-LITHIA SPRINGS GA"
   },
   {
@@ -285,7 +302,7 @@
     "equipment": "Van",
     "weight_lbs": 15000,
     "carrier_rate": 1000,
-    "updated_at": "2026-10-07T16:09:29.635093+00:00",
+    "updated_at": "2026-10-07T16:10:33.641617+00:00",
     "lane": "MOUNT PLEASANT TN-BEAN STATION TN"
   },
   {
