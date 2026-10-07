@@ -29,8 +29,8 @@
     "del_hours": "0600-1500",
     "equipment": "Van Hazmat",
     "weight_lbs": 44900,
-    "carrier_rate": 2200,
-    "updated_at": "2026-10-06T20:39:22.497200+00:00",
+    "carrier_rate": 2400,
+    "updated_at": "2026-10-07T15:54:14.645742+00:00",
     "lane": "OAKLAND TN-MIDLOTHIAN TX"
   },
   {
@@ -66,6 +66,23 @@
     "carrier_rate": 4000,
     "updated_at": "2026-10-07T15:06:27.295152+00:00",
     "lane": "BELCAMP MD-PFLUGERVILLE TX"
+  },
+  {
+    "pro": "50868",
+    "status": "OPEN",
+    "pu_date": "2026-10-07",
+    "pu_city": "ROCK HILL",
+    "pu_state": "SC",
+    "pu_hours": "0800-1430",
+    "del_date": "2026-10-08",
+    "del_city": "PLEASANT GARDEN",
+    "del_state": "NC",
+    "del_hours": "0700-0800",
+    "equipment": "26' Straight Box Truck",
+    "weight_lbs": 8900,
+    "carrier_rate": 350,
+    "updated_at": "2026-10-07T15:53:17.272121+00:00",
+    "lane": "ROCK HILL SC-PLEASANT GARDEN NC"
   },
   {
     "pro": "50796",
@@ -199,8 +216,8 @@
     "del_hours": "0600-1400",
     "equipment": "Flatbed w/ Tarps",
     "weight_lbs": 46908,
-    "carrier_rate": 1200,
-    "updated_at": "2026-10-07T15:38:01.388036+00:00",
+    "carrier_rate": 1000,
+    "updated_at": "2026-10-07T15:54:07.842845+00:00",
     "lane": "COLUMBUS GA-SANTA ROSA BEACH FL"
   },
   {
