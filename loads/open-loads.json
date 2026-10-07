@@ -80,26 +80,9 @@
     "del_hours": "0630-1530",
     "equipment": "Van",
     "weight_lbs": 15000,
-    "carrier_rate": null,
-    "updated_at": "2026-10-07T15:03:45.446444+00:00",
+    "carrier_rate": 4000,
+    "updated_at": "2026-10-07T15:06:27.295152+00:00",
     "lane": "BELCAMP MD-PFLUGERVILLE TX"
-  },
-  {
-    "pro": "50769",
-    "status": "OPEN",
-    "pu_date": "2026-10-08",
-    "pu_city": "MOUNT STERLING",
-    "pu_state": "KY",
-    "pu_hours": "1300",
-    "del_date": "2026-10-12",
-    "del_city": "MIRA LOMA",
-    "del_state": "CA",
-    "del_hours": "0630",
-    "equipment": "Van",
-    "weight_lbs": 4800,
-    "carrier_rate": 4200,
-    "updated_at": "2026-10-07T12:12:07.706069+00:00",
-    "lane": "MOUNT STERLING KY-MIRA LOMA CA"
   },
   {
     "pro": "50796",
@@ -124,15 +107,15 @@
     "pu_date": "2026-10-08",
     "pu_city": "WINCHESTER",
     "pu_state": "KY",
-    "pu_hours": "REQ",
+    "pu_hours": "1200-1500",
     "del_date": "2026-10-09",
     "del_city": "JOLIET",
     "del_state": "IL",
-    "del_hours": "",
+    "del_hours": "2030",
     "equipment": "Van",
     "weight_lbs": 12480,
     "carrier_rate": 1000,
-    "updated_at": "2026-10-07T14:51:43.165500+00:00",
+    "updated_at": "2026-10-07T15:06:24.535003+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
@@ -217,7 +200,7 @@
     "equipment": "Van",
     "weight_lbs": 5000,
     "carrier_rate": 3300,
-    "updated_at": "2026-10-07T15:04:47.522051+00:00",
+    "updated_at": "2026-10-07T15:18:36.307727+00:00",
     "lane": "WINCHESTER KY-FREDERICTON NB"
   },
   {
@@ -765,23 +748,6 @@
     "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
-    "pro": "50661",
-    "status": "RELEASED",
-    "pu_date": "2026-09-30",
-    "pu_city": "MOUNT STERLING",
-    "pu_state": "KY",
-    "pu_hours": "1200",
-    "del_date": "2026-10-04",
-    "del_city": "MIRA LOMA",
-    "del_state": "CA",
-    "del_hours": "0500",
-    "equipment": "Van",
-    "weight_lbs": 4800,
-    "carrier_rate": 4400,
-    "updated_at": "2026-10-05T12:00:54.904387+00:00",
-    "lane": "MOUNT STERLING KY-MIRA LOMA CA"
-  },
-  {
     "pro": "50720",
     "status": "DELIVERED",
     "pu_date": "2026-09-30",
@@ -970,7 +936,7 @@
   },
   {
     "pro": "50794",
-    "status": "LOADED",
+    "status": "CONSIGNEE",
     "pu_date": "2026-10-06",
     "pu_city": "WADESBORO",
     "pu_state": "NC",
@@ -982,7 +948,7 @@
     "equipment": "Van",
     "weight_lbs": 44000,
     "carrier_rate": 900,
-    "updated_at": "2026-10-07T12:59:23.425412+00:00",
+    "updated_at": "2026-10-07T15:17:29.417717+00:00",
     "lane": "WADESBORO NC-ATLANTA GA"
   },
   {
@@ -1050,7 +1016,7 @@
     "equipment": "Van",
     "weight_lbs": 34000,
     "carrier_rate": 650,
-    "updated_at": "2026-10-07T14:57:47.724523+00:00",
+    "updated_at": "2026-10-07T15:11:54.255344+00:00",
     "lane": "MACON GA-CALHOUN GA"
   }
 ]
