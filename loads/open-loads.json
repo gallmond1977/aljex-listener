@@ -99,8 +99,8 @@
     "del_hours": "0800-1500",
     "equipment": "Flatbed w/ Tarps",
     "weight_lbs": 42000,
-    "carrier_rate": 2500,
-    "updated_at": "2026-10-07T18:17:26.440669+00:00",
+    "carrier_rate": 2700,
+    "updated_at": "2026-10-07T18:20:52.435370+00:00",
     "lane": "ALPHARETTA GA-MARSHALL VA"
   },
   {
@@ -170,23 +170,6 @@
     "carrier_rate": 3300,
     "updated_at": "2026-10-07T18:01:59.240596+00:00",
     "lane": "WINCHESTER KY-FREDERICTON NB"
-  },
-  {
-    "pro": "50866",
-    "status": "OPEN",
-    "pu_date": "2026-10-08",
-    "pu_city": "COLUMBUS",
-    "pu_state": "GA",
-    "pu_hours": "1300-1500",
-    "del_date": "2026-10-09",
-    "del_city": "SANTA ROSA BEACH",
-    "del_state": "FL",
-    "del_hours": "0600-1400",
-    "equipment": "Flatbed w/ Tarps",
-    "weight_lbs": 46908,
-    "carrier_rate": 1000,
-    "updated_at": "2026-10-07T15:54:07.842845+00:00",
-    "lane": "COLUMBUS GA-SANTA ROSA BEACH FL"
   },
   {
     "pro": "50867",
@@ -324,6 +307,23 @@
     "carrier_rate": null,
     "updated_at": "2026-10-07T13:54:15.428651+00:00",
     "lane": "BENSENVILLE IL-ALPHARETTA GA"
+  },
+  {
+    "pro": "50866",
+    "status": "OPEN",
+    "pu_date": "2026-10-09",
+    "pu_city": "COLUMBUS",
+    "pu_state": "GA",
+    "pu_hours": "1300-1500",
+    "del_date": "2026-10-12",
+    "del_city": "SANTA ROSA BEACH",
+    "del_state": "FL",
+    "del_hours": "0600-1400",
+    "equipment": "Flatbed w/ Tarps",
+    "weight_lbs": 46908,
+    "carrier_rate": 1000,
+    "updated_at": "2026-10-07T18:23:22.082099+00:00",
+    "lane": "COLUMBUS GA-SANTA ROSA BEACH FL"
   },
   {
     "pro": "50876",
