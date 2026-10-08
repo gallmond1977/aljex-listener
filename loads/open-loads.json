@@ -500,23 +500,6 @@
     "lane": "BELCAMP MD-EL PASO TX"
   },
   {
-    "pro": "50839",
-    "status": "OPEN",
-    "pu_date": "2026-10-15",
-    "pu_city": "GARLAND",
-    "pu_state": "TX",
-    "pu_hours": "1200-1400",
-    "del_date": "2026-10-16",
-    "del_city": "CALHOUN",
-    "del_state": "GA",
-    "del_hours": "0730-1400",
-    "equipment": "Van",
-    "weight_lbs": 36600,
-    "carrier_rate": 1800,
-    "updated_at": "2026-10-06T14:54:51.727771+00:00",
-    "lane": "GARLAND TX-CALHOUN GA"
-  },
-  {
     "pro": "50846",
     "status": "OPEN",
     "pu_date": "2026-10-15",
