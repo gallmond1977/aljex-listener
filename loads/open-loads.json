@@ -262,6 +262,23 @@
     "lane": "GRAND PRAIRIE TX-COLUMBUS GA"
   },
   {
+    "pro": "50905",
+    "status": "OPEN",
+    "pu_date": "2026-10-09",
+    "pu_city": "MCPHERSON",
+    "pu_state": "KS",
+    "pu_hours": "0700-1200",
+    "del_date": "2026-10-12",
+    "del_city": "WHITE",
+    "del_state": "GA",
+    "del_hours": "0800-0900",
+    "equipment": "Sprinter Van",
+    "weight_lbs": 250,
+    "carrier_rate": 1300,
+    "updated_at": "2026-10-08T18:35:07.777341+00:00",
+    "lane": "MCPHERSON KS-WHITE GA"
+  },
+  {
     "pro": "50844",
     "status": "OPEN",
     "pu_date": "2026-10-12",
@@ -409,9 +426,9 @@
     "del_state": "TX",
     "del_hours": "0830-1600",
     "equipment": "Van",
-    "weight_lbs": 35000,
+    "weight_lbs": 36000,
     "carrier_rate": 2200,
-    "updated_at": "2026-10-08T17:29:55.380723+00:00",
+    "updated_at": "2026-10-08T18:34:05.802215+00:00",
     "lane": "LAGRANGE GA-LAGO VISTA TX"
   },
   {
@@ -972,7 +989,7 @@
     "equipment": "Van",
     "weight_lbs": 44000,
     "carrier_rate": 850,
-    "updated_at": "2026-10-08T17:34:07.702901+00:00",
+    "updated_at": "2026-10-08T18:30:46.133278+00:00",
     "lane": "WADESBORO NC-ATLANTA GA"
   },
   {
