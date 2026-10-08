@@ -36,6 +36,23 @@
     "lane": "OAKLAND TN-MIDLOTHIAN TX"
   },
   {
+    "pro": "50904",
+    "status": "OPEN",
+    "pu_date": "2026-10-08",
+    "pu_city": "MEXICO",
+    "pu_state": "MO",
+    "pu_hours": "1400",
+    "del_date": "2026-10-09",
+    "del_city": "CAPE GIRARDEAU",
+    "del_state": "MO",
+    "del_hours": "0800-0900",
+    "equipment": "26' Straight Box Truck",
+    "weight_lbs": 6000,
+    "carrier_rate": 500,
+    "updated_at": "2026-10-08T18:18:21.548004+00:00",
+    "lane": "MEXICO MO-CAPE GIRARDEAU MO"
+  },
+  {
     "pro": "8890422",
     "status": "OPEN",
     "spot": true,
