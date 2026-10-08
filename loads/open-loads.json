@@ -82,8 +82,8 @@
     "del_hours": "0500-1200",
     "equipment": "Van",
     "weight_lbs": 15000,
-    "carrier_rate": 4800,
-    "updated_at": "2026-10-07T19:58:46.054631+00:00",
+    "carrier_rate": 5400,
+    "updated_at": "2026-10-08T12:29:59.835155+00:00",
     "lane": "BELCAMP MD-OAKLAND CA"
   },
   {
@@ -151,7 +151,7 @@
     "equipment": "Van",
     "weight_lbs": 40000,
     "carrier_rate": 500,
-    "updated_at": "2026-10-07T19:50:47.927999+00:00",
+    "updated_at": "2026-10-08T12:28:17.443916+00:00",
     "lane": "CENTRAL SC-BELMONT NC"
   },
   {
@@ -1159,7 +1159,7 @@
     "equipment": "Van",
     "weight_lbs": 5000,
     "carrier_rate": 3250,
-    "updated_at": "2026-10-08T12:24:21.958765+00:00",
+    "updated_at": "2026-10-08T12:28:38.006321+00:00",
     "lane": "WINCHESTER KY-FREDERICTON NB"
   },
   {
