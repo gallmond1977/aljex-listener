@@ -138,23 +138,6 @@
     "lane": "BUENA VISTA GA-INDIAN TRAIL NC"
   },
   {
-    "pro": "50888",
-    "status": "OPEN",
-    "pu_date": "2026-10-08",
-    "pu_city": "OAKLAND",
-    "pu_state": "TN",
-    "pu_hours": "0800-1500",
-    "del_date": "2026-10-10",
-    "del_city": "SALISBURY",
-    "del_state": "NC",
-    "del_hours": "0800",
-    "equipment": "Van Hazmat",
-    "weight_lbs": 44900,
-    "carrier_rate": 4000,
-    "updated_at": "2026-10-08T12:12:06.309211+00:00",
-    "lane": "OAKLAND TN-SALISBURY NC"
-  },
-  {
     "pro": "50891",
     "status": "OPEN",
     "pu_date": "2026-10-08",
@@ -891,23 +874,6 @@
     "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
-    "pro": "50751",
-    "status": "RELEASED",
-    "pu_date": "2026-09-30",
-    "pu_city": "OAKLAND",
-    "pu_state": "TN",
-    "pu_hours": "0800-1500",
-    "del_date": "2026-10-01",
-    "del_city": "SALISBURY",
-    "del_state": "NC",
-    "del_hours": "0600-0800",
-    "equipment": "Van Hazmat",
-    "weight_lbs": 44900,
-    "carrier_rate": 2450,
-    "updated_at": "2026-10-01T16:40:20.432308+00:00",
-    "lane": "OAKLAND TN-SALISBURY NC"
-  },
-  {
     "pro": "50753",
     "status": "RELEASED",
     "pu_date": "2026-10-01",
@@ -1059,23 +1025,6 @@
     "carrier_rate": 2800,
     "updated_at": "2026-10-08T11:50:07.192863+00:00",
     "lane": "PASADENA TX-GREENVILLE SC"
-  },
-  {
-    "pro": "50804",
-    "status": "DELIVERED",
-    "pu_date": "2026-10-06",
-    "pu_city": "OAKLAND",
-    "pu_state": "TN",
-    "pu_hours": "0800-1500",
-    "del_date": "2026-10-07",
-    "del_city": "SALISBURY",
-    "del_state": "NC",
-    "del_hours": "0600-0800",
-    "equipment": "Van Hazmat",
-    "weight_lbs": 44900,
-    "carrier_rate": 3000,
-    "updated_at": "2026-10-07T16:32:52.543872+00:00",
-    "lane": "OAKLAND TN-SALISBURY NC"
   },
   {
     "pro": "50816",
