@@ -49,7 +49,7 @@
     "equipment": "Van",
     "weight_lbs": 14800,
     "carrier_rate": 2600,
-    "updated_at": "2026-10-08T13:53:09.206785+00:00",
+    "updated_at": "2026-10-08T13:55:23.348853+00:00",
     "lane": "BENSENVILLE IL-ALPHARETTA GA"
   },
   {
@@ -168,7 +168,7 @@
     "equipment": "Van",
     "weight_lbs": 44000,
     "carrier_rate": 850,
-    "updated_at": "2026-10-08T13:51:38.909746+00:00",
+    "updated_at": "2026-10-08T13:57:40.298204+00:00",
     "lane": "WADESBORO NC-ATLANTA GA"
   },
   {
@@ -360,7 +360,7 @@
     "equipment": "Van",
     "weight_lbs": 44000,
     "carrier_rate": 850,
-    "updated_at": "2026-10-08T13:54:39.209265+00:00",
+    "updated_at": "2026-10-08T13:55:14.912803+00:00",
     "lane": "WADESBORO NC-ATLANTA GA"
   },
   {
