@@ -87,23 +87,6 @@
     "lane": "MACON GA-WINSTON SALEM NC"
   },
   {
-    "pro": "50885",
-    "status": "OPEN",
-    "pu_date": "2026-10-08",
-    "pu_city": "CENTRAL",
-    "pu_state": "SC",
-    "pu_hours": "0800-1130",
-    "del_date": "2026-10-08",
-    "del_city": "BELMONT",
-    "del_state": "NC",
-    "del_hours": "0800-1500",
-    "equipment": "Van",
-    "weight_lbs": 40000,
-    "carrier_rate": 600,
-    "updated_at": "2026-10-08T13:34:43.200170+00:00",
-    "lane": "CENTRAL SC-BELMONT NC"
-  },
-  {
     "pro": "50891",
     "status": "OPEN",
     "pu_date": "2026-10-08",
@@ -136,6 +119,23 @@
     "carrier_rate": 600,
     "updated_at": "2026-10-08T13:21:56.265525+00:00",
     "lane": "MACON GA-CALHOUN GA"
+  },
+  {
+    "pro": "50893",
+    "status": "OPEN",
+    "pu_date": "2026-10-08",
+    "pu_city": "WADESBORO",
+    "pu_state": "NC",
+    "pu_hours": "0730-1630",
+    "del_date": "2026-10-09",
+    "del_city": "ATLANTA",
+    "del_state": "GA",
+    "del_hours": "0800-1600",
+    "equipment": "Van",
+    "weight_lbs": 44000,
+    "carrier_rate": 850,
+    "updated_at": "2026-10-08T13:41:25.661447+00:00",
+    "lane": "WADESBORO NC-ATLANTA GA"
   },
   {
     "pro": "8890422",
@@ -874,6 +874,23 @@
     "lane": "GARLAND TX-CALHOUN GA"
   },
   {
+    "pro": "50775",
+    "status": "RELEASED",
+    "pu_date": "2026-10-05",
+    "pu_city": "WADESBORO",
+    "pu_state": "NC",
+    "pu_hours": "0730-1630",
+    "del_date": "2026-10-06",
+    "del_city": "ATLANTA",
+    "del_state": "GA",
+    "del_hours": "0800-1600",
+    "equipment": "Van",
+    "weight_lbs": 44000,
+    "carrier_rate": 950,
+    "updated_at": "2026-10-07T11:46:39.171915+00:00",
+    "lane": "WADESBORO NC-ATLANTA GA"
+  },
+  {
     "pro": "50801",
     "status": "DELIVERED",
     "pu_date": "2026-10-05",
@@ -906,6 +923,40 @@
     "carrier_rate": 2800,
     "updated_at": "2026-10-08T13:29:21.457708+00:00",
     "lane": "PASADENA TX-GREENVILLE SC"
+  },
+  {
+    "pro": "50794",
+    "status": "DELIVERED",
+    "pu_date": "2026-10-06",
+    "pu_city": "WADESBORO",
+    "pu_state": "NC",
+    "pu_hours": "0730-1630",
+    "del_date": "2026-10-07",
+    "del_city": "ATLANTA",
+    "del_state": "GA",
+    "del_hours": "0800-1600",
+    "equipment": "Van",
+    "weight_lbs": 44000,
+    "carrier_rate": 900,
+    "updated_at": "2026-10-07T18:51:50.621191+00:00",
+    "lane": "WADESBORO NC-ATLANTA GA"
+  },
+  {
+    "pro": "50795",
+    "status": "DELIVERED",
+    "pu_date": "2026-10-06",
+    "pu_city": "WADESBORO",
+    "pu_state": "NC",
+    "pu_hours": "0730-1630",
+    "del_date": "2026-10-07",
+    "del_city": "ATLANTA",
+    "del_state": "GA",
+    "del_hours": "0800-1600",
+    "equipment": "Van",
+    "weight_lbs": 44000,
+    "carrier_rate": 900,
+    "updated_at": "2026-10-07T13:00:11.477052+00:00",
+    "lane": "WADESBORO NC-ATLANTA GA"
   },
   {
     "pro": "50816",
@@ -991,6 +1042,23 @@
     "carrier_rate": 650,
     "updated_at": "2026-10-08T12:48:25.773457+00:00",
     "lane": "MACON GA-CALHOUN GA"
+  },
+  {
+    "pro": "50864",
+    "status": "RELEASED",
+    "pu_date": "2026-10-07",
+    "pu_city": "WADESBORO",
+    "pu_state": "NC",
+    "pu_hours": "0730-1630",
+    "del_date": "2026-10-08",
+    "del_city": "ATLANTA",
+    "del_state": "GA",
+    "del_hours": "0800-1600",
+    "equipment": "Flatbed",
+    "weight_lbs": 44000,
+    "carrier_rate": 950,
+    "updated_at": "2026-10-08T13:04:34.140655+00:00",
+    "lane": "WADESBORO NC-ATLANTA GA"
   },
   {
     "pro": "50810",
