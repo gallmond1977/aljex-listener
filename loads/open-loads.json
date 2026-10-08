@@ -190,7 +190,7 @@
     "equipment": "Van",
     "weight_lbs": 44000,
     "carrier_rate": 1800,
-    "updated_at": "2026-10-08T19:15:16.710608+00:00",
+    "updated_at": "2026-10-08T19:21:09.616647+00:00",
     "lane": "GRAND PRAIRIE TX-COLUMBUS GA"
   },
   {
@@ -207,7 +207,7 @@
     "equipment": "Van",
     "weight_lbs": 43000,
     "carrier_rate": 1800,
-    "updated_at": "2026-10-08T19:15:26.509236+00:00",
+    "updated_at": "2026-10-08T19:21:19.780125+00:00",
     "lane": "GRAND PRAIRIE TX-COLUMBUS GA"
   },
   {
@@ -430,6 +430,23 @@
     "carrier_rate": 2200,
     "updated_at": "2026-10-08T18:34:05.802215+00:00",
     "lane": "LAGRANGE GA-LAGO VISTA TX"
+  },
+  {
+    "pro": "50909",
+    "status": "OPEN",
+    "pu_date": "2026-10-12",
+    "pu_city": "GREER",
+    "pu_state": "SC",
+    "pu_hours": "0700-1500",
+    "del_date": "2026-10-13",
+    "del_city": "ZEBULON",
+    "del_state": "GA",
+    "del_hours": "0700-1500",
+    "equipment": "Van",
+    "weight_lbs": 16800,
+    "carrier_rate": 800,
+    "updated_at": "2026-10-08T19:24:50.966420+00:00",
+    "lane": "GREER SC-ZEBULON GA"
   },
   {
     "pro": "50758",
