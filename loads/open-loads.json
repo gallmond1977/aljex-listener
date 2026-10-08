@@ -53,23 +53,6 @@
     "lane": "LELAND NC-SAVANNAH GA"
   },
   {
-    "pro": "50875",
-    "status": "OPEN",
-    "pu_date": "2026-10-08",
-    "pu_city": "BELCAMP",
-    "pu_state": "MD",
-    "pu_hours": "0800-1500",
-    "del_date": "2026-10-12",
-    "del_city": "OAKLAND",
-    "del_state": "CA",
-    "del_hours": "0500-1200",
-    "equipment": "Van",
-    "weight_lbs": 15000,
-    "carrier_rate": 5800,
-    "updated_at": "2026-10-08T13:53:51.204632+00:00",
-    "lane": "BELCAMP MD-OAKLAND CA"
-  },
-  {
     "pro": "50881",
     "status": "OPEN",
     "pu_date": "2026-10-08",
@@ -188,7 +171,7 @@
     "equipment": "Flatbed",
     "weight_lbs": 47500,
     "carrier_rate": 1800,
-    "updated_at": "2026-10-08T12:13:36.810469+00:00",
+    "updated_at": "2026-10-08T14:20:44.469062+00:00",
     "lane": "PERRYVILLE MO-KANSAS CITY MO"
   },
   {
