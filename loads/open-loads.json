@@ -126,23 +126,6 @@
     "lane": "TROY TN-OMAHA NE"
   },
   {
-    "pro": "50812",
-    "status": "OPEN",
-    "pu_date": "2026-10-09",
-    "pu_city": "HOUSTON",
-    "pu_state": "TX",
-    "pu_hours": "0700",
-    "del_date": "2026-10-12",
-    "del_city": "SANFORD",
-    "del_state": "FL",
-    "del_hours": "0700",
-    "equipment": "26' Straight Box Truck",
-    "weight_lbs": 7000,
-    "carrier_rate": 1800,
-    "updated_at": "2026-10-08T16:54:12.054679+00:00",
-    "lane": "HOUSTON TX-SANFORD FL"
-  },
-  {
     "pro": "50866",
     "status": "OPEN",
     "pu_date": "2026-10-09",
@@ -923,23 +906,6 @@
     "carrier_rate": 950,
     "updated_at": "2026-10-08T13:04:34.140655+00:00",
     "lane": "WADESBORO NC-ATLANTA GA"
-  },
-  {
-    "pro": "50810",
-    "status": "LOADED",
-    "pu_date": "2026-10-08",
-    "pu_city": "HOUSTON",
-    "pu_state": "TX",
-    "pu_hours": "0700",
-    "del_date": "2026-10-09",
-    "del_city": "SANFORD",
-    "del_state": "FL",
-    "del_hours": "0700",
-    "equipment": "26' Straight Box Truck",
-    "weight_lbs": 7000,
-    "carrier_rate": 2400,
-    "updated_at": "2026-10-08T15:08:18.724276+00:00",
-    "lane": "HOUSTON TX-SANFORD FL"
   },
   {
     "pro": "50879",
