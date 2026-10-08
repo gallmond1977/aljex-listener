@@ -189,6 +189,23 @@
     "lane": "OAKLAND TN-SALISBURY NC"
   },
   {
+    "pro": "50891",
+    "status": "OPEN",
+    "pu_date": "2026-10-08",
+    "pu_city": "MONTGOMERY",
+    "pu_state": "AL",
+    "pu_hours": "0730-1500",
+    "del_date": "2026-10-09",
+    "del_city": "AUGUSTA",
+    "del_state": "GA",
+    "del_hours": "0800-1600",
+    "equipment": "Flatbed",
+    "weight_lbs": 47000,
+    "carrier_rate": null,
+    "updated_at": "2026-10-08T12:58:40.649079+00:00",
+    "lane": "MONTGOMERY AL-AUGUSTA GA"
+  },
+  {
     "pro": "8890422",
     "status": "OPEN",
     "spot": true,
@@ -377,7 +394,7 @@
     "equipment": "Flatbed w/ Tarps",
     "weight_lbs": 46908,
     "carrier_rate": 1000,
-    "updated_at": "2026-10-07T18:35:57.323651+00:00",
+    "updated_at": "2026-10-08T12:58:41.697274+00:00",
     "lane": "COLUMBUS GA-SANTA ROSA BEACH FL"
   },
   {
@@ -1110,6 +1127,40 @@
     "carrier_rate": 3000,
     "updated_at": "2026-10-07T16:32:52.543872+00:00",
     "lane": "OAKLAND TN-SALISBURY NC"
+  },
+  {
+    "pro": "50816",
+    "status": "RELEASED",
+    "pu_date": "2026-10-06",
+    "pu_city": "MONTGOMERY",
+    "pu_state": "AL",
+    "pu_hours": "0730-1500",
+    "del_date": "2026-10-07",
+    "del_city": "AUGUSTA",
+    "del_state": "GA",
+    "del_hours": "0800-1600",
+    "equipment": "Flatbed",
+    "weight_lbs": 47500,
+    "carrier_rate": 1200,
+    "updated_at": "2026-10-07T16:29:56.998331+00:00",
+    "lane": "MONTGOMERY AL-AUGUSTA GA"
+  },
+  {
+    "pro": "50815",
+    "status": "LOADED",
+    "pu_date": "2026-10-07",
+    "pu_city": "MONTGOMERY",
+    "pu_state": "AL",
+    "pu_hours": "0730-1500",
+    "del_date": "2026-10-08",
+    "del_city": "AUGUSTA",
+    "del_state": "GA",
+    "del_hours": "0800-1600",
+    "equipment": "Flatbed",
+    "weight_lbs": 47000,
+    "carrier_rate": 1250,
+    "updated_at": "2026-10-07T18:32:27.606070+00:00",
+    "lane": "MONTGOMERY AL-AUGUSTA GA"
   },
   {
     "pro": "50810",
