@@ -143,23 +143,6 @@
     "lane": "TROY TN-OMAHA NE"
   },
   {
-    "pro": "50866",
-    "status": "OPEN",
-    "pu_date": "2026-10-09",
-    "pu_city": "COLUMBUS",
-    "pu_state": "GA",
-    "pu_hours": "1300-1500",
-    "del_date": "2026-10-12",
-    "del_city": "SANTA ROSA BEACH",
-    "del_state": "FL",
-    "del_hours": "0600-1400",
-    "equipment": "Flatbed w/ Tarps",
-    "weight_lbs": 46908,
-    "carrier_rate": 1000,
-    "updated_at": "2026-10-08T18:27:42.251444+00:00",
-    "lane": "COLUMBUS GA-SANTA ROSA BEACH FL"
-  },
-  {
     "pro": "50876",
     "status": "OPEN",
     "pu_date": "2026-10-09",
@@ -755,23 +738,6 @@
     "lane": "LA PORTE TX-GREENVILLE SC"
   },
   {
-    "pro": "50692",
-    "status": "RELEASED",
-    "pu_date": "2026-09-30",
-    "pu_city": "COLUMBUS",
-    "pu_state": "GA",
-    "pu_hours": "0800-1500",
-    "del_date": "2026-10-01",
-    "del_city": "SANTA ROSA BEACH",
-    "del_state": "FL",
-    "del_hours": "0600-1400",
-    "equipment": "Flatbed w/ Tarps",
-    "weight_lbs": 46401,
-    "carrier_rate": 1250,
-    "updated_at": "2026-10-05T13:15:07.638061+00:00",
-    "lane": "COLUMBUS GA-SANTA ROSA BEACH FL"
-  },
-  {
     "pro": "50753",
     "status": "RELEASED",
     "pu_date": "2026-10-01",
@@ -1023,7 +989,7 @@
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 2800,
     "carrier_rate": 700,
-    "updated_at": "2026-10-08T18:44:14.174637+00:00",
+    "updated_at": "2026-10-08T18:59:26.890023+00:00",
     "lane": "MACON GA-WINSTON SALEM NC"
   },
   {
