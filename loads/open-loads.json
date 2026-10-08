@@ -330,23 +330,6 @@
     "lane": "NEWNAN GA-KNOXVILLE TN"
   },
   {
-    "pro": "50082",
-    "status": "OPEN",
-    "pu_date": "2026-10-12",
-    "pu_city": "RICHMOND",
-    "pu_state": "VA",
-    "pu_hours": "0630-0700",
-    "del_date": "2026-10-12",
-    "del_city": "RICHMOND",
-    "del_state": "VA",
-    "del_hours": "CALL!",
-    "equipment": "26' Straight Box Truck",
-    "weight_lbs": 5000,
-    "carrier_rate": 200,
-    "updated_at": "2026-09-21T15:21:49.835330+00:00",
-    "lane": "RICHMOND VA-RICHMOND VA"
-  },
-  {
     "pro": "50844",
     "status": "OPEN",
     "pu_date": "2026-10-12",
@@ -497,6 +480,23 @@
     "weight_lbs": 4000,
     "carrier_rate": 200,
     "updated_at": "2026-10-05T17:10:53.025485+00:00",
+    "lane": "RICHMOND VA-RICHMOND VA"
+  },
+  {
+    "pro": "50082",
+    "status": "OPEN",
+    "pu_date": "2026-10-15",
+    "pu_city": "RICHMOND",
+    "pu_state": "VA",
+    "pu_hours": "0630-0700",
+    "del_date": "2026-10-15",
+    "del_city": "RICHMOND",
+    "del_state": "VA",
+    "del_hours": "CALL!",
+    "equipment": "26' Straight Box Truck",
+    "weight_lbs": 5000,
+    "carrier_rate": 200,
+    "updated_at": "2026-10-08T13:40:08.999873+00:00",
     "lane": "RICHMOND VA-RICHMOND VA"
   },
   {
