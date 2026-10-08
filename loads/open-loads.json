@@ -262,6 +262,23 @@
     "lane": "GRAND PRAIRIE TX-COLUMBUS GA"
   },
   {
+    "pro": "50906",
+    "status": "OPEN",
+    "pu_date": "2026-10-09",
+    "pu_city": "ALPHARETTA",
+    "pu_state": "GA",
+    "pu_hours": "0900-1600",
+    "del_date": "2026-10-12",
+    "del_city": "MARSHALL",
+    "del_state": "VA",
+    "del_hours": "0800-1500",
+    "equipment": "Flatbed w/ Tarps",
+    "weight_lbs": 42000,
+    "carrier_rate": 2600,
+    "updated_at": "2026-10-08T18:44:41.465539+00:00",
+    "lane": "ALPHARETTA GA-MARSHALL VA"
+  },
+  {
     "pro": "50844",
     "status": "OPEN",
     "pu_date": "2026-10-12",
@@ -908,6 +925,23 @@
     "lane": "WADESBORO NC-ATLANTA GA"
   },
   {
+    "pro": "50821",
+    "status": "RELEASED",
+    "pu_date": "2026-10-06",
+    "pu_city": "ALPHARETTA",
+    "pu_state": "GA",
+    "pu_hours": "0900-1600",
+    "del_date": "2026-10-07",
+    "del_city": "MARSHALL",
+    "del_state": "VA",
+    "del_hours": "0800-1500",
+    "equipment": "Conestoga",
+    "weight_lbs": 42000,
+    "carrier_rate": 2750,
+    "updated_at": "2026-10-07T18:35:08.245701+00:00",
+    "lane": "ALPHARETTA GA-MARSHALL VA"
+  },
+  {
     "pro": "50864",
     "status": "RELEASED",
     "pu_date": "2026-10-07",
@@ -923,6 +957,23 @@
     "carrier_rate": 950,
     "updated_at": "2026-10-08T13:04:34.140655+00:00",
     "lane": "WADESBORO NC-ATLANTA GA"
+  },
+  {
+    "pro": "50820",
+    "status": "LOADED",
+    "pu_date": "2026-10-08",
+    "pu_city": "ALPHARETTA",
+    "pu_state": "GA",
+    "pu_hours": "0900-1600",
+    "del_date": "2026-10-08",
+    "del_city": "MARSHALL",
+    "del_state": "VA",
+    "del_hours": "0800-1500",
+    "equipment": "Flatbed w/ Tarps",
+    "weight_lbs": 42000,
+    "carrier_rate": 2750,
+    "updated_at": "2026-10-08T18:18:32.546943+00:00",
+    "lane": "ALPHARETTA GA-MARSHALL VA"
   },
   {
     "pro": "50879",
@@ -955,7 +1006,7 @@
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 2800,
     "carrier_rate": 700,
-    "updated_at": "2026-10-08T17:06:19.675968+00:00",
+    "updated_at": "2026-10-08T18:44:14.174637+00:00",
     "lane": "MACON GA-WINSTON SALEM NC"
   },
   {
