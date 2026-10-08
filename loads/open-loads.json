@@ -121,6 +121,23 @@
     "lane": "BELCAMP MD-OAKLAND CA"
   },
   {
+    "pro": "50880",
+    "status": "OPEN",
+    "pu_date": "2026-10-08",
+    "pu_city": "WINCHESTER",
+    "pu_state": "KY",
+    "pu_hours": "1400",
+    "del_date": "2026-10-12",
+    "del_city": "FREDERICTON",
+    "del_state": "NB",
+    "del_hours": "0800",
+    "equipment": "Van",
+    "weight_lbs": 5000,
+    "carrier_rate": 3100,
+    "updated_at": "2026-10-08T12:02:07.351093+00:00",
+    "lane": "WINCHESTER KY-FREDERICTON NB"
+  },
+  {
     "pro": "50881",
     "status": "OPEN",
     "pu_date": "2026-10-08",
@@ -1093,7 +1110,7 @@
   },
   {
     "pro": "50810",
-    "status": "COVERED",
+    "status": "PICKUP",
     "pu_date": "2026-10-08",
     "pu_city": "HOUSTON",
     "pu_state": "TX",
@@ -1105,7 +1122,7 @@
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 7000,
     "carrier_rate": 2400,
-    "updated_at": "2026-10-08T11:45:04.692938+00:00",
+    "updated_at": "2026-10-08T12:04:36.597334+00:00",
     "lane": "HOUSTON TX-SANFORD FL"
   },
   {
@@ -1124,22 +1141,5 @@
     "carrier_rate": 900,
     "updated_at": "2026-10-07T19:36:58.601530+00:00",
     "lane": "MONCURE NC-ATLANTA GA"
-  },
-  {
-    "pro": "50880",
-    "status": "COVERED",
-    "pu_date": "2026-10-08",
-    "pu_city": "WINCHESTER",
-    "pu_state": "KY",
-    "pu_hours": "1400",
-    "del_date": "2026-10-12",
-    "del_city": "FREDERICTON",
-    "del_state": "NB",
-    "del_hours": "0800",
-    "equipment": "Van",
-    "weight_lbs": 5000,
-    "carrier_rate": 3300,
-    "updated_at": "2026-10-07T19:12:58.956505+00:00",
-    "lane": "WINCHESTER KY-FREDERICTON NB"
   }
 ]
