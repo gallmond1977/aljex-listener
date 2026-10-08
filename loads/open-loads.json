@@ -104,6 +104,23 @@
     "lane": "WADESBORO NC-ATLANTA GA"
   },
   {
+    "pro": "50898",
+    "status": "OPEN",
+    "pu_date": "2026-10-08",
+    "pu_city": "PELL CITY",
+    "pu_state": "AL",
+    "pu_hours": "1400",
+    "del_date": "2026-10-09",
+    "del_city": "LINCOLNTON",
+    "del_state": "NC",
+    "del_hours": "0800-1200",
+    "equipment": "Flatbed w/ Tarps",
+    "weight_lbs": 43316,
+    "carrier_rate": null,
+    "updated_at": "2026-10-08T15:20:07.337771+00:00",
+    "lane": "PELL CITY AL-LINCOLNTON NC"
+  },
+  {
     "pro": "8890422",
     "status": "OPEN",
     "spot": true,
@@ -411,7 +428,7 @@
     "equipment": "Van",
     "weight_lbs": 44000,
     "carrier_rate": 1150,
-    "updated_at": "2026-10-08T15:15:08.208890+00:00",
+    "updated_at": "2026-10-08T15:20:00.325721+00:00",
     "lane": "JACKSONVILLE TX-WEWOKA OK"
   },
   {
