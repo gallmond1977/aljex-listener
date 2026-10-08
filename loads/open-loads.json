@@ -48,8 +48,8 @@
     "del_hours": "0930",
     "equipment": "Van",
     "weight_lbs": 44000,
-    "carrier_rate": 800,
-    "updated_at": "2026-10-06T19:33:35.584776+00:00",
+    "carrier_rate": 900,
+    "updated_at": "2026-10-08T12:39:42.911058+00:00",
     "lane": "SAVANNAH GA-ATLANTA GA"
   },
   {
@@ -194,15 +194,15 @@
     "pu_date": "2026-10-08",
     "pu_city": "CREWE",
     "pu_state": "VA",
-    "pu_hours": "1000-1500",
+    "pu_hours": "0800-1500",
     "del_date": "2026-10-09",
     "del_city": "SUMMERVILLE",
     "del_state": "SC",
     "del_hours": "0700-1500",
     "equipment": "Flatbed w/ Tarps",
-    "weight_lbs": 42000,
+    "weight_lbs": 44500,
     "carrier_rate": 1400,
-    "updated_at": "2026-10-08T12:33:55.400273+00:00",
+    "updated_at": "2026-10-08T12:36:54.073325+00:00",
     "lane": "CREWE VA-SUMMERVILLE SC"
   },
   {
@@ -217,9 +217,9 @@
     "del_state": "SC",
     "del_hours": "0700-1500",
     "equipment": "Flatbed w/ Tarps",
-    "weight_lbs": 42000,
+    "weight_lbs": 44500,
     "carrier_rate": 1400,
-    "updated_at": "2026-10-08T12:34:44.244195+00:00",
+    "updated_at": "2026-10-08T12:38:07.484984+00:00",
     "lane": "CREWE VA-SUMMERVILLE SC"
   },
   {
@@ -700,7 +700,7 @@
     "equipment": "Van",
     "weight_lbs": 14572,
     "carrier_rate": 550,
-    "updated_at": "2026-10-07T13:03:45.596374+00:00",
+    "updated_at": "2026-10-08T12:40:13.479466+00:00",
     "lane": "ANDERSONVILLE GA-MACON GA"
   },
   {
@@ -1181,7 +1181,7 @@
   },
   {
     "pro": "50861",
-    "status": "COVERED",
+    "status": "DISPATCHED",
     "pu_date": "2026-10-08",
     "pu_city": "WINCHESTER",
     "pu_state": "KY",
@@ -1193,7 +1193,7 @@
     "equipment": "Van",
     "weight_lbs": 5000,
     "carrier_rate": 3250,
-    "updated_at": "2026-10-08T12:28:38.006321+00:00",
+    "updated_at": "2026-10-08T12:37:15.215848+00:00",
     "lane": "WINCHESTER KY-FREDERICTON NB"
   },
   {
@@ -1210,7 +1210,7 @@
     "equipment": "Van",
     "weight_lbs": 44000,
     "carrier_rate": 900,
-    "updated_at": "2026-10-08T12:34:31.886875+00:00",
+    "updated_at": "2026-10-08T12:36:14.675693+00:00",
     "lane": "MONCURE NC-ATLANTA GA"
   }
 ]
