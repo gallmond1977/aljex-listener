@@ -70,23 +70,6 @@
     "lane": "MONTGOMERY AL-AUGUSTA GA"
   },
   {
-    "pro": "50892",
-    "status": "OPEN",
-    "pu_date": "2026-10-08",
-    "pu_city": "MACON",
-    "pu_state": "GA",
-    "pu_hours": "0800-1530",
-    "del_date": "2026-10-08",
-    "del_city": "CALHOUN",
-    "del_state": "GA",
-    "del_hours": "0700-1500",
-    "equipment": "Van",
-    "weight_lbs": 34000,
-    "carrier_rate": 600,
-    "updated_at": "2026-10-08T16:39:15.550287+00:00",
-    "lane": "MACON GA-CALHOUN GA"
-  },
-  {
     "pro": "8890422",
     "status": "OPEN",
     "spot": true,
@@ -228,21 +211,21 @@
     "lane": "CHEHALIS WA-SALT LAKE CITY UT"
   },
   {
-    "pro": "50877",
+    "pro": "50892",
     "status": "OPEN",
     "pu_date": "2026-10-09",
-    "pu_city": "NEWNAN",
+    "pu_city": "MACON",
     "pu_state": "GA",
-    "pu_hours": "0700",
-    "del_date": "2026-10-09",
-    "del_city": "KNOXVILLE",
-    "del_state": "TN",
-    "del_hours": "0700-1530",
+    "pu_hours": "0800-1530",
+    "del_date": "2026-10-12",
+    "del_city": "CALHOUN",
+    "del_state": "GA",
+    "del_hours": "0700-1500",
     "equipment": "Van",
-    "weight_lbs": 15000,
-    "carrier_rate": 1000,
-    "updated_at": "2026-10-07T18:14:18.584119+00:00",
-    "lane": "NEWNAN GA-KNOXVILLE TN"
+    "weight_lbs": 34000,
+    "carrier_rate": 600,
+    "updated_at": "2026-10-08T16:45:11.270849+00:00",
+    "lane": "MACON GA-CALHOUN GA"
   },
   {
     "pro": "50894",
@@ -345,6 +328,23 @@
     "carrier_rate": 1500,
     "updated_at": "2026-10-06T20:08:03.459324+00:00",
     "lane": "ATHENS AL-GULFPORT MS"
+  },
+  {
+    "pro": "50877",
+    "status": "OPEN",
+    "pu_date": "2026-10-12",
+    "pu_city": "NEWNAN",
+    "pu_state": "GA",
+    "pu_hours": "0700",
+    "del_date": "2026-10-12",
+    "del_city": "KNOXVILLE",
+    "del_state": "TN",
+    "del_hours": "0700-1530",
+    "equipment": "Van",
+    "weight_lbs": 15000,
+    "carrier_rate": 1000,
+    "updated_at": "2026-10-08T16:41:56.913230+00:00",
+    "lane": "NEWNAN GA-KNOXVILLE TN"
   },
   {
     "pro": "50883",
