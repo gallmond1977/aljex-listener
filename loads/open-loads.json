@@ -36,23 +36,6 @@
     "lane": "OAKLAND TN-MIDLOTHIAN TX"
   },
   {
-    "pro": "50881",
-    "status": "OPEN",
-    "pu_date": "2026-10-08",
-    "pu_city": "MACON",
-    "pu_state": "GA",
-    "pu_hours": "0700-1600",
-    "del_date": "2026-10-09",
-    "del_city": "WINSTON SALEM",
-    "del_state": "NC",
-    "del_hours": "0800-1200",
-    "equipment": "26' Straight Box Truck",
-    "weight_lbs": 2800,
-    "carrier_rate": 600,
-    "updated_at": "2026-10-08T16:22:52.610106+00:00",
-    "lane": "MACON GA-WINSTON SALEM NC"
-  },
-  {
     "pro": "50891",
     "status": "OPEN",
     "pu_date": "2026-10-08",
@@ -173,7 +156,7 @@
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 7000,
     "carrier_rate": 1800,
-    "updated_at": "2026-10-08T16:46:25.961456+00:00",
+    "updated_at": "2026-10-08T16:54:12.054679+00:00",
     "lane": "HOUSTON TX-SANFORD FL"
   },
   {
@@ -957,6 +940,23 @@
     "carrier_rate": 900,
     "updated_at": "2026-10-08T13:05:28.414247+00:00",
     "lane": "MONCURE NC-ATLANTA GA"
+  },
+  {
+    "pro": "50881",
+    "status": "COVERED",
+    "pu_date": "2026-10-08",
+    "pu_city": "MACON",
+    "pu_state": "GA",
+    "pu_hours": "0700-1600",
+    "del_date": "2026-10-09",
+    "del_city": "WINSTON SALEM",
+    "del_state": "NC",
+    "del_hours": "0800-1200",
+    "equipment": "26' Straight Box Truck",
+    "weight_lbs": 2800,
+    "carrier_rate": 700,
+    "updated_at": "2026-10-08T16:52:10.293852+00:00",
+    "lane": "MACON GA-WINSTON SALEM NC"
   },
   {
     "pro": "50893",
