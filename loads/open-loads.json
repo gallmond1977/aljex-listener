@@ -58,15 +58,15 @@
     "pu_date": "2026-10-08",
     "pu_city": "MONTGOMERY",
     "pu_state": "AL",
-    "pu_hours": "0730-1500",
+    "pu_hours": "0730-1530",
     "del_date": "2026-10-09",
     "del_city": "AUGUSTA",
     "del_state": "GA",
     "del_hours": "0800-1600",
     "equipment": "Flatbed",
     "weight_lbs": 47000,
-    "carrier_rate": null,
-    "updated_at": "2026-10-08T13:03:40.699395+00:00",
+    "carrier_rate": 1200,
+    "updated_at": "2026-10-08T15:25:05.031447+00:00",
     "lane": "MONTGOMERY AL-AUGUSTA GA"
   },
   {
@@ -117,7 +117,7 @@
     "equipment": "Flatbed w/ Tarps",
     "weight_lbs": 43316,
     "carrier_rate": null,
-    "updated_at": "2026-10-08T15:20:07.337771+00:00",
+    "updated_at": "2026-10-08T15:21:28.729849+00:00",
     "lane": "PELL CITY AL-LINCOLNTON NC"
   },
   {
@@ -428,7 +428,7 @@
     "equipment": "Van",
     "weight_lbs": 44000,
     "carrier_rate": 1150,
-    "updated_at": "2026-10-08T15:20:00.325721+00:00",
+    "updated_at": "2026-10-08T15:21:50.925091+00:00",
     "lane": "JACKSONVILLE TX-WEWOKA OK"
   },
   {
@@ -977,7 +977,7 @@
   },
   {
     "pro": "50815",
-    "status": "CONSIGNEE",
+    "status": "DELIVERED",
     "pu_date": "2026-10-07",
     "pu_city": "MONTGOMERY",
     "pu_state": "AL",
@@ -989,7 +989,7 @@
     "equipment": "Flatbed",
     "weight_lbs": 47000,
     "carrier_rate": 1250,
-    "updated_at": "2026-10-08T13:45:27.720665+00:00",
+    "updated_at": "2026-10-08T15:21:52.376136+00:00",
     "lane": "MONTGOMERY AL-AUGUSTA GA"
   },
   {
