@@ -245,23 +245,6 @@
     "lane": "ALPHARETTA GA-MARSHALL VA"
   },
   {
-    "pro": "50911",
-    "status": "OPEN",
-    "pu_date": "2026-10-09",
-    "pu_city": "ROME",
-    "pu_state": "GA",
-    "pu_hours": "0700-1200",
-    "del_date": "2026-10-12",
-    "del_city": "BELCAMP",
-    "del_state": "MD",
-    "del_hours": "0700-1500",
-    "equipment": "Flatbed w/ Tarps",
-    "weight_lbs": 39800,
-    "carrier_rate": null,
-    "updated_at": "2026-10-08T19:46:41.548956+00:00",
-    "lane": "ROME GA-BELCAMP MD"
-  },
-  {
     "pro": "50912",
     "status": "OPEN",
     "pu_date": "2026-10-09",
@@ -269,14 +252,14 @@
     "pu_state": "GA",
     "pu_hours": "1430",
     "del_date": "2026-10-09",
-    "del_city": "GRANITEVILLE",
-    "del_state": "SC",
+    "del_city": "FAYETTEVILLE",
+    "del_state": "GA",
     "del_hours": "0800",
     "equipment": "Sprinter Van",
     "weight_lbs": 700,
     "carrier_rate": null,
-    "updated_at": "2026-10-08T19:49:17.109001+00:00",
-    "lane": "TUCKER GA-GRANITEVILLE SC"
+    "updated_at": "2026-10-08T19:53:19.821829+00:00",
+    "lane": "TUCKER GA-FAYETTEVILLE GA"
   },
   {
     "pro": "50844",
