@@ -53,40 +53,6 @@
     "lane": "SAVANNAH GA-ATLANTA GA"
   },
   {
-    "pro": "50852",
-    "status": "OPEN",
-    "pu_date": "2026-10-08",
-    "pu_city": "HILLSVILLE",
-    "pu_state": "VA",
-    "pu_hours": "0630-1500",
-    "del_date": "2026-10-09",
-    "del_city": "SAVANNAH",
-    "del_state": "GA",
-    "del_hours": "0800-1400",
-    "equipment": "Flatbed w/ Tarps",
-    "weight_lbs": 44500,
-    "carrier_rate": 1400,
-    "updated_at": "2026-10-07T17:25:41.369761+00:00",
-    "lane": "HILLSVILLE VA-SAVANNAH GA"
-  },
-  {
-    "pro": "50861",
-    "status": "OPEN",
-    "pu_date": "2026-10-08",
-    "pu_city": "WINCHESTER",
-    "pu_state": "KY",
-    "pu_hours": "1400",
-    "del_date": "2026-10-12",
-    "del_city": "FREDERICTON",
-    "del_state": "NB",
-    "del_hours": "0800",
-    "equipment": "Van",
-    "weight_lbs": 5000,
-    "carrier_rate": 3100,
-    "updated_at": "2026-10-08T12:16:33.079472+00:00",
-    "lane": "WINCHESTER KY-FREDERICTON NB"
-  },
-  {
     "pro": "50869",
     "status": "OPEN",
     "pu_date": "2026-10-08",
@@ -1180,6 +1146,23 @@
     "lane": "HOUSTON TX-SANFORD FL"
   },
   {
+    "pro": "50861",
+    "status": "COVERED",
+    "pu_date": "2026-10-08",
+    "pu_city": "WINCHESTER",
+    "pu_state": "KY",
+    "pu_hours": "1400",
+    "del_date": "2026-10-12",
+    "del_city": "FREDERICTON",
+    "del_state": "NB",
+    "del_hours": "0800",
+    "equipment": "Van",
+    "weight_lbs": 5000,
+    "carrier_rate": 3250,
+    "updated_at": "2026-10-08T12:24:21.958765+00:00",
+    "lane": "WINCHESTER KY-FREDERICTON NB"
+  },
+  {
     "pro": "50879",
     "status": "COVERED",
     "pu_date": "2026-10-08",
@@ -1193,7 +1176,7 @@
     "equipment": "Van",
     "weight_lbs": 44000,
     "carrier_rate": 900,
-    "updated_at": "2026-10-07T19:36:58.601530+00:00",
+    "updated_at": "2026-10-08T12:24:58.403567+00:00",
     "lane": "MONCURE NC-ATLANTA GA"
   }
 ]
