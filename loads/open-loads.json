@@ -262,23 +262,6 @@
     "lane": "GRAND PRAIRIE TX-COLUMBUS GA"
   },
   {
-    "pro": "50905",
-    "status": "OPEN",
-    "pu_date": "2026-10-09",
-    "pu_city": "MCPHERSON",
-    "pu_state": "KS",
-    "pu_hours": "0700-1200",
-    "del_date": "2026-10-12",
-    "del_city": "WHITE",
-    "del_state": "GA",
-    "del_hours": "0800-0900",
-    "equipment": "Sprinter Van",
-    "weight_lbs": 250,
-    "carrier_rate": 1300,
-    "updated_at": "2026-10-08T18:35:07.777341+00:00",
-    "lane": "MCPHERSON KS-WHITE GA"
-  },
-  {
     "pro": "50844",
     "status": "OPEN",
     "pu_date": "2026-10-12",
