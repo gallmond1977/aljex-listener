@@ -66,7 +66,7 @@
     "equipment": "Flatbed",
     "weight_lbs": 47000,
     "carrier_rate": 1200,
-    "updated_at": "2026-10-08T15:30:01.953083+00:00",
+    "updated_at": "2026-10-08T15:31:19.257536+00:00",
     "lane": "MONTGOMERY AL-AUGUSTA GA"
   },
   {
@@ -116,8 +116,8 @@
     "del_hours": "0800-1200",
     "equipment": "Flatbed w/ Tarps",
     "weight_lbs": 43316,
-    "carrier_rate": null,
-    "updated_at": "2026-10-08T15:21:28.729849+00:00",
+    "carrier_rate": 1500,
+    "updated_at": "2026-10-08T15:32:09.012955+00:00",
     "lane": "PELL CITY AL-LINCOLNTON NC"
   },
   {
@@ -994,7 +994,7 @@
   },
   {
     "pro": "50858",
-    "status": "CONSIGNEE",
+    "status": "RELEASED",
     "pu_date": "2026-10-07",
     "pu_city": "MACON",
     "pu_state": "GA",
@@ -1006,7 +1006,7 @@
     "equipment": "Van",
     "weight_lbs": 34000,
     "carrier_rate": 650,
-    "updated_at": "2026-10-08T14:53:44.316342+00:00",
+    "updated_at": "2026-10-08T15:32:27.957374+00:00",
     "lane": "MACON GA-CALHOUN GA"
   },
   {
