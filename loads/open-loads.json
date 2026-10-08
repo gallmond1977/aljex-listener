@@ -262,23 +262,6 @@
     "lane": "ALPHARETTA GA-MARSHALL VA"
   },
   {
-    "pro": "50912",
-    "status": "OPEN",
-    "pu_date": "2026-10-09",
-    "pu_city": "TUCKER",
-    "pu_state": "GA",
-    "pu_hours": "0800-1200",
-    "del_date": "2026-10-09",
-    "del_city": "FAYETTEVILLE",
-    "del_state": "GA",
-    "del_hours": "0800",
-    "equipment": "Sprinter Van",
-    "weight_lbs": 700,
-    "carrier_rate": 225,
-    "updated_at": "2026-10-08T20:14:46.172010+00:00",
-    "lane": "TUCKER GA-FAYETTEVILLE GA"
-  },
-  {
     "pro": "50844",
     "status": "OPEN",
     "pu_date": "2026-10-12",
@@ -960,7 +943,7 @@
   },
   {
     "pro": "50881",
-    "status": "PICKUP",
+    "status": "LOADED",
     "pu_date": "2026-10-08",
     "pu_city": "MACON",
     "pu_state": "GA",
@@ -972,7 +955,7 @@
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 2800,
     "carrier_rate": 700,
-    "updated_at": "2026-10-08T19:36:05.046535+00:00",
+    "updated_at": "2026-10-08T20:16:21.692002+00:00",
     "lane": "MACON GA-WINSTON SALEM NC"
   },
   {
