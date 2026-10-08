@@ -819,7 +819,7 @@
     "equipment": "Van",
     "weight_lbs": 44000,
     "carrier_rate": 2800,
-    "updated_at": "2026-10-08T13:29:21.457708+00:00",
+    "updated_at": "2026-10-08T16:59:44.828686+00:00",
     "lane": "PASADENA TX-GREENVILLE SC"
   },
   {
@@ -960,7 +960,7 @@
   },
   {
     "pro": "50893",
-    "status": "COVERED",
+    "status": "DISPATCHED",
     "pu_date": "2026-10-08",
     "pu_city": "WADESBORO",
     "pu_state": "NC",
@@ -972,7 +972,7 @@
     "equipment": "Van",
     "weight_lbs": 44000,
     "carrier_rate": 850,
-    "updated_at": "2026-10-08T15:53:15.062992+00:00",
+    "updated_at": "2026-10-08T16:56:55.179648+00:00",
     "lane": "WADESBORO NC-ATLANTA GA"
   },
   {
