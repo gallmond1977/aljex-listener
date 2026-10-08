@@ -296,6 +296,23 @@
     "lane": "WADESBORO NC-ATLANTA GA"
   },
   {
+    "pro": "50897",
+    "status": "OPEN",
+    "pu_date": "2026-10-09",
+    "pu_city": "PORT ANGELES",
+    "pu_state": "WA",
+    "pu_hours": "0600-1600",
+    "del_date": "2026-10-12",
+    "del_city": "IRWINDALE",
+    "del_state": "CA",
+    "del_hours": "CALL !",
+    "equipment": "Flatbed",
+    "weight_lbs": 47500,
+    "carrier_rate": 4600,
+    "updated_at": "2026-10-08T15:13:26.565659+00:00",
+    "lane": "PORT ANGELES WA-IRWINDALE CA"
+  },
+  {
     "pro": "50844",
     "status": "OPEN",
     "pu_date": "2026-10-12",
@@ -379,6 +396,23 @@
     "carrier_rate": 800,
     "updated_at": "2026-10-07T19:36:44.980531+00:00",
     "lane": "MONCURE NC-ATLANTA GA"
+  },
+  {
+    "pro": "50896",
+    "status": "OPEN",
+    "pu_date": "2026-10-12",
+    "pu_city": "JACKSONVILLE",
+    "pu_state": "TX",
+    "pu_hours": "1100-1500",
+    "del_date": "2026-10-13",
+    "del_city": "WEWOKA",
+    "del_state": "OK",
+    "del_hours": "0600-1600",
+    "equipment": "Van",
+    "weight_lbs": 44000,
+    "carrier_rate": 1150,
+    "updated_at": "2026-10-08T15:15:08.208890+00:00",
+    "lane": "JACKSONVILLE TX-WEWOKA OK"
   },
   {
     "pro": "50758",
