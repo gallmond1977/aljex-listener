@@ -48,8 +48,8 @@
     "del_hours": "0800-1600",
     "equipment": "Flatbed",
     "weight_lbs": 47000,
-    "carrier_rate": 1200,
-    "updated_at": "2026-10-08T15:31:19.257536+00:00",
+    "carrier_rate": 1300,
+    "updated_at": "2026-10-08T17:12:22.426499+00:00",
     "lane": "MONTGOMERY AL-AUGUSTA GA"
   },
   {
@@ -92,15 +92,15 @@
     "pu_date": "2026-10-08",
     "pu_city": "GRAND PRAIRIE",
     "pu_state": "TX",
-    "pu_hours": "",
+    "pu_hours": "AD REQ",
     "del_date": "",
     "del_city": "COLUMBUS",
     "del_state": "GA",
-    "del_hours": "0800-0900",
+    "del_hours": "NEED APPT",
     "equipment": "Van",
     "weight_lbs": 44000,
     "carrier_rate": 1800,
-    "updated_at": "2026-10-08T17:09:23.892214+00:00",
+    "updated_at": "2026-10-08T17:10:29.248333+00:00",
     "lane": "GRAND PRAIRIE TX-COLUMBUS GA"
   },
   {
