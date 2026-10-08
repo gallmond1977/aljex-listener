@@ -87,23 +87,6 @@
     "lane": "MACON GA-WINSTON SALEM NC"
   },
   {
-    "pro": "50885",
-    "status": "OPEN",
-    "pu_date": "2026-10-08",
-    "pu_city": "CENTRAL",
-    "pu_state": "SC",
-    "pu_hours": "0800-1130",
-    "del_date": "2026-10-08",
-    "del_city": "BELMONT",
-    "del_state": "NC",
-    "del_hours": "0800-1500",
-    "equipment": "Van",
-    "weight_lbs": 40000,
-    "carrier_rate": 600,
-    "updated_at": "2026-10-08T13:45:53.649149+00:00",
-    "lane": "CENTRAL SC-BELMONT NC"
-  },
-  {
     "pro": "50891",
     "status": "OPEN",
     "pu_date": "2026-10-08",
@@ -153,6 +136,23 @@
     "carrier_rate": 850,
     "updated_at": "2026-10-08T13:57:40.298204+00:00",
     "lane": "WADESBORO NC-ATLANTA GA"
+  },
+  {
+    "pro": "50895",
+    "status": "OPEN",
+    "pu_date": "2026-10-08",
+    "pu_city": "PERRYVILLE",
+    "pu_state": "MO",
+    "pu_hours": "",
+    "del_date": "2026-10-09",
+    "del_city": "KANSAS CITY",
+    "del_state": "MO",
+    "del_hours": "",
+    "equipment": "Flatbed w/ Tarps",
+    "weight_lbs": 47500,
+    "carrier_rate": 1800,
+    "updated_at": "2026-10-08T14:09:35.301321+00:00",
+    "lane": "PERRYVILLE MO-KANSAS CITY MO"
   },
   {
     "pro": "8890422",
