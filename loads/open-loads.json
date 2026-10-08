@@ -445,7 +445,7 @@
     "equipment": "Van",
     "weight_lbs": 16800,
     "carrier_rate": 800,
-    "updated_at": "2026-10-08T19:34:53.570627+00:00",
+    "updated_at": "2026-10-08T19:37:24.336425+00:00",
     "lane": "GREER SC-ZEBULON GA"
   },
   {
@@ -1011,7 +1011,7 @@
   },
   {
     "pro": "50881",
-    "status": "DISPATCHED",
+    "status": "PICKUP",
     "pu_date": "2026-10-08",
     "pu_city": "MACON",
     "pu_state": "GA",
@@ -1023,7 +1023,7 @@
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 2800,
     "carrier_rate": 700,
-    "updated_at": "2026-10-08T19:00:37.822097+00:00",
+    "updated_at": "2026-10-08T19:36:05.046535+00:00",
     "lane": "MACON GA-WINSTON SALEM NC"
   },
   {
