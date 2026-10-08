@@ -138,23 +138,6 @@
     "lane": "WADESBORO NC-ATLANTA GA"
   },
   {
-    "pro": "50895",
-    "status": "OPEN",
-    "pu_date": "2026-10-08",
-    "pu_city": "PERRYVILLE",
-    "pu_state": "MO",
-    "pu_hours": "",
-    "del_date": "2026-10-09",
-    "del_city": "KANSAS CITY",
-    "del_state": "MO",
-    "del_hours": "",
-    "equipment": "Flatbed w/ Tarps",
-    "weight_lbs": 47500,
-    "carrier_rate": 1800,
-    "updated_at": "2026-10-08T14:09:35.301321+00:00",
-    "lane": "PERRYVILLE MO-KANSAS CITY MO"
-  },
-  {
     "pro": "8890422",
     "status": "OPEN",
     "spot": true,
