@@ -82,8 +82,8 @@
     "del_hours": "0800",
     "equipment": "Van",
     "weight_lbs": 5000,
-    "carrier_rate": 3300,
-    "updated_at": "2026-10-07T19:08:18.773663+00:00",
+    "carrier_rate": 3100,
+    "updated_at": "2026-10-08T12:15:07.520802+00:00",
     "lane": "WINCHESTER KY-FREDERICTON NB"
   },
   {
@@ -219,7 +219,7 @@
     "equipment": "Van Hazmat",
     "weight_lbs": 44900,
     "carrier_rate": 4000,
-    "updated_at": "2026-10-08T12:05:41.698345+00:00",
+    "updated_at": "2026-10-08T12:12:06.309211+00:00",
     "lane": "OAKLAND TN-SALISBURY NC"
   },
   {
@@ -257,6 +257,42 @@
     "carrier_rate": 4200,
     "updated_at": "2026-10-07T20:32:30.228955+00:00",
     "lane": "OAKLAND TN-SALISBURY NC"
+  },
+  {
+    "pro": "8890424",
+    "status": "OPEN",
+    "spot": true,
+    "pu_date": "2026-10-08",
+    "pu_city": "PERRYVILLE",
+    "pu_state": "MO",
+    "pu_hours": "",
+    "del_date": "2026-10-10",
+    "del_city": "KANSAS CITY",
+    "del_state": "MO",
+    "del_hours": "",
+    "equipment": "Flatbed",
+    "weight_lbs": 47500,
+    "carrier_rate": 1800,
+    "updated_at": "2026-10-08T12:13:36.810469+00:00",
+    "lane": "PERRYVILLE MO-KANSAS CITY MO"
+  },
+  {
+    "pro": "8890425",
+    "status": "OPEN",
+    "spot": true,
+    "pu_date": "2026-10-08",
+    "pu_city": "MC MINNVILLE",
+    "pu_state": "TN",
+    "pu_hours": "",
+    "del_date": "2026-10-10",
+    "del_city": "OMAHA",
+    "del_state": "NE",
+    "del_hours": "",
+    "equipment": "Flatbed",
+    "weight_lbs": 47500,
+    "carrier_rate": 2800,
+    "updated_at": "2026-10-08T12:15:05.645222+00:00",
+    "lane": "MC MINNVILLE TN-OMAHA NE"
   },
   {
     "pro": "50796",
