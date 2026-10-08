@@ -53,6 +53,23 @@
     "lane": "MACON GA-WINSTON SALEM NC"
   },
   {
+    "pro": "50889",
+    "status": "OPEN",
+    "pu_date": "2026-10-08",
+    "pu_city": "CREWE",
+    "pu_state": "VA",
+    "pu_hours": "0800-1500",
+    "del_date": "2026-10-09",
+    "del_city": "SUMMERVILLE",
+    "del_state": "SC",
+    "del_hours": "0700-1500",
+    "equipment": "Flatbed w/ Tarps",
+    "weight_lbs": 44500,
+    "carrier_rate": 1400,
+    "updated_at": "2026-10-08T15:58:10.082912+00:00",
+    "lane": "CREWE VA-SUMMERVILLE SC"
+  },
+  {
     "pro": "50891",
     "status": "OPEN",
     "pu_date": "2026-10-08",
@@ -85,23 +102,6 @@
     "carrier_rate": 600,
     "updated_at": "2026-10-08T13:21:56.265525+00:00",
     "lane": "MACON GA-CALHOUN GA"
-  },
-  {
-    "pro": "50898",
-    "status": "OPEN",
-    "pu_date": "2026-10-08",
-    "pu_city": "PELL CITY",
-    "pu_state": "AL",
-    "pu_hours": "1400",
-    "del_date": "2026-10-09",
-    "del_city": "LINCOLNTON",
-    "del_state": "NC",
-    "del_hours": "0800-1200",
-    "equipment": "Flatbed w/ Tarps",
-    "weight_lbs": 43316,
-    "carrier_rate": 1700,
-    "updated_at": "2026-10-08T15:44:46.588678+00:00",
-    "lane": "PELL CITY AL-LINCOLNTON NC"
   },
   {
     "pro": "8890422",
@@ -1059,6 +1059,23 @@
     "carrier_rate": 900,
     "updated_at": "2026-10-08T13:05:28.414247+00:00",
     "lane": "MONCURE NC-ATLANTA GA"
+  },
+  {
+    "pro": "50890",
+    "status": "PICKUP",
+    "pu_date": "2026-10-08",
+    "pu_city": "CREWE",
+    "pu_state": "VA",
+    "pu_hours": "0800-1500",
+    "del_date": "2026-10-09",
+    "del_city": "SUMMERVILLE",
+    "del_state": "SC",
+    "del_hours": "0700-1500",
+    "equipment": "Flatbed w/ Tarps",
+    "weight_lbs": 44500,
+    "carrier_rate": 1500,
+    "updated_at": "2026-10-08T15:25:17.495750+00:00",
+    "lane": "CREWE VA-SUMMERVILLE SC"
   },
   {
     "pro": "50893",
