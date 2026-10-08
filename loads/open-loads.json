@@ -500,23 +500,6 @@
     "lane": "RICHMOND VA-RICHMOND VA"
   },
   {
-    "pro": "50082",
-    "status": "OPEN",
-    "pu_date": "2026-10-15",
-    "pu_city": "RICHMOND",
-    "pu_state": "VA",
-    "pu_hours": "0630-0700",
-    "del_date": "2026-10-15",
-    "del_city": "RICHMOND",
-    "del_state": "VA",
-    "del_hours": "CALL!",
-    "equipment": "26' Straight Box Truck",
-    "weight_lbs": 5000,
-    "carrier_rate": 200,
-    "updated_at": "2026-10-08T13:40:08.999873+00:00",
-    "lane": "RICHMOND VA-RICHMOND VA"
-  },
-  {
     "pro": "50822",
     "status": "OPEN",
     "pu_date": "2026-10-15",
@@ -566,6 +549,23 @@
     "carrier_rate": 550,
     "updated_at": "2026-10-08T12:40:13.479466+00:00",
     "lane": "ANDERSONVILLE GA-MACON GA"
+  },
+  {
+    "pro": "50082",
+    "status": "OPEN",
+    "pu_date": "2026-10-19",
+    "pu_city": "RICHMOND",
+    "pu_state": "VA",
+    "pu_hours": "0630-0700",
+    "del_date": "2026-10-19",
+    "del_city": "RICHMOND",
+    "del_state": "VA",
+    "del_hours": "CALL!",
+    "equipment": "26' Straight Box Truck",
+    "weight_lbs": 5000,
+    "carrier_rate": 200,
+    "updated_at": "2026-10-08T15:38:08.765139+00:00",
+    "lane": "RICHMOND VA-RICHMOND VA"
   },
   {
     "pro": "50541",
