@@ -807,7 +807,7 @@
   },
   {
     "pro": "49852",
-    "status": "DELIVERED",
+    "status": "RELEASED",
     "pu_date": "2026-10-06",
     "pu_city": "PASADENA",
     "pu_state": "TX",
@@ -819,7 +819,7 @@
     "equipment": "Van",
     "weight_lbs": 44000,
     "carrier_rate": 2800,
-    "updated_at": "2026-10-08T16:59:44.828686+00:00",
+    "updated_at": "2026-10-08T17:02:05.692502+00:00",
     "lane": "PASADENA TX-GREENVILLE SC"
   },
   {
@@ -955,7 +955,7 @@
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 2800,
     "carrier_rate": 700,
-    "updated_at": "2026-10-08T16:52:10.293852+00:00",
+    "updated_at": "2026-10-08T17:02:12.158967+00:00",
     "lane": "MACON GA-WINSTON SALEM NC"
   },
   {
