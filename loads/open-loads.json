@@ -36,23 +36,6 @@
     "lane": "OAKLAND TN-MIDLOTHIAN TX"
   },
   {
-    "pro": "50847",
-    "status": "OPEN",
-    "pu_date": "2026-10-08",
-    "pu_city": "SAVANNAH",
-    "pu_state": "GA",
-    "pu_hours": "1230",
-    "del_date": "2026-10-09",
-    "del_city": "ATLANTA",
-    "del_state": "GA",
-    "del_hours": "0930",
-    "equipment": "Van",
-    "weight_lbs": 44000,
-    "carrier_rate": 900,
-    "updated_at": "2026-10-08T12:39:42.911058+00:00",
-    "lane": "SAVANNAH GA-ATLANTA GA"
-  },
-  {
     "pro": "50869",
     "status": "OPEN",
     "pu_date": "2026-10-08",
@@ -82,8 +65,8 @@
     "del_hours": "0500-1200",
     "equipment": "Van",
     "weight_lbs": 15000,
-    "carrier_rate": 5500,
-    "updated_at": "2026-10-08T12:45:13.180753+00:00",
+    "carrier_rate": 5800,
+    "updated_at": "2026-10-08T13:31:52.605564+00:00",
     "lane": "BELCAMP MD-OAKLAND CA"
   },
   {
@@ -116,26 +99,9 @@
     "del_hours": "0800-1500",
     "equipment": "Van",
     "weight_lbs": 40000,
-    "carrier_rate": 550,
-    "updated_at": "2026-10-08T13:15:53.661719+00:00",
+    "carrier_rate": 600,
+    "updated_at": "2026-10-08T13:34:43.200170+00:00",
     "lane": "CENTRAL SC-BELMONT NC"
-  },
-  {
-    "pro": "50886",
-    "status": "OPEN",
-    "pu_date": "2026-10-08",
-    "pu_city": "BUENA VISTA",
-    "pu_state": "GA",
-    "pu_hours": "1200-1500",
-    "del_date": "2026-10-09",
-    "del_city": "INDIAN TRAIL",
-    "del_state": "NC",
-    "del_hours": "0700-1500",
-    "equipment": "Van",
-    "weight_lbs": 43500,
-    "carrier_rate": 1100,
-    "updated_at": "2026-10-08T13:26:42.112003+00:00",
-    "lane": "BUENA VISTA GA-INDIAN TRAIL NC"
   },
   {
     "pro": "50891",
