@@ -87,23 +87,6 @@
     "lane": "BELCAMP MD-OAKLAND CA"
   },
   {
-    "pro": "50880",
-    "status": "OPEN",
-    "pu_date": "2026-10-08",
-    "pu_city": "WINCHESTER",
-    "pu_state": "KY",
-    "pu_hours": "1400",
-    "del_date": "2026-10-12",
-    "del_city": "FREDERICTON",
-    "del_state": "NB",
-    "del_hours": "0800",
-    "equipment": "Van",
-    "weight_lbs": 5000,
-    "carrier_rate": 3100,
-    "updated_at": "2026-10-08T12:02:07.351093+00:00",
-    "lane": "WINCHESTER KY-FREDERICTON NB"
-  },
-  {
     "pro": "50881",
     "status": "OPEN",
     "pu_date": "2026-10-08",
@@ -121,23 +104,6 @@
     "lane": "MACON GA-WINSTON SALEM NC"
   },
   {
-    "pro": "50882",
-    "status": "OPEN",
-    "pu_date": "2026-10-08",
-    "pu_city": "MONCURE",
-    "pu_state": "NC",
-    "pu_hours": "0730-1600",
-    "del_date": "2026-10-09",
-    "del_city": "ATLANTA",
-    "del_state": "GA",
-    "del_hours": "0800-1600",
-    "equipment": "Van",
-    "weight_lbs": 44000,
-    "carrier_rate": 800,
-    "updated_at": "2026-10-07T20:19:03.079475+00:00",
-    "lane": "MONCURE NC-ATLANTA GA"
-  },
-  {
     "pro": "50885",
     "status": "OPEN",
     "pu_date": "2026-10-08",
@@ -150,8 +116,8 @@
     "del_hours": "0800-1500",
     "equipment": "Van",
     "weight_lbs": 40000,
-    "carrier_rate": 500,
-    "updated_at": "2026-10-08T12:28:17.443916+00:00",
+    "carrier_rate": 550,
+    "updated_at": "2026-10-08T13:07:38.198971+00:00",
     "lane": "CENTRAL SC-BELMONT NC"
   },
   {
@@ -309,7 +275,7 @@
     "equipment": "Van",
     "weight_lbs": 12480,
     "carrier_rate": 1000,
-    "updated_at": "2026-10-08T11:52:47.717130+00:00",
+    "updated_at": "2026-10-08T13:09:49.329945+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
@@ -1163,23 +1129,6 @@
     "lane": "HOUSTON TX-SANFORD FL"
   },
   {
-    "pro": "50861",
-    "status": "DISPATCHED",
-    "pu_date": "2026-10-08",
-    "pu_city": "WINCHESTER",
-    "pu_state": "KY",
-    "pu_hours": "1400",
-    "del_date": "2026-10-12",
-    "del_city": "FREDERICTON",
-    "del_state": "NB",
-    "del_hours": "0800",
-    "equipment": "Van",
-    "weight_lbs": 5000,
-    "carrier_rate": 3250,
-    "updated_at": "2026-10-08T12:37:15.215848+00:00",
-    "lane": "WINCHESTER KY-FREDERICTON NB"
-  },
-  {
     "pro": "50879",
     "status": "LOADED",
     "pu_date": "2026-10-08",
@@ -1193,7 +1142,7 @@
     "equipment": "Van",
     "weight_lbs": 44000,
     "carrier_rate": 900,
-    "updated_at": "2026-10-08T12:40:46.567485+00:00",
+    "updated_at": "2026-10-08T13:05:28.414247+00:00",
     "lane": "MONCURE NC-ATLANTA GA"
   },
   {
@@ -1212,5 +1161,22 @@
     "carrier_rate": 1100,
     "updated_at": "2026-10-08T13:03:29.601791+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
+  },
+  {
+    "pro": "50882",
+    "status": "COVERED",
+    "pu_date": "2026-10-09",
+    "pu_city": "MONCURE",
+    "pu_state": "NC",
+    "pu_hours": "0730-1600",
+    "del_date": "2026-10-12",
+    "del_city": "ATLANTA",
+    "del_state": "GA",
+    "del_hours": "0800-1600",
+    "equipment": "Van",
+    "weight_lbs": 44000,
+    "carrier_rate": 900,
+    "updated_at": "2026-10-08T13:09:50.665410+00:00",
+    "lane": "MONCURE NC-ATLANTA GA"
   }
 ]
