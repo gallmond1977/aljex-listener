@@ -202,7 +202,7 @@
     "equipment": "Flatbed",
     "weight_lbs": 47000,
     "carrier_rate": null,
-    "updated_at": "2026-10-08T12:58:40.649079+00:00",
+    "updated_at": "2026-10-08T13:03:40.699395+00:00",
     "lane": "MONTGOMERY AL-AUGUSTA GA"
   },
   {
@@ -296,23 +296,6 @@
     "lane": "TROY TN-OMAHA NE"
   },
   {
-    "pro": "50796",
-    "status": "OPEN",
-    "pu_date": "2026-10-09",
-    "pu_city": "WINCHESTER",
-    "pu_state": "KY",
-    "pu_hours": "0800-1200",
-    "del_date": "2026-10-09",
-    "del_city": "JOLIET",
-    "del_state": "IL",
-    "del_hours": "2030",
-    "equipment": "Van",
-    "weight_lbs": 14580,
-    "carrier_rate": 1000,
-    "updated_at": "2026-10-08T11:50:15.986309+00:00",
-    "lane": "WINCHESTER KY-JOLIET IL"
-  },
-  {
     "pro": "50797",
     "status": "OPEN",
     "pu_date": "2026-10-09",
@@ -376,8 +359,8 @@
     "del_hours": "0800-1700",
     "equipment": "Van",
     "weight_lbs": 34300,
-    "carrier_rate": null,
-    "updated_at": "2026-10-07T13:54:15.428651+00:00",
+    "carrier_rate": 2700,
+    "updated_at": "2026-10-08T13:01:29.413236+00:00",
     "lane": "BENSENVILLE IL-ALPHARETTA GA"
   },
   {
@@ -1212,5 +1195,22 @@
     "carrier_rate": 900,
     "updated_at": "2026-10-08T12:40:46.567485+00:00",
     "lane": "MONCURE NC-ATLANTA GA"
+  },
+  {
+    "pro": "50796",
+    "status": "COVERED",
+    "pu_date": "2026-10-09",
+    "pu_city": "WINCHESTER",
+    "pu_state": "KY",
+    "pu_hours": "0800-1200",
+    "del_date": "2026-10-09",
+    "del_city": "JOLIET",
+    "del_state": "IL",
+    "del_hours": "2030",
+    "equipment": "Van",
+    "weight_lbs": 14580,
+    "carrier_rate": 1100,
+    "updated_at": "2026-10-08T13:03:29.601791+00:00",
+    "lane": "WINCHESTER KY-JOLIET IL"
   }
 ]
