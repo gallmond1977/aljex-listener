@@ -82,8 +82,8 @@
     "del_hours": "0500-1200",
     "equipment": "Van",
     "weight_lbs": 15000,
-    "carrier_rate": 5400,
-    "updated_at": "2026-10-08T12:29:59.835155+00:00",
+    "carrier_rate": 5500,
+    "updated_at": "2026-10-08T12:45:13.180753+00:00",
     "lane": "BELCAMP MD-OAKLAND CA"
   },
   {
@@ -326,7 +326,7 @@
     "equipment": "Van",
     "weight_lbs": 15000,
     "carrier_rate": 1000,
-    "updated_at": "2026-10-07T16:10:33.641617+00:00",
+    "updated_at": "2026-10-08T12:48:16.761377+00:00",
     "lane": "MOUNT PLEASANT TN-BEAN STATION TN"
   },
   {
