@@ -36,23 +36,6 @@
     "lane": "OAKLAND TN-MIDLOTHIAN TX"
   },
   {
-    "pro": "50913",
-    "status": "OPEN",
-    "pu_date": "2026-10-08",
-    "pu_city": "ANAHEIM",
-    "pu_state": "CA",
-    "pu_hours": "1400-1500",
-    "del_date": "2026-10-08",
-    "del_city": "CERRITOS",
-    "del_state": "CA",
-    "del_hours": "0800-1500",
-    "equipment": "26' Straight Box Truck",
-    "weight_lbs": 1000,
-    "carrier_rate": 200,
-    "updated_at": "2026-10-08T20:22:19.447149+00:00",
-    "lane": "ANAHEIM CA-CERRITOS CA"
-  },
-  {
     "pro": "8890422",
     "status": "OPEN",
     "spot": true,
@@ -704,6 +687,23 @@
     "lane": "RICHMOND VA-MIDLOTHIAN VA"
   },
   {
+    "pro": "50914",
+    "status": "OPEN",
+    "pu_date": "2026-10-26",
+    "pu_city": "ALPHARETTA",
+    "pu_state": "GA",
+    "pu_hours": "0900-1600",
+    "del_date": "2026-10-28",
+    "del_city": "AMARILLO",
+    "del_state": "TX",
+    "del_hours": "0800-1400",
+    "equipment": "Flatbed w/ Tarps",
+    "weight_lbs": 42000,
+    "carrier_rate": 4800,
+    "updated_at": "2026-10-08T20:26:18.316673+00:00",
+    "lane": "ALPHARETTA GA-AMARILLO TX"
+  },
+  {
     "pro": "50542",
     "status": "OPEN",
     "pu_date": "2026-11-02",
@@ -923,6 +923,23 @@
     "carrier_rate": 2750,
     "updated_at": "2026-10-08T20:04:53.661686+00:00",
     "lane": "ALPHARETTA GA-MARSHALL VA"
+  },
+  {
+    "pro": "50836",
+    "status": "LOADED",
+    "pu_date": "2026-10-08",
+    "pu_city": "ALPHARETTA",
+    "pu_state": "GA",
+    "pu_hours": "0900-1600",
+    "del_date": "2026-10-12",
+    "del_city": "AMARILLO",
+    "del_state": "TX",
+    "del_hours": "0800-1400",
+    "equipment": "Flatbed w/ Tarps",
+    "weight_lbs": 42000,
+    "carrier_rate": 5000,
+    "updated_at": "2026-10-08T16:18:31.572701+00:00",
+    "lane": "ALPHARETTA GA-AMARILLO TX"
   },
   {
     "pro": "50879",
