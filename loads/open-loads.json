@@ -49,7 +49,7 @@
     "equipment": "Van",
     "weight_lbs": 14800,
     "carrier_rate": 2600,
-    "updated_at": "2026-10-08T13:48:08.804496+00:00",
+    "updated_at": "2026-10-08T13:53:09.206785+00:00",
     "lane": "BENSENVILLE IL-ALPHARETTA GA"
   },
   {
@@ -83,7 +83,7 @@
     "equipment": "Van",
     "weight_lbs": 15000,
     "carrier_rate": 5800,
-    "updated_at": "2026-10-08T13:31:52.605564+00:00",
+    "updated_at": "2026-10-08T13:53:51.204632+00:00",
     "lane": "BELCAMP MD-OAKLAND CA"
   },
   {
@@ -168,7 +168,7 @@
     "equipment": "Van",
     "weight_lbs": 44000,
     "carrier_rate": 850,
-    "updated_at": "2026-10-08T13:49:36.891571+00:00",
+    "updated_at": "2026-10-08T13:51:38.909746+00:00",
     "lane": "WADESBORO NC-ATLANTA GA"
   },
   {
@@ -345,6 +345,23 @@
     "carrier_rate": 1000,
     "updated_at": "2026-10-07T18:14:18.584119+00:00",
     "lane": "NEWNAN GA-KNOXVILLE TN"
+  },
+  {
+    "pro": "50894",
+    "status": "OPEN",
+    "pu_date": "2026-10-09",
+    "pu_city": "WADESBORO",
+    "pu_state": "NC",
+    "pu_hours": "0730-1630",
+    "del_date": "2026-10-12",
+    "del_city": "ATLANTA",
+    "del_state": "GA",
+    "del_hours": "0800-1600",
+    "equipment": "Van",
+    "weight_lbs": 44000,
+    "carrier_rate": 850,
+    "updated_at": "2026-10-08T13:54:39.209265+00:00",
+    "lane": "WADESBORO NC-ATLANTA GA"
   },
   {
     "pro": "50844",
