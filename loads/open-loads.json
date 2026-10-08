@@ -313,23 +313,6 @@
     "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
-    "pro": "50803",
-    "status": "OPEN",
-    "pu_date": "2026-10-09",
-    "pu_city": "MOUNT PLEASANT",
-    "pu_state": "TN",
-    "pu_hours": "0800-1600",
-    "del_date": "2026-10-12",
-    "del_city": "BEAN STATION",
-    "del_state": "TN",
-    "del_hours": "0800",
-    "equipment": "Van",
-    "weight_lbs": 15000,
-    "carrier_rate": 1000,
-    "updated_at": "2026-10-08T12:48:16.761377+00:00",
-    "lane": "MOUNT PLEASANT TN-BEAN STATION TN"
-  },
-  {
     "pro": "50812",
     "status": "OPEN",
     "pu_date": "2026-10-09",
