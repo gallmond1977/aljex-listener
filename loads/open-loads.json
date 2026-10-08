@@ -207,7 +207,7 @@
     "equipment": "Van",
     "weight_lbs": 43000,
     "carrier_rate": 1800,
-    "updated_at": "2026-10-08T17:27:51.305127+00:00",
+    "updated_at": "2026-10-08T19:15:26.509236+00:00",
     "lane": "GRAND PRAIRIE TX-COLUMBUS GA"
   },
   {
@@ -223,8 +223,8 @@
     "del_hours": "0800-0900",
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 6000,
-    "carrier_rate": 450,
-    "updated_at": "2026-10-08T19:10:54.211888+00:00",
+    "carrier_rate": 500,
+    "updated_at": "2026-10-08T19:20:07.261537+00:00",
     "lane": "MEXICO MO-CAPE GIRARDEAU MO"
   },
   {
