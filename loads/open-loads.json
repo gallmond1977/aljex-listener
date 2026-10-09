@@ -140,23 +140,6 @@
     "lane": "GRAND PRAIRIE TX-COLUMBUS GA"
   },
   {
-    "pro": "50904",
-    "status": "OPEN",
-    "pu_date": "2026-10-09",
-    "pu_city": "MEXICO",
-    "pu_state": "MO",
-    "pu_hours": "0800-1200",
-    "del_date": "2026-10-09",
-    "del_city": "CAPE GIRARDEAU",
-    "del_state": "MO",
-    "del_hours": "0800-0900",
-    "equipment": "26' Straight Box Truck",
-    "weight_lbs": 6000,
-    "carrier_rate": 500,
-    "updated_at": "2026-10-09T13:21:59.612216+00:00",
-    "lane": "MEXICO MO-CAPE GIRARDEAU MO"
-  },
-  {
     "pro": "50907",
     "status": "OPEN",
     "pu_date": "2026-10-09",
@@ -1038,7 +1021,7 @@
     "equipment": "Van",
     "weight_lbs": 14580,
     "carrier_rate": 1100,
-    "updated_at": "2026-10-09T13:05:36.376184+00:00",
+    "updated_at": "2026-10-09T14:12:11.208945+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
