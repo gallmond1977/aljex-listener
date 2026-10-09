@@ -412,6 +412,23 @@
     "lane": "GRAND PRAIRIE TX-ATLANTA GA"
   },
   {
+    "pro": "50915",
+    "status": "OPEN",
+    "pu_date": "2026-10-12",
+    "pu_city": "HEADLAND",
+    "pu_state": "AL",
+    "pu_hours": "0800-1500",
+    "del_date": "2026-10-13",
+    "del_city": "ROCKWELL",
+    "del_state": "NC",
+    "del_hours": "0730-1430",
+    "equipment": "26' Straight Box Truck",
+    "weight_lbs": 4472,
+    "carrier_rate": 950,
+    "updated_at": "2026-10-09T12:14:31.067923+00:00",
+    "lane": "HEADLAND AL-ROCKWELL NC"
+  },
+  {
     "pro": "50758",
     "status": "OPEN",
     "pu_date": "2026-10-13",
@@ -957,7 +974,7 @@
   },
   {
     "pro": "50882",
-    "status": "PICKUP",
+    "status": "LOADED",
     "pu_date": "2026-10-09",
     "pu_city": "MONCURE",
     "pu_state": "NC",
@@ -969,7 +986,7 @@
     "equipment": "Van",
     "weight_lbs": 44000,
     "carrier_rate": 900,
-    "updated_at": "2026-10-09T11:18:03.817143+00:00",
+    "updated_at": "2026-10-09T12:12:13.037617+00:00",
     "lane": "MONCURE NC-ATLANTA GA"
   }
 ]
