@@ -140,23 +140,6 @@
     "lane": "GRAND PRAIRIE TX-COLUMBUS GA"
   },
   {
-    "pro": "50907",
-    "status": "OPEN",
-    "pu_date": "2026-10-09",
-    "pu_city": "ALPHARETTA",
-    "pu_state": "GA",
-    "pu_hours": "1200-1600",
-    "del_date": "2026-10-12",
-    "del_city": "MARSHALL",
-    "del_state": "VA",
-    "del_hours": "0800-1500",
-    "equipment": "Flatbed w/ Tarps",
-    "weight_lbs": 42000,
-    "carrier_rate": 2600,
-    "updated_at": "2026-10-08T18:45:38.710366+00:00",
-    "lane": "ALPHARETTA GA-MARSHALL VA"
-  },
-  {
     "pro": "8890427",
     "status": "OPEN",
     "spot": true,
@@ -923,23 +906,6 @@
     "lane": "PASADENA TX-GREENVILLE SC"
   },
   {
-    "pro": "50821",
-    "status": "RELEASED",
-    "pu_date": "2026-10-06",
-    "pu_city": "ALPHARETTA",
-    "pu_state": "GA",
-    "pu_hours": "0900-1600",
-    "del_date": "2026-10-07",
-    "del_city": "MARSHALL",
-    "del_state": "VA",
-    "del_hours": "0800-1500",
-    "equipment": "Conestoga",
-    "weight_lbs": 42000,
-    "carrier_rate": 2750,
-    "updated_at": "2026-10-07T18:35:08.245701+00:00",
-    "lane": "ALPHARETTA GA-MARSHALL VA"
-  },
-  {
     "pro": "50810",
     "status": "DELIVERED",
     "pu_date": "2026-10-08",
@@ -955,23 +921,6 @@
     "carrier_rate": 2400,
     "updated_at": "2026-10-09T13:09:25.443489+00:00",
     "lane": "HOUSTON TX-SANFORD FL"
-  },
-  {
-    "pro": "50820",
-    "status": "DELIVERED",
-    "pu_date": "2026-10-08",
-    "pu_city": "ALPHARETTA",
-    "pu_state": "GA",
-    "pu_hours": "0900-1600",
-    "del_date": "2026-10-09",
-    "del_city": "MARSHALL",
-    "del_state": "VA",
-    "del_hours": "0800-1500",
-    "equipment": "Flatbed w/ Tarps",
-    "weight_lbs": 42000,
-    "carrier_rate": 2750,
-    "updated_at": "2026-10-09T13:26:04.008101+00:00",
-    "lane": "ALPHARETTA GA-MARSHALL VA"
   },
   {
     "pro": "50836",
@@ -1057,23 +1006,6 @@
     "carrier_rate": 900,
     "updated_at": "2026-10-09T13:10:58.351880+00:00",
     "lane": "MONCURE NC-ATLANTA GA"
-  },
-  {
-    "pro": "50906",
-    "status": "PICKUP",
-    "pu_date": "2026-10-09",
-    "pu_city": "ALPHARETTA",
-    "pu_state": "GA",
-    "pu_hours": "0900-1600",
-    "del_date": "2026-10-12",
-    "del_city": "MARSHALL",
-    "del_state": "VA",
-    "del_hours": "0800-1500",
-    "equipment": "Flatbed w/ Tarps",
-    "weight_lbs": 42000,
-    "carrier_rate": 2700,
-    "updated_at": "2026-10-09T14:01:18.963094+00:00",
-    "lane": "ALPHARETTA GA-MARSHALL VA"
   },
   {
     "pro": "50916",
