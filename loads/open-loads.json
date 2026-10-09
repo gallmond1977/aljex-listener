@@ -117,9 +117,9 @@
     "del_state": "GA",
     "del_hours": "NEEDS APP",
     "equipment": "Van",
-    "weight_lbs": 44000,
+    "weight_lbs": 43000,
     "carrier_rate": 1800,
-    "updated_at": "2026-10-09T14:08:50.231748+00:00",
+    "updated_at": "2026-10-09T15:28:09.158077+00:00",
     "lane": "GRAND PRAIRIE TX-COLUMBUS GA"
   },
   {
@@ -225,23 +225,6 @@
     "carrier_rate": 1800,
     "updated_at": "2026-10-09T13:13:20.823044+00:00",
     "lane": "UNION CITY GA-HOUSTON TX"
-  },
-  {
-    "pro": "50850",
-    "status": "OPEN",
-    "pu_date": "2026-10-12",
-    "pu_city": "ATHENS",
-    "pu_state": "AL",
-    "pu_hours": "0700-1500",
-    "del_date": "2026-10-13",
-    "del_city": "GULFPORT",
-    "del_state": "MS",
-    "del_hours": "0700-1030",
-    "equipment": "Van",
-    "weight_lbs": 43158,
-    "carrier_rate": 1500,
-    "updated_at": "2026-10-06T20:11:06.604390+00:00",
-    "lane": "ATHENS AL-GULFPORT MS"
   },
   {
     "pro": "50851",
@@ -562,8 +545,8 @@
     "del_hours": "",
     "equipment": "Van",
     "weight_lbs": 40000,
-    "carrier_rate": null,
-    "updated_at": "2026-10-09T15:17:22.222231+00:00",
+    "carrier_rate": 1100,
+    "updated_at": "2026-10-09T15:28:33.403489+00:00",
     "lane": "COLUMBUS GA-COLUMBUS GA"
   },
   {
@@ -1141,7 +1124,24 @@
     "equipment": "Van",
     "weight_lbs": 43317,
     "carrier_rate": 1500,
-    "updated_at": "2026-10-09T15:24:40.582469+00:00",
+    "updated_at": "2026-10-09T15:25:32.991270+00:00",
+    "lane": "ATHENS AL-GULFPORT MS"
+  },
+  {
+    "pro": "50850",
+    "status": "COVERED",
+    "pu_date": "2026-10-12",
+    "pu_city": "ATHENS",
+    "pu_state": "AL",
+    "pu_hours": "0700-1500",
+    "del_date": "2026-10-13",
+    "del_city": "GULFPORT",
+    "del_state": "MS",
+    "del_hours": "0700-1030",
+    "equipment": "Van",
+    "weight_lbs": 43158,
+    "carrier_rate": 1500,
+    "updated_at": "2026-10-09T15:27:14.269329+00:00",
     "lane": "ATHENS AL-GULFPORT MS"
   }
 ]
