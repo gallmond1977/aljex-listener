@@ -289,7 +289,7 @@
     "equipment": "Flatbed",
     "weight_lbs": 47500,
     "carrier_rate": 4200,
-    "updated_at": "2026-10-09T18:10:32.030198+00:00",
+    "updated_at": "2026-10-09T18:25:06.219705+00:00",
     "lane": "CENTRALIA WA-SALT LAKE CITY UT"
   },
   {
@@ -408,7 +408,7 @@
     "equipment": "Van",
     "weight_lbs": 40000,
     "carrier_rate": 1100,
-    "updated_at": "2026-10-09T15:28:33.403489+00:00",
+    "updated_at": "2026-10-09T18:24:07.124390+00:00",
     "lane": "COLUMBUS GA-COLUMBUS GA"
   },
   {
@@ -629,7 +629,7 @@
     "equipment": "Van",
     "weight_lbs": 41500,
     "carrier_rate": null,
-    "updated_at": "2026-10-09T18:13:23.752895+00:00",
+    "updated_at": "2026-10-09T18:24:28.073593+00:00",
     "lane": "OLD FORT NC-COLUMBUS GA"
   },
   {
@@ -889,7 +889,7 @@
   },
   {
     "pro": "50796",
-    "status": "PICKUP",
+    "status": "LOADED",
     "pu_date": "2026-10-09",
     "pu_city": "WINCHESTER",
     "pu_state": "KY",
@@ -901,7 +901,7 @@
     "equipment": "Van",
     "weight_lbs": 14580,
     "carrier_rate": 1100,
-    "updated_at": "2026-10-09T15:07:19.401639+00:00",
+    "updated_at": "2026-10-09T18:21:18.370680+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
