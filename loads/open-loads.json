@@ -106,6 +106,23 @@
     "lane": "PORT ANGELES WA-IRWINDALE CA"
   },
   {
+    "pro": "50922",
+    "status": "OPEN",
+    "pu_date": "2026-10-09",
+    "pu_city": "CERRITOS",
+    "pu_state": "CA",
+    "pu_hours": "1200-1400",
+    "del_date": "2026-10-09",
+    "del_city": "ANAHEIM",
+    "del_state": "CA",
+    "del_hours": "0800-1600",
+    "equipment": "26' Straight Box Truck",
+    "weight_lbs": 1000,
+    "carrier_rate": 200,
+    "updated_at": "2026-10-09T16:27:48.496228+00:00",
+    "lane": "CERRITOS CA-ANAHEIM CA"
+  },
+  {
     "pro": "8890427",
     "status": "OPEN",
     "spot": true,
