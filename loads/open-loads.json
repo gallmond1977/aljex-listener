@@ -1149,7 +1149,7 @@
     "pu_date": "2026-10-12",
     "pu_city": "PASADENA",
     "pu_state": "TX",
-    "pu_hours": "",
+    "pu_hours": "1300",
     "del_date": "2026-10-14",
     "del_city": "GREENVILLE",
     "del_state": "SC",
@@ -1157,7 +1157,7 @@
     "equipment": "Van",
     "weight_lbs": 44960,
     "carrier_rate": 2800,
-    "updated_at": "2026-10-09T13:49:46.712769+00:00",
+    "updated_at": "2026-10-09T13:52:34.956499+00:00",
     "lane": "PASADENA TX-GREENVILLE SC"
   }
 ]
