@@ -188,7 +188,7 @@
     "equipment": "Van Hazmat",
     "weight_lbs": 44650,
     "carrier_rate": 2200,
-    "updated_at": "2026-10-09T13:34:29.634459+00:00",
+    "updated_at": "2026-10-09T13:37:26.934169+00:00",
     "lane": "OAKLAND TN-DALLAS TX"
   },
   {
@@ -292,23 +292,6 @@
     "carrier_rate": 1500,
     "updated_at": "2026-10-06T20:08:03.459324+00:00",
     "lane": "ATHENS AL-GULFPORT MS"
-  },
-  {
-    "pro": "50877",
-    "status": "OPEN",
-    "pu_date": "2026-10-12",
-    "pu_city": "NEWNAN",
-    "pu_state": "GA",
-    "pu_hours": "0700",
-    "del_date": "2026-10-12",
-    "del_city": "KNOXVILLE",
-    "del_state": "TN",
-    "del_hours": "0700-1530",
-    "equipment": "Van",
-    "weight_lbs": 15000,
-    "carrier_rate": 1000,
-    "updated_at": "2026-10-08T16:41:56.913230+00:00",
-    "lane": "NEWNAN GA-KNOXVILLE TN"
   },
   {
     "pro": "50883",
@@ -1162,7 +1145,7 @@
   },
   {
     "pro": "50916",
-    "status": "COVERED",
+    "status": "DISPATCHED",
     "pu_date": "2026-10-09",
     "pu_city": "WINCHESTER",
     "pu_state": "KY",
@@ -1174,7 +1157,7 @@
     "equipment": "Van",
     "weight_lbs": 14580,
     "carrier_rate": 1000,
-    "updated_at": "2026-10-09T13:20:41.535070+00:00",
+    "updated_at": "2026-10-09T13:38:40.362630+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
   }
 ]
