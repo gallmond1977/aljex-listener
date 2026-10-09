@@ -187,7 +187,7 @@
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 7000,
     "carrier_rate": 1800,
-    "updated_at": "2026-10-09T13:13:54.968496+00:00",
+    "updated_at": "2026-10-09T13:29:37.708865+00:00",
     "lane": "HOUSTON TX-SANFORD FL"
   },
   {
@@ -923,7 +923,7 @@
   },
   {
     "pro": "50820",
-    "status": "CONSIGNEE",
+    "status": "DELIVERED",
     "pu_date": "2026-10-08",
     "pu_city": "ALPHARETTA",
     "pu_state": "GA",
@@ -935,7 +935,7 @@
     "equipment": "Flatbed w/ Tarps",
     "weight_lbs": 42000,
     "carrier_rate": 2750,
-    "updated_at": "2026-10-09T06:25:29.174280+00:00",
+    "updated_at": "2026-10-09T13:26:04.008101+00:00",
     "lane": "ALPHARETTA GA-MARSHALL VA"
   },
   {
