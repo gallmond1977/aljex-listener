@@ -192,23 +192,6 @@
     "lane": "OAKLAND TN-DALLAS TX"
   },
   {
-    "pro": "49856",
-    "status": "OPEN",
-    "pu_date": "2026-10-12",
-    "pu_city": "PASADENA",
-    "pu_state": "TX",
-    "pu_hours": "",
-    "del_date": "2026-10-14",
-    "del_city": "GREENVILLE",
-    "del_state": "SC",
-    "del_hours": "0630-1330",
-    "equipment": "Van",
-    "weight_lbs": 44960,
-    "carrier_rate": 2800,
-    "updated_at": "2026-10-09T13:45:01.700133+00:00",
-    "lane": "PASADENA TX-GREENVILLE SC"
-  },
-  {
     "pro": "50812",
     "status": "OPEN",
     "pu_date": "2026-10-12",
@@ -1159,5 +1142,22 @@
     "carrier_rate": 1000,
     "updated_at": "2026-10-09T13:38:40.362630+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
+  },
+  {
+    "pro": "49856",
+    "status": "COVERED",
+    "pu_date": "2026-10-12",
+    "pu_city": "PASADENA",
+    "pu_state": "TX",
+    "pu_hours": "",
+    "del_date": "2026-10-14",
+    "del_city": "GREENVILLE",
+    "del_state": "SC",
+    "del_hours": "0630-1330",
+    "equipment": "Van",
+    "weight_lbs": 44960,
+    "carrier_rate": 2800,
+    "updated_at": "2026-10-09T13:49:46.712769+00:00",
+    "lane": "PASADENA TX-GREENVILLE SC"
   }
 ]
