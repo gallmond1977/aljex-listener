@@ -567,6 +567,23 @@
     "lane": "ANDERSONVILLE GA-MACON GA"
   },
   {
+    "pro": "50921",
+    "status": "OPEN",
+    "pu_date": "2026-10-15",
+    "pu_city": "COLUMBUS",
+    "pu_state": "GA",
+    "pu_hours": "0800",
+    "del_date": "2026-10-15",
+    "del_city": "COLUMBUS",
+    "del_state": "GA",
+    "del_hours": "",
+    "equipment": "Van",
+    "weight_lbs": 40000,
+    "carrier_rate": null,
+    "updated_at": "2026-10-09T15:14:56.878690+00:00",
+    "lane": "COLUMBUS GA-COLUMBUS GA"
+  },
+  {
     "pro": "50082",
     "status": "OPEN",
     "pu_date": "2026-10-19",
