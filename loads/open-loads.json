@@ -227,23 +227,6 @@
     "lane": "UNION CITY GA-HOUSTON TX"
   },
   {
-    "pro": "50849",
-    "status": "OPEN",
-    "pu_date": "2026-10-12",
-    "pu_city": "ATHENS",
-    "pu_state": "AL",
-    "pu_hours": "0700-1500",
-    "del_date": "2026-10-13",
-    "del_city": "GULFPORT",
-    "del_state": "MS",
-    "del_hours": "0700-1030",
-    "equipment": "Van",
-    "weight_lbs": 43317,
-    "carrier_rate": 1500,
-    "updated_at": "2026-10-06T20:09:31.512430+00:00",
-    "lane": "ATHENS AL-GULFPORT MS"
-  },
-  {
     "pro": "50850",
     "status": "OPEN",
     "pu_date": "2026-10-12",
@@ -325,7 +308,7 @@
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 4500,
     "carrier_rate": 1600,
-    "updated_at": "2026-10-08T16:13:44.465543+00:00",
+    "updated_at": "2026-10-09T15:23:51.354967+00:00",
     "lane": "FORT MYERS FL-ADA OK"
   },
   {
@@ -358,8 +341,8 @@
     "del_hours": "0830-1600",
     "equipment": "Van",
     "weight_lbs": 36000,
-    "carrier_rate": 2200,
-    "updated_at": "2026-10-08T18:34:05.802215+00:00",
+    "carrier_rate": 2100,
+    "updated_at": "2026-10-09T15:22:03.657173+00:00",
     "lane": "LAGRANGE GA-LAGO VISTA TX"
   },
   {
@@ -1143,5 +1126,22 @@
     "carrier_rate": 2800,
     "updated_at": "2026-10-09T14:04:24.745947+00:00",
     "lane": "PASADENA TX-GREENVILLE SC"
+  },
+  {
+    "pro": "50849",
+    "status": "COVERED",
+    "pu_date": "2026-10-12",
+    "pu_city": "ATHENS",
+    "pu_state": "AL",
+    "pu_hours": "0700-1500",
+    "del_date": "2026-10-13",
+    "del_city": "GULFPORT",
+    "del_state": "MS",
+    "del_hours": "0700-1030",
+    "equipment": "Van",
+    "weight_lbs": 43317,
+    "carrier_rate": 1500,
+    "updated_at": "2026-10-09T15:24:40.582469+00:00",
+    "lane": "ATHENS AL-GULFPORT MS"
   }
 ]
