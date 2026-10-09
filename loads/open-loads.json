@@ -363,23 +363,6 @@
     "lane": "LAGRANGE GA-WHITE GA"
   },
   {
-    "pro": "50920",
-    "status": "OPEN",
-    "pu_date": "2026-10-12",
-    "pu_city": "CONOVER",
-    "pu_state": "NC",
-    "pu_hours": "1300",
-    "del_date": "2026-10-13",
-    "del_city": "KITTANNING",
-    "del_state": "PA",
-    "del_hours": "0800",
-    "equipment": "Van",
-    "weight_lbs": 20000,
-    "carrier_rate": 1400,
-    "updated_at": "2026-10-09T15:08:27.006319+00:00",
-    "lane": "CONOVER NC-KITTANNING PA"
-  },
-  {
     "pro": "50758",
     "status": "OPEN",
     "pu_date": "2026-10-13",
