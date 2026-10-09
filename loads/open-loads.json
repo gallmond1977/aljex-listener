@@ -976,7 +976,7 @@
   },
   {
     "pro": "50879",
-    "status": "LOADED",
+    "status": "CONSIGNEE",
     "pu_date": "2026-10-08",
     "pu_city": "MONCURE",
     "pu_state": "NC",
@@ -988,7 +988,7 @@
     "equipment": "Van",
     "weight_lbs": 44000,
     "carrier_rate": 900,
-    "updated_at": "2026-10-09T14:26:36.384529+00:00",
+    "updated_at": "2026-10-09T14:39:44.523680+00:00",
     "lane": "MONCURE NC-ATLANTA GA"
   },
   {
