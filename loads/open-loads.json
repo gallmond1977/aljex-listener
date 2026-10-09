@@ -448,6 +448,23 @@
     "lane": "LAGRANGE GA-WHITE GA"
   },
   {
+    "pro": "50920",
+    "status": "OPEN",
+    "pu_date": "2026-10-12",
+    "pu_city": "CONOVER",
+    "pu_state": "NC",
+    "pu_hours": "1300",
+    "del_date": "2026-10-13",
+    "del_city": "KITTANNING",
+    "del_state": "PA",
+    "del_hours": "0800",
+    "equipment": "Van",
+    "weight_lbs": 20000,
+    "carrier_rate": null,
+    "updated_at": "2026-10-09T14:59:58.144042+00:00",
+    "lane": "CONOVER NC-KITTANNING PA"
+  },
+  {
     "pro": "50758",
     "status": "OPEN",
     "pu_date": "2026-10-13",
@@ -1039,7 +1056,7 @@
     "equipment": "Van",
     "weight_lbs": 14580,
     "carrier_rate": 1100,
-    "updated_at": "2026-10-09T14:12:11.208945+00:00",
+    "updated_at": "2026-10-09T14:59:46.840446+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
@@ -1056,7 +1073,7 @@
     "equipment": "Van",
     "weight_lbs": 12480,
     "carrier_rate": 1100,
-    "updated_at": "2026-10-09T14:24:23.985376+00:00",
+    "updated_at": "2026-10-09T14:58:51.947291+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
