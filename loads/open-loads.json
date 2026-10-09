@@ -70,23 +70,6 @@
     "lane": "PORT ANGELES WA-IRWINDALE CA"
   },
   {
-    "pro": "50922",
-    "status": "OPEN",
-    "pu_date": "2026-10-09",
-    "pu_city": "CERRITOS",
-    "pu_state": "CA",
-    "pu_hours": "0900-1200",
-    "del_date": "2026-10-09",
-    "del_city": "CERRITOS",
-    "del_state": "CA",
-    "del_hours": "0800-1500",
-    "equipment": "26' Straight Box Truck",
-    "weight_lbs": 1000,
-    "carrier_rate": 300,
-    "updated_at": "2026-10-09T16:49:49.848727+00:00",
-    "lane": "CERRITOS CA-CERRITOS CA"
-  },
-  {
     "pro": "8890427",
     "status": "OPEN",
     "spot": true,
