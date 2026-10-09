@@ -119,8 +119,25 @@
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 1000,
     "carrier_rate": 200,
-    "updated_at": "2026-10-09T16:27:48.496228+00:00",
+    "updated_at": "2026-10-09T16:30:20.112394+00:00",
     "lane": "CERRITOS CA-ANAHEIM CA"
+  },
+  {
+    "pro": "50923",
+    "status": "OPEN",
+    "pu_date": "2026-10-09",
+    "pu_city": "MOUNT PLEASANT",
+    "pu_state": "TN",
+    "pu_hours": "0800-1530",
+    "del_date": "2026-10-09",
+    "del_city": "DECATUR",
+    "del_state": "AL",
+    "del_hours": "0800-1600",
+    "equipment": "26' Straight Box Truck",
+    "weight_lbs": 1800,
+    "carrier_rate": 375,
+    "updated_at": "2026-10-09T16:34:26.595731+00:00",
+    "lane": "MOUNT PLEASANT TN-DECATUR AL"
   },
   {
     "pro": "8890427",
