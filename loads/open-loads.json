@@ -158,6 +158,24 @@
     "lane": "OAKLAND TN-DALLAS TX"
   },
   {
+    "pro": "8890428",
+    "status": "OPEN",
+    "spot": true,
+    "pu_date": "2026-10-09",
+    "pu_city": "BUENA VISTA",
+    "pu_state": "GA",
+    "pu_hours": "",
+    "del_date": "2026-10-10",
+    "del_city": "INDIAN TRAIL",
+    "del_state": "NC",
+    "del_hours": "",
+    "equipment": "Van",
+    "weight_lbs": 43500,
+    "carrier_rate": 1100,
+    "updated_at": "2026-10-09T14:27:05.493681+00:00",
+    "lane": "BUENA VISTA GA-INDIAN TRAIL NC"
+  },
+  {
     "pro": "50812",
     "status": "OPEN",
     "pu_date": "2026-10-12",
@@ -394,6 +412,23 @@
     "carrier_rate": 1000,
     "updated_at": "2026-10-09T13:33:48.908069+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
+  },
+  {
+    "pro": "50918",
+    "status": "OPEN",
+    "pu_date": "2026-10-12",
+    "pu_city": "LAGRANGE",
+    "pu_state": "GA",
+    "pu_hours": "",
+    "del_date": "2026-10-12",
+    "del_city": "WHITE",
+    "del_state": "GA",
+    "del_hours": "0800-0900",
+    "equipment": "Flatbed Hot Shot",
+    "weight_lbs": 1500,
+    "carrier_rate": 400,
+    "updated_at": "2026-10-09T14:29:33.793530+00:00",
+    "lane": "LAGRANGE GA-WHITE GA"
   },
   {
     "pro": "50758",
@@ -953,7 +988,7 @@
     "equipment": "Van",
     "weight_lbs": 44000,
     "carrier_rate": 900,
-    "updated_at": "2026-10-08T13:05:28.414247+00:00",
+    "updated_at": "2026-10-09T14:26:36.384529+00:00",
     "lane": "MONCURE NC-ATLANTA GA"
   },
   {
