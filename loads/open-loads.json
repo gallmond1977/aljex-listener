@@ -309,6 +309,23 @@
     "lane": "CLARENCE NY-BELCAMP MD"
   },
   {
+    "pro": "50927",
+    "status": "OPEN",
+    "pu_date": "2026-10-12",
+    "pu_city": "LEXINGTON",
+    "pu_state": "KY",
+    "pu_hours": "",
+    "del_date": "2026-10-12",
+    "del_city": "COLUMBUS",
+    "del_state": "GA",
+    "del_hours": "0800-1600",
+    "equipment": "Flatbed Hot Shot",
+    "weight_lbs": 8000,
+    "carrier_rate": 1100,
+    "updated_at": "2026-10-09T19:14:08.801637+00:00",
+    "lane": "LEXINGTON KY-COLUMBUS GA"
+  },
+  {
     "pro": "8890429",
     "status": "OPEN",
     "spot": true,
