@@ -188,7 +188,7 @@
     "equipment": "Van Hazmat",
     "weight_lbs": 44650,
     "carrier_rate": 2200,
-    "updated_at": "2026-10-09T13:37:26.934169+00:00",
+    "updated_at": "2026-10-09T13:58:21.500133+00:00",
     "lane": "OAKLAND TN-DALLAS TX"
   },
   {
@@ -1055,7 +1055,7 @@
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 2800,
     "carrier_rate": 700,
-    "updated_at": "2026-10-08T20:35:27.612278+00:00",
+    "updated_at": "2026-10-09T14:00:11.557855+00:00",
     "lane": "MACON GA-WINSTON SALEM NC"
   },
   {
