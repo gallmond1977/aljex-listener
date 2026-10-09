@@ -25,6 +25,9 @@ What it does, each run:
    delivery city/state) with one of those OPEN loads, so Grok can recognize
    "that load is covered" without a live lookup. HOLD loads are excluded
    entirely - not shown anywhere in the feed, not even for Grok to skip.
+   Spots (Aljex's separate "spots" table) are added as OPEN rows with
+   "spot": true until they are deleted in Aljex, expire, or are turned into
+   a real load - see select_spot_rows().
 3. Writes the result to loads/open-loads.json in this GitHub repo via the
    GitHub Contents API (create or update, in place - no local git needed,
    which matters here since a Render Cron Job's filesystem is thrown away
@@ -81,6 +84,7 @@ import logging
 import os
 import sys
 from datetime import datetime, timedelta, timezone
+from zoneinfo import ZoneInfo
 
 import requests
 
@@ -97,6 +101,30 @@ GITHUB_BRANCH = os.environ.get("GITHUB_BRANCH", "loads-feed")
 OUTPUT_PATH = "loads/open-loads.json"
 
 RECENT_LANE_DAYS = int(os.environ.get("RECENT_LANE_DAYS", "7"))
+
+# Spots (see transform_spot / select_spot_rows):
+#   SPOT_TIMEZONE            - zone the spot expiration_date is read in
+#                              (Gene's office). Defaults to America/New_York.
+#   SPOT_MAX_AGE_DAYS        - a spot with no usable expiration_date is
+#                              dropped this many days after date_entered.
+#                              Defaults to 3.
+#   SPOT_LANE_MATCH_REMOVES  - "true" (default) treats a spot as converted
+#                              once a real load on the exact same lane was
+#                              entered/touched on or after the spot's entry
+#                              date with a pickup on or after it. Set "false"
+#                              to rely only on an explicit spot-number link.
+SPOT_TIMEZONE = os.environ.get("SPOT_TIMEZONE", "America/New_York")
+SPOT_MAX_AGE_DAYS = int(os.environ.get("SPOT_MAX_AGE_DAYS", "3"))
+SPOT_LANE_MATCH_REMOVES = os.environ.get("SPOT_LANE_MATCH_REMOVES", "true").strip().lower() not in ("0", "false", "no", "off")
+
+# Values in a spot record that mean "this spot is gone" if Aljex ever reports
+# a deletion/conversion as an update rather than a delete (Aljex support:
+# "the table action should be either update or delete").
+SPOT_GONE_STATUSES = {"DELETED", "DELETE", "VOID", "VOIDED", "CANCELLED", "CANCELED", "CONVERTED", "BOOKED", "EXPIRED", "INACTIVE"}
+SPOT_STATUS_FIELDS = ("status", "spot_status")
+SPOT_DELETED_FLAG_FIELDS = ("deleted", "is_deleted", "delete_flag")
+# Fields on a spot that, when filled in, point at the real load it became.
+SPOT_CONVERTED_FIELDS = ("converted_pro", "converted_to", "converted_load")
 
 OPEN_LOADS_STATUS = "OPEN"
 HOLD_LOADS_STATUS = "HOLD"
@@ -322,21 +350,71 @@ def transform_record(record):
     }
 
 
-def transform_spot(record):
+def _spot_today():
+    try:
+        return datetime.now(ZoneInfo(SPOT_TIMEZONE)).date()
+    except Exception:
+        return datetime.now(timezone.utc).date()
+
+
+def _truthy(raw):
+    return str(raw or "").strip().upper() in ("Y", "YES", "TRUE", "T", "1")
+
+
+def spot_removed_reason(record, today=None):
+    """
+    Returns why a stored spot record must NOT be shown (a short string), or
+    None if it's still a live spot. Covers everything that doesn't need the
+    loads table: a delete action that got stored instead of applied, a
+    deleted/converted status or flag sent as an "update", a filled-in
+    converted-load field, and expiry.
+    """
+    today = today or _spot_today()
+    data = _load_fields(record)
+
+    action = str(record.get("action") or "").strip().lower()
+    if action in ("delete", "deleted", "del", "d", "remove", "removed"):
+        return f"stored action {action!r}"
+
+    for field in SPOT_STATUS_FIELDS:
+        value = str(data.get(field) or "").strip().upper()
+        if value in SPOT_GONE_STATUSES:
+            return f"{field}={value}"
+    for field in SPOT_DELETED_FLAG_FIELDS:
+        if _truthy(data.get(field)):
+            return f"{field} set"
+    for field in SPOT_CONVERTED_FIELDS:
+        if str(data.get(field) or "").strip():
+            return f"converted ({field})"
+
+    exp = _parse_date(data.get("expiration_date"))
+    if exp is not None:
+        if exp < today:
+            return f"expired {exp.isoformat()}"
+    else:
+        entered = _parse_date(data.get("date_entered"))
+        if entered is None or (today - entered).days > SPOT_MAX_AGE_DAYS:
+            return "no expiration_date and older than SPOT_MAX_AGE_DAYS (or no date_entered)"
+    return None
+
+
+def transform_spot(record, today=None):
     """
     Maps one /records/spots item into the same row shape as a load, plus
     "spot": true. Spots have no status or pickup date of their own, so:
-      - they count as OPEN until their expiration_date passes (skipped after),
+      - they count as OPEN until removed (see spot_removed_reason: deleted,
+        converted, or past their expiration_date in SPOT_TIMEZONE),
       - pu_date is the date the spot was entered (the dashboard groups by it).
-    Returns None for a record with no spot_number or an expired spot.
+    Returns None for a record with no spot_number or a removed spot.
     """
     data = _load_fields(record)
     spot_no = str(data.get("spot_number") or "").strip()
     if not spot_no:
         return None
 
-    exp = _parse_date(data.get("expiration_date"))
-    if exp is not None and exp < datetime.now(timezone.utc).date():
+    reason = spot_removed_reason(record, today)
+    if reason:
+        log.info("Dropping spot %s from the feed: %s", spot_no, reason)
         return None
 
     pu_city = data.get("pickup_city") or ""
@@ -361,6 +439,118 @@ def transform_spot(record):
         "updated_at": record.get("received_at") or "",
         "lane": _make_lane(pu_city, pu_state, del_city, del_state),
     }
+
+
+def _linked_spot_numbers(load_records):
+    """
+    Spot numbers that a real load explicitly points back to (any load field
+    whose name mentions "spot", e.g. spot_number / spot_no). Aljex support:
+    a spot "turned into an actual load ... will be part of the data sync
+    loads table".
+    """
+    linked = set()
+    for record in load_records:
+        data = _load_fields(record)
+        for key, value in data.items():
+            if "spot" in str(key).lower() and str(value or "").strip():
+                linked.add(str(value).strip())
+    return linked
+
+
+def _load_entered_date(record, data):
+    for field in ("date_entered", "entered_date", "create_date", "created_date", "entered"):
+        d = _parse_date(data.get(field))
+        if d is not None:
+            return d
+    raw = record.get("received_at") or ""
+    try:
+        return datetime.fromisoformat(raw.replace("Z", "+00:00")).date()
+    except ValueError:
+        return None
+
+
+def select_spot_rows(spot_records, load_records=(), today=None):
+    """
+    Live spot rows for the feed. A spot leaves the feed when:
+      (a) Aljex sent a delete for it (the listener removes the record; a
+          delete stored as an action is also honoured here),
+      (b) its expiration_date has passed,
+      (c) it's missing from the spots table the listener holds (a full
+          snapshot import via /bulk-import/spots?replace=true removes absent
+          spots there - nothing is kept here between runs, so absence from
+          /records/spots is always absence from the feed),
+      (d) it was turned into a real load: a load references its spot number,
+          or (SPOT_LANE_MATCH_REMOVES) a load on the exact same lane was
+          entered on/after the spot's entry date with pickup on/after it.
+    Real loads are not touched by any of this.
+    """
+    today = today or _spot_today()
+
+    # One row per spot number. A record stored under a blank key (from before
+    # the listener keyed spots by spot_number, when every spot overwrote one
+    # blank-keyed row) can never be matched by an Aljex delete, so it is
+    # ignored rather than shown forever.
+    by_spot = {}
+    for record in spot_records:
+        data = _load_fields(record)
+        spot_no = str(data.get("spot_number") or "").strip()
+        if not spot_no:
+            continue
+        if not str(record.get("record_id") or "").strip():
+            log.info("Ignoring spot %s stored under a blank record_id.", spot_no)
+            continue
+        prev = by_spot.get(spot_no)
+        if prev is None or (record.get("received_at") or "") > (prev.get("received_at") or ""):
+            by_spot[spot_no] = record
+
+    linked = _linked_spot_numbers(load_records)
+
+    load_lanes = []
+    if SPOT_LANE_MATCH_REMOVES:
+        for record in load_records:
+            data = _load_fields(record)
+            if not data.get("id"):
+                continue
+            if str(data.get("equipment") or "").strip().upper() in PLACEHOLDER_EQUIPMENT_CODES:
+                continue
+            lane = _make_lane(
+                data.get("origin_city") or "",
+                data.get("origin_state") or "",
+                data.get("dest_city") or "",
+                data.get("dest_state") or "",
+            ).casefold()
+            pu = _parse_date(data.get("pickup_date") or data.get("must_pickup_date"))
+            load_lanes.append((lane, _load_entered_date(record, data), pu, str(data.get("id"))))
+
+    rows = []
+    for spot_no, record in sorted(by_spot.items()):
+        if spot_no in linked:
+            log.info("Dropping spot %s from the feed: a load references it.", spot_no)
+            continue
+        row = transform_spot(record, today)
+        if row is None:
+            continue
+        if SPOT_LANE_MATCH_REMOVES and row["pu_city"] and row["del_city"]:
+            spot_lane = row["lane"].casefold()
+            entered = _parse_date(row["pu_date"])
+            match = next(
+                (
+                    pro
+                    for lane, load_entered, pu, pro in load_lanes
+                    if lane == spot_lane
+                    and entered is not None
+                    and load_entered is not None
+                    and load_entered >= entered
+                    and pu is not None
+                    and pu >= entered
+                ),
+                None,
+            )
+            if match:
+                log.info("Dropping spot %s from the feed: converted to load %s (same lane).", spot_no, match)
+                continue
+        rows.append(row)
+    return rows
 
 
 def select_rows(records, spot_records=()):
@@ -426,7 +616,7 @@ def select_rows(records, spot_records=()):
         and is_recent(r)
     ]
 
-    spot_rows = [t for t in (transform_spot(r) for r in spot_records) if t is not None]
+    spot_rows = select_spot_rows(spot_records, records)
 
     rows = open_rows + spot_rows + same_lane_rows
     rows.sort(key=lambda r: (r["status"] != OPEN_LOADS_STATUS, r["pu_date"], r["pro"]))

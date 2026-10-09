@@ -147,6 +147,21 @@ def init_db():
         """
     )
 
+    # Rolling history of raw Aljex spots sync events (see _record_sync_event).
+    conn.execute(
+        """
+        CREATE TABLE IF NOT EXISTS aljex_sync_events (
+            id INTEGER PRIMARY KEY AUTOINCREMENT,
+            table_name TEXT NOT NULL,
+            raw_action TEXT,
+            action TEXT,
+            record_id TEXT,
+            fields_json TEXT,
+            received_at TEXT NOT NULL
+        )
+        """
+    )
+
     # Microsoft Graph is documented to sometimes deliver the same change
     # notification more than once. message_id is the primary key so a
     # second INSERT for the same message fails - see _mark_seen_once().
@@ -210,6 +225,69 @@ def requires_auth(f):
     return decorated
 
 
+
+# ---------------------------------------------------------------------
+# Aljex Live Sync helpers (action / record key normalization)
+# ---------------------------------------------------------------------
+DELETE_ACTIONS = {"delete", "deleted", "del", "d", "remove", "removed"}
+
+# Field that identifies a record, per Aljex table. Loads, customers etc. use
+# "id"; the spots table uses "spot_number" (it has no "id" of its own on
+# insert/update, so a delete that carried some other "id" used to be looked up
+# under the wrong key and never matched the stored spot).
+RECORD_KEY_FIELDS = {"spots": ("spot_number", "spot_no", "spot", "id")}
+DEFAULT_RECORD_KEY_FIELDS = ("id", "spot_number")
+
+SYNC_EVENT_HISTORY = 500
+
+
+def normalize_sync_action(raw):
+    """
+    Aljex documents insert/update/delete, but the value was compared
+    case-sensitively against "delete" - "Delete"/"DELETE"/" delete" etc.
+    would have been stored as if it were an update, leaving the record (and,
+    for spots, the open-loads feed row) in place forever.
+    """
+    if raw is None:
+        return ""
+    action = str(raw).strip().lower()
+    if action in DELETE_ACTIONS:
+        return "delete"
+    return action
+
+
+def sync_record_id(table_name, fields):
+    """Returns the stored record key for one Aljex sync payload ('' if none)."""
+    keys = RECORD_KEY_FIELDS.get(str(table_name).strip().lower(), DEFAULT_RECORD_KEY_FIELDS)
+    for key in keys:
+        value = fields.get(key)
+        if value is not None and str(value).strip():
+            return str(value).strip()
+    return ""
+
+
+def _record_sync_event(conn, table_name, raw_action, action, record_id, fields):
+    """Keeps a small rolling history of spots sync events for troubleshooting."""
+    if str(table_name).lower() != "spots":
+        return
+    import json
+
+    conn.execute(
+        "INSERT INTO aljex_sync_events (table_name, raw_action, action, record_id, fields_json, received_at) VALUES (?, ?, ?, ?, ?, ?)",
+        (
+            table_name,
+            "" if raw_action is None else str(raw_action),
+            action,
+            record_id,
+            json.dumps(fields),
+            datetime.now(timezone.utc).isoformat(),
+        ),
+    )
+    conn.execute(
+        "DELETE FROM aljex_sync_events WHERE id NOT IN (SELECT id FROM aljex_sync_events ORDER BY id DESC LIMIT ?)",
+        (SYNC_EVENT_HISTORY,),
+    )
+
 # ---------------------------------------------------------------------
 # Routes
 # ---------------------------------------------------------------------
@@ -241,25 +319,61 @@ def aljex_webhook():
     """
     form = request.form.to_dict()
 
-    table_name = form.pop("web_sync_table_name", None)
-    action = form.pop("web_sync_action", None)
+    table_name = (form.pop("web_sync_table_name", None) or "").strip()
+    raw_action = form.pop("web_sync_action", None)
+    action = normalize_sync_action(raw_action)
 
     if not table_name or not action:
         return jsonify({"error": "Missing required sync parameters"}), 400
 
-    # Loads, customers etc. identify themselves with "id"; Aljex's "spots" table
-    # uses "spot_number" instead (without this every spot was stored under a
-    # blank record_id and each new spot overwrote the last).
-    record_id = form.get("id") or form.get("spot_number") or ""
+    record_id = sync_record_id(table_name, form)
 
     import json
 
+    # Spots are short-lived and have had trouble leaving the open-loads feed
+    # (Aljex deletes them or turns them into real loads, and the feed kept
+    # showing them). Log every spots event's action and field NAMES (never
+    # values) so the real shape of Aljex's delete/update payloads is visible
+    # in the Render logs, and keep a small rolling history in
+    # aljex_sync_events (see /sync-events) for the same reason.
+    if table_name.lower() == "spots":
+        app.logger.info(
+            "Aljex spots sync: action=%r (raw %r) record_id=%r fields=%s",
+            action,
+            raw_action,
+            record_id,
+            sorted(form.keys()),
+        )
+
     conn = get_db()
+    _record_sync_event(conn, table_name, raw_action, action, record_id, form)
 
     if action == "delete":
-        conn.execute(
-            "DELETE FROM aljex_records WHERE table_name = ? AND record_id = ?",
-            (table_name, record_id),
+        if not record_id:
+            app.logger.warning(
+                "Aljex delete for table=%s had no usable record key - nothing deleted. fields=%s",
+                table_name,
+                sorted(form.keys()),
+            )
+        else:
+            deleted = conn.execute(
+                "DELETE FROM aljex_records WHERE table_name = ? AND record_id = ?",
+                (table_name, record_id),
+            ).rowcount
+            if not deleted:
+                app.logger.warning(
+                    "Aljex delete for table=%s record_id=%r matched no stored record.",
+                    table_name,
+                    record_id,
+                )
+    elif not record_id:
+        # Previously stored under a blank record_id, where every keyless
+        # record overwrote the last one. Nothing useful can be keyed off it.
+        app.logger.warning(
+            "Aljex %s for table=%s had no usable record key - not stored. fields=%s",
+            action,
+            table_name,
+            sorted(form.keys()),
         )
     else:
         conn.execute(
@@ -410,6 +524,57 @@ def get_record_by_id(table_name, record_id):
             "data": json.loads(row["data_json"]),
             "received_at": row["received_at"],
         }
+    )
+
+
+@app.route("/records/<table_name>/<record_id>", methods=["DELETE"])
+@requires_auth
+def delete_record_by_id(table_name, record_id):
+    """
+    Manually removes one stored record, e.g. DELETE /records/spots/8890423.
+    For cleaning up a record whose Aljex delete never reached (or never
+    matched) this listener - most visibly a spot that keeps showing as OPEN
+    in loads/open-loads.json after it was deleted in Aljex.
+    """
+    conn = get_db()
+    deleted = conn.execute(
+        "DELETE FROM aljex_records WHERE table_name = ? AND record_id = ?",
+        (table_name, record_id),
+    ).rowcount
+    conn.commit()
+    conn.close()
+    if not deleted:
+        return jsonify({"error": "record not found"}), 404
+    return jsonify({"status": "ok", "table": table_name, "record_id": record_id, "deleted": deleted})
+
+
+@app.route("/sync-events", methods=["GET"])
+@requires_auth
+def view_sync_events():
+    """
+    The most recent raw Aljex spots sync events (newest first, up to 500),
+    exactly as received - action as sent, record key used, and all fields.
+    Exists to see how Aljex actually reports a deleted / converted spot.
+    """
+    import json
+
+    conn = get_db()
+    rows = conn.execute(
+        "SELECT table_name, raw_action, action, record_id, fields_json, received_at FROM aljex_sync_events ORDER BY id DESC"
+    ).fetchall()
+    conn.close()
+    return jsonify(
+        [
+            {
+                "table": r["table_name"],
+                "raw_action": r["raw_action"],
+                "action": r["action"],
+                "record_id": r["record_id"],
+                "fields": json.loads(r["fields_json"] or "{}"),
+                "received_at": r["received_at"],
+            }
+            for r in rows
+        ]
     )
 
 
@@ -894,7 +1059,14 @@ def bulk_import(table_name):
     Used for one-time backfills (e.g. importing a CSV export) instead of
     sending thousands of individual webhook-style requests.
 
-    Expects JSON body: a list of objects, each with at least an "id" field.
+    Expects JSON body: a list of objects, each with at least an "id" field
+    ("spot_number" for the spots table).
+
+    ?replace=true treats the body as a FULL snapshot of that table: any
+    stored record of the table that isn't in the body is removed (that's how
+    Aljex's spots file behaves - a deleted or converted spot simply stops
+    appearing). Refused if the body has no usable records, so an empty or
+    broken export can't wipe the table.
     """
     import json
 
@@ -902,15 +1074,19 @@ def bulk_import(table_name):
     if not isinstance(records, list):
         return jsonify({"error": "Expected a JSON array of records"}), 400
 
+    replace = str(request.args.get("replace", "")).strip().lower() in ("1", "true", "yes")
+
     conn = get_db()
     saved = 0
     skipped = 0
+    seen_ids = set()
 
     for record in records:
-        record_id = record.get("id", "")
+        record_id = sync_record_id(table_name, record) if isinstance(record, dict) else ""
         if not record_id:
             skipped += 1
             continue
+        seen_ids.add(record_id)
         conn.execute(
             """
             INSERT INTO aljex_records (table_name, record_id, action, data_json, received_at)
@@ -930,9 +1106,31 @@ def bulk_import(table_name):
         )
         saved += 1
 
+    removed = 0
+    if replace:
+        if not seen_ids:
+            conn.rollback()
+            conn.close()
+            return jsonify({"error": "replace=true needs at least one record with a usable id"}), 400
+        stored = [
+            r["record_id"]
+            for r in conn.execute(
+                "SELECT record_id FROM aljex_records WHERE table_name = ?", (table_name,)
+            ).fetchall()
+        ]
+        for rid in stored:
+            if rid not in seen_ids:
+                conn.execute(
+                    "DELETE FROM aljex_records WHERE table_name = ? AND record_id = ?",
+                    (table_name, rid),
+                )
+                removed += 1
+
     conn.commit()
     conn.close()
 
+    if replace:
+        return jsonify({"status": "ok", "table": table_name, "saved": saved, "skipped": skipped, "removed": removed})
     return jsonify({"status": "ok", "table": table_name, "saved": saved, "skipped": skipped})
 
 
