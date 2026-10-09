@@ -327,6 +327,23 @@
     "lane": "GARLAND TX-CALHOUN GA"
   },
   {
+    "pro": "50857",
+    "status": "OPEN",
+    "pu_date": "2026-10-13",
+    "pu_city": "ANDERSONVILLE",
+    "pu_state": "GA",
+    "pu_hours": "0800-1500",
+    "del_date": "2026-10-13",
+    "del_city": "MACON",
+    "del_state": "GA",
+    "del_hours": "0730-1630",
+    "equipment": "Van",
+    "weight_lbs": 14572,
+    "carrier_rate": 550,
+    "updated_at": "2026-10-09T18:48:51.350117+00:00",
+    "lane": "ANDERSONVILLE GA-MACON GA"
+  },
+  {
     "pro": "50884",
     "status": "OPEN",
     "pu_date": "2026-10-13",
@@ -393,23 +410,6 @@
     "carrier_rate": 500,
     "updated_at": "2026-10-06T18:09:59.607556+00:00",
     "lane": "RICHMOND VA-MIDLOTHIAN VA"
-  },
-  {
-    "pro": "50857",
-    "status": "OPEN",
-    "pu_date": "2026-10-15",
-    "pu_city": "ANDERSONVILLE",
-    "pu_state": "GA",
-    "pu_hours": "0800-1500",
-    "del_date": "2026-10-15",
-    "del_city": "MACON",
-    "del_state": "GA",
-    "del_hours": "0730-1630",
-    "equipment": "Van",
-    "weight_lbs": 14572,
-    "carrier_rate": 550,
-    "updated_at": "2026-10-08T12:40:13.479466+00:00",
-    "lane": "ANDERSONVILLE GA-MACON GA"
   },
   {
     "pro": "50082",
