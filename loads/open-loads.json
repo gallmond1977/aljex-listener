@@ -460,8 +460,8 @@
     "del_hours": "0800",
     "equipment": "Van",
     "weight_lbs": 20000,
-    "carrier_rate": null,
-    "updated_at": "2026-10-09T14:59:58.144042+00:00",
+    "carrier_rate": 1400,
+    "updated_at": "2026-10-09T15:08:27.006319+00:00",
     "lane": "CONOVER NC-KITTANNING PA"
   },
   {
@@ -1039,12 +1039,12 @@
     "equipment": "Van",
     "weight_lbs": 43500,
     "carrier_rate": 1150,
-    "updated_at": "2026-10-09T14:26:15.338651+00:00",
+    "updated_at": "2026-10-09T15:05:55.198323+00:00",
     "lane": "BUENA VISTA GA-INDIAN TRAIL NC"
   },
   {
     "pro": "50796",
-    "status": "DISPATCHED",
+    "status": "PICKUP",
     "pu_date": "2026-10-09",
     "pu_city": "WINCHESTER",
     "pu_state": "KY",
@@ -1056,7 +1056,7 @@
     "equipment": "Van",
     "weight_lbs": 14580,
     "carrier_rate": 1100,
-    "updated_at": "2026-10-09T15:00:19.520448+00:00",
+    "updated_at": "2026-10-09T15:07:19.401639+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
