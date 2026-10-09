@@ -72,23 +72,6 @@
     "lane": "TROY TN-OMAHA NE"
   },
   {
-    "pro": "50769",
-    "status": "OPEN",
-    "pu_date": "2026-10-09",
-    "pu_city": "MOUNT STERLING",
-    "pu_state": "KY",
-    "pu_hours": "0700",
-    "del_date": "2026-10-12",
-    "del_city": "MIRA LOMA",
-    "del_state": "CA",
-    "del_hours": "0630",
-    "equipment": "Van",
-    "weight_lbs": 4800,
-    "carrier_rate": 4300,
-    "updated_at": "2026-10-09T12:05:43.603206+00:00",
-    "lane": "MOUNT STERLING KY-MIRA LOMA CA"
-  },
-  {
     "pro": "50876",
     "status": "OPEN",
     "pu_date": "2026-10-09",
@@ -718,23 +701,6 @@
     "lane": "LA PORTE TX-GREENVILLE SC"
   },
   {
-    "pro": "50661",
-    "status": "RELEASED",
-    "pu_date": "2026-09-30",
-    "pu_city": "MOUNT STERLING",
-    "pu_state": "KY",
-    "pu_hours": "1200",
-    "del_date": "2026-10-04",
-    "del_city": "MIRA LOMA",
-    "del_state": "CA",
-    "del_hours": "0500",
-    "equipment": "Van",
-    "weight_lbs": 4800,
-    "carrier_rate": 4400,
-    "updated_at": "2026-10-05T12:00:54.904387+00:00",
-    "lane": "MOUNT STERLING KY-MIRA LOMA CA"
-  },
-  {
     "pro": "50753",
     "status": "RELEASED",
     "pu_date": "2026-10-01",
@@ -969,7 +935,7 @@
     "equipment": "Flatbed w/ Tarps",
     "weight_lbs": 42000,
     "carrier_rate": 2700,
-    "updated_at": "2026-10-09T12:49:17.517174+00:00",
+    "updated_at": "2026-10-09T12:57:44.572811+00:00",
     "lane": "ALPHARETTA GA-MARSHALL VA"
   }
 ]
