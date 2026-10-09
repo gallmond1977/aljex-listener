@@ -72,23 +72,6 @@
     "lane": "TROY TN-OMAHA NE"
   },
   {
-    "pro": "50823",
-    "status": "OPEN",
-    "pu_date": "2026-10-09",
-    "pu_city": "UNION CITY",
-    "pu_state": "GA",
-    "pu_hours": "1230",
-    "del_date": "2026-10-12",
-    "del_city": "HOUSTON",
-    "del_state": "TX",
-    "del_hours": "0600-1500",
-    "equipment": "Van",
-    "weight_lbs": 12500,
-    "carrier_rate": 1800,
-    "updated_at": "2026-10-09T13:03:49.199153+00:00",
-    "lane": "UNION CITY GA-HOUSTON TX"
-  },
-  {
     "pro": "50876",
     "status": "OPEN",
     "pu_date": "2026-10-09",
@@ -187,8 +170,42 @@
     "equipment": "Van",
     "weight_lbs": 14580,
     "carrier_rate": 1000,
-    "updated_at": "2026-10-09T13:08:22.182086+00:00",
+    "updated_at": "2026-10-09T13:10:18.097331+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
+  },
+  {
+    "pro": "50812",
+    "status": "OPEN",
+    "pu_date": "2026-10-12",
+    "pu_city": "HOUSTON",
+    "pu_state": "TX",
+    "pu_hours": "0700",
+    "del_date": "2026-10-13",
+    "del_city": "SANFORD",
+    "del_state": "FL",
+    "del_hours": "0700",
+    "equipment": "26' Straight Box Truck",
+    "weight_lbs": 7000,
+    "carrier_rate": 1800,
+    "updated_at": "2026-10-09T13:13:54.968496+00:00",
+    "lane": "HOUSTON TX-SANFORD FL"
+  },
+  {
+    "pro": "50823",
+    "status": "OPEN",
+    "pu_date": "2026-10-12",
+    "pu_city": "UNION CITY",
+    "pu_state": "GA",
+    "pu_hours": "0800",
+    "del_date": "2026-10-13",
+    "del_city": "HOUSTON",
+    "del_state": "TX",
+    "del_hours": "0600-1500",
+    "equipment": "Van",
+    "weight_lbs": 12500,
+    "carrier_rate": 1800,
+    "updated_at": "2026-10-09T13:13:20.823044+00:00",
+    "lane": "UNION CITY GA-HOUSTON TX"
   },
   {
     "pro": "50844",
@@ -956,6 +973,23 @@
     "lane": "ALPHARETTA GA-MARSHALL VA"
   },
   {
+    "pro": "50810",
+    "status": "DELIVERED",
+    "pu_date": "2026-10-08",
+    "pu_city": "HOUSTON",
+    "pu_state": "TX",
+    "pu_hours": "0700",
+    "del_date": "2026-10-09",
+    "del_city": "SANFORD",
+    "del_state": "FL",
+    "del_hours": "0700",
+    "equipment": "26' Straight Box Truck",
+    "weight_lbs": 7000,
+    "carrier_rate": 2400,
+    "updated_at": "2026-10-09T13:09:25.443489+00:00",
+    "lane": "HOUSTON TX-SANFORD FL"
+  },
+  {
     "pro": "50820",
     "status": "CONSIGNEE",
     "pu_date": "2026-10-08",
@@ -1071,7 +1105,7 @@
     "equipment": "Van",
     "weight_lbs": 44000,
     "carrier_rate": 900,
-    "updated_at": "2026-10-09T12:12:13.037617+00:00",
+    "updated_at": "2026-10-09T13:10:58.351880+00:00",
     "lane": "MONCURE NC-ATLANTA GA"
   },
   {
