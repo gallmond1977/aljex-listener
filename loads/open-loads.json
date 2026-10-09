@@ -395,6 +395,23 @@
     "lane": "RICHMOND VA-RICHMOND VA"
   },
   {
+    "pro": "50929",
+    "status": "OPEN",
+    "pu_date": "2026-10-14",
+    "pu_city": "WADESBORO",
+    "pu_state": "NC",
+    "pu_hours": "0730-1630",
+    "del_date": "2026-10-15",
+    "del_city": "ATLANTA",
+    "del_state": "GA",
+    "del_hours": "0800-1600",
+    "equipment": "Van",
+    "weight_lbs": 44000,
+    "carrier_rate": null,
+    "updated_at": "2026-10-09T19:55:17.149561+00:00",
+    "lane": "WADESBORO NC-ATLANTA GA"
+  },
+  {
     "pro": "50822",
     "status": "OPEN",
     "pu_date": "2026-10-15",
