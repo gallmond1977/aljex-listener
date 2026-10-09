@@ -289,7 +289,7 @@
     "equipment": "Flatbed",
     "weight_lbs": 47500,
     "carrier_rate": 4200,
-    "updated_at": "2026-10-09T18:07:05.357334+00:00",
+    "updated_at": "2026-10-09T18:10:32.030198+00:00",
     "lane": "CENTRALIA WA-SALT LAKE CITY UT"
   },
   {
@@ -614,6 +614,23 @@
     "carrier_rate": null,
     "updated_at": "2026-09-03T14:31:39.531141+00:00",
     "lane": "LA PORTE TX-GREENVILLE SC"
+  },
+  {
+    "pro": "50924",
+    "status": "OPEN",
+    "pu_date": "2026-12-11",
+    "pu_city": "OLD FORT",
+    "pu_state": "NC",
+    "pu_hours": "NEEDS RDY",
+    "del_date": "2026-12-14",
+    "del_city": "COLUMBUS",
+    "del_state": "GA",
+    "del_hours": "NEEDED",
+    "equipment": "Van",
+    "weight_lbs": 41500,
+    "carrier_rate": null,
+    "updated_at": "2026-10-09T18:13:23.752895+00:00",
+    "lane": "OLD FORT NC-COLUMBUS GA"
   },
   {
     "pro": "50288",
