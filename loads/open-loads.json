@@ -423,11 +423,11 @@
     "del_date": "2026-10-12",
     "del_city": "WHITE",
     "del_state": "GA",
-    "del_hours": "0800-0900",
+    "del_hours": "0800-1500",
     "equipment": "Flatbed Hot Shot",
     "weight_lbs": 1500,
     "carrier_rate": 400,
-    "updated_at": "2026-10-09T14:29:33.793530+00:00",
+    "updated_at": "2026-10-09T14:33:42.932931+00:00",
     "lane": "LAGRANGE GA-WHITE GA"
   },
   {
