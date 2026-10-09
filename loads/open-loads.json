@@ -53,23 +53,6 @@
     "lane": "CHEHALIS WA-SALT LAKE CITY UT"
   },
   {
-    "pro": "50925",
-    "status": "OPEN",
-    "pu_date": "2026-10-09",
-    "pu_city": "WADESBORO",
-    "pu_state": "NC",
-    "pu_hours": "0730-1630",
-    "del_date": "",
-    "del_city": "ATLANTA",
-    "del_state": "GA",
-    "del_hours": "0800-1600",
-    "equipment": "Van",
-    "weight_lbs": 44000,
-    "carrier_rate": 850,
-    "updated_at": "2026-10-09T18:59:40.330421+00:00",
-    "lane": "WADESBORO NC-ATLANTA GA"
-  },
-  {
     "pro": "8890427",
     "status": "OPEN",
     "spot": true,
@@ -290,6 +273,40 @@
     "carrier_rate": 400,
     "updated_at": "2026-10-09T15:37:14.725842+00:00",
     "lane": "LAGRANGE GA-WHITE GA"
+  },
+  {
+    "pro": "50925",
+    "status": "OPEN",
+    "pu_date": "2026-10-12",
+    "pu_city": "WADESBORO",
+    "pu_state": "NC",
+    "pu_hours": "0730-1630",
+    "del_date": "2026-10-13",
+    "del_city": "ATLANTA",
+    "del_state": "GA",
+    "del_hours": "0800-1600",
+    "equipment": "Van",
+    "weight_lbs": 44000,
+    "carrier_rate": 850,
+    "updated_at": "2026-10-09T19:04:47.054401+00:00",
+    "lane": "WADESBORO NC-ATLANTA GA"
+  },
+  {
+    "pro": "50926",
+    "status": "OPEN",
+    "pu_date": "2026-10-12",
+    "pu_city": "CLARENCE",
+    "pu_state": "NY",
+    "pu_hours": "0900-1200",
+    "del_date": "2026-10-13",
+    "del_city": "BELCAMP",
+    "del_state": "MD",
+    "del_hours": "0700-1500",
+    "equipment": "26' Straight Box Truck",
+    "weight_lbs": 1000,
+    "carrier_rate": 750,
+    "updated_at": "2026-10-09T19:01:08.148746+00:00",
+    "lane": "CLARENCE NY-BELCAMP MD"
   },
   {
     "pro": "8890429",
@@ -854,6 +871,23 @@
     "lane": "BENSENVILLE IL-BELCAMP MD"
   },
   {
+    "pro": "50807",
+    "status": "RELEASED",
+    "pu_date": "2026-10-05",
+    "pu_city": "CLARENCE",
+    "pu_state": "NY",
+    "pu_hours": "1200-1500",
+    "del_date": "2026-10-06",
+    "del_city": "BELCAMP",
+    "del_state": "MD",
+    "del_hours": "0700-1500",
+    "equipment": "26' Straight Box Truck",
+    "weight_lbs": 1500,
+    "carrier_rate": 800,
+    "updated_at": "2026-10-06T14:37:31.418217+00:00",
+    "lane": "CLARENCE NY-BELCAMP MD"
+  },
+  {
     "pro": "49852",
     "status": "RELEASED",
     "pu_date": "2026-10-06",
@@ -920,6 +954,23 @@
     "carrier_rate": 950,
     "updated_at": "2026-10-08T13:04:34.140655+00:00",
     "lane": "WADESBORO NC-ATLANTA GA"
+  },
+  {
+    "pro": "50872",
+    "status": "DELIVERED",
+    "pu_date": "2026-10-07",
+    "pu_city": "CLARENCE",
+    "pu_state": "NY",
+    "pu_hours": "0530-1530",
+    "del_date": "2026-10-08",
+    "del_city": "BELCAMP",
+    "del_state": "MD",
+    "del_hours": "0700-1500",
+    "equipment": "Sprinter Van",
+    "weight_lbs": 900,
+    "carrier_rate": 650,
+    "updated_at": "2026-10-08T12:25:24.668265+00:00",
+    "lane": "CLARENCE NY-BELCAMP MD"
   },
   {
     "pro": "50836",
