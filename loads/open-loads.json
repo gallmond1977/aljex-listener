@@ -188,7 +188,7 @@
     "equipment": "Van Hazmat",
     "weight_lbs": 44650,
     "carrier_rate": 2200,
-    "updated_at": "2026-10-09T13:58:21.500133+00:00",
+    "updated_at": "2026-10-09T14:01:12.353967+00:00",
     "lane": "OAKLAND TN-DALLAS TX"
   },
   {
@@ -224,23 +224,6 @@
     "carrier_rate": 1800,
     "updated_at": "2026-10-09T13:13:20.823044+00:00",
     "lane": "UNION CITY GA-HOUSTON TX"
-  },
-  {
-    "pro": "50844",
-    "status": "OPEN",
-    "pu_date": "2026-10-12",
-    "pu_city": "MACON",
-    "pu_state": "GA",
-    "pu_hours": "0700-1600",
-    "del_date": "2026-10-13",
-    "del_city": "WINSTON SALEM",
-    "del_state": "NC",
-    "del_hours": "0800-1200",
-    "equipment": "26' Straight Box Truck",
-    "weight_lbs": 2800,
-    "carrier_rate": 500,
-    "updated_at": "2026-10-06T17:08:16.625920+00:00",
-    "lane": "MACON GA-WINSTON SALEM NC"
   },
   {
     "pro": "50849",
@@ -1042,23 +1025,6 @@
     "lane": "MONCURE NC-ATLANTA GA"
   },
   {
-    "pro": "50881",
-    "status": "LOADED",
-    "pu_date": "2026-10-08",
-    "pu_city": "MACON",
-    "pu_state": "GA",
-    "pu_hours": "0700-1600",
-    "del_date": "2026-10-09",
-    "del_city": "WINSTON SALEM",
-    "del_state": "NC",
-    "del_hours": "0800-1200",
-    "equipment": "26' Straight Box Truck",
-    "weight_lbs": 2800,
-    "carrier_rate": 700,
-    "updated_at": "2026-10-09T14:00:11.557855+00:00",
-    "lane": "MACON GA-WINSTON SALEM NC"
-  },
-  {
     "pro": "50796",
     "status": "DISPATCHED",
     "pu_date": "2026-10-09",
@@ -1111,7 +1077,7 @@
   },
   {
     "pro": "50906",
-    "status": "DISPATCHED",
+    "status": "PICKUP",
     "pu_date": "2026-10-09",
     "pu_city": "ALPHARETTA",
     "pu_state": "GA",
@@ -1123,7 +1089,7 @@
     "equipment": "Flatbed w/ Tarps",
     "weight_lbs": 42000,
     "carrier_rate": 2700,
-    "updated_at": "2026-10-09T13:21:13.631032+00:00",
+    "updated_at": "2026-10-09T14:01:18.963094+00:00",
     "lane": "ALPHARETTA GA-MARSHALL VA"
   },
   {
@@ -1157,7 +1123,7 @@
     "equipment": "Van",
     "weight_lbs": 44960,
     "carrier_rate": 2800,
-    "updated_at": "2026-10-09T13:52:34.956499+00:00",
+    "updated_at": "2026-10-09T14:04:24.745947+00:00",
     "lane": "PASADENA TX-GREENVILLE SC"
   }
 ]
