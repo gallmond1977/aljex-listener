@@ -189,7 +189,7 @@
     "equipment": "Van",
     "weight_lbs": 43500,
     "carrier_rate": 1100,
-    "updated_at": "2026-10-09T14:27:05.493681+00:00",
+    "updated_at": "2026-10-09T15:33:37.811958+00:00",
     "lane": "BUENA VISTA GA-INDIAN TRAIL NC"
   },
   {
@@ -276,23 +276,6 @@
     "carrier_rate": 1150,
     "updated_at": "2026-10-08T15:21:50.925091+00:00",
     "lane": "JACKSONVILLE TX-WEWOKA OK"
-  },
-  {
-    "pro": "50899",
-    "status": "OPEN",
-    "pu_date": "2026-10-12",
-    "pu_city": "FORT MYERS",
-    "pu_state": "FL",
-    "pu_hours": "0600-1500",
-    "del_date": "2026-10-14",
-    "del_city": "ADA",
-    "del_state": "OK",
-    "del_hours": "AD LEFTVM",
-    "equipment": "26' Straight Box Truck",
-    "weight_lbs": 4500,
-    "carrier_rate": 1600,
-    "updated_at": "2026-10-09T15:23:51.354967+00:00",
-    "lane": "FORT MYERS FL-ADA OK"
   },
   {
     "pro": "50902",
@@ -410,7 +393,7 @@
     "equipment": "Flatbed Hot Shot",
     "weight_lbs": 1500,
     "carrier_rate": 400,
-    "updated_at": "2026-10-09T14:33:42.932931+00:00",
+    "updated_at": "2026-10-09T15:32:37.347205+00:00",
     "lane": "LAGRANGE GA-WHITE GA"
   },
   {
@@ -769,6 +752,23 @@
     "carrier_rate": 1000,
     "updated_at": "2026-10-05T13:24:11.941714+00:00",
     "lane": "UNION CITY GA-HOUSTON TX"
+  },
+  {
+    "pro": "50722",
+    "status": "RELEASED",
+    "pu_date": "2026-09-30",
+    "pu_city": "WINCHESTER",
+    "pu_state": "KY",
+    "pu_hours": "0800-1300",
+    "del_date": "2026-09-30",
+    "del_city": "JOLIET",
+    "del_state": "IL",
+    "del_hours": "2000",
+    "equipment": "Van",
+    "weight_lbs": 12480,
+    "carrier_rate": 1200,
+    "updated_at": "2026-10-09T15:32:53.549308+00:00",
+    "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
     "pro": "50725",
