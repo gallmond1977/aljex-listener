@@ -140,23 +140,6 @@
     "lane": "GRAND PRAIRIE TX-COLUMBUS GA"
   },
   {
-    "pro": "50919",
-    "status": "OPEN",
-    "pu_date": "2026-10-09",
-    "pu_city": "BUENA VISTA",
-    "pu_state": "GA",
-    "pu_hours": "1200-1400",
-    "del_date": "2026-10-12",
-    "del_city": "INDIAN TRAIL",
-    "del_state": "NC",
-    "del_hours": "0700-1500",
-    "equipment": "Van",
-    "weight_lbs": 43500,
-    "carrier_rate": 1200,
-    "updated_at": "2026-10-09T14:54:06.507044+00:00",
-    "lane": "BUENA VISTA GA-INDIAN TRAIL NC"
-  },
-  {
     "pro": "8890427",
     "status": "OPEN",
     "spot": true,
@@ -1007,23 +990,6 @@
     "carrier_rate": 900,
     "updated_at": "2026-10-09T14:45:55.246421+00:00",
     "lane": "MONCURE NC-ATLANTA GA"
-  },
-  {
-    "pro": "50886",
-    "status": "DELIVERED",
-    "pu_date": "2026-10-08",
-    "pu_city": "BUENA VISTA",
-    "pu_state": "GA",
-    "pu_hours": "1200-1500",
-    "del_date": "2026-10-09",
-    "del_city": "INDIAN TRAIL",
-    "del_state": "NC",
-    "del_hours": "0700-1500",
-    "equipment": "Van",
-    "weight_lbs": 43500,
-    "carrier_rate": 1150,
-    "updated_at": "2026-10-09T15:05:55.198323+00:00",
-    "lane": "BUENA VISTA GA-INDIAN TRAIL NC"
   },
   {
     "pro": "50796",
