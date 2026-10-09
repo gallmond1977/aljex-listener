@@ -275,6 +275,24 @@
     "lane": "LAGRANGE GA-WHITE GA"
   },
   {
+    "pro": "8890429",
+    "status": "OPEN",
+    "spot": true,
+    "pu_date": "2026-10-12",
+    "pu_city": "CENTRALIA",
+    "pu_state": "WA",
+    "pu_hours": "",
+    "del_date": "2026-10-13",
+    "del_city": "SALT LAKE CITY",
+    "del_state": "UT",
+    "del_hours": "",
+    "equipment": "Flatbed",
+    "weight_lbs": 47500,
+    "carrier_rate": 4200,
+    "updated_at": "2026-10-09T18:04:37.443537+00:00",
+    "lane": "CENTRALIA WA-SALT LAKE CITY UT"
+  },
+  {
     "pro": "50758",
     "status": "OPEN",
     "pu_date": "2026-10-13",
