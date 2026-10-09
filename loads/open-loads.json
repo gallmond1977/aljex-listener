@@ -855,7 +855,7 @@
   },
   {
     "pro": "50820",
-    "status": "LOADED",
+    "status": "CONSIGNEE",
     "pu_date": "2026-10-08",
     "pu_city": "ALPHARETTA",
     "pu_state": "GA",
@@ -867,7 +867,7 @@
     "equipment": "Flatbed w/ Tarps",
     "weight_lbs": 42000,
     "carrier_rate": 2750,
-    "updated_at": "2026-10-08T20:04:53.661686+00:00",
+    "updated_at": "2026-10-09T06:25:29.174280+00:00",
     "lane": "ALPHARETTA GA-MARSHALL VA"
   },
   {
