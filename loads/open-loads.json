@@ -192,6 +192,23 @@
     "lane": "OAKLAND TN-DALLAS TX"
   },
   {
+    "pro": "49856",
+    "status": "OPEN",
+    "pu_date": "2026-10-12",
+    "pu_city": "PASADENA",
+    "pu_state": "TX",
+    "pu_hours": "",
+    "del_date": "2026-10-14",
+    "del_city": "GREENVILLE",
+    "del_state": "SC",
+    "del_hours": "0630-1330",
+    "equipment": "Van",
+    "weight_lbs": 44960,
+    "carrier_rate": 2800,
+    "updated_at": "2026-10-09T13:45:01.700133+00:00",
+    "lane": "PASADENA TX-GREENVILLE SC"
+  },
+  {
     "pro": "50812",
     "status": "OPEN",
     "pu_date": "2026-10-12",
@@ -479,23 +496,6 @@
     "carrier_rate": 800,
     "updated_at": "2026-10-07T19:39:08.789474+00:00",
     "lane": "MONCURE NC-ATLANTA GA"
-  },
-  {
-    "pro": "49856",
-    "status": "OPEN",
-    "pu_date": "2026-10-14",
-    "pu_city": "PASADENA",
-    "pu_state": "TX",
-    "pu_hours": "REQ ETA",
-    "del_date": "",
-    "del_city": "GREENVILLE",
-    "del_state": "SC",
-    "del_hours": "0630-1330",
-    "equipment": "Van",
-    "weight_lbs": 44000,
-    "carrier_rate": 2800,
-    "updated_at": "2026-10-07T12:11:21.328611+00:00",
-    "lane": "PASADENA TX-GREENVILLE SC"
   },
   {
     "pro": "50257",
