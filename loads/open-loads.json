@@ -98,7 +98,7 @@
     "equipment": "Van",
     "weight_lbs": 16240,
     "carrier_rate": 1800,
-    "updated_at": "2026-10-12T13:45:00.269352+00:00",
+    "updated_at": "2026-10-12T13:47:02.158007+00:00",
     "lane": "MEMPHIS TN-COLUMBUS GA"
   },
   {
@@ -290,23 +290,6 @@
     "lane": "BELCAMP MD-EL PASO TX"
   },
   {
-    "pro": "50082",
-    "status": "OPEN",
-    "pu_date": "2026-10-19",
-    "pu_city": "RICHMOND",
-    "pu_state": "VA",
-    "pu_hours": "0630-0700",
-    "del_date": "2026-10-19",
-    "del_city": "RICHMOND",
-    "del_state": "VA",
-    "del_hours": "CALL!",
-    "equipment": "26' Straight Box Truck",
-    "weight_lbs": 5000,
-    "carrier_rate": 200,
-    "updated_at": "2026-10-08T15:38:08.765139+00:00",
-    "lane": "RICHMOND VA-RICHMOND VA"
-  },
-  {
     "pro": "50541",
     "status": "OPEN",
     "pu_date": "2026-10-19",
@@ -356,6 +339,23 @@
     "carrier_rate": null,
     "updated_at": "2026-10-07T12:11:33.471005+00:00",
     "lane": "PASADENA TX-GREENVILLE SC"
+  },
+  {
+    "pro": "50082",
+    "status": "OPEN",
+    "pu_date": "2026-10-21",
+    "pu_city": "RICHMOND",
+    "pu_state": "VA",
+    "pu_hours": "0730-0800",
+    "del_date": "2026-10-21",
+    "del_city": "RICHMOND",
+    "del_state": "VA",
+    "del_hours": "CALL!",
+    "equipment": "26' Straight Box Truck",
+    "weight_lbs": 5000,
+    "carrier_rate": 200,
+    "updated_at": "2026-10-12T13:50:01.736023+00:00",
+    "lane": "RICHMOND VA-RICHMOND VA"
   },
   {
     "pro": "50799",
@@ -835,7 +835,7 @@
   },
   {
     "pro": "50902",
-    "status": "COVERED",
+    "status": "DISPATCHED",
     "pu_date": "2026-10-12",
     "pu_city": "GRAND PRAIRIE",
     "pu_state": "TX",
@@ -847,7 +847,7 @@
     "equipment": "Van",
     "weight_lbs": 43000,
     "carrier_rate": 2000,
-    "updated_at": "2026-10-12T12:54:29.713421+00:00",
+    "updated_at": "2026-10-12T13:47:19.057102+00:00",
     "lane": "GRAND PRAIRIE TX-COLUMBUS GA"
   }
 ]
