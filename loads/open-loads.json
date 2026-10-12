@@ -51,23 +51,6 @@
     "lane": "JACKSONVILLE TX-WEWOKA OK"
   },
   {
-    "pro": "50902",
-    "status": "OPEN",
-    "pu_date": "2026-10-12",
-    "pu_city": "GRAND PRAIRIE",
-    "pu_state": "TX",
-    "pu_hours": "0800-1300",
-    "del_date": "2026-10-13",
-    "del_city": "COLUMBUS",
-    "del_state": "GA",
-    "del_hours": "NEED APPT",
-    "equipment": "Van",
-    "weight_lbs": 43000,
-    "carrier_rate": 1800,
-    "updated_at": "2026-10-08T19:15:06.401330+00:00",
-    "lane": "GRAND PRAIRIE TX-COLUMBUS GA"
-  },
-  {
     "pro": "50903",
     "status": "OPEN",
     "pu_date": "2026-10-12",
@@ -132,7 +115,7 @@
     "equipment": "Van",
     "weight_lbs": 14580,
     "carrier_rate": 1000,
-    "updated_at": "2026-10-12T11:50:31.267174+00:00",
+    "updated_at": "2026-10-12T12:54:27.844732+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
@@ -915,7 +898,7 @@
     "equipment": "Van",
     "weight_lbs": 44000,
     "carrier_rate": 900,
-    "updated_at": "2026-10-09T13:10:58.351880+00:00",
+    "updated_at": "2026-10-12T12:53:31.706028+00:00",
     "lane": "MONCURE NC-ATLANTA GA"
   },
   {
@@ -983,7 +966,24 @@
     "equipment": "Van",
     "weight_lbs": 43000,
     "carrier_rate": 2000,
-    "updated_at": "2026-10-12T12:43:34.227090+00:00",
+    "updated_at": "2026-10-12T12:54:35.513312+00:00",
+    "lane": "GRAND PRAIRIE TX-COLUMBUS GA"
+  },
+  {
+    "pro": "50902",
+    "status": "COVERED",
+    "pu_date": "2026-10-12",
+    "pu_city": "GRAND PRAIRIE",
+    "pu_state": "TX",
+    "pu_hours": "0800-1300",
+    "del_date": "2026-10-13",
+    "del_city": "COLUMBUS",
+    "del_state": "GA",
+    "del_hours": "0800-1000",
+    "equipment": "Van",
+    "weight_lbs": 43000,
+    "carrier_rate": 2000,
+    "updated_at": "2026-10-12T12:54:29.713421+00:00",
     "lane": "GRAND PRAIRIE TX-COLUMBUS GA"
   }
 ]
