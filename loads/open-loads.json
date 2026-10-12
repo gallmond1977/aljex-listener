@@ -239,6 +239,23 @@
     "lane": "HOUSTON TX-SANFORD FL"
   },
   {
+    "pro": "50943",
+    "status": "OPEN",
+    "pu_date": "2026-10-16",
+    "pu_city": "WINCHESTER",
+    "pu_state": "KY",
+    "pu_hours": "11AM REQ",
+    "del_date": "2026-10-19",
+    "del_city": "MOROE TWP",
+    "del_state": "NJ",
+    "del_hours": "0900",
+    "equipment": "Van",
+    "weight_lbs": 2660,
+    "carrier_rate": 2300,
+    "updated_at": "2026-10-12T19:19:16.924114+00:00",
+    "lane": "WINCHESTER KY-MOROE TWP NJ"
+  },
+  {
     "pro": "50541",
     "status": "OPEN",
     "pu_date": "2026-10-19",
