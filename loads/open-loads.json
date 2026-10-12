@@ -46,8 +46,8 @@
     "del_hours": "0600-1600",
     "equipment": "Van",
     "weight_lbs": 44000,
-    "carrier_rate": 1150,
-    "updated_at": "2026-10-08T15:21:50.925091+00:00",
+    "carrier_rate": 1200,
+    "updated_at": "2026-10-12T12:47:27.978551+00:00",
     "lane": "JACKSONVILLE TX-WEWOKA OK"
   },
   {
@@ -114,8 +114,8 @@
     "del_hours": "0730-1430",
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 4472,
-    "carrier_rate": 950,
-    "updated_at": "2026-10-12T12:18:14.365139+00:00",
+    "carrier_rate": 1000,
+    "updated_at": "2026-10-12T12:47:02.312872+00:00",
     "lane": "HEADLAND AL-ROCKWELL NC"
   },
   {
