@@ -34,6 +34,23 @@
     "lane": "EVANS GA-FAYETTEVILLE NC"
   },
   {
+    "pro": "50940",
+    "status": "OPEN",
+    "pu_date": "2026-10-12",
+    "pu_city": "OAKLAND",
+    "pu_state": "TN",
+    "pu_hours": "0800-1400",
+    "del_date": "2026-10-13",
+    "del_city": "MIDLOTHIAN",
+    "del_state": "TX",
+    "del_hours": "0800-1600",
+    "equipment": "Van Hazmat",
+    "weight_lbs": 44900,
+    "carrier_rate": 2100,
+    "updated_at": "2026-10-12T17:14:31.446518+00:00",
+    "lane": "OAKLAND TN-MIDLOTHIAN TX"
+  },
+  {
     "pro": "8890429",
     "status": "OPEN",
     "spot": true,
