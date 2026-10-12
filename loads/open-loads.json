@@ -115,7 +115,7 @@
     "equipment": "Van",
     "weight_lbs": 44000,
     "carrier_rate": 850,
-    "updated_at": "2026-10-09T19:47:17.439845+00:00",
+    "updated_at": "2026-10-12T13:04:39.431899+00:00",
     "lane": "WADESBORO NC-ATLANTA GA"
   },
   {
@@ -220,6 +220,23 @@
     "carrier_rate": 850,
     "updated_at": "2026-10-09T19:52:05.187614+00:00",
     "lane": "WADESBORO NC-ATLANTA GA"
+  },
+  {
+    "pro": "50931",
+    "status": "OPEN",
+    "pu_date": "2026-10-13",
+    "pu_city": "RICHMOND",
+    "pu_state": "VA",
+    "pu_hours": "0700-0730",
+    "del_date": "2026-10-13",
+    "del_city": "WASHINGTON",
+    "del_state": "DC",
+    "del_hours": "CALL!",
+    "equipment": "26' Straight Box Truck",
+    "weight_lbs": 1000,
+    "carrier_rate": 350,
+    "updated_at": "2026-10-12T13:05:05.268671+00:00",
+    "lane": "RICHMOND VA-WASHINGTON DC"
   },
   {
     "pro": "50257",
