@@ -205,6 +205,23 @@
     "lane": "BELCAMP MD-EL PASO TX"
   },
   {
+    "pro": "50936",
+    "status": "OPEN",
+    "pu_date": "2026-10-16",
+    "pu_city": "HOUSTON",
+    "pu_state": "TX",
+    "pu_hours": "0700",
+    "del_date": "2026-10-19",
+    "del_city": "SANFORD",
+    "del_state": "FL",
+    "del_hours": "0700",
+    "equipment": "26' Straight Box Truck",
+    "weight_lbs": 7000,
+    "carrier_rate": 1800,
+    "updated_at": "2026-10-12T15:50:26.254479+00:00",
+    "lane": "HOUSTON TX-SANFORD FL"
+  },
+  {
     "pro": "50541",
     "status": "OPEN",
     "pu_date": "2026-10-19",
@@ -664,6 +681,23 @@
     "lane": "WADESBORO NC-ATLANTA GA"
   },
   {
+    "pro": "50810",
+    "status": "DELIVERED",
+    "pu_date": "2026-10-08",
+    "pu_city": "HOUSTON",
+    "pu_state": "TX",
+    "pu_hours": "0700",
+    "del_date": "2026-10-09",
+    "del_city": "SANFORD",
+    "del_state": "FL",
+    "del_hours": "0700",
+    "equipment": "26' Straight Box Truck",
+    "weight_lbs": 7000,
+    "carrier_rate": 2400,
+    "updated_at": "2026-10-09T13:09:25.443489+00:00",
+    "lane": "HOUSTON TX-SANFORD FL"
+  },
+  {
     "pro": "50836",
     "status": "RELEASED",
     "pu_date": "2026-10-08",
@@ -764,6 +798,23 @@
     "carrier_rate": 2800,
     "updated_at": "2026-10-12T15:44:48.803694+00:00",
     "lane": "PASADENA TX-GREENVILLE SC"
+  },
+  {
+    "pro": "50812",
+    "status": "LOADED",
+    "pu_date": "2026-10-12",
+    "pu_city": "HOUSTON",
+    "pu_state": "TX",
+    "pu_hours": "0700",
+    "del_date": "2026-10-13",
+    "del_city": "SANFORD",
+    "del_state": "FL",
+    "del_hours": "0700",
+    "equipment": "26' Straight Box Truck",
+    "weight_lbs": 7000,
+    "carrier_rate": 1800,
+    "updated_at": "2026-10-12T14:01:41.613557+00:00",
+    "lane": "HOUSTON TX-SANFORD FL"
   },
   {
     "pro": "50901",
