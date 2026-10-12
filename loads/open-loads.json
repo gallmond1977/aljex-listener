@@ -17,23 +17,6 @@
     "lane": "MONCURE NC-ATLANTA GA"
   },
   {
-    "pro": "50896",
-    "status": "OPEN",
-    "pu_date": "2026-10-12",
-    "pu_city": "JACKSONVILLE",
-    "pu_state": "TX",
-    "pu_hours": "1100-1500",
-    "del_date": "2026-10-13",
-    "del_city": "WEWOKA",
-    "del_state": "OK",
-    "del_hours": "0600-1600",
-    "equipment": "Van",
-    "weight_lbs": 44000,
-    "carrier_rate": 1200,
-    "updated_at": "2026-10-12T13:56:51.243310+00:00",
-    "lane": "JACKSONVILLE TX-WEWOKA OK"
-  },
-  {
     "pro": "50903",
     "status": "OPEN",
     "pu_date": "2026-10-12",
@@ -94,11 +77,11 @@
     "del_date": "2026-10-13",
     "del_city": "COLUMBUS",
     "del_state": "GA",
-    "del_hours": "",
+    "del_hours": "0700-1530",
     "equipment": "Van",
     "weight_lbs": 16240,
     "carrier_rate": 1800,
-    "updated_at": "2026-10-12T13:59:19.722768+00:00",
+    "updated_at": "2026-10-12T14:03:27.790671+00:00",
     "lane": "MEMPHIS TN-COLUMBUS GA"
   },
   {
