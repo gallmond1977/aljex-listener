@@ -129,11 +129,11 @@
     "del_date": "2026-10-13",
     "del_city": "WASHINGTON",
     "del_state": "DC",
-    "del_hours": "CALL!",
+    "del_hours": "1000-1100",
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 1000,
     "carrier_rate": 350,
-    "updated_at": "2026-10-12T13:16:11.676043+00:00",
+    "updated_at": "2026-10-12T15:14:43.837000+00:00",
     "lane": "RICHMOND VA-WASHINGTON DC"
   },
   {
@@ -733,7 +733,7 @@
   },
   {
     "pro": "50901",
-    "status": "PICKUP",
+    "status": "LOADED",
     "pu_date": "2026-10-12",
     "pu_city": "GRAND PRAIRIE",
     "pu_state": "TX",
@@ -745,7 +745,7 @@
     "equipment": "Van",
     "weight_lbs": 43000,
     "carrier_rate": 2000,
-    "updated_at": "2026-10-12T14:21:58.019559+00:00",
+    "updated_at": "2026-10-12T15:12:30.859860+00:00",
     "lane": "GRAND PRAIRIE TX-COLUMBUS GA"
   },
   {
