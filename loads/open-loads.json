@@ -120,6 +120,23 @@
     "lane": "COLUMBUS GA-GREER SC"
   },
   {
+    "pro": "50938",
+    "status": "OPEN",
+    "pu_date": "2026-10-13",
+    "pu_city": "CALHOUN",
+    "pu_state": "GA",
+    "pu_hours": "0800-1400",
+    "del_date": "2026-10-14",
+    "del_city": "COATS",
+    "del_state": "NC",
+    "del_hours": "0800-0930",
+    "equipment": "Van",
+    "weight_lbs": 15000,
+    "carrier_rate": 1300,
+    "updated_at": "2026-10-12T16:29:04.002040+00:00",
+    "lane": "CALHOUN GA-COATS NC"
+  },
+  {
     "pro": "50257",
     "status": "OPEN",
     "pu_date": "2026-10-14",
@@ -169,6 +186,23 @@
     "carrier_rate": null,
     "updated_at": "2026-10-05T18:59:36.575286+00:00",
     "lane": "BELCAMP MD-EL PASO TX"
+  },
+  {
+    "pro": "50937",
+    "status": "OPEN",
+    "pu_date": "2026-10-15",
+    "pu_city": "CALHOUN",
+    "pu_state": "GA",
+    "pu_hours": "0800-1430",
+    "del_date": "2026-10-16",
+    "del_city": "LINCOLNTON",
+    "del_state": "NC",
+    "del_hours": "0700-1500",
+    "equipment": "Van",
+    "weight_lbs": 42000,
+    "carrier_rate": 1100,
+    "updated_at": "2026-10-12T16:26:54.656830+00:00",
+    "lane": "CALHOUN GA-LINCOLNTON NC"
   },
   {
     "pro": "50936",
