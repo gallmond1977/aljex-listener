@@ -750,7 +750,7 @@
   },
   {
     "pro": "49856",
-    "status": "DISPATCHED",
+    "status": "PICKUP",
     "pu_date": "2026-10-12",
     "pu_city": "PASADENA",
     "pu_state": "TX",
@@ -762,7 +762,7 @@
     "equipment": "Van",
     "weight_lbs": 44960,
     "carrier_rate": 2800,
-    "updated_at": "2026-10-12T14:29:49.417673+00:00",
+    "updated_at": "2026-10-12T15:44:48.803694+00:00",
     "lane": "PASADENA TX-GREENVILLE SC"
   },
   {
