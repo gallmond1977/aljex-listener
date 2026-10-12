@@ -166,7 +166,7 @@
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 4472,
     "carrier_rate": 950,
-    "updated_at": "2026-10-09T12:14:31.067923+00:00",
+    "updated_at": "2026-10-12T12:09:23.360699+00:00",
     "lane": "HEADLAND AL-ROCKWELL NC"
   },
   {
@@ -971,7 +971,7 @@
   },
   {
     "pro": "50894",
-    "status": "LOADED",
+    "status": "CONSIGNEE",
     "pu_date": "2026-10-09",
     "pu_city": "WADESBORO",
     "pu_state": "NC",
@@ -983,7 +983,7 @@
     "equipment": "Van",
     "weight_lbs": 44000,
     "carrier_rate": 850,
-    "updated_at": "2026-10-09T18:24:06.313227+00:00",
+    "updated_at": "2026-10-12T12:08:52.212490+00:00",
     "lane": "WADESBORO NC-ATLANTA GA"
   },
   {
