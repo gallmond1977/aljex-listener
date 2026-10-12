@@ -17,23 +17,6 @@
     "lane": "MONCURE NC-ATLANTA GA"
   },
   {
-    "pro": "50925",
-    "status": "OPEN",
-    "pu_date": "2026-10-12",
-    "pu_city": "WADESBORO",
-    "pu_state": "NC",
-    "pu_hours": "0730-1630",
-    "del_date": "2026-10-13",
-    "del_city": "ATLANTA",
-    "del_state": "GA",
-    "del_hours": "0800-1600",
-    "equipment": "Van",
-    "weight_lbs": 44000,
-    "carrier_rate": 850,
-    "updated_at": "2026-10-12T13:05:46.505260+00:00",
-    "lane": "WADESBORO NC-ATLANTA GA"
-  },
-  {
     "pro": "50930",
     "status": "OPEN",
     "pu_date": "2026-10-12",
@@ -767,7 +750,7 @@
   },
   {
     "pro": "50902",
-    "status": "PICKUP",
+    "status": "LOADED",
     "pu_date": "2026-10-12",
     "pu_city": "GRAND PRAIRIE",
     "pu_state": "TX",
@@ -779,8 +762,25 @@
     "equipment": "Van",
     "weight_lbs": 43000,
     "carrier_rate": 2000,
-    "updated_at": "2026-10-12T13:53:41.111606+00:00",
+    "updated_at": "2026-10-12T14:47:12.874677+00:00",
     "lane": "GRAND PRAIRIE TX-COLUMBUS GA"
+  },
+  {
+    "pro": "50925",
+    "status": "COVERED",
+    "pu_date": "2026-10-12",
+    "pu_city": "WADESBORO",
+    "pu_state": "NC",
+    "pu_hours": "0730-1630",
+    "del_date": "2026-10-13",
+    "del_city": "ATLANTA",
+    "del_state": "GA",
+    "del_hours": "0800-1600",
+    "equipment": "Van",
+    "weight_lbs": 44000,
+    "carrier_rate": 900,
+    "updated_at": "2026-10-12T14:49:32.128275+00:00",
+    "lane": "WADESBORO NC-ATLANTA GA"
   },
   {
     "pro": "50884",
