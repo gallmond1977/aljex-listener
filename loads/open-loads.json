@@ -1,22 +1,5 @@
 [
   {
-    "pro": "50876",
-    "status": "OPEN",
-    "pu_date": "2026-10-12",
-    "pu_city": "CHEHALIS",
-    "pu_state": "WA",
-    "pu_hours": "0600-1530",
-    "del_date": "2026-10-12",
-    "del_city": "SALT LAKE CITY",
-    "del_state": "UT",
-    "del_hours": "0830-1500",
-    "equipment": "Flatbed w/ Tarps",
-    "weight_lbs": 47500,
-    "carrier_rate": 4400,
-    "updated_at": "2026-10-10T04:02:27.706392+00:00",
-    "lane": "CHEHALIS WA-SALT LAKE CITY UT"
-  },
-  {
     "pro": "50883",
     "status": "OPEN",
     "pu_date": "2026-10-12",
@@ -66,23 +49,6 @@
     "carrier_rate": 2100,
     "updated_at": "2026-10-09T15:22:03.657173+00:00",
     "lane": "LAGRANGE GA-LAGO VISTA TX"
-  },
-  {
-    "pro": "50910",
-    "status": "OPEN",
-    "pu_date": "2026-10-12",
-    "pu_city": "GRAND PRAIRIE",
-    "pu_state": "TX",
-    "pu_hours": "",
-    "del_date": "2026-10-13",
-    "del_city": "ATLANTA",
-    "del_state": "GA",
-    "del_hours": "0800-1000",
-    "equipment": "Van",
-    "weight_lbs": 44000,
-    "carrier_rate": 1800,
-    "updated_at": "2026-10-12T13:06:41.756374+00:00",
-    "lane": "GRAND PRAIRIE TX-ATLANTA GA"
   },
   {
     "pro": "50917",
@@ -252,7 +218,7 @@
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 1000,
     "carrier_rate": 350,
-    "updated_at": "2026-10-12T13:05:05.268671+00:00",
+    "updated_at": "2026-10-12T13:16:11.676043+00:00",
     "lane": "RICHMOND VA-WASHINGTON DC"
   },
   {
