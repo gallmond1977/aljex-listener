@@ -158,15 +158,15 @@
     "pu_date": "2026-10-12",
     "pu_city": "LAGRANGE",
     "pu_state": "GA",
-    "pu_hours": "",
+    "pu_hours": "0800-1400",
     "del_date": "2026-10-12",
     "del_city": "WHITE",
     "del_state": "GA",
     "del_hours": "0800-1500",
     "equipment": "Flatbed Hot Shot",
     "weight_lbs": 1500,
-    "carrier_rate": 400,
-    "updated_at": "2026-10-09T15:37:14.725842+00:00",
+    "carrier_rate": 450,
+    "updated_at": "2026-10-12T12:34:47.687659+00:00",
     "lane": "LAGRANGE GA-WHITE GA"
   },
   {
