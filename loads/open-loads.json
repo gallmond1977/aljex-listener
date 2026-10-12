@@ -149,8 +149,8 @@
     "del_hours": "0700",
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 7000,
-    "carrier_rate": 1000,
-    "updated_at": "2026-10-12T19:14:24.025610+00:00",
+    "carrier_rate": 1100,
+    "updated_at": "2026-10-12T19:23:05.607728+00:00",
     "lane": "UNION CITY GA-SANFORD FL"
   },
   {
@@ -244,15 +244,15 @@
     "pu_date": "2026-10-16",
     "pu_city": "WINCHESTER",
     "pu_state": "KY",
-    "pu_hours": "11AM REQ",
+    "pu_hours": "NEEDED",
     "del_date": "2026-10-19",
     "del_city": "MOROE TWP",
     "del_state": "NJ",
-    "del_hours": "0900",
+    "del_hours": "AD REQ",
     "equipment": "Van",
-    "weight_lbs": 2660,
+    "weight_lbs": 7259,
     "carrier_rate": 2300,
-    "updated_at": "2026-10-12T19:19:16.924114+00:00",
+    "updated_at": "2026-10-12T19:24:49.535628+00:00",
     "lane": "WINCHESTER KY-MOROE TWP NJ"
   },
   {
