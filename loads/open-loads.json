@@ -81,8 +81,8 @@
     "del_hours": "0900-1200",
     "equipment": "Flatbed",
     "weight_lbs": 18800,
-    "carrier_rate": 550,
-    "updated_at": "2026-10-12T18:19:44.477858+00:00",
+    "carrier_rate": 600,
+    "updated_at": "2026-10-12T19:07:49.099602+00:00",
     "lane": "RICHMOND VA-MIDLOTHIAN VA"
   },
   {
@@ -135,6 +135,23 @@
     "carrier_rate": 4800,
     "updated_at": "2026-10-12T18:52:22.850251+00:00",
     "lane": "ALPHARETTA GA-AMARILLO TX"
+  },
+  {
+    "pro": "50942",
+    "status": "OPEN",
+    "pu_date": "2026-10-13",
+    "pu_city": "UNION CITY",
+    "pu_state": "GA",
+    "pu_hours": "1000",
+    "del_date": "",
+    "del_city": "SANFORD",
+    "del_state": "FL",
+    "del_hours": "0700",
+    "equipment": "26' Straight Box Truck",
+    "weight_lbs": 7000,
+    "carrier_rate": 1000,
+    "updated_at": "2026-10-12T19:09:25.052181+00:00",
+    "lane": "UNION CITY GA-SANFORD FL"
   },
   {
     "pro": "50257",
