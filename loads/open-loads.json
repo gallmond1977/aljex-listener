@@ -81,8 +81,8 @@
     "del_hours": "0900-1200",
     "equipment": "Flatbed",
     "weight_lbs": 18800,
-    "carrier_rate": 500,
-    "updated_at": "2026-10-12T16:31:50.229498+00:00",
+    "carrier_rate": 550,
+    "updated_at": "2026-10-12T18:19:44.477858+00:00",
     "lane": "RICHMOND VA-MIDLOTHIAN VA"
   },
   {
@@ -796,7 +796,7 @@
     "equipment": "Van",
     "weight_lbs": 43000,
     "carrier_rate": 2000,
-    "updated_at": "2026-10-12T15:12:30.859860+00:00",
+    "updated_at": "2026-10-12T18:16:14.205577+00:00",
     "lane": "GRAND PRAIRIE TX-COLUMBUS GA"
   },
   {
