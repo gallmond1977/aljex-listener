@@ -120,6 +120,23 @@
     "lane": "CALHOUN GA-COATS NC"
   },
   {
+    "pro": "50941",
+    "status": "OPEN",
+    "pu_date": "2026-10-13",
+    "pu_city": "ALPHARETTA",
+    "pu_state": "GA",
+    "pu_hours": "0900-1600",
+    "del_date": "2026-10-15",
+    "del_city": "AMARILLO",
+    "del_state": "TX",
+    "del_hours": "0800-1400",
+    "equipment": "Flatbed w/ Tarps",
+    "weight_lbs": 42000,
+    "carrier_rate": 4800,
+    "updated_at": "2026-10-12T18:52:22.850251+00:00",
+    "lane": "ALPHARETTA GA-AMARILLO TX"
+  },
+  {
     "pro": "50257",
     "status": "OPEN",
     "pu_date": "2026-10-14",
