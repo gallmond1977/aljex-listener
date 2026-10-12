@@ -63,8 +63,8 @@
     "del_hours": "2100",
     "equipment": "Van",
     "weight_lbs": 14580,
-    "carrier_rate": 1000,
-    "updated_at": "2026-10-12T12:54:27.844732+00:00",
+    "carrier_rate": 1100,
+    "updated_at": "2026-10-12T13:27:23.361677+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
@@ -81,7 +81,7 @@
     "equipment": "Flatbed Hot Shot",
     "weight_lbs": 1500,
     "carrier_rate": 450,
-    "updated_at": "2026-10-12T12:44:09.756658+00:00",
+    "updated_at": "2026-10-12T13:26:41.599640+00:00",
     "lane": "LAGRANGE GA-WHITE GA"
   },
   {
@@ -152,6 +152,23 @@
     "carrier_rate": 2000,
     "updated_at": "2026-10-06T14:38:25.462305+00:00",
     "lane": "GARLAND TX-CALHOUN GA"
+  },
+  {
+    "pro": "50846",
+    "status": "OPEN",
+    "pu_date": "2026-10-13",
+    "pu_city": "RICHMOND",
+    "pu_state": "VA",
+    "pu_hours": "0730-0800",
+    "del_date": "2026-10-13",
+    "del_city": "MIDLOTHIAN",
+    "del_state": "VA",
+    "del_hours": "0900-1200",
+    "equipment": "Flatbed",
+    "weight_lbs": 18800,
+    "carrier_rate": 500,
+    "updated_at": "2026-10-12T13:29:50.906049+00:00",
+    "lane": "RICHMOND VA-MIDLOTHIAN VA"
   },
   {
     "pro": "50857",
@@ -288,23 +305,6 @@
     "carrier_rate": null,
     "updated_at": "2026-10-05T18:59:36.575286+00:00",
     "lane": "BELCAMP MD-EL PASO TX"
-  },
-  {
-    "pro": "50846",
-    "status": "OPEN",
-    "pu_date": "2026-10-15",
-    "pu_city": "RICHMOND",
-    "pu_state": "VA",
-    "pu_hours": "0730-0800",
-    "del_date": "2026-10-15",
-    "del_city": "MIDLOTHIAN",
-    "del_state": "VA",
-    "del_hours": "0900-1200",
-    "equipment": "Flatbed",
-    "weight_lbs": 18800,
-    "carrier_rate": 500,
-    "updated_at": "2026-10-06T18:09:59.607556+00:00",
-    "lane": "RICHMOND VA-MIDLOTHIAN VA"
   },
   {
     "pro": "50082",
@@ -796,7 +796,7 @@
     "equipment": "Flatbed w/ Tarps",
     "weight_lbs": 42000,
     "carrier_rate": 5000,
-    "updated_at": "2026-10-12T12:40:48.721785+00:00",
+    "updated_at": "2026-10-12T13:28:24.950324+00:00",
     "lane": "ALPHARETTA GA-AMARILLO TX"
   },
   {
