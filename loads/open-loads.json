@@ -1,22 +1,5 @@
 [
   {
-    "pro": "50851",
-    "status": "OPEN",
-    "pu_date": "2026-10-12",
-    "pu_city": "ATHENS",
-    "pu_state": "AL",
-    "pu_hours": "0700-1500",
-    "del_date": "2026-10-13",
-    "del_city": "GULFPORT",
-    "del_state": "MS",
-    "del_hours": "0700-1030",
-    "equipment": "Van",
-    "weight_lbs": 43324,
-    "carrier_rate": 1500,
-    "updated_at": "2026-10-06T20:08:03.459324+00:00",
-    "lane": "ATHENS AL-GULFPORT MS"
-  },
-  {
     "pro": "50876",
     "status": "OPEN",
     "pu_date": "2026-10-12",
@@ -217,7 +200,7 @@
     "equipment": "Flatbed Hot Shot",
     "weight_lbs": 17500,
     "carrier_rate": 1200,
-    "updated_at": "2026-10-12T12:23:45.936889+00:00",
+    "updated_at": "2026-10-12T12:25:25.985605+00:00",
     "lane": "COLUMBUS GA-MYRTLE BEACH SC"
   },
   {
@@ -269,7 +252,7 @@
     "equipment": "Van",
     "weight_lbs": 14572,
     "carrier_rate": 600,
-    "updated_at": "2026-10-12T12:24:31.381332+00:00",
+    "updated_at": "2026-10-12T12:29:32.596791+00:00",
     "lane": "ANDERSONVILLE GA-MACON GA"
   },
   {
@@ -1002,39 +985,5 @@
     "carrier_rate": 2800,
     "updated_at": "2026-10-12T12:15:56.537815+00:00",
     "lane": "PASADENA TX-GREENVILLE SC"
-  },
-  {
-    "pro": "50849",
-    "status": "COVERED",
-    "pu_date": "2026-10-12",
-    "pu_city": "ATHENS",
-    "pu_state": "AL",
-    "pu_hours": "0700-1500",
-    "del_date": "2026-10-13",
-    "del_city": "GULFPORT",
-    "del_state": "MS",
-    "del_hours": "0700-1030",
-    "equipment": "Van",
-    "weight_lbs": 43317,
-    "carrier_rate": 1500,
-    "updated_at": "2026-10-12T12:22:10.433442+00:00",
-    "lane": "ATHENS AL-GULFPORT MS"
-  },
-  {
-    "pro": "50850",
-    "status": "COVERED",
-    "pu_date": "2026-10-12",
-    "pu_city": "ATHENS",
-    "pu_state": "AL",
-    "pu_hours": "0700-1500",
-    "del_date": "2026-10-13",
-    "del_city": "GULFPORT",
-    "del_state": "MS",
-    "del_hours": "0700-1030",
-    "equipment": "Van",
-    "weight_lbs": 43158,
-    "carrier_rate": 1500,
-    "updated_at": "2026-10-12T12:18:27.009080+00:00",
-    "lane": "ATHENS AL-GULFPORT MS"
   }
 ]
