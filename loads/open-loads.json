@@ -136,23 +136,6 @@
     "lane": "LAGRANGE GA-LAGO VISTA TX"
   },
   {
-    "pro": "50909",
-    "status": "OPEN",
-    "pu_date": "2026-10-12",
-    "pu_city": "GREER",
-    "pu_state": "SC",
-    "pu_hours": "0700-1500",
-    "del_date": "2026-10-13",
-    "del_city": "ZEBULON",
-    "del_state": "GA",
-    "del_hours": "0700-1500",
-    "equipment": "Van",
-    "weight_lbs": 16800,
-    "carrier_rate": 800,
-    "updated_at": "2026-10-12T11:44:17.288272+00:00",
-    "lane": "GREER SC-ZEBULON GA"
-  },
-  {
     "pro": "50910",
     "status": "OPEN",
     "pu_date": "2026-10-12",
