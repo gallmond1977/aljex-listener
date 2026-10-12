@@ -17,23 +17,6 @@
     "lane": "MONCURE NC-ATLANTA GA"
   },
   {
-    "pro": "50903",
-    "status": "OPEN",
-    "pu_date": "2026-10-12",
-    "pu_city": "LAGRANGE",
-    "pu_state": "GA",
-    "pu_hours": "1200-1600",
-    "del_date": "2026-10-13",
-    "del_city": "LAGO VISTA",
-    "del_state": "TX",
-    "del_hours": "0830-1600",
-    "equipment": "Van",
-    "weight_lbs": 36000,
-    "carrier_rate": 2100,
-    "updated_at": "2026-10-09T15:22:03.657173+00:00",
-    "lane": "LAGRANGE GA-LAGO VISTA TX"
-  },
-  {
     "pro": "50925",
     "status": "OPEN",
     "pu_date": "2026-10-12",
@@ -63,8 +46,8 @@
     "del_hours": "",
     "equipment": "Flatbed Hot Shot",
     "weight_lbs": 17500,
-    "carrier_rate": 1200,
-    "updated_at": "2026-10-12T12:25:25.985605+00:00",
+    "carrier_rate": 1400,
+    "updated_at": "2026-10-12T14:15:11.195391+00:00",
     "lane": "COLUMBUS GA-MYRTLE BEACH SC"
   },
   {
@@ -81,7 +64,7 @@
     "equipment": "Van",
     "weight_lbs": 16240,
     "carrier_rate": 1800,
-    "updated_at": "2026-10-12T14:03:27.790671+00:00",
+    "updated_at": "2026-10-12T14:13:28.210900+00:00",
     "lane": "MEMPHIS TN-COLUMBUS GA"
   },
   {
