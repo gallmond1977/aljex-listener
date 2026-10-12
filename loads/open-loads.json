@@ -34,6 +34,23 @@
     "lane": "COLUMBUS GA-MYRTLE BEACH SC"
   },
   {
+    "pro": "50934",
+    "status": "OPEN",
+    "pu_date": "2026-10-12",
+    "pu_city": "JACKSONVILLE",
+    "pu_state": "FL",
+    "pu_hours": "1500-1700",
+    "del_date": "2026-10-13",
+    "del_city": "ADDISON",
+    "del_state": "IL",
+    "del_hours": "0800-1500",
+    "equipment": "Van",
+    "weight_lbs": 8200,
+    "carrier_rate": null,
+    "updated_at": "2026-10-12T14:59:45.405680+00:00",
+    "lane": "JACKSONVILLE FL-ADDISON IL"
+  },
+  {
     "pro": "8890429",
     "status": "OPEN",
     "spot": true,
@@ -767,7 +784,7 @@
   },
   {
     "pro": "50925",
-    "status": "COVERED",
+    "status": "DISPATCHED",
     "pu_date": "2026-10-12",
     "pu_city": "WADESBORO",
     "pu_state": "NC",
@@ -779,7 +796,7 @@
     "equipment": "Van",
     "weight_lbs": 44000,
     "carrier_rate": 900,
-    "updated_at": "2026-10-12T14:55:07.712848+00:00",
+    "updated_at": "2026-10-12T14:58:23.283829+00:00",
     "lane": "WADESBORO NC-ATLANTA GA"
   },
   {
