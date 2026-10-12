@@ -85,6 +85,23 @@
     "lane": "COLUMBUS GA-MYRTLE BEACH SC"
   },
   {
+    "pro": "50933",
+    "status": "OPEN",
+    "pu_date": "2026-10-12",
+    "pu_city": "MEMPHIS",
+    "pu_state": "TN",
+    "pu_hours": "",
+    "del_date": "2026-10-13",
+    "del_city": "COLUMBUS",
+    "del_state": "GA",
+    "del_hours": "",
+    "equipment": "Van",
+    "weight_lbs": 16240,
+    "carrier_rate": 1800,
+    "updated_at": "2026-10-12T13:45:00.269352+00:00",
+    "lane": "MEMPHIS TN-COLUMBUS GA"
+  },
+  {
     "pro": "8890429",
     "status": "OPEN",
     "spot": true,
@@ -699,7 +716,7 @@
   },
   {
     "pro": "50836",
-    "status": "CONSIGNEE",
+    "status": "DELIVERED",
     "pu_date": "2026-10-08",
     "pu_city": "ALPHARETTA",
     "pu_state": "GA",
@@ -711,7 +728,7 @@
     "equipment": "Flatbed w/ Tarps",
     "weight_lbs": 42000,
     "carrier_rate": 5000,
-    "updated_at": "2026-10-12T13:28:24.950324+00:00",
+    "updated_at": "2026-10-12T13:44:52.227949+00:00",
     "lane": "ALPHARETTA GA-AMARILLO TX"
   },
   {
