@@ -35,23 +35,6 @@
     "lane": "GARLAND TX-CALHOUN GA"
   },
   {
-    "pro": "50928",
-    "status": "OPEN",
-    "pu_date": "2026-10-13",
-    "pu_city": "WADESBORO",
-    "pu_state": "NC",
-    "pu_hours": "0730-1630",
-    "del_date": "2026-10-14",
-    "del_city": "ATLANTA",
-    "del_state": "GA",
-    "del_hours": "0800-1600",
-    "equipment": "Van",
-    "weight_lbs": 44000,
-    "carrier_rate": 850,
-    "updated_at": "2026-10-09T19:52:05.187614+00:00",
-    "lane": "WADESBORO NC-ATLANTA GA"
-  },
-  {
     "pro": "50938",
     "status": "OPEN",
     "pu_date": "2026-10-13",
@@ -82,7 +65,7 @@
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 2800,
     "carrier_rate": 500,
-    "updated_at": "2026-10-12T20:14:14.303403+00:00",
+    "updated_at": "2026-10-12T20:19:10.765709+00:00",
     "lane": "EVANS GA-FAYETTEVILLE NC"
   },
   {
@@ -968,5 +951,22 @@
     "carrier_rate": 900,
     "updated_at": "2026-10-12T13:59:21.217243+00:00",
     "lane": "MONCURE NC-ATLANTA GA"
+  },
+  {
+    "pro": "50928",
+    "status": "COVERED",
+    "pu_date": "2026-10-13",
+    "pu_city": "WADESBORO",
+    "pu_state": "NC",
+    "pu_hours": "0730-1630",
+    "del_date": "2026-10-14",
+    "del_city": "ATLANTA",
+    "del_state": "GA",
+    "del_hours": "0800-1600",
+    "equipment": "Van",
+    "weight_lbs": 44000,
+    "carrier_rate": 900,
+    "updated_at": "2026-10-12T20:20:11.775729+00:00",
+    "lane": "WADESBORO NC-ATLANTA GA"
   }
 ]
