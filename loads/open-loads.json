@@ -69,23 +69,6 @@
     "lane": "GARLAND TX-CALHOUN GA"
   },
   {
-    "pro": "50846",
-    "status": "OPEN",
-    "pu_date": "2026-10-13",
-    "pu_city": "RICHMOND",
-    "pu_state": "VA",
-    "pu_hours": "0730-0800",
-    "del_date": "2026-10-13",
-    "del_city": "MIDLOTHIAN",
-    "del_state": "VA",
-    "del_hours": "0900-1200",
-    "equipment": "Flatbed",
-    "weight_lbs": 18800,
-    "carrier_rate": 600,
-    "updated_at": "2026-10-12T19:07:49.099602+00:00",
-    "lane": "RICHMOND VA-MIDLOTHIAN VA"
-  },
-  {
     "pro": "50928",
     "status": "OPEN",
     "pu_date": "2026-10-13",
@@ -796,7 +779,7 @@
     "equipment": "Van",
     "weight_lbs": 44960,
     "carrier_rate": 2800,
-    "updated_at": "2026-10-12T18:09:40.139386+00:00",
+    "updated_at": "2026-10-12T20:06:25.676351+00:00",
     "lane": "PASADENA TX-GREENVILLE SC"
   },
   {
@@ -866,6 +849,23 @@
     "carrier_rate": 900,
     "updated_at": "2026-10-12T18:31:30.906660+00:00",
     "lane": "WADESBORO NC-ATLANTA GA"
+  },
+  {
+    "pro": "50846",
+    "status": "COVERED",
+    "pu_date": "2026-10-13",
+    "pu_city": "RICHMOND",
+    "pu_state": "VA",
+    "pu_hours": "0730-0800",
+    "del_date": "2026-10-13",
+    "del_city": "MIDLOTHIAN",
+    "del_state": "VA",
+    "del_hours": "0900-1200",
+    "equipment": "Flatbed",
+    "weight_lbs": 18800,
+    "carrier_rate": 600,
+    "updated_at": "2026-10-12T20:09:45.639488+00:00",
+    "lane": "RICHMOND VA-MIDLOTHIAN VA"
   },
   {
     "pro": "50884",
