@@ -116,7 +116,7 @@
     "equipment": "Flatbed",
     "weight_lbs": 47500,
     "carrier_rate": 4200,
-    "updated_at": "2026-10-09T18:35:12.796073+00:00",
+    "updated_at": "2026-10-12T13:50:21.936552+00:00",
     "lane": "CENTRALIA WA-SALT LAKE CITY UT"
   },
   {
@@ -716,7 +716,7 @@
   },
   {
     "pro": "50836",
-    "status": "DELIVERED",
+    "status": "RELEASED",
     "pu_date": "2026-10-08",
     "pu_city": "ALPHARETTA",
     "pu_state": "GA",
@@ -728,7 +728,7 @@
     "equipment": "Flatbed w/ Tarps",
     "weight_lbs": 42000,
     "carrier_rate": 5000,
-    "updated_at": "2026-10-12T13:44:52.227949+00:00",
+    "updated_at": "2026-10-12T13:52:50.097450+00:00",
     "lane": "ALPHARETTA GA-AMARILLO TX"
   },
   {
@@ -767,7 +767,7 @@
   },
   {
     "pro": "50882",
-    "status": "LOADED",
+    "status": "DELIVERED",
     "pu_date": "2026-10-09",
     "pu_city": "MONCURE",
     "pu_state": "NC",
@@ -779,12 +779,12 @@
     "equipment": "Van",
     "weight_lbs": 44000,
     "carrier_rate": 900,
-    "updated_at": "2026-10-12T12:53:31.706028+00:00",
+    "updated_at": "2026-10-12T13:54:36.618878+00:00",
     "lane": "MONCURE NC-ATLANTA GA"
   },
   {
     "pro": "50894",
-    "status": "CONSIGNEE",
+    "status": "DELIVERED",
     "pu_date": "2026-10-09",
     "pu_city": "WADESBORO",
     "pu_state": "NC",
@@ -796,7 +796,7 @@
     "equipment": "Van",
     "weight_lbs": 44000,
     "carrier_rate": 850,
-    "updated_at": "2026-10-12T12:08:52.212490+00:00",
+    "updated_at": "2026-10-12T13:54:21.623865+00:00",
     "lane": "WADESBORO NC-ATLANTA GA"
   },
   {
@@ -830,12 +830,12 @@
     "equipment": "Van",
     "weight_lbs": 43000,
     "carrier_rate": 2000,
-    "updated_at": "2026-10-12T12:54:35.513312+00:00",
+    "updated_at": "2026-10-12T13:50:37.207101+00:00",
     "lane": "GRAND PRAIRIE TX-COLUMBUS GA"
   },
   {
     "pro": "50902",
-    "status": "DISPATCHED",
+    "status": "PICKUP",
     "pu_date": "2026-10-12",
     "pu_city": "GRAND PRAIRIE",
     "pu_state": "TX",
@@ -847,7 +847,7 @@
     "equipment": "Van",
     "weight_lbs": 43000,
     "carrier_rate": 2000,
-    "updated_at": "2026-10-12T13:47:19.057102+00:00",
+    "updated_at": "2026-10-12T13:53:41.111606+00:00",
     "lane": "GRAND PRAIRIE TX-COLUMBUS GA"
   }
 ]
