@@ -86,23 +86,6 @@
     "lane": "ALPHARETTA GA-AMARILLO TX"
   },
   {
-    "pro": "50942",
-    "status": "OPEN",
-    "pu_date": "2026-10-13",
-    "pu_city": "UNION CITY",
-    "pu_state": "GA",
-    "pu_hours": "1000",
-    "del_date": "2026-10-14",
-    "del_city": "SANFORD",
-    "del_state": "FL",
-    "del_hours": "0700",
-    "equipment": "26' Straight Box Truck",
-    "weight_lbs": 7000,
-    "carrier_rate": 1000,
-    "updated_at": "2026-10-12T20:23:58.829360+00:00",
-    "lane": "UNION CITY GA-SANFORD FL"
-  },
-  {
     "pro": "50257",
     "status": "OPEN",
     "pu_date": "2026-10-14",
@@ -227,7 +210,7 @@
     "pu_date": "2026-10-16",
     "pu_city": "ATLANTA",
     "pu_state": "GA",
-    "pu_hours": "",
+    "pu_hours": "0700",
     "del_date": "2026-10-16",
     "del_city": "DECATUR",
     "del_state": "GA",
@@ -235,7 +218,7 @@
     "equipment": "Reefer",
     "weight_lbs": 21264,
     "carrier_rate": 450,
-    "updated_at": "2026-10-12T20:20:46.395941+00:00",
+    "updated_at": "2026-10-12T20:25:45.817570+00:00",
     "lane": "ATLANTA GA-DECATUR GA"
   },
   {
@@ -244,7 +227,7 @@
     "pu_date": "2026-10-16",
     "pu_city": "ATLANTA",
     "pu_state": "GA",
-    "pu_hours": "",
+    "pu_hours": "0730",
     "del_date": "2026-10-16",
     "del_city": "DECATUR",
     "del_state": "GA",
@@ -252,7 +235,7 @@
     "equipment": "Reefer",
     "weight_lbs": 21264,
     "carrier_rate": 450,
-    "updated_at": "2026-10-12T20:21:08.621032+00:00",
+    "updated_at": "2026-10-12T20:25:56.249770+00:00",
     "lane": "ATLANTA GA-DECATUR GA"
   },
   {
