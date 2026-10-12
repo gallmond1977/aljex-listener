@@ -17,6 +17,23 @@
     "lane": "MONCURE NC-ATLANTA GA"
   },
   {
+    "pro": "50939",
+    "status": "OPEN",
+    "pu_date": "2026-10-12",
+    "pu_city": "EVANS",
+    "pu_state": "GA",
+    "pu_hours": "0700-1000",
+    "del_date": "2026-10-13",
+    "del_city": "FAYETTEVILLE",
+    "del_state": "NC",
+    "del_hours": "",
+    "equipment": "26' Straight Box Truck",
+    "weight_lbs": 2800,
+    "carrier_rate": 400,
+    "updated_at": "2026-10-12T16:38:50.535344+00:00",
+    "lane": "EVANS GA-FAYETTEVILLE NC"
+  },
+  {
     "pro": "8890429",
     "status": "OPEN",
     "spot": true,
