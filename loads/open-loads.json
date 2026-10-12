@@ -39,7 +39,7 @@
     "pu_date": "2026-10-12",
     "pu_city": "OAKLAND",
     "pu_state": "TN",
-    "pu_hours": "0800-1400",
+    "pu_hours": "0800-1500",
     "del_date": "2026-10-13",
     "del_city": "MIDLOTHIAN",
     "del_state": "TX",
@@ -47,7 +47,7 @@
     "equipment": "Van Hazmat",
     "weight_lbs": 44900,
     "carrier_rate": 2100,
-    "updated_at": "2026-10-12T17:14:31.446518+00:00",
+    "updated_at": "2026-10-12T17:25:05.187204+00:00",
     "lane": "OAKLAND TN-MIDLOTHIAN TX"
   },
   {
@@ -118,23 +118,6 @@
     "carrier_rate": 850,
     "updated_at": "2026-10-09T19:52:05.187614+00:00",
     "lane": "WADESBORO NC-ATLANTA GA"
-  },
-  {
-    "pro": "50931",
-    "status": "OPEN",
-    "pu_date": "2026-10-13",
-    "pu_city": "RICHMOND",
-    "pu_state": "VA",
-    "pu_hours": "0700-0730",
-    "del_date": "2026-10-13",
-    "del_city": "WASHINGTON",
-    "del_state": "DC",
-    "del_hours": "1000-1100",
-    "equipment": "26' Straight Box Truck",
-    "weight_lbs": 1000,
-    "carrier_rate": 350,
-    "updated_at": "2026-10-12T16:49:52.705697+00:00",
-    "lane": "RICHMOND VA-WASHINGTON DC"
   },
   {
     "pro": "50932",
