@@ -17,23 +17,6 @@
     "lane": "MONCURE NC-ATLANTA GA"
   },
   {
-    "pro": "50930",
-    "status": "OPEN",
-    "pu_date": "2026-10-12",
-    "pu_city": "COLUMBUS",
-    "pu_state": "GA",
-    "pu_hours": "0800-1000",
-    "del_date": "2026-10-13",
-    "del_city": "MYRTLE BEACH",
-    "del_state": "SC",
-    "del_hours": "",
-    "equipment": "Flatbed Hot Shot",
-    "weight_lbs": 17500,
-    "carrier_rate": 1400,
-    "updated_at": "2026-10-12T14:15:11.195391+00:00",
-    "lane": "COLUMBUS GA-MYRTLE BEACH SC"
-  },
-  {
     "pro": "50935",
     "status": "OPEN",
     "pu_date": "2026-10-12",
