@@ -103,23 +103,6 @@
     "lane": "RICHMOND VA-MIDLOTHIAN VA"
   },
   {
-    "pro": "50857",
-    "status": "OPEN",
-    "pu_date": "2026-10-13",
-    "pu_city": "ANDERSONVILLE",
-    "pu_state": "GA",
-    "pu_hours": "1135",
-    "del_date": "2026-10-13",
-    "del_city": "MACON",
-    "del_state": "GA",
-    "del_hours": "0730-1630",
-    "equipment": "Van",
-    "weight_lbs": 14572,
-    "carrier_rate": 600,
-    "updated_at": "2026-10-12T14:52:58.620220+00:00",
-    "lane": "ANDERSONVILLE GA-MACON GA"
-  },
-  {
     "pro": "50928",
     "status": "OPEN",
     "pu_date": "2026-10-13",
