@@ -99,7 +99,7 @@
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 7000,
     "carrier_rate": 1000,
-    "updated_at": "2026-10-12T19:33:32.085264+00:00",
+    "updated_at": "2026-10-12T20:23:58.829360+00:00",
     "lane": "UNION CITY GA-SANFORD FL"
   },
   {
@@ -231,11 +231,11 @@
     "del_date": "2026-10-16",
     "del_city": "DECATUR",
     "del_state": "GA",
-    "del_hours": "1000",
+    "del_hours": "",
     "equipment": "Reefer",
     "weight_lbs": 21264,
     "carrier_rate": 450,
-    "updated_at": "2026-10-12T20:13:02.272741+00:00",
+    "updated_at": "2026-10-12T20:20:46.395941+00:00",
     "lane": "ATLANTA GA-DECATUR GA"
   },
   {
@@ -252,7 +252,7 @@
     "equipment": "Reefer",
     "weight_lbs": 21264,
     "carrier_rate": 450,
-    "updated_at": "2026-10-12T20:15:13.097402+00:00",
+    "updated_at": "2026-10-12T20:21:08.621032+00:00",
     "lane": "ATLANTA GA-DECATUR GA"
   },
   {
