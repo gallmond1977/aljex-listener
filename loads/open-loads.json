@@ -204,6 +204,23 @@
     "lane": "WADESBORO NC-ATLANTA GA"
   },
   {
+    "pro": "50930",
+    "status": "OPEN",
+    "pu_date": "2026-10-12",
+    "pu_city": "COLUMBUS",
+    "pu_state": "GA",
+    "pu_hours": "0800-1000",
+    "del_date": "2026-10-13",
+    "del_city": "MYRTLE BEACH",
+    "del_state": "SC",
+    "del_hours": "",
+    "equipment": "Flatbed Hot Shot",
+    "weight_lbs": 17500,
+    "carrier_rate": 1200,
+    "updated_at": "2026-10-12T12:23:45.936889+00:00",
+    "lane": "COLUMBUS GA-MYRTLE BEACH SC"
+  },
+  {
     "pro": "8890429",
     "status": "OPEN",
     "spot": true,
@@ -252,7 +269,7 @@
     "equipment": "Van",
     "weight_lbs": 14572,
     "carrier_rate": 600,
-    "updated_at": "2026-10-12T12:17:04.743680+00:00",
+    "updated_at": "2026-10-12T12:24:31.381332+00:00",
     "lane": "ANDERSONVILLE GA-MACON GA"
   },
   {
@@ -1000,7 +1017,7 @@
     "equipment": "Van",
     "weight_lbs": 43317,
     "carrier_rate": 1500,
-    "updated_at": "2026-10-12T12:19:21.618846+00:00",
+    "updated_at": "2026-10-12T12:22:10.433442+00:00",
     "lane": "ATHENS AL-GULFPORT MS"
   },
   {
