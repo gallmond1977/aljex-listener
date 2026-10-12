@@ -749,23 +749,6 @@
     "lane": "MONCURE NC-ATLANTA GA"
   },
   {
-    "pro": "50766",
-    "status": "RELEASED",
-    "pu_date": "2026-10-02",
-    "pu_city": "WINCHESTER",
-    "pu_state": "KY",
-    "pu_hours": "0800-1100",
-    "del_date": "2026-10-02",
-    "del_city": "JOLIET",
-    "del_state": "IL",
-    "del_hours": "2000",
-    "equipment": "Van",
-    "weight_lbs": 12480,
-    "carrier_rate": 1200,
-    "updated_at": "2026-10-05T12:05:01.429706+00:00",
-    "lane": "WINCHESTER KY-JOLIET IL"
-  },
-  {
     "pro": "50677",
     "status": "RELEASED",
     "pu_date": "2026-10-05",
@@ -1005,7 +988,7 @@
   },
   {
     "pro": "50916",
-    "status": "LOADED",
+    "status": "DELIVERED",
     "pu_date": "2026-10-09",
     "pu_city": "WINCHESTER",
     "pu_state": "KY",
@@ -1017,7 +1000,7 @@
     "equipment": "Van",
     "weight_lbs": 14580,
     "carrier_rate": 1000,
-    "updated_at": "2026-10-09T17:18:28.103813+00:00",
+    "updated_at": "2026-10-12T12:01:13.274720+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
@@ -1034,7 +1017,7 @@
     "equipment": "Van",
     "weight_lbs": 44960,
     "carrier_rate": 2800,
-    "updated_at": "2026-10-09T14:04:24.745947+00:00",
+    "updated_at": "2026-10-12T12:04:26.205659+00:00",
     "lane": "PASADENA TX-GREENVILLE SC"
   },
   {
