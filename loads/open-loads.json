@@ -159,7 +159,7 @@
     "pu_date": "2026-10-14",
     "pu_city": "COLUMBIA",
     "pu_state": "SC",
-    "pu_hours": "",
+    "pu_hours": "0700",
     "del_date": "2026-10-14",
     "del_city": "ROCK HILL",
     "del_state": "SC",
@@ -167,7 +167,7 @@
     "equipment": "Sprinter Van",
     "weight_lbs": 65,
     "carrier_rate": 250,
-    "updated_at": "2026-10-13T15:44:56.666062+00:00",
+    "updated_at": "2026-10-13T15:54:50.160297+00:00",
     "lane": "COLUMBIA SC-ROCK HILL SC"
   },
   {
