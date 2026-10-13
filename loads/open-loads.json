@@ -103,6 +103,23 @@
     "lane": "COLUMBUS GA-ATLANTA GA"
   },
   {
+    "pro": "50950",
+    "status": "OPEN",
+    "pu_date": "2026-10-13",
+    "pu_city": "KITTANNING",
+    "pu_state": "PA",
+    "pu_hours": "0800-1530",
+    "del_date": "2026-10-13",
+    "del_city": "LATROBE",
+    "del_state": "PA",
+    "del_hours": "",
+    "equipment": "26' Straight Box Truck",
+    "weight_lbs": 3407,
+    "carrier_rate": 350,
+    "updated_at": "2026-10-13T11:57:54.983799+00:00",
+    "lane": "KITTANNING PA-LATROBE PA"
+  },
+  {
     "pro": "50257",
     "status": "OPEN",
     "pu_date": "2026-10-14",
