@@ -133,7 +133,7 @@
     "equipment": "Van",
     "weight_lbs": 44000,
     "carrier_rate": 1000,
-    "updated_at": "2026-10-13T13:44:46.671179+00:00",
+    "updated_at": "2026-10-13T13:50:55.201074+00:00",
     "lane": "SAVANNAH GA-COLUMBUS GA"
   },
   {
@@ -169,6 +169,23 @@
     "carrier_rate": 1100,
     "updated_at": "2026-10-12T16:26:54.656830+00:00",
     "lane": "CALHOUN GA-LINCOLNTON NC"
+  },
+  {
+    "pro": "50948",
+    "status": "OPEN",
+    "pu_date": "2026-10-15",
+    "pu_city": "SAVANNAH",
+    "pu_state": "GA",
+    "pu_hours": "0700-1400",
+    "del_date": "2026-10-16",
+    "del_city": "COLUMBUS",
+    "del_state": "GA",
+    "del_hours": "0800-1000",
+    "equipment": "Van",
+    "weight_lbs": 44000,
+    "carrier_rate": 1000,
+    "updated_at": "2026-10-13T13:52:16.636611+00:00",
+    "lane": "SAVANNAH GA-COLUMBUS GA"
   },
   {
     "pro": "50936",
