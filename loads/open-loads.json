@@ -95,11 +95,11 @@
     "del_date": "2026-10-13",
     "del_city": "LATROBE",
     "del_state": "PA",
-    "del_hours": "",
+    "del_hours": "0900-1500",
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 3407,
     "carrier_rate": 350,
-    "updated_at": "2026-10-13T12:04:20.770321+00:00",
+    "updated_at": "2026-10-13T12:08:49.565865+00:00",
     "lane": "KITTANNING PA-LATROBE PA"
   },
   {
