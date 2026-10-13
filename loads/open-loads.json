@@ -103,6 +103,23 @@
     "lane": "WADESBORO NC-ATLANTA GA"
   },
   {
+    "pro": "50946",
+    "status": "OPEN",
+    "pu_date": "2026-10-14",
+    "pu_city": "SAVANNAH",
+    "pu_state": "GA",
+    "pu_hours": "0700-1400",
+    "del_date": "2026-10-15",
+    "del_city": "COLUMBUS",
+    "del_state": "GA",
+    "del_hours": "0800-1000",
+    "equipment": "Van",
+    "weight_lbs": 44000,
+    "carrier_rate": 1000,
+    "updated_at": "2026-10-13T13:22:57.629824+00:00",
+    "lane": "SAVANNAH GA-COLUMBUS GA"
+  },
+  {
     "pro": "50822",
     "status": "OPEN",
     "pu_date": "2026-10-15",
@@ -716,7 +733,7 @@
   },
   {
     "pro": "50925",
-    "status": "CONSIGNEE",
+    "status": "DELIVERED",
     "pu_date": "2026-10-12",
     "pu_city": "WADESBORO",
     "pu_state": "NC",
@@ -728,7 +745,7 @@
     "equipment": "Van",
     "weight_lbs": 44000,
     "carrier_rate": 900,
-    "updated_at": "2026-10-13T02:50:55.210024+00:00",
+    "updated_at": "2026-10-13T13:20:56.045164+00:00",
     "lane": "WADESBORO NC-ATLANTA GA"
   },
   {
