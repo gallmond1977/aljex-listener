@@ -18,23 +18,6 @@
     "lane": "CENTRALIA WA-SALT LAKE CITY UT"
   },
   {
-    "pro": "50938",
-    "status": "OPEN",
-    "pu_date": "2026-10-13",
-    "pu_city": "CALHOUN",
-    "pu_state": "GA",
-    "pu_hours": "0800-1400",
-    "del_date": "2026-10-14",
-    "del_city": "COATS",
-    "del_state": "NC",
-    "del_hours": "0800-0930",
-    "equipment": "Van",
-    "weight_lbs": 15000,
-    "carrier_rate": 1400,
-    "updated_at": "2026-10-13T12:25:58.850821+00:00",
-    "lane": "CALHOUN GA-COATS NC"
-  },
-  {
     "pro": "50941",
     "status": "OPEN",
     "pu_date": "2026-10-13",
@@ -511,23 +494,6 @@
     "lane": "WADESBORO NC-ATLANTA GA"
   },
   {
-    "pro": "50801",
-    "status": "DELIVERED",
-    "pu_date": "2026-10-05",
-    "pu_city": "BENSENVILLE",
-    "pu_state": "IL",
-    "pu_hours": "0800-1500",
-    "del_date": "2026-10-06",
-    "del_city": "BELCAMP",
-    "del_state": "MD",
-    "del_hours": "0700-1500",
-    "equipment": "Van",
-    "weight_lbs": 42000,
-    "carrier_rate": 2800,
-    "updated_at": "2026-10-06T12:30:15.894572+00:00",
-    "lane": "BENSENVILLE IL-BELCAMP MD"
-  },
-  {
     "pro": "49852",
     "status": "RELEASED",
     "pu_date": "2026-10-06",
@@ -796,7 +762,7 @@
     "equipment": "Flatbed",
     "weight_lbs": 18800,
     "carrier_rate": 600,
-    "updated_at": "2026-10-13T12:29:43.845321+00:00",
+    "updated_at": "2026-10-13T12:30:14.372707+00:00",
     "lane": "RICHMOND VA-MIDLOTHIAN VA"
   },
   {
