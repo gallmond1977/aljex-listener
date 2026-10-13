@@ -65,25 +65,8 @@
     "equipment": "Flatbed Hot Shot",
     "weight_lbs": 2800,
     "carrier_rate": 1260,
-    "updated_at": "2026-10-13T14:12:26.263860+00:00",
+    "updated_at": "2026-10-13T14:47:11.871450+00:00",
     "lane": "ROANOKE AL-NEW ALBANY OH"
-  },
-  {
-    "pro": "50953",
-    "status": "OPEN",
-    "pu_date": "2026-10-13",
-    "pu_city": "ROANOKE",
-    "pu_state": "AL",
-    "pu_hours": "1200-1400",
-    "del_date": "2026-10-14",
-    "del_city": "WINNSBORO",
-    "del_state": "SC",
-    "del_hours": "0900",
-    "equipment": "Van",
-    "weight_lbs": 15000,
-    "carrier_rate": 900,
-    "updated_at": "2026-10-13T14:32:11.227389+00:00",
-    "lane": "ROANOKE AL-WINNSBORO SC"
   },
   {
     "pro": "50257",
@@ -167,7 +150,7 @@
     "equipment": "Van",
     "weight_lbs": 44000,
     "carrier_rate": 900,
-    "updated_at": "2026-10-13T14:25:06.607201+00:00",
+    "updated_at": "2026-10-13T14:45:17.315531+00:00",
     "lane": "WADESBORO NC-ATLANTA GA"
   },
   {
@@ -286,7 +269,7 @@
     "equipment": "Van",
     "weight_lbs": 44000,
     "carrier_rate": 900,
-    "updated_at": "2026-10-13T14:26:39.070119+00:00",
+    "updated_at": "2026-10-13T14:45:49.233779+00:00",
     "lane": "WADESBORO NC-ATLANTA GA"
   },
   {
@@ -813,7 +796,7 @@
     "equipment": "Van",
     "weight_lbs": 44000,
     "carrier_rate": 900,
-    "updated_at": "2026-10-13T13:20:56.045164+00:00",
+    "updated_at": "2026-10-13T14:48:56.990457+00:00",
     "lane": "WADESBORO NC-ATLANTA GA"
   },
   {
