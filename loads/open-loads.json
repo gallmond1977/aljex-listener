@@ -82,7 +82,7 @@
     "equipment": "Van",
     "weight_lbs": 15000,
     "carrier_rate": 900,
-    "updated_at": "2026-10-13T14:29:16.316471+00:00",
+    "updated_at": "2026-10-13T14:32:11.227389+00:00",
     "lane": "ROANOKE AL-WINNSBORO SC"
   },
   {
@@ -528,23 +528,6 @@
     "lane": "LA PORTE TX-GREENVILLE SC"
   },
   {
-    "pro": "50753",
-    "status": "RELEASED",
-    "pu_date": "2026-10-01",
-    "pu_city": "MONCURE",
-    "pu_state": "NC",
-    "pu_hours": "0730-1600",
-    "del_date": "2026-10-02",
-    "del_city": "ATLANTA",
-    "del_state": "GA",
-    "del_hours": "0800-1600",
-    "equipment": "Van",
-    "weight_lbs": 44000,
-    "carrier_rate": 1000,
-    "updated_at": "2026-10-06T14:34:50.414024+00:00",
-    "lane": "MONCURE NC-ATLANTA GA"
-  },
-  {
     "pro": "50754",
     "status": "RELEASED",
     "pu_date": "2026-10-02",
@@ -559,23 +542,6 @@
     "weight_lbs": 44000,
     "carrier_rate": 900,
     "updated_at": "2026-10-07T18:50:07.406022+00:00",
-    "lane": "MONCURE NC-ATLANTA GA"
-  },
-  {
-    "pro": "50755",
-    "status": "RELEASED",
-    "pu_date": "2026-10-02",
-    "pu_city": "MONCURE",
-    "pu_state": "NC",
-    "pu_hours": "0730-1600",
-    "del_date": "2026-10-05",
-    "del_city": "ATLANTA",
-    "del_state": "GA",
-    "del_hours": "0800",
-    "equipment": "Van",
-    "weight_lbs": 44000,
-    "carrier_rate": 1000,
-    "updated_at": "2026-10-06T14:34:20.964455+00:00",
     "lane": "MONCURE NC-ATLANTA GA"
   },
   {
