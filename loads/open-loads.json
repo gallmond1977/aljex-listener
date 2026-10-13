@@ -18,23 +18,6 @@
     "lane": "CENTRALIA WA-SALT LAKE CITY UT"
   },
   {
-    "pro": "50758",
-    "status": "OPEN",
-    "pu_date": "2026-10-13",
-    "pu_city": "GARLAND",
-    "pu_state": "TX",
-    "pu_hours": "1200-1400",
-    "del_date": "2026-10-14",
-    "del_city": "CALHOUN",
-    "del_state": "GA",
-    "del_hours": "0730-1400",
-    "equipment": "Van",
-    "weight_lbs": 40949,
-    "carrier_rate": 2000,
-    "updated_at": "2026-10-06T14:38:25.462305+00:00",
-    "lane": "GARLAND TX-CALHOUN GA"
-  },
-  {
     "pro": "50938",
     "status": "OPEN",
     "pu_date": "2026-10-13",
@@ -108,7 +91,7 @@
     "pu_date": "2026-10-13",
     "pu_city": "KITTANNING",
     "pu_state": "PA",
-    "pu_hours": "0800-1530",
+    "pu_hours": "0900-1200",
     "del_date": "2026-10-13",
     "del_city": "LATROBE",
     "del_state": "PA",
@@ -116,7 +99,7 @@
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 3407,
     "carrier_rate": 350,
-    "updated_at": "2026-10-13T11:57:54.983799+00:00",
+    "updated_at": "2026-10-13T12:04:20.770321+00:00",
     "lane": "KITTANNING PA-LATROBE PA"
   },
   {
@@ -543,23 +526,6 @@
     "carrier_rate": 1000,
     "updated_at": "2026-10-06T14:34:20.964455+00:00",
     "lane": "MONCURE NC-ATLANTA GA"
-  },
-  {
-    "pro": "50677",
-    "status": "RELEASED",
-    "pu_date": "2026-10-05",
-    "pu_city": "GARLAND",
-    "pu_state": "TX",
-    "pu_hours": "1200-1400",
-    "del_date": "2026-10-06",
-    "del_city": "CALHOUN",
-    "del_state": "GA",
-    "del_hours": "0730-1400",
-    "equipment": "Van",
-    "weight_lbs": 43438,
-    "carrier_rate": 2100,
-    "updated_at": "2026-10-07T16:21:59.546993+00:00",
-    "lane": "GARLAND TX-CALHOUN GA"
   },
   {
     "pro": "50775",
