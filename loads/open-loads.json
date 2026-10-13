@@ -78,11 +78,11 @@
     "del_date": "2026-10-14",
     "del_city": "WINNSBORO",
     "del_state": "SC",
-    "del_hours": "0800",
+    "del_hours": "0800-0930",
     "equipment": "Van",
-    "weight_lbs": 42000,
+    "weight_lbs": 15000,
     "carrier_rate": null,
-    "updated_at": "2026-10-13T14:15:29.223902+00:00",
+    "updated_at": "2026-10-13T14:24:36.622913+00:00",
     "lane": "ROANOKE AL-WINNSBORO SC"
   },
   {
@@ -152,6 +152,23 @@
     "carrier_rate": 1000,
     "updated_at": "2026-10-13T13:50:55.201074+00:00",
     "lane": "SAVANNAH GA-COLUMBUS GA"
+  },
+  {
+    "pro": "50954",
+    "status": "OPEN",
+    "pu_date": "2026-10-14",
+    "pu_city": "WADESBORO",
+    "pu_state": "NC",
+    "pu_hours": "0730-1630",
+    "del_date": "2026-10-15",
+    "del_city": "ATLANTA",
+    "del_state": "GA",
+    "del_hours": "0800-1600",
+    "equipment": "Van",
+    "weight_lbs": 44000,
+    "carrier_rate": 900,
+    "updated_at": "2026-10-13T14:25:06.607201+00:00",
+    "lane": "WADESBORO NC-ATLANTA GA"
   },
   {
     "pro": "50822",
@@ -801,7 +818,7 @@
   },
   {
     "pro": "50846",
-    "status": "LOADED",
+    "status": "CONSIGNEE",
     "pu_date": "2026-10-13",
     "pu_city": "RICHMOND",
     "pu_state": "VA",
@@ -813,7 +830,7 @@
     "equipment": "Flatbed",
     "weight_lbs": 18800,
     "carrier_rate": 600,
-    "updated_at": "2026-10-13T13:57:09.715464+00:00",
+    "updated_at": "2026-10-13T14:24:09.220737+00:00",
     "lane": "RICHMOND VA-MIDLOTHIAN VA"
   },
   {
