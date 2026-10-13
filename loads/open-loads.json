@@ -171,6 +171,24 @@
     "lane": "MONTGOMERY AL-ATLANTA GA"
   },
   {
+    "pro": "8890430",
+    "status": "OPEN",
+    "spot": true,
+    "pu_date": "2026-10-14",
+    "pu_city": "CLINCHFIELD",
+    "pu_state": "GA",
+    "pu_hours": "",
+    "del_date": "2026-10-15",
+    "del_city": "FAIRBURN",
+    "del_state": "GA",
+    "del_hours": "",
+    "equipment": "Flatbed w/ Tarps",
+    "weight_lbs": 48000,
+    "carrier_rate": 700,
+    "updated_at": "2026-10-13T17:08:06.508342+00:00",
+    "lane": "CLINCHFIELD GA-FAIRBURN GA"
+  },
+  {
     "pro": "50822",
     "status": "OPEN",
     "pu_date": "2026-10-15",
