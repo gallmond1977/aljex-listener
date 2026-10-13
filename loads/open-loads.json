@@ -116,7 +116,24 @@
     "equipment": "Van",
     "weight_lbs": 44000,
     "carrier_rate": 1000,
-    "updated_at": "2026-10-13T13:32:03.921348+00:00",
+    "updated_at": "2026-10-13T13:40:58.585092+00:00",
+    "lane": "SAVANNAH GA-COLUMBUS GA"
+  },
+  {
+    "pro": "50947",
+    "status": "OPEN",
+    "pu_date": "2026-10-14",
+    "pu_city": "SAVANNAH",
+    "pu_state": "GA",
+    "pu_hours": "0700-1400",
+    "del_date": "2026-10-15",
+    "del_city": "COLUMBUS",
+    "del_state": "GA",
+    "del_hours": "0800-100",
+    "equipment": "Van",
+    "weight_lbs": 44000,
+    "carrier_rate": 1000,
+    "updated_at": "2026-10-13T13:44:46.671179+00:00",
     "lane": "SAVANNAH GA-COLUMBUS GA"
   },
   {
