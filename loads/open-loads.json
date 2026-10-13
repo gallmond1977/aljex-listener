@@ -31,7 +31,7 @@
     "equipment": "Van",
     "weight_lbs": 15000,
     "carrier_rate": 1300,
-    "updated_at": "2026-10-12T16:29:04.002040+00:00",
+    "updated_at": "2026-10-13T12:24:41.334638+00:00",
     "lane": "CALHOUN GA-COATS NC"
   },
   {
@@ -52,6 +52,23 @@
     "lane": "ALPHARETTA GA-AMARILLO TX"
   },
   {
+    "pro": "50942",
+    "status": "OPEN",
+    "pu_date": "2026-10-13",
+    "pu_city": "UNION CITY",
+    "pu_state": "GA",
+    "pu_hours": "1000",
+    "del_date": "2026-10-14",
+    "del_city": "SANFORD",
+    "del_state": "FL",
+    "del_hours": "0700",
+    "equipment": "26' Straight Box Truck",
+    "weight_lbs": 7000,
+    "carrier_rate": 1100,
+    "updated_at": "2026-10-13T12:24:51.102906+00:00",
+    "lane": "UNION CITY GA-SANFORD FL"
+  },
+  {
     "pro": "50949",
     "status": "OPEN",
     "pu_date": "2026-10-13",
@@ -67,23 +84,6 @@
     "carrier_rate": 300,
     "updated_at": "2026-10-12T20:48:29.480860+00:00",
     "lane": "COLUMBUS GA-ATLANTA GA"
-  },
-  {
-    "pro": "50950",
-    "status": "OPEN",
-    "pu_date": "2026-10-13",
-    "pu_city": "KITTANNING",
-    "pu_state": "PA",
-    "pu_hours": "0900-1200",
-    "del_date": "2026-10-13",
-    "del_city": "LATROBE",
-    "del_state": "PA",
-    "del_hours": "0900-1500",
-    "equipment": "26' Straight Box Truck",
-    "weight_lbs": 3407,
-    "carrier_rate": 350,
-    "updated_at": "2026-10-13T12:08:49.565865+00:00",
-    "lane": "KITTANNING PA-LATROBE PA"
   },
   {
     "pro": "50257",
@@ -847,7 +847,7 @@
     "equipment": "Van",
     "weight_lbs": 44000,
     "carrier_rate": 900,
-    "updated_at": "2026-10-12T13:59:21.217243+00:00",
+    "updated_at": "2026-10-13T12:20:40.681008+00:00",
     "lane": "MONCURE NC-ATLANTA GA"
   },
   {
