@@ -35,23 +35,6 @@
     "lane": "WADESBORO NC-ATLANTA GA"
   },
   {
-    "pro": "50941",
-    "status": "OPEN",
-    "pu_date": "2026-10-13",
-    "pu_city": "ALPHARETTA",
-    "pu_state": "GA",
-    "pu_hours": "0900-1600",
-    "del_date": "2026-10-15",
-    "del_city": "AMARILLO",
-    "del_state": "TX",
-    "del_hours": "0800-1400",
-    "equipment": "Flatbed w/ Tarps",
-    "weight_lbs": 42000,
-    "carrier_rate": 5800,
-    "updated_at": "2026-10-13T17:35:00.759776+00:00",
-    "lane": "ALPHARETTA GA-AMARILLO TX"
-  },
-  {
     "pro": "50257",
     "status": "OPEN",
     "pu_date": "2026-10-14",
@@ -901,6 +884,23 @@
     "carrier_rate": 900,
     "updated_at": "2026-10-13T13:59:02.589036+00:00",
     "lane": "WADESBORO NC-ATLANTA GA"
+  },
+  {
+    "pro": "50941",
+    "status": "COVERED",
+    "pu_date": "2026-10-13",
+    "pu_city": "ALPHARETTA",
+    "pu_state": "GA",
+    "pu_hours": "0900-1700",
+    "del_date": "2026-10-15",
+    "del_city": "AMARILLO",
+    "del_state": "TX",
+    "del_hours": "0800-1400",
+    "equipment": "Flatbed w/ Tarps",
+    "weight_lbs": 42000,
+    "carrier_rate": 5800,
+    "updated_at": "2026-10-13T18:13:59.156570+00:00",
+    "lane": "ALPHARETTA GA-AMARILLO TX"
   },
   {
     "pro": "50959",
