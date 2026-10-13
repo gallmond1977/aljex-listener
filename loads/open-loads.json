@@ -47,8 +47,8 @@
     "del_hours": "0800-1400",
     "equipment": "Flatbed w/ Tarps",
     "weight_lbs": 42000,
-    "carrier_rate": 5200,
-    "updated_at": "2026-10-13T15:11:12.556717+00:00",
+    "carrier_rate": 5400,
+    "updated_at": "2026-10-13T15:58:31.867146+00:00",
     "lane": "ALPHARETTA GA-AMARILLO TX"
   },
   {
@@ -167,7 +167,7 @@
     "equipment": "Sprinter Van",
     "weight_lbs": 65,
     "carrier_rate": 250,
-    "updated_at": "2026-10-13T15:54:50.160297+00:00",
+    "updated_at": "2026-10-13T15:56:33.853649+00:00",
     "lane": "COLUMBIA SC-ROCK HILL SC"
   },
   {
