@@ -30,8 +30,8 @@
     "del_hours": "0800-1400",
     "equipment": "Flatbed w/ Tarps",
     "weight_lbs": 42000,
-    "carrier_rate": 4800,
-    "updated_at": "2026-10-12T18:52:22.850251+00:00",
+    "carrier_rate": 5000,
+    "updated_at": "2026-10-13T14:03:09.353373+00:00",
     "lane": "ALPHARETTA GA-AMARILLO TX"
   },
   {
@@ -44,12 +44,29 @@
     "del_date": "2026-10-14",
     "del_city": "NEW ALBANY",
     "del_state": "OH",
-    "del_hours": "0800-1000",
+    "del_hours": "0800-1100",
     "equipment": "Flatbed Hot Shot",
     "weight_lbs": 2800,
     "carrier_rate": 1300,
-    "updated_at": "2026-10-13T13:39:13.363445+00:00",
+    "updated_at": "2026-10-13T14:04:37.568382+00:00",
     "lane": "ROANOKE AL-NEW ALBANY OH"
+  },
+  {
+    "pro": "50952",
+    "status": "OPEN",
+    "pu_date": "2026-10-13",
+    "pu_city": "WINSTON SALEM",
+    "pu_state": "NC",
+    "pu_hours": "0800-1200",
+    "del_date": "2026-10-13",
+    "del_city": "CARY",
+    "del_state": "NC",
+    "del_hours": "0700-1500",
+    "equipment": "26' Straight Box Truck",
+    "weight_lbs": 1000,
+    "carrier_rate": 300,
+    "updated_at": "2026-10-13T13:57:35.283099+00:00",
+    "lane": "WINSTON SALEM NC-CARY NC"
   },
   {
     "pro": "50257",
@@ -184,7 +201,7 @@
     "equipment": "Van",
     "weight_lbs": 44000,
     "carrier_rate": 1000,
-    "updated_at": "2026-10-13T13:52:16.636611+00:00",
+    "updated_at": "2026-10-13T13:55:34.919833+00:00",
     "lane": "SAVANNAH GA-COLUMBUS GA"
   },
   {
@@ -796,7 +813,7 @@
     "equipment": "Flatbed",
     "weight_lbs": 18800,
     "carrier_rate": 600,
-    "updated_at": "2026-10-13T13:50:00.481247+00:00",
+    "updated_at": "2026-10-13T13:57:09.715464+00:00",
     "lane": "RICHMOND VA-MIDLOTHIAN VA"
   },
   {
@@ -818,7 +835,7 @@
   },
   {
     "pro": "50928",
-    "status": "PICKUP",
+    "status": "LOADED",
     "pu_date": "2026-10-13",
     "pu_city": "WADESBORO",
     "pu_state": "NC",
@@ -830,7 +847,7 @@
     "equipment": "Van",
     "weight_lbs": 44000,
     "carrier_rate": 900,
-    "updated_at": "2026-10-13T12:52:21.536088+00:00",
+    "updated_at": "2026-10-13T13:59:02.589036+00:00",
     "lane": "WADESBORO NC-ATLANTA GA"
   }
 ]
