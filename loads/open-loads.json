@@ -733,7 +733,7 @@
   },
   {
     "pro": "50902",
-    "status": "LOADED",
+    "status": "CONSIGNEE",
     "pu_date": "2026-10-12",
     "pu_city": "GRAND PRAIRIE",
     "pu_state": "TX",
@@ -745,7 +745,7 @@
     "equipment": "Van",
     "weight_lbs": 43000,
     "carrier_rate": 2000,
-    "updated_at": "2026-10-13T13:37:03.612074+00:00",
+    "updated_at": "2026-10-13T13:49:36.282940+00:00",
     "lane": "GRAND PRAIRIE TX-COLUMBUS GA"
   },
   {
@@ -767,7 +767,7 @@
   },
   {
     "pro": "50846",
-    "status": "PICKUP",
+    "status": "LOADED",
     "pu_date": "2026-10-13",
     "pu_city": "RICHMOND",
     "pu_state": "VA",
@@ -779,7 +779,7 @@
     "equipment": "Flatbed",
     "weight_lbs": 18800,
     "carrier_rate": 600,
-    "updated_at": "2026-10-13T12:30:14.372707+00:00",
+    "updated_at": "2026-10-13T13:50:00.481247+00:00",
     "lane": "RICHMOND VA-MIDLOTHIAN VA"
   },
   {
