@@ -35,21 +35,21 @@
     "lane": "ALPHARETTA GA-AMARILLO TX"
   },
   {
-    "pro": "50942",
+    "pro": "50951",
     "status": "OPEN",
     "pu_date": "2026-10-13",
-    "pu_city": "UNION CITY",
-    "pu_state": "GA",
-    "pu_hours": "1000",
+    "pu_city": "ROANOKE",
+    "pu_state": "AL",
+    "pu_hours": "0800-1400",
     "del_date": "2026-10-14",
-    "del_city": "SANFORD",
-    "del_state": "FL",
-    "del_hours": "0700",
-    "equipment": "26' Straight Box Truck",
-    "weight_lbs": 7000,
-    "carrier_rate": 0,
-    "updated_at": "2026-10-13T13:05:04.958041+00:00",
-    "lane": "UNION CITY GA-SANFORD FL"
+    "del_city": "NEW ALBANY",
+    "del_state": "OH",
+    "del_hours": "0800-1000",
+    "equipment": "Flatbed Hot Shot",
+    "weight_lbs": 2800,
+    "carrier_rate": 1300,
+    "updated_at": "2026-10-13T13:08:56.289261+00:00",
+    "lane": "ROANOKE AL-NEW ALBANY OH"
   },
   {
     "pro": "50257",
