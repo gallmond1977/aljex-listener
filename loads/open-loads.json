@@ -168,7 +168,7 @@
     "equipment": "Van",
     "weight_lbs": 8000,
     "carrier_rate": null,
-    "updated_at": "2026-10-05T18:59:36.575286+00:00",
+    "updated_at": "2026-10-13T18:59:55.475095+00:00",
     "lane": "BELCAMP MD-EL PASO TX"
   },
   {
@@ -338,7 +338,7 @@
     "equipment": "Flatbed",
     "weight_lbs": 22500,
     "carrier_rate": 1100,
-    "updated_at": "2026-10-13T18:46:05.611498+00:00",
+    "updated_at": "2026-10-13T18:58:09.529547+00:00",
     "lane": "EVANS GA-TROY NC"
   },
   {
