@@ -18,6 +18,23 @@
     "lane": "CENTRALIA WA-SALT LAKE CITY UT"
   },
   {
+    "pro": "50929",
+    "status": "OPEN",
+    "pu_date": "2026-10-13",
+    "pu_city": "WADESBORO",
+    "pu_state": "NC",
+    "pu_hours": "0730-1630",
+    "del_date": "2026-10-14",
+    "del_city": "ATLANTA",
+    "del_state": "GA",
+    "del_hours": "0800-1600",
+    "equipment": "Van",
+    "weight_lbs": 44000,
+    "carrier_rate": 900,
+    "updated_at": "2026-10-13T14:18:25.442225+00:00",
+    "lane": "WADESBORO NC-ATLANTA GA"
+  },
+  {
     "pro": "50941",
     "status": "OPEN",
     "pu_date": "2026-10-13",
@@ -65,7 +82,7 @@
     "equipment": "Van",
     "weight_lbs": 42000,
     "carrier_rate": null,
-    "updated_at": "2026-10-13T14:14:54.100256+00:00",
+    "updated_at": "2026-10-13T14:15:29.223902+00:00",
     "lane": "ROANOKE AL-WINNSBORO SC"
   },
   {
@@ -101,23 +118,6 @@
     "carrier_rate": 800,
     "updated_at": "2026-10-12T20:14:22.221154+00:00",
     "lane": "MONCURE NC-ATLANTA GA"
-  },
-  {
-    "pro": "50929",
-    "status": "OPEN",
-    "pu_date": "2026-10-14",
-    "pu_city": "WADESBORO",
-    "pu_state": "NC",
-    "pu_hours": "0730-1630",
-    "del_date": "2026-10-15",
-    "del_city": "ATLANTA",
-    "del_state": "GA",
-    "del_hours": "0800-1600",
-    "equipment": "Van",
-    "weight_lbs": 44000,
-    "carrier_rate": null,
-    "updated_at": "2026-10-09T19:55:17.149561+00:00",
-    "lane": "WADESBORO NC-ATLANTA GA"
   },
   {
     "pro": "50946",
