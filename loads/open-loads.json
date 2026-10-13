@@ -78,11 +78,11 @@
     "del_date": "2026-10-14",
     "del_city": "WINNSBORO",
     "del_state": "SC",
-    "del_hours": "0800-0930",
+    "del_hours": "0900",
     "equipment": "Van",
     "weight_lbs": 15000,
-    "carrier_rate": null,
-    "updated_at": "2026-10-13T14:24:36.622913+00:00",
+    "carrier_rate": 900,
+    "updated_at": "2026-10-13T14:29:16.316471+00:00",
     "lane": "ROANOKE AL-WINNSBORO SC"
   },
   {
@@ -222,6 +222,23 @@
     "lane": "SAVANNAH GA-COLUMBUS GA"
   },
   {
+    "pro": "50955",
+    "status": "OPEN",
+    "pu_date": "2026-10-15",
+    "pu_city": "WADESBORO",
+    "pu_state": "NC",
+    "pu_hours": "0730-1630",
+    "del_date": "2026-10-16",
+    "del_city": "ATLANTA",
+    "del_state": "GA",
+    "del_hours": "0800-1600",
+    "equipment": "Van",
+    "weight_lbs": 44000,
+    "carrier_rate": 900,
+    "updated_at": "2026-10-13T14:25:53.410089+00:00",
+    "lane": "WADESBORO NC-ATLANTA GA"
+  },
+  {
     "pro": "50936",
     "status": "OPEN",
     "pu_date": "2026-10-16",
@@ -254,6 +271,23 @@
     "carrier_rate": 2300,
     "updated_at": "2026-10-12T20:13:40.936838+00:00",
     "lane": "WINCHESTER KY-MOROE TWP NJ"
+  },
+  {
+    "pro": "50956",
+    "status": "OPEN",
+    "pu_date": "2026-10-16",
+    "pu_city": "WADESBORO",
+    "pu_state": "NC",
+    "pu_hours": "0730-1630",
+    "del_date": "2026-10-19",
+    "del_city": "ATLANTA",
+    "del_state": "GA",
+    "del_hours": "0800-1600",
+    "equipment": "Van",
+    "weight_lbs": 44000,
+    "carrier_rate": 900,
+    "updated_at": "2026-10-13T14:26:39.070119+00:00",
+    "lane": "WADESBORO NC-ATLANTA GA"
   },
   {
     "pro": "50541",
