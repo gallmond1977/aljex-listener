@@ -52,23 +52,6 @@
     "lane": "WADESBORO NC-ATLANTA GA"
   },
   {
-    "pro": "50954",
-    "status": "OPEN",
-    "pu_date": "2026-10-14",
-    "pu_city": "WADESBORO",
-    "pu_state": "NC",
-    "pu_hours": "0730-1630",
-    "del_date": "2026-10-15",
-    "del_city": "ATLANTA",
-    "del_state": "GA",
-    "del_hours": "0800-1600",
-    "equipment": "Van",
-    "weight_lbs": 44000,
-    "carrier_rate": 900,
-    "updated_at": "2026-10-13T14:45:17.315531+00:00",
-    "lane": "WADESBORO NC-ATLANTA GA"
-  },
-  {
     "pro": "50960",
     "status": "OPEN",
     "pu_date": "2026-10-14",
@@ -82,7 +65,7 @@
     "equipment": "Van",
     "weight_lbs": 44000,
     "carrier_rate": 800,
-    "updated_at": "2026-10-13T17:51:58.525485+00:00",
+    "updated_at": "2026-10-13T20:26:42.028334+00:00",
     "lane": "MONTGOMERY AL-ATLANTA GA"
   },
   {
@@ -153,6 +136,23 @@
     "carrier_rate": 1000,
     "updated_at": "2026-10-13T13:55:34.919833+00:00",
     "lane": "SAVANNAH GA-COLUMBUS GA"
+  },
+  {
+    "pro": "50954",
+    "status": "OPEN",
+    "pu_date": "2026-10-15",
+    "pu_city": "WADESBORO",
+    "pu_state": "NC",
+    "pu_hours": "0730-1630",
+    "del_date": "2026-10-15",
+    "del_city": "ATLANTA",
+    "del_state": "GA",
+    "del_hours": "0800-1600",
+    "equipment": "Van",
+    "weight_lbs": 44000,
+    "carrier_rate": 800,
+    "updated_at": "2026-10-13T20:25:48.162120+00:00",
+    "lane": "WADESBORO NC-ATLANTA GA"
   },
   {
     "pro": "50955",
