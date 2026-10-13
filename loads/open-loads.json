@@ -65,7 +65,7 @@
     "equipment": "Van",
     "weight_lbs": 44000,
     "carrier_rate": 800,
-    "updated_at": "2026-10-13T16:27:20.488835+00:00",
+    "updated_at": "2026-10-13T16:37:57.606501+00:00",
     "lane": "MONTGOMERY AL-ATLANTA GA"
   },
   {
@@ -169,23 +169,6 @@
     "carrier_rate": 2000,
     "updated_at": "2026-10-13T15:36:11.560117+00:00",
     "lane": "LAGRANGE GA-LENEXA KS"
-  },
-  {
-    "pro": "50958",
-    "status": "OPEN",
-    "pu_date": "2026-10-14",
-    "pu_city": "COLUMBIA",
-    "pu_state": "SC",
-    "pu_hours": "0700",
-    "del_date": "2026-10-14",
-    "del_city": "ROCK HILL",
-    "del_state": "SC",
-    "del_hours": "0800-0845",
-    "equipment": "Sprinter Van",
-    "weight_lbs": 65,
-    "carrier_rate": 250,
-    "updated_at": "2026-10-13T16:06:02.047945+00:00",
-    "lane": "COLUMBIA SC-ROCK HILL SC"
   },
   {
     "pro": "50960",
@@ -371,7 +354,7 @@
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 5000,
     "carrier_rate": 1200,
-    "updated_at": "2026-10-13T16:34:47.697105+00:00",
+    "updated_at": "2026-10-13T16:36:10.849345+00:00",
     "lane": "COLUMBUS GA-ORIENTAL NC"
   },
   {
