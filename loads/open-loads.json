@@ -52,23 +52,6 @@
     "lane": "ALPHARETTA GA-AMARILLO TX"
   },
   {
-    "pro": "50951",
-    "status": "OPEN",
-    "pu_date": "2026-10-13",
-    "pu_city": "ROANOKE",
-    "pu_state": "AL",
-    "pu_hours": "1200-1400",
-    "del_date": "2026-10-14",
-    "del_city": "NEW ALBANY",
-    "del_state": "OH",
-    "del_hours": "0800-1100",
-    "equipment": "Flatbed Hot Shot",
-    "weight_lbs": 2800,
-    "carrier_rate": 1260,
-    "updated_at": "2026-10-13T14:47:11.871450+00:00",
-    "lane": "ROANOKE AL-NEW ALBANY OH"
-  },
-  {
     "pro": "50257",
     "status": "OPEN",
     "pu_date": "2026-10-14",
