@@ -30,8 +30,8 @@
     "del_hours": "0800-0930",
     "equipment": "Van",
     "weight_lbs": 15000,
-    "carrier_rate": 1300,
-    "updated_at": "2026-10-13T12:24:41.334638+00:00",
+    "carrier_rate": 1400,
+    "updated_at": "2026-10-13T12:25:58.850821+00:00",
     "lane": "CALHOUN GA-COATS NC"
   },
   {
@@ -65,25 +65,8 @@
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 7000,
     "carrier_rate": 1100,
-    "updated_at": "2026-10-13T12:24:51.102906+00:00",
+    "updated_at": "2026-10-13T12:27:38.744329+00:00",
     "lane": "UNION CITY GA-SANFORD FL"
-  },
-  {
-    "pro": "50949",
-    "status": "OPEN",
-    "pu_date": "2026-10-13",
-    "pu_city": "COLUMBUS",
-    "pu_state": "GA",
-    "pu_hours": "1000-1100",
-    "del_date": "2026-10-13",
-    "del_city": "ATLANTA",
-    "del_state": "GA",
-    "del_hours": "0800-1600",
-    "equipment": "26' Straight Box Truck",
-    "weight_lbs": 9000,
-    "carrier_rate": 300,
-    "updated_at": "2026-10-12T20:48:29.480860+00:00",
-    "lane": "COLUMBUS GA-ATLANTA GA"
   },
   {
     "pro": "50257",
@@ -596,23 +579,6 @@
     "lane": "WADESBORO NC-ATLANTA GA"
   },
   {
-    "pro": "50826",
-    "status": "RELEASED",
-    "pu_date": "2026-10-06",
-    "pu_city": "COLUMBUS",
-    "pu_state": "GA",
-    "pu_hours": "1030-1100",
-    "del_date": "2026-10-06",
-    "del_city": "ATLANTA",
-    "del_state": "GA",
-    "del_hours": "0800-1600",
-    "equipment": "26' Straight Box Truck",
-    "weight_lbs": 9000,
-    "carrier_rate": 300,
-    "updated_at": "2026-10-07T16:26:27.286536+00:00",
-    "lane": "COLUMBUS GA-ATLANTA GA"
-  },
-  {
     "pro": "50864",
     "status": "RELEASED",
     "pu_date": "2026-10-07",
@@ -830,12 +796,12 @@
     "equipment": "Flatbed",
     "weight_lbs": 18800,
     "carrier_rate": 600,
-    "updated_at": "2026-10-13T11:07:56.116304+00:00",
+    "updated_at": "2026-10-13T12:29:43.845321+00:00",
     "lane": "RICHMOND VA-MIDLOTHIAN VA"
   },
   {
     "pro": "50884",
-    "status": "COVERED",
+    "status": "PICKUP",
     "pu_date": "2026-10-13",
     "pu_city": "MONCURE",
     "pu_state": "NC",
@@ -847,12 +813,12 @@
     "equipment": "Van",
     "weight_lbs": 44000,
     "carrier_rate": 900,
-    "updated_at": "2026-10-13T12:20:40.681008+00:00",
+    "updated_at": "2026-10-13T12:29:52.837883+00:00",
     "lane": "MONCURE NC-ATLANTA GA"
   },
   {
     "pro": "50928",
-    "status": "COVERED",
+    "status": "DISPATCHED",
     "pu_date": "2026-10-13",
     "pu_city": "WADESBORO",
     "pu_state": "NC",
@@ -864,7 +830,7 @@
     "equipment": "Van",
     "weight_lbs": 44000,
     "carrier_rate": 900,
-    "updated_at": "2026-10-13T12:17:49.882079+00:00",
+    "updated_at": "2026-10-13T12:27:21.335420+00:00",
     "lane": "WADESBORO NC-ATLANTA GA"
   }
 ]
