@@ -767,7 +767,7 @@
   },
   {
     "pro": "50902",
-    "status": "CONSIGNEE",
+    "status": "DELIVERED",
     "pu_date": "2026-10-12",
     "pu_city": "GRAND PRAIRIE",
     "pu_state": "TX",
@@ -779,12 +779,12 @@
     "equipment": "Van",
     "weight_lbs": 43000,
     "carrier_rate": 2000,
-    "updated_at": "2026-10-13T13:49:36.282940+00:00",
+    "updated_at": "2026-10-13T14:50:47.112660+00:00",
     "lane": "GRAND PRAIRIE TX-COLUMBUS GA"
   },
   {
     "pro": "50925",
-    "status": "DELIVERED",
+    "status": "RELEASED",
     "pu_date": "2026-10-12",
     "pu_city": "WADESBORO",
     "pu_state": "NC",
@@ -796,7 +796,7 @@
     "equipment": "Van",
     "weight_lbs": 44000,
     "carrier_rate": 900,
-    "updated_at": "2026-10-13T14:48:56.990457+00:00",
+    "updated_at": "2026-10-13T14:50:17.344665+00:00",
     "lane": "WADESBORO NC-ATLANTA GA"
   },
   {
