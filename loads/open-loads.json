@@ -762,7 +762,7 @@
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 7000,
     "carrier_rate": 1800,
-    "updated_at": "2026-10-13T12:12:02.655601+00:00",
+    "updated_at": "2026-10-13T12:16:04.405895+00:00",
     "lane": "HOUSTON TX-SANFORD FL"
   },
   {
@@ -864,7 +864,7 @@
     "equipment": "Van",
     "weight_lbs": 44000,
     "carrier_rate": 900,
-    "updated_at": "2026-10-12T20:20:11.775729+00:00",
+    "updated_at": "2026-10-13T12:17:49.882079+00:00",
     "lane": "WADESBORO NC-ATLANTA GA"
   }
 ]
