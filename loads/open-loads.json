@@ -137,6 +137,23 @@
     "lane": "WADESBORO NC-ATLANTA GA"
   },
   {
+    "pro": "50957",
+    "status": "OPEN",
+    "pu_date": "2026-10-14",
+    "pu_city": "LAGRANGE",
+    "pu_state": "GA",
+    "pu_hours": "0800-1600",
+    "del_date": "2026-10-15",
+    "del_city": "LENEXA",
+    "del_state": "KS",
+    "del_hours": "1000-1400",
+    "equipment": "Van",
+    "weight_lbs": 36000,
+    "carrier_rate": 2000,
+    "updated_at": "2026-10-13T15:28:58.764229+00:00",
+    "lane": "LAGRANGE GA-LENEXA KS"
+  },
+  {
     "pro": "50822",
     "status": "OPEN",
     "pu_date": "2026-10-15",
