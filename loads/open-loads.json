@@ -48,8 +48,25 @@
     "equipment": "Flatbed Hot Shot",
     "weight_lbs": 2800,
     "carrier_rate": 1260,
-    "updated_at": "2026-10-13T14:10:11.704655+00:00",
+    "updated_at": "2026-10-13T14:12:26.263860+00:00",
     "lane": "ROANOKE AL-NEW ALBANY OH"
+  },
+  {
+    "pro": "50953",
+    "status": "OPEN",
+    "pu_date": "2026-10-13",
+    "pu_city": "ROANOKE",
+    "pu_state": "AL",
+    "pu_hours": "1200-1400",
+    "del_date": "2026-10-14",
+    "del_city": "WINNSBORO",
+    "del_state": "SC",
+    "del_hours": "0800",
+    "equipment": "Van",
+    "weight_lbs": 42000,
+    "carrier_rate": null,
+    "updated_at": "2026-10-13T14:14:54.100256+00:00",
+    "lane": "ROANOKE AL-WINNSBORO SC"
   },
   {
     "pro": "50257",
@@ -745,7 +762,7 @@
     "equipment": "Van",
     "weight_lbs": 43000,
     "carrier_rate": 2000,
-    "updated_at": "2026-10-13T14:07:36.325627+00:00",
+    "updated_at": "2026-10-13T14:13:39.994702+00:00",
     "lane": "GRAND PRAIRIE TX-COLUMBUS GA"
   },
   {
