@@ -150,8 +150,25 @@
     "equipment": "Van",
     "weight_lbs": 36000,
     "carrier_rate": 2000,
-    "updated_at": "2026-10-13T15:28:58.764229+00:00",
+    "updated_at": "2026-10-13T15:36:11.560117+00:00",
     "lane": "LAGRANGE GA-LENEXA KS"
+  },
+  {
+    "pro": "50958",
+    "status": "OPEN",
+    "pu_date": "2026-10-14",
+    "pu_city": "COLUMBIA",
+    "pu_state": "SC",
+    "pu_hours": "",
+    "del_date": "",
+    "del_city": "ROCK HILL",
+    "del_state": "SC",
+    "del_hours": "0800-0900",
+    "equipment": "Sprinter Van",
+    "weight_lbs": 65,
+    "carrier_rate": null,
+    "updated_at": "2026-10-13T15:37:53.452113+00:00",
+    "lane": "COLUMBIA SC-ROCK HILL SC"
   },
   {
     "pro": "50822",
