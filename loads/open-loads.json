@@ -836,7 +836,7 @@
   },
   {
     "pro": "50941",
-    "status": "DISPATCHED",
+    "status": "PICKUP",
     "pu_date": "2026-10-13",
     "pu_city": "ALPHARETTA",
     "pu_state": "GA",
@@ -848,7 +848,7 @@
     "equipment": "Flatbed w/ Tarps",
     "weight_lbs": 42000,
     "carrier_rate": 5800,
-    "updated_at": "2026-10-13T20:50:54.216829+00:00",
+    "updated_at": "2026-10-13T20:57:04.219754+00:00",
     "lane": "ALPHARETTA GA-AMARILLO TX"
   },
   {
