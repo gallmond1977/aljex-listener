@@ -31,7 +31,7 @@
     "equipment": "Van",
     "weight_lbs": 44000,
     "carrier_rate": 900,
-    "updated_at": "2026-10-13T14:18:25.442225+00:00",
+    "updated_at": "2026-10-13T19:18:07.763276+00:00",
     "lane": "WADESBORO NC-ATLANTA GA"
   },
   {
@@ -50,23 +50,6 @@
     "carrier_rate": 800,
     "updated_at": "2026-10-12T20:14:22.221154+00:00",
     "lane": "MONCURE NC-ATLANTA GA"
-  },
-  {
-    "pro": "50946",
-    "status": "OPEN",
-    "pu_date": "2026-10-14",
-    "pu_city": "SAVANNAH",
-    "pu_state": "GA",
-    "pu_hours": "0700-1400",
-    "del_date": "2026-10-15",
-    "del_city": "COLUMBUS",
-    "del_state": "GA",
-    "del_hours": "0800-1000",
-    "equipment": "Van",
-    "weight_lbs": 44000,
-    "carrier_rate": 1000,
-    "updated_at": "2026-10-13T13:40:58.585092+00:00",
-    "lane": "SAVANNAH GA-COLUMBUS GA"
   },
   {
     "pro": "50947",
@@ -887,7 +870,7 @@
   },
   {
     "pro": "50959",
-    "status": "COVERED",
+    "status": "DISPATCHED",
     "pu_date": "2026-10-13",
     "pu_city": "MONTGOMERY",
     "pu_state": "AL",
@@ -899,7 +882,7 @@
     "equipment": "Van",
     "weight_lbs": 44000,
     "carrier_rate": 800,
-    "updated_at": "2026-10-13T17:18:35.905745+00:00",
+    "updated_at": "2026-10-13T19:19:55.420452+00:00",
     "lane": "MONTGOMERY AL-ATLANTA GA"
   },
   {
@@ -918,5 +901,22 @@
     "carrier_rate": 200,
     "updated_at": "2026-10-13T18:32:22.755954+00:00",
     "lane": "RICHMOND VA-RICHMOND VA"
+  },
+  {
+    "pro": "50946",
+    "status": "COVERED",
+    "pu_date": "2026-10-14",
+    "pu_city": "SAVANNAH",
+    "pu_state": "GA",
+    "pu_hours": "0700-1400",
+    "del_date": "2026-10-15",
+    "del_city": "COLUMBUS",
+    "del_state": "GA",
+    "del_hours": "0800-1000",
+    "equipment": "Van",
+    "weight_lbs": 44000,
+    "carrier_rate": 1000,
+    "updated_at": "2026-10-13T19:20:07.313498+00:00",
+    "lane": "SAVANNAH GA-COLUMBUS GA"
   }
 ]
