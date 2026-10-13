@@ -47,8 +47,8 @@
     "del_hours": "0800-1400",
     "equipment": "Flatbed w/ Tarps",
     "weight_lbs": 42000,
-    "carrier_rate": 5400,
-    "updated_at": "2026-10-13T15:58:31.867146+00:00",
+    "carrier_rate": 5600,
+    "updated_at": "2026-10-13T16:29:46.654101+00:00",
     "lane": "ALPHARETTA GA-AMARILLO TX"
   },
   {
@@ -59,14 +59,14 @@
     "pu_state": "AL",
     "pu_hours": "0730-1530",
     "del_date": "2026-10-14",
-    "del_city": "DORAVILLE",
+    "del_city": "ATLANTA",
     "del_state": "GA",
     "del_hours": "0800-1600",
     "equipment": "Van",
-    "weight_lbs": 25000,
-    "carrier_rate": 850,
-    "updated_at": "2026-10-13T16:22:27.846673+00:00",
-    "lane": "MONTGOMERY AL-DORAVILLE GA"
+    "weight_lbs": 44000,
+    "carrier_rate": 800,
+    "updated_at": "2026-10-13T16:27:20.488835+00:00",
+    "lane": "MONTGOMERY AL-ATLANTA GA"
   },
   {
     "pro": "50257",
@@ -186,6 +186,23 @@
     "carrier_rate": 250,
     "updated_at": "2026-10-13T16:06:02.047945+00:00",
     "lane": "COLUMBIA SC-ROCK HILL SC"
+  },
+  {
+    "pro": "50960",
+    "status": "OPEN",
+    "pu_date": "2026-10-14",
+    "pu_city": "MONTGOMERY",
+    "pu_state": "AL",
+    "pu_hours": "0730-1530",
+    "del_date": "2026-10-14",
+    "del_city": "ATLANTA",
+    "del_state": "GA",
+    "del_hours": "0800-1600",
+    "equipment": "Van",
+    "weight_lbs": 44000,
+    "carrier_rate": 800,
+    "updated_at": "2026-10-13T16:30:10.003199+00:00",
+    "lane": "MONTGOMERY AL-ATLANTA GA"
   },
   {
     "pro": "50822",
