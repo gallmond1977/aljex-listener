@@ -64,8 +64,8 @@
     "del_hours": "0800-1600",
     "equipment": "Van",
     "weight_lbs": 25000,
-    "carrier_rate": null,
-    "updated_at": "2026-10-13T16:19:27.720445+00:00",
+    "carrier_rate": 850,
+    "updated_at": "2026-10-13T16:22:27.846673+00:00",
     "lane": "MONTGOMERY AL-DORAVILLE GA"
   },
   {
