@@ -32,8 +32,26 @@
     "equipment": "Van",
     "weight_lbs": 44000,
     "carrier_rate": 3300,
-    "updated_at": "2026-10-14T12:34:56.631944+00:00",
+    "updated_at": "2026-10-14T12:38:43.395243+00:00",
     "lane": "PORT ANGELES WA-FULLERTON CA"
+  },
+  {
+    "pro": "8890432",
+    "status": "OPEN",
+    "spot": true,
+    "pu_date": "2026-10-14",
+    "pu_city": "PORT ANGELES",
+    "pu_state": "WA",
+    "pu_hours": "",
+    "del_date": "2026-10-17",
+    "del_city": "GARDENA",
+    "del_state": "CA",
+    "del_hours": "",
+    "equipment": "Van",
+    "weight_lbs": 44000,
+    "carrier_rate": 3300,
+    "updated_at": "2026-10-14T12:38:38.597611+00:00",
+    "lane": "PORT ANGELES WA-GARDENA CA"
   },
   {
     "pro": "50822",
@@ -598,7 +616,7 @@
   },
   {
     "pro": "49856",
-    "status": "LOADED",
+    "status": "CONSIGNEE",
     "pu_date": "2026-10-12",
     "pu_city": "PASADENA",
     "pu_state": "TX",
@@ -610,7 +628,7 @@
     "equipment": "Van",
     "weight_lbs": 44960,
     "carrier_rate": 2800,
-    "updated_at": "2026-10-14T12:32:56.674153+00:00",
+    "updated_at": "2026-10-14T12:38:46.585386+00:00",
     "lane": "PASADENA TX-GREENVILLE SC"
   },
   {
@@ -734,7 +752,7 @@
   },
   {
     "pro": "50257",
-    "status": "DISPATCHED",
+    "status": "PICKUP",
     "pu_date": "2026-10-14",
     "pu_city": "RICHMOND",
     "pu_state": "VA",
@@ -746,7 +764,7 @@
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 4000,
     "carrier_rate": 200,
-    "updated_at": "2026-10-14T12:13:23.223465+00:00",
+    "updated_at": "2026-10-14T12:37:32.328888+00:00",
     "lane": "RICHMOND VA-RICHMOND VA"
   },
   {
