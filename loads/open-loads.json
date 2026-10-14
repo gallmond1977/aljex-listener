@@ -175,23 +175,6 @@
     "lane": "RALEIGH NC-WINSTON SALEM NC"
   },
   {
-    "pro": "50972",
-    "status": "OPEN",
-    "pu_date": "2026-10-15",
-    "pu_city": "EL DORADO",
-    "pu_state": "AR",
-    "pu_hours": "0700-1500",
-    "del_date": "2026-10-16",
-    "del_city": "CALHOUN",
-    "del_state": "GA",
-    "del_hours": "0730-1400",
-    "equipment": "Van",
-    "weight_lbs": 43006,
-    "carrier_rate": 1800,
-    "updated_at": "2026-10-14T16:46:21.421222+00:00",
-    "lane": "EL DORADO AR-CALHOUN GA"
-  },
-  {
     "pro": "50936",
     "status": "OPEN",
     "pu_date": "2026-10-16",
