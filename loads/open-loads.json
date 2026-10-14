@@ -106,6 +106,24 @@
     "lane": "CENTRALIA WA-CALEXICO CA"
   },
   {
+    "pro": "8890438",
+    "status": "OPEN",
+    "spot": true,
+    "pu_date": "2026-10-14",
+    "pu_city": "WILMINGTON",
+    "pu_state": "NC",
+    "pu_hours": "",
+    "del_date": "2026-10-15",
+    "del_city": "WILMINGTON",
+    "del_state": "NC",
+    "del_hours": "",
+    "equipment": "Flatbed Hot Shot",
+    "weight_lbs": 17000,
+    "carrier_rate": 1600,
+    "updated_at": "2026-10-14T16:34:04.547139+00:00",
+    "lane": "WILMINGTON NC-WILMINGTON NC"
+  },
+  {
     "pro": "50954",
     "status": "OPEN",
     "pu_date": "2026-10-15",
