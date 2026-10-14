@@ -72,6 +72,24 @@
     "lane": "PORT ANGELES WA-SALT LAKE CITY UT"
   },
   {
+    "pro": "8890434",
+    "status": "OPEN",
+    "spot": true,
+    "pu_date": "2026-10-14",
+    "pu_city": "PORT ANGELES",
+    "pu_state": "WA",
+    "pu_hours": "",
+    "del_date": "2026-10-17",
+    "del_city": "CALEXICO",
+    "del_state": "CA",
+    "del_hours": "",
+    "equipment": "Van",
+    "weight_lbs": 44000,
+    "carrier_rate": 3100,
+    "updated_at": "2026-10-14T12:50:08.692817+00:00",
+    "lane": "PORT ANGELES WA-CALEXICO CA"
+  },
+  {
     "pro": "50822",
     "status": "OPEN",
     "pu_date": "2026-10-15",
@@ -799,7 +817,7 @@
     "equipment": "Van",
     "weight_lbs": 44000,
     "carrier_rate": 900,
-    "updated_at": "2026-10-14T12:17:16.714278+00:00",
+    "updated_at": "2026-10-14T12:49:50.097366+00:00",
     "lane": "WADESBORO NC-ATLANTA GA"
   },
   {
