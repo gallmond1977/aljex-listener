@@ -767,7 +767,7 @@
   },
   {
     "pro": "50846",
-    "status": "DELIVERED",
+    "status": "RELEASED",
     "pu_date": "2026-10-13",
     "pu_city": "RICHMOND",
     "pu_state": "VA",
@@ -779,7 +779,7 @@
     "equipment": "Flatbed",
     "weight_lbs": 18800,
     "carrier_rate": 600,
-    "updated_at": "2026-10-13T19:05:18.875026+00:00",
+    "updated_at": "2026-10-14T11:02:52.986610+00:00",
     "lane": "RICHMOND VA-MIDLOTHIAN VA"
   },
   {
