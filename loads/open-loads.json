@@ -788,7 +788,7 @@
   },
   {
     "pro": "50257",
-    "status": "DELIVERED",
+    "status": "RELEASED",
     "pu_date": "2026-10-14",
     "pu_city": "RICHMOND",
     "pu_state": "VA",
@@ -800,7 +800,7 @@
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 4000,
     "carrier_rate": 200,
-    "updated_at": "2026-10-14T13:19:27.947022+00:00",
+    "updated_at": "2026-10-14T20:23:23.415902+00:00",
     "lane": "RICHMOND VA-RICHMOND VA"
   },
   {
