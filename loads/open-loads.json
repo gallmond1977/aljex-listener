@@ -107,23 +107,6 @@
     "lane": "BELCAMP MD-EL PASO TX"
   },
   {
-    "pro": "50937",
-    "status": "OPEN",
-    "pu_date": "2026-10-15",
-    "pu_city": "CALHOUN",
-    "pu_state": "GA",
-    "pu_hours": "0800-1430",
-    "del_date": "2026-10-16",
-    "del_city": "LINCOLNTON",
-    "del_state": "NC",
-    "del_hours": "0700-1500",
-    "equipment": "Van",
-    "weight_lbs": 42000,
-    "carrier_rate": 1100,
-    "updated_at": "2026-10-14T12:59:31.591037+00:00",
-    "lane": "CALHOUN GA-LINCOLNTON NC"
-  },
-  {
     "pro": "50954",
     "status": "OPEN",
     "pu_date": "2026-10-15",
@@ -205,7 +188,7 @@
     "equipment": "Van",
     "weight_lbs": 7259,
     "carrier_rate": 2300,
-    "updated_at": "2026-10-14T12:58:40.228417+00:00",
+    "updated_at": "2026-10-14T13:01:32.983273+00:00",
     "lane": "WINCHESTER KY-MOROE TWP NJ"
   },
   {
@@ -754,7 +737,7 @@
   },
   {
     "pro": "50257",
-    "status": "PICKUP",
+    "status": "LOADED",
     "pu_date": "2026-10-14",
     "pu_city": "RICHMOND",
     "pu_state": "VA",
@@ -766,7 +749,7 @@
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 4000,
     "carrier_rate": 200,
-    "updated_at": "2026-10-14T12:37:32.328888+00:00",
+    "updated_at": "2026-10-14T13:02:23.237997+00:00",
     "lane": "RICHMOND VA-RICHMOND VA"
   },
   {
