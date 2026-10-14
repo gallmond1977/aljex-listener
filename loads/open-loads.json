@@ -9,11 +9,11 @@
     "del_date": "",
     "del_city": "SAVANNAH",
     "del_state": "GA",
-    "del_hours": "",
+    "del_hours": "0800-1500",
     "equipment": "Flatbed w/ Tarps",
     "weight_lbs": 45000,
     "carrier_rate": 2200,
-    "updated_at": "2026-10-14T14:44:38.079429+00:00",
+    "updated_at": "2026-10-14T14:49:31.919381+00:00",
     "lane": "SAVANNAH GA-SAVANNAH GA"
   },
   {
@@ -340,7 +340,7 @@
     "equipment": "Van",
     "weight_lbs": 5000,
     "carrier_rate": 1500,
-    "updated_at": "2026-10-14T14:44:28.782837+00:00",
+    "updated_at": "2026-10-14T14:49:31.000662+00:00",
     "lane": "WINCHESTER KY-BARRIE ON"
   },
   {
