@@ -11,9 +11,9 @@
     "del_state": "GA",
     "del_hours": "0800-1500",
     "equipment": "Flatbed w/ Tarps",
-    "weight_lbs": 45000,
+    "weight_lbs": 18800,
     "carrier_rate": 2200,
-    "updated_at": "2026-10-14T14:49:31.919381+00:00",
+    "updated_at": "2026-10-14T15:17:13.343759+00:00",
     "lane": "SAVANNAH GA-SAVANNAH GA"
   },
   {
@@ -138,6 +138,23 @@
     "carrier_rate": 5000,
     "updated_at": "2026-10-14T15:02:04.820110+00:00",
     "lane": "ALPHARETTA GA-AMARILLO TX"
+  },
+  {
+    "pro": "50971",
+    "status": "OPEN",
+    "pu_date": "2026-10-15",
+    "pu_city": "RALEIGH",
+    "pu_state": "NC",
+    "pu_hours": "0900",
+    "del_date": "2026-10-15",
+    "del_city": "WINSTON SALEM",
+    "del_state": "NC",
+    "del_hours": "0800-1500",
+    "equipment": "Van",
+    "weight_lbs": 6313,
+    "carrier_rate": 450,
+    "updated_at": "2026-10-14T15:20:08.844311+00:00",
+    "lane": "RALEIGH NC-WINSTON SALEM NC"
   },
   {
     "pro": "50936",
@@ -323,7 +340,7 @@
     "equipment": "Van",
     "weight_lbs": 5000,
     "carrier_rate": 1500,
-    "updated_at": "2026-10-14T15:03:00.482727+00:00",
+    "updated_at": "2026-10-14T15:19:19.154317+00:00",
     "lane": "WINCHESTER KY-BARRIE ON"
   },
   {
@@ -614,6 +631,40 @@
     "carrier_rate": 5000,
     "updated_at": "2026-10-12T13:52:50.097450+00:00",
     "lane": "ALPHARETTA GA-AMARILLO TX"
+  },
+  {
+    "pro": "50873",
+    "status": "RELEASED",
+    "pu_date": "2026-10-08",
+    "pu_city": "RALEIGH",
+    "pu_state": "NC",
+    "pu_hours": "0800",
+    "del_date": "2026-10-08",
+    "del_city": "WINSTON SALEM",
+    "del_state": "NC",
+    "del_hours": "0800-1500",
+    "equipment": "Van",
+    "weight_lbs": 7221,
+    "carrier_rate": 500,
+    "updated_at": "2026-10-08T15:33:44.956209+00:00",
+    "lane": "RALEIGH NC-WINSTON SALEM NC"
+  },
+  {
+    "pro": "50874",
+    "status": "RELEASED",
+    "pu_date": "2026-10-08",
+    "pu_city": "RALEIGH",
+    "pu_state": "NC",
+    "pu_hours": "0900",
+    "del_date": "2026-10-08",
+    "del_city": "WINSTON SALEM",
+    "del_state": "NC",
+    "del_hours": "0800-1500",
+    "equipment": "26' Straight Box Truck",
+    "weight_lbs": 2812,
+    "carrier_rate": 350,
+    "updated_at": "2026-10-08T18:21:47.589557+00:00",
+    "lane": "RALEIGH NC-WINSTON SALEM NC"
   },
   {
     "pro": "50893",
