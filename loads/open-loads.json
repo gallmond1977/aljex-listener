@@ -17,23 +17,6 @@
     "lane": "SAVANNAH GA-SAVANNAH GA"
   },
   {
-    "pro": "50968",
-    "status": "OPEN",
-    "pu_date": "2026-10-14",
-    "pu_city": "ATLANTA",
-    "pu_state": "GA",
-    "pu_hours": "1000-1200",
-    "del_date": "2026-10-14",
-    "del_city": "COLUMBUS",
-    "del_state": "GA",
-    "del_hours": "1300-1700",
-    "equipment": "26' Straight Box Truck",
-    "weight_lbs": 5000,
-    "carrier_rate": 300,
-    "updated_at": "2026-10-14T14:54:53.464009+00:00",
-    "lane": "ATLANTA GA-COLUMBUS GA"
-  },
-  {
     "pro": "8890430",
     "status": "OPEN",
     "spot": true,
@@ -138,6 +121,23 @@
     "carrier_rate": 900,
     "updated_at": "2026-10-13T14:44:59.799703+00:00",
     "lane": "WADESBORO NC-ATLANTA GA"
+  },
+  {
+    "pro": "50970",
+    "status": "OPEN",
+    "pu_date": "2026-10-15",
+    "pu_city": "ALPHARETTA",
+    "pu_state": "GA",
+    "pu_hours": "0900-1700",
+    "del_date": "2026-10-19",
+    "del_city": "AMARILLO",
+    "del_state": "TX",
+    "del_hours": "0800-1400",
+    "equipment": "Flatbed w/ Tarps",
+    "weight_lbs": 42000,
+    "carrier_rate": null,
+    "updated_at": "2026-10-14T14:59:13.273383+00:00",
+    "lane": "ALPHARETTA GA-AMARILLO TX"
   },
   {
     "pro": "50936",
