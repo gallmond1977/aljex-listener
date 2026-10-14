@@ -158,6 +158,23 @@
     "lane": "BUENA VISTA GA-BRENTWOOD TN"
   },
   {
+    "pro": "50975",
+    "status": "OPEN",
+    "pu_date": "2026-10-15",
+    "pu_city": "MOUNT PLEASANT",
+    "pu_state": "TN",
+    "pu_hours": "1400",
+    "del_date": "",
+    "del_city": "SAINT LOUIS",
+    "del_state": "MO",
+    "del_hours": "0800",
+    "equipment": "Van",
+    "weight_lbs": 11000,
+    "carrier_rate": 900,
+    "updated_at": "2026-10-14T18:24:48.717347+00:00",
+    "lane": "MOUNT PLEASANT TN-SAINT LOUIS MO"
+  },
+  {
     "pro": "50936",
     "status": "OPEN",
     "pu_date": "2026-10-16",
