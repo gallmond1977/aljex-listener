@@ -1,5 +1,22 @@
 [
   {
+    "pro": "50965",
+    "status": "OPEN",
+    "pu_date": "2026-10-14",
+    "pu_city": "CHEHALIS",
+    "pu_state": "WA",
+    "pu_hours": "0600-1530",
+    "del_date": "2026-10-15",
+    "del_city": "WEST VALLEY CITY",
+    "del_state": "UT",
+    "del_hours": "0830-1500",
+    "equipment": "Flatbed w/ Tarps",
+    "weight_lbs": 47500,
+    "carrier_rate": null,
+    "updated_at": "2026-10-14T14:20:01.131756+00:00",
+    "lane": "CHEHALIS WA-WEST VALLEY CITY UT"
+  },
+  {
     "pro": "8890430",
     "status": "OPEN",
     "spot": true,
@@ -99,11 +116,11 @@
     "del_date": "2026-10-19",
     "del_city": "EL PASO",
     "del_state": "TX",
-    "del_hours": "CALL!!",
+    "del_hours": "0630-1500",
     "equipment": "Van",
     "weight_lbs": 8000,
     "carrier_rate": 4200,
-    "updated_at": "2026-10-14T12:24:02.156428+00:00",
+    "updated_at": "2026-10-14T14:18:17.153398+00:00",
     "lane": "BELCAMP MD-EL PASO TX"
   },
   {
