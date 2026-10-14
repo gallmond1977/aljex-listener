@@ -86,7 +86,7 @@
     "equipment": "Van",
     "weight_lbs": 44000,
     "carrier_rate": 3100,
-    "updated_at": "2026-10-14T12:53:10.553081+00:00",
+    "updated_at": "2026-10-14T12:56:47.222173+00:00",
     "lane": "CENTRALIA WA-CALEXICO CA"
   },
   {
@@ -120,7 +120,7 @@
     "equipment": "Van",
     "weight_lbs": 42000,
     "carrier_rate": 1100,
-    "updated_at": "2026-10-12T16:26:54.656830+00:00",
+    "updated_at": "2026-10-14T12:59:31.591037+00:00",
     "lane": "CALHOUN GA-LINCOLNTON NC"
   },
   {
@@ -201,11 +201,11 @@
     "del_date": "2026-10-19",
     "del_city": "MOROE TWP",
     "del_state": "NJ",
-    "del_hours": "AD REQ",
+    "del_hours": "0900",
     "equipment": "Van",
     "weight_lbs": 7259,
     "carrier_rate": 2300,
-    "updated_at": "2026-10-12T20:13:40.936838+00:00",
+    "updated_at": "2026-10-14T12:58:40.228417+00:00",
     "lane": "WINCHESTER KY-MOROE TWP NJ"
   },
   {
@@ -529,23 +529,6 @@
     "weight_lbs": 44000,
     "carrier_rate": 900,
     "updated_at": "2026-10-07T18:51:50.621191+00:00",
-    "lane": "WADESBORO NC-ATLANTA GA"
-  },
-  {
-    "pro": "50795",
-    "status": "DELIVERED",
-    "pu_date": "2026-10-06",
-    "pu_city": "WADESBORO",
-    "pu_state": "NC",
-    "pu_hours": "0730-1630",
-    "del_date": "2026-10-07",
-    "del_city": "ATLANTA",
-    "del_state": "GA",
-    "del_hours": "0800-1600",
-    "equipment": "Van",
-    "weight_lbs": 44000,
-    "carrier_rate": 900,
-    "updated_at": "2026-10-07T13:00:11.477052+00:00",
     "lane": "WADESBORO NC-ATLANTA GA"
   },
   {
