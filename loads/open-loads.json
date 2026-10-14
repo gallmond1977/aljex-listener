@@ -135,8 +135,8 @@
     "del_hours": "0800-1400",
     "equipment": "Flatbed w/ Tarps",
     "weight_lbs": 42000,
-    "carrier_rate": null,
-    "updated_at": "2026-10-14T14:59:13.273383+00:00",
+    "carrier_rate": 5000,
+    "updated_at": "2026-10-14T15:02:04.820110+00:00",
     "lane": "ALPHARETTA GA-AMARILLO TX"
   },
   {
@@ -323,7 +323,7 @@
     "equipment": "Van",
     "weight_lbs": 5000,
     "carrier_rate": 1500,
-    "updated_at": "2026-10-14T14:49:31.000662+00:00",
+    "updated_at": "2026-10-14T15:03:00.482727+00:00",
     "lane": "WINCHESTER KY-BARRIE ON"
   },
   {
