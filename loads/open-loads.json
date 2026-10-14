@@ -181,14 +181,14 @@
     "pu_city": "UNION CITY",
     "pu_state": "GA",
     "pu_hours": "1300",
-    "del_date": "",
+    "del_date": "2026-10-16",
     "del_city": "SANFORD",
     "del_state": "FL",
     "del_hours": "0700",
     "equipment": "26' Straight Box Truck",
-    "weight_lbs": 7000,
-    "carrier_rate": null,
-    "updated_at": "2026-10-14T18:49:29.892773+00:00",
+    "weight_lbs": 2000,
+    "carrier_rate": 1000,
+    "updated_at": "2026-10-14T18:53:18.270880+00:00",
     "lane": "UNION CITY GA-SANFORD FL"
   },
   {
