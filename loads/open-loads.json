@@ -494,23 +494,6 @@
     "lane": "MONCURE NC-ATLANTA GA"
   },
   {
-    "pro": "50775",
-    "status": "RELEASED",
-    "pu_date": "2026-10-05",
-    "pu_city": "WADESBORO",
-    "pu_state": "NC",
-    "pu_hours": "0730-1630",
-    "del_date": "2026-10-06",
-    "del_city": "ATLANTA",
-    "del_state": "GA",
-    "del_hours": "0800-1600",
-    "equipment": "Van",
-    "weight_lbs": 44000,
-    "carrier_rate": 950,
-    "updated_at": "2026-10-07T11:46:39.171915+00:00",
-    "lane": "WADESBORO NC-ATLANTA GA"
-  },
-  {
     "pro": "49852",
     "status": "RELEASED",
     "pu_date": "2026-10-06",
@@ -830,7 +813,7 @@
     "equipment": "Flatbed w/ Tarps",
     "weight_lbs": 42000,
     "carrier_rate": 5800,
-    "updated_at": "2026-10-13T23:06:41.956613+00:00",
+    "updated_at": "2026-10-14T11:46:07.028683+00:00",
     "lane": "ALPHARETTA GA-AMARILLO TX"
   },
   {
