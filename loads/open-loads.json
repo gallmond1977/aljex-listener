@@ -30,7 +30,7 @@
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 5000,
     "carrier_rate": 300,
-    "updated_at": "2026-10-14T14:32:37.619846+00:00",
+    "updated_at": "2026-10-14T14:54:53.464009+00:00",
     "lane": "ATLANTA GA-COLUMBUS GA"
   },
   {
@@ -104,23 +104,6 @@
     "carrier_rate": 3100,
     "updated_at": "2026-10-14T12:56:47.222173+00:00",
     "lane": "CENTRALIA WA-CALEXICO CA"
-  },
-  {
-    "pro": "50822",
-    "status": "OPEN",
-    "pu_date": "2026-10-15",
-    "pu_city": "BELCAMP",
-    "pu_state": "MD",
-    "pu_hours": "0700-1500",
-    "del_date": "2026-10-19",
-    "del_city": "EL PASO",
-    "del_state": "TX",
-    "del_hours": "0630-1500",
-    "equipment": "Van",
-    "weight_lbs": 8000,
-    "carrier_rate": 4200,
-    "updated_at": "2026-10-14T14:18:17.153398+00:00",
-    "lane": "BELCAMP MD-EL PASO TX"
   },
   {
     "pro": "50954",
