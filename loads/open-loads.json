@@ -141,23 +141,6 @@
     "lane": "WADESBORO NC-ATLANTA GA"
   },
   {
-    "pro": "50970",
-    "status": "OPEN",
-    "pu_date": "2026-10-15",
-    "pu_city": "ALPHARETTA",
-    "pu_state": "GA",
-    "pu_hours": "0900-1700",
-    "del_date": "2026-10-19",
-    "del_city": "AMARILLO",
-    "del_state": "TX",
-    "del_hours": "0800-1400",
-    "equipment": "Flatbed w/ Tarps",
-    "weight_lbs": 42000,
-    "carrier_rate": 5000,
-    "updated_at": "2026-10-14T16:37:02.675912+00:00",
-    "lane": "ALPHARETTA GA-AMARILLO TX"
-  },
-  {
     "pro": "50971",
     "status": "OPEN",
     "pu_date": "2026-10-15",
@@ -870,5 +853,22 @@
     "carrier_rate": 200,
     "updated_at": "2026-10-14T13:19:27.947022+00:00",
     "lane": "RICHMOND VA-RICHMOND VA"
+  },
+  {
+    "pro": "50970",
+    "status": "COVERED",
+    "pu_date": "2026-10-15",
+    "pu_city": "ALPHARETTA",
+    "pu_state": "GA",
+    "pu_hours": "0900-1700",
+    "del_date": "2026-10-19",
+    "del_city": "AMARILLO",
+    "del_state": "TX",
+    "del_hours": "0800-1400",
+    "equipment": "Conestoga",
+    "weight_lbs": 42000,
+    "carrier_rate": 5000,
+    "updated_at": "2026-10-14T17:19:56.932406+00:00",
+    "lane": "ALPHARETTA GA-AMARILLO TX"
   }
 ]
