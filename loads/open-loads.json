@@ -164,14 +164,14 @@
     "pu_city": "MOUNT PLEASANT",
     "pu_state": "TN",
     "pu_hours": "1400",
-    "del_date": "",
+    "del_date": "2026-10-16",
     "del_city": "SAINT LOUIS",
     "del_state": "MO",
     "del_hours": "0800",
     "equipment": "Van",
-    "weight_lbs": 11000,
-    "carrier_rate": 900,
-    "updated_at": "2026-10-14T18:24:48.717347+00:00",
+    "weight_lbs": 15000,
+    "carrier_rate": 950,
+    "updated_at": "2026-10-14T18:29:06.863986+00:00",
     "lane": "MOUNT PLEASANT TN-SAINT LOUIS MO"
   },
   {
