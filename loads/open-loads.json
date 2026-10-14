@@ -72,23 +72,6 @@
     "lane": "WILMINGTON NC-WILMINGTON NC"
   },
   {
-    "pro": "50929",
-    "status": "OPEN",
-    "pu_date": "2026-10-15",
-    "pu_city": "WADESBORO",
-    "pu_state": "NC",
-    "pu_hours": "0730-1630",
-    "del_date": "2026-10-16",
-    "del_city": "ATLANTA",
-    "del_state": "GA",
-    "del_hours": "0800-1600",
-    "equipment": "Van",
-    "weight_lbs": 44000,
-    "carrier_rate": 900,
-    "updated_at": "2026-10-14T20:02:06.539929+00:00",
-    "lane": "WADESBORO NC-ATLANTA GA"
-  },
-  {
     "pro": "50954",
     "status": "OPEN",
     "pu_date": "2026-10-15",
@@ -836,6 +819,23 @@
     "carrier_rate": 200,
     "updated_at": "2026-10-14T13:19:27.947022+00:00",
     "lane": "RICHMOND VA-RICHMOND VA"
+  },
+  {
+    "pro": "50929",
+    "status": "COVERED",
+    "pu_date": "2026-10-15",
+    "pu_city": "WADESBORO",
+    "pu_state": "NC",
+    "pu_hours": "0730-1630",
+    "del_date": "2026-10-16",
+    "del_city": "ATLANTA",
+    "del_state": "GA",
+    "del_hours": "0800-1600",
+    "equipment": "Van",
+    "weight_lbs": 44000,
+    "carrier_rate": 900,
+    "updated_at": "2026-10-14T20:07:39.770325+00:00",
+    "lane": "WADESBORO NC-ATLANTA GA"
   },
   {
     "pro": "50970",
