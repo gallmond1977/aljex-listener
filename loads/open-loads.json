@@ -76,7 +76,7 @@
     "status": "OPEN",
     "spot": true,
     "pu_date": "2026-10-14",
-    "pu_city": "PORT ANGELES",
+    "pu_city": "CENTRALIA",
     "pu_state": "WA",
     "pu_hours": "",
     "del_date": "2026-10-17",
@@ -86,8 +86,8 @@
     "equipment": "Van",
     "weight_lbs": 44000,
     "carrier_rate": 3100,
-    "updated_at": "2026-10-14T12:50:08.692817+00:00",
-    "lane": "PORT ANGELES WA-CALEXICO CA"
+    "updated_at": "2026-10-14T12:53:10.553081+00:00",
+    "lane": "CENTRALIA WA-CALEXICO CA"
   },
   {
     "pro": "50822",
@@ -122,23 +122,6 @@
     "carrier_rate": 1100,
     "updated_at": "2026-10-12T16:26:54.656830+00:00",
     "lane": "CALHOUN GA-LINCOLNTON NC"
-  },
-  {
-    "pro": "50948",
-    "status": "OPEN",
-    "pu_date": "2026-10-15",
-    "pu_city": "SAVANNAH",
-    "pu_state": "GA",
-    "pu_hours": "0700-1400",
-    "del_date": "2026-10-16",
-    "del_city": "COLUMBUS",
-    "del_state": "GA",
-    "del_hours": "0800-1000",
-    "equipment": "Van",
-    "weight_lbs": 44000,
-    "carrier_rate": 1000,
-    "updated_at": "2026-10-13T13:55:34.919833+00:00",
-    "lane": "SAVANNAH GA-COLUMBUS GA"
   },
   {
     "pro": "50954",
@@ -819,39 +802,5 @@
     "carrier_rate": 900,
     "updated_at": "2026-10-14T12:49:50.097366+00:00",
     "lane": "WADESBORO NC-ATLANTA GA"
-  },
-  {
-    "pro": "50946",
-    "status": "COVERED",
-    "pu_date": "2026-10-14",
-    "pu_city": "SAVANNAH",
-    "pu_state": "GA",
-    "pu_hours": "0700-1400",
-    "del_date": "2026-10-15",
-    "del_city": "COLUMBUS",
-    "del_state": "GA",
-    "del_hours": "0800-1000",
-    "equipment": "Van",
-    "weight_lbs": 44000,
-    "carrier_rate": 1000,
-    "updated_at": "2026-10-14T12:20:28.426996+00:00",
-    "lane": "SAVANNAH GA-COLUMBUS GA"
-  },
-  {
-    "pro": "50947",
-    "status": "PICKUP",
-    "pu_date": "2026-10-14",
-    "pu_city": "SAVANNAH",
-    "pu_state": "GA",
-    "pu_hours": "0700-1400",
-    "del_date": "2026-10-15",
-    "del_city": "COLUMBUS",
-    "del_state": "GA",
-    "del_hours": "0800-1000",
-    "equipment": "Van",
-    "weight_lbs": 44000,
-    "carrier_rate": 1000,
-    "updated_at": "2026-10-14T12:21:38.738479+00:00",
-    "lane": "SAVANNAH GA-COLUMBUS GA"
   }
 ]
