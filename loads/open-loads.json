@@ -886,7 +886,7 @@
   },
   {
     "pro": "50947",
-    "status": "COVERED",
+    "status": "PICKUP",
     "pu_date": "2026-10-14",
     "pu_city": "SAVANNAH",
     "pu_state": "GA",
@@ -898,7 +898,7 @@
     "equipment": "Van",
     "weight_lbs": 44000,
     "carrier_rate": 1000,
-    "updated_at": "2026-10-14T11:53:47.957219+00:00",
+    "updated_at": "2026-10-14T12:03:27.464759+00:00",
     "lane": "SAVANNAH GA-COLUMBUS GA"
   }
 ]
