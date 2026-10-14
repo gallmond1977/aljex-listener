@@ -106,23 +106,6 @@
     "lane": "WADESBORO NC-ATLANTA GA"
   },
   {
-    "pro": "50974",
-    "status": "OPEN",
-    "pu_date": "2026-10-15",
-    "pu_city": "BUENA VISTA",
-    "pu_state": "GA",
-    "pu_hours": "1200-1400",
-    "del_date": "2026-10-16",
-    "del_city": "BRENTWOOD",
-    "del_state": "TN",
-    "del_hours": "0630-1200",
-    "equipment": "Van",
-    "weight_lbs": 43500,
-    "carrier_rate": 1000,
-    "updated_at": "2026-10-14T20:10:46.582102+00:00",
-    "lane": "BUENA VISTA GA-BRENTWOOD TN"
-  },
-  {
     "pro": "50977",
     "status": "OPEN",
     "pu_date": "2026-10-15",
