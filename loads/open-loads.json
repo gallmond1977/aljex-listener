@@ -103,7 +103,7 @@
     "equipment": "Flatbed Hot Shot",
     "weight_lbs": 17000,
     "carrier_rate": 1600,
-    "updated_at": "2026-10-14T16:34:04.547139+00:00",
+    "updated_at": "2026-10-14T18:34:29.768944+00:00",
     "lane": "WILMINGTON NC-WILMINGTON NC"
   },
   {
@@ -154,25 +154,8 @@
     "equipment": "Van",
     "weight_lbs": 43500,
     "carrier_rate": 1000,
-    "updated_at": "2026-10-14T17:54:55.237279+00:00",
+    "updated_at": "2026-10-14T18:35:10.767662+00:00",
     "lane": "BUENA VISTA GA-BRENTWOOD TN"
-  },
-  {
-    "pro": "50975",
-    "status": "OPEN",
-    "pu_date": "2026-10-15",
-    "pu_city": "MOUNT PLEASANT",
-    "pu_state": "TN",
-    "pu_hours": "1400",
-    "del_date": "2026-10-16",
-    "del_city": "SAINT LOUIS",
-    "del_state": "MO",
-    "del_hours": "0800",
-    "equipment": "Van",
-    "weight_lbs": 15000,
-    "carrier_rate": 950,
-    "updated_at": "2026-10-14T18:29:06.863986+00:00",
-    "lane": "MOUNT PLEASANT TN-SAINT LOUIS MO"
   },
   {
     "pro": "50936",
@@ -205,7 +188,7 @@
     "equipment": "Van",
     "weight_lbs": 7259,
     "carrier_rate": 2300,
-    "updated_at": "2026-10-14T13:07:07.230897+00:00",
+    "updated_at": "2026-10-14T18:32:23.583766+00:00",
     "lane": "WINCHESTER KY-MOROE TWP NJ"
   },
   {
