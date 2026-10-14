@@ -29,8 +29,8 @@
     "del_hours": "0700-1500",
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 3000,
-    "carrier_rate": 800,
-    "updated_at": "2026-10-14T17:22:22.477954+00:00",
+    "carrier_rate": 900,
+    "updated_at": "2026-10-14T17:49:53.650825+00:00",
     "lane": "CLARENCE NY-BELCAMP MD"
   },
   {
@@ -173,6 +173,23 @@
     "carrier_rate": 450,
     "updated_at": "2026-10-14T15:20:08.844311+00:00",
     "lane": "RALEIGH NC-WINSTON SALEM NC"
+  },
+  {
+    "pro": "50974",
+    "status": "OPEN",
+    "pu_date": "2026-10-15",
+    "pu_city": "BUENA VISTA",
+    "pu_state": "GA",
+    "pu_hours": "1200-1400",
+    "del_date": "2026-10-16",
+    "del_city": "BRENTWOOD",
+    "del_state": "TN",
+    "del_hours": "0630-1200",
+    "equipment": "Van",
+    "weight_lbs": 43500,
+    "carrier_rate": 1000,
+    "updated_at": "2026-10-14T17:48:53.269037+00:00",
+    "lane": "BUENA VISTA GA-BRENTWOOD TN"
   },
   {
     "pro": "50936",
