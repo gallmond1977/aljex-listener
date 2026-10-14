@@ -1,22 +1,5 @@
 [
   {
-    "pro": "50965",
-    "status": "OPEN",
-    "pu_date": "2026-10-14",
-    "pu_city": "CHEHALIS",
-    "pu_state": "WA",
-    "pu_hours": "0600-1530",
-    "del_date": "2026-10-15",
-    "del_city": "WEST VALLEY CITY",
-    "del_state": "UT",
-    "del_hours": "0830-1500",
-    "equipment": "Flatbed w/ Tarps",
-    "weight_lbs": 47500,
-    "carrier_rate": null,
-    "updated_at": "2026-10-14T14:20:01.131756+00:00",
-    "lane": "CHEHALIS WA-WEST VALLEY CITY UT"
-  },
-  {
     "pro": "8890430",
     "status": "OPEN",
     "spot": true,
