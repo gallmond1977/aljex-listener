@@ -5,16 +5,33 @@
     "pu_date": "2026-10-14",
     "pu_city": "SAVANNAH",
     "pu_state": "GA",
-    "pu_hours": "",
+    "pu_hours": "0800-1500",
     "del_date": "",
     "del_city": "SAVANNAH",
     "del_state": "GA",
-    "del_hours": "300004731",
+    "del_hours": "",
     "equipment": "Flatbed w/ Tarps",
-    "weight_lbs": null,
-    "carrier_rate": null,
-    "updated_at": "2026-10-14T14:29:48.667971+00:00",
+    "weight_lbs": 28000,
+    "carrier_rate": 2400,
+    "updated_at": "2026-10-14T14:33:37.396810+00:00",
     "lane": "SAVANNAH GA-SAVANNAH GA"
+  },
+  {
+    "pro": "50968",
+    "status": "OPEN",
+    "pu_date": "2026-10-14",
+    "pu_city": "ATLANTA",
+    "pu_state": "GA",
+    "pu_hours": "1000-1200",
+    "del_date": "2026-10-14",
+    "del_city": "COLUMBUS",
+    "del_state": "GA",
+    "del_hours": "1300-1700",
+    "equipment": "26' Straight Box Truck",
+    "weight_lbs": 5000,
+    "carrier_rate": 300,
+    "updated_at": "2026-10-14T14:32:37.619846+00:00",
+    "lane": "ATLANTA GA-COLUMBUS GA"
   },
   {
     "pro": "8890430",
@@ -158,23 +175,6 @@
     "lane": "WADESBORO NC-ATLANTA GA"
   },
   {
-    "pro": "50967",
-    "status": "OPEN",
-    "pu_date": "2026-10-15",
-    "pu_city": "CHEHALIS",
-    "pu_state": "WA",
-    "pu_hours": "0600-1530",
-    "del_date": "2026-10-19",
-    "del_city": "WEST VALLEY CITY",
-    "del_state": "UT",
-    "del_hours": "0800-0900",
-    "equipment": "Van",
-    "weight_lbs": 44000,
-    "carrier_rate": null,
-    "updated_at": "2026-10-14T14:29:56.955906+00:00",
-    "lane": "CHEHALIS WA-WEST VALLEY CITY UT"
-  },
-  {
     "pro": "50936",
     "status": "OPEN",
     "pu_date": "2026-10-16",
@@ -241,6 +241,23 @@
     "carrier_rate": null,
     "updated_at": "2026-10-14T12:31:10.441516+00:00",
     "lane": "BENSENVILLE IL-BELCAMP MD"
+  },
+  {
+    "pro": "50969",
+    "status": "OPEN",
+    "pu_date": "2026-10-19",
+    "pu_city": "WINCHESTER",
+    "pu_state": "KY",
+    "pu_hours": "0800-1400",
+    "del_date": "",
+    "del_city": "HUNTSVILLE",
+    "del_state": "ON",
+    "del_hours": "0930-1500",
+    "equipment": "Van",
+    "weight_lbs": 972,
+    "carrier_rate": 1500,
+    "updated_at": "2026-10-14T14:35:10.024956+00:00",
+    "lane": "WINCHESTER KY-HUNTSVILLE ON"
   },
   {
     "pro": "50800",
@@ -515,6 +532,23 @@
     "lane": "SAVANNAH GA-SAVANNAH GA"
   },
   {
+    "pro": "50801",
+    "status": "DELIVERED",
+    "pu_date": "2026-10-05",
+    "pu_city": "BENSENVILLE",
+    "pu_state": "IL",
+    "pu_hours": "0800-1500",
+    "del_date": "2026-10-06",
+    "del_city": "BELCAMP",
+    "del_state": "MD",
+    "del_hours": "0700-1500",
+    "equipment": "Van",
+    "weight_lbs": 42000,
+    "carrier_rate": 2800,
+    "updated_at": "2026-10-14T14:31:37.954062+00:00",
+    "lane": "BENSENVILLE IL-BELCAMP MD"
+  },
+  {
     "pro": "49852",
     "status": "RELEASED",
     "pu_date": "2026-10-06",
@@ -545,7 +579,7 @@
     "equipment": "Van",
     "weight_lbs": 44000,
     "carrier_rate": 900,
-    "updated_at": "2026-10-07T18:51:50.621191+00:00",
+    "updated_at": "2026-10-14T14:33:32.741121+00:00",
     "lane": "WADESBORO NC-ATLANTA GA"
   },
   {
@@ -802,22 +836,5 @@
     "carrier_rate": 900,
     "updated_at": "2026-10-14T13:18:50.721660+00:00",
     "lane": "WADESBORO NC-ATLANTA GA"
-  },
-  {
-    "pro": "50965",
-    "status": "COVERED",
-    "pu_date": "2026-10-14",
-    "pu_city": "CHEHALIS",
-    "pu_state": "WA",
-    "pu_hours": "0600-1530",
-    "del_date": "2026-10-16",
-    "del_city": "WEST VALLEY CITY",
-    "del_state": "UT",
-    "del_hours": "0800-0900",
-    "equipment": "Van",
-    "weight_lbs": 44000,
-    "carrier_rate": 4000,
-    "updated_at": "2026-10-14T14:28:17.471210+00:00",
-    "lane": "CHEHALIS WA-WEST VALLEY CITY UT"
   }
 ]
