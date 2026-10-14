@@ -30,8 +30,8 @@
     "del_hours": "CALL!!",
     "equipment": "Van",
     "weight_lbs": 8000,
-    "carrier_rate": null,
-    "updated_at": "2026-10-13T19:02:09.681352+00:00",
+    "carrier_rate": 4200,
+    "updated_at": "2026-10-14T12:24:02.156428+00:00",
     "lane": "BELCAMP MD-EL PASO TX"
   },
   {
@@ -762,7 +762,7 @@
     "equipment": "Van",
     "weight_lbs": 44000,
     "carrier_rate": 1000,
-    "updated_at": "2026-10-14T12:19:51.222856+00:00",
+    "updated_at": "2026-10-14T12:20:28.426996+00:00",
     "lane": "SAVANNAH GA-COLUMBUS GA"
   },
   {
@@ -779,7 +779,7 @@
     "equipment": "Van",
     "weight_lbs": 44000,
     "carrier_rate": 1000,
-    "updated_at": "2026-10-14T12:03:27.464759+00:00",
+    "updated_at": "2026-10-14T12:21:38.738479+00:00",
     "lane": "SAVANNAH GA-COLUMBUS GA"
   }
 ]
