@@ -1,5 +1,22 @@
 [
   {
+    "pro": "50966",
+    "status": "OPEN",
+    "pu_date": "2026-10-14",
+    "pu_city": "SAVANNAH",
+    "pu_state": "GA",
+    "pu_hours": "",
+    "del_date": "",
+    "del_city": "SAVANNAH",
+    "del_state": "GA",
+    "del_hours": "300004731",
+    "equipment": "Flatbed w/ Tarps",
+    "weight_lbs": null,
+    "carrier_rate": null,
+    "updated_at": "2026-10-14T14:29:48.667971+00:00",
+    "lane": "SAVANNAH GA-SAVANNAH GA"
+  },
+  {
     "pro": "8890430",
     "status": "OPEN",
     "spot": true,
@@ -32,7 +49,7 @@
     "equipment": "Van",
     "weight_lbs": 44000,
     "carrier_rate": 3300,
-    "updated_at": "2026-10-14T12:38:43.395243+00:00",
+    "updated_at": "2026-10-14T14:27:16.025542+00:00",
     "lane": "PORT ANGELES WA-FULLERTON CA"
   },
   {
@@ -50,7 +67,7 @@
     "equipment": "Van",
     "weight_lbs": 44000,
     "carrier_rate": 3300,
-    "updated_at": "2026-10-14T12:38:38.597611+00:00",
+    "updated_at": "2026-10-14T14:26:25.975918+00:00",
     "lane": "PORT ANGELES WA-GARDENA CA"
   },
   {
@@ -68,7 +85,7 @@
     "equipment": "Van",
     "weight_lbs": 44000,
     "carrier_rate": 3700,
-    "updated_at": "2026-10-14T12:44:17.269431+00:00",
+    "updated_at": "2026-10-14T14:26:17.250943+00:00",
     "lane": "PORT ANGELES WA-SALT LAKE CITY UT"
   },
   {
@@ -139,6 +156,23 @@
     "carrier_rate": 900,
     "updated_at": "2026-10-13T14:44:59.799703+00:00",
     "lane": "WADESBORO NC-ATLANTA GA"
+  },
+  {
+    "pro": "50967",
+    "status": "OPEN",
+    "pu_date": "2026-10-15",
+    "pu_city": "CHEHALIS",
+    "pu_state": "WA",
+    "pu_hours": "0600-1530",
+    "del_date": "2026-10-19",
+    "del_city": "WEST VALLEY CITY",
+    "del_state": "UT",
+    "del_hours": "0800-0900",
+    "equipment": "Van",
+    "weight_lbs": 44000,
+    "carrier_rate": null,
+    "updated_at": "2026-10-14T14:29:56.955906+00:00",
+    "lane": "CHEHALIS WA-WEST VALLEY CITY UT"
   },
   {
     "pro": "50936",
@@ -464,6 +498,23 @@
     "lane": "LA PORTE TX-GREENVILLE SC"
   },
   {
+    "pro": "50768",
+    "status": "RELEASED",
+    "pu_date": "2026-10-01",
+    "pu_city": "SAVANNAH",
+    "pu_state": "GA",
+    "pu_hours": "0800-1600",
+    "del_date": "2026-10-05",
+    "del_city": "SAVANNAH",
+    "del_state": "GA",
+    "del_hours": "",
+    "equipment": "Flatbed w/ Tarps",
+    "weight_lbs": 28000,
+    "carrier_rate": 2900,
+    "updated_at": "2026-10-07T20:26:59.453343+00:00",
+    "lane": "SAVANNAH GA-SAVANNAH GA"
+  },
+  {
     "pro": "49852",
     "status": "RELEASED",
     "pu_date": "2026-10-06",
@@ -751,5 +802,22 @@
     "carrier_rate": 900,
     "updated_at": "2026-10-14T13:18:50.721660+00:00",
     "lane": "WADESBORO NC-ATLANTA GA"
+  },
+  {
+    "pro": "50965",
+    "status": "COVERED",
+    "pu_date": "2026-10-14",
+    "pu_city": "CHEHALIS",
+    "pu_state": "WA",
+    "pu_hours": "0600-1530",
+    "del_date": "2026-10-16",
+    "del_city": "WEST VALLEY CITY",
+    "del_state": "UT",
+    "del_hours": "0800-0900",
+    "equipment": "Van",
+    "weight_lbs": 44000,
+    "carrier_rate": 4000,
+    "updated_at": "2026-10-14T14:28:17.471210+00:00",
+    "lane": "CHEHALIS WA-WEST VALLEY CITY UT"
   }
 ]
