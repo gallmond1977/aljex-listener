@@ -652,7 +652,7 @@
   },
   {
     "pro": "50810",
-    "status": "DELIVERED",
+    "status": "RELEASED",
     "pu_date": "2026-10-08",
     "pu_city": "HOUSTON",
     "pu_state": "TX",
@@ -664,7 +664,7 @@
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 7000,
     "carrier_rate": 2400,
-    "updated_at": "2026-10-09T13:09:25.443489+00:00",
+    "updated_at": "2026-10-14T19:10:39.427221+00:00",
     "lane": "HOUSTON TX-SANFORD FL"
   },
   {
