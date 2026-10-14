@@ -52,24 +52,6 @@
     "lane": "CLINCHFIELD GA-FAIRBURN GA"
   },
   {
-    "pro": "8890431",
-    "status": "OPEN",
-    "spot": true,
-    "pu_date": "2026-10-14",
-    "pu_city": "PORT ANGELES",
-    "pu_state": "WA",
-    "pu_hours": "",
-    "del_date": "2026-10-17",
-    "del_city": "FULLERTON",
-    "del_state": "CA",
-    "del_hours": "",
-    "equipment": "Van",
-    "weight_lbs": 44000,
-    "carrier_rate": 3300,
-    "updated_at": "2026-10-14T14:27:16.025542+00:00",
-    "lane": "PORT ANGELES WA-FULLERTON CA"
-  },
-  {
     "pro": "8890432",
     "status": "OPEN",
     "spot": true,
@@ -243,23 +225,6 @@
     "lane": "BENSENVILLE IL-BELCAMP MD"
   },
   {
-    "pro": "50969",
-    "status": "OPEN",
-    "pu_date": "2026-10-19",
-    "pu_city": "WINCHESTER",
-    "pu_state": "KY",
-    "pu_hours": "0800-1400",
-    "del_date": "",
-    "del_city": "HUNTSVILLE",
-    "del_state": "ON",
-    "del_hours": "0930-1500",
-    "equipment": "Van",
-    "weight_lbs": 972,
-    "carrier_rate": 1500,
-    "updated_at": "2026-10-14T14:35:10.024956+00:00",
-    "lane": "WINCHESTER KY-HUNTSVILLE ON"
-  },
-  {
     "pro": "50800",
     "status": "OPEN",
     "pu_date": "2026-10-20",
@@ -360,6 +325,23 @@
     "carrier_rate": null,
     "updated_at": "2026-10-14T12:30:50.119811+00:00",
     "lane": "ENTERPRISE AL-SALISBURY NC"
+  },
+  {
+    "pro": "50969",
+    "status": "OPEN",
+    "pu_date": "2026-10-21",
+    "pu_city": "WINCHESTER",
+    "pu_state": "KY",
+    "pu_hours": "0800-1400",
+    "del_date": "2026-10-23",
+    "del_city": "HUNTSVILLE",
+    "del_state": "ON",
+    "del_hours": "0930-1500",
+    "equipment": "Van",
+    "weight_lbs": 972,
+    "carrier_rate": 1500,
+    "updated_at": "2026-10-14T14:40:05.254374+00:00",
+    "lane": "WINCHESTER KY-HUNTSVILLE ON"
   },
   {
     "pro": "50592",
@@ -567,7 +549,7 @@
   },
   {
     "pro": "50794",
-    "status": "DELIVERED",
+    "status": "RELEASED",
     "pu_date": "2026-10-06",
     "pu_city": "WADESBORO",
     "pu_state": "NC",
@@ -579,7 +561,7 @@
     "equipment": "Van",
     "weight_lbs": 44000,
     "carrier_rate": 900,
-    "updated_at": "2026-10-14T14:33:32.741121+00:00",
+    "updated_at": "2026-10-14T14:39:42.028909+00:00",
     "lane": "WADESBORO NC-ATLANTA GA"
   },
   {
