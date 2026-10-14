@@ -141,23 +141,6 @@
     "lane": "WADESBORO NC-ATLANTA GA"
   },
   {
-    "pro": "50963",
-    "status": "OPEN",
-    "pu_date": "2026-10-15",
-    "pu_city": "VILLA RICA",
-    "pu_state": "GA",
-    "pu_hours": "0800-1500",
-    "del_date": "2026-10-16",
-    "del_city": "STEVENS",
-    "del_state": "PA",
-    "del_hours": "0700-1300",
-    "equipment": "Van",
-    "weight_lbs": 43900,
-    "carrier_rate": 2200,
-    "updated_at": "2026-10-14T11:59:01.343562+00:00",
-    "lane": "VILLA RICA GA-STEVENS PA"
-  },
-  {
     "pro": "50936",
     "status": "OPEN",
     "pu_date": "2026-10-16",
