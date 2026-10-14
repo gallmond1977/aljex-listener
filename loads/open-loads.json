@@ -11,9 +11,9 @@
     "del_state": "GA",
     "del_hours": "",
     "equipment": "Flatbed w/ Tarps",
-    "weight_lbs": 28000,
-    "carrier_rate": 2400,
-    "updated_at": "2026-10-14T14:33:37.396810+00:00",
+    "weight_lbs": 45000,
+    "carrier_rate": 2200,
+    "updated_at": "2026-10-14T14:44:38.079429+00:00",
     "lane": "SAVANNAH GA-SAVANNAH GA"
   },
   {
@@ -334,14 +334,14 @@
     "pu_state": "KY",
     "pu_hours": "0800-1400",
     "del_date": "2026-10-23",
-    "del_city": "HUNTSVILLE",
+    "del_city": "BARRIE",
     "del_state": "ON",
-    "del_hours": "0930-1500",
+    "del_hours": "",
     "equipment": "Van",
-    "weight_lbs": 972,
+    "weight_lbs": 5000,
     "carrier_rate": 1500,
-    "updated_at": "2026-10-14T14:40:05.254374+00:00",
-    "lane": "WINCHESTER KY-HUNTSVILLE ON"
+    "updated_at": "2026-10-14T14:44:28.782837+00:00",
+    "lane": "WINCHESTER KY-BARRIE ON"
   },
   {
     "pro": "50592",
@@ -515,7 +515,7 @@
   },
   {
     "pro": "50801",
-    "status": "DELIVERED",
+    "status": "RELEASED",
     "pu_date": "2026-10-05",
     "pu_city": "BENSENVILLE",
     "pu_state": "IL",
@@ -527,7 +527,7 @@
     "equipment": "Van",
     "weight_lbs": 42000,
     "carrier_rate": 2800,
-    "updated_at": "2026-10-14T14:31:37.954062+00:00",
+    "updated_at": "2026-10-14T14:42:55.676191+00:00",
     "lane": "BENSENVILLE IL-BELCAMP MD"
   },
   {
@@ -562,6 +562,23 @@
     "weight_lbs": 44000,
     "carrier_rate": 900,
     "updated_at": "2026-10-14T14:39:42.028909+00:00",
+    "lane": "WADESBORO NC-ATLANTA GA"
+  },
+  {
+    "pro": "50795",
+    "status": "DELIVERED",
+    "pu_date": "2026-10-06",
+    "pu_city": "WADESBORO",
+    "pu_state": "NC",
+    "pu_hours": "0730-1630",
+    "del_date": "2026-10-07",
+    "del_city": "ATLANTA",
+    "del_state": "GA",
+    "del_hours": "0800-1600",
+    "equipment": "Van",
+    "weight_lbs": 44000,
+    "carrier_rate": 900,
+    "updated_at": "2026-10-14T14:44:07.585853+00:00",
     "lane": "WADESBORO NC-ATLANTA GA"
   },
   {
