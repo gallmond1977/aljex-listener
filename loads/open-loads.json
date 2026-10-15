@@ -174,8 +174,8 @@
     "del_hours": "0800-1600",
     "equipment": "Van",
     "weight_lbs": 44000,
-    "carrier_rate": null,
-    "updated_at": "2026-10-15T18:19:41.231142+00:00",
+    "carrier_rate": 800,
+    "updated_at": "2026-10-15T18:21:26.914122+00:00",
     "lane": "WADESBORO NC-ATLANTA GA"
   },
   {
@@ -191,8 +191,8 @@
     "del_hours": "0800-1600",
     "equipment": "Van",
     "weight_lbs": 44000,
-    "carrier_rate": null,
-    "updated_at": "2026-10-15T18:18:04.441204+00:00",
+    "carrier_rate": 800,
+    "updated_at": "2026-10-15T18:21:20.250624+00:00",
     "lane": "WADESBORO NC-ATLANTA GA"
   },
   {
@@ -208,8 +208,8 @@
     "del_hours": "0800-1600",
     "equipment": "Van",
     "weight_lbs": 44000,
-    "carrier_rate": null,
-    "updated_at": "2026-10-15T18:18:23.927412+00:00",
+    "carrier_rate": 800,
+    "updated_at": "2026-10-15T18:20:57.673284+00:00",
     "lane": "WADESBORO NC-ATLANTA GA"
   },
   {
