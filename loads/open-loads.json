@@ -77,15 +77,15 @@
     "pu_date": "2026-10-15",
     "pu_city": "ROCK HILL",
     "pu_state": "SC",
-    "pu_hours": "0800-1400",
+    "pu_hours": "0800-1500",
     "del_date": "2026-10-16",
     "del_city": "CARY",
     "del_state": "NC",
-    "del_hours": "0800-1400",
+    "del_hours": "0700-1600",
     "equipment": "Sprinter Van",
     "weight_lbs": 550,
     "carrier_rate": 350,
-    "updated_at": "2026-10-15T15:33:32.419255+00:00",
+    "updated_at": "2026-10-15T15:39:33.923461+00:00",
     "lane": "ROCK HILL SC-CARY NC"
   },
   {
