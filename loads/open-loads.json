@@ -196,23 +196,6 @@
     "lane": "WADESBORO NC-ATLANTA GA"
   },
   {
-    "pro": "50990",
-    "status": "OPEN",
-    "pu_date": "2026-10-16",
-    "pu_city": "POMPANO BEACH",
-    "pu_state": "FL",
-    "pu_hours": "1100-1400",
-    "del_date": "2026-10-19",
-    "del_city": "WINSTON SALEM",
-    "del_state": "NC",
-    "del_hours": "0800-1000",
-    "equipment": "Van",
-    "weight_lbs": 11000,
-    "carrier_rate": 900,
-    "updated_at": "2026-10-15T16:09:31.154043+00:00",
-    "lane": "POMPANO BEACH FL-WINSTON SALEM NC"
-  },
-  {
     "pro": "50984",
     "status": "OPEN",
     "pu_date": "2026-10-17",
@@ -361,8 +344,8 @@
     "del_hours": "CALL!",
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 5890,
-    "carrier_rate": null,
-    "updated_at": "2026-10-15T17:20:08.622062+00:00",
+    "carrier_rate": 450,
+    "updated_at": "2026-10-15T17:21:08.852656+00:00",
     "lane": "ORLANDO FL-MIAMI FL"
   },
   {
