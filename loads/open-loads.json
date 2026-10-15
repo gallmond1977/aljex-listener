@@ -281,6 +281,23 @@
     "lane": "WINCHESTER KY-MIDLOTHIAN TX"
   },
   {
+    "pro": "50992",
+    "status": "OPEN",
+    "pu_date": "2026-10-19",
+    "pu_city": "WAYCROSS",
+    "pu_state": "GA",
+    "pu_hours": "0800-1500",
+    "del_date": "",
+    "del_city": "NEWNAN",
+    "del_state": "GA",
+    "del_hours": "0800-1600",
+    "equipment": "Flatbed Hot Shot",
+    "weight_lbs": 10800,
+    "carrier_rate": 700,
+    "updated_at": "2026-10-15T16:40:09.577871+00:00",
+    "lane": "WAYCROSS GA-NEWNAN GA"
+  },
+  {
     "pro": "50800",
     "status": "OPEN",
     "pu_date": "2026-10-20",
