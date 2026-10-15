@@ -213,23 +213,6 @@
     "lane": "POMPANO BEACH FL-WINSTON SALEM NC"
   },
   {
-    "pro": "50994",
-    "status": "OPEN",
-    "pu_date": "2026-10-16",
-    "pu_city": "RALEIGH",
-    "pu_state": "NC",
-    "pu_hours": "0800",
-    "del_date": "2026-10-16",
-    "del_city": "ROANOKE",
-    "del_state": "VA",
-    "del_hours": "0800-1500",
-    "equipment": "Van",
-    "weight_lbs": 8083,
-    "carrier_rate": 900,
-    "updated_at": "2026-10-15T17:07:46.346521+00:00",
-    "lane": "RALEIGH NC-ROANOKE VA"
-  },
-  {
     "pro": "50984",
     "status": "OPEN",
     "pu_date": "2026-10-17",
@@ -315,23 +298,6 @@
     "lane": "WAYCROSS GA-NEWNAN GA"
   },
   {
-    "pro": "50800",
-    "status": "OPEN",
-    "pu_date": "2026-10-20",
-    "pu_city": "ENTERPRISE",
-    "pu_state": "AL",
-    "pu_hours": "0800-1400",
-    "del_date": "2026-10-21",
-    "del_city": "SALISBURY",
-    "del_state": "NC",
-    "del_hours": "0800",
-    "equipment": "Van",
-    "weight_lbs": 43131,
-    "carrier_rate": null,
-    "updated_at": "2026-10-02T18:17:42.027383+00:00",
-    "lane": "ENTERPRISE AL-SALISBURY NC"
-  },
-  {
     "pro": "50961",
     "status": "OPEN",
     "pu_date": "2026-10-20",
@@ -381,6 +347,23 @@
     "carrier_rate": null,
     "updated_at": "2026-10-15T15:07:56.318224+00:00",
     "lane": "WINCHESTER KY-PHENIX CITY AL"
+  },
+  {
+    "pro": "50995",
+    "status": "OPEN",
+    "pu_date": "2026-10-20",
+    "pu_city": "ORLANDO",
+    "pu_state": "FL",
+    "pu_hours": "CALL!",
+    "del_date": "",
+    "del_city": "MIAMI",
+    "del_state": "FL",
+    "del_hours": "CALL!",
+    "equipment": "26' Straight Box Truck",
+    "weight_lbs": 5890,
+    "carrier_rate": null,
+    "updated_at": "2026-10-15T17:20:08.622062+00:00",
+    "lane": "ORLANDO FL-MIAMI FL"
   },
   {
     "pro": "49857",
@@ -942,6 +925,23 @@
     "carrier_rate": 5000,
     "updated_at": "2026-10-15T17:11:26.746450+00:00",
     "lane": "ALPHARETTA GA-AMARILLO TX"
+  },
+  {
+    "pro": "50800",
+    "status": "COVERED",
+    "pu_date": "2026-10-20",
+    "pu_city": "ENTERPRISE",
+    "pu_state": "AL",
+    "pu_hours": "0800-1400",
+    "del_date": "2026-10-21",
+    "del_city": "SALISBURY",
+    "del_state": "NC",
+    "del_hours": "0800",
+    "equipment": "Van",
+    "weight_lbs": 43131,
+    "carrier_rate": 1600,
+    "updated_at": "2026-10-15T17:18:22.411425+00:00",
+    "lane": "ENTERPRISE AL-SALISBURY NC"
   },
   {
     "pro": "50956",
