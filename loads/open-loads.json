@@ -72,6 +72,23 @@
     "lane": "WILMINGTON NC-WILMINGTON NC"
   },
   {
+    "pro": "50980",
+    "status": "OPEN",
+    "pu_date": "2026-10-15",
+    "pu_city": "WINCHESTER",
+    "pu_state": "KY",
+    "pu_hours": "0800-1030",
+    "del_date": "2026-10-15",
+    "del_city": "JOLIET",
+    "del_state": "IL",
+    "del_hours": "AD REQD",
+    "equipment": "Van",
+    "weight_lbs": 14580,
+    "carrier_rate": 1000,
+    "updated_at": "2026-10-15T12:30:34.696476+00:00",
+    "lane": "WINCHESTER KY-JOLIET IL"
+  },
+  {
     "pro": "8890434",
     "status": "OPEN",
     "spot": true,
@@ -464,6 +481,40 @@
     "lane": "LA PORTE TX-GREENVILLE SC"
   },
   {
+    "pro": "50720",
+    "status": "RELEASED",
+    "pu_date": "2026-09-30",
+    "pu_city": "WINCHESTER",
+    "pu_state": "KY",
+    "pu_hours": "0800-1200",
+    "del_date": "2026-09-30",
+    "del_city": "JOLIET",
+    "del_state": "IL",
+    "del_hours": "1930",
+    "equipment": "Van",
+    "weight_lbs": 14734,
+    "carrier_rate": 1200,
+    "updated_at": "2026-10-14T18:14:41.222549+00:00",
+    "lane": "WINCHESTER KY-JOLIET IL"
+  },
+  {
+    "pro": "50722",
+    "status": "RELEASED",
+    "pu_date": "2026-09-30",
+    "pu_city": "WINCHESTER",
+    "pu_state": "KY",
+    "pu_hours": "0800-1300",
+    "del_date": "2026-09-30",
+    "del_city": "JOLIET",
+    "del_state": "IL",
+    "del_hours": "2000",
+    "equipment": "Van",
+    "weight_lbs": 12480,
+    "carrier_rate": 1200,
+    "updated_at": "2026-10-09T15:32:53.549308+00:00",
+    "lane": "WINCHESTER KY-JOLIET IL"
+  },
+  {
     "pro": "50801",
     "status": "RELEASED",
     "pu_date": "2026-10-05",
@@ -600,6 +651,40 @@
     "lane": "WADESBORO NC-ATLANTA GA"
   },
   {
+    "pro": "50796",
+    "status": "RELEASED",
+    "pu_date": "2026-10-09",
+    "pu_city": "WINCHESTER",
+    "pu_state": "KY",
+    "pu_hours": "0800-1200",
+    "del_date": "2026-10-10",
+    "del_city": "JOLIET",
+    "del_state": "IL",
+    "del_hours": "2030",
+    "equipment": "Van",
+    "weight_lbs": 14580,
+    "carrier_rate": 1100,
+    "updated_at": "2026-10-12T11:40:09.888745+00:00",
+    "lane": "WINCHESTER KY-JOLIET IL"
+  },
+  {
+    "pro": "50797",
+    "status": "RELEASED",
+    "pu_date": "2026-10-09",
+    "pu_city": "WINCHESTER",
+    "pu_state": "KY",
+    "pu_hours": "0800-1200",
+    "del_date": "2026-10-09",
+    "del_city": "JOLIET",
+    "del_state": "IL",
+    "del_hours": "2030",
+    "equipment": "Van",
+    "weight_lbs": 12480,
+    "carrier_rate": 1100,
+    "updated_at": "2026-10-12T11:38:15.251070+00:00",
+    "lane": "WINCHESTER KY-JOLIET IL"
+  },
+  {
     "pro": "50894",
     "status": "RELEASED",
     "pu_date": "2026-10-09",
@@ -615,6 +700,23 @@
     "carrier_rate": 850,
     "updated_at": "2026-10-14T19:47:14.096484+00:00",
     "lane": "WADESBORO NC-ATLANTA GA"
+  },
+  {
+    "pro": "50916",
+    "status": "RELEASED",
+    "pu_date": "2026-10-09",
+    "pu_city": "WINCHESTER",
+    "pu_state": "KY",
+    "pu_hours": "1100-1500",
+    "del_date": "2026-10-10",
+    "del_city": "JOLIET",
+    "del_state": "IL",
+    "del_hours": "0930",
+    "equipment": "Van",
+    "weight_lbs": 14580,
+    "carrier_rate": 1000,
+    "updated_at": "2026-10-14T19:42:04.388496+00:00",
+    "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
     "pro": "49856",
@@ -683,6 +785,23 @@
     "carrier_rate": 2000,
     "updated_at": "2026-10-13T14:50:47.112660+00:00",
     "lane": "GRAND PRAIRIE TX-COLUMBUS GA"
+  },
+  {
+    "pro": "50917",
+    "status": "RELEASED",
+    "pu_date": "2026-10-12",
+    "pu_city": "WINCHESTER",
+    "pu_state": "KY",
+    "pu_hours": "0800-1030",
+    "del_date": "2026-10-12",
+    "del_city": "JOLIET",
+    "del_state": "IL",
+    "del_hours": "2100",
+    "equipment": "Van",
+    "weight_lbs": 14580,
+    "carrier_rate": 1200,
+    "updated_at": "2026-10-13T14:33:38.592889+00:00",
+    "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
     "pro": "50925",
@@ -771,7 +890,7 @@
   },
   {
     "pro": "50929",
-    "status": "COVERED",
+    "status": "PICKUP",
     "pu_date": "2026-10-15",
     "pu_city": "WADESBORO",
     "pu_state": "NC",
@@ -783,7 +902,7 @@
     "equipment": "Van",
     "weight_lbs": 44000,
     "carrier_rate": 900,
-    "updated_at": "2026-10-15T12:24:54.589524+00:00",
+    "updated_at": "2026-10-15T12:34:33.051674+00:00",
     "lane": "WADESBORO NC-ATLANTA GA"
   },
   {
@@ -802,5 +921,22 @@
     "carrier_rate": 5000,
     "updated_at": "2026-10-14T17:19:56.932406+00:00",
     "lane": "ALPHARETTA GA-AMARILLO TX"
+  },
+  {
+    "pro": "50976",
+    "status": "DISPATCHED",
+    "pu_date": "2026-10-15",
+    "pu_city": "WINCHESTER",
+    "pu_state": "KY",
+    "pu_hours": "0800-1030",
+    "del_date": "2026-10-15",
+    "del_city": "JOLIET",
+    "del_state": "IL",
+    "del_hours": "2130",
+    "equipment": "Van",
+    "weight_lbs": 14580,
+    "carrier_rate": 1000,
+    "updated_at": "2026-10-15T12:33:55.190797+00:00",
+    "lane": "WINCHESTER KY-JOLIET IL"
   }
 ]
