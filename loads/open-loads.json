@@ -188,8 +188,8 @@
     "del_hours": "",
     "equipment": "Sprinter Van",
     "weight_lbs": 300,
-    "carrier_rate": null,
-    "updated_at": "2026-10-15T13:23:21.444295+00:00",
+    "carrier_rate": 1000,
+    "updated_at": "2026-10-15T13:42:51.831351+00:00",
     "lane": "ROGERS AR-WINCHESTER KY"
   },
   {
