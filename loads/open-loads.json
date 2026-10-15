@@ -72,23 +72,6 @@
     "lane": "WILMINGTON NC-WILMINGTON NC"
   },
   {
-    "pro": "50985",
-    "status": "OPEN",
-    "pu_date": "2026-10-15",
-    "pu_city": "NASHVILLE",
-    "pu_state": "TN",
-    "pu_hours": "1100-1300",
-    "del_date": "2026-10-16",
-    "del_city": "NESBIT",
-    "del_state": "MS",
-    "del_hours": "",
-    "equipment": "Flatbed Hot Shot",
-    "weight_lbs": 12500,
-    "carrier_rate": 1050,
-    "updated_at": "2026-10-15T14:43:30.334673+00:00",
-    "lane": "NASHVILLE TN-NESBIT MS"
-  },
-  {
     "pro": "8890434",
     "status": "OPEN",
     "spot": true,
