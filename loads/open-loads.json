@@ -72,23 +72,6 @@
     "lane": "WILMINGTON NC-WILMINGTON NC"
   },
   {
-    "pro": "50991",
-    "status": "OPEN",
-    "pu_date": "2026-10-15",
-    "pu_city": "ATLANTA",
-    "pu_state": "GA",
-    "pu_hours": "0800-1500",
-    "del_date": "2026-10-15",
-    "del_city": "AUBURN",
-    "del_state": "AL",
-    "del_hours": "0800-1700",
-    "equipment": "Flatbed Hot Shot",
-    "weight_lbs": 5000,
-    "carrier_rate": 500,
-    "updated_at": "2026-10-15T16:02:47.011412+00:00",
-    "lane": "ATLANTA GA-AUBURN AL"
-  },
-  {
     "pro": "8890434",
     "status": "OPEN",
     "spot": true,
@@ -157,7 +140,7 @@
     "equipment": "Flatbed",
     "weight_lbs": 47000,
     "carrier_rate": 3000,
-    "updated_at": "2026-10-15T16:05:04.825951+00:00",
+    "updated_at": "2026-10-15T16:09:42.577643+00:00",
     "lane": "FERDINAND IN-OMAHA NE"
   },
   {
@@ -208,7 +191,7 @@
     "equipment": "Van",
     "weight_lbs": 11000,
     "carrier_rate": 900,
-    "updated_at": "2026-10-15T15:57:38.797971+00:00",
+    "updated_at": "2026-10-15T16:09:31.154043+00:00",
     "lane": "POMPANO BEACH FL-WINSTON SALEM NC"
   },
   {
