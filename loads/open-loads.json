@@ -72,23 +72,6 @@
     "lane": "WILMINGTON NC-WILMINGTON NC"
   },
   {
-    "pro": "50964",
-    "status": "OPEN",
-    "pu_date": "2026-10-15",
-    "pu_city": "OPELIKA",
-    "pu_state": "AL",
-    "pu_hours": "1300-1400",
-    "del_date": "2026-10-15",
-    "del_city": "COLUMBIA",
-    "del_state": "AL",
-    "del_hours": "0530-1900",
-    "equipment": "Flatbed",
-    "weight_lbs": 47000,
-    "carrier_rate": 1000,
-    "updated_at": "2026-10-15T17:30:23.473176+00:00",
-    "lane": "OPELIKA AL-COLUMBIA AL"
-  },
-  {
     "pro": "8890434",
     "status": "OPEN",
     "spot": true,
@@ -194,6 +177,23 @@
     "carrier_rate": 900,
     "updated_at": "2026-10-15T15:56:03.311033+00:00",
     "lane": "WADESBORO NC-ATLANTA GA"
+  },
+  {
+    "pro": "50964",
+    "status": "OPEN",
+    "pu_date": "2026-10-16",
+    "pu_city": "OPELIKA",
+    "pu_state": "AL",
+    "pu_hours": "1300-1400",
+    "del_date": "2026-10-16",
+    "del_city": "COLUMBIA",
+    "del_state": "AL",
+    "del_hours": "0530-1900",
+    "equipment": "Flatbed",
+    "weight_lbs": 47000,
+    "carrier_rate": 1000,
+    "updated_at": "2026-10-15T17:39:00.223995+00:00",
+    "lane": "OPELIKA AL-COLUMBIA AL"
   },
   {
     "pro": "50984",
