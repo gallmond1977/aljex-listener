@@ -83,9 +83,9 @@
     "del_state": "MS",
     "del_hours": "",
     "equipment": "Flatbed Hot Shot",
-    "weight_lbs": 12800,
-    "carrier_rate": 1000,
-    "updated_at": "2026-10-15T14:32:02.712526+00:00",
+    "weight_lbs": 12500,
+    "carrier_rate": 1050,
+    "updated_at": "2026-10-15T14:39:49.009874+00:00",
     "lane": "NASHVILLE TN-NESBIT MS"
   },
   {
@@ -789,7 +789,7 @@
   },
   {
     "pro": "50929",
-    "status": "PICKUP",
+    "status": "LOADED",
     "pu_date": "2026-10-15",
     "pu_city": "WADESBORO",
     "pu_state": "NC",
@@ -801,7 +801,7 @@
     "equipment": "Van",
     "weight_lbs": 44000,
     "carrier_rate": 900,
-    "updated_at": "2026-10-15T12:36:28.465617+00:00",
+    "updated_at": "2026-10-15T14:37:25.596398+00:00",
     "lane": "WADESBORO NC-ATLANTA GA"
   },
   {
@@ -818,7 +818,7 @@
     "equipment": "Conestoga",
     "weight_lbs": 42000,
     "carrier_rate": 5000,
-    "updated_at": "2026-10-15T13:58:36.336030+00:00",
+    "updated_at": "2026-10-15T14:39:50.746731+00:00",
     "lane": "ALPHARETTA GA-AMARILLO TX"
   }
 ]
