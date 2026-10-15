@@ -72,23 +72,6 @@
     "lane": "WILMINGTON NC-WILMINGTON NC"
   },
   {
-    "pro": "50989",
-    "status": "OPEN",
-    "pu_date": "2026-10-15",
-    "pu_city": "ROCK HILL",
-    "pu_state": "SC",
-    "pu_hours": "0800-1500",
-    "del_date": "2026-10-16",
-    "del_city": "CARY",
-    "del_state": "NC",
-    "del_hours": "0700-1600",
-    "equipment": "Sprinter Van",
-    "weight_lbs": 550,
-    "carrier_rate": 350,
-    "updated_at": "2026-10-15T16:26:49.675387+00:00",
-    "lane": "ROCK HILL SC-CARY NC"
-  },
-  {
     "pro": "8890434",
     "status": "OPEN",
     "spot": true,
@@ -706,23 +689,6 @@
     "lane": "ALPHARETTA GA-AMARILLO TX"
   },
   {
-    "pro": "50871",
-    "status": "RELEASED",
-    "pu_date": "2026-10-08",
-    "pu_city": "ROCK HILL",
-    "pu_state": "SC",
-    "pu_hours": "0800-1430",
-    "del_date": "2026-10-09",
-    "del_city": "CARY",
-    "del_state": "NC",
-    "del_hours": "0800-1400",
-    "equipment": "26' Straight Box Truck",
-    "weight_lbs": 10290,
-    "carrier_rate": 450,
-    "updated_at": "2026-10-14T19:24:00.130291+00:00",
-    "lane": "ROCK HILL SC-CARY NC"
-  },
-  {
     "pro": "50893",
     "status": "RELEASED",
     "pu_date": "2026-10-08",
@@ -923,7 +889,7 @@
     "equipment": "Conestoga",
     "weight_lbs": 42000,
     "carrier_rate": 5000,
-    "updated_at": "2026-10-15T16:29:22.531691+00:00",
+    "updated_at": "2026-10-15T16:59:26.072448+00:00",
     "lane": "ALPHARETTA GA-AMARILLO TX"
   },
   {
