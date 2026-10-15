@@ -722,7 +722,7 @@
   },
   {
     "pro": "50902",
-    "status": "DELIVERED",
+    "status": "RELEASED",
     "pu_date": "2026-10-12",
     "pu_city": "GRAND PRAIRIE",
     "pu_state": "TX",
@@ -734,7 +734,7 @@
     "equipment": "Van",
     "weight_lbs": 43000,
     "carrier_rate": 2000,
-    "updated_at": "2026-10-13T14:50:47.112660+00:00",
+    "updated_at": "2026-10-15T15:27:26.412821+00:00",
     "lane": "GRAND PRAIRIE TX-COLUMBUS GA"
   },
   {
