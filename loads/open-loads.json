@@ -126,6 +126,23 @@
     "lane": "PORT ANGELES WA-LITTLE ROCK AR"
   },
   {
+    "pro": "51000",
+    "status": "OPEN",
+    "pu_date": "2026-10-16",
+    "pu_city": "FERDINAND",
+    "pu_state": "IN",
+    "pu_hours": "0700-1100",
+    "del_date": "2026-10-19",
+    "del_city": "OMAHA",
+    "del_state": "NE",
+    "del_hours": "",
+    "equipment": "Flatbed w/ Tarps",
+    "weight_lbs": 47500,
+    "carrier_rate": 3300,
+    "updated_at": "2026-10-15T20:13:50.121632+00:00",
+    "lane": "FERDINAND IN-OMAHA NE"
+  },
+  {
     "pro": "8890441",
     "status": "OPEN",
     "spot": true,
