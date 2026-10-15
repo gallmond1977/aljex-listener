@@ -177,6 +177,23 @@
     "lane": "WADESBORO NC-ATLANTA GA"
   },
   {
+    "pro": "50990",
+    "status": "OPEN",
+    "pu_date": "2026-10-16",
+    "pu_city": "POMPANO BEACH",
+    "pu_state": "FL",
+    "pu_hours": "1100-1400",
+    "del_date": "2026-10-19",
+    "del_city": "WINSTON SALEM",
+    "del_state": "NC",
+    "del_hours": "",
+    "equipment": "Van",
+    "weight_lbs": 11000,
+    "carrier_rate": null,
+    "updated_at": "2026-10-15T15:52:54.030050+00:00",
+    "lane": "POMPANO BEACH FL-WINSTON SALEM NC"
+  },
+  {
     "pro": "50984",
     "status": "OPEN",
     "pu_date": "2026-10-17",
