@@ -89,6 +89,23 @@
     "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
+    "pro": "50981",
+    "status": "OPEN",
+    "pu_date": "2026-10-15",
+    "pu_city": "WINCHESTER",
+    "pu_state": "KY",
+    "pu_hours": "0800-1030",
+    "del_date": "2026-10-15",
+    "del_city": "JOLIET",
+    "del_state": "IL",
+    "del_hours": "ADREQD",
+    "equipment": "Van",
+    "weight_lbs": 14580,
+    "carrier_rate": 1000,
+    "updated_at": "2026-10-15T12:40:05.560739+00:00",
+    "lane": "WINCHESTER KY-JOLIET IL"
+  },
+  {
     "pro": "8890434",
     "status": "OPEN",
     "spot": true,
@@ -868,7 +885,7 @@
     "equipment": "Flatbed w/ Tarps",
     "weight_lbs": 42000,
     "carrier_rate": 5800,
-    "updated_at": "2026-10-14T11:46:07.028683+00:00",
+    "updated_at": "2026-10-15T12:38:31.881684+00:00",
     "lane": "ALPHARETTA GA-AMARILLO TX"
   },
   {
@@ -902,7 +919,7 @@
     "equipment": "Van",
     "weight_lbs": 44000,
     "carrier_rate": 900,
-    "updated_at": "2026-10-15T12:34:33.051674+00:00",
+    "updated_at": "2026-10-15T12:36:28.465617+00:00",
     "lane": "WADESBORO NC-ATLANTA GA"
   },
   {
