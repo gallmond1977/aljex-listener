@@ -294,7 +294,7 @@
     "equipment": "Flatbed Hot Shot",
     "weight_lbs": 10800,
     "carrier_rate": 700,
-    "updated_at": "2026-10-15T16:40:09.577871+00:00",
+    "updated_at": "2026-10-15T16:40:37.348145+00:00",
     "lane": "WAYCROSS GA-NEWNAN GA"
   },
   {
@@ -449,6 +449,23 @@
     "carrier_rate": null,
     "updated_at": "2026-10-15T15:10:19.290832+00:00",
     "lane": "WINCHESTER KY-SALISBURY NC"
+  },
+  {
+    "pro": "50993",
+    "status": "OPEN",
+    "pu_date": "2026-10-21",
+    "pu_city": "PAYSON",
+    "pu_state": "UT",
+    "pu_hours": "0800-1400",
+    "del_date": "2026-10-22",
+    "del_city": "ALBUQUERQUE",
+    "del_state": "NM",
+    "del_hours": "0600-1400",
+    "equipment": "Flatbed w/ Tarps",
+    "weight_lbs": 43000,
+    "carrier_rate": 2000,
+    "updated_at": "2026-10-15T16:44:19.461721+00:00",
+    "lane": "PAYSON UT-ALBUQUERQUE NM"
   },
   {
     "pro": "50592",
