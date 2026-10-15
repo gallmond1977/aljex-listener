@@ -85,8 +85,8 @@
     "del_hours": "",
     "equipment": "Van",
     "weight_lbs": 44000,
-    "carrier_rate": 3500,
-    "updated_at": "2026-10-15T15:16:59.703840+00:00",
+    "carrier_rate": 3800,
+    "updated_at": "2026-10-15T16:14:32.310439+00:00",
     "lane": "CENTRALIA WA-CALEXICO CA"
   },
   {
@@ -121,8 +121,8 @@
     "del_hours": "",
     "equipment": "Flatbed",
     "weight_lbs": 47000,
-    "carrier_rate": 7400,
-    "updated_at": "2026-10-15T15:20:35.868437+00:00",
+    "carrier_rate": 7500,
+    "updated_at": "2026-10-15T16:14:50.449716+00:00",
     "lane": "PORT ANGELES WA-LITTLE ROCK AR"
   },
   {
@@ -142,6 +142,24 @@
     "carrier_rate": 3000,
     "updated_at": "2026-10-15T16:09:42.577643+00:00",
     "lane": "FERDINAND IN-OMAHA NE"
+  },
+  {
+    "pro": "8890442",
+    "status": "OPEN",
+    "spot": true,
+    "pu_date": "2026-10-15",
+    "pu_city": "SOUTH PITTSBURG",
+    "pu_state": "TN",
+    "pu_hours": "",
+    "del_date": "2026-10-17",
+    "del_city": "OMAHA",
+    "del_state": "NE",
+    "del_hours": "",
+    "equipment": "Flatbed",
+    "weight_lbs": 47000,
+    "carrier_rate": 3500,
+    "updated_at": "2026-10-15T16:12:55.991647+00:00",
+    "lane": "SOUTH PITTSBURG TN-OMAHA NE"
   },
   {
     "pro": "50936",
