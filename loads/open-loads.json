@@ -162,23 +162,6 @@
     "lane": "SOUTH PITTSBURG TN-OMAHA NE"
   },
   {
-    "pro": "50936",
-    "status": "OPEN",
-    "pu_date": "2026-10-16",
-    "pu_city": "HOUSTON",
-    "pu_state": "TX",
-    "pu_hours": "0700",
-    "del_date": "2026-10-19",
-    "del_city": "SANFORD",
-    "del_state": "FL",
-    "del_hours": "0700",
-    "equipment": "26' Straight Box Truck",
-    "weight_lbs": 7000,
-    "carrier_rate": 1800,
-    "updated_at": "2026-10-13T16:34:35.216955+00:00",
-    "lane": "HOUSTON TX-SANFORD FL"
-  },
-  {
     "pro": "50954",
     "status": "OPEN",
     "pu_date": "2026-10-16",
@@ -655,23 +638,6 @@
     "lane": "WADESBORO NC-ATLANTA GA"
   },
   {
-    "pro": "50810",
-    "status": "RELEASED",
-    "pu_date": "2026-10-08",
-    "pu_city": "HOUSTON",
-    "pu_state": "TX",
-    "pu_hours": "0700",
-    "del_date": "2026-10-09",
-    "del_city": "SANFORD",
-    "del_state": "FL",
-    "del_hours": "0700",
-    "equipment": "26' Straight Box Truck",
-    "weight_lbs": 7000,
-    "carrier_rate": 2400,
-    "updated_at": "2026-10-14T19:10:39.427221+00:00",
-    "lane": "HOUSTON TX-SANFORD FL"
-  },
-  {
     "pro": "50836",
     "status": "RELEASED",
     "pu_date": "2026-10-08",
@@ -738,23 +704,6 @@
     "carrier_rate": 2800,
     "updated_at": "2026-10-15T11:45:45.863160+00:00",
     "lane": "PASADENA TX-GREENVILLE SC"
-  },
-  {
-    "pro": "50812",
-    "status": "RELEASED",
-    "pu_date": "2026-10-12",
-    "pu_city": "HOUSTON",
-    "pu_state": "TX",
-    "pu_hours": "0700",
-    "del_date": "2026-10-13",
-    "del_city": "SANFORD",
-    "del_state": "FL",
-    "del_hours": "0700",
-    "equipment": "26' Straight Box Truck",
-    "weight_lbs": 7000,
-    "carrier_rate": 1800,
-    "updated_at": "2026-10-13T12:54:21.782008+00:00",
-    "lane": "HOUSTON TX-SANFORD FL"
   },
   {
     "pro": "50901",
@@ -855,7 +804,7 @@
     "equipment": "Flatbed w/ Tarps",
     "weight_lbs": 42000,
     "carrier_rate": 5800,
-    "updated_at": "2026-10-15T14:58:45.864781+00:00",
+    "updated_at": "2026-10-15T16:25:05.122423+00:00",
     "lane": "ALPHARETTA GA-AMARILLO TX"
   },
   {
