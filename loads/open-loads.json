@@ -162,23 +162,6 @@
     "lane": "SOUTH PITTSBURG TN-OMAHA NE"
   },
   {
-    "pro": "50999",
-    "status": "OPEN",
-    "pu_date": "2026-10-16",
-    "pu_city": "ATLANTA",
-    "pu_state": "GA",
-    "pu_hours": "0800-1500",
-    "del_date": "2026-10-16",
-    "del_city": "AUBURN",
-    "del_state": "AL",
-    "del_hours": "0800-1700",
-    "equipment": "Sprinter Van",
-    "weight_lbs": 500,
-    "carrier_rate": 350,
-    "updated_at": "2026-10-15T19:28:56.247230+00:00",
-    "lane": "ATLANTA GA-AUBURN AL"
-  },
-  {
     "pro": "50984",
     "status": "OPEN",
     "pu_date": "2026-10-17",
@@ -908,23 +891,6 @@
     "carrier_rate": 5000,
     "updated_at": "2026-10-15T19:05:54.698330+00:00",
     "lane": "ALPHARETTA GA-AMARILLO TX"
-  },
-  {
-    "pro": "50991",
-    "status": "LOADED",
-    "pu_date": "2026-10-15",
-    "pu_city": "ATLANTA",
-    "pu_state": "GA",
-    "pu_hours": "0800-1500",
-    "del_date": "2026-10-16",
-    "del_city": "AUBURN",
-    "del_state": "AL",
-    "del_hours": "0800-1700",
-    "equipment": "Flatbed Hot Shot",
-    "weight_lbs": 5000,
-    "carrier_rate": 500,
-    "updated_at": "2026-10-15T19:07:05.119258+00:00",
-    "lane": "ATLANTA GA-AUBURN AL"
   },
   {
     "pro": "50954",
