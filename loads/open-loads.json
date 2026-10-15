@@ -102,7 +102,7 @@
     "equipment": "Van",
     "weight_lbs": 14580,
     "carrier_rate": 1000,
-    "updated_at": "2026-10-15T12:57:18.581644+00:00",
+    "updated_at": "2026-10-15T13:02:49.165841+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
@@ -111,15 +111,15 @@
     "pu_date": "2026-10-15",
     "pu_city": "WINCHESTER",
     "pu_state": "KY",
-    "pu_hours": "0800-1030",
+    "pu_hours": "0800-1200",
     "del_date": "2026-10-15",
     "del_city": "JOLIET",
     "del_state": "IL",
-    "del_hours": "ADREQD",
+    "del_hours": "2200",
     "equipment": "Van",
     "weight_lbs": 14580,
     "carrier_rate": 1000,
-    "updated_at": "2026-10-15T12:45:10.175193+00:00",
+    "updated_at": "2026-10-15T13:04:54.244088+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
@@ -617,23 +617,6 @@
     "lane": "WADESBORO NC-ATLANTA GA"
   },
   {
-    "pro": "50864",
-    "status": "RELEASED",
-    "pu_date": "2026-10-07",
-    "pu_city": "WADESBORO",
-    "pu_state": "NC",
-    "pu_hours": "0730-1630",
-    "del_date": "2026-10-08",
-    "del_city": "ATLANTA",
-    "del_state": "GA",
-    "del_hours": "0800-1600",
-    "equipment": "Flatbed",
-    "weight_lbs": 44000,
-    "carrier_rate": 950,
-    "updated_at": "2026-10-08T13:04:34.140655+00:00",
-    "lane": "WADESBORO NC-ATLANTA GA"
-  },
-  {
     "pro": "50810",
     "status": "RELEASED",
     "pu_date": "2026-10-08",
@@ -958,7 +941,7 @@
   },
   {
     "pro": "50976",
-    "status": "DISPATCHED",
+    "status": "PICKUP",
     "pu_date": "2026-10-15",
     "pu_city": "WINCHESTER",
     "pu_state": "KY",
@@ -970,7 +953,7 @@
     "equipment": "Van",
     "weight_lbs": 14580,
     "carrier_rate": 1000,
-    "updated_at": "2026-10-15T12:33:55.190797+00:00",
+    "updated_at": "2026-10-15T13:03:48.427089+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
   }
 ]
