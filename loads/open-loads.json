@@ -72,6 +72,23 @@
     "lane": "WILMINGTON NC-WILMINGTON NC"
   },
   {
+    "pro": "50991",
+    "status": "OPEN",
+    "pu_date": "2026-10-15",
+    "pu_city": "ATLANTA",
+    "pu_state": "GA",
+    "pu_hours": "0800-1500",
+    "del_date": "2026-10-15",
+    "del_city": "AUBURN",
+    "del_state": "AL",
+    "del_hours": "0800-1700",
+    "equipment": "Flatbed Hot Shot",
+    "weight_lbs": 5000,
+    "carrier_rate": 500,
+    "updated_at": "2026-10-15T16:02:47.011412+00:00",
+    "lane": "ATLANTA GA-AUBURN AL"
+  },
+  {
     "pro": "8890434",
     "status": "OPEN",
     "spot": true,
@@ -124,6 +141,24 @@
     "carrier_rate": 7400,
     "updated_at": "2026-10-15T15:20:35.868437+00:00",
     "lane": "PORT ANGELES WA-LITTLE ROCK AR"
+  },
+  {
+    "pro": "8890441",
+    "status": "OPEN",
+    "spot": true,
+    "pu_date": "2026-10-15",
+    "pu_city": "FERDINAND",
+    "pu_state": "IN",
+    "pu_hours": "",
+    "del_date": "2026-10-17",
+    "del_city": "OMAHA",
+    "del_state": "NE",
+    "del_hours": "",
+    "equipment": "Flatbed",
+    "weight_lbs": 47000,
+    "carrier_rate": 3000,
+    "updated_at": "2026-10-15T16:05:04.825951+00:00",
+    "lane": "FERDINAND IN-OMAHA NE"
   },
   {
     "pro": "50936",
