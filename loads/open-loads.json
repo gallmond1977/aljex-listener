@@ -159,23 +159,6 @@
     "lane": "WADESBORO NC-ATLANTA GA"
   },
   {
-    "pro": "50956",
-    "status": "OPEN",
-    "pu_date": "2026-10-16",
-    "pu_city": "WADESBORO",
-    "pu_state": "NC",
-    "pu_hours": "0730-1630",
-    "del_date": "2026-10-19",
-    "del_city": "ATLANTA",
-    "del_state": "GA",
-    "del_hours": "0800-1600",
-    "equipment": "Van",
-    "weight_lbs": 44000,
-    "carrier_rate": 900,
-    "updated_at": "2026-10-13T14:45:49.233779+00:00",
-    "lane": "WADESBORO NC-ATLANTA GA"
-  },
-  {
     "pro": "50984",
     "status": "OPEN",
     "pu_date": "2026-10-17",
@@ -208,6 +191,23 @@
     "carrier_rate": 2500,
     "updated_at": "2026-10-15T14:04:02.912258+00:00",
     "lane": "BENSENVILLE IL-BELCAMP MD"
+  },
+  {
+    "pro": "50987",
+    "status": "OPEN",
+    "pu_date": "2026-10-19",
+    "pu_city": "WINCHESTER",
+    "pu_state": "KY",
+    "pu_hours": "8-3",
+    "del_date": "2026-10-20",
+    "del_city": "MIDLOTHIAN",
+    "del_state": "TX",
+    "del_hours": "0630-1000",
+    "equipment": "Van Hazmat",
+    "weight_lbs": 2000,
+    "carrier_rate": null,
+    "updated_at": "2026-10-15T15:06:54.965617+00:00",
+    "lane": "WINCHESTER KY-MIDLOTHIAN TX"
   },
   {
     "pro": "50800",
@@ -259,6 +259,23 @@
     "carrier_rate": 1100,
     "updated_at": "2026-10-13T18:58:09.529547+00:00",
     "lane": "EVANS GA-TROY NC"
+  },
+  {
+    "pro": "50988",
+    "status": "OPEN",
+    "pu_date": "2026-10-20",
+    "pu_city": "WINCHESTER",
+    "pu_state": "KY",
+    "pu_hours": "0800-1400",
+    "del_date": "2026-10-21",
+    "del_city": "PHENIX CITY",
+    "del_state": "AL",
+    "del_hours": "0700",
+    "equipment": "Van Hazmat",
+    "weight_lbs": 42000,
+    "carrier_rate": null,
+    "updated_at": "2026-10-15T15:07:56.318224+00:00",
+    "lane": "WINCHESTER KY-PHENIX CITY AL"
   },
   {
     "pro": "49857",
@@ -803,5 +820,22 @@
     "carrier_rate": 5000,
     "updated_at": "2026-10-15T14:39:50.746731+00:00",
     "lane": "ALPHARETTA GA-AMARILLO TX"
+  },
+  {
+    "pro": "50956",
+    "status": "COVERED",
+    "pu_date": "2026-10-20",
+    "pu_city": "WADESBORO",
+    "pu_state": "NC",
+    "pu_hours": "0730-1630",
+    "del_date": "2026-10-21",
+    "del_city": "ATLANTA",
+    "del_state": "GA",
+    "del_hours": "0800-1600",
+    "equipment": "Flatbed",
+    "weight_lbs": 44000,
+    "carrier_rate": 900,
+    "updated_at": "2026-10-15T15:08:39.672002+00:00",
+    "lane": "WADESBORO NC-ATLANTA GA"
   }
 ]
