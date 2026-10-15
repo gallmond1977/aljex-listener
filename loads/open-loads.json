@@ -72,23 +72,6 @@
     "lane": "WILMINGTON NC-WILMINGTON NC"
   },
   {
-    "pro": "50989",
-    "status": "OPEN",
-    "pu_date": "2026-10-15",
-    "pu_city": "ROCK HILL",
-    "pu_state": "SC",
-    "pu_hours": "0800-1500",
-    "del_date": "2026-10-16",
-    "del_city": "CARY",
-    "del_state": "NC",
-    "del_hours": "0700-1600",
-    "equipment": "Sprinter Van",
-    "weight_lbs": 550,
-    "carrier_rate": 350,
-    "updated_at": "2026-10-15T15:39:33.923461+00:00",
-    "lane": "ROCK HILL SC-CARY NC"
-  },
-  {
     "pro": "8890434",
     "status": "OPEN",
     "spot": true,
@@ -166,14 +149,14 @@
     "pu_city": "WADESBORO",
     "pu_state": "NC",
     "pu_hours": "0730-1630",
-    "del_date": "2026-10-16",
+    "del_date": "2026-10-19",
     "del_city": "ATLANTA",
     "del_state": "GA",
     "del_hours": "0800-1600",
     "equipment": "Van",
     "weight_lbs": 44000,
     "carrier_rate": 900,
-    "updated_at": "2026-10-15T11:58:11.222569+00:00",
+    "updated_at": "2026-10-15T15:56:03.311033+00:00",
     "lane": "WADESBORO NC-ATLANTA GA"
   },
   {
@@ -186,11 +169,11 @@
     "del_date": "2026-10-19",
     "del_city": "WINSTON SALEM",
     "del_state": "NC",
-    "del_hours": "",
+    "del_hours": "0800-1000",
     "equipment": "Van",
     "weight_lbs": 11000,
-    "carrier_rate": null,
-    "updated_at": "2026-10-15T15:52:54.030050+00:00",
+    "carrier_rate": 900,
+    "updated_at": "2026-10-15T15:57:38.797971+00:00",
     "lane": "POMPANO BEACH FL-WINSTON SALEM NC"
   },
   {
@@ -668,23 +651,6 @@
     "carrier_rate": 5000,
     "updated_at": "2026-10-12T13:52:50.097450+00:00",
     "lane": "ALPHARETTA GA-AMARILLO TX"
-  },
-  {
-    "pro": "50871",
-    "status": "RELEASED",
-    "pu_date": "2026-10-08",
-    "pu_city": "ROCK HILL",
-    "pu_state": "SC",
-    "pu_hours": "0800-1430",
-    "del_date": "2026-10-09",
-    "del_city": "CARY",
-    "del_state": "NC",
-    "del_hours": "0800-1400",
-    "equipment": "26' Straight Box Truck",
-    "weight_lbs": 10290,
-    "carrier_rate": 450,
-    "updated_at": "2026-10-14T19:24:00.130291+00:00",
-    "lane": "ROCK HILL SC-CARY NC"
   },
   {
     "pro": "50893",
