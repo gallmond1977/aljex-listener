@@ -162,23 +162,6 @@
     "lane": "SOUTH PITTSBURG TN-OMAHA NE"
   },
   {
-    "pro": "50954",
-    "status": "OPEN",
-    "pu_date": "2026-10-16",
-    "pu_city": "WADESBORO",
-    "pu_state": "NC",
-    "pu_hours": "0730-1630",
-    "del_date": "2026-10-19",
-    "del_city": "ATLANTA",
-    "del_state": "GA",
-    "del_hours": "0800-1600",
-    "equipment": "Van",
-    "weight_lbs": 44000,
-    "carrier_rate": 900,
-    "updated_at": "2026-10-15T15:56:03.311033+00:00",
-    "lane": "WADESBORO NC-ATLANTA GA"
-  },
-  {
     "pro": "50984",
     "status": "OPEN",
     "pu_date": "2026-10-17",
@@ -857,6 +840,23 @@
     "carrier_rate": 5000,
     "updated_at": "2026-10-15T17:11:26.746450+00:00",
     "lane": "ALPHARETTA GA-AMARILLO TX"
+  },
+  {
+    "pro": "50954",
+    "status": "COVERED",
+    "pu_date": "2026-10-16",
+    "pu_city": "WADESBORO",
+    "pu_state": "NC",
+    "pu_hours": "0730-1630",
+    "del_date": "2026-10-19",
+    "del_city": "ATLANTA",
+    "del_state": "GA",
+    "del_hours": "0800-1600",
+    "equipment": "Van",
+    "weight_lbs": 44000,
+    "carrier_rate": 900,
+    "updated_at": "2026-10-15T18:04:31.091711+00:00",
+    "lane": "WADESBORO NC-ATLANTA GA"
   },
   {
     "pro": "50800",
