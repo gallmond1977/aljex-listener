@@ -90,6 +90,24 @@
     "lane": "CENTRALIA WA-CALEXICO CA"
   },
   {
+    "pro": "8890439",
+    "status": "OPEN",
+    "spot": true,
+    "pu_date": "2026-10-15",
+    "pu_city": "AVENEL",
+    "pu_state": "NJ",
+    "pu_hours": "",
+    "del_date": "2026-10-16",
+    "del_city": "AMHERST",
+    "del_state": "VA",
+    "del_hours": "",
+    "equipment": "26' Straight Box Truck",
+    "weight_lbs": 5000,
+    "carrier_rate": 650,
+    "updated_at": "2026-10-15T13:31:38.003734+00:00",
+    "lane": "AVENEL NJ-AMHERST VA"
+  },
+  {
     "pro": "50936",
     "status": "OPEN",
     "pu_date": "2026-10-16",
