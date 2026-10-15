@@ -126,6 +126,23 @@
     "lane": "PORT ANGELES WA-LITTLE ROCK AR"
   },
   {
+    "pro": "51001",
+    "status": "OPEN",
+    "pu_date": "2026-10-16",
+    "pu_city": "WINCHESTER",
+    "pu_state": "KY",
+    "pu_hours": "0600",
+    "del_date": "2026-10-16",
+    "del_city": "AURORA",
+    "del_state": "IL",
+    "del_hours": "0800-1500",
+    "equipment": "Sprinter Van",
+    "weight_lbs": 150,
+    "carrier_rate": null,
+    "updated_at": "2026-10-15T21:52:25.111599+00:00",
+    "lane": "WINCHESTER KY-AURORA IL"
+  },
+  {
     "pro": "8890441",
     "status": "OPEN",
     "spot": true,
