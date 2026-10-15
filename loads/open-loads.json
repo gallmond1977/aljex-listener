@@ -181,7 +181,7 @@
     "pu_date": "2026-10-17",
     "pu_city": "ROGERS",
     "pu_state": "AR",
-    "pu_hours": "",
+    "pu_hours": "0800-0900",
     "del_date": "2026-10-19",
     "del_city": "WINCHESTER",
     "del_state": "KY",
@@ -189,7 +189,7 @@
     "equipment": "Sprinter Van",
     "weight_lbs": 300,
     "carrier_rate": 1000,
-    "updated_at": "2026-10-15T13:50:19.269649+00:00",
+    "updated_at": "2026-10-15T15:03:21.666798+00:00",
     "lane": "ROGERS AR-WINCHESTER KY"
   },
   {
