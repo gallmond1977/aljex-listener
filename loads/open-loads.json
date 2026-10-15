@@ -205,8 +205,8 @@
     "del_hours": "0700-1500",
     "equipment": "Van",
     "weight_lbs": 42000,
-    "carrier_rate": null,
-    "updated_at": "2026-10-14T12:31:10.441516+00:00",
+    "carrier_rate": 2500,
+    "updated_at": "2026-10-15T14:04:02.912258+00:00",
     "lane": "BENSENVILLE IL-BELCAMP MD"
   },
   {
