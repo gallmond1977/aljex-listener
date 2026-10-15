@@ -129,7 +129,7 @@
     "pro": "8890441",
     "status": "OPEN",
     "spot": true,
-    "pu_date": "2026-10-15",
+    "pu_date": "2026-10-16",
     "pu_city": "FERDINAND",
     "pu_state": "IN",
     "pu_hours": "",
@@ -140,14 +140,14 @@
     "equipment": "Flatbed",
     "weight_lbs": 47000,
     "carrier_rate": 3000,
-    "updated_at": "2026-10-15T16:09:42.577643+00:00",
+    "updated_at": "2026-10-15T20:00:23.592685+00:00",
     "lane": "FERDINAND IN-OMAHA NE"
   },
   {
     "pro": "8890442",
     "status": "OPEN",
     "spot": true,
-    "pu_date": "2026-10-15",
+    "pu_date": "2026-10-16",
     "pu_city": "SOUTH PITTSBURG",
     "pu_state": "TN",
     "pu_hours": "",
@@ -158,7 +158,7 @@
     "equipment": "Flatbed",
     "weight_lbs": 47000,
     "carrier_rate": 3500,
-    "updated_at": "2026-10-15T16:12:55.991647+00:00",
+    "updated_at": "2026-10-15T20:00:17.471853+00:00",
     "lane": "SOUTH PITTSBURG TN-OMAHA NE"
   },
   {
