@@ -90,6 +90,23 @@
     "lane": "PORT ANGELES WA-LITTLE ROCK AR"
   },
   {
+    "pro": "51018",
+    "status": "OPEN",
+    "pu_date": "2026-10-16",
+    "pu_city": "BYRON",
+    "pu_state": "GA",
+    "pu_hours": "0800-1500",
+    "del_date": "2026-10-16",
+    "del_city": "OCHLOCKNEE",
+    "del_state": "GA",
+    "del_hours": "",
+    "equipment": "Flatbed Hot Shot",
+    "weight_lbs": 600,
+    "carrier_rate": 500,
+    "updated_at": "2026-10-16T17:08:29.458939+00:00",
+    "lane": "BYRON GA-OCHLOCKNEE GA"
+  },
+  {
     "pro": "8890442",
     "status": "OPEN",
     "spot": true,
