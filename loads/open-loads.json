@@ -1012,6 +1012,23 @@
   },
   {
     "pro": "50954",
+    "status": "PICKUP",
+    "pu_date": "2026-10-16",
+    "pu_city": "WADESBORO",
+    "pu_state": "NC",
+    "pu_hours": "0730-1630",
+    "del_date": "2026-10-19",
+    "del_city": "ATLANTA",
+    "del_state": "GA",
+    "del_hours": "0800-1600",
+    "equipment": "Van",
+    "weight_lbs": 44000,
+    "carrier_rate": 900,
+    "updated_at": "2026-10-16T18:22:26.945502+00:00",
+    "lane": "WADESBORO NC-ATLANTA GA"
+  },
+  {
+    "pro": "51007",
     "status": "DISPATCHED",
     "pu_date": "2026-10-16",
     "pu_city": "WADESBORO",
@@ -1024,24 +1041,7 @@
     "equipment": "Van",
     "weight_lbs": 44000,
     "carrier_rate": 900,
-    "updated_at": "2026-10-16T17:22:31.404118+00:00",
-    "lane": "WADESBORO NC-ATLANTA GA"
-  },
-  {
-    "pro": "51007",
-    "status": "COVERED",
-    "pu_date": "2026-10-16",
-    "pu_city": "WADESBORO",
-    "pu_state": "NC",
-    "pu_hours": "0730-1630",
-    "del_date": "2026-10-19",
-    "del_city": "ATLANTA",
-    "del_state": "GA",
-    "del_hours": "0800-1600",
-    "equipment": "Van",
-    "weight_lbs": 44000,
-    "carrier_rate": 900,
-    "updated_at": "2026-10-16T18:18:55.901167+00:00",
+    "updated_at": "2026-10-16T18:22:24.944895+00:00",
     "lane": "WADESBORO NC-ATLANTA GA"
   },
   {
@@ -1063,7 +1063,7 @@
   },
   {
     "pro": "51017",
-    "status": "COVERED",
+    "status": "DISPATCHED",
     "pu_date": "2026-10-16",
     "pu_city": "BENSENVILLE",
     "pu_state": "IL",
@@ -1075,7 +1075,7 @@
     "equipment": "Van",
     "weight_lbs": 19188,
     "carrier_rate": 2800,
-    "updated_at": "2026-10-16T18:17:44.316637+00:00",
+    "updated_at": "2026-10-16T18:24:58.762803+00:00",
     "lane": "BENSENVILLE IL-BELCAMP MD"
   },
   {
