@@ -156,7 +156,7 @@
     "equipment": "Van",
     "weight_lbs": 44000,
     "carrier_rate": 900,
-    "updated_at": "2026-10-16T19:12:17.722567+00:00",
+    "updated_at": "2026-10-16T19:24:05.713263+00:00",
     "lane": "WADESBORO NC-ATLANTA GA"
   },
   {
@@ -224,7 +224,7 @@
     "equipment": "Van",
     "weight_lbs": 43500,
     "carrier_rate": 1200,
-    "updated_at": "2026-10-16T18:43:58.438709+00:00",
+    "updated_at": "2026-10-16T19:21:56.528482+00:00",
     "lane": "BUENA VISTA GA-INDIAN TRAIL NC"
   },
   {
