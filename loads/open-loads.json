@@ -216,15 +216,15 @@
     "pu_city": "COLUMBUS",
     "pu_state": "GA",
     "pu_hours": "1100",
-    "del_date": "",
-    "del_city": "DANDRIDGE",
-    "del_state": "TN",
-    "del_hours": "0800",
+    "del_date": "2026-10-20",
+    "del_city": "LEXINGTON",
+    "del_state": "KY",
+    "del_hours": "",
     "equipment": "Van",
-    "weight_lbs": 4300,
+    "weight_lbs": 11200,
     "carrier_rate": null,
-    "updated_at": "2026-10-16T12:47:00.704172+00:00",
-    "lane": "COLUMBUS GA-DANDRIDGE TN"
+    "updated_at": "2026-10-16T12:53:57.430348+00:00",
+    "lane": "COLUMBUS GA-LEXINGTON KY"
   },
   {
     "pro": "8890443",
