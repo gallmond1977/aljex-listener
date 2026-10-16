@@ -120,7 +120,7 @@
     "equipment": "Van",
     "weight_lbs": 44000,
     "carrier_rate": 900,
-    "updated_at": "2026-10-16T13:53:41.225455+00:00",
+    "updated_at": "2026-10-16T13:57:25.328221+00:00",
     "lane": "WADESBORO NC-ATLANTA GA"
   },
   {
@@ -140,6 +140,24 @@
     "carrier_rate": 3500,
     "updated_at": "2026-10-15T20:00:17.471853+00:00",
     "lane": "SOUTH PITTSBURG TN-OMAHA NE"
+  },
+  {
+    "pro": "8890444",
+    "status": "OPEN",
+    "spot": true,
+    "pu_date": "2026-10-16",
+    "pu_city": "COLUMBUS",
+    "pu_state": "GA",
+    "pu_hours": "",
+    "del_date": "2026-10-17",
+    "del_city": "CLEWISTON",
+    "del_state": "FL",
+    "del_hours": "",
+    "equipment": "Van",
+    "weight_lbs": 43000,
+    "carrier_rate": 2100,
+    "updated_at": "2026-10-16T13:55:22.245530+00:00",
+    "lane": "COLUMBUS GA-CLEWISTON FL"
   },
   {
     "pro": "50984",
