@@ -102,8 +102,8 @@
     "del_hours": "24/7",
     "equipment": "Flatbed Hot Shot",
     "weight_lbs": 13106,
-    "carrier_rate": 1000,
-    "updated_at": "2026-10-16T15:35:00.721867+00:00",
+    "carrier_rate": 1200,
+    "updated_at": "2026-10-16T15:38:48.885651+00:00",
     "lane": "BIRMINGHAM AL-NESBIT MS"
   },
   {
@@ -122,23 +122,6 @@
     "carrier_rate": 900,
     "updated_at": "2026-10-16T14:24:12.799364+00:00",
     "lane": "WADESBORO NC-ATLANTA GA"
-  },
-  {
-    "pro": "51011",
-    "status": "OPEN",
-    "pu_date": "2026-10-16",
-    "pu_city": "ATLANTA",
-    "pu_state": "GA",
-    "pu_hours": "0800-1500",
-    "del_date": "2026-10-16",
-    "del_city": "EUFAULA",
-    "del_state": "AL",
-    "del_hours": "0800-1700",
-    "equipment": "Sprinter Van",
-    "weight_lbs": 500,
-    "carrier_rate": 400,
-    "updated_at": "2026-10-16T15:22:58.961778+00:00",
-    "lane": "ATLANTA GA-EUFAULA AL"
   },
   {
     "pro": "8890442",
