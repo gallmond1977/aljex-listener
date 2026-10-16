@@ -1,23 +1,5 @@
 [
   {
-    "pro": "8890430",
-    "status": "OPEN",
-    "spot": true,
-    "pu_date": "2026-10-14",
-    "pu_city": "CLINCHFIELD",
-    "pu_state": "GA",
-    "pu_hours": "",
-    "del_date": "2026-10-15",
-    "del_city": "FAIRBURN",
-    "del_state": "GA",
-    "del_hours": "",
-    "equipment": "Flatbed w/ Tarps",
-    "weight_lbs": 48000,
-    "carrier_rate": 700,
-    "updated_at": "2026-10-13T18:07:45.541235+00:00",
-    "lane": "CLINCHFIELD GA-FAIRBURN GA"
-  },
-  {
     "pro": "8890432",
     "status": "OPEN",
     "spot": true,
@@ -52,24 +34,6 @@
     "carrier_rate": 3700,
     "updated_at": "2026-10-14T14:26:17.250943+00:00",
     "lane": "PORT ANGELES WA-SALT LAKE CITY UT"
-  },
-  {
-    "pro": "8890438",
-    "status": "OPEN",
-    "spot": true,
-    "pu_date": "2026-10-14",
-    "pu_city": "WILMINGTON",
-    "pu_state": "NC",
-    "pu_hours": "",
-    "del_date": "2026-10-15",
-    "del_city": "WILMINGTON",
-    "del_state": "NC",
-    "del_hours": "",
-    "equipment": "Flatbed Hot Shot",
-    "weight_lbs": 17000,
-    "carrier_rate": 1600,
-    "updated_at": "2026-10-14T18:34:29.768944+00:00",
-    "lane": "WILMINGTON NC-WILMINGTON NC"
   },
   {
     "pro": "8890434",
