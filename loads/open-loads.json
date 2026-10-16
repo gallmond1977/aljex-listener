@@ -99,11 +99,11 @@
     "del_date": "2026-10-16",
     "del_city": "OCHLOCKNEE",
     "del_state": "GA",
-    "del_hours": "",
+    "del_hours": "1200-1800",
     "equipment": "Flatbed Hot Shot",
     "weight_lbs": 600,
     "carrier_rate": 500,
-    "updated_at": "2026-10-16T17:08:29.458939+00:00",
+    "updated_at": "2026-10-16T17:19:31.875744+00:00",
     "lane": "BYRON GA-OCHLOCKNEE GA"
   },
   {
