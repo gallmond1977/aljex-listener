@@ -236,11 +236,11 @@
     "del_date": "2026-10-20",
     "del_city": "LEXINGTON",
     "del_state": "KY",
-    "del_hours": "",
+    "del_hours": "0800-1300",
     "equipment": "Van",
     "weight_lbs": 11200,
     "carrier_rate": 1300,
-    "updated_at": "2026-10-16T13:17:56.093865+00:00",
+    "updated_at": "2026-10-16T13:20:38.503307+00:00",
     "lane": "COLUMBUS GA-LEXINGTON KY"
   },
   {
@@ -479,7 +479,7 @@
     "equipment": "Van",
     "weight_lbs": 44000,
     "carrier_rate": 800,
-    "updated_at": "2026-10-16T13:20:19.773260+00:00",
+    "updated_at": "2026-10-16T13:20:50.627482+00:00",
     "lane": "WADESBORO NC-ATLANTA GA"
   },
   {
@@ -496,7 +496,7 @@
     "equipment": "Van",
     "weight_lbs": 44000,
     "carrier_rate": 800,
-    "updated_at": "2026-10-15T18:30:22.201041+00:00",
+    "updated_at": "2026-10-16T13:24:19.994407+00:00",
     "lane": "WADESBORO NC-ATLANTA GA"
   },
   {
