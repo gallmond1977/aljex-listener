@@ -103,7 +103,7 @@
     "equipment": "Flatbed Hot Shot",
     "weight_lbs": 10801,
     "carrier_rate": 900,
-    "updated_at": "2026-10-16T12:40:06.532730+00:00",
+    "updated_at": "2026-10-16T14:14:57.380562+00:00",
     "lane": "BIRMINGHAM AL-NESBIT MS"
   },
   {
@@ -207,7 +207,7 @@
     "equipment": "Van",
     "weight_lbs": 44000,
     "carrier_rate": 900,
-    "updated_at": "2026-10-15T15:14:09.933108+00:00",
+    "updated_at": "2026-10-16T14:14:51.410495+00:00",
     "lane": "WADESBORO NC-ATLANTA GA"
   },
   {
