@@ -103,7 +103,7 @@
     "equipment": "Flatbed Hot Shot",
     "weight_lbs": 10801,
     "carrier_rate": 900,
-    "updated_at": "2026-10-16T14:16:51.853397+00:00",
+    "updated_at": "2026-10-16T14:22:08.928784+00:00",
     "lane": "BIRMINGHAM AL-NESBIT MS"
   },
   {
@@ -113,14 +113,14 @@
     "pu_city": "WADESBORO",
     "pu_state": "NC",
     "pu_hours": "0730-1630",
-    "del_date": "",
+    "del_date": "2026-10-19",
     "del_city": "ATLANTA",
     "del_state": "GA",
-    "del_hours": "0800-1600",
+    "del_hours": "0800",
     "equipment": "Van",
     "weight_lbs": 44000,
-    "carrier_rate": null,
-    "updated_at": "2026-10-16T14:19:22.731899+00:00",
+    "carrier_rate": 900,
+    "updated_at": "2026-10-16T14:24:12.799364+00:00",
     "lane": "WADESBORO NC-ATLANTA GA"
   },
   {
