@@ -102,8 +102,8 @@
     "del_hours": "0800-1700",
     "equipment": "Flatbed Hot Shot",
     "weight_lbs": 10801,
-    "carrier_rate": 900,
-    "updated_at": "2026-10-16T14:22:08.928784+00:00",
+    "carrier_rate": 1000,
+    "updated_at": "2026-10-16T14:29:00.440157+00:00",
     "lane": "BIRMINGHAM AL-NESBIT MS"
   },
   {
@@ -260,6 +260,23 @@
     "carrier_rate": 1000,
     "updated_at": "2026-10-16T13:10:40.699759+00:00",
     "lane": "MOUNT PLEASANT TN-SOCIAL CIRCLE GA"
+  },
+  {
+    "pro": "51009",
+    "status": "OPEN",
+    "pu_date": "2026-10-19",
+    "pu_city": "WADESBORO",
+    "pu_state": "NC",
+    "pu_hours": "0730-1630",
+    "del_date": "",
+    "del_city": "ATLANTA",
+    "del_state": "GA",
+    "del_hours": "0800",
+    "equipment": "Van",
+    "weight_lbs": 44000,
+    "carrier_rate": null,
+    "updated_at": "2026-10-16T14:30:01.837826+00:00",
+    "lane": "WADESBORO NC-ATLANTA GA"
   },
   {
     "pro": "8890443",
@@ -927,7 +944,7 @@
   },
   {
     "pro": "50929",
-    "status": "LOADED",
+    "status": "DELIVERED",
     "pu_date": "2026-10-15",
     "pu_city": "WADESBORO",
     "pu_state": "NC",
@@ -939,7 +956,7 @@
     "equipment": "Van",
     "weight_lbs": 44000,
     "carrier_rate": 900,
-    "updated_at": "2026-10-16T12:35:09.871503+00:00",
+    "updated_at": "2026-10-16T14:28:54.038281+00:00",
     "lane": "WADESBORO NC-ATLANTA GA"
   },
   {
@@ -990,7 +1007,7 @@
     "equipment": "Van",
     "weight_lbs": 44000,
     "carrier_rate": 900,
-    "updated_at": "2026-10-16T14:17:53.280516+00:00",
+    "updated_at": "2026-10-16T14:25:19.301363+00:00",
     "lane": "WADESBORO NC-ATLANTA GA"
   },
   {
