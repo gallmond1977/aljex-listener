@@ -268,7 +268,7 @@
     "pu_date": "2026-10-19",
     "pu_city": "BUENA VISTA",
     "pu_state": "GA",
-    "pu_hours": "0800-1500",
+    "pu_hours": "0700-1500",
     "del_date": "2026-10-20",
     "del_city": "INDIAN TRAIL",
     "del_state": "NC",
@@ -276,7 +276,7 @@
     "equipment": "Van",
     "weight_lbs": 43500,
     "carrier_rate": 1200,
-    "updated_at": "2026-10-16T17:29:34.558486+00:00",
+    "updated_at": "2026-10-16T17:32:36.334694+00:00",
     "lane": "BUENA VISTA GA-INDIAN TRAIL NC"
   },
   {
