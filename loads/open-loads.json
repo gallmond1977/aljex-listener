@@ -90,6 +90,23 @@
     "lane": "PORT ANGELES WA-LITTLE ROCK AR"
   },
   {
+    "pro": "50954",
+    "status": "OPEN",
+    "pu_date": "2026-10-16",
+    "pu_city": "WADESBORO",
+    "pu_state": "NC",
+    "pu_hours": "0730-1630",
+    "del_date": "2026-10-19",
+    "del_city": "ATLANTA",
+    "del_state": "GA",
+    "del_hours": "0800-1600",
+    "equipment": "Van",
+    "weight_lbs": 44000,
+    "carrier_rate": 900,
+    "updated_at": "2026-10-16T13:13:05.832864+00:00",
+    "lane": "WADESBORO NC-ATLANTA GA"
+  },
+  {
     "pro": "51002",
     "status": "OPEN",
     "pu_date": "2026-10-16",
@@ -240,7 +257,7 @@
     "equipment": "Van",
     "weight_lbs": 11500,
     "carrier_rate": 1000,
-    "updated_at": "2026-10-16T13:09:36.409642+00:00",
+    "updated_at": "2026-10-16T13:10:40.699759+00:00",
     "lane": "MOUNT PLEASANT TN-SOCIAL CIRCLE GA"
   },
   {
@@ -923,23 +940,6 @@
     "carrier_rate": 5000,
     "updated_at": "2026-10-15T19:05:54.698330+00:00",
     "lane": "ALPHARETTA GA-AMARILLO TX"
-  },
-  {
-    "pro": "50954",
-    "status": "COVERED",
-    "pu_date": "2026-10-16",
-    "pu_city": "WADESBORO",
-    "pu_state": "NC",
-    "pu_hours": "0730-1630",
-    "del_date": "2026-10-19",
-    "del_city": "ATLANTA",
-    "del_state": "GA",
-    "del_hours": "0800-1600",
-    "equipment": "Van",
-    "weight_lbs": 44000,
-    "carrier_rate": 900,
-    "updated_at": "2026-10-16T12:42:00.894829+00:00",
-    "lane": "WADESBORO NC-ATLANTA GA"
   },
   {
     "pro": "50800",
