@@ -90,6 +90,23 @@
     "lane": "PORT ANGELES WA-LITTLE ROCK AR"
   },
   {
+    "pro": "51002",
+    "status": "OPEN",
+    "pu_date": "2026-10-16",
+    "pu_city": "BIRMINGHAM",
+    "pu_state": "AL",
+    "pu_hours": "CALL!",
+    "del_date": "2026-10-16",
+    "del_city": "NESBIT",
+    "del_state": "MS",
+    "del_hours": "0800-1700",
+    "equipment": "Flatbed Hot Shot",
+    "weight_lbs": 10801,
+    "carrier_rate": null,
+    "updated_at": "2026-10-16T11:54:52.490465+00:00",
+    "lane": "BIRMINGHAM AL-NESBIT MS"
+  },
+  {
     "pro": "8890441",
     "status": "OPEN",
     "spot": true,
