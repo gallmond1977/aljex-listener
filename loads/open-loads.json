@@ -90,23 +90,6 @@
     "lane": "PORT ANGELES WA-LITTLE ROCK AR"
   },
   {
-    "pro": "50943",
-    "status": "OPEN",
-    "pu_date": "2026-10-16",
-    "pu_city": "WINCHESTER",
-    "pu_state": "KY",
-    "pu_hours": "1100-1400",
-    "del_date": "2026-10-19",
-    "del_city": "MOROE TWP",
-    "del_state": "NJ",
-    "del_hours": "0900",
-    "equipment": "Van",
-    "weight_lbs": 7259,
-    "carrier_rate": 2400,
-    "updated_at": "2026-10-16T12:21:41.322132+00:00",
-    "lane": "WINCHESTER KY-MOROE TWP NJ"
-  },
-  {
     "pro": "51002",
     "status": "OPEN",
     "pu_date": "2026-10-16",
