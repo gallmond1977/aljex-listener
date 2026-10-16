@@ -101,9 +101,9 @@
     "del_state": "MS",
     "del_hours": "0800-1700",
     "equipment": "Flatbed Hot Shot",
-    "weight_lbs": 10801,
+    "weight_lbs": 13106,
     "carrier_rate": 1000,
-    "updated_at": "2026-10-16T14:30:19.617077+00:00",
+    "updated_at": "2026-10-16T14:38:42.182247+00:00",
     "lane": "BIRMINGHAM AL-NESBIT MS"
   },
   {
@@ -380,6 +380,23 @@
     "carrier_rate": 400,
     "updated_at": "2026-10-16T13:46:55.081880+00:00",
     "lane": "COLUMBUS GA-BIRMINGHAM AL"
+  },
+  {
+    "pro": "51010",
+    "status": "OPEN",
+    "pu_date": "2026-10-20",
+    "pu_city": "WADESBORO",
+    "pu_state": "NC",
+    "pu_hours": "0730-1630",
+    "del_date": "2026-10-20",
+    "del_city": "ATLANTA",
+    "del_state": "GA",
+    "del_hours": "0800",
+    "equipment": "Van",
+    "weight_lbs": 44000,
+    "carrier_rate": 900,
+    "updated_at": "2026-10-16T14:39:36.646843+00:00",
+    "lane": "WADESBORO NC-ATLANTA GA"
   },
   {
     "pro": "49857",
