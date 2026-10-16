@@ -125,6 +125,23 @@
     "lane": "BENSENVILLE IL-BELCAMP MD"
   },
   {
+    "pro": "50955",
+    "status": "OPEN",
+    "pu_date": "2026-10-19",
+    "pu_city": "WADESBORO",
+    "pu_state": "NC",
+    "pu_hours": "0730-1630",
+    "del_date": "2026-10-20",
+    "del_city": "ATLANTA",
+    "del_state": "GA",
+    "del_hours": "0800-1600",
+    "equipment": "Van",
+    "weight_lbs": 44000,
+    "carrier_rate": 900,
+    "updated_at": "2026-10-16T20:28:05.525234+00:00",
+    "lane": "WADESBORO NC-ATLANTA GA"
+  },
+  {
     "pro": "50987",
     "status": "OPEN",
     "pu_date": "2026-10-19",
@@ -979,7 +996,7 @@
   },
   {
     "pro": "51007",
-    "status": "PICKUP",
+    "status": "LOADED",
     "pu_date": "2026-10-16",
     "pu_city": "WADESBORO",
     "pu_state": "NC",
@@ -991,7 +1008,7 @@
     "equipment": "Van",
     "weight_lbs": 44000,
     "carrier_rate": 900,
-    "updated_at": "2026-10-16T19:16:16.481562+00:00",
+    "updated_at": "2026-10-16T20:28:37.938038+00:00",
     "lane": "WADESBORO NC-ATLANTA GA"
   },
   {
@@ -1027,23 +1044,6 @@
     "carrier_rate": 2800,
     "updated_at": "2026-10-16T19:46:26.358821+00:00",
     "lane": "BENSENVILLE IL-BELCAMP MD"
-  },
-  {
-    "pro": "50955",
-    "status": "COVERED",
-    "pu_date": "2026-10-19",
-    "pu_city": "WADESBORO",
-    "pu_state": "NC",
-    "pu_hours": "0730-1630",
-    "del_date": "2026-10-20",
-    "del_city": "ATLANTA",
-    "del_state": "GA",
-    "del_hours": "0800-1600",
-    "equipment": "Van",
-    "weight_lbs": 44000,
-    "carrier_rate": 900,
-    "updated_at": "2026-10-16T20:07:47.981727+00:00",
-    "lane": "WADESBORO NC-ATLANTA GA"
   },
   {
     "pro": "51009",
@@ -1097,23 +1097,6 @@
     "lane": "ENTERPRISE AL-SALISBURY NC"
   },
   {
-    "pro": "50956",
-    "status": "COVERED",
-    "pu_date": "2026-10-20",
-    "pu_city": "WADESBORO",
-    "pu_state": "NC",
-    "pu_hours": "0730-1630",
-    "del_date": "2026-10-21",
-    "del_city": "ATLANTA",
-    "del_state": "GA",
-    "del_hours": "0800-1600",
-    "equipment": "Flatbed",
-    "weight_lbs": 44000,
-    "carrier_rate": 900,
-    "updated_at": "2026-10-15T15:13:55.906328+00:00",
-    "lane": "WADESBORO NC-ATLANTA GA"
-  },
-  {
     "pro": "50997",
     "status": "COVERED",
     "pu_date": "2026-10-20",
@@ -1127,7 +1110,7 @@
     "equipment": "Flatbed",
     "weight_lbs": 44000,
     "carrier_rate": 900,
-    "updated_at": "2026-10-16T20:24:02.980771+00:00",
+    "updated_at": "2026-10-16T20:27:40.263545+00:00",
     "lane": "WADESBORO NC-ATLANTA GA"
   }
 ]
