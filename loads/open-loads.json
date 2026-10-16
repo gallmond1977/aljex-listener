@@ -1081,7 +1081,7 @@
   },
   {
     "pro": "51008",
-    "status": "COVERED",
+    "status": "DISPATCHED",
     "pu_date": "2026-10-16",
     "pu_city": "WADESBORO",
     "pu_state": "NC",
@@ -1093,7 +1093,7 @@
     "equipment": "Van",
     "weight_lbs": 44000,
     "carrier_rate": 900,
-    "updated_at": "2026-10-16T16:26:14.933166+00:00",
+    "updated_at": "2026-10-16T17:12:45.213021+00:00",
     "lane": "WADESBORO NC-ATLANTA GA"
   },
   {
@@ -1110,7 +1110,7 @@
     "equipment": "Van",
     "weight_lbs": 19188,
     "carrier_rate": 2800,
-    "updated_at": "2026-10-16T16:53:03.784366+00:00",
+    "updated_at": "2026-10-16T17:12:58.436413+00:00",
     "lane": "BENSENVILLE IL-BELCAMP MD"
   },
   {
