@@ -156,7 +156,7 @@
     "equipment": "Van",
     "weight_lbs": 44000,
     "carrier_rate": 900,
-    "updated_at": "2026-10-16T14:14:51.410495+00:00",
+    "updated_at": "2026-10-16T19:12:17.722567+00:00",
     "lane": "WADESBORO NC-ATLANTA GA"
   },
   {
@@ -1007,12 +1007,12 @@
     "equipment": "Van",
     "weight_lbs": 44000,
     "carrier_rate": 900,
-    "updated_at": "2026-10-16T18:25:32.953925+00:00",
+    "updated_at": "2026-10-16T19:15:08.875872+00:00",
     "lane": "WADESBORO NC-ATLANTA GA"
   },
   {
     "pro": "51007",
-    "status": "DISPATCHED",
+    "status": "PICKUP",
     "pu_date": "2026-10-16",
     "pu_city": "WADESBORO",
     "pu_state": "NC",
@@ -1024,7 +1024,7 @@
     "equipment": "Van",
     "weight_lbs": 44000,
     "carrier_rate": 900,
-    "updated_at": "2026-10-16T18:48:46.266320+00:00",
+    "updated_at": "2026-10-16T19:11:50.633127+00:00",
     "lane": "WADESBORO NC-ATLANTA GA"
   },
   {
