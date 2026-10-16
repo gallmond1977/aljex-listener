@@ -90,6 +90,23 @@
     "lane": "PORT ANGELES WA-LITTLE ROCK AR"
   },
   {
+    "pro": "51017",
+    "status": "OPEN",
+    "pu_date": "2026-10-16",
+    "pu_city": "BENSENVILLE",
+    "pu_state": "IL",
+    "pu_hours": "1330-1530",
+    "del_date": "2026-10-19",
+    "del_city": "BELCAMP",
+    "del_state": "MD",
+    "del_hours": "0700-1500",
+    "equipment": "Van",
+    "weight_lbs": 42000,
+    "carrier_rate": 2700,
+    "updated_at": "2026-10-16T16:26:12.323392+00:00",
+    "lane": "BENSENVILLE IL-BELCAMP MD"
+  },
+  {
     "pro": "8890442",
     "status": "OPEN",
     "spot": true,
@@ -209,23 +226,6 @@
     "carrier_rate": 700,
     "updated_at": "2026-10-15T16:40:37.348145+00:00",
     "lane": "WAYCROSS GA-NEWNAN GA"
-  },
-  {
-    "pro": "51002",
-    "status": "OPEN",
-    "pu_date": "2026-10-19",
-    "pu_city": "BIRMINGHAM",
-    "pu_state": "AL",
-    "pu_hours": "0800-1400",
-    "del_date": "2026-10-19",
-    "del_city": "NESBIT",
-    "del_state": "MS",
-    "del_hours": "24/7",
-    "equipment": "Flatbed Hot Shot",
-    "weight_lbs": 13106,
-    "carrier_rate": 1100,
-    "updated_at": "2026-10-16T16:23:17.243487+00:00",
-    "lane": "BIRMINGHAM AL-NESBIT MS"
   },
   {
     "pro": "51009",
@@ -378,7 +378,7 @@
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 5500,
     "carrier_rate": 400,
-    "updated_at": "2026-10-16T16:23:57.601660+00:00",
+    "updated_at": "2026-10-16T16:27:15.087387+00:00",
     "lane": "COLUMBUS GA-BIRMINGHAM AL"
   },
   {
@@ -1092,7 +1092,7 @@
     "equipment": "Van",
     "weight_lbs": 44000,
     "carrier_rate": 900,
-    "updated_at": "2026-10-16T16:24:33.381748+00:00",
+    "updated_at": "2026-10-16T16:26:14.933166+00:00",
     "lane": "WADESBORO NC-ATLANTA GA"
   },
   {
