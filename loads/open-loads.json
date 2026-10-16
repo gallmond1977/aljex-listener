@@ -159,23 +159,6 @@
     "lane": "WAYCROSS GA-NEWNAN GA"
   },
   {
-    "pro": "51009",
-    "status": "OPEN",
-    "pu_date": "2026-10-19",
-    "pu_city": "WADESBORO",
-    "pu_state": "NC",
-    "pu_hours": "0730-1630",
-    "del_date": "",
-    "del_city": "ATLANTA",
-    "del_state": "GA",
-    "del_hours": "0800",
-    "equipment": "Van",
-    "weight_lbs": 44000,
-    "carrier_rate": 900,
-    "updated_at": "2026-10-16T14:32:37.835076+00:00",
-    "lane": "WADESBORO NC-ATLANTA GA"
-  },
-  {
     "pro": "51014",
     "status": "OPEN",
     "pu_date": "2026-10-19",
@@ -207,7 +190,7 @@
     "equipment": "Flatbed",
     "weight_lbs": 47000,
     "carrier_rate": 3500,
-    "updated_at": "2026-10-16T20:00:20.603913+00:00",
+    "updated_at": "2026-10-16T20:07:15.934187+00:00",
     "lane": "SOUTH PITTSBURG TN-OMAHA NE"
   },
   {
@@ -1076,7 +1059,24 @@
     "equipment": "Van",
     "weight_lbs": 44000,
     "carrier_rate": 900,
-    "updated_at": "2026-10-16T19:36:09.397096+00:00",
+    "updated_at": "2026-10-16T20:07:47.981727+00:00",
+    "lane": "WADESBORO NC-ATLANTA GA"
+  },
+  {
+    "pro": "51009",
+    "status": "COVERED",
+    "pu_date": "2026-10-19",
+    "pu_city": "WADESBORO",
+    "pu_state": "NC",
+    "pu_hours": "0730-1630",
+    "del_date": "",
+    "del_city": "ATLANTA",
+    "del_state": "GA",
+    "del_hours": "0800",
+    "equipment": "Van",
+    "weight_lbs": 44000,
+    "carrier_rate": 900,
+    "updated_at": "2026-10-16T20:06:42.916298+00:00",
     "lane": "WADESBORO NC-ATLANTA GA"
   },
   {
