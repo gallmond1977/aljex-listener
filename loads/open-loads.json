@@ -107,20 +107,20 @@
     "lane": "BIRMINGHAM AL-NESBIT MS"
   },
   {
-    "pro": "51007",
+    "pro": "51008",
     "status": "OPEN",
     "pu_date": "2026-10-16",
     "pu_city": "WADESBORO",
     "pu_state": "NC",
     "pu_hours": "0730-1630",
-    "del_date": "2026-10-19",
+    "del_date": "",
     "del_city": "ATLANTA",
     "del_state": "GA",
     "del_hours": "0800-1600",
     "equipment": "Van",
     "weight_lbs": 44000,
-    "carrier_rate": 900,
-    "updated_at": "2026-10-16T14:04:54.126743+00:00",
+    "carrier_rate": null,
+    "updated_at": "2026-10-16T14:07:04.332008+00:00",
     "lane": "WADESBORO NC-ATLANTA GA"
   },
   {
@@ -974,6 +974,23 @@
     "weight_lbs": 44000,
     "carrier_rate": 900,
     "updated_at": "2026-10-16T14:04:08.971960+00:00",
+    "lane": "WADESBORO NC-ATLANTA GA"
+  },
+  {
+    "pro": "51007",
+    "status": "COVERED",
+    "pu_date": "2026-10-16",
+    "pu_city": "WADESBORO",
+    "pu_state": "NC",
+    "pu_hours": "0730-1630",
+    "del_date": "2026-10-19",
+    "del_city": "ATLANTA",
+    "del_state": "GA",
+    "del_hours": "0800-1600",
+    "equipment": "Van",
+    "weight_lbs": 44000,
+    "carrier_rate": 900,
+    "updated_at": "2026-10-16T14:08:58.075961+00:00",
     "lane": "WADESBORO NC-ATLANTA GA"
   },
   {
