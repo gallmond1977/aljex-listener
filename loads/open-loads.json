@@ -141,23 +141,6 @@
     "lane": "AUBURN AL-MORRILTON AR"
   },
   {
-    "pro": "51014",
-    "status": "OPEN",
-    "pu_date": "2026-10-16",
-    "pu_city": "BUENA VISTA",
-    "pu_state": "GA",
-    "pu_hours": "1200-1500",
-    "del_date": "2026-10-19",
-    "del_city": "INDIAN TRAIL",
-    "del_state": "NC",
-    "del_hours": "0700-1500",
-    "equipment": "Van",
-    "weight_lbs": 43500,
-    "carrier_rate": 1200,
-    "updated_at": "2026-10-16T16:04:26.257731+00:00",
-    "lane": "BUENA VISTA GA-INDIAN TRAIL NC"
-  },
-  {
     "pro": "51015",
     "status": "OPEN",
     "pu_date": "2026-10-16",
@@ -328,6 +311,23 @@
     "carrier_rate": 5000,
     "updated_at": "2026-10-16T15:32:13.000398+00:00",
     "lane": "ALPHARETTA GA-AMARILLO TX"
+  },
+  {
+    "pro": "51014",
+    "status": "OPEN",
+    "pu_date": "2026-10-19",
+    "pu_city": "BUENA VISTA",
+    "pu_state": "GA",
+    "pu_hours": "1200-1500",
+    "del_date": "2026-10-20",
+    "del_city": "INDIAN TRAIL",
+    "del_state": "NC",
+    "del_hours": "0700-1500",
+    "equipment": "Van",
+    "weight_lbs": 43500,
+    "carrier_rate": 1200,
+    "updated_at": "2026-10-16T16:10:11.568786+00:00",
+    "lane": "BUENA VISTA GA-INDIAN TRAIL NC"
   },
   {
     "pro": "8890443",
