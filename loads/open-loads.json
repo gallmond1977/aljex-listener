@@ -189,7 +189,7 @@
     "equipment": "Van Hazmat",
     "weight_lbs": 42000,
     "carrier_rate": 3200,
-    "updated_at": "2026-10-16T13:37:59.917538+00:00",
+    "updated_at": "2026-10-16T13:43:24.150896+00:00",
     "lane": "WINCHESTER KY-MIDLOTHIAN TX"
   },
   {
@@ -921,7 +921,7 @@
     "equipment": "Van",
     "weight_lbs": 44000,
     "carrier_rate": 900,
-    "updated_at": "2026-10-16T13:39:17.533761+00:00",
+    "updated_at": "2026-10-16T13:44:49.732665+00:00",
     "lane": "WADESBORO NC-ATLANTA GA"
   },
   {
