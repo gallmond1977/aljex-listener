@@ -143,24 +143,6 @@
     "lane": "COLUMBUS GA-CLEWISTON FL"
   },
   {
-    "pro": "8890445",
-    "status": "OPEN",
-    "spot": true,
-    "pu_date": "2026-10-16",
-    "pu_city": "COLUMBUS",
-    "pu_state": "GA",
-    "pu_hours": "",
-    "del_date": "2026-10-19",
-    "del_city": "CLEVELAND",
-    "del_state": "OH",
-    "del_hours": "",
-    "equipment": "Van",
-    "weight_lbs": 40000,
-    "carrier_rate": 1800,
-    "updated_at": "2026-10-16T16:59:07.786628+00:00",
-    "lane": "COLUMBUS GA-CLEVELAND OH"
-  },
-  {
     "pro": "50984",
     "status": "OPEN",
     "pu_date": "2026-10-17",
