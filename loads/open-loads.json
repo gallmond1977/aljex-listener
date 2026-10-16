@@ -292,7 +292,7 @@
     "equipment": "Van Hazmat",
     "weight_lbs": 42000,
     "carrier_rate": null,
-    "updated_at": "2026-10-15T15:07:56.318224+00:00",
+    "updated_at": "2026-10-16T13:47:03.238757+00:00",
     "lane": "WINCHESTER KY-PHENIX CITY AL"
   },
   {
@@ -309,7 +309,7 @@
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 5890,
     "carrier_rate": 450,
-    "updated_at": "2026-10-15T17:21:08.852656+00:00",
+    "updated_at": "2026-10-16T13:46:39.243376+00:00",
     "lane": "ORLANDO FL-MIAMI FL"
   },
   {
@@ -326,7 +326,7 @@
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 5500,
     "carrier_rate": 400,
-    "updated_at": "2026-10-16T13:04:57.329596+00:00",
+    "updated_at": "2026-10-16T13:46:55.081880+00:00",
     "lane": "COLUMBUS GA-BIRMINGHAM AL"
   },
   {
@@ -411,7 +411,7 @@
     "equipment": "Van Hazmat",
     "weight_lbs": 2000,
     "carrier_rate": null,
-    "updated_at": "2026-10-15T15:10:19.290832+00:00",
+    "updated_at": "2026-10-16T13:47:19.172241+00:00",
     "lane": "WINCHESTER KY-SALISBURY NC"
   },
   {
@@ -462,7 +462,7 @@
     "equipment": "Van",
     "weight_lbs": 44000,
     "carrier_rate": 800,
-    "updated_at": "2026-10-16T13:24:19.994407+00:00",
+    "updated_at": "2026-10-16T13:47:27.384269+00:00",
     "lane": "WADESBORO NC-ATLANTA GA"
   },
   {
@@ -479,7 +479,7 @@
     "equipment": "Van",
     "weight_lbs": 44000,
     "carrier_rate": 800,
-    "updated_at": "2026-10-16T13:28:12.844118+00:00",
+    "updated_at": "2026-10-16T13:46:30.110845+00:00",
     "lane": "WADESBORO NC-ATLANTA GA"
   },
   {
@@ -530,7 +530,7 @@
     "equipment": "Flatbed w/ Tarps",
     "weight_lbs": 42000,
     "carrier_rate": 4800,
-    "updated_at": "2026-10-08T20:26:18.316673+00:00",
+    "updated_at": "2026-10-16T13:46:20.122454+00:00",
     "lane": "ALPHARETTA GA-AMARILLO TX"
   },
   {
@@ -566,6 +566,23 @@
     "carrier_rate": 1800,
     "updated_at": "2026-10-09T16:12:45.421619+00:00",
     "lane": "GRAND PRAIRIE TX-COLUMBUS GA"
+  },
+  {
+    "pro": "49855",
+    "status": "OPEN",
+    "pu_date": "2026-11-12",
+    "pu_city": "PASADENA",
+    "pu_state": "TX",
+    "pu_hours": "REQ ETA",
+    "del_date": "",
+    "del_city": "GREENVILLE",
+    "del_state": "SC",
+    "del_hours": "0630-1330",
+    "equipment": "Van",
+    "weight_lbs": 44000,
+    "carrier_rate": null,
+    "updated_at": "2026-10-16T13:46:08.884137+00:00",
+    "lane": "PASADENA TX-GREENVILLE SC"
   },
   {
     "pro": "50717",
@@ -615,7 +632,7 @@
     "equipment": "Van",
     "weight_lbs": 41500,
     "carrier_rate": null,
-    "updated_at": "2026-10-09T18:24:28.073593+00:00",
+    "updated_at": "2026-10-16T13:45:41.404863+00:00",
     "lane": "OLD FORT NC-COLUMBUS GA"
   },
   {
