@@ -90,24 +90,6 @@
     "lane": "PORT ANGELES WA-LITTLE ROCK AR"
   },
   {
-    "pro": "8890442",
-    "status": "OPEN",
-    "spot": true,
-    "pu_date": "2026-10-16",
-    "pu_city": "SOUTH PITTSBURG",
-    "pu_state": "TN",
-    "pu_hours": "",
-    "del_date": "2026-10-17",
-    "del_city": "OMAHA",
-    "del_state": "NE",
-    "del_hours": "",
-    "equipment": "Flatbed",
-    "weight_lbs": 47000,
-    "carrier_rate": 3500,
-    "updated_at": "2026-10-15T20:00:17.471853+00:00",
-    "lane": "SOUTH PITTSBURG TN-OMAHA NE"
-  },
-  {
     "pro": "8890444",
     "status": "OPEN",
     "spot": true,
@@ -209,6 +191,24 @@
     "carrier_rate": 1200,
     "updated_at": "2026-10-16T19:21:56.528482+00:00",
     "lane": "BUENA VISTA GA-INDIAN TRAIL NC"
+  },
+  {
+    "pro": "8890442",
+    "status": "OPEN",
+    "spot": true,
+    "pu_date": "2026-10-19",
+    "pu_city": "SOUTH PITTSBURG",
+    "pu_state": "TN",
+    "pu_hours": "",
+    "del_date": "2026-10-17",
+    "del_city": "OMAHA",
+    "del_state": "NE",
+    "del_hours": "",
+    "equipment": "Flatbed",
+    "weight_lbs": 47000,
+    "carrier_rate": 3500,
+    "updated_at": "2026-10-16T20:00:20.603913+00:00",
+    "lane": "SOUTH PITTSBURG TN-OMAHA NE"
   },
   {
     "pro": "8890443",
