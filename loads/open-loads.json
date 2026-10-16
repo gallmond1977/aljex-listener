@@ -182,14 +182,14 @@
     "pu_city": "WINCHESTER",
     "pu_state": "KY",
     "pu_hours": "8-3",
-    "del_date": "2026-10-20",
+    "del_date": "2026-10-21",
     "del_city": "MIDLOTHIAN",
     "del_state": "TX",
     "del_hours": "0630-1000",
     "equipment": "Van Hazmat",
     "weight_lbs": 42000,
     "carrier_rate": 3200,
-    "updated_at": "2026-10-16T13:33:08.997031+00:00",
+    "updated_at": "2026-10-16T13:37:59.917538+00:00",
     "lane": "WINCHESTER KY-MIDLOTHIAN TX"
   },
   {
@@ -921,7 +921,7 @@
     "equipment": "Van",
     "weight_lbs": 44000,
     "carrier_rate": 900,
-    "updated_at": "2026-10-16T13:32:18.560044+00:00",
+    "updated_at": "2026-10-16T13:39:17.533761+00:00",
     "lane": "WADESBORO NC-ATLANTA GA"
   },
   {
