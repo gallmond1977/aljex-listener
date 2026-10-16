@@ -103,7 +103,7 @@
     "equipment": "Flatbed Hot Shot",
     "weight_lbs": 13106,
     "carrier_rate": 1000,
-    "updated_at": "2026-10-16T15:10:26.468570+00:00",
+    "updated_at": "2026-10-16T15:35:00.721867+00:00",
     "lane": "BIRMINGHAM AL-NESBIT MS"
   },
   {
@@ -306,10 +306,10 @@
     "del_city": "AMARILLO",
     "del_state": "TX",
     "del_hours": "0800-1400",
-    "equipment": "Conestoga",
+    "equipment": "Flatbed w/ Tarps",
     "weight_lbs": 42000,
     "carrier_rate": 5000,
-    "updated_at": "2026-10-16T15:26:24.401771+00:00",
+    "updated_at": "2026-10-16T15:32:13.000398+00:00",
     "lane": "ALPHARETTA GA-AMARILLO TX"
   },
   {
