@@ -103,7 +103,7 @@
     "equipment": "Van",
     "weight_lbs": 7259,
     "carrier_rate": 2400,
-    "updated_at": "2026-10-16T12:04:10.394924+00:00",
+    "updated_at": "2026-10-16T12:21:41.322132+00:00",
     "lane": "WINCHESTER KY-MOROE TWP NJ"
   },
   {
@@ -225,6 +225,24 @@
     "carrier_rate": 700,
     "updated_at": "2026-10-15T16:40:37.348145+00:00",
     "lane": "WAYCROSS GA-NEWNAN GA"
+  },
+  {
+    "pro": "8890443",
+    "status": "OPEN",
+    "spot": true,
+    "pu_date": "2026-10-19",
+    "pu_city": "MOUNT PLEASANT",
+    "pu_state": "TN",
+    "pu_hours": "",
+    "del_date": "2026-10-20",
+    "del_city": "SOCIAL CIRCLE",
+    "del_state": "GA",
+    "del_hours": "",
+    "equipment": "Van",
+    "weight_lbs": 15100,
+    "carrier_rate": 1000,
+    "updated_at": "2026-10-16T12:23:53.237428+00:00",
+    "lane": "MOUNT PLEASANT TN-SOCIAL CIRCLE GA"
   },
   {
     "pro": "50961",
