@@ -103,7 +103,7 @@
     "equipment": "Flatbed Hot Shot",
     "weight_lbs": 10801,
     "carrier_rate": 1000,
-    "updated_at": "2026-10-16T14:29:00.440157+00:00",
+    "updated_at": "2026-10-16T14:30:19.617077+00:00",
     "lane": "BIRMINGHAM AL-NESBIT MS"
   },
   {
@@ -182,7 +182,7 @@
     "pu_date": "2026-10-19",
     "pu_city": "BENSENVILLE",
     "pu_state": "IL",
-    "pu_hours": "0800-1530",
+    "pu_hours": "1000-1530",
     "del_date": "2026-10-20",
     "del_city": "BELCAMP",
     "del_state": "MD",
@@ -190,7 +190,7 @@
     "equipment": "Van",
     "weight_lbs": 42000,
     "carrier_rate": 2500,
-    "updated_at": "2026-10-15T14:04:02.912258+00:00",
+    "updated_at": "2026-10-16T14:34:12.999171+00:00",
     "lane": "BENSENVILLE IL-BELCAMP MD"
   },
   {
@@ -274,8 +274,8 @@
     "del_hours": "0800",
     "equipment": "Van",
     "weight_lbs": 44000,
-    "carrier_rate": null,
-    "updated_at": "2026-10-16T14:30:01.837826+00:00",
+    "carrier_rate": 900,
+    "updated_at": "2026-10-16T14:32:37.835076+00:00",
     "lane": "WADESBORO NC-ATLANTA GA"
   },
   {
