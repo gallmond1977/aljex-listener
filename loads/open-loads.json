@@ -99,11 +99,11 @@
     "del_date": "2026-10-19",
     "del_city": "NESBIT",
     "del_state": "MS",
-    "del_hours": "0800-1700",
+    "del_hours": "24/7",
     "equipment": "Flatbed Hot Shot",
     "weight_lbs": 13106,
     "carrier_rate": 1000,
-    "updated_at": "2026-10-16T15:01:28.858643+00:00",
+    "updated_at": "2026-10-16T15:10:08.267977+00:00",
     "lane": "BIRMINGHAM AL-NESBIT MS"
   },
   {
@@ -137,7 +137,7 @@
     "equipment": "Sprinter Van",
     "weight_lbs": 500,
     "carrier_rate": 400,
-    "updated_at": "2026-10-16T15:02:41.776662+00:00",
+    "updated_at": "2026-10-16T15:06:23.928186+00:00",
     "lane": "ATLANTA GA-EUFAULA AL"
   },
   {
