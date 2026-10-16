@@ -137,7 +137,7 @@
     "equipment": "Sprinter Van",
     "weight_lbs": 500,
     "carrier_rate": 400,
-    "updated_at": "2026-10-16T15:06:23.928186+00:00",
+    "updated_at": "2026-10-16T15:22:58.961778+00:00",
     "lane": "ATLANTA GA-EUFAULA AL"
   },
   {
@@ -944,19 +944,19 @@
   },
   {
     "pro": "50941",
-    "status": "CONSIGNEE",
+    "status": "DELIVERED",
     "pu_date": "2026-10-13",
     "pu_city": "ALPHARETTA",
     "pu_state": "GA",
     "pu_hours": "0900-1700",
-    "del_date": "2026-10-15",
+    "del_date": "2026-10-16",
     "del_city": "AMARILLO",
     "del_state": "TX",
     "del_hours": "0800-1400",
     "equipment": "Flatbed w/ Tarps",
     "weight_lbs": 42000,
     "carrier_rate": 5800,
-    "updated_at": "2026-10-16T12:32:34.279536+00:00",
+    "updated_at": "2026-10-16T15:22:24.657611+00:00",
     "lane": "ALPHARETTA GA-AMARILLO TX"
   },
   {
