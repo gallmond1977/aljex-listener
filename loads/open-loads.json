@@ -95,15 +95,15 @@
     "pu_date": "2026-10-16",
     "pu_city": "BIRMINGHAM",
     "pu_state": "AL",
-    "pu_hours": "CALL!",
-    "del_date": "2026-10-16",
+    "pu_hours": "0800-1400",
+    "del_date": "2026-10-19",
     "del_city": "NESBIT",
     "del_state": "MS",
     "del_hours": "0800-1700",
     "equipment": "Flatbed Hot Shot",
     "weight_lbs": 13106,
     "carrier_rate": 1000,
-    "updated_at": "2026-10-16T14:55:47.068296+00:00",
+    "updated_at": "2026-10-16T15:01:28.858643+00:00",
     "lane": "BIRMINGHAM AL-NESBIT MS"
   },
   {
@@ -122,6 +122,23 @@
     "carrier_rate": 900,
     "updated_at": "2026-10-16T14:24:12.799364+00:00",
     "lane": "WADESBORO NC-ATLANTA GA"
+  },
+  {
+    "pro": "51011",
+    "status": "OPEN",
+    "pu_date": "2026-10-16",
+    "pu_city": "ATLANTA",
+    "pu_state": "GA",
+    "pu_hours": "0800-1500",
+    "del_date": "2026-10-16",
+    "del_city": "EUFAULA",
+    "del_state": "AL",
+    "del_hours": "0800-1700",
+    "equipment": "Sprinter Van",
+    "weight_lbs": 500,
+    "carrier_rate": 400,
+    "updated_at": "2026-10-16T15:02:41.776662+00:00",
+    "lane": "ATLANTA GA-EUFAULA AL"
   },
   {
     "pro": "8890442",
@@ -156,7 +173,7 @@
     "equipment": "Van",
     "weight_lbs": 43000,
     "carrier_rate": 2100,
-    "updated_at": "2026-10-16T13:55:22.245530+00:00",
+    "updated_at": "2026-10-16T15:00:44.856201+00:00",
     "lane": "COLUMBUS GA-CLEWISTON FL"
   },
   {
@@ -293,7 +310,7 @@
     "equipment": "Van",
     "weight_lbs": 15100,
     "carrier_rate": 1000,
-    "updated_at": "2026-10-16T12:23:53.237428+00:00",
+    "updated_at": "2026-10-16T15:02:12.351211+00:00",
     "lane": "MOUNT PLEASANT TN-SOCIAL CIRCLE GA"
   },
   {
@@ -1007,7 +1024,7 @@
     "equipment": "Van",
     "weight_lbs": 44000,
     "carrier_rate": 900,
-    "updated_at": "2026-10-16T14:49:26.314609+00:00",
+    "updated_at": "2026-10-16T15:05:12.013707+00:00",
     "lane": "WADESBORO NC-ATLANTA GA"
   },
   {
