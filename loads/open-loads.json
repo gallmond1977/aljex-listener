@@ -102,8 +102,8 @@
     "del_hours": "0800-1700",
     "equipment": "Flatbed Hot Shot",
     "weight_lbs": 10801,
-    "carrier_rate": null,
-    "updated_at": "2026-10-16T11:54:52.490465+00:00",
+    "carrier_rate": 900,
+    "updated_at": "2026-10-16T11:57:00.748143+00:00",
     "lane": "BIRMINGHAM AL-NESBIT MS"
   },
   {
