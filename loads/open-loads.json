@@ -138,8 +138,8 @@
     "del_hours": "0700-1500",
     "equipment": "Van",
     "weight_lbs": 42000,
-    "carrier_rate": 2500,
-    "updated_at": "2026-10-16T14:41:48.329739+00:00",
+    "carrier_rate": 2600,
+    "updated_at": "2026-10-16T19:50:01.761867+00:00",
     "lane": "BENSENVILLE IL-BELCAMP MD"
   },
   {
@@ -156,7 +156,7 @@
     "equipment": "Van Hazmat",
     "weight_lbs": 42000,
     "carrier_rate": 3200,
-    "updated_at": "2026-10-16T13:43:24.150896+00:00",
+    "updated_at": "2026-10-16T19:50:01.943930+00:00",
     "lane": "WINCHESTER KY-MIDLOTHIAN TX"
   },
   {
@@ -448,6 +448,24 @@
     "carrier_rate": 800,
     "updated_at": "2026-10-16T13:20:50.627482+00:00",
     "lane": "WADESBORO NC-ATLANTA GA"
+  },
+  {
+    "pro": "8890446",
+    "status": "OPEN",
+    "spot": true,
+    "pu_date": "2026-10-21",
+    "pu_city": "GAINESVILLE",
+    "pu_state": "GA",
+    "pu_hours": "",
+    "del_date": "2026-10-22",
+    "del_city": "SPRINGDALE",
+    "del_state": "AR",
+    "del_hours": "",
+    "equipment": "Van Hazmat",
+    "weight_lbs": 41500,
+    "carrier_rate": 2000,
+    "updated_at": "2026-10-16T19:47:55.018882+00:00",
+    "lane": "GAINESVILLE GA-SPRINGDALE AR"
   },
   {
     "pro": "50997",
@@ -1041,7 +1059,7 @@
     "equipment": "Van",
     "weight_lbs": 19188,
     "carrier_rate": 2800,
-    "updated_at": "2026-10-16T19:29:09.314096+00:00",
+    "updated_at": "2026-10-16T19:46:26.358821+00:00",
     "lane": "BENSENVILLE IL-BELCAMP MD"
   },
   {
