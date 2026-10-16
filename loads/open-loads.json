@@ -125,23 +125,6 @@
     "lane": "BENSENVILLE IL-BELCAMP MD"
   },
   {
-    "pro": "50955",
-    "status": "OPEN",
-    "pu_date": "2026-10-19",
-    "pu_city": "WADESBORO",
-    "pu_state": "NC",
-    "pu_hours": "0730-1630",
-    "del_date": "2026-10-20",
-    "del_city": "ATLANTA",
-    "del_state": "GA",
-    "del_hours": "0800-1600",
-    "equipment": "Van",
-    "weight_lbs": 44000,
-    "carrier_rate": 900,
-    "updated_at": "2026-10-16T20:28:05.525234+00:00",
-    "lane": "WADESBORO NC-ATLANTA GA"
-  },
-  {
     "pro": "50987",
     "status": "OPEN",
     "pu_date": "2026-10-19",
@@ -431,23 +414,6 @@
     "carrier_rate": 2000,
     "updated_at": "2026-10-15T16:44:19.461721+00:00",
     "lane": "PAYSON UT-ALBUQUERQUE NM"
-  },
-  {
-    "pro": "50996",
-    "status": "OPEN",
-    "pu_date": "2026-10-21",
-    "pu_city": "WADESBORO",
-    "pu_state": "NC",
-    "pu_hours": "0730-1630",
-    "del_date": "2026-10-22",
-    "del_city": "ATLANTA",
-    "del_state": "GA",
-    "del_hours": "0800-1600",
-    "equipment": "Van",
-    "weight_lbs": 44000,
-    "carrier_rate": 800,
-    "updated_at": "2026-10-16T13:20:50.627482+00:00",
-    "lane": "WADESBORO NC-ATLANTA GA"
   },
   {
     "pro": "8890446",
@@ -1030,7 +996,7 @@
   },
   {
     "pro": "51017",
-    "status": "DISPATCHED",
+    "status": "PICKUP",
     "pu_date": "2026-10-16",
     "pu_city": "BENSENVILLE",
     "pu_state": "IL",
@@ -1042,8 +1008,25 @@
     "equipment": "Van",
     "weight_lbs": 19188,
     "carrier_rate": 2800,
-    "updated_at": "2026-10-16T19:46:26.358821+00:00",
+    "updated_at": "2026-10-16T20:34:41.348660+00:00",
     "lane": "BENSENVILLE IL-BELCAMP MD"
+  },
+  {
+    "pro": "50996",
+    "status": "COVERED",
+    "pu_date": "2026-10-19",
+    "pu_city": "WADESBORO",
+    "pu_state": "NC",
+    "pu_hours": "0730-1630",
+    "del_date": "2026-10-20",
+    "del_city": "ATLANTA",
+    "del_state": "GA",
+    "del_hours": "0800-1600",
+    "equipment": "Van",
+    "weight_lbs": 44000,
+    "carrier_rate": 900,
+    "updated_at": "2026-10-16T20:32:33.985620+00:00",
+    "lane": "WADESBORO NC-ATLANTA GA"
   },
   {
     "pro": "51009",
