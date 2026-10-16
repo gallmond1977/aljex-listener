@@ -103,7 +103,7 @@
     "equipment": "Flatbed Hot Shot",
     "weight_lbs": 600,
     "carrier_rate": 500,
-    "updated_at": "2026-10-16T17:19:31.875744+00:00",
+    "updated_at": "2026-10-16T17:29:52.290708+00:00",
     "lane": "BYRON GA-OCHLOCKNEE GA"
   },
   {
@@ -268,7 +268,7 @@
     "pu_date": "2026-10-19",
     "pu_city": "BUENA VISTA",
     "pu_state": "GA",
-    "pu_hours": "1200-1500",
+    "pu_hours": "0800-1500",
     "del_date": "2026-10-20",
     "del_city": "INDIAN TRAIL",
     "del_state": "NC",
@@ -276,7 +276,7 @@
     "equipment": "Van",
     "weight_lbs": 43500,
     "carrier_rate": 1200,
-    "updated_at": "2026-10-16T17:23:57.002607+00:00",
+    "updated_at": "2026-10-16T17:29:34.558486+00:00",
     "lane": "BUENA VISTA GA-INDIAN TRAIL NC"
   },
   {
@@ -1110,7 +1110,7 @@
     "equipment": "Van",
     "weight_lbs": 19188,
     "carrier_rate": 2800,
-    "updated_at": "2026-10-16T17:12:58.436413+00:00",
+    "updated_at": "2026-10-16T17:27:51.939685+00:00",
     "lane": "BENSENVILLE IL-BELCAMP MD"
   },
   {
