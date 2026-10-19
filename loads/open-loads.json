@@ -12,8 +12,8 @@
     "del_hours": "0630-1000",
     "equipment": "Van Hazmat",
     "weight_lbs": 42000,
-    "carrier_rate": 3500,
-    "updated_at": "2026-10-19T14:46:01.149636+00:00",
+    "carrier_rate": 3800,
+    "updated_at": "2026-10-19T15:59:14.730492+00:00",
     "lane": "WINCHESTER KY-MIDLOTHIAN TX"
   },
   {
@@ -184,7 +184,7 @@
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 5000,
     "carrier_rate": 550,
-    "updated_at": "2026-10-19T15:47:42.849969+00:00",
+    "updated_at": "2026-10-19T15:56:07.345104+00:00",
     "lane": "LAGRANGE GA-LOUISVILLE TN"
   },
   {
