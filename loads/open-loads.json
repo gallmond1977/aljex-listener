@@ -115,8 +115,8 @@
     "del_hours": "0800",
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 7794,
-    "carrier_rate": 1300,
-    "updated_at": "2026-10-19T18:40:42.047570+00:00",
+    "carrier_rate": 1400,
+    "updated_at": "2026-10-19T19:04:11.958428+00:00",
     "lane": "RICHMOND VA-NORTH PALM BEACH FL"
   },
   {
@@ -152,23 +152,6 @@
     "carrier_rate": 1200,
     "updated_at": "2026-10-19T18:53:04.510477+00:00",
     "lane": "PENDERGRASS GA-ZEBULON NC"
-  },
-  {
-    "pro": "51035",
-    "status": "OPEN",
-    "pu_date": "2026-10-20",
-    "pu_city": "OPELIKA",
-    "pu_state": "AL",
-    "pu_hours": "1300-1500",
-    "del_date": "2026-10-20",
-    "del_city": "COLUMBIA",
-    "del_state": "AL",
-    "del_hours": "0530-1900",
-    "equipment": "Flatbed",
-    "weight_lbs": 47000,
-    "carrier_rate": 1000,
-    "updated_at": "2026-10-19T18:56:41.856846+00:00",
-    "lane": "OPELIKA AL-COLUMBIA AL"
   },
   {
     "pro": "49857",
@@ -330,7 +313,7 @@
     "pu_date": "2026-10-23",
     "pu_city": "MONTEZUMA",
     "pu_state": "GA",
-    "pu_hours": "REQ",
+    "pu_hours": "1400",
     "del_date": "2026-10-27",
     "del_city": "TRACY",
     "del_state": "CA",
@@ -338,7 +321,7 @@
     "equipment": "Reefer",
     "weight_lbs": 23400,
     "carrier_rate": null,
-    "updated_at": "2026-10-19T18:21:39.256564+00:00",
+    "updated_at": "2026-10-19T19:01:19.203912+00:00",
     "lane": "MONTEZUMA GA-TRACY CA"
   },
   {
@@ -580,23 +563,6 @@
     "lane": "WADESBORO NC-ATLANTA GA"
   },
   {
-    "pro": "50827",
-    "status": "RELEASED",
-    "pu_date": "2026-10-07",
-    "pu_city": "OPELIKA",
-    "pu_state": "AL",
-    "pu_hours": "1200-1500",
-    "del_date": "2026-10-07",
-    "del_city": "COLUMBIA",
-    "del_state": "AL",
-    "del_hours": "0530-1900",
-    "equipment": "Flatbed",
-    "weight_lbs": 47000,
-    "carrier_rate": 900,
-    "updated_at": "2026-10-13T19:32:58.727840+00:00",
-    "lane": "OPELIKA AL-COLUMBIA AL"
-  },
-  {
     "pro": "50810",
     "status": "RELEASED",
     "pu_date": "2026-10-08",
@@ -818,23 +784,6 @@
     "lane": "WADESBORO NC-ATLANTA GA"
   },
   {
-    "pro": "50964",
-    "status": "RELEASED",
-    "pu_date": "2026-10-15",
-    "pu_city": "OPELIKA",
-    "pu_state": "AL",
-    "pu_hours": "0800-1200",
-    "del_date": "2026-10-16",
-    "del_city": "COLUMBIA",
-    "del_state": "AL",
-    "del_hours": "0530-1900",
-    "equipment": "Flatbed",
-    "weight_lbs": 47000,
-    "carrier_rate": 1000,
-    "updated_at": "2026-10-16T13:43:39.840852+00:00",
-    "lane": "OPELIKA AL-COLUMBIA AL"
-  },
-  {
     "pro": "50970",
     "status": "RELEASED",
     "pu_date": "2026-10-15",
@@ -950,7 +899,7 @@
     "equipment": "Van",
     "weight_lbs": 44000,
     "carrier_rate": 900,
-    "updated_at": "2026-10-19T18:50:32.572844+00:00",
+    "updated_at": "2026-10-19T19:04:53.278901+00:00",
     "lane": "WADESBORO NC-ATLANTA GA"
   },
   {
