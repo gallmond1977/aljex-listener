@@ -18,23 +18,6 @@
     "lane": "MOUNT PLEASANT TN-SOCIAL CIRCLE GA"
   },
   {
-    "pro": "50961",
-    "status": "OPEN",
-    "pu_date": "2026-10-20",
-    "pu_city": "COLUMBUS",
-    "pu_state": "GA",
-    "pu_hours": "1300",
-    "del_date": "2026-10-21",
-    "del_city": "ORIENTAL",
-    "del_state": "NC",
-    "del_hours": "CALL!",
-    "equipment": "26' Straight Box Truck",
-    "weight_lbs": 5000,
-    "carrier_rate": 1100,
-    "updated_at": "2026-10-19T12:58:36.883268+00:00",
-    "lane": "COLUMBUS GA-ORIENTAL NC"
-  },
-  {
     "pro": "50987",
     "status": "OPEN",
     "pu_date": "2026-10-20",
@@ -58,14 +41,14 @@
     "pu_city": "ORLANDO",
     "pu_state": "FL",
     "pu_hours": "0700-1430",
-    "del_date": "",
+    "del_date": "2026-10-20",
     "del_city": "MIAMI",
     "del_state": "FL",
-    "del_hours": "CALL!",
+    "del_hours": "0730-1530",
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 5890,
     "carrier_rate": 450,
-    "updated_at": "2026-10-19T20:28:11.599474+00:00",
+    "updated_at": "2026-10-19T20:35:07.282810+00:00",
     "lane": "ORLANDO FL-MIAMI FL"
   },
   {
@@ -101,23 +84,6 @@
     "carrier_rate": 1000,
     "updated_at": "2026-10-19T15:35:33.418053+00:00",
     "lane": "MOUNT PLEASANT TN-SAINT LOUIS MO"
-  },
-  {
-    "pro": "51034",
-    "status": "OPEN",
-    "pu_date": "2026-10-20",
-    "pu_city": "PENDERGRASS",
-    "pu_state": "GA",
-    "pu_hours": "1430",
-    "del_date": "2026-10-21",
-    "del_city": "ZEBULON",
-    "del_state": "NC",
-    "del_hours": "0700-0900",
-    "equipment": "Van",
-    "weight_lbs": 40124,
-    "carrier_rate": 1200,
-    "updated_at": "2026-10-19T19:56:02.701439+00:00",
-    "lane": "PENDERGRASS GA-ZEBULON NC"
   },
   {
     "pro": "51038",
