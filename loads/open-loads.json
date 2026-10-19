@@ -12,8 +12,8 @@
     "del_hours": "0630-1000",
     "equipment": "Van Hazmat",
     "weight_lbs": 42000,
-    "carrier_rate": 3200,
-    "updated_at": "2026-10-19T12:36:54.281772+00:00",
+    "carrier_rate": 3400,
+    "updated_at": "2026-10-19T13:43:38.634693+00:00",
     "lane": "WINCHESTER KY-MIDLOTHIAN TX"
   },
   {
@@ -137,23 +137,6 @@
     "lane": "ORLANDO FL-MIAMI FL"
   },
   {
-    "pro": "51010",
-    "status": "OPEN",
-    "pu_date": "2026-10-20",
-    "pu_city": "WADESBORO",
-    "pu_state": "NC",
-    "pu_hours": "0730-1630",
-    "del_date": "2026-10-20",
-    "del_city": "ATLANTA",
-    "del_state": "GA",
-    "del_hours": "0800",
-    "equipment": "Van",
-    "weight_lbs": 44000,
-    "carrier_rate": 900,
-    "updated_at": "2026-10-16T14:39:36.646843+00:00",
-    "lane": "WADESBORO NC-ATLANTA GA"
-  },
-  {
     "pro": "51022",
     "status": "OPEN",
     "pu_date": "2026-10-20",
@@ -176,7 +159,7 @@
     "pu_date": "2026-10-20",
     "pu_city": "MACON",
     "pu_state": "GA",
-    "pu_hours": "0700-1200",
+    "pu_hours": "0700-1400",
     "del_date": "2026-10-20",
     "del_city": "COLUMBIA",
     "del_state": "SC",
@@ -184,7 +167,7 @@
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 744,
     "carrier_rate": 450,
-    "updated_at": "2026-10-19T13:40:05.690450+00:00",
+    "updated_at": "2026-10-19T13:44:48.351030+00:00",
     "lane": "MACON GA-COLUMBIA SC"
   },
   {
@@ -814,7 +797,7 @@
     "equipment": "Van",
     "weight_lbs": 44000,
     "carrier_rate": 900,
-    "updated_at": "2026-10-19T12:36:40.125599+00:00",
+    "updated_at": "2026-10-19T13:43:03.833891+00:00",
     "lane": "WADESBORO NC-ATLANTA GA"
   },
   {
@@ -866,6 +849,23 @@
     "weight_lbs": 44000,
     "carrier_rate": 900,
     "updated_at": "2026-10-16T20:27:40.263545+00:00",
+    "lane": "WADESBORO NC-ATLANTA GA"
+  },
+  {
+    "pro": "51010",
+    "status": "COVERED",
+    "pu_date": "2026-10-20",
+    "pu_city": "WADESBORO",
+    "pu_state": "NC",
+    "pu_hours": "0730-1630",
+    "del_date": "2026-10-20",
+    "del_city": "ATLANTA",
+    "del_state": "GA",
+    "del_hours": "0800",
+    "equipment": "Van",
+    "weight_lbs": 44000,
+    "carrier_rate": 900,
+    "updated_at": "2026-10-19T13:43:14.959268+00:00",
     "lane": "WADESBORO NC-ATLANTA GA"
   }
 ]
