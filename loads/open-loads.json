@@ -154,6 +154,23 @@
     "lane": "PENDERGRASS GA-ZEBULON NC"
   },
   {
+    "pro": "51036",
+    "status": "OPEN",
+    "pu_date": "2026-10-20",
+    "pu_city": "OAKLAND",
+    "pu_state": "TN",
+    "pu_hours": "0800-1500",
+    "del_date": "2026-10-21",
+    "del_city": "SALISBURY",
+    "del_state": "NC",
+    "del_hours": "0600-1100",
+    "equipment": "Van Hazmat",
+    "weight_lbs": 44900,
+    "carrier_rate": null,
+    "updated_at": "2026-10-19T19:26:03.944826+00:00",
+    "lane": "OAKLAND TN-SALISBURY NC"
+  },
+  {
     "pro": "49857",
     "status": "OPEN",
     "pu_date": "2026-10-21",
@@ -580,6 +597,23 @@
     "lane": "HOUSTON TX-SANFORD FL"
   },
   {
+    "pro": "50888",
+    "status": "RELEASED",
+    "pu_date": "2026-10-08",
+    "pu_city": "OAKLAND",
+    "pu_state": "TN",
+    "pu_hours": "0800-1500",
+    "del_date": "2026-10-10",
+    "del_city": "SALISBURY",
+    "del_state": "NC",
+    "del_hours": "0800",
+    "equipment": "Van Hazmat",
+    "weight_lbs": 44900,
+    "carrier_rate": 4500,
+    "updated_at": "2026-10-13T19:58:18.280814+00:00",
+    "lane": "OAKLAND TN-SALISBURY NC"
+  },
+  {
     "pro": "50893",
     "status": "RELEASED",
     "pu_date": "2026-10-08",
@@ -986,5 +1020,22 @@
     "carrier_rate": 900,
     "updated_at": "2026-10-19T13:43:14.959268+00:00",
     "lane": "WADESBORO NC-ATLANTA GA"
+  },
+  {
+    "pro": "51026",
+    "status": "COVERED",
+    "pu_date": "2026-10-20",
+    "pu_city": "OAKLAND",
+    "pu_state": "TN",
+    "pu_hours": "0800-1500",
+    "del_date": "2026-10-21",
+    "del_city": "SALISBURY",
+    "del_state": "NC",
+    "del_hours": "0600-1100",
+    "equipment": "Van Hazmat",
+    "weight_lbs": 44900,
+    "carrier_rate": 3000,
+    "updated_at": "2026-10-19T19:25:08.842440+00:00",
+    "lane": "OAKLAND TN-SALISBURY NC"
   }
 ]
