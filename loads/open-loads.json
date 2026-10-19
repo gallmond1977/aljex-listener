@@ -99,7 +99,7 @@
     "equipment": "Van Hazmat",
     "weight_lbs": 42000,
     "carrier_rate": 2500,
-    "updated_at": "2026-10-19T13:21:11.169254+00:00",
+    "updated_at": "2026-10-19T15:48:11.592924+00:00",
     "lane": "WINCHESTER KY-PHENIX CITY AL"
   },
   {
@@ -118,23 +118,6 @@
     "carrier_rate": 450,
     "updated_at": "2026-10-16T13:46:39.243376+00:00",
     "lane": "ORLANDO FL-MIAMI FL"
-  },
-  {
-    "pro": "51022",
-    "status": "OPEN",
-    "pu_date": "2026-10-20",
-    "pu_city": "COLUMBUS",
-    "pu_state": "GA",
-    "pu_hours": "0700-1000",
-    "del_date": "2026-10-21",
-    "del_city": "STEVENS",
-    "del_state": "PA",
-    "del_hours": "0700-1500",
-    "equipment": "Van",
-    "weight_lbs": 43850,
-    "carrier_rate": 2500,
-    "updated_at": "2026-10-19T13:48:54.138171+00:00",
-    "lane": "COLUMBUS GA-STEVENS PA"
   },
   {
     "pro": "51023",
@@ -186,6 +169,23 @@
     "carrier_rate": 1000,
     "updated_at": "2026-10-19T15:35:33.418053+00:00",
     "lane": "MOUNT PLEASANT TN-SAINT LOUIS MO"
+  },
+  {
+    "pro": "51027",
+    "status": "OPEN",
+    "pu_date": "2026-10-20",
+    "pu_city": "LAGRANGE",
+    "pu_state": "GA",
+    "pu_hours": "0800-1700",
+    "del_date": "2026-10-21",
+    "del_city": "LOUISVILLE",
+    "del_state": "TN",
+    "del_hours": "CALL!",
+    "equipment": "26' Straight Box Truck",
+    "weight_lbs": 5000,
+    "carrier_rate": 550,
+    "updated_at": "2026-10-19T15:47:42.849969+00:00",
+    "lane": "LAGRANGE GA-LOUISVILLE TN"
   },
   {
     "pro": "49857",
@@ -848,12 +848,12 @@
     "equipment": "Flatbed",
     "weight_lbs": 44000,
     "carrier_rate": 900,
-    "updated_at": "2026-10-19T15:42:54.313455+00:00",
+    "updated_at": "2026-10-19T15:45:22.985284+00:00",
     "lane": "WADESBORO NC-ATLANTA GA"
   },
   {
     "pro": "51012",
-    "status": "DISPATCHED",
+    "status": "PICKUP",
     "pu_date": "2026-10-19",
     "pu_city": "ALPHARETTA",
     "pu_state": "GA",
@@ -865,7 +865,7 @@
     "equipment": "Flatbed w/ Tarps",
     "weight_lbs": 42000,
     "carrier_rate": 5000,
-    "updated_at": "2026-10-19T14:28:51.398195+00:00",
+    "updated_at": "2026-10-19T15:46:26.455975+00:00",
     "lane": "ALPHARETTA GA-AMARILLO TX"
   },
   {
