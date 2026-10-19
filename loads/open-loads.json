@@ -69,23 +69,6 @@
     "lane": "RICHMOND VA-NORTH PALM BEACH FL"
   },
   {
-    "pro": "51038",
-    "status": "OPEN",
-    "pu_date": "2026-10-20",
-    "pu_city": "COLUMBUS",
-    "pu_state": "GA",
-    "pu_hours": "1400",
-    "del_date": "2026-10-21",
-    "del_city": "SAVANNAH",
-    "del_state": "GA",
-    "del_hours": "0800-1200",
-    "equipment": "Flatbed Hot Shot",
-    "weight_lbs": 11669,
-    "carrier_rate": 750,
-    "updated_at": "2026-10-19T20:29:27.755866+00:00",
-    "lane": "COLUMBUS GA-SAVANNAH GA"
-  },
-  {
     "pro": "50082",
     "status": "OPEN",
     "pu_date": "2026-10-21",
