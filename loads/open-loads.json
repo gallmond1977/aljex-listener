@@ -171,6 +171,23 @@
     "lane": "MACON GA-COLUMBIA SC"
   },
   {
+    "pro": "51024",
+    "status": "OPEN",
+    "pu_date": "2026-10-20",
+    "pu_city": "RICHMOND",
+    "pu_state": "VA",
+    "pu_hours": "1200-1500",
+    "del_date": "2026-10-21",
+    "del_city": "NORTH PALM BEACH",
+    "del_state": "FL",
+    "del_hours": "CALL!",
+    "equipment": "26' Straight Box Truck",
+    "weight_lbs": 9000,
+    "carrier_rate": null,
+    "updated_at": "2026-10-19T14:50:25.942420+00:00",
+    "lane": "RICHMOND VA-NORTH PALM BEACH FL"
+  },
+  {
     "pro": "49857",
     "status": "OPEN",
     "pu_date": "2026-10-21",
