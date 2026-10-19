@@ -65,7 +65,7 @@
     "equipment": "Van Hazmat",
     "weight_lbs": 42000,
     "carrier_rate": 3800,
-    "updated_at": "2026-10-19T19:08:44.542528+00:00",
+    "updated_at": "2026-10-19T19:13:42.008755+00:00",
     "lane": "WINCHESTER KY-MIDLOTHIAN TX"
   },
   {
@@ -115,8 +115,8 @@
     "del_hours": "0800",
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 7794,
-    "carrier_rate": 1400,
-    "updated_at": "2026-10-19T19:08:38.761988+00:00",
+    "carrier_rate": 1750,
+    "updated_at": "2026-10-19T19:12:23.259721+00:00",
     "lane": "RICHMOND VA-NORTH PALM BEACH FL"
   },
   {
