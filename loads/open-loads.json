@@ -47,7 +47,7 @@
     "equipment": "Van Hazmat",
     "weight_lbs": 35000,
     "carrier_rate": 2100,
-    "updated_at": "2026-10-19T13:09:24.701050+00:00",
+    "updated_at": "2026-10-19T13:10:22.320546+00:00",
     "lane": "WINCHESTER KY-SALISBURY NC"
   },
   {
@@ -135,23 +135,6 @@
     "carrier_rate": 450,
     "updated_at": "2026-10-16T13:46:39.243376+00:00",
     "lane": "ORLANDO FL-MIAMI FL"
-  },
-  {
-    "pro": "51006",
-    "status": "OPEN",
-    "pu_date": "2026-10-20",
-    "pu_city": "COLUMBUS",
-    "pu_state": "GA",
-    "pu_hours": "1100",
-    "del_date": "2026-10-20",
-    "del_city": "BIRMINGHAM",
-    "del_state": "AL",
-    "del_hours": "CALL!",
-    "equipment": "26' Straight Box Truck",
-    "weight_lbs": 5500,
-    "carrier_rate": 400,
-    "updated_at": "2026-10-16T16:30:48.451655+00:00",
-    "lane": "COLUMBUS GA-BIRMINGHAM AL"
   },
   {
     "pro": "51010",
@@ -296,15 +279,15 @@
     "pu_date": "2026-10-22",
     "pu_city": "ABERDEEN",
     "pu_state": "MD",
-    "pu_hours": "NEEDED",
+    "pu_hours": "1300",
     "del_date": "2026-10-23",
     "del_city": "CHARLOTTE",
     "del_state": "NC",
     "del_hours": "0800-1000",
     "equipment": "26' Straight Box Truck",
-    "weight_lbs": 10673,
+    "weight_lbs": 11000,
     "carrier_rate": 700,
-    "updated_at": "2026-10-19T12:53:37.276532+00:00",
+    "updated_at": "2026-10-19T13:12:47.071687+00:00",
     "lane": "ABERDEEN MD-CHARLOTTE NC"
   },
   {
