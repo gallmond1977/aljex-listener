@@ -35,23 +35,6 @@
     "lane": "COLUMBUS GA-ORIENTAL NC"
   },
   {
-    "pro": "50962",
-    "status": "OPEN",
-    "pu_date": "2026-10-20",
-    "pu_city": "EVANS",
-    "pu_state": "GA",
-    "pu_hours": "0700-1500",
-    "del_date": "2026-10-20",
-    "del_city": "TROY",
-    "del_state": "NC",
-    "del_hours": "CALL ETA",
-    "equipment": "Flatbed",
-    "weight_lbs": 22500,
-    "carrier_rate": 1100,
-    "updated_at": "2026-10-15T18:52:41.404641+00:00",
-    "lane": "EVANS GA-TROY NC"
-  },
-  {
     "pro": "50987",
     "status": "OPEN",
     "pu_date": "2026-10-20",
@@ -84,23 +67,6 @@
     "carrier_rate": 450,
     "updated_at": "2026-10-16T13:46:39.243376+00:00",
     "lane": "ORLANDO FL-MIAMI FL"
-  },
-  {
-    "pro": "51023",
-    "status": "OPEN",
-    "pu_date": "2026-10-20",
-    "pu_city": "MACON",
-    "pu_state": "GA",
-    "pu_hours": "0700-1200",
-    "del_date": "2026-10-20",
-    "del_city": "COLUMBIA",
-    "del_state": "SC",
-    "del_hours": "0700-1500",
-    "equipment": "26' Straight Box Truck",
-    "weight_lbs": 744,
-    "carrier_rate": 450,
-    "updated_at": "2026-10-19T19:43:22.752824+00:00",
-    "lane": "MACON GA-COLUMBIA SC"
   },
   {
     "pro": "51024",
@@ -427,6 +393,23 @@
     "lane": "ALPHARETTA GA-AMARILLO TX"
   },
   {
+    "pro": "51037",
+    "status": "OPEN",
+    "pu_date": "2026-10-26",
+    "pu_city": "GARLAND",
+    "pu_state": "TX",
+    "pu_hours": "1200-1400",
+    "del_date": "",
+    "del_city": "CALHOUN",
+    "del_state": "GA",
+    "del_hours": "0730-1400",
+    "equipment": "Van",
+    "weight_lbs": 40949,
+    "carrier_rate": null,
+    "updated_at": "2026-10-19T19:49:16.729393+00:00",
+    "lane": "GARLAND TX-CALHOUN GA"
+  },
+  {
     "pro": "50542",
     "status": "OPEN",
     "pu_date": "2026-11-02",
@@ -731,6 +714,23 @@
     "carrier_rate": 900,
     "updated_at": "2026-10-13T14:50:17.344665+00:00",
     "lane": "WADESBORO NC-ATLANTA GA"
+  },
+  {
+    "pro": "50758",
+    "status": "RELEASED",
+    "pu_date": "2026-10-13",
+    "pu_city": "GARLAND",
+    "pu_state": "TX",
+    "pu_hours": "1200-1400",
+    "del_date": "2026-10-14",
+    "del_city": "CALHOUN",
+    "del_state": "GA",
+    "del_hours": "0730-1400",
+    "equipment": "Van",
+    "weight_lbs": 40949,
+    "carrier_rate": 2100,
+    "updated_at": "2026-10-15T16:23:36.886603+00:00",
+    "lane": "GARLAND TX-CALHOUN GA"
   },
   {
     "pro": "50846",
