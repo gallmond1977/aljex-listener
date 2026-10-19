@@ -86,23 +86,6 @@
     "lane": "MOUNT PLEASANT TN-SOCIAL CIRCLE GA"
   },
   {
-    "pro": "50961",
-    "status": "OPEN",
-    "pu_date": "2026-10-20",
-    "pu_city": "COLUMBUS",
-    "pu_state": "GA",
-    "pu_hours": "1300",
-    "del_date": "2026-10-21",
-    "del_city": "ORIENTAL",
-    "del_state": "NC",
-    "del_hours": "CALL!",
-    "equipment": "26' Straight Box Truck",
-    "weight_lbs": 5000,
-    "carrier_rate": 1200,
-    "updated_at": "2026-10-14T12:31:00.480923+00:00",
-    "lane": "COLUMBUS GA-ORIENTAL NC"
-  },
-  {
     "pro": "50962",
     "status": "OPEN",
     "pu_date": "2026-10-20",
