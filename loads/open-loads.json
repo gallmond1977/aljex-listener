@@ -65,7 +65,24 @@
     "equipment": "Van",
     "weight_lbs": 44000,
     "carrier_rate": 800,
-    "updated_at": "2026-10-19T20:59:52.078325+00:00",
+    "updated_at": "2026-10-19T21:03:47.273480+00:00",
+    "lane": "MONTGOMERY AL-ATLANTA GA"
+  },
+  {
+    "pro": "51040",
+    "status": "OPEN",
+    "pu_date": "2026-10-20",
+    "pu_city": "MONTGOMERY",
+    "pu_state": "AL",
+    "pu_hours": "0730-1530",
+    "del_date": "2026-10-21",
+    "del_city": "ATLANTA",
+    "del_state": "GA",
+    "del_hours": "0800-1600",
+    "equipment": "Van",
+    "weight_lbs": 44000,
+    "carrier_rate": 800,
+    "updated_at": "2026-10-19T21:01:15.386752+00:00",
     "lane": "MONTGOMERY AL-ATLANTA GA"
   },
   {
@@ -135,6 +152,23 @@
     "carrier_rate": 2000,
     "updated_at": "2026-10-15T16:44:19.461721+00:00",
     "lane": "PAYSON UT-ALBUQUERQUE NM"
+  },
+  {
+    "pro": "51041",
+    "status": "OPEN",
+    "pu_date": "2026-10-21",
+    "pu_city": "MONTGOMERY",
+    "pu_state": "AL",
+    "pu_hours": "0730-1530",
+    "del_date": "2026-10-21",
+    "del_city": "ATLANTA",
+    "del_state": "GA",
+    "del_hours": "0800-1600",
+    "equipment": "Van",
+    "weight_lbs": 44000,
+    "carrier_rate": 800,
+    "updated_at": "2026-10-19T21:02:51.775688+00:00",
+    "lane": "MONTGOMERY AL-ATLANTA GA"
   },
   {
     "pro": "8890446",
