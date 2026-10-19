@@ -109,14 +109,14 @@
     "pu_city": "PENDERGRASS",
     "pu_state": "GA",
     "pu_hours": "1430",
-    "del_date": "",
+    "del_date": "2026-10-21",
     "del_city": "ZEBULON",
     "del_state": "NC",
     "del_hours": "0700-0900",
     "equipment": "Van",
     "weight_lbs": 40124,
     "carrier_rate": 1200,
-    "updated_at": "2026-10-19T19:35:42.283256+00:00",
+    "updated_at": "2026-10-19T19:56:02.701439+00:00",
     "lane": "PENDERGRASS GA-ZEBULON NC"
   },
   {
@@ -132,8 +132,8 @@
     "del_hours": "0600-1100",
     "equipment": "Van Hazmat",
     "weight_lbs": 44900,
-    "carrier_rate": null,
-    "updated_at": "2026-10-19T19:26:03.944826+00:00",
+    "carrier_rate": 2800,
+    "updated_at": "2026-10-19T19:58:07.494316+00:00",
     "lane": "OAKLAND TN-SALISBURY NC"
   },
   {
@@ -183,8 +183,8 @@
     "del_hours": "0800",
     "equipment": "Van",
     "weight_lbs": 42878,
-    "carrier_rate": null,
-    "updated_at": "2026-10-14T12:30:50.119811+00:00",
+    "carrier_rate": 1600,
+    "updated_at": "2026-10-19T19:58:10.867051+00:00",
     "lane": "ENTERPRISE AL-SALISBURY NC"
   },
   {
@@ -406,7 +406,7 @@
     "equipment": "Van",
     "weight_lbs": 40949,
     "carrier_rate": 1850,
-    "updated_at": "2026-10-19T19:55:01.456406+00:00",
+    "updated_at": "2026-10-19T19:56:49.202977+00:00",
     "lane": "GARLAND TX-CALHOUN GA"
   },
   {
@@ -1035,7 +1035,7 @@
     "equipment": "Van Hazmat",
     "weight_lbs": 44900,
     "carrier_rate": 3000,
-    "updated_at": "2026-10-19T19:25:08.842440+00:00",
+    "updated_at": "2026-10-19T19:55:30.550915+00:00",
     "lane": "OAKLAND TN-SALISBURY NC"
   }
 ]
