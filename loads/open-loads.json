@@ -184,7 +184,7 @@
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 5000,
     "carrier_rate": 550,
-    "updated_at": "2026-10-19T16:22:55.035216+00:00",
+    "updated_at": "2026-10-19T16:27:46.423476+00:00",
     "lane": "LAGRANGE GA-LOUISVILLE TN"
   },
   {
@@ -797,7 +797,7 @@
     "equipment": "Van",
     "weight_lbs": 44000,
     "carrier_rate": 900,
-    "updated_at": "2026-10-19T13:04:07.466038+00:00",
+    "updated_at": "2026-10-19T16:30:00.307636+00:00",
     "lane": "WADESBORO NC-ATLANTA GA"
   },
   {
