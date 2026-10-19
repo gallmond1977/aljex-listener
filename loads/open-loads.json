@@ -115,8 +115,8 @@
     "del_hours": "0800",
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 7794,
-    "carrier_rate": null,
-    "updated_at": "2026-10-19T18:22:55.056881+00:00",
+    "carrier_rate": 1300,
+    "updated_at": "2026-10-19T18:33:42.691662+00:00",
     "lane": "RICHMOND VA-NORTH PALM BEACH FL"
   },
   {
@@ -150,7 +150,7 @@
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 5000,
     "carrier_rate": 550,
-    "updated_at": "2026-10-19T16:27:46.423476+00:00",
+    "updated_at": "2026-10-19T18:33:32.512284+00:00",
     "lane": "LAGRANGE GA-LOUISVILLE TN"
   },
   {
