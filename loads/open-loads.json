@@ -1,22 +1,5 @@
 [
   {
-    "pro": "50987",
-    "status": "OPEN",
-    "pu_date": "2026-10-19",
-    "pu_city": "WINCHESTER",
-    "pu_state": "KY",
-    "pu_hours": "0800-1500",
-    "del_date": "2026-10-21",
-    "del_city": "MIDLOTHIAN",
-    "del_state": "TX",
-    "del_hours": "0630-1000",
-    "equipment": "Reefer Hazmat",
-    "weight_lbs": 42000,
-    "carrier_rate": 3800,
-    "updated_at": "2026-10-19T17:03:47.549650+00:00",
-    "lane": "WINCHESTER KY-MIDLOTHIAN TX"
-  },
-  {
     "pro": "8890443",
     "status": "OPEN",
     "spot": true,
@@ -67,6 +50,23 @@
     "carrier_rate": 1100,
     "updated_at": "2026-10-15T18:52:41.404641+00:00",
     "lane": "EVANS GA-TROY NC"
+  },
+  {
+    "pro": "50987",
+    "status": "OPEN",
+    "pu_date": "2026-10-20",
+    "pu_city": "WINCHESTER",
+    "pu_state": "KY",
+    "pu_hours": "0800-1500",
+    "del_date": "2026-10-22",
+    "del_city": "MIDLOTHIAN",
+    "del_state": "TX",
+    "del_hours": "0630-1000",
+    "equipment": "Reefer Hazmat",
+    "weight_lbs": 42000,
+    "carrier_rate": 3800,
+    "updated_at": "2026-10-19T18:45:45.213943+00:00",
+    "lane": "WINCHESTER KY-MIDLOTHIAN TX"
   },
   {
     "pro": "50995",
@@ -819,7 +819,7 @@
   },
   {
     "pro": "50954",
-    "status": "LOADED",
+    "status": "DELIVERED",
     "pu_date": "2026-10-16",
     "pu_city": "WADESBORO",
     "pu_state": "NC",
@@ -831,12 +831,12 @@
     "equipment": "Van",
     "weight_lbs": 44000,
     "carrier_rate": 900,
-    "updated_at": "2026-10-19T13:17:07.374067+00:00",
+    "updated_at": "2026-10-19T18:47:46.627254+00:00",
     "lane": "WADESBORO NC-ATLANTA GA"
   },
   {
     "pro": "51007",
-    "status": "LOADED",
+    "status": "DELIVERED",
     "pu_date": "2026-10-16",
     "pu_city": "WADESBORO",
     "pu_state": "NC",
@@ -848,12 +848,12 @@
     "equipment": "Van",
     "weight_lbs": 44000,
     "carrier_rate": 900,
-    "updated_at": "2026-10-19T16:31:57.803739+00:00",
+    "updated_at": "2026-10-19T18:48:12.652093+00:00",
     "lane": "WADESBORO NC-ATLANTA GA"
   },
   {
     "pro": "51008",
-    "status": "LOADED",
+    "status": "DELIVERED",
     "pu_date": "2026-10-16",
     "pu_city": "WADESBORO",
     "pu_state": "NC",
@@ -865,7 +865,7 @@
     "equipment": "Van",
     "weight_lbs": 44000,
     "carrier_rate": 900,
-    "updated_at": "2026-10-19T13:18:01.267928+00:00",
+    "updated_at": "2026-10-19T18:48:36.775261+00:00",
     "lane": "WADESBORO NC-ATLANTA GA"
   },
   {
