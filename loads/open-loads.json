@@ -137,6 +137,23 @@
     "lane": "MOUNT PLEASANT TN-SAINT LOUIS MO"
   },
   {
+    "pro": "51034",
+    "status": "OPEN",
+    "pu_date": "2026-10-20",
+    "pu_city": "PENDERGRASS",
+    "pu_state": "GA",
+    "pu_hours": "",
+    "del_date": "",
+    "del_city": "ZEBULON",
+    "del_state": "NC",
+    "del_hours": "0700-0900",
+    "equipment": "Van",
+    "weight_lbs": 40124,
+    "carrier_rate": 1200,
+    "updated_at": "2026-10-19T18:53:04.510477+00:00",
+    "lane": "PENDERGRASS GA-ZEBULON NC"
+  },
+  {
     "pro": "49857",
     "status": "OPEN",
     "pu_date": "2026-10-21",
@@ -882,7 +899,7 @@
     "equipment": "Van",
     "weight_lbs": 44000,
     "carrier_rate": 900,
-    "updated_at": "2026-10-19T18:27:48.433270+00:00",
+    "updated_at": "2026-10-19T18:50:32.572844+00:00",
     "lane": "WADESBORO NC-ATLANTA GA"
   },
   {
