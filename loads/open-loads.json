@@ -29,8 +29,8 @@
     "del_hours": "0600-1100",
     "equipment": "Van Hazmat",
     "weight_lbs": 44900,
-    "carrier_rate": 2800,
-    "updated_at": "2026-10-19T16:15:26.591149+00:00",
+    "carrier_rate": 3000,
+    "updated_at": "2026-10-19T17:30:14.773352+00:00",
     "lane": "OAKLAND TN-SALISBURY NC"
   },
   {
@@ -99,7 +99,7 @@
     "equipment": "Van Hazmat",
     "weight_lbs": 42000,
     "carrier_rate": 2500,
-    "updated_at": "2026-10-19T15:48:11.592924+00:00",
+    "updated_at": "2026-10-19T17:28:31.705967+00:00",
     "lane": "WINCHESTER KY-PHENIX CITY AL"
   },
   {
