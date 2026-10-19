@@ -12,8 +12,8 @@
     "del_hours": "0630-1000",
     "equipment": "Van Hazmat",
     "weight_lbs": 42000,
-    "carrier_rate": 3400,
-    "updated_at": "2026-10-19T13:47:23.779199+00:00",
+    "carrier_rate": 3500,
+    "updated_at": "2026-10-19T14:35:15.763388+00:00",
     "lane": "WINCHESTER KY-MIDLOTHIAN TX"
   },
   {
@@ -47,7 +47,7 @@
     "equipment": "Van Hazmat",
     "weight_lbs": 35000,
     "carrier_rate": 2500,
-    "updated_at": "2026-10-19T14:32:02.455725+00:00",
+    "updated_at": "2026-10-19T14:38:08.569459+00:00",
     "lane": "WINCHESTER KY-SALISBURY NC"
   },
   {
