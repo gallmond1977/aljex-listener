@@ -13,7 +13,7 @@
     "equipment": "Van Hazmat",
     "weight_lbs": 42000,
     "carrier_rate": 3400,
-    "updated_at": "2026-10-19T13:43:38.634693+00:00",
+    "updated_at": "2026-10-19T13:47:23.779199+00:00",
     "lane": "WINCHESTER KY-MIDLOTHIAN TX"
   },
   {
@@ -150,7 +150,7 @@
     "equipment": "Van",
     "weight_lbs": 43850,
     "carrier_rate": 2500,
-    "updated_at": "2026-10-19T12:58:27.944972+00:00",
+    "updated_at": "2026-10-19T13:48:54.138171+00:00",
     "lane": "COLUMBUS GA-STEVENS PA"
   },
   {
@@ -159,7 +159,7 @@
     "pu_date": "2026-10-20",
     "pu_city": "MACON",
     "pu_state": "GA",
-    "pu_hours": "0700-1400",
+    "pu_hours": "0700-1200",
     "del_date": "2026-10-20",
     "del_city": "COLUMBIA",
     "del_state": "SC",
@@ -167,7 +167,7 @@
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 744,
     "carrier_rate": 450,
-    "updated_at": "2026-10-19T13:44:48.351030+00:00",
+    "updated_at": "2026-10-19T13:47:00.772485+00:00",
     "lane": "MACON GA-COLUMBIA SC"
   },
   {
@@ -814,7 +814,7 @@
     "equipment": "Flatbed w/ Tarps",
     "weight_lbs": 42000,
     "carrier_rate": 5000,
-    "updated_at": "2026-10-19T12:25:57.122536+00:00",
+    "updated_at": "2026-10-19T13:45:37.384667+00:00",
     "lane": "ALPHARETTA GA-AMARILLO TX"
   },
   {
