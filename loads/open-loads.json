@@ -13,7 +13,7 @@
     "equipment": "Van Hazmat",
     "weight_lbs": 42000,
     "carrier_rate": 3200,
-    "updated_at": "2026-10-16T19:54:21.130135+00:00",
+    "updated_at": "2026-10-19T12:36:54.281772+00:00",
     "lane": "WINCHESTER KY-MIDLOTHIAN TX"
   },
   {
@@ -40,14 +40,14 @@
     "pu_city": "WINCHESTER",
     "pu_state": "KY",
     "pu_hours": "8-3",
-    "del_date": "",
+    "del_date": "2026-10-20",
     "del_city": "SALISBURY",
     "del_state": "NC",
-    "del_hours": "",
+    "del_hours": "0600-1000",
     "equipment": "Van Hazmat",
     "weight_lbs": 35000,
     "carrier_rate": 2100,
-    "updated_at": "2026-10-19T12:32:08.979963+00:00",
+    "updated_at": "2026-10-19T12:39:45.895753+00:00",
     "lane": "WINCHESTER KY-SALISBURY NC"
   },
   {
@@ -797,7 +797,7 @@
     "equipment": "Van",
     "weight_lbs": 44000,
     "carrier_rate": 900,
-    "updated_at": "2026-10-19T12:27:52.324975+00:00",
+    "updated_at": "2026-10-19T12:36:40.125599+00:00",
     "lane": "WADESBORO NC-ATLANTA GA"
   },
   {
