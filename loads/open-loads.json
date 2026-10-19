@@ -1,22 +1,5 @@
 [
   {
-    "pro": "50541",
-    "status": "OPEN",
-    "pu_date": "2026-10-19",
-    "pu_city": "BENSENVILLE",
-    "pu_state": "IL",
-    "pu_hours": "1000-1530",
-    "del_date": "2026-10-20",
-    "del_city": "BELCAMP",
-    "del_state": "MD",
-    "del_hours": "0700-1500",
-    "equipment": "Van",
-    "weight_lbs": 42000,
-    "carrier_rate": 2600,
-    "updated_at": "2026-10-16T19:50:01.761867+00:00",
-    "lane": "BENSENVILLE IL-BELCAMP MD"
-  },
-  {
     "pro": "50987",
     "status": "OPEN",
     "pu_date": "2026-10-19",
@@ -47,25 +30,8 @@
     "equipment": "Flatbed Hot Shot",
     "weight_lbs": 10800,
     "carrier_rate": 700,
-    "updated_at": "2026-10-15T16:40:37.348145+00:00",
+    "updated_at": "2026-10-19T12:19:37.552994+00:00",
     "lane": "WAYCROSS GA-NEWNAN GA"
-  },
-  {
-    "pro": "51014",
-    "status": "OPEN",
-    "pu_date": "2026-10-19",
-    "pu_city": "BUENA VISTA",
-    "pu_state": "GA",
-    "pu_hours": "0700-1500",
-    "del_date": "2026-10-20",
-    "del_city": "INDIAN TRAIL",
-    "del_state": "NC",
-    "del_hours": "0700-1500",
-    "equipment": "Van",
-    "weight_lbs": 43500,
-    "carrier_rate": 1200,
-    "updated_at": "2026-10-16T19:21:56.528482+00:00",
-    "lane": "BUENA VISTA GA-INDIAN TRAIL NC"
   },
   {
     "pro": "8890443",
@@ -495,23 +461,6 @@
     "lane": "LA PORTE TX-GREENVILLE SC"
   },
   {
-    "pro": "50801",
-    "status": "RELEASED",
-    "pu_date": "2026-10-05",
-    "pu_city": "BENSENVILLE",
-    "pu_state": "IL",
-    "pu_hours": "0800-1500",
-    "del_date": "2026-10-06",
-    "del_city": "BELCAMP",
-    "del_state": "MD",
-    "del_hours": "0700-1500",
-    "equipment": "Van",
-    "weight_lbs": 42000,
-    "carrier_rate": 2800,
-    "updated_at": "2026-10-14T14:42:55.676191+00:00",
-    "lane": "BENSENVILLE IL-BELCAMP MD"
-  },
-  {
     "pro": "50794",
     "status": "RELEASED",
     "pu_date": "2026-10-06",
@@ -563,23 +512,6 @@
     "lane": "ALPHARETTA GA-AMARILLO TX"
   },
   {
-    "pro": "50886",
-    "status": "RELEASED",
-    "pu_date": "2026-10-08",
-    "pu_city": "BUENA VISTA",
-    "pu_state": "GA",
-    "pu_hours": "1200-1500",
-    "del_date": "2026-10-09",
-    "del_city": "INDIAN TRAIL",
-    "del_state": "NC",
-    "del_hours": "0700-1500",
-    "equipment": "Van",
-    "weight_lbs": 43500,
-    "carrier_rate": 1150,
-    "updated_at": "2026-10-14T11:54:23.215984+00:00",
-    "lane": "BUENA VISTA GA-INDIAN TRAIL NC"
-  },
-  {
     "pro": "50893",
     "status": "RELEASED",
     "pu_date": "2026-10-08",
@@ -612,23 +544,6 @@
     "carrier_rate": 850,
     "updated_at": "2026-10-14T19:47:14.096484+00:00",
     "lane": "WADESBORO NC-ATLANTA GA"
-  },
-  {
-    "pro": "50919",
-    "status": "RELEASED",
-    "pu_date": "2026-10-09",
-    "pu_city": "BUENA VISTA",
-    "pu_state": "GA",
-    "pu_hours": "1200-1400",
-    "del_date": "2026-10-12",
-    "del_city": "INDIAN TRAIL",
-    "del_state": "NC",
-    "del_hours": "0700-1500",
-    "equipment": "Van",
-    "weight_lbs": 43500,
-    "carrier_rate": 1300,
-    "updated_at": "2026-10-14T19:41:40.972056+00:00",
-    "lane": "BUENA VISTA GA-INDIAN TRAIL NC"
   },
   {
     "pro": "49856",
@@ -850,23 +765,6 @@
     "carrier_rate": 900,
     "updated_at": "2026-10-16T20:01:26.184354+00:00",
     "lane": "WADESBORO NC-ATLANTA GA"
-  },
-  {
-    "pro": "51017",
-    "status": "LOADED",
-    "pu_date": "2026-10-16",
-    "pu_city": "BENSENVILLE",
-    "pu_state": "IL",
-    "pu_hours": "1345-1545",
-    "del_date": "2026-10-19",
-    "del_city": "BELCAMP",
-    "del_state": "MD",
-    "del_hours": "0700-1500",
-    "equipment": "Van",
-    "weight_lbs": 19188,
-    "carrier_rate": 2800,
-    "updated_at": "2026-10-16T21:30:22.867642+00:00",
-    "lane": "BENSENVILLE IL-BELCAMP MD"
   },
   {
     "pro": "50996",
