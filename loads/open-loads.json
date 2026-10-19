@@ -154,6 +154,23 @@
     "lane": "PENDERGRASS GA-ZEBULON NC"
   },
   {
+    "pro": "51035",
+    "status": "OPEN",
+    "pu_date": "2026-10-20",
+    "pu_city": "OPELIKA",
+    "pu_state": "AL",
+    "pu_hours": "1300-1500",
+    "del_date": "2026-10-20",
+    "del_city": "COLUMBIA",
+    "del_state": "AL",
+    "del_hours": "0530-1900",
+    "equipment": "Flatbed",
+    "weight_lbs": 47000,
+    "carrier_rate": 1000,
+    "updated_at": "2026-10-19T18:56:41.856846+00:00",
+    "lane": "OPELIKA AL-COLUMBIA AL"
+  },
+  {
     "pro": "49857",
     "status": "OPEN",
     "pu_date": "2026-10-21",
@@ -563,6 +580,23 @@
     "lane": "WADESBORO NC-ATLANTA GA"
   },
   {
+    "pro": "50827",
+    "status": "RELEASED",
+    "pu_date": "2026-10-07",
+    "pu_city": "OPELIKA",
+    "pu_state": "AL",
+    "pu_hours": "1200-1500",
+    "del_date": "2026-10-07",
+    "del_city": "COLUMBIA",
+    "del_state": "AL",
+    "del_hours": "0530-1900",
+    "equipment": "Flatbed",
+    "weight_lbs": 47000,
+    "carrier_rate": 900,
+    "updated_at": "2026-10-13T19:32:58.727840+00:00",
+    "lane": "OPELIKA AL-COLUMBIA AL"
+  },
+  {
     "pro": "50810",
     "status": "RELEASED",
     "pu_date": "2026-10-08",
@@ -782,6 +816,23 @@
     "carrier_rate": 900,
     "updated_at": "2026-10-16T14:28:54.038281+00:00",
     "lane": "WADESBORO NC-ATLANTA GA"
+  },
+  {
+    "pro": "50964",
+    "status": "RELEASED",
+    "pu_date": "2026-10-15",
+    "pu_city": "OPELIKA",
+    "pu_state": "AL",
+    "pu_hours": "0800-1200",
+    "del_date": "2026-10-16",
+    "del_city": "COLUMBIA",
+    "del_state": "AL",
+    "del_hours": "0530-1900",
+    "equipment": "Flatbed",
+    "weight_lbs": 47000,
+    "carrier_rate": 1000,
+    "updated_at": "2026-10-16T13:43:39.840852+00:00",
+    "lane": "OPELIKA AL-COLUMBIA AL"
   },
   {
     "pro": "50970",
