@@ -916,7 +916,7 @@
     "equipment": "Van",
     "weight_lbs": 11200,
     "carrier_rate": 1300,
-    "updated_at": "2026-10-19T17:50:16.592562+00:00",
+    "updated_at": "2026-10-19T17:58:15.153676+00:00",
     "lane": "COLUMBUS GA-IRVINE KY"
   },
   {
@@ -938,7 +938,7 @@
   },
   {
     "pro": "51012",
-    "status": "PICKUP",
+    "status": "LOADED",
     "pu_date": "2026-10-19",
     "pu_city": "ALPHARETTA",
     "pu_state": "GA",
@@ -950,7 +950,7 @@
     "equipment": "Flatbed w/ Tarps",
     "weight_lbs": 42000,
     "carrier_rate": 5000,
-    "updated_at": "2026-10-19T15:46:26.455975+00:00",
+    "updated_at": "2026-10-19T17:57:31.179652+00:00",
     "lane": "ALPHARETTA GA-AMARILLO TX"
   },
   {
