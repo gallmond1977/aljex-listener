@@ -10,10 +10,10 @@
     "del_city": "MIDLOTHIAN",
     "del_state": "TX",
     "del_hours": "0630-1000",
-    "equipment": "Van Hazmat",
+    "equipment": "Reefer Hazmat",
     "weight_lbs": 42000,
     "carrier_rate": 3800,
-    "updated_at": "2026-10-19T16:01:01.809811+00:00",
+    "updated_at": "2026-10-19T16:59:37.944474+00:00",
     "lane": "WINCHESTER KY-MIDLOTHIAN TX"
   },
   {
