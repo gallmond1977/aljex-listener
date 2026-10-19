@@ -5,7 +5,7 @@
     "pu_date": "2026-10-19",
     "pu_city": "WINCHESTER",
     "pu_state": "KY",
-    "pu_hours": "8-3",
+    "pu_hours": "0800-1500",
     "del_date": "2026-10-21",
     "del_city": "MIDLOTHIAN",
     "del_state": "TX",
@@ -13,7 +13,7 @@
     "equipment": "Van Hazmat",
     "weight_lbs": 42000,
     "carrier_rate": 3500,
-    "updated_at": "2026-10-19T14:35:15.763388+00:00",
+    "updated_at": "2026-10-19T14:42:09.256252+00:00",
     "lane": "WINCHESTER KY-MIDLOTHIAN TX"
   },
   {
