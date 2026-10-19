@@ -30,25 +30,8 @@
     "equipment": "Van Hazmat",
     "weight_lbs": 35000,
     "carrier_rate": 2800,
-    "updated_at": "2026-10-19T15:04:39.531412+00:00",
+    "updated_at": "2026-10-19T15:06:56.138924+00:00",
     "lane": "WINCHESTER KY-SALISBURY NC"
-  },
-  {
-    "pro": "51025",
-    "status": "OPEN",
-    "pu_date": "2026-10-19",
-    "pu_city": "MOUNT PLEASANT",
-    "pu_state": "TN",
-    "pu_hours": "1100-1500",
-    "del_date": "2026-10-20",
-    "del_city": "SAINT LOUIS",
-    "del_state": "MO",
-    "del_hours": "0800",
-    "equipment": "Van",
-    "weight_lbs": 15000,
-    "carrier_rate": 1000,
-    "updated_at": "2026-10-19T15:02:25.282753+00:00",
-    "lane": "MOUNT PLEASANT TN-SAINT LOUIS MO"
   },
   {
     "pro": "8890443",
@@ -731,23 +714,6 @@
     "carrier_rate": 5000,
     "updated_at": "2026-10-19T14:18:28.796851+00:00",
     "lane": "ALPHARETTA GA-AMARILLO TX"
-  },
-  {
-    "pro": "50975",
-    "status": "DELIVERED",
-    "pu_date": "2026-10-15",
-    "pu_city": "MOUNT PLEASANT",
-    "pu_state": "TN",
-    "pu_hours": "1400",
-    "del_date": "2026-10-16",
-    "del_city": "SAINT LOUIS",
-    "del_state": "MO",
-    "del_hours": "0800",
-    "equipment": "Van",
-    "weight_lbs": 15000,
-    "carrier_rate": 1000,
-    "updated_at": "2026-10-16T13:49:52.230942+00:00",
-    "lane": "MOUNT PLEASANT TN-SAINT LOUIS MO"
   },
   {
     "pro": "50954",
