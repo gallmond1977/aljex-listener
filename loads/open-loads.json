@@ -399,14 +399,14 @@
     "pu_city": "GARLAND",
     "pu_state": "TX",
     "pu_hours": "1200-1400",
-    "del_date": "",
+    "del_date": "2026-10-27",
     "del_city": "CALHOUN",
     "del_state": "GA",
     "del_hours": "0730-1400",
     "equipment": "Van",
     "weight_lbs": 40949,
-    "carrier_rate": null,
-    "updated_at": "2026-10-19T19:49:16.729393+00:00",
+    "carrier_rate": 1850,
+    "updated_at": "2026-10-19T19:55:01.456406+00:00",
     "lane": "GARLAND TX-CALHOUN GA"
   },
   {
