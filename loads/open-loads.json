@@ -177,14 +177,14 @@
     "pu_city": "MACON",
     "pu_state": "GA",
     "pu_hours": "0700-1200",
-    "del_date": "",
+    "del_date": "2026-10-20",
     "del_city": "COLUMBIA",
     "del_state": "SC",
-    "del_hours": "0800-1500",
+    "del_hours": "0700-1500",
     "equipment": "26' Straight Box Truck",
-    "weight_lbs": 5000,
+    "weight_lbs": 744,
     "carrier_rate": null,
-    "updated_at": "2026-10-19T13:28:57.451677+00:00",
+    "updated_at": "2026-10-19T13:34:50.241989+00:00",
     "lane": "MACON GA-COLUMBIA SC"
   },
   {
