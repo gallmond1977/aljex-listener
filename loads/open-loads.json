@@ -47,7 +47,7 @@
     "equipment": "Van Hazmat",
     "weight_lbs": 35000,
     "carrier_rate": 2100,
-    "updated_at": "2026-10-19T12:43:25.446357+00:00",
+    "updated_at": "2026-10-19T12:56:33.487048+00:00",
     "lane": "WINCHESTER KY-SALISBURY NC"
   },
   {
@@ -67,6 +67,23 @@
     "carrier_rate": 1000,
     "updated_at": "2026-10-16T15:02:12.351211+00:00",
     "lane": "MOUNT PLEASANT TN-SOCIAL CIRCLE GA"
+  },
+  {
+    "pro": "50961",
+    "status": "OPEN",
+    "pu_date": "2026-10-20",
+    "pu_city": "COLUMBUS",
+    "pu_state": "GA",
+    "pu_hours": "1300",
+    "del_date": "2026-10-21",
+    "del_city": "ORIENTAL",
+    "del_state": "NC",
+    "del_hours": "CALL!",
+    "equipment": "26' Straight Box Truck",
+    "weight_lbs": 5000,
+    "carrier_rate": 1100,
+    "updated_at": "2026-10-19T12:58:36.883268+00:00",
+    "lane": "COLUMBUS GA-ORIENTAL NC"
   },
   {
     "pro": "50962",
@@ -166,8 +183,8 @@
     "del_hours": "0700-1500",
     "equipment": "Van",
     "weight_lbs": 43850,
-    "carrier_rate": 2800,
-    "updated_at": "2026-10-19T12:46:53.253696+00:00",
+    "carrier_rate": 2500,
+    "updated_at": "2026-10-19T12:58:27.944972+00:00",
     "lane": "COLUMBUS GA-STEVENS PA"
   },
   {
@@ -746,7 +763,7 @@
     "equipment": "Conestoga",
     "weight_lbs": 42000,
     "carrier_rate": 5000,
-    "updated_at": "2026-10-15T19:05:54.698330+00:00",
+    "updated_at": "2026-10-19T12:57:04.537037+00:00",
     "lane": "ALPHARETTA GA-AMARILLO TX"
   },
   {
@@ -763,7 +780,7 @@
     "equipment": "Van",
     "weight_lbs": 44000,
     "carrier_rate": 900,
-    "updated_at": "2026-10-16T20:36:50.424347+00:00",
+    "updated_at": "2026-10-19T13:00:20.182967+00:00",
     "lane": "WADESBORO NC-ATLANTA GA"
   },
   {
