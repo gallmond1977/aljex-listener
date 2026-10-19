@@ -17,6 +17,23 @@
     "lane": "WINCHESTER KY-MIDLOTHIAN TX"
   },
   {
+    "pro": "51031",
+    "status": "OPEN",
+    "pu_date": "2026-10-19",
+    "pu_city": "COLUMBUS",
+    "pu_state": "GA",
+    "pu_hours": "1100",
+    "del_date": "2026-10-20",
+    "del_city": "IRVINE",
+    "del_state": "KY",
+    "del_hours": "0800-1300",
+    "equipment": "Van",
+    "weight_lbs": 11200,
+    "carrier_rate": null,
+    "updated_at": "2026-10-19T17:55:02.941213+00:00",
+    "lane": "COLUMBUS GA-IRVINE KY"
+  },
+  {
     "pro": "8890443",
     "status": "OPEN",
     "spot": true,
@@ -270,7 +287,7 @@
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 11000,
     "carrier_rate": 700,
-    "updated_at": "2026-10-19T13:12:47.071687+00:00",
+    "updated_at": "2026-10-19T17:52:07.077132+00:00",
     "lane": "ABERDEEN MD-CHARLOTTE NC"
   },
   {
@@ -304,7 +321,7 @@
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 7000,
     "carrier_rate": null,
-    "updated_at": "2026-10-19T17:39:25.010197+00:00",
+    "updated_at": "2026-10-19T17:51:59.034987+00:00",
     "lane": "HOUSTON TX-SANFORD FL"
   },
   {
@@ -884,6 +901,23 @@
     "carrier_rate": 900,
     "updated_at": "2026-10-19T16:34:00.670248+00:00",
     "lane": "WADESBORO NC-ATLANTA GA"
+  },
+  {
+    "pro": "51003",
+    "status": "LOADED",
+    "pu_date": "2026-10-19",
+    "pu_city": "COLUMBUS",
+    "pu_state": "GA",
+    "pu_hours": "1100",
+    "del_date": "2026-10-20",
+    "del_city": "IRVINE",
+    "del_state": "KY",
+    "del_hours": "0800-1300",
+    "equipment": "Van",
+    "weight_lbs": 11200,
+    "carrier_rate": 1300,
+    "updated_at": "2026-10-19T17:50:16.592562+00:00",
+    "lane": "COLUMBUS GA-IRVINE KY"
   },
   {
     "pro": "51009",
