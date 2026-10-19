@@ -57,7 +57,7 @@
     "pu_date": "2026-10-20",
     "pu_city": "ORLANDO",
     "pu_state": "FL",
-    "pu_hours": "CALL!",
+    "pu_hours": "0700-1430",
     "del_date": "",
     "del_city": "MIAMI",
     "del_state": "FL",
@@ -65,7 +65,7 @@
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 5890,
     "carrier_rate": 450,
-    "updated_at": "2026-10-16T13:46:39.243376+00:00",
+    "updated_at": "2026-10-19T20:28:11.599474+00:00",
     "lane": "ORLANDO FL-MIAMI FL"
   },
   {
@@ -132,8 +132,8 @@
     "del_hours": "0800-1200",
     "equipment": "Flatbed Hot Shot",
     "weight_lbs": 11669,
-    "carrier_rate": 800,
-    "updated_at": "2026-10-19T20:24:44.109273+00:00",
+    "carrier_rate": 750,
+    "updated_at": "2026-10-19T20:29:27.755866+00:00",
     "lane": "COLUMBUS GA-SAVANNAH GA"
   },
   {
@@ -984,7 +984,7 @@
     "equipment": "Flatbed",
     "weight_lbs": 44000,
     "carrier_rate": 900,
-    "updated_at": "2026-10-16T20:27:40.263545+00:00",
+    "updated_at": "2026-10-19T20:25:12.810473+00:00",
     "lane": "WADESBORO NC-ATLANTA GA"
   },
   {
