@@ -17,23 +17,6 @@
     "lane": "WINCHESTER KY-MIDLOTHIAN TX"
   },
   {
-    "pro": "51009",
-    "status": "OPEN",
-    "pu_date": "2026-10-19",
-    "pu_city": "WADESBORO",
-    "pu_state": "NC",
-    "pu_hours": "0730-1630",
-    "del_date": "",
-    "del_city": "ATLANTA",
-    "del_state": "GA",
-    "del_hours": "0800",
-    "equipment": "Van",
-    "weight_lbs": 44000,
-    "carrier_rate": 900,
-    "updated_at": "2026-10-19T12:24:46.407723+00:00",
-    "lane": "WADESBORO NC-ATLANTA GA"
-  },
-  {
     "pro": "51021",
     "status": "OPEN",
     "pu_date": "2026-10-19",
@@ -46,8 +29,8 @@
     "del_hours": "0600-1000",
     "equipment": "Van Hazmat",
     "weight_lbs": 35000,
-    "carrier_rate": 2500,
-    "updated_at": "2026-10-19T14:47:47.693407+00:00",
+    "carrier_rate": 2800,
+    "updated_at": "2026-10-19T15:04:39.531412+00:00",
     "lane": "WINCHESTER KY-SALISBURY NC"
   },
   {
@@ -64,7 +47,7 @@
     "equipment": "Van",
     "weight_lbs": 15000,
     "carrier_rate": 1000,
-    "updated_at": "2026-10-19T14:59:24.173423+00:00",
+    "updated_at": "2026-10-19T15:02:25.282753+00:00",
     "lane": "MOUNT PLEASANT TN-SAINT LOUIS MO"
   },
   {
@@ -832,6 +815,23 @@
     "weight_lbs": 44000,
     "carrier_rate": 900,
     "updated_at": "2026-10-19T13:43:03.833891+00:00",
+    "lane": "WADESBORO NC-ATLANTA GA"
+  },
+  {
+    "pro": "51009",
+    "status": "COVERED",
+    "pu_date": "2026-10-19",
+    "pu_city": "WADESBORO",
+    "pu_state": "NC",
+    "pu_hours": "0730-1630",
+    "del_date": "2026-10-20",
+    "del_city": "ATLANTA",
+    "del_state": "GA",
+    "del_hours": "0800-1600",
+    "equipment": "Flatbed",
+    "weight_lbs": 44000,
+    "carrier_rate": 900,
+    "updated_at": "2026-10-19T15:05:00.348445+00:00",
     "lane": "WADESBORO NC-ATLANTA GA"
   },
   {
