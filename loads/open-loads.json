@@ -48,7 +48,7 @@
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 5890,
     "carrier_rate": 450,
-    "updated_at": "2026-10-19T20:35:07.282810+00:00",
+    "updated_at": "2026-10-19T20:35:36.785214+00:00",
     "lane": "ORLANDO FL-MIAMI FL"
   },
   {
@@ -67,23 +67,6 @@
     "carrier_rate": 1750,
     "updated_at": "2026-10-19T19:12:23.259721+00:00",
     "lane": "RICHMOND VA-NORTH PALM BEACH FL"
-  },
-  {
-    "pro": "51025",
-    "status": "OPEN",
-    "pu_date": "2026-10-20",
-    "pu_city": "MOUNT PLEASANT",
-    "pu_state": "TN",
-    "pu_hours": "1100-1500",
-    "del_date": "2026-10-21",
-    "del_city": "SAINT LOUIS",
-    "del_state": "MO",
-    "del_hours": "0800",
-    "equipment": "Van",
-    "weight_lbs": 15000,
-    "carrier_rate": 1000,
-    "updated_at": "2026-10-19T15:35:33.418053+00:00",
-    "lane": "MOUNT PLEASANT TN-SAINT LOUIS MO"
   },
   {
     "pro": "51038",
@@ -782,23 +765,6 @@
     "carrier_rate": 5000,
     "updated_at": "2026-10-19T16:05:23.787413+00:00",
     "lane": "ALPHARETTA GA-AMARILLO TX"
-  },
-  {
-    "pro": "50975",
-    "status": "DELIVERED",
-    "pu_date": "2026-10-15",
-    "pu_city": "MOUNT PLEASANT",
-    "pu_state": "TN",
-    "pu_hours": "1400",
-    "del_date": "2026-10-16",
-    "del_city": "SAINT LOUIS",
-    "del_state": "MO",
-    "del_hours": "0800",
-    "equipment": "Van",
-    "weight_lbs": 15000,
-    "carrier_rate": 1000,
-    "updated_at": "2026-10-16T13:49:52.230942+00:00",
-    "lane": "MOUNT PLEASANT TN-SAINT LOUIS MO"
   },
   {
     "pro": "50936",
