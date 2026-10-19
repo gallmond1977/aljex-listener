@@ -512,23 +512,6 @@
     "lane": "WADESBORO NC-ATLANTA GA"
   },
   {
-    "pro": "50836",
-    "status": "RELEASED",
-    "pu_date": "2026-10-08",
-    "pu_city": "ALPHARETTA",
-    "pu_state": "GA",
-    "pu_hours": "0900-1600",
-    "del_date": "2026-10-12",
-    "del_city": "AMARILLO",
-    "del_state": "TX",
-    "del_hours": "0800-1400",
-    "equipment": "Flatbed w/ Tarps",
-    "weight_lbs": 42000,
-    "carrier_rate": 5000,
-    "updated_at": "2026-10-12T13:52:50.097450+00:00",
-    "lane": "ALPHARETTA GA-AMARILLO TX"
-  },
-  {
     "pro": "50893",
     "status": "RELEASED",
     "pu_date": "2026-10-08",
