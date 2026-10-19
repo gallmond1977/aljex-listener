@@ -183,8 +183,8 @@
     "del_hours": "0700-1500",
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 744,
-    "carrier_rate": null,
-    "updated_at": "2026-10-19T13:34:50.241989+00:00",
+    "carrier_rate": 450,
+    "updated_at": "2026-10-19T13:40:05.690450+00:00",
     "lane": "MACON GA-COLUMBIA SC"
   },
   {
