@@ -18,23 +18,6 @@
     "lane": "MOUNT PLEASANT TN-SOCIAL CIRCLE GA"
   },
   {
-    "pro": "50987",
-    "status": "OPEN",
-    "pu_date": "2026-10-20",
-    "pu_city": "WINCHESTER",
-    "pu_state": "KY",
-    "pu_hours": "0800-1500",
-    "del_date": "2026-10-22",
-    "del_city": "MIDLOTHIAN",
-    "del_state": "TX",
-    "del_hours": "0630-1000",
-    "equipment": "Van Hazmat",
-    "weight_lbs": 42000,
-    "carrier_rate": 4000,
-    "updated_at": "2026-10-19T20:54:34.761352+00:00",
-    "lane": "WINCHESTER KY-MIDLOTHIAN TX"
-  },
-  {
     "pro": "50995",
     "status": "OPEN",
     "pu_date": "2026-10-20",
@@ -67,6 +50,23 @@
     "carrier_rate": 1750,
     "updated_at": "2026-10-19T19:12:23.259721+00:00",
     "lane": "RICHMOND VA-NORTH PALM BEACH FL"
+  },
+  {
+    "pro": "51039",
+    "status": "OPEN",
+    "pu_date": "2026-10-20",
+    "pu_city": "MONTGOMERY",
+    "pu_state": "AL",
+    "pu_hours": "0730-1530",
+    "del_date": "2026-10-20",
+    "del_city": "ATLANTA",
+    "del_state": "GA",
+    "del_hours": "0800-1600",
+    "equipment": "Van",
+    "weight_lbs": 44000,
+    "carrier_rate": 800,
+    "updated_at": "2026-10-19T20:59:52.078325+00:00",
+    "lane": "MONTGOMERY AL-ATLANTA GA"
   },
   {
     "pro": "50082",
@@ -699,6 +699,23 @@
     "lane": "ALPHARETTA GA-AMARILLO TX"
   },
   {
+    "pro": "50959",
+    "status": "RELEASED",
+    "pu_date": "2026-10-13",
+    "pu_city": "MONTGOMERY",
+    "pu_state": "AL",
+    "pu_hours": "0730-1530",
+    "del_date": "2026-10-14",
+    "del_city": "ATLANTA",
+    "del_state": "GA",
+    "del_hours": "0800-1600",
+    "equipment": "Van",
+    "weight_lbs": 44000,
+    "carrier_rate": 800,
+    "updated_at": "2026-10-19T13:18:32.662245+00:00",
+    "lane": "MONTGOMERY AL-ATLANTA GA"
+  },
+  {
     "pro": "50257",
     "status": "RELEASED",
     "pu_date": "2026-10-14",
@@ -714,6 +731,23 @@
     "carrier_rate": 200,
     "updated_at": "2026-10-14T20:23:23.415902+00:00",
     "lane": "RICHMOND VA-RICHMOND VA"
+  },
+  {
+    "pro": "50960",
+    "status": "RELEASED",
+    "pu_date": "2026-10-14",
+    "pu_city": "MONTGOMERY",
+    "pu_state": "AL",
+    "pu_hours": "0730-1530",
+    "del_date": "2026-10-15",
+    "del_city": "ATLANTA",
+    "del_state": "GA",
+    "del_hours": "0800-1600",
+    "equipment": "Van",
+    "weight_lbs": 44000,
+    "carrier_rate": 800,
+    "updated_at": "2026-10-15T14:51:00.012255+00:00",
+    "lane": "MONTGOMERY AL-ATLANTA GA"
   },
   {
     "pro": "50929",
