@@ -171,6 +171,23 @@
     "lane": "COLUMBUS GA-STEVENS PA"
   },
   {
+    "pro": "51023",
+    "status": "OPEN",
+    "pu_date": "2026-10-20",
+    "pu_city": "MACON",
+    "pu_state": "GA",
+    "pu_hours": "0700-1200",
+    "del_date": "",
+    "del_city": "COLUMBIA",
+    "del_state": "SC",
+    "del_hours": "0800-1500",
+    "equipment": "26' Straight Box Truck",
+    "weight_lbs": 5000,
+    "carrier_rate": null,
+    "updated_at": "2026-10-19T13:28:57.451677+00:00",
+    "lane": "MACON GA-COLUMBIA SC"
+  },
+  {
     "pro": "49857",
     "status": "OPEN",
     "pu_date": "2026-10-21",
