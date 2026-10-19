@@ -734,7 +734,7 @@
   },
   {
     "pro": "50970",
-    "status": "DELIVERED",
+    "status": "RELEASED",
     "pu_date": "2026-10-15",
     "pu_city": "ALPHARETTA",
     "pu_state": "GA",
@@ -746,7 +746,7 @@
     "equipment": "Conestoga",
     "weight_lbs": 42000,
     "carrier_rate": 5000,
-    "updated_at": "2026-10-19T16:04:51.616438+00:00",
+    "updated_at": "2026-10-19T16:05:23.787413+00:00",
     "lane": "ALPHARETTA GA-AMARILLO TX"
   },
   {
