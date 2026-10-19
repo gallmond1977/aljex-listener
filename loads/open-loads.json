@@ -116,7 +116,7 @@
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 7794,
     "carrier_rate": 1300,
-    "updated_at": "2026-10-19T18:33:42.691662+00:00",
+    "updated_at": "2026-10-19T18:40:42.047570+00:00",
     "lane": "RICHMOND VA-NORTH PALM BEACH FL"
   },
   {
@@ -135,23 +135,6 @@
     "carrier_rate": 1000,
     "updated_at": "2026-10-19T15:35:33.418053+00:00",
     "lane": "MOUNT PLEASANT TN-SAINT LOUIS MO"
-  },
-  {
-    "pro": "51027",
-    "status": "OPEN",
-    "pu_date": "2026-10-20",
-    "pu_city": "LAGRANGE",
-    "pu_state": "GA",
-    "pu_hours": "0800-1700",
-    "del_date": "2026-10-21",
-    "del_city": "LOUISVILLE",
-    "del_state": "TN",
-    "del_hours": "0730-1500",
-    "equipment": "26' Straight Box Truck",
-    "weight_lbs": 5000,
-    "carrier_rate": 550,
-    "updated_at": "2026-10-19T18:33:32.512284+00:00",
-    "lane": "LAGRANGE GA-LOUISVILLE TN"
   },
   {
     "pro": "49857",
@@ -904,7 +887,7 @@
   },
   {
     "pro": "51009",
-    "status": "PICKUP",
+    "status": "LOADED",
     "pu_date": "2026-10-19",
     "pu_city": "WADESBORO",
     "pu_state": "NC",
@@ -916,7 +899,7 @@
     "equipment": "Flatbed",
     "weight_lbs": 44000,
     "carrier_rate": 900,
-    "updated_at": "2026-10-19T16:54:37.627952+00:00",
+    "updated_at": "2026-10-19T18:42:40.092521+00:00",
     "lane": "WADESBORO NC-ATLANTA GA"
   },
   {
