@@ -47,7 +47,7 @@
     "equipment": "Van Hazmat",
     "weight_lbs": 35000,
     "carrier_rate": 2100,
-    "updated_at": "2026-10-19T12:56:33.487048+00:00",
+    "updated_at": "2026-10-19T13:09:24.701050+00:00",
     "lane": "WINCHESTER KY-SALISBURY NC"
   },
   {
@@ -254,23 +254,6 @@
     "carrier_rate": 1500,
     "updated_at": "2026-10-14T15:24:51.255476+00:00",
     "lane": "WINCHESTER KY-BARRIE ON"
-  },
-  {
-    "pro": "50986",
-    "status": "OPEN",
-    "pu_date": "2026-10-21",
-    "pu_city": "WINCHESTER",
-    "pu_state": "KY",
-    "pu_hours": "8-3",
-    "del_date": "2026-10-22",
-    "del_city": "SALISBURY",
-    "del_state": "NC",
-    "del_hours": "0600-1500",
-    "equipment": "Van Hazmat",
-    "weight_lbs": 2000,
-    "carrier_rate": null,
-    "updated_at": "2026-10-16T13:47:19.172241+00:00",
-    "lane": "WINCHESTER KY-SALISBURY NC"
   },
   {
     "pro": "50993",
