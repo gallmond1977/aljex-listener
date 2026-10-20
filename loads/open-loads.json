@@ -144,24 +144,6 @@
     "lane": "PORT ANGELES WA-FULLERTON CA"
   },
   {
-    "pro": "8890463",
-    "status": "OPEN",
-    "spot": true,
-    "pu_date": "2026-10-20",
-    "pu_city": "CHEHALIS",
-    "pu_state": "WA",
-    "pu_hours": "",
-    "del_date": "2026-10-23",
-    "del_city": "DUNDEE",
-    "del_state": "OH",
-    "del_hours": "",
-    "equipment": "Flatbed",
-    "weight_lbs": 47000,
-    "carrier_rate": 6000,
-    "updated_at": "2026-10-20T18:18:01.587446+00:00",
-    "lane": "CHEHALIS WA-DUNDEE OH"
-  },
-  {
     "pro": "51055",
     "status": "OPEN",
     "pu_date": "2026-10-21",
@@ -355,6 +337,24 @@
     "carrier_rate": 4000,
     "updated_at": "2026-10-20T18:11:28.473885+00:00",
     "lane": "PORT ANGELES WA-EVANSVILLE IN"
+  },
+  {
+    "pro": "8890463",
+    "status": "OPEN",
+    "spot": true,
+    "pu_date": "2026-10-21",
+    "pu_city": "CHEHALIS",
+    "pu_state": "WA",
+    "pu_hours": "",
+    "del_date": "2026-10-23",
+    "del_city": "DUNDEE",
+    "del_state": "OH",
+    "del_hours": "",
+    "equipment": "Flatbed",
+    "weight_lbs": 47000,
+    "carrier_rate": 6000,
+    "updated_at": "2026-10-20T20:00:42.249486+00:00",
+    "lane": "CHEHALIS WA-DUNDEE OH"
   },
   {
     "pro": "8890464",
