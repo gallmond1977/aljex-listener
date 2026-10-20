@@ -48,7 +48,7 @@
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 1152,
     "carrier_rate": 400,
-    "updated_at": "2026-10-20T14:29:56.230452+00:00",
+    "updated_at": "2026-10-20T14:30:27.352485+00:00",
     "lane": "CHARLOTTE NC-CONWAY SC"
   },
   {
@@ -101,8 +101,8 @@
     "del_hours": "",
     "equipment": "Van",
     "weight_lbs": 44000,
-    "carrier_rate": 3200,
-    "updated_at": "2026-10-20T14:08:05.428564+00:00",
+    "carrier_rate": 2300,
+    "updated_at": "2026-10-20T14:30:40.433648+00:00",
     "lane": "PORT ANGELES WA-FULLERTON CA"
   },
   {
@@ -194,6 +194,24 @@
     "carrier_rate": 2300,
     "updated_at": "2026-10-20T14:29:58.562614+00:00",
     "lane": "CHEHALIS WA-FULLERTON CA"
+  },
+  {
+    "pro": "8890458",
+    "status": "OPEN",
+    "spot": true,
+    "pu_date": "2026-10-20",
+    "pu_city": "PORT ANGELES",
+    "pu_state": "WA",
+    "pu_hours": "",
+    "del_date": "2026-10-23",
+    "del_city": "FULLERTON",
+    "del_state": "CA",
+    "del_hours": "",
+    "equipment": "Van",
+    "weight_lbs": 44000,
+    "carrier_rate": 2300,
+    "updated_at": "2026-10-20T14:31:48.133868+00:00",
+    "lane": "PORT ANGELES WA-FULLERTON CA"
   },
   {
     "pro": "50082",
@@ -296,6 +314,23 @@
     "carrier_rate": 1800,
     "updated_at": "2026-10-20T14:13:38.306268+00:00",
     "lane": "BUFFALO NY-BELCAMP MD"
+  },
+  {
+    "pro": "51048",
+    "status": "OPEN",
+    "pu_date": "2026-10-21",
+    "pu_city": "COLUMBUS",
+    "pu_state": "GA",
+    "pu_hours": "0630-0800",
+    "del_date": "2026-10-21",
+    "del_city": "COLUMBUS",
+    "del_state": "GA",
+    "del_hours": "0800-1800",
+    "equipment": "26' Straight Box Truck",
+    "weight_lbs": 8000,
+    "carrier_rate": null,
+    "updated_at": "2026-10-20T14:35:00.817067+00:00",
+    "lane": "COLUMBUS GA-COLUMBUS GA"
   },
   {
     "pro": "8890446",
@@ -964,6 +999,23 @@
     "lane": "MONTGOMERY AL-ATLANTA GA"
   },
   {
+    "pro": "50921",
+    "status": "RELEASED",
+    "pu_date": "2026-10-15",
+    "pu_city": "COLUMBUS",
+    "pu_state": "GA",
+    "pu_hours": "0800",
+    "del_date": "2026-10-15",
+    "del_city": "COLUMBUS",
+    "del_state": "GA",
+    "del_hours": "",
+    "equipment": "Van",
+    "weight_lbs": 40000,
+    "carrier_rate": 1100,
+    "updated_at": "2026-10-16T15:46:37.385335+00:00",
+    "lane": "COLUMBUS GA-COLUMBUS GA"
+  },
+  {
     "pro": "50929",
     "status": "DELIVERED",
     "pu_date": "2026-10-15",
@@ -1130,12 +1182,12 @@
     "equipment": "Flatbed",
     "weight_lbs": 44000,
     "carrier_rate": 900,
-    "updated_at": "2026-10-20T14:27:42.235835+00:00",
+    "updated_at": "2026-10-20T14:34:52.100084+00:00",
     "lane": "WADESBORO NC-ATLANTA GA"
   },
   {
     "pro": "51010",
-    "status": "COVERED",
+    "status": "DISPATCHED",
     "pu_date": "2026-10-20",
     "pu_city": "WADESBORO",
     "pu_state": "NC",
@@ -1147,12 +1199,12 @@
     "equipment": "Van",
     "weight_lbs": 44000,
     "carrier_rate": 900,
-    "updated_at": "2026-10-20T12:58:41.262415+00:00",
+    "updated_at": "2026-10-20T14:30:21.352556+00:00",
     "lane": "WADESBORO NC-ATLANTA GA"
   },
   {
     "pro": "51039",
-    "status": "COVERED",
+    "status": "DISPATCHED",
     "pu_date": "2026-10-20",
     "pu_city": "MONTGOMERY",
     "pu_state": "AL",
@@ -1164,7 +1216,7 @@
     "equipment": "Van",
     "weight_lbs": 44000,
     "carrier_rate": 800,
-    "updated_at": "2026-10-20T13:34:54.576250+00:00",
+    "updated_at": "2026-10-20T14:34:38.299278+00:00",
     "lane": "MONTGOMERY AL-ATLANTA GA"
   },
   {
