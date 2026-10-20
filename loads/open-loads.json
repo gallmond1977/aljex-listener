@@ -35,23 +35,6 @@
     "lane": "RICHMOND VA-NORTH PALM BEACH FL"
   },
   {
-    "pro": "51039",
-    "status": "OPEN",
-    "pu_date": "2026-10-20",
-    "pu_city": "MONTGOMERY",
-    "pu_state": "AL",
-    "pu_hours": "0730-1530",
-    "del_date": "2026-10-20",
-    "del_city": "ATLANTA",
-    "del_state": "GA",
-    "del_hours": "0800-1600",
-    "equipment": "Van",
-    "weight_lbs": 44000,
-    "carrier_rate": 800,
-    "updated_at": "2026-10-19T21:03:47.273480+00:00",
-    "lane": "MONTGOMERY AL-ATLANTA GA"
-  },
-  {
     "pro": "51040",
     "status": "OPEN",
     "pu_date": "2026-10-20",
@@ -887,7 +870,7 @@
   },
   {
     "pro": "51009",
-    "status": "CONSIGNEE",
+    "status": "DELIVERED",
     "pu_date": "2026-10-19",
     "pu_city": "WADESBORO",
     "pu_state": "NC",
@@ -899,7 +882,7 @@
     "equipment": "Flatbed",
     "weight_lbs": 44000,
     "carrier_rate": 900,
-    "updated_at": "2026-10-20T10:28:23.905484+00:00",
+    "updated_at": "2026-10-20T13:07:19.325304+00:00",
     "lane": "WADESBORO NC-ATLANTA GA"
   },
   {
@@ -921,7 +904,7 @@
   },
   {
     "pro": "50800",
-    "status": "PICKUP",
+    "status": "LOADED",
     "pu_date": "2026-10-20",
     "pu_city": "ENTERPRISE",
     "pu_state": "AL",
@@ -933,7 +916,7 @@
     "equipment": "Van",
     "weight_lbs": 43131,
     "carrier_rate": 1600,
-    "updated_at": "2026-10-20T12:29:44.933032+00:00",
+    "updated_at": "2026-10-20T13:09:00.752101+00:00",
     "lane": "ENTERPRISE AL-SALISBURY NC"
   },
   {
@@ -969,5 +952,22 @@
     "carrier_rate": 900,
     "updated_at": "2026-10-20T12:58:41.262415+00:00",
     "lane": "WADESBORO NC-ATLANTA GA"
+  },
+  {
+    "pro": "51039",
+    "status": "COVERED",
+    "pu_date": "2026-10-20",
+    "pu_city": "MONTGOMERY",
+    "pu_state": "AL",
+    "pu_hours": "0730-1530",
+    "del_date": "2026-10-21",
+    "del_city": "ATLANTA",
+    "del_state": "GA",
+    "del_hours": "0800-1600",
+    "equipment": "Van",
+    "weight_lbs": 44000,
+    "carrier_rate": 800,
+    "updated_at": "2026-10-20T13:08:56.860918+00:00",
+    "lane": "MONTGOMERY AL-ATLANTA GA"
   }
 ]
