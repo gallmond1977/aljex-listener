@@ -198,23 +198,6 @@
     "lane": "CHEHALIS WA-STRUM WI"
   },
   {
-    "pro": "50082",
-    "status": "OPEN",
-    "pu_date": "2026-10-21",
-    "pu_city": "RICHMOND",
-    "pu_state": "VA",
-    "pu_hours": "0730-0800",
-    "del_date": "2026-10-21",
-    "del_city": "RICHMOND",
-    "del_state": "VA",
-    "del_hours": "0800-0900",
-    "equipment": "26' Straight Box Truck",
-    "weight_lbs": 5000,
-    "carrier_rate": 200,
-    "updated_at": "2026-10-20T18:49:26.572183+00:00",
-    "lane": "RICHMOND VA-RICHMOND VA"
-  },
-  {
     "pro": "51041",
     "status": "OPEN",
     "pu_date": "2026-10-21",
@@ -934,23 +917,6 @@
     "carrier_rate": 800,
     "updated_at": "2026-10-19T13:18:32.662245+00:00",
     "lane": "MONTGOMERY AL-ATLANTA GA"
-  },
-  {
-    "pro": "50257",
-    "status": "RELEASED",
-    "pu_date": "2026-10-14",
-    "pu_city": "RICHMOND",
-    "pu_state": "VA",
-    "pu_hours": "0930",
-    "del_date": "2026-10-14",
-    "del_city": "RICHMOND",
-    "del_state": "VA",
-    "del_hours": "1000-1030",
-    "equipment": "26' Straight Box Truck",
-    "weight_lbs": 4000,
-    "carrier_rate": 200,
-    "updated_at": "2026-10-14T20:23:23.415902+00:00",
-    "lane": "RICHMOND VA-RICHMOND VA"
   },
   {
     "pro": "50960",
