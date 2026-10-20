@@ -27,11 +27,11 @@
     "del_date": "2026-10-21",
     "del_city": "NORTH PALM BEACH",
     "del_state": "FL",
-    "del_hours": "0800",
+    "del_hours": "0800-1200",
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 7794,
     "carrier_rate": 2400,
-    "updated_at": "2026-10-20T16:00:52.421187+00:00",
+    "updated_at": "2026-10-20T16:25:49.034266+00:00",
     "lane": "RICHMOND VA-NORTH PALM BEACH FL"
   },
   {
@@ -42,14 +42,14 @@
     "pu_state": "GA",
     "pu_hours": "0800-1500",
     "del_date": "2026-10-20",
-    "del_city": "EUFAULA",
-    "del_state": "AL",
+    "del_city": "COLUMBUS",
+    "del_state": "GA",
     "del_hours": "0800-1700",
     "equipment": "Sprinter Van",
     "weight_lbs": 500,
-    "carrier_rate": null,
-    "updated_at": "2026-10-20T16:23:32.742212+00:00",
-    "lane": "ATLANTA GA-EUFAULA AL"
+    "carrier_rate": 300,
+    "updated_at": "2026-10-20T16:27:27.423411+00:00",
+    "lane": "ATLANTA GA-COLUMBUS GA"
   },
   {
     "pro": "8890449",
@@ -982,6 +982,23 @@
     "lane": "MONTGOMERY AL-ATLANTA GA"
   },
   {
+    "pro": "50968",
+    "status": "RELEASED",
+    "pu_date": "2026-10-14",
+    "pu_city": "ATLANTA",
+    "pu_state": "GA",
+    "pu_hours": "1000-1200",
+    "del_date": "2026-10-14",
+    "del_city": "COLUMBUS",
+    "del_state": "GA",
+    "del_hours": "1300-1700",
+    "equipment": "26' Straight Box Truck",
+    "weight_lbs": 5000,
+    "carrier_rate": 300,
+    "updated_at": "2026-10-15T16:10:56.460869+00:00",
+    "lane": "ATLANTA GA-COLUMBUS GA"
+  },
+  {
     "pro": "50921",
     "status": "RELEASED",
     "pu_date": "2026-10-15",
@@ -1116,23 +1133,6 @@
     "carrier_rate": 900,
     "updated_at": "2026-10-19T18:48:36.775261+00:00",
     "lane": "WADESBORO NC-ATLANTA GA"
-  },
-  {
-    "pro": "51011",
-    "status": "RELEASED",
-    "pu_date": "2026-10-16",
-    "pu_city": "ATLANTA",
-    "pu_state": "GA",
-    "pu_hours": "0800-1500",
-    "del_date": "2026-10-16",
-    "del_city": "EUFAULA",
-    "del_state": "AL",
-    "del_hours": "0800-1700",
-    "equipment": "Sprinter Van",
-    "weight_lbs": 500,
-    "carrier_rate": 400,
-    "updated_at": "2026-10-16T20:16:58.676806+00:00",
-    "lane": "ATLANTA GA-EUFAULA AL"
   },
   {
     "pro": "50996",
