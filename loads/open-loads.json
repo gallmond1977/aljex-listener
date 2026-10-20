@@ -30,8 +30,8 @@
     "del_hours": "0800",
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 7794,
-    "carrier_rate": 1850,
-    "updated_at": "2026-10-20T14:21:55.714728+00:00",
+    "carrier_rate": 2000,
+    "updated_at": "2026-10-20T14:51:26.992701+00:00",
     "lane": "RICHMOND VA-NORTH PALM BEACH FL"
   },
   {
@@ -314,6 +314,23 @@
     "carrier_rate": null,
     "updated_at": "2026-10-20T14:45:10.561034+00:00",
     "lane": "COLUMBUS GA-COLUMBUS GA"
+  },
+  {
+    "pro": "51049",
+    "status": "OPEN",
+    "pu_date": "2026-10-21",
+    "pu_city": "MOUNT PLEASANT",
+    "pu_state": "TN",
+    "pu_hours": "0800",
+    "del_date": "2026-10-21",
+    "del_city": "SAINT LOUIS",
+    "del_state": "MO",
+    "del_hours": "0800-1600",
+    "equipment": "Van",
+    "weight_lbs": 15000,
+    "carrier_rate": 1000,
+    "updated_at": "2026-10-20T14:55:03.654789+00:00",
+    "lane": "MOUNT PLEASANT TN-SAINT LOUIS MO"
   },
   {
     "pro": "8890446",
@@ -829,23 +846,6 @@
     "lane": "GRAND PRAIRIE TX-COLUMBUS GA"
   },
   {
-    "pro": "50925",
-    "status": "RELEASED",
-    "pu_date": "2026-10-12",
-    "pu_city": "WADESBORO",
-    "pu_state": "NC",
-    "pu_hours": "0730-1630",
-    "del_date": "2026-10-13",
-    "del_city": "ATLANTA",
-    "del_state": "GA",
-    "del_hours": "0800-1600",
-    "equipment": "Van",
-    "weight_lbs": 44000,
-    "carrier_rate": 900,
-    "updated_at": "2026-10-13T14:50:17.344665+00:00",
-    "lane": "WADESBORO NC-ATLANTA GA"
-  },
-  {
     "pro": "50935",
     "status": "RELEASED",
     "pu_date": "2026-10-12",
@@ -1031,6 +1031,23 @@
     "carrier_rate": 5000,
     "updated_at": "2026-10-19T16:05:23.787413+00:00",
     "lane": "ALPHARETTA GA-AMARILLO TX"
+  },
+  {
+    "pro": "50975",
+    "status": "RELEASED",
+    "pu_date": "2026-10-15",
+    "pu_city": "MOUNT PLEASANT",
+    "pu_state": "TN",
+    "pu_hours": "1400",
+    "del_date": "2026-10-16",
+    "del_city": "SAINT LOUIS",
+    "del_state": "MO",
+    "del_hours": "0800",
+    "equipment": "Van",
+    "weight_lbs": 15000,
+    "carrier_rate": 1000,
+    "updated_at": "2026-10-20T12:11:41.866907+00:00",
+    "lane": "MOUNT PLEASANT TN-SAINT LOUIS MO"
   },
   {
     "pro": "50936",
