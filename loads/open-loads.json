@@ -30,8 +30,8 @@
     "del_hours": "0800",
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 7794,
-    "carrier_rate": 1750,
-    "updated_at": "2026-10-20T12:23:56.238278+00:00",
+    "carrier_rate": 1850,
+    "updated_at": "2026-10-20T14:21:55.714728+00:00",
     "lane": "RICHMOND VA-NORTH PALM BEACH FL"
   },
   {
@@ -176,6 +176,24 @@
     "carrier_rate": 4900,
     "updated_at": "2026-10-20T14:19:54.332330+00:00",
     "lane": "CHEHALIS WA-NOGALES AZ"
+  },
+  {
+    "pro": "8890457",
+    "status": "OPEN",
+    "spot": true,
+    "pu_date": "2026-10-20",
+    "pu_city": "CHEHALIS",
+    "pu_state": "WA",
+    "pu_hours": "",
+    "del_date": "2026-10-23",
+    "del_city": "FULLERTON",
+    "del_state": "CA",
+    "del_hours": "",
+    "equipment": "Van",
+    "weight_lbs": 44000,
+    "carrier_rate": 2400,
+    "updated_at": "2026-10-20T14:20:29.299399+00:00",
+    "lane": "CHEHALIS WA-FULLERTON CA"
   },
   {
     "pro": "50082",
@@ -500,7 +518,7 @@
     "equipment": "Van",
     "weight_lbs": 40949,
     "carrier_rate": 1850,
-    "updated_at": "2026-10-19T19:56:49.202977+00:00",
+    "updated_at": "2026-10-20T14:23:18.695867+00:00",
     "lane": "GARLAND TX-CALHOUN GA"
   },
   {
