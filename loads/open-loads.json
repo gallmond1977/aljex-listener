@@ -230,6 +230,23 @@
     "lane": "PORT ANGELES WA-MAGNA UT"
   },
   {
+    "pro": "51056",
+    "status": "OPEN",
+    "pu_date": "2026-10-21",
+    "pu_city": "ALPHARETTA",
+    "pu_state": "GA",
+    "pu_hours": "0900-1700",
+    "del_date": "2026-10-23",
+    "del_city": "AMARILLO",
+    "del_state": "TX",
+    "del_hours": "0800-1400",
+    "equipment": "Flatbed w/ Tarps",
+    "weight_lbs": 42000,
+    "carrier_rate": 5000,
+    "updated_at": "2026-10-20T18:10:56.691189+00:00",
+    "lane": "ALPHARETTA GA-AMARILLO TX"
+  },
+  {
     "pro": "8890446",
     "status": "OPEN",
     "spot": true,
@@ -284,24 +301,6 @@
     "lane": "MEDLEY FL-DULUTH GA"
   },
   {
-    "pro": "8890459",
-    "status": "OPEN",
-    "spot": true,
-    "pu_date": "2026-10-21",
-    "pu_city": "PORT ANGELES",
-    "pu_state": "WA",
-    "pu_hours": "",
-    "del_date": "2026-10-21",
-    "del_city": "MAGNA",
-    "del_state": "UT",
-    "del_hours": "",
-    "equipment": "Van",
-    "weight_lbs": 44000,
-    "carrier_rate": 3100,
-    "updated_at": "2026-10-20T17:25:53.897660+00:00",
-    "lane": "PORT ANGELES WA-MAGNA UT"
-  },
-  {
     "pro": "8890460",
     "status": "OPEN",
     "spot": true,
@@ -346,14 +345,14 @@
     "pu_state": "WA",
     "pu_hours": "",
     "del_date": "2026-10-21",
-    "del_city": "GARDENA",
-    "del_state": "CA",
+    "del_city": "EVANSVILLE",
+    "del_state": "IN",
     "del_hours": "",
     "equipment": "Van",
     "weight_lbs": 44000,
-    "carrier_rate": 2300,
-    "updated_at": "2026-10-20T17:26:40.319288+00:00",
-    "lane": "PORT ANGELES WA-GARDENA CA"
+    "carrier_rate": 4000,
+    "updated_at": "2026-10-20T18:11:28.473885+00:00",
+    "lane": "PORT ANGELES WA-EVANSVILLE IN"
   },
   {
     "pro": "51016",
@@ -422,6 +421,24 @@
     "carrier_rate": null,
     "updated_at": "2026-10-19T19:01:19.203912+00:00",
     "lane": "MONTEZUMA GA-TRACY CA"
+  },
+  {
+    "pro": "8890459",
+    "status": "OPEN",
+    "spot": true,
+    "pu_date": "2026-10-23",
+    "pu_city": "PORT ANGELES",
+    "pu_state": "WA",
+    "pu_hours": "",
+    "del_date": "2026-10-23",
+    "del_city": "MAGNA",
+    "del_state": "UT",
+    "del_hours": "",
+    "equipment": "Van",
+    "weight_lbs": 44000,
+    "carrier_rate": 3100,
+    "updated_at": "2026-10-20T18:12:40.157114+00:00",
+    "lane": "PORT ANGELES WA-MAGNA UT"
   },
   {
     "pro": "51029",
