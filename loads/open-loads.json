@@ -18,6 +18,23 @@
     "lane": "MOUNT PLEASANT TN-SOCIAL CIRCLE GA"
   },
   {
+    "pro": "51024",
+    "status": "OPEN",
+    "pu_date": "2026-10-20",
+    "pu_city": "RICHMOND",
+    "pu_state": "VA",
+    "pu_hours": "1200-1400",
+    "del_date": "2026-10-21",
+    "del_city": "NORTH PALM BEACH",
+    "del_state": "FL",
+    "del_hours": "0800",
+    "equipment": "26' Straight Box Truck",
+    "weight_lbs": 7794,
+    "carrier_rate": 2200,
+    "updated_at": "2026-10-20T15:43:32.517444+00:00",
+    "lane": "RICHMOND VA-NORTH PALM BEACH FL"
+  },
+  {
     "pro": "51050",
     "status": "OPEN",
     "pu_date": "2026-10-20",
