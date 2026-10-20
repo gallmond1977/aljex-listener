@@ -242,8 +242,8 @@
     "del_hours": "0800-1800",
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 6000,
-    "carrier_rate": null,
-    "updated_at": "2026-10-20T14:45:10.561034+00:00",
+    "carrier_rate": 600,
+    "updated_at": "2026-10-20T17:37:22.904659+00:00",
     "lane": "COLUMBUS GA-COLUMBUS GA"
   },
   {
