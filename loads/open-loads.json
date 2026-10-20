@@ -209,7 +209,7 @@
     "equipment": "Van",
     "weight_lbs": 5000,
     "carrier_rate": 1100,
-    "updated_at": "2026-10-20T17:46:16.577550+00:00",
+    "updated_at": "2026-10-20T17:58:00.441862+00:00",
     "lane": "WINCHESTER KY-BARRIE ON"
   },
   {
@@ -260,7 +260,7 @@
     "equipment": "Van",
     "weight_lbs": 44000,
     "carrier_rate": 4000,
-    "updated_at": "2026-10-20T17:28:32.297851+00:00",
+    "updated_at": "2026-10-20T17:57:18.969532+00:00",
     "lane": "PORT ANGELES WA-MAGNA UT"
   },
   {
@@ -1156,7 +1156,7 @@
   },
   {
     "pro": "51010",
-    "status": "DISPATCHED",
+    "status": "PICKUP",
     "pu_date": "2026-10-20",
     "pu_city": "WADESBORO",
     "pu_state": "NC",
@@ -1168,7 +1168,7 @@
     "equipment": "Van",
     "weight_lbs": 44000,
     "carrier_rate": 900,
-    "updated_at": "2026-10-20T14:30:21.352556+00:00",
+    "updated_at": "2026-10-20T17:57:25.196542+00:00",
     "lane": "WADESBORO NC-ATLANTA GA"
   },
   {
