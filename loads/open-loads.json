@@ -35,23 +35,6 @@
     "lane": "RICHMOND VA-NORTH PALM BEACH FL"
   },
   {
-    "pro": "51053",
-    "status": "OPEN",
-    "pu_date": "2026-10-20",
-    "pu_city": "ATLANTA",
-    "pu_state": "GA",
-    "pu_hours": "0800-1500",
-    "del_date": "2026-10-20",
-    "del_city": "COLUMBUS",
-    "del_state": "GA",
-    "del_hours": "0800-1700",
-    "equipment": "Sprinter Van",
-    "weight_lbs": 500,
-    "carrier_rate": 300,
-    "updated_at": "2026-10-20T16:27:27.423411+00:00",
-    "lane": "ATLANTA GA-COLUMBUS GA"
-  },
-  {
     "pro": "8890449",
     "status": "OPEN",
     "spot": true,
@@ -980,23 +963,6 @@
     "carrier_rate": 800,
     "updated_at": "2026-10-15T14:51:00.012255+00:00",
     "lane": "MONTGOMERY AL-ATLANTA GA"
-  },
-  {
-    "pro": "50968",
-    "status": "RELEASED",
-    "pu_date": "2026-10-14",
-    "pu_city": "ATLANTA",
-    "pu_state": "GA",
-    "pu_hours": "1000-1200",
-    "del_date": "2026-10-14",
-    "del_city": "COLUMBUS",
-    "del_state": "GA",
-    "del_hours": "1300-1700",
-    "equipment": "26' Straight Box Truck",
-    "weight_lbs": 5000,
-    "carrier_rate": 300,
-    "updated_at": "2026-10-15T16:10:56.460869+00:00",
-    "lane": "ATLANTA GA-COLUMBUS GA"
   },
   {
     "pro": "50921",
