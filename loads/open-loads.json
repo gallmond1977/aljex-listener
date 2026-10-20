@@ -35,23 +35,6 @@
     "lane": "RICHMOND VA-NORTH PALM BEACH FL"
   },
   {
-    "pro": "51040",
-    "status": "OPEN",
-    "pu_date": "2026-10-20",
-    "pu_city": "MONTGOMERY",
-    "pu_state": "AL",
-    "pu_hours": "0730-1530",
-    "del_date": "2026-10-21",
-    "del_city": "ATLANTA",
-    "del_state": "GA",
-    "del_hours": "0800-1600",
-    "equipment": "Van",
-    "weight_lbs": 44000,
-    "carrier_rate": 800,
-    "updated_at": "2026-10-19T21:01:15.386752+00:00",
-    "lane": "MONTGOMERY AL-ATLANTA GA"
-  },
-  {
     "pro": "50082",
     "status": "OPEN",
     "pu_date": "2026-10-21",
@@ -968,6 +951,23 @@
     "weight_lbs": 44000,
     "carrier_rate": 800,
     "updated_at": "2026-10-20T13:08:56.860918+00:00",
+    "lane": "MONTGOMERY AL-ATLANTA GA"
+  },
+  {
+    "pro": "51040",
+    "status": "COVERED",
+    "pu_date": "2026-10-20",
+    "pu_city": "MONTGOMERY",
+    "pu_state": "AL",
+    "pu_hours": "0730-1530",
+    "del_date": "2026-10-21",
+    "del_city": "ATLANTA",
+    "del_state": "GA",
+    "del_hours": "0800-1600",
+    "equipment": "Van",
+    "weight_lbs": 44000,
+    "carrier_rate": 800,
+    "updated_at": "2026-10-20T13:14:40.939934+00:00",
     "lane": "MONTGOMERY AL-ATLANTA GA"
   }
 ]
