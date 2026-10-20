@@ -44,11 +44,11 @@
     "del_date": "2026-10-20",
     "del_city": "HAHIRA",
     "del_state": "GA",
-    "del_hours": "0800-1500",
+    "del_hours": "0800-1630",
     "equipment": "Sprinter Van",
     "weight_lbs": 750,
-    "carrier_rate": null,
-    "updated_at": "2026-10-20T15:24:33.054030+00:00",
+    "carrier_rate": 300,
+    "updated_at": "2026-10-20T15:27:46.739088+00:00",
     "lane": "COLUMBUS GA-HAHIRA GA"
   },
   {
@@ -280,23 +280,6 @@
     "carrier_rate": 800,
     "updated_at": "2026-10-19T21:02:51.775688+00:00",
     "lane": "MONTGOMERY AL-ATLANTA GA"
-  },
-  {
-    "pro": "51045",
-    "status": "OPEN",
-    "pu_date": "2026-10-21",
-    "pu_city": "BUFFALO",
-    "pu_state": "NY",
-    "pu_hours": "1000-1100",
-    "del_date": "2026-10-22",
-    "del_city": "BELCAMP",
-    "del_state": "MD",
-    "del_hours": "0700-1200",
-    "equipment": "Van",
-    "weight_lbs": 12467,
-    "carrier_rate": 1800,
-    "updated_at": "2026-10-20T14:10:23.452508+00:00",
-    "lane": "BUFFALO NY-BELCAMP MD"
   },
   {
     "pro": "51047",
@@ -572,6 +555,23 @@
     "carrier_rate": 1850,
     "updated_at": "2026-10-20T14:23:18.695867+00:00",
     "lane": "GARLAND TX-CALHOUN GA"
+  },
+  {
+    "pro": "51051",
+    "status": "OPEN",
+    "pu_date": "2026-10-29",
+    "pu_city": "COLUMBUS",
+    "pu_state": "GA",
+    "pu_hours": "1300",
+    "del_date": "2026-10-30",
+    "del_city": "VAN WERT",
+    "del_state": "OH",
+    "del_hours": "0900",
+    "equipment": "Van",
+    "weight_lbs": 9131,
+    "carrier_rate": null,
+    "updated_at": "2026-10-20T15:28:51.286001+00:00",
+    "lane": "COLUMBUS GA-VAN WERT OH"
   },
   {
     "pro": "50542",
@@ -1252,5 +1252,22 @@
     "carrier_rate": 800,
     "updated_at": "2026-10-20T13:23:34.841138+00:00",
     "lane": "MONTGOMERY AL-ATLANTA GA"
+  },
+  {
+    "pro": "51045",
+    "status": "COVERED",
+    "pu_date": "2026-10-21",
+    "pu_city": "BUFFALO",
+    "pu_state": "NY",
+    "pu_hours": "1000-1100",
+    "del_date": "2026-10-22",
+    "del_city": "BELCAMP",
+    "del_state": "MD",
+    "del_hours": "0700-1200",
+    "equipment": "Van",
+    "weight_lbs": 12467,
+    "carrier_rate": 1800,
+    "updated_at": "2026-10-20T15:29:52.454481+00:00",
+    "lane": "BUFFALO NY-BELCAMP MD"
   }
 ]
