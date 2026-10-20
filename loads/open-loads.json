@@ -179,6 +179,24 @@
     "lane": "PORT ANGELES WA-FULLERTON CA"
   },
   {
+    "pro": "8890463",
+    "status": "OPEN",
+    "spot": true,
+    "pu_date": "2026-10-20",
+    "pu_city": "CHEHALIS",
+    "pu_state": "WA",
+    "pu_hours": "",
+    "del_date": "2026-10-23",
+    "del_city": "DUNDEE",
+    "del_state": "OH",
+    "del_hours": "",
+    "equipment": "Flatbed",
+    "weight_lbs": 47000,
+    "carrier_rate": 6000,
+    "updated_at": "2026-10-20T18:18:01.587446+00:00",
+    "lane": "CHEHALIS WA-DUNDEE OH"
+  },
+  {
     "pro": "50082",
     "status": "OPEN",
     "pu_date": "2026-10-21",
@@ -242,8 +260,8 @@
     "del_hours": "0800-1400",
     "equipment": "Flatbed w/ Tarps",
     "weight_lbs": 42000,
-    "carrier_rate": 5000,
-    "updated_at": "2026-10-20T18:10:56.691189+00:00",
+    "carrier_rate": 4200,
+    "updated_at": "2026-10-20T18:15:32.376986+00:00",
     "lane": "ALPHARETTA GA-AMARILLO TX"
   },
   {
