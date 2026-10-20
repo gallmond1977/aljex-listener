@@ -282,23 +282,6 @@
     "lane": "COLUMBUS GA-COLUMBUS GA"
   },
   {
-    "pro": "51049",
-    "status": "OPEN",
-    "pu_date": "2026-10-21",
-    "pu_city": "MOUNT PLEASANT",
-    "pu_state": "TN",
-    "pu_hours": "0800",
-    "del_date": "2026-10-21",
-    "del_city": "SAINT LOUIS",
-    "del_state": "MO",
-    "del_hours": "0800-1600",
-    "equipment": "Van",
-    "weight_lbs": 15000,
-    "carrier_rate": 1000,
-    "updated_at": "2026-10-20T14:59:21.913058+00:00",
-    "lane": "MOUNT PLEASANT TN-SAINT LOUIS MO"
-  },
-  {
     "pro": "8890446",
     "status": "OPEN",
     "spot": true,
@@ -997,23 +980,6 @@
     "carrier_rate": 5000,
     "updated_at": "2026-10-19T16:05:23.787413+00:00",
     "lane": "ALPHARETTA GA-AMARILLO TX"
-  },
-  {
-    "pro": "50975",
-    "status": "RELEASED",
-    "pu_date": "2026-10-15",
-    "pu_city": "MOUNT PLEASANT",
-    "pu_state": "TN",
-    "pu_hours": "1400",
-    "del_date": "2026-10-16",
-    "del_city": "SAINT LOUIS",
-    "del_state": "MO",
-    "del_hours": "0800",
-    "equipment": "Van",
-    "weight_lbs": 15000,
-    "carrier_rate": 1000,
-    "updated_at": "2026-10-20T12:11:41.866907+00:00",
-    "lane": "MOUNT PLEASANT TN-SAINT LOUIS MO"
   },
   {
     "pro": "50936",
