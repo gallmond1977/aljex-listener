@@ -69,23 +69,6 @@
     "lane": "MONTGOMERY AL-ATLANTA GA"
   },
   {
-    "pro": "51042",
-    "status": "OPEN",
-    "pu_date": "2026-10-20",
-    "pu_city": "PAYSON",
-    "pu_state": "UT",
-    "pu_hours": "0800-1600",
-    "del_date": "2026-10-21",
-    "del_city": "PHOENIX",
-    "del_state": "AZ",
-    "del_hours": "0500-1000",
-    "equipment": "Van",
-    "weight_lbs": 43000,
-    "carrier_rate": 1900,
-    "updated_at": "2026-10-20T12:48:22.885014+00:00",
-    "lane": "PAYSON UT-PHOENIX AZ"
-  },
-  {
     "pro": "50082",
     "status": "OPEN",
     "pu_date": "2026-10-21",
