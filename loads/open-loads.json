@@ -35,23 +35,6 @@
     "lane": "RICHMOND VA-NORTH PALM BEACH FL"
   },
   {
-    "pro": "51046",
-    "status": "OPEN",
-    "pu_date": "2026-10-20",
-    "pu_city": "CHARLOTTE",
-    "pu_state": "NC",
-    "pu_hours": "0800-1500",
-    "del_date": "2026-10-20",
-    "del_city": "CONWAY",
-    "del_state": "SC",
-    "del_hours": "0800-1600",
-    "equipment": "26' Straight Box Truck",
-    "weight_lbs": 1152,
-    "carrier_rate": 400,
-    "updated_at": "2026-10-20T14:30:27.352485+00:00",
-    "lane": "CHARLOTTE NC-CONWAY SC"
-  },
-  {
     "pro": "8890449",
     "status": "OPEN",
     "spot": true,
@@ -329,7 +312,7 @@
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 6000,
     "carrier_rate": null,
-    "updated_at": "2026-10-20T14:39:43.974393+00:00",
+    "updated_at": "2026-10-20T14:45:10.561034+00:00",
     "lane": "COLUMBUS GA-COLUMBUS GA"
   },
   {
