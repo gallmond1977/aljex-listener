@@ -184,14 +184,14 @@
     "pu_city": "GRAND PRAIRIE",
     "pu_state": "TX",
     "pu_hours": "0800-1200",
-    "del_date": "2026-10-22",
+    "del_date": "2026-10-23",
     "del_city": "TAMPA",
     "del_state": "FL",
     "del_hours": "0800-1400",
     "equipment": "Van",
     "weight_lbs": 40000,
-    "carrier_rate": 3300,
-    "updated_at": "2026-10-20T19:51:08.627963+00:00",
+    "carrier_rate": 3400,
+    "updated_at": "2026-10-20T20:05:43.954457+00:00",
     "lane": "GRAND PRAIRIE TX-TAMPA FL"
   },
   {
