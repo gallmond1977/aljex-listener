@@ -35,6 +35,23 @@
     "lane": "RICHMOND VA-NORTH PALM BEACH FL"
   },
   {
+    "pro": "51050",
+    "status": "OPEN",
+    "pu_date": "2026-10-20",
+    "pu_city": "COLUMBUS",
+    "pu_state": "GA",
+    "pu_hours": "0800-1500",
+    "del_date": "2026-10-20",
+    "del_city": "HAHIRA",
+    "del_state": "GA",
+    "del_hours": "0800-1500",
+    "equipment": "Sprinter Van",
+    "weight_lbs": 750,
+    "carrier_rate": null,
+    "updated_at": "2026-10-20T15:24:33.054030+00:00",
+    "lane": "COLUMBUS GA-HAHIRA GA"
+  },
+  {
     "pro": "8890449",
     "status": "OPEN",
     "spot": true,
@@ -1165,7 +1182,7 @@
     "equipment": "Flatbed w/ Tarps",
     "weight_lbs": 42000,
     "carrier_rate": 5000,
-    "updated_at": "2026-10-19T17:57:31.179652+00:00",
+    "updated_at": "2026-10-20T15:24:30.167789+00:00",
     "lane": "ALPHARETTA GA-AMARILLO TX"
   },
   {
