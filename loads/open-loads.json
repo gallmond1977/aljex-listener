@@ -195,6 +195,23 @@
     "lane": "GRAND PRAIRIE TX-TAMPA FL"
   },
   {
+    "pro": "51060",
+    "status": "OPEN",
+    "pu_date": "2026-10-21",
+    "pu_city": "NEWNAN",
+    "pu_state": "GA",
+    "pu_hours": "8-4",
+    "del_date": "2026-10-23",
+    "del_city": "MCALLEN",
+    "del_state": "TX",
+    "del_hours": "0800-1600",
+    "equipment": "Van",
+    "weight_lbs": 42000,
+    "carrier_rate": 1900,
+    "updated_at": "2026-10-20T20:20:18.778208+00:00",
+    "lane": "NEWNAN GA-MCALLEN TX"
+  },
+  {
     "pro": "8890446",
     "status": "OPEN",
     "spot": true,
