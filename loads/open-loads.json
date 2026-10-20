@@ -85,7 +85,7 @@
     "equipment": "Van",
     "weight_lbs": 44000,
     "carrier_rate": 2300,
-    "updated_at": "2026-10-20T17:27:41.342417+00:00",
+    "updated_at": "2026-10-20T18:03:14.040246+00:00",
     "lane": "PORT ANGELES WA-FULLERTON CA"
   },
   {
@@ -121,7 +121,7 @@
     "equipment": "Van",
     "weight_lbs": 44000,
     "carrier_rate": 2200,
-    "updated_at": "2026-10-20T14:18:49.417905+00:00",
+    "updated_at": "2026-10-20T18:03:40.300402+00:00",
     "lane": "PORT ANGELES WA-UPLAND CA"
   },
   {
@@ -139,7 +139,7 @@
     "equipment": "Van",
     "weight_lbs": 44000,
     "carrier_rate": 4800,
-    "updated_at": "2026-10-20T14:29:24.869849+00:00",
+    "updated_at": "2026-10-20T18:01:53.019763+00:00",
     "lane": "CHEHALIS WA-NOGALES AZ"
   },
   {
@@ -157,7 +157,7 @@
     "equipment": "Van",
     "weight_lbs": 44000,
     "carrier_rate": 2300,
-    "updated_at": "2026-10-20T14:29:58.562614+00:00",
+    "updated_at": "2026-10-20T18:03:02.250851+00:00",
     "lane": "CHEHALIS WA-FULLERTON CA"
   },
   {
@@ -194,23 +194,6 @@
     "carrier_rate": 200,
     "updated_at": "2026-10-20T14:36:31.639702+00:00",
     "lane": "RICHMOND VA-RICHMOND VA"
-  },
-  {
-    "pro": "50969",
-    "status": "OPEN",
-    "pu_date": "2026-10-21",
-    "pu_city": "WINCHESTER",
-    "pu_state": "KY",
-    "pu_hours": "0800-1400",
-    "del_date": "2026-10-23",
-    "del_city": "BARRIE",
-    "del_state": "ON",
-    "del_hours": "",
-    "equipment": "Van",
-    "weight_lbs": 5000,
-    "carrier_rate": 1100,
-    "updated_at": "2026-10-20T17:58:00.441862+00:00",
-    "lane": "WINCHESTER KY-BARRIE ON"
   },
   {
     "pro": "51041",
@@ -350,7 +333,7 @@
     "equipment": "Van",
     "weight_lbs": 44000,
     "carrier_rate": 2200,
-    "updated_at": "2026-10-20T17:26:06.203968+00:00",
+    "updated_at": "2026-10-20T18:03:30.324947+00:00",
     "lane": "PORT ANGELES WA-UPLAND CA"
   },
   {
@@ -368,7 +351,7 @@
     "equipment": "Van",
     "weight_lbs": 44000,
     "carrier_rate": 2300,
-    "updated_at": "2026-10-20T17:27:50.512881+00:00",
+    "updated_at": "2026-10-20T18:03:20.315071+00:00",
     "lane": "PORT ANGELES WA-FULLERTON CA"
   },
   {
@@ -1185,7 +1168,7 @@
     "equipment": "Van",
     "weight_lbs": 44000,
     "carrier_rate": 800,
-    "updated_at": "2026-10-20T16:54:44.217155+00:00",
+    "updated_at": "2026-10-20T18:05:06.216889+00:00",
     "lane": "MONTGOMERY AL-ATLANTA GA"
   },
   {
