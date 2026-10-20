@@ -41,14 +41,14 @@
     "pu_city": "CHARLOTTE",
     "pu_state": "NC",
     "pu_hours": "0800-1500",
-    "del_date": "",
+    "del_date": "2026-10-20",
     "del_city": "CONWAY",
     "del_state": "SC",
     "del_hours": "0800-1600",
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 1152,
-    "carrier_rate": null,
-    "updated_at": "2026-10-20T13:58:56.626986+00:00",
+    "carrier_rate": 350,
+    "updated_at": "2026-10-20T14:04:23.157292+00:00",
     "lane": "CHARLOTTE NC-CONWAY SC"
   },
   {
@@ -65,8 +65,8 @@
     "del_hours": "",
     "equipment": "Flatbed w/ Tarps",
     "weight_lbs": 47000,
-    "carrier_rate": null,
-    "updated_at": "2026-10-20T13:57:56.641839+00:00",
+    "carrier_rate": 1600,
+    "updated_at": "2026-10-20T14:00:56.112282+00:00",
     "lane": "MEDLEY FL-DULUTH GA"
   },
   {
@@ -103,23 +103,6 @@
     "carrier_rate": 200,
     "updated_at": "2026-10-14T12:30:18.586396+00:00",
     "lane": "RICHMOND VA-RICHMOND VA"
-  },
-  {
-    "pro": "50799",
-    "status": "OPEN",
-    "pu_date": "2026-10-21",
-    "pu_city": "ENTERPRISE",
-    "pu_state": "AL",
-    "pu_hours": "0800-1400",
-    "del_date": "2026-10-22",
-    "del_city": "SALISBURY",
-    "del_state": "NC",
-    "del_hours": "0800",
-    "equipment": "Van",
-    "weight_lbs": 42878,
-    "carrier_rate": 1600,
-    "updated_at": "2026-10-19T19:58:10.867051+00:00",
-    "lane": "ENTERPRISE AL-SALISBURY NC"
   },
   {
     "pro": "50969",
@@ -185,8 +168,8 @@
     "del_hours": "0700-1200",
     "equipment": "Van",
     "weight_lbs": 12467,
-    "carrier_rate": 1700,
-    "updated_at": "2026-10-20T13:53:53.510869+00:00",
+    "carrier_rate": 1800,
+    "updated_at": "2026-10-20T14:04:23.326131+00:00",
     "lane": "BUFFALO NY-BELCAMP MD"
   },
   {
@@ -1007,23 +990,6 @@
     "carrier_rate": 5000,
     "updated_at": "2026-10-19T17:57:31.179652+00:00",
     "lane": "ALPHARETTA GA-AMARILLO TX"
-  },
-  {
-    "pro": "50800",
-    "status": "LOADED",
-    "pu_date": "2026-10-20",
-    "pu_city": "ENTERPRISE",
-    "pu_state": "AL",
-    "pu_hours": "0800-1400",
-    "del_date": "2026-10-21",
-    "del_city": "SALISBURY",
-    "del_state": "NC",
-    "del_hours": "0800",
-    "equipment": "Van",
-    "weight_lbs": 43131,
-    "carrier_rate": 1600,
-    "updated_at": "2026-10-20T13:09:00.752101+00:00",
-    "lane": "ENTERPRISE AL-SALISBURY NC"
   },
   {
     "pro": "50997",
