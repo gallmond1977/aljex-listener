@@ -1124,7 +1124,7 @@
   },
   {
     "pro": "51039",
-    "status": "DISPATCHED",
+    "status": "PICKUP",
     "pu_date": "2026-10-20",
     "pu_city": "MONTGOMERY",
     "pu_state": "AL",
@@ -1136,7 +1136,7 @@
     "equipment": "Van",
     "weight_lbs": 44000,
     "carrier_rate": 800,
-    "updated_at": "2026-10-20T18:05:06.216889+00:00",
+    "updated_at": "2026-10-20T19:01:51.043777+00:00",
     "lane": "MONTGOMERY AL-ATLANTA GA"
   },
   {
