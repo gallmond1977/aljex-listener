@@ -18,23 +18,6 @@
     "lane": "MOUNT PLEASANT TN-SOCIAL CIRCLE GA"
   },
   {
-    "pro": "50993",
-    "status": "OPEN",
-    "pu_date": "2026-10-20",
-    "pu_city": "PAYSON",
-    "pu_state": "UT",
-    "pu_hours": "0800-1400",
-    "del_date": "2026-10-21",
-    "del_city": "ALBUQUERQUE",
-    "del_state": "NM",
-    "del_hours": "0600-1400",
-    "equipment": "Flatbed w/ Tarps",
-    "weight_lbs": 43000,
-    "carrier_rate": 2200,
-    "updated_at": "2026-10-20T16:36:20.508807+00:00",
-    "lane": "PAYSON UT-ALBUQUERQUE NM"
-  },
-  {
     "pro": "8890449",
     "status": "OPEN",
     "spot": true,
@@ -195,6 +178,24 @@
     "carrier_rate": 6000,
     "updated_at": "2026-10-20T18:18:01.587446+00:00",
     "lane": "CHEHALIS WA-DUNDEE OH"
+  },
+  {
+    "pro": "8890464",
+    "status": "OPEN",
+    "spot": true,
+    "pu_date": "2026-10-20",
+    "pu_city": "CHEHALIS",
+    "pu_state": "WA",
+    "pu_hours": "",
+    "del_date": "2026-10-23",
+    "del_city": "STRUM",
+    "del_state": "WI",
+    "del_hours": "",
+    "equipment": "Flatbed",
+    "weight_lbs": 47000,
+    "carrier_rate": 5000,
+    "updated_at": "2026-10-20T18:21:37.705557+00:00",
+    "lane": "CHEHALIS WA-STRUM WI"
   },
   {
     "pro": "50082",
@@ -454,8 +455,8 @@
     "del_hours": "",
     "equipment": "Van",
     "weight_lbs": 44000,
-    "carrier_rate": 3100,
-    "updated_at": "2026-10-20T18:12:40.157114+00:00",
+    "carrier_rate": 3600,
+    "updated_at": "2026-10-20T18:23:42.903621+00:00",
     "lane": "PORT ANGELES WA-MAGNA UT"
   },
   {
