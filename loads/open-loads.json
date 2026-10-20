@@ -18,23 +18,6 @@
     "lane": "MOUNT PLEASANT TN-SOCIAL CIRCLE GA"
   },
   {
-    "pro": "50995",
-    "status": "OPEN",
-    "pu_date": "2026-10-20",
-    "pu_city": "ORLANDO",
-    "pu_state": "FL",
-    "pu_hours": "0700-1430",
-    "del_date": "2026-10-20",
-    "del_city": "MIAMI",
-    "del_state": "FL",
-    "del_hours": "0730-1530",
-    "equipment": "26' Straight Box Truck",
-    "weight_lbs": 5890,
-    "carrier_rate": 450,
-    "updated_at": "2026-10-19T20:35:36.785214+00:00",
-    "lane": "ORLANDO FL-MIAMI FL"
-  },
-  {
     "pro": "51024",
     "status": "OPEN",
     "pu_date": "2026-10-20",
@@ -96,10 +79,10 @@
     "del_city": "PHOENIX",
     "del_state": "AZ",
     "del_hours": "0500-1000",
-    "equipment": "Flatbed w/ Tarps",
+    "equipment": "Van",
     "weight_lbs": 43000,
     "carrier_rate": 1900,
-    "updated_at": "2026-10-20T12:04:01.962863+00:00",
+    "updated_at": "2026-10-20T12:31:38.725883+00:00",
     "lane": "PAYSON UT-PHOENIX AZ"
   },
   {
