@@ -213,23 +213,6 @@
     "lane": "MONTGOMERY AL-ATLANTA GA"
   },
   {
-    "pro": "51048",
-    "status": "OPEN",
-    "pu_date": "2026-10-21",
-    "pu_city": "COLUMBUS",
-    "pu_state": "GA",
-    "pu_hours": "0630-0800",
-    "del_date": "2026-10-21",
-    "del_city": "COLUMBUS",
-    "del_state": "GA",
-    "del_hours": "0800-1800",
-    "equipment": "26' Straight Box Truck",
-    "weight_lbs": 6000,
-    "carrier_rate": 600,
-    "updated_at": "2026-10-20T17:37:22.904659+00:00",
-    "lane": "COLUMBUS GA-COLUMBUS GA"
-  },
-  {
     "pro": "51055",
     "status": "OPEN",
     "pu_date": "2026-10-21",
@@ -949,23 +932,6 @@
     "carrier_rate": 800,
     "updated_at": "2026-10-15T14:51:00.012255+00:00",
     "lane": "MONTGOMERY AL-ATLANTA GA"
-  },
-  {
-    "pro": "50921",
-    "status": "RELEASED",
-    "pu_date": "2026-10-15",
-    "pu_city": "COLUMBUS",
-    "pu_state": "GA",
-    "pu_hours": "0800",
-    "del_date": "2026-10-15",
-    "del_city": "COLUMBUS",
-    "del_state": "GA",
-    "del_hours": "",
-    "equipment": "Van",
-    "weight_lbs": 40000,
-    "carrier_rate": 1100,
-    "updated_at": "2026-10-16T15:46:37.385335+00:00",
-    "lane": "COLUMBUS GA-COLUMBUS GA"
   },
   {
     "pro": "50929",
