@@ -248,23 +248,6 @@
     "lane": "MONTGOMERY AL-ATLANTA GA"
   },
   {
-    "pro": "51045",
-    "status": "OPEN",
-    "pu_date": "2026-10-21",
-    "pu_city": "BUFFALO",
-    "pu_state": "NY",
-    "pu_hours": "1000-1100",
-    "del_date": "2026-10-22",
-    "del_city": "BELCAMP",
-    "del_state": "MD",
-    "del_hours": "0700-1200",
-    "equipment": "Van",
-    "weight_lbs": 12467,
-    "carrier_rate": 1800,
-    "updated_at": "2026-10-20T15:30:56.400380+00:00",
-    "lane": "BUFFALO NY-BELCAMP MD"
-  },
-  {
     "pro": "51048",
     "status": "OPEN",
     "pu_date": "2026-10-21",
@@ -795,23 +778,6 @@
     "lane": "GRAND PRAIRIE TX-COLUMBUS GA"
   },
   {
-    "pro": "50935",
-    "status": "RELEASED",
-    "pu_date": "2026-10-12",
-    "pu_city": "BUFFALO",
-    "pu_state": "NY",
-    "pu_hours": "1300-1500",
-    "del_date": "2026-10-13",
-    "del_city": "BELCAMP",
-    "del_state": "MD",
-    "del_hours": "0700-1200",
-    "equipment": "Van",
-    "weight_lbs": 19000,
-    "carrier_rate": 2000,
-    "updated_at": "2026-10-14T20:13:42.345473+00:00",
-    "lane": "BUFFALO NY-BELCAMP MD"
-  },
-  {
     "pro": "50758",
     "status": "RELEASED",
     "pu_date": "2026-10-13",
@@ -1167,22 +1133,5 @@
     "carrier_rate": 800,
     "updated_at": "2026-10-20T16:16:21.243425+00:00",
     "lane": "MONTGOMERY AL-ATLANTA GA"
-  },
-  {
-    "pro": "51047",
-    "status": "COVERED",
-    "pu_date": "2026-10-21",
-    "pu_city": "BUFFALO",
-    "pu_state": "NY",
-    "pu_hours": "1300-1400",
-    "del_date": "2026-10-22",
-    "del_city": "BELCAMP",
-    "del_state": "MD",
-    "del_hours": "0700-1500",
-    "equipment": "Van",
-    "weight_lbs": 14479,
-    "carrier_rate": 1800,
-    "updated_at": "2026-10-20T15:55:30.064230+00:00",
-    "lane": "BUFFALO NY-BELCAMP MD"
   }
 ]
