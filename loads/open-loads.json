@@ -52,6 +52,23 @@
     "lane": "COLUMBUS GA-HAHIRA GA"
   },
   {
+    "pro": "51052",
+    "status": "OPEN",
+    "pu_date": "2026-10-20",
+    "pu_city": "UNION CITY",
+    "pu_state": "GA",
+    "pu_hours": "1300",
+    "del_date": "2026-10-21",
+    "del_city": "SANFORD",
+    "del_state": "FL",
+    "del_hours": "0700",
+    "equipment": "Sprinter Van",
+    "weight_lbs": 1500,
+    "carrier_rate": 600,
+    "updated_at": "2026-10-20T15:49:53.088551+00:00",
+    "lane": "UNION CITY GA-SANFORD FL"
+  },
+  {
     "pro": "8890449",
     "status": "OPEN",
     "spot": true,
@@ -948,6 +965,23 @@
     "lane": "ALPHARETTA GA-AMARILLO TX"
   },
   {
+    "pro": "50942",
+    "status": "RELEASED",
+    "pu_date": "2026-10-13",
+    "pu_city": "UNION CITY",
+    "pu_state": "GA",
+    "pu_hours": "1000",
+    "del_date": "2026-10-13",
+    "del_city": "SANFORD",
+    "del_state": "FL",
+    "del_hours": "0700",
+    "equipment": "26' Straight Box Truck",
+    "weight_lbs": 7000,
+    "carrier_rate": null,
+    "updated_at": "2026-10-14T18:56:18.070939+00:00",
+    "lane": "UNION CITY GA-SANFORD FL"
+  },
+  {
     "pro": "50959",
     "status": "RELEASED",
     "pu_date": "2026-10-13",
@@ -1065,6 +1099,23 @@
     "carrier_rate": 1000,
     "updated_at": "2026-10-20T12:11:41.866907+00:00",
     "lane": "MOUNT PLEASANT TN-SAINT LOUIS MO"
+  },
+  {
+    "pro": "50977",
+    "status": "RELEASED",
+    "pu_date": "2026-10-15",
+    "pu_city": "UNION CITY",
+    "pu_state": "GA",
+    "pu_hours": "1300",
+    "del_date": "2026-10-16",
+    "del_city": "SANFORD",
+    "del_state": "FL",
+    "del_hours": "0700",
+    "equipment": "26' Straight Box Truck",
+    "weight_lbs": 2000,
+    "carrier_rate": 1000,
+    "updated_at": "2026-10-19T13:28:01.136301+00:00",
+    "lane": "UNION CITY GA-SANFORD FL"
   },
   {
     "pro": "50936",
