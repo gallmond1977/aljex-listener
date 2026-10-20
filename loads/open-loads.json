@@ -223,11 +223,11 @@
     "del_date": "2026-10-21",
     "del_city": "RICHMOND",
     "del_state": "VA",
-    "del_hours": "CALL!",
+    "del_hours": "0800-0900",
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 5000,
     "carrier_rate": 200,
-    "updated_at": "2026-10-14T12:30:18.586396+00:00",
+    "updated_at": "2026-10-20T14:36:31.639702+00:00",
     "lane": "RICHMOND VA-RICHMOND VA"
   },
   {
@@ -327,9 +327,9 @@
     "del_state": "GA",
     "del_hours": "0800-1800",
     "equipment": "26' Straight Box Truck",
-    "weight_lbs": 8000,
+    "weight_lbs": 6000,
     "carrier_rate": null,
-    "updated_at": "2026-10-20T14:35:00.817067+00:00",
+    "updated_at": "2026-10-20T14:39:43.974393+00:00",
     "lane": "COLUMBUS GA-COLUMBUS GA"
   },
   {
