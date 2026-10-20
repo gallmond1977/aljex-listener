@@ -984,7 +984,7 @@
     "equipment": "Flatbed",
     "weight_lbs": 44000,
     "carrier_rate": 900,
-    "updated_at": "2026-10-19T20:25:12.810473+00:00",
+    "updated_at": "2026-10-20T12:15:20.016784+00:00",
     "lane": "WADESBORO NC-ATLANTA GA"
   },
   {
@@ -1001,7 +1001,7 @@
     "equipment": "Van",
     "weight_lbs": 44000,
     "carrier_rate": 900,
-    "updated_at": "2026-10-19T13:43:14.959268+00:00",
+    "updated_at": "2026-10-20T12:13:56.434645+00:00",
     "lane": "WADESBORO NC-ATLANTA GA"
   }
 ]
