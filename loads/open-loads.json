@@ -31,7 +31,7 @@
     "equipment": "Sprinter Van",
     "weight_lbs": 750,
     "carrier_rate": 300,
-    "updated_at": "2026-10-20T15:27:46.739088+00:00",
+    "updated_at": "2026-10-20T15:39:08.253315+00:00",
     "lane": "COLUMBUS GA-HAHIRA GA"
   },
   {
@@ -49,7 +49,7 @@
     "equipment": "Flatbed w/ Tarps",
     "weight_lbs": 47000,
     "carrier_rate": 1600,
-    "updated_at": "2026-10-20T14:00:56.112282+00:00",
+    "updated_at": "2026-10-20T15:36:58.228644+00:00",
     "lane": "MEDLEY FL-DULUTH GA"
   },
   {
@@ -67,7 +67,7 @@
     "equipment": "Conestoga",
     "weight_lbs": 47000,
     "carrier_rate": null,
-    "updated_at": "2026-10-20T13:58:11.642165+00:00",
+    "updated_at": "2026-10-20T15:37:25.089264+00:00",
     "lane": "MEDLEY FL-DULUTH GA"
   },
   {
