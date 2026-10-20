@@ -18,21 +18,21 @@
     "lane": "MOUNT PLEASANT TN-SOCIAL CIRCLE GA"
   },
   {
-    "pro": "51024",
+    "pro": "50993",
     "status": "OPEN",
     "pu_date": "2026-10-20",
-    "pu_city": "RICHMOND",
-    "pu_state": "VA",
-    "pu_hours": "1200-1400",
+    "pu_city": "PAYSON",
+    "pu_state": "UT",
+    "pu_hours": "0800-1400",
     "del_date": "2026-10-21",
-    "del_city": "NORTH PALM BEACH",
-    "del_state": "FL",
-    "del_hours": "0800-1200",
-    "equipment": "26' Straight Box Truck",
-    "weight_lbs": 7794,
-    "carrier_rate": 2400,
-    "updated_at": "2026-10-20T16:25:49.034266+00:00",
-    "lane": "RICHMOND VA-NORTH PALM BEACH FL"
+    "del_city": "ALBUQUERQUE",
+    "del_state": "NM",
+    "del_hours": "0600-1400",
+    "equipment": "Flatbed w/ Tarps",
+    "weight_lbs": 43000,
+    "carrier_rate": 2200,
+    "updated_at": "2026-10-20T16:36:20.508807+00:00",
+    "lane": "PAYSON UT-ALBUQUERQUE NM"
   },
   {
     "pro": "8890449",
@@ -229,23 +229,6 @@
     "carrier_rate": 1500,
     "updated_at": "2026-10-20T13:42:46.319057+00:00",
     "lane": "WINCHESTER KY-BARRIE ON"
-  },
-  {
-    "pro": "50993",
-    "status": "OPEN",
-    "pu_date": "2026-10-21",
-    "pu_city": "PAYSON",
-    "pu_state": "UT",
-    "pu_hours": "0800-1400",
-    "del_date": "2026-10-22",
-    "del_city": "ALBUQUERQUE",
-    "del_state": "NM",
-    "del_hours": "0600-1400",
-    "equipment": "Flatbed w/ Tarps",
-    "weight_lbs": 43000,
-    "carrier_rate": 2000,
-    "updated_at": "2026-10-15T16:44:19.461721+00:00",
-    "lane": "PAYSON UT-ALBUQUERQUE NM"
   },
   {
     "pro": "51041",
