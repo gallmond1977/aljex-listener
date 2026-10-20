@@ -35,6 +35,23 @@
     "lane": "RICHMOND VA-NORTH PALM BEACH FL"
   },
   {
+    "pro": "51053",
+    "status": "OPEN",
+    "pu_date": "2026-10-20",
+    "pu_city": "ATLANTA",
+    "pu_state": "GA",
+    "pu_hours": "0800-1500",
+    "del_date": "2026-10-20",
+    "del_city": "EUFAULA",
+    "del_state": "AL",
+    "del_hours": "0800-1700",
+    "equipment": "Sprinter Van",
+    "weight_lbs": 500,
+    "carrier_rate": null,
+    "updated_at": "2026-10-20T16:23:32.742212+00:00",
+    "lane": "ATLANTA GA-EUFAULA AL"
+  },
+  {
     "pro": "8890449",
     "status": "OPEN",
     "spot": true,
@@ -348,7 +365,7 @@
     "equipment": "Flatbed w/ Tarps",
     "weight_lbs": 47000,
     "carrier_rate": null,
-    "updated_at": "2026-10-20T13:57:44.705910+00:00",
+    "updated_at": "2026-10-20T16:23:42.152265+00:00",
     "lane": "MEDLEY FL-DULUTH GA"
   },
   {
@@ -366,7 +383,7 @@
     "equipment": "Conestoga",
     "weight_lbs": 47000,
     "carrier_rate": null,
-    "updated_at": "2026-10-20T13:58:20.127787+00:00",
+    "updated_at": "2026-10-20T16:23:48.632743+00:00",
     "lane": "MEDLEY FL-DULUTH GA"
   },
   {
@@ -1099,6 +1116,23 @@
     "carrier_rate": 900,
     "updated_at": "2026-10-19T18:48:36.775261+00:00",
     "lane": "WADESBORO NC-ATLANTA GA"
+  },
+  {
+    "pro": "51011",
+    "status": "RELEASED",
+    "pu_date": "2026-10-16",
+    "pu_city": "ATLANTA",
+    "pu_state": "GA",
+    "pu_hours": "0800-1500",
+    "del_date": "2026-10-16",
+    "del_city": "EUFAULA",
+    "del_state": "AL",
+    "del_hours": "0800-1700",
+    "equipment": "Sprinter Van",
+    "weight_lbs": 500,
+    "carrier_rate": 400,
+    "updated_at": "2026-10-16T20:16:58.676806+00:00",
+    "lane": "ATLANTA GA-EUFAULA AL"
   },
   {
     "pro": "50996",
