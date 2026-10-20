@@ -265,6 +265,23 @@
     "lane": "COLUMBUS GA-COLUMBUS GA"
   },
   {
+    "pro": "51054",
+    "status": "OPEN",
+    "pu_date": "2026-10-21",
+    "pu_city": "ELLAVILLE",
+    "pu_state": "GA",
+    "pu_hours": "0800-1500",
+    "del_date": "2026-10-23",
+    "del_city": "LAREDO",
+    "del_state": "TX",
+    "del_hours": "0900-1200",
+    "equipment": "Reefer",
+    "weight_lbs": 42500,
+    "carrier_rate": 2700,
+    "updated_at": "2026-10-20T17:19:38.315676+00:00",
+    "lane": "ELLAVILLE GA-LAREDO TX"
+  },
+  {
     "pro": "8890446",
     "status": "OPEN",
     "spot": true,
