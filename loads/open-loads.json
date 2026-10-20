@@ -904,7 +904,7 @@
   },
   {
     "pro": "51009",
-    "status": "LOADED",
+    "status": "CONSIGNEE",
     "pu_date": "2026-10-19",
     "pu_city": "WADESBORO",
     "pu_state": "NC",
@@ -916,7 +916,7 @@
     "equipment": "Flatbed",
     "weight_lbs": 44000,
     "carrier_rate": 900,
-    "updated_at": "2026-10-19T18:42:40.092521+00:00",
+    "updated_at": "2026-10-20T10:28:23.905484+00:00",
     "lane": "WADESBORO NC-ATLANTA GA"
   },
   {
