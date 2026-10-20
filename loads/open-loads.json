@@ -47,8 +47,8 @@
     "del_hours": "0800-1600",
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 1152,
-    "carrier_rate": 350,
-    "updated_at": "2026-10-20T14:04:23.157292+00:00",
+    "carrier_rate": 400,
+    "updated_at": "2026-10-20T14:29:56.230452+00:00",
     "lane": "CHARLOTTE NC-CONWAY SC"
   },
   {
@@ -173,8 +173,8 @@
     "del_hours": "",
     "equipment": "Van",
     "weight_lbs": 44000,
-    "carrier_rate": 4900,
-    "updated_at": "2026-10-20T14:19:54.332330+00:00",
+    "carrier_rate": 4800,
+    "updated_at": "2026-10-20T14:29:24.869849+00:00",
     "lane": "CHEHALIS WA-NOGALES AZ"
   },
   {
@@ -191,8 +191,8 @@
     "del_hours": "",
     "equipment": "Van",
     "weight_lbs": 44000,
-    "carrier_rate": 2400,
-    "updated_at": "2026-10-20T14:20:29.299399+00:00",
+    "carrier_rate": 2300,
+    "updated_at": "2026-10-20T14:29:58.562614+00:00",
     "lane": "CHEHALIS WA-FULLERTON CA"
   },
   {
@@ -1118,7 +1118,7 @@
   },
   {
     "pro": "50997",
-    "status": "DISPATCHED",
+    "status": "PICKUP",
     "pu_date": "2026-10-20",
     "pu_city": "WADESBORO",
     "pu_state": "NC",
@@ -1130,7 +1130,7 @@
     "equipment": "Flatbed",
     "weight_lbs": 44000,
     "carrier_rate": 900,
-    "updated_at": "2026-10-20T12:23:11.465530+00:00",
+    "updated_at": "2026-10-20T14:27:42.235835+00:00",
     "lane": "WADESBORO NC-ATLANTA GA"
   },
   {
