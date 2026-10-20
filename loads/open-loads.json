@@ -528,6 +528,23 @@
     "lane": "GARLAND TX-CALHOUN GA"
   },
   {
+    "pro": "51058",
+    "status": "OPEN",
+    "pu_date": "2026-10-26",
+    "pu_city": "JACKSON",
+    "pu_state": "MS",
+    "pu_hours": "0600-1400",
+    "del_date": "2026-10-27",
+    "del_city": "LAGRANGE",
+    "del_state": "GA",
+    "del_hours": "0800",
+    "equipment": "Van",
+    "weight_lbs": 36000,
+    "carrier_rate": 1150,
+    "updated_at": "2026-10-20T19:29:04.264447+00:00",
+    "lane": "JACKSON MS-LAGRANGE GA"
+  },
+  {
     "pro": "51051",
     "status": "OPEN",
     "pu_date": "2026-10-29",
