@@ -322,23 +322,6 @@
     "lane": "ABERDEEN MD-CHARLOTTE NC"
   },
   {
-    "pro": "51069",
-    "status": "OPEN",
-    "pu_date": "2026-10-22",
-    "pu_city": "WINCHESTER",
-    "pu_state": "KY",
-    "pu_hours": "1330-1500",
-    "del_date": "2026-10-23",
-    "del_city": "JOLIET",
-    "del_state": "IL",
-    "del_hours": "0730",
-    "equipment": "Van",
-    "weight_lbs": 11280,
-    "carrier_rate": 1000,
-    "updated_at": "2026-10-21T14:37:42.273540+00:00",
-    "lane": "WINCHESTER KY-JOLIET IL"
-  },
-  {
     "pro": "51076",
     "status": "OPEN",
     "pu_date": "2026-10-22",
@@ -918,23 +901,6 @@
     "lane": "WADESBORO NC-ATLANTA GA"
   },
   {
-    "pro": "50916",
-    "status": "RELEASED",
-    "pu_date": "2026-10-09",
-    "pu_city": "WINCHESTER",
-    "pu_state": "KY",
-    "pu_hours": "1100-1500",
-    "del_date": "2026-10-10",
-    "del_city": "JOLIET",
-    "del_state": "IL",
-    "del_hours": "0930",
-    "equipment": "Van",
-    "weight_lbs": 14580,
-    "carrier_rate": 1000,
-    "updated_at": "2026-10-14T19:42:04.388496+00:00",
-    "lane": "WINCHESTER KY-JOLIET IL"
-  },
-  {
     "pro": "49856",
     "status": "RELEASED",
     "pu_date": "2026-10-12",
@@ -1360,6 +1326,23 @@
     "lane": "ATLANTA GA-DECATUR GA"
   },
   {
+    "pro": "51069",
+    "status": "COVERED",
+    "pu_date": "2026-10-22",
+    "pu_city": "WINCHESTER",
+    "pu_state": "KY",
+    "pu_hours": "1330-1500",
+    "del_date": "2026-10-23",
+    "del_city": "JOLIET",
+    "del_state": "IL",
+    "del_hours": "0730",
+    "equipment": "Van",
+    "weight_lbs": 11280,
+    "carrier_rate": 1000,
+    "updated_at": "2026-10-21T19:44:44.456861+00:00",
+    "lane": "WINCHESTER KY-JOLIET IL"
+  },
+  {
     "pro": "51070",
     "status": "COVERED",
     "pu_date": "2026-10-22",
@@ -1373,7 +1356,7 @@
     "equipment": "Van",
     "weight_lbs": 11280,
     "carrier_rate": 1000,
-    "updated_at": "2026-10-21T19:39:30.425362+00:00",
+    "updated_at": "2026-10-21T19:42:33.476788+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
   }
 ]
