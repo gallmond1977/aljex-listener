@@ -126,23 +126,6 @@
     "lane": "PORT ANGELES WA-FULLERTON CA"
   },
   {
-    "pro": "50998",
-    "status": "OPEN",
-    "pu_date": "2026-10-21",
-    "pu_city": "WADESBORO",
-    "pu_state": "NC",
-    "pu_hours": "0730-1630",
-    "del_date": "2026-10-22",
-    "del_city": "ATLANTA",
-    "del_state": "GA",
-    "del_hours": "0800-1600",
-    "equipment": "Van",
-    "weight_lbs": 44000,
-    "carrier_rate": 900,
-    "updated_at": "2026-10-21T18:06:20.374503+00:00",
-    "lane": "WADESBORO NC-ATLANTA GA"
-  },
-  {
     "pro": "51075",
     "status": "OPEN",
     "pu_date": "2026-10-21",
@@ -693,7 +676,7 @@
     "equipment": "Reefer",
     "weight_lbs": 21264,
     "carrier_rate": 450,
-    "updated_at": "2026-10-21T19:04:02.692652+00:00",
+    "updated_at": "2026-10-21T19:13:29.110161+00:00",
     "lane": "ATLANTA GA-DECATUR GA"
   },
   {
@@ -710,7 +693,7 @@
     "equipment": "Reefer",
     "weight_lbs": 22150,
     "carrier_rate": 450,
-    "updated_at": "2026-10-21T19:05:28.641602+00:00",
+    "updated_at": "2026-10-21T19:13:47.985616+00:00",
     "lane": "ATLANTA GA-DECATUR GA"
   },
   {
@@ -727,7 +710,7 @@
     "equipment": "Reefer",
     "weight_lbs": 20378,
     "carrier_rate": 450,
-    "updated_at": "2026-10-21T19:07:01.216767+00:00",
+    "updated_at": "2026-10-21T19:14:12.180622+00:00",
     "lane": "ATLANTA GA-DECATUR GA"
   },
   {
@@ -744,7 +727,7 @@
     "equipment": "Reefer",
     "weight_lbs": 21264,
     "carrier_rate": 450,
-    "updated_at": "2026-10-21T19:09:12.583086+00:00",
+    "updated_at": "2026-10-21T19:14:47.700284+00:00",
     "lane": "ATLANTA GA-DECATUR GA"
   },
   {
@@ -761,7 +744,7 @@
     "equipment": "Reefer",
     "weight_lbs": 21264,
     "carrier_rate": 450,
-    "updated_at": "2026-10-21T19:10:07.463405+00:00",
+    "updated_at": "2026-10-21T19:10:55.589478+00:00",
     "lane": "ATLANTA GA-DECATUR GA"
   },
   {
@@ -916,23 +899,6 @@
     "carrier_rate": null,
     "updated_at": "2026-09-03T14:33:15.542069+00:00",
     "lane": "LA PORTE TX-GREENVILLE SC"
-  },
-  {
-    "pro": "50810",
-    "status": "RELEASED",
-    "pu_date": "2026-10-08",
-    "pu_city": "HOUSTON",
-    "pu_state": "TX",
-    "pu_hours": "0700",
-    "del_date": "2026-10-09",
-    "del_city": "SANFORD",
-    "del_state": "FL",
-    "del_hours": "0700",
-    "equipment": "26' Straight Box Truck",
-    "weight_lbs": 7000,
-    "carrier_rate": 2400,
-    "updated_at": "2026-10-14T19:10:39.427221+00:00",
-    "lane": "HOUSTON TX-SANFORD FL"
   },
   {
     "pro": "50894",
@@ -1340,6 +1306,23 @@
     "weight_lbs": 44000,
     "carrier_rate": 900,
     "updated_at": "2026-10-21T16:37:01.287130+00:00",
+    "lane": "WADESBORO NC-ATLANTA GA"
+  },
+  {
+    "pro": "50998",
+    "status": "COVERED",
+    "pu_date": "2026-10-21",
+    "pu_city": "WADESBORO",
+    "pu_state": "NC",
+    "pu_hours": "0730-1630",
+    "del_date": "2026-10-22",
+    "del_city": "ATLANTA",
+    "del_state": "GA",
+    "del_hours": "0800-1600",
+    "equipment": "Van",
+    "weight_lbs": 44000,
+    "carrier_rate": 900,
+    "updated_at": "2026-10-21T19:12:05.533436+00:00",
     "lane": "WADESBORO NC-ATLANTA GA"
   },
   {
