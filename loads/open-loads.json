@@ -472,7 +472,7 @@
     "equipment": "Van",
     "weight_lbs": 23600,
     "carrier_rate": 1400,
-    "updated_at": "2026-10-21T13:23:09.659207+00:00",
+    "updated_at": "2026-10-21T13:34:57.550817+00:00",
     "lane": "SCOTTDALE GA-CLEVELAND OH"
   },
   {
@@ -1311,7 +1311,7 @@
   },
   {
     "pro": "50997",
-    "status": "CONSIGNEE",
+    "status": "DELIVERED",
     "pu_date": "2026-10-20",
     "pu_city": "WADESBORO",
     "pu_state": "NC",
@@ -1323,7 +1323,7 @@
     "equipment": "Flatbed",
     "weight_lbs": 44000,
     "carrier_rate": 900,
-    "updated_at": "2026-10-21T10:51:42.175207+00:00",
+    "updated_at": "2026-10-21T13:31:17.746634+00:00",
     "lane": "WADESBORO NC-ATLANTA GA"
   },
   {
