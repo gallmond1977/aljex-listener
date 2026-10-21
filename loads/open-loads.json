@@ -172,8 +172,8 @@
     "del_hours": "0800-1630",
     "equipment": "Van",
     "weight_lbs": 20260,
-    "carrier_rate": 1800,
-    "updated_at": "2026-10-21T13:18:17.688669+00:00",
+    "carrier_rate": 1920,
+    "updated_at": "2026-10-21T14:02:04.761965+00:00",
     "lane": "NEWNAN GA-MCALLEN TX"
   },
   {
@@ -182,15 +182,15 @@
     "pu_date": "2026-10-21",
     "pu_city": "HOLLY SPRINGS",
     "pu_state": "NC",
-    "pu_hours": "1200-1500",
+    "pu_hours": "1030-1500",
     "del_date": "2026-10-22",
     "del_city": "HAUPPAUGE",
     "del_state": "NY",
     "del_hours": "0500-1100",
     "equipment": "Flatbed Hot Shot",
     "weight_lbs": 3500,
-    "carrier_rate": 1100,
-    "updated_at": "2026-10-21T13:28:14.626561+00:00",
+    "carrier_rate": 1300,
+    "updated_at": "2026-10-21T14:03:19.123409+00:00",
     "lane": "HOLLY SPRINGS NC-HAUPPAUGE NY"
   },
   {
@@ -429,7 +429,7 @@
     "pu_date": "2026-10-22",
     "pu_city": "WINCHESTER",
     "pu_state": "KY",
-    "pu_hours": "NEED",
+    "pu_hours": "0900-1500",
     "del_date": "2026-10-23",
     "del_city": "JOLIET",
     "del_state": "IL",
@@ -437,7 +437,7 @@
     "equipment": "Van",
     "weight_lbs": 11280,
     "carrier_rate": 1000,
-    "updated_at": "2026-10-21T13:36:43.560827+00:00",
+    "updated_at": "2026-10-21T14:04:41.707120+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
@@ -505,7 +505,7 @@
     "equipment": "Van",
     "weight_lbs": 11280,
     "carrier_rate": 1000,
-    "updated_at": "2026-10-21T13:40:20.817742+00:00",
+    "updated_at": "2026-10-21T14:04:01.243991+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
