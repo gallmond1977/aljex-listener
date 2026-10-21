@@ -172,8 +172,8 @@
     "del_hours": "0500-1100",
     "equipment": "Flatbed Hot Shot",
     "weight_lbs": 3500,
-    "carrier_rate": 1400,
-    "updated_at": "2026-10-21T15:03:47.260868+00:00",
+    "carrier_rate": 1600,
+    "updated_at": "2026-10-21T15:35:09.914188+00:00",
     "lane": "HOLLY SPRINGS NC-HAUPPAUGE NY"
   },
   {
@@ -371,23 +371,6 @@
     "carrier_rate": 2200,
     "updated_at": "2026-10-21T12:00:44.519643+00:00",
     "lane": "VILLA RICA GA-STEVENS PA"
-  },
-  {
-    "pro": "51067",
-    "status": "OPEN",
-    "pu_date": "2026-10-22",
-    "pu_city": "SCOTTDALE",
-    "pu_state": "GA",
-    "pu_hours": "1000-1400",
-    "del_date": "2026-10-23",
-    "del_city": "CLEVELAND",
-    "del_state": "OH",
-    "del_hours": "0700-1500",
-    "equipment": "Van",
-    "weight_lbs": 18802,
-    "carrier_rate": 1500,
-    "updated_at": "2026-10-21T15:14:03.486850+00:00",
-    "lane": "SCOTTDALE GA-CLEVELAND OH"
   },
   {
     "pro": "51069",
@@ -642,7 +625,7 @@
     "equipment": "Van",
     "weight_lbs": 36000,
     "carrier_rate": 1150,
-    "updated_at": "2026-10-20T19:36:07.697619+00:00",
+    "updated_at": "2026-10-21T15:34:46.392621+00:00",
     "lane": "JACKSON MS-LAGRANGE GA"
   },
   {
