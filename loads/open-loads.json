@@ -149,14 +149,14 @@
     "pu_city": "NEWNAN",
     "pu_state": "GA",
     "pu_hours": "0915-1600",
-    "del_date": "2026-10-23",
+    "del_date": "2026-10-22",
     "del_city": "MCALLEN",
     "del_state": "TX",
     "del_hours": "0800-1630",
     "equipment": "Van",
     "weight_lbs": 20260,
     "carrier_rate": 2000,
-    "updated_at": "2026-10-21T14:38:29.494743+00:00",
+    "updated_at": "2026-10-21T14:49:33.767457+00:00",
     "lane": "NEWNAN GA-MCALLEN TX"
   },
   {
@@ -190,7 +190,7 @@
     "equipment": "Van",
     "weight_lbs": 43500,
     "carrier_rate": 1000,
-    "updated_at": "2026-10-21T14:43:26.947344+00:00",
+    "updated_at": "2026-10-21T14:47:01.558291+00:00",
     "lane": "BUENA VISTA GA-CHARLOTTE NC"
   },
   {
