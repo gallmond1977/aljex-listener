@@ -143,23 +143,6 @@
     "lane": "ALPHARETTA GA-AMARILLO TX"
   },
   {
-    "pro": "51068",
-    "status": "OPEN",
-    "pu_date": "2026-10-21",
-    "pu_city": "HOLLY SPRINGS",
-    "pu_state": "NC",
-    "pu_hours": "1030-1630",
-    "del_date": "2026-10-22",
-    "del_city": "HAUPPAUGE",
-    "del_state": "NY",
-    "del_hours": "0500-1100",
-    "equipment": "Flatbed Hot Shot",
-    "weight_lbs": 3500,
-    "carrier_rate": 1600,
-    "updated_at": "2026-10-21T15:50:12.519280+00:00",
-    "lane": "HOLLY SPRINGS NC-HAUPPAUGE NY"
-  },
-  {
     "pro": "51075",
     "status": "OPEN",
     "pu_date": "2026-10-21",
@@ -173,7 +156,7 @@
     "equipment": "Flatbed Hot Shot",
     "weight_lbs": 16000,
     "carrier_rate": null,
-    "updated_at": "2026-10-21T15:57:39.660250+00:00",
+    "updated_at": "2026-10-21T16:04:22.532932+00:00",
     "lane": "ROPER NC-SUMMERVILLE SC"
   },
   {
@@ -488,7 +471,7 @@
     "equipment": "Van",
     "weight_lbs": 35000,
     "carrier_rate": 4200,
-    "updated_at": "2026-10-21T15:51:20.203673+00:00",
+    "updated_at": "2026-10-21T16:02:50.663470+00:00",
     "lane": "PHENIX CITY AL-ROCKLAND ME"
   },
   {
