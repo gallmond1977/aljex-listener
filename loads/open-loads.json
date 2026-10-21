@@ -1,23 +1,5 @@
 [
   {
-    "pro": "8890443",
-    "status": "OPEN",
-    "spot": true,
-    "pu_date": "2026-10-19",
-    "pu_city": "MOUNT PLEASANT",
-    "pu_state": "TN",
-    "pu_hours": "",
-    "del_date": "2026-10-20",
-    "del_city": "SOCIAL CIRCLE",
-    "del_state": "GA",
-    "del_hours": "",
-    "equipment": "Van",
-    "weight_lbs": 15100,
-    "carrier_rate": 1000,
-    "updated_at": "2026-10-16T15:02:12.351211+00:00",
-    "lane": "MOUNT PLEASANT TN-SOCIAL CIRCLE GA"
-  },
-  {
     "pro": "8890449",
     "status": "OPEN",
     "spot": true,
