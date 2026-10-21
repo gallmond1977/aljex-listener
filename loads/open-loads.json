@@ -884,23 +884,6 @@
     "lane": "LA PORTE TX-GREENVILLE SC"
   },
   {
-    "pro": "50894",
-    "status": "RELEASED",
-    "pu_date": "2026-10-09",
-    "pu_city": "WADESBORO",
-    "pu_state": "NC",
-    "pu_hours": "0730-1630",
-    "del_date": "2026-10-12",
-    "del_city": "ATLANTA",
-    "del_state": "GA",
-    "del_hours": "0800-1600",
-    "equipment": "Van",
-    "weight_lbs": 44000,
-    "carrier_rate": 850,
-    "updated_at": "2026-10-14T19:47:14.096484+00:00",
-    "lane": "WADESBORO NC-ATLANTA GA"
-  },
-  {
     "pro": "49856",
     "status": "RELEASED",
     "pu_date": "2026-10-12",
@@ -1339,7 +1322,7 @@
     "equipment": "Van",
     "weight_lbs": 11280,
     "carrier_rate": 1000,
-    "updated_at": "2026-10-21T19:44:44.456861+00:00",
+    "updated_at": "2026-10-21T19:45:36.545838+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
