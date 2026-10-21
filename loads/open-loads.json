@@ -489,7 +489,7 @@
     "equipment": "Van",
     "weight_lbs": 11280,
     "carrier_rate": null,
-    "updated_at": "2026-10-21T12:59:45.842543+00:00",
+    "updated_at": "2026-10-21T13:00:08.406299+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
@@ -542,6 +542,23 @@
     "carrier_rate": null,
     "updated_at": "2026-10-19T19:01:19.203912+00:00",
     "lane": "MONTEZUMA GA-TRACY CA"
+  },
+  {
+    "pro": "51071",
+    "status": "OPEN",
+    "pu_date": "2026-10-23",
+    "pu_city": "WINCHESTER",
+    "pu_state": "KY",
+    "pu_hours": "0800-1030",
+    "del_date": "2026-10-23",
+    "del_city": "JOLIET",
+    "del_state": "IL",
+    "del_hours": "",
+    "equipment": "Van",
+    "weight_lbs": 11280,
+    "carrier_rate": null,
+    "updated_at": "2026-10-21T13:03:01.621956+00:00",
+    "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
     "pro": "8890459",
