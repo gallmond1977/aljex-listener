@@ -190,7 +190,7 @@
     "equipment": "Van",
     "weight_lbs": 43500,
     "carrier_rate": 1000,
-    "updated_at": "2026-10-21T14:40:20.712397+00:00",
+    "updated_at": "2026-10-21T14:43:26.947344+00:00",
     "lane": "BUENA VISTA GA-CHARLOTTE NC"
   },
   {
@@ -520,9 +520,9 @@
     "del_state": "ME",
     "del_hours": "CALL!",
     "equipment": "Van",
-    "weight_lbs": 30000,
+    "weight_lbs": 35000,
     "carrier_rate": 4200,
-    "updated_at": "2026-10-21T14:39:46.628011+00:00",
+    "updated_at": "2026-10-21T14:44:40.893980+00:00",
     "lane": "PHENIX CITY AL-ROCKLAND ME"
   },
   {
@@ -1225,7 +1225,7 @@
   },
   {
     "pro": "51012",
-    "status": "CONSIGNEE",
+    "status": "DELIVERED",
     "pu_date": "2026-10-19",
     "pu_city": "ALPHARETTA",
     "pu_state": "GA",
@@ -1237,7 +1237,7 @@
     "equipment": "Flatbed w/ Tarps",
     "weight_lbs": 42000,
     "carrier_rate": 5000,
-    "updated_at": "2026-10-21T13:10:37.086155+00:00",
+    "updated_at": "2026-10-21T14:43:55.903248+00:00",
     "lane": "ALPHARETTA GA-AMARILLO TX"
   },
   {
