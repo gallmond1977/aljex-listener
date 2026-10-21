@@ -165,7 +165,7 @@
     "pu_date": "2026-10-21",
     "pu_city": "NEWNAN",
     "pu_state": "GA",
-    "pu_hours": "1100-1600",
+    "pu_hours": "0915-1600",
     "del_date": "2026-10-23",
     "del_city": "MCALLEN",
     "del_state": "TX",
@@ -173,7 +173,7 @@
     "equipment": "Van",
     "weight_lbs": 20260,
     "carrier_rate": 1800,
-    "updated_at": "2026-10-20T20:31:56.303720+00:00",
+    "updated_at": "2026-10-21T13:18:17.688669+00:00",
     "lane": "NEWNAN GA-MCALLEN TX"
   },
   {
@@ -225,7 +225,7 @@
     "equipment": "Van Hazmat",
     "weight_lbs": 41500,
     "carrier_rate": 2000,
-    "updated_at": "2026-10-20T17:27:59.387010+00:00",
+    "updated_at": "2026-10-21T13:15:56.184740+00:00",
     "lane": "GAINESVILLE GA-SPRINGDALE AR"
   },
   {
