@@ -207,7 +207,7 @@
     "equipment": "Sprinter Van",
     "weight_lbs": 60,
     "carrier_rate": 425,
-    "updated_at": "2026-10-21T12:04:51.103505+00:00",
+    "updated_at": "2026-10-21T12:05:26.600256+00:00",
     "lane": "ROCK HILL SC-FAYETTEVILLE NC"
   },
   {
@@ -423,6 +423,23 @@
     "carrier_rate": 2200,
     "updated_at": "2026-10-21T12:00:44.519643+00:00",
     "lane": "VILLA RICA GA-STEVENS PA"
+  },
+  {
+    "pro": "51065",
+    "status": "OPEN",
+    "pu_date": "2026-10-22",
+    "pu_city": "PLAINFIELD",
+    "pu_state": "IN",
+    "pu_hours": "",
+    "del_date": "2026-10-23",
+    "del_city": "GRAND RAPIDS",
+    "del_state": "MI",
+    "del_hours": "0900-1500",
+    "equipment": "Van",
+    "weight_lbs": 43500,
+    "carrier_rate": 1000,
+    "updated_at": "2026-10-21T12:09:03.753011+00:00",
+    "lane": "PLAINFIELD IN-GRAND RAPIDS MI"
   },
   {
     "pro": "50998",
