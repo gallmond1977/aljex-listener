@@ -126,6 +126,23 @@
     "lane": "PORT ANGELES WA-FULLERTON CA"
   },
   {
+    "pro": "50998",
+    "status": "OPEN",
+    "pu_date": "2026-10-21",
+    "pu_city": "WADESBORO",
+    "pu_state": "NC",
+    "pu_hours": "0730-1630",
+    "del_date": "2026-10-22",
+    "del_city": "ATLANTA",
+    "del_state": "GA",
+    "del_hours": "0800-1600",
+    "equipment": "Van",
+    "weight_lbs": 44000,
+    "carrier_rate": 900,
+    "updated_at": "2026-10-21T18:06:20.374503+00:00",
+    "lane": "WADESBORO NC-ATLANTA GA"
+  },
+  {
     "pro": "51075",
     "status": "OPEN",
     "pu_date": "2026-10-21",
@@ -388,23 +405,6 @@
     "carrier_rate": 450,
     "updated_at": "2026-10-21T17:47:22.815086+00:00",
     "lane": "TAMPA FL-ATLANTA GA"
-  },
-  {
-    "pro": "50998",
-    "status": "OPEN",
-    "pu_date": "2026-10-23",
-    "pu_city": "WADESBORO",
-    "pu_state": "NC",
-    "pu_hours": "0730-1630",
-    "del_date": "2026-10-26",
-    "del_city": "ATLANTA",
-    "del_state": "GA",
-    "del_hours": "0800-1600",
-    "equipment": "Van",
-    "weight_lbs": 44000,
-    "carrier_rate": 800,
-    "updated_at": "2026-10-16T13:46:30.110845+00:00",
-    "lane": "WADESBORO NC-ATLANTA GA"
   },
   {
     "pro": "51028",
