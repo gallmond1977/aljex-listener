@@ -194,21 +194,21 @@
     "lane": "COLUMBUS GA-ATLANTA GA"
   },
   {
-    "pro": "51063",
+    "pro": "51066",
     "status": "OPEN",
     "pu_date": "2026-10-21",
-    "pu_city": "ROCK HILL",
-    "pu_state": "SC",
-    "pu_hours": "0900-1000",
-    "del_date": "2026-10-21",
-    "del_city": "FAYETTEVILLE",
-    "del_state": "NC",
-    "del_hours": "0800-1500",
-    "equipment": "Sprinter Van",
-    "weight_lbs": 60,
-    "carrier_rate": 425,
-    "updated_at": "2026-10-21T12:05:26.600256+00:00",
-    "lane": "ROCK HILL SC-FAYETTEVILLE NC"
+    "pu_city": "WINCHESTER",
+    "pu_state": "KY",
+    "pu_hours": "",
+    "del_date": "",
+    "del_city": "SAN ANTONIO",
+    "del_state": "TX",
+    "del_hours": "0800-1600",
+    "equipment": "26' Straight Box Truck",
+    "weight_lbs": 500,
+    "carrier_rate": null,
+    "updated_at": "2026-10-21T12:20:05.699530+00:00",
+    "lane": "WINCHESTER KY-SAN ANTONIO TX"
   },
   {
     "pro": "8890446",
@@ -430,7 +430,7 @@
     "pu_date": "2026-10-22",
     "pu_city": "PLAINFIELD",
     "pu_state": "IN",
-    "pu_hours": "",
+    "pu_hours": "1500",
     "del_date": "2026-10-23",
     "del_city": "GRAND RAPIDS",
     "del_state": "MI",
@@ -438,7 +438,7 @@
     "equipment": "Van",
     "weight_lbs": 43500,
     "carrier_rate": 1000,
-    "updated_at": "2026-10-21T12:09:03.753011+00:00",
+    "updated_at": "2026-10-21T12:19:13.071650+00:00",
     "lane": "PLAINFIELD IN-GRAND RAPIDS MI"
   },
   {
