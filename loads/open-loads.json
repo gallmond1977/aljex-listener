@@ -138,8 +138,8 @@
     "del_hours": "0800-1400",
     "equipment": "Flatbed w/ Tarps",
     "weight_lbs": 42000,
-    "carrier_rate": 4800,
-    "updated_at": "2026-10-21T13:57:35.077365+00:00",
+    "carrier_rate": 5000,
+    "updated_at": "2026-10-21T14:57:09.137955+00:00",
     "lane": "ALPHARETTA GA-AMARILLO TX"
   },
   {
@@ -175,23 +175,6 @@
     "carrier_rate": 1400,
     "updated_at": "2026-10-21T14:30:48.775475+00:00",
     "lane": "HOLLY SPRINGS NC-HAUPPAUGE NY"
-  },
-  {
-    "pro": "51074",
-    "status": "OPEN",
-    "pu_date": "2026-10-21",
-    "pu_city": "BUENA VISTA",
-    "pu_state": "GA",
-    "pu_hours": "0800-1600",
-    "del_date": "2026-10-22",
-    "del_city": "CHARLOTTE",
-    "del_state": "NC",
-    "del_hours": "0700-1500",
-    "equipment": "Van",
-    "weight_lbs": 43500,
-    "carrier_rate": 1000,
-    "updated_at": "2026-10-21T14:53:14.368970+00:00",
-    "lane": "BUENA VISTA GA-CHARLOTTE NC"
   },
   {
     "pro": "8890446",
@@ -402,8 +385,8 @@
     "del_hours": "0700-1500",
     "equipment": "Van",
     "weight_lbs": 18802,
-    "carrier_rate": 1400,
-    "updated_at": "2026-10-21T13:51:59.503069+00:00",
+    "carrier_rate": 1500,
+    "updated_at": "2026-10-21T14:56:05.182776+00:00",
     "lane": "SCOTTDALE GA-CLEVELAND OH"
   },
   {
