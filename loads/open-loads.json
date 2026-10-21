@@ -1078,14 +1078,14 @@
     "pu_city": "WADESBORO",
     "pu_state": "NC",
     "pu_hours": "0730-1630",
-    "del_date": "2026-10-20",
+    "del_date": "2026-10-21",
     "del_city": "ATLANTA",
     "del_state": "GA",
-    "del_hours": "0800",
+    "del_hours": "0800-1600",
     "equipment": "Van",
     "weight_lbs": 44000,
     "carrier_rate": 900,
-    "updated_at": "2026-10-20T19:07:25.811243+00:00",
+    "updated_at": "2026-10-21T11:54:54.887071+00:00",
     "lane": "WADESBORO NC-ATLANTA GA"
   }
 ]
