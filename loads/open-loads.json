@@ -390,6 +390,23 @@
     "lane": "WADESBORO NC-ATLANTA GA"
   },
   {
+    "pro": "51087",
+    "status": "OPEN",
+    "pu_date": "2026-10-22",
+    "pu_city": "TROY",
+    "pu_state": "PA",
+    "pu_hours": "0800-1400",
+    "del_date": "2026-10-23",
+    "del_city": "AVENEL",
+    "del_state": "NJ",
+    "del_hours": "",
+    "equipment": "26' Straight Box Truck",
+    "weight_lbs": 8020,
+    "carrier_rate": 500,
+    "updated_at": "2026-10-21T19:19:36.544664+00:00",
+    "lane": "TROY PA-AVENEL NJ"
+  },
+  {
     "pro": "51028",
     "status": "OPEN",
     "pu_date": "2026-10-23",
@@ -744,7 +761,7 @@
     "equipment": "Reefer",
     "weight_lbs": 21264,
     "carrier_rate": 450,
-    "updated_at": "2026-10-21T19:10:55.589478+00:00",
+    "updated_at": "2026-10-21T19:15:19.316136+00:00",
     "lane": "ATLANTA GA-DECATUR GA"
   },
   {
