@@ -194,6 +194,23 @@
     "lane": "COLUMBUS GA-ATLANTA GA"
   },
   {
+    "pro": "51063",
+    "status": "OPEN",
+    "pu_date": "2026-10-21",
+    "pu_city": "ROCK HILL",
+    "pu_state": "SC",
+    "pu_hours": "0900-1000",
+    "del_date": "2026-10-21",
+    "del_city": "FAYETTEVILLE",
+    "del_state": "NC",
+    "del_hours": "0800-1500",
+    "equipment": "Sprinter Van",
+    "weight_lbs": 60,
+    "carrier_rate": 425,
+    "updated_at": "2026-10-21T11:58:58.553388+00:00",
+    "lane": "ROCK HILL SC-FAYETTEVILLE NC"
+  },
+  {
     "pro": "8890446",
     "status": "OPEN",
     "spot": true,
@@ -1051,7 +1068,7 @@
     "equipment": "Flatbed w/ Tarps",
     "weight_lbs": 42000,
     "carrier_rate": 5000,
-    "updated_at": "2026-10-20T15:24:30.167789+00:00",
+    "updated_at": "2026-10-21T11:58:21.796200+00:00",
     "lane": "ALPHARETTA GA-AMARILLO TX"
   },
   {
@@ -1085,7 +1102,7 @@
     "equipment": "Van",
     "weight_lbs": 44000,
     "carrier_rate": 900,
-    "updated_at": "2026-10-21T11:54:54.887071+00:00",
+    "updated_at": "2026-10-21T11:55:22.881894+00:00",
     "lane": "WADESBORO NC-ATLANTA GA"
   }
 ]
