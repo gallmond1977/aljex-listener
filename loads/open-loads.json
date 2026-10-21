@@ -868,23 +868,6 @@
     "lane": "GARLAND TX-CALHOUN GA"
   },
   {
-    "pro": "50846",
-    "status": "RELEASED",
-    "pu_date": "2026-10-13",
-    "pu_city": "RICHMOND",
-    "pu_state": "VA",
-    "pu_hours": "0730-0800",
-    "del_date": "2026-10-13",
-    "del_city": "MIDLOTHIAN",
-    "del_state": "VA",
-    "del_hours": "0900-1200",
-    "equipment": "Flatbed",
-    "weight_lbs": 18800,
-    "carrier_rate": 600,
-    "updated_at": "2026-10-14T11:02:52.986610+00:00",
-    "lane": "RICHMOND VA-MIDLOTHIAN VA"
-  },
-  {
     "pro": "50928",
     "status": "RELEASED",
     "pu_date": "2026-10-13",
