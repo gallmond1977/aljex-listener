@@ -488,7 +488,7 @@
     "equipment": "Van",
     "weight_lbs": 44000,
     "carrier_rate": 900,
-    "updated_at": "2026-10-21T18:11:43.009613+00:00",
+    "updated_at": "2026-10-21T19:04:05.319550+00:00",
     "lane": "WADESBORO NC-ATLANTA GA"
   },
   {
@@ -678,6 +678,23 @@
     "carrier_rate": null,
     "updated_at": "2026-10-20T15:32:41.981193+00:00",
     "lane": "COLUMBUS GA-VAN WERT OH"
+  },
+  {
+    "pro": "51082",
+    "status": "OPEN",
+    "pu_date": "2026-10-30",
+    "pu_city": "ATLANTA",
+    "pu_state": "GA",
+    "pu_hours": "",
+    "del_date": "2026-10-30",
+    "del_city": "DECATUR",
+    "del_state": "GA",
+    "del_hours": "",
+    "equipment": "Reefer",
+    "weight_lbs": 21264,
+    "carrier_rate": 450,
+    "updated_at": "2026-10-21T19:04:02.692652+00:00",
+    "lane": "ATLANTA GA-DECATUR GA"
   },
   {
     "pro": "50542",
@@ -1088,6 +1105,40 @@
     "lane": "HOUSTON TX-SANFORD FL"
   },
   {
+    "pro": "50944",
+    "status": "RELEASED",
+    "pu_date": "2026-10-16",
+    "pu_city": "ATLANTA",
+    "pu_state": "GA",
+    "pu_hours": "0700",
+    "del_date": "2026-10-16",
+    "del_city": "DECATUR",
+    "del_state": "GA",
+    "del_hours": "1000",
+    "equipment": "Reefer",
+    "weight_lbs": 21264,
+    "carrier_rate": 450,
+    "updated_at": "2026-10-16T16:31:54.852729+00:00",
+    "lane": "ATLANTA GA-DECATUR GA"
+  },
+  {
+    "pro": "50945",
+    "status": "RELEASED",
+    "pu_date": "2026-10-16",
+    "pu_city": "ATLANTA",
+    "pu_state": "GA",
+    "pu_hours": "0730",
+    "del_date": "2026-10-16",
+    "del_city": "DECATUR",
+    "del_state": "GA",
+    "del_hours": "1000",
+    "equipment": "Reefer",
+    "weight_lbs": 21264,
+    "carrier_rate": 450,
+    "updated_at": "2026-10-19T14:23:52.829341+00:00",
+    "lane": "ATLANTA GA-DECATUR GA"
+  },
+  {
     "pro": "50954",
     "status": "RELEASED",
     "pu_date": "2026-10-16",
@@ -1225,7 +1276,7 @@
   },
   {
     "pro": "51056",
-    "status": "DISPATCHED",
+    "status": "PICKUP",
     "pu_date": "2026-10-21",
     "pu_city": "ALPHARETTA",
     "pu_state": "GA",
@@ -1237,7 +1288,24 @@
     "equipment": "Flatbed w/ Tarps",
     "weight_lbs": 42000,
     "carrier_rate": 5500,
-    "updated_at": "2026-10-21T17:27:44.462795+00:00",
+    "updated_at": "2026-10-21T19:01:38.479900+00:00",
     "lane": "ALPHARETTA GA-AMARILLO TX"
+  },
+  {
+    "pro": "51032",
+    "status": "COVERED",
+    "pu_date": "2026-10-22",
+    "pu_city": "ATLANTA",
+    "pu_state": "GA",
+    "pu_hours": "0700",
+    "del_date": "2026-10-22",
+    "del_city": "DECATUR",
+    "del_state": "GA",
+    "del_hours": "1000",
+    "equipment": "Reefer",
+    "weight_lbs": 21264,
+    "carrier_rate": 450,
+    "updated_at": "2026-10-21T13:45:11.835572+00:00",
+    "lane": "ATLANTA GA-DECATUR GA"
   }
 ]
