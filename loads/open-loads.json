@@ -425,23 +425,6 @@
     "lane": "VILLA RICA GA-STEVENS PA"
   },
   {
-    "pro": "51065",
-    "status": "OPEN",
-    "pu_date": "2026-10-22",
-    "pu_city": "PLAINFIELD",
-    "pu_state": "IN",
-    "pu_hours": "1500",
-    "del_date": "2026-10-23",
-    "del_city": "GRAND RAPIDS",
-    "del_state": "MI",
-    "del_hours": "1000-1500",
-    "equipment": "Van",
-    "weight_lbs": 43500,
-    "carrier_rate": 1000,
-    "updated_at": "2026-10-21T12:24:34.026849+00:00",
-    "lane": "PLAINFIELD IN-GRAND RAPIDS MI"
-  },
-  {
     "pro": "51067",
     "status": "OPEN",
     "pu_date": "2026-10-22",
@@ -453,9 +436,9 @@
     "del_state": "OH",
     "del_hours": "0700-1500",
     "equipment": "Van",
-    "weight_lbs": 23600,
+    "weight_lbs": 18802,
     "carrier_rate": 1400,
-    "updated_at": "2026-10-21T13:40:29.726984+00:00",
+    "updated_at": "2026-10-21T13:51:59.503069+00:00",
     "lane": "SCOTTDALE GA-CLEVELAND OH"
   },
   {
