@@ -403,7 +403,7 @@
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 8020,
     "carrier_rate": 500,
-    "updated_at": "2026-10-21T19:19:36.544664+00:00",
+    "updated_at": "2026-10-21T19:20:31.176398+00:00",
     "lane": "TROY PA-AVENEL NJ"
   },
   {
@@ -689,11 +689,11 @@
     "del_date": "2026-10-30",
     "del_city": "DECATUR",
     "del_state": "GA",
-    "del_hours": "",
+    "del_hours": "REQ",
     "equipment": "Reefer",
     "weight_lbs": 21264,
     "carrier_rate": 450,
-    "updated_at": "2026-10-21T19:13:29.110161+00:00",
+    "updated_at": "2026-10-21T19:21:52.590600+00:00",
     "lane": "ATLANTA GA-DECATUR GA"
   },
   {
@@ -706,11 +706,11 @@
     "del_date": "2026-10-30",
     "del_city": "DECATUR",
     "del_state": "GA",
-    "del_hours": "",
+    "del_hours": "REQ",
     "equipment": "Reefer",
     "weight_lbs": 22150,
     "carrier_rate": 450,
-    "updated_at": "2026-10-21T19:13:47.985616+00:00",
+    "updated_at": "2026-10-21T19:22:31.128278+00:00",
     "lane": "ATLANTA GA-DECATUR GA"
   },
   {
@@ -723,11 +723,11 @@
     "del_date": "2026-10-30",
     "del_city": "DECATUR",
     "del_state": "GA",
-    "del_hours": "",
+    "del_hours": "REQ",
     "equipment": "Reefer",
     "weight_lbs": 20378,
     "carrier_rate": 450,
-    "updated_at": "2026-10-21T19:14:12.180622+00:00",
+    "updated_at": "2026-10-21T19:23:04.088177+00:00",
     "lane": "ATLANTA GA-DECATUR GA"
   },
   {
@@ -740,11 +740,11 @@
     "del_date": "2026-10-30",
     "del_city": "DECATUR",
     "del_state": "GA",
-    "del_hours": "",
+    "del_hours": "REQ",
     "equipment": "Reefer",
     "weight_lbs": 21264,
     "carrier_rate": 450,
-    "updated_at": "2026-10-21T19:14:47.700284+00:00",
+    "updated_at": "2026-10-21T19:23:31.198237+00:00",
     "lane": "ATLANTA GA-DECATUR GA"
   },
   {
@@ -757,11 +757,11 @@
     "del_date": "2026-10-30",
     "del_city": "DECATUR",
     "del_state": "GA",
-    "del_hours": "",
+    "del_hours": "REQ",
     "equipment": "Reefer",
     "weight_lbs": 21264,
     "carrier_rate": 450,
-    "updated_at": "2026-10-21T19:15:19.316136+00:00",
+    "updated_at": "2026-10-21T19:24:08.141378+00:00",
     "lane": "ATLANTA GA-DECATUR GA"
   },
   {
