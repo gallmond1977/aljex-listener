@@ -557,7 +557,7 @@
     "equipment": "Van",
     "weight_lbs": 11280,
     "carrier_rate": 1000,
-    "updated_at": "2026-10-21T13:10:08.921557+00:00",
+    "updated_at": "2026-10-21T13:10:27.919008+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
@@ -1243,7 +1243,7 @@
   },
   {
     "pro": "50996",
-    "status": "DELIVERED",
+    "status": "RELEASED",
     "pu_date": "2026-10-19",
     "pu_city": "WADESBORO",
     "pu_state": "NC",
@@ -1255,7 +1255,7 @@
     "equipment": "Van",
     "weight_lbs": 44000,
     "carrier_rate": 900,
-    "updated_at": "2026-10-20T15:09:45.107929+00:00",
+    "updated_at": "2026-10-21T13:13:20.976393+00:00",
     "lane": "WADESBORO NC-ATLANTA GA"
   },
   {
@@ -1277,7 +1277,7 @@
   },
   {
     "pro": "51012",
-    "status": "LOADED",
+    "status": "CONSIGNEE",
     "pu_date": "2026-10-19",
     "pu_city": "ALPHARETTA",
     "pu_state": "GA",
@@ -1289,7 +1289,7 @@
     "equipment": "Flatbed w/ Tarps",
     "weight_lbs": 42000,
     "carrier_rate": 5000,
-    "updated_at": "2026-10-21T11:58:21.796200+00:00",
+    "updated_at": "2026-10-21T13:10:37.086155+00:00",
     "lane": "ALPHARETTA GA-AMARILLO TX"
   },
   {
