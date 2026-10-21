@@ -356,6 +356,23 @@
     "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
+    "pro": "51076",
+    "status": "OPEN",
+    "pu_date": "2026-10-22",
+    "pu_city": "SPARTA",
+    "pu_state": "NC",
+    "pu_hours": "0800-1500",
+    "del_date": "2026-10-22",
+    "del_city": "BELMONT",
+    "del_state": "NC",
+    "del_hours": "",
+    "equipment": "Van",
+    "weight_lbs": 42000,
+    "carrier_rate": 500,
+    "updated_at": "2026-10-21T17:34:50.916487+00:00",
+    "lane": "SPARTA NC-BELMONT NC"
+  },
+  {
     "pro": "50998",
     "status": "OPEN",
     "pu_date": "2026-10-23",
