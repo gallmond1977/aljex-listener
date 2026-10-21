@@ -365,11 +365,11 @@
     "del_date": "2026-10-22",
     "del_city": "BELMONT",
     "del_state": "NC",
-    "del_hours": "",
+    "del_hours": "0700-1600",
     "equipment": "Van",
     "weight_lbs": 42000,
     "carrier_rate": 500,
-    "updated_at": "2026-10-21T17:34:50.916487+00:00",
+    "updated_at": "2026-10-21T17:39:46.998142+00:00",
     "lane": "SPARTA NC-BELMONT NC"
   },
   {
