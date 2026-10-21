@@ -143,23 +143,6 @@
     "lane": "ALPHARETTA GA-AMARILLO TX"
   },
   {
-    "pro": "51060",
-    "status": "OPEN",
-    "pu_date": "2026-10-21",
-    "pu_city": "NEWNAN",
-    "pu_state": "GA",
-    "pu_hours": "0915-1600",
-    "del_date": "2026-10-22",
-    "del_city": "MCALLEN",
-    "del_state": "TX",
-    "del_hours": "0800-1630",
-    "equipment": "Van",
-    "weight_lbs": 20260,
-    "carrier_rate": 2000,
-    "updated_at": "2026-10-21T15:49:42.557225+00:00",
-    "lane": "NEWNAN GA-MCALLEN TX"
-  },
-  {
     "pro": "51068",
     "status": "OPEN",
     "pu_date": "2026-10-21",
@@ -173,7 +156,7 @@
     "equipment": "Flatbed Hot Shot",
     "weight_lbs": 3500,
     "carrier_rate": 1600,
-    "updated_at": "2026-10-21T15:36:10.043204+00:00",
+    "updated_at": "2026-10-21T15:50:12.519280+00:00",
     "lane": "HOLLY SPRINGS NC-HAUPPAUGE NY"
   },
   {
@@ -484,11 +467,11 @@
     "del_date": "2026-10-26",
     "del_city": "ROCKLAND",
     "del_state": "ME",
-    "del_hours": "CALL!",
+    "del_hours": "1200-1400",
     "equipment": "Van",
     "weight_lbs": 35000,
     "carrier_rate": 4200,
-    "updated_at": "2026-10-21T14:44:40.893980+00:00",
+    "updated_at": "2026-10-21T15:51:20.203673+00:00",
     "lane": "PHENIX CITY AL-ROCKLAND ME"
   },
   {
