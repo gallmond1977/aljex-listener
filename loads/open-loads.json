@@ -172,8 +172,8 @@
     "del_hours": "0800-1400",
     "equipment": "Flatbed w/ Tarps",
     "weight_lbs": 42000,
-    "carrier_rate": 4200,
-    "updated_at": "2026-10-20T18:15:32.376986+00:00",
+    "carrier_rate": 4500,
+    "updated_at": "2026-10-21T12:47:29.285421+00:00",
     "lane": "ALPHARETTA GA-AMARILLO TX"
   },
   {
@@ -241,7 +241,7 @@
     "equipment": "Flatbed Hot Shot",
     "weight_lbs": 3500,
     "carrier_rate": 1100,
-    "updated_at": "2026-10-21T12:39:39.367638+00:00",
+    "updated_at": "2026-10-21T12:50:11.687861+00:00",
     "lane": "HOLLY SPRINGS NC-HAUPPAUGE NY"
   },
   {
