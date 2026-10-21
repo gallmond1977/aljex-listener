@@ -207,8 +207,25 @@
     "equipment": "Flatbed Hot Shot",
     "weight_lbs": 3500,
     "carrier_rate": 1100,
-    "updated_at": "2026-10-21T12:50:48.467914+00:00",
+    "updated_at": "2026-10-21T13:28:14.626561+00:00",
     "lane": "HOLLY SPRINGS NC-HAUPPAUGE NY"
+  },
+  {
+    "pro": "51072",
+    "status": "OPEN",
+    "pu_date": "2026-10-21",
+    "pu_city": "VILLA RICA",
+    "pu_state": "GA",
+    "pu_hours": "0800-1500",
+    "del_date": "2026-10-22",
+    "del_city": "COVINGTON",
+    "del_state": "LA",
+    "del_hours": "CALL!",
+    "equipment": "Flatbed w/ Tarps",
+    "weight_lbs": 47880,
+    "carrier_rate": 1900,
+    "updated_at": "2026-10-21T13:29:06.809122+00:00",
+    "lane": "VILLA RICA GA-COVINGTON LA"
   },
   {
     "pro": "8890446",
