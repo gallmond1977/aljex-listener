@@ -322,23 +322,6 @@
     "lane": "ABERDEEN MD-CHARLOTTE NC"
   },
   {
-    "pro": "51064",
-    "status": "OPEN",
-    "pu_date": "2026-10-22",
-    "pu_city": "VILLA RICA",
-    "pu_state": "GA",
-    "pu_hours": "0800-1500",
-    "del_date": "2026-10-23",
-    "del_city": "STEVENS",
-    "del_state": "PA",
-    "del_hours": "0700-1300",
-    "equipment": "Van",
-    "weight_lbs": 44100,
-    "carrier_rate": 2200,
-    "updated_at": "2026-10-21T12:00:44.519643+00:00",
-    "lane": "VILLA RICA GA-STEVENS PA"
-  },
-  {
     "pro": "51069",
     "status": "OPEN",
     "pu_date": "2026-10-22",
@@ -950,23 +933,6 @@
     "carrier_rate": 900,
     "updated_at": "2026-10-20T15:54:31.381343+00:00",
     "lane": "WADESBORO NC-ATLANTA GA"
-  },
-  {
-    "pro": "50963",
-    "status": "RELEASED",
-    "pu_date": "2026-10-15",
-    "pu_city": "VILLA RICA",
-    "pu_state": "GA",
-    "pu_hours": "0800-1500",
-    "del_date": "2026-10-16",
-    "del_city": "STEVENS",
-    "del_state": "PA",
-    "del_hours": "0700-1300",
-    "equipment": "Van",
-    "weight_lbs": 43900,
-    "carrier_rate": 2300,
-    "updated_at": "2026-10-16T18:13:45.783088+00:00",
-    "lane": "VILLA RICA GA-STEVENS PA"
   },
   {
     "pro": "50970",
