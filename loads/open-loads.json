@@ -155,8 +155,8 @@
     "del_hours": "0800-1630",
     "equipment": "Van",
     "weight_lbs": 20260,
-    "carrier_rate": 1920,
-    "updated_at": "2026-10-21T14:02:04.761965+00:00",
+    "carrier_rate": 2000,
+    "updated_at": "2026-10-21T14:32:19.870795+00:00",
     "lane": "NEWNAN GA-MCALLEN TX"
   },
   {
@@ -172,8 +172,8 @@
     "del_hours": "0500-1100",
     "equipment": "Flatbed Hot Shot",
     "weight_lbs": 3500,
-    "carrier_rate": 1300,
-    "updated_at": "2026-10-21T14:07:05.451497+00:00",
+    "carrier_rate": 1400,
+    "updated_at": "2026-10-21T14:30:48.775475+00:00",
     "lane": "HOLLY SPRINGS NC-HAUPPAUGE NY"
   },
   {
@@ -1140,7 +1140,7 @@
   },
   {
     "pro": "51007",
-    "status": "DELIVERED",
+    "status": "RELEASED",
     "pu_date": "2026-10-16",
     "pu_city": "WADESBORO",
     "pu_state": "NC",
@@ -1152,7 +1152,7 @@
     "equipment": "Van",
     "weight_lbs": 44000,
     "carrier_rate": 900,
-    "updated_at": "2026-10-19T18:48:12.652093+00:00",
+    "updated_at": "2026-10-21T14:34:26.753358+00:00",
     "lane": "WADESBORO NC-ATLANTA GA"
   },
   {
