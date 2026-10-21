@@ -369,7 +369,7 @@
     "equipment": "Van",
     "weight_lbs": 20000,
     "carrier_rate": 500,
-    "updated_at": "2026-10-21T17:44:57.452365+00:00",
+    "updated_at": "2026-10-21T17:49:53.421794+00:00",
     "lane": "SPARTA NC-BELMONT NC"
   },
   {
@@ -386,7 +386,7 @@
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 3500,
     "carrier_rate": 450,
-    "updated_at": "2026-10-21T17:41:05.282315+00:00",
+    "updated_at": "2026-10-21T17:47:22.815086+00:00",
     "lane": "TAMPA FL-ATLANTA GA"
   },
   {
