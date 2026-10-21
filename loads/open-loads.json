@@ -390,23 +390,6 @@
     "lane": "SPARTA NC-BELMONT NC"
   },
   {
-    "pro": "51077",
-    "status": "OPEN",
-    "pu_date": "2026-10-22",
-    "pu_city": "TAMPA",
-    "pu_state": "FL",
-    "pu_hours": "0800-1400",
-    "del_date": "2026-10-23",
-    "del_city": "ATLANTA",
-    "del_state": "GA",
-    "del_hours": "0930",
-    "equipment": "26' Straight Box Truck",
-    "weight_lbs": 3500,
-    "carrier_rate": 450,
-    "updated_at": "2026-10-21T17:47:22.815086+00:00",
-    "lane": "TAMPA FL-ATLANTA GA"
-  },
-  {
     "pro": "51078",
     "status": "OPEN",
     "pu_date": "2026-10-22",
