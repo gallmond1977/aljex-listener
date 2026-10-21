@@ -126,6 +126,23 @@
     "lane": "PORT ANGELES WA-FULLERTON CA"
   },
   {
+    "pro": "50969",
+    "status": "OPEN",
+    "pu_date": "2026-10-21",
+    "pu_city": "WINCHESTER",
+    "pu_state": "KY",
+    "pu_hours": "0800-1400",
+    "del_date": "2026-10-23",
+    "del_city": "BARRIE",
+    "del_state": "ON",
+    "del_hours": "",
+    "equipment": "Van",
+    "weight_lbs": 5000,
+    "carrier_rate": 1100,
+    "updated_at": "2026-10-21T12:38:21.852278+00:00",
+    "lane": "WINCHESTER KY-BARRIE ON"
+  },
+  {
     "pro": "51055",
     "status": "OPEN",
     "pu_date": "2026-10-21",
@@ -216,15 +233,15 @@
     "pu_date": "2026-10-21",
     "pu_city": "HOLLY SPRINGS",
     "pu_state": "NC",
-    "pu_hours": "0700-0830",
+    "pu_hours": "1200-1500",
     "del_date": "2026-10-22",
     "del_city": "HAUPPAUGE",
     "del_state": "NY",
-    "del_hours": "",
+    "del_hours": "0500-1100",
     "equipment": "Flatbed Hot Shot",
     "weight_lbs": 3500,
-    "carrier_rate": null,
-    "updated_at": "2026-10-21T12:34:45.896535+00:00",
+    "carrier_rate": 1100,
+    "updated_at": "2026-10-21T12:39:39.367638+00:00",
     "lane": "HOLLY SPRINGS NC-HAUPPAUGE NY"
   },
   {
