@@ -156,7 +156,7 @@
     "equipment": "Van",
     "weight_lbs": 20260,
     "carrier_rate": 2000,
-    "updated_at": "2026-10-21T15:04:09.910022+00:00",
+    "updated_at": "2026-10-21T15:38:13.993734+00:00",
     "lane": "NEWNAN GA-MCALLEN TX"
   },
   {
@@ -165,7 +165,7 @@
     "pu_date": "2026-10-21",
     "pu_city": "HOLLY SPRINGS",
     "pu_state": "NC",
-    "pu_hours": "1030-1500",
+    "pu_hours": "1030-1630",
     "del_date": "2026-10-22",
     "del_city": "HAUPPAUGE",
     "del_state": "NY",
@@ -173,7 +173,7 @@
     "equipment": "Flatbed Hot Shot",
     "weight_lbs": 3500,
     "carrier_rate": 1600,
-    "updated_at": "2026-10-21T15:35:09.914188+00:00",
+    "updated_at": "2026-10-21T15:36:10.043204+00:00",
     "lane": "HOLLY SPRINGS NC-HAUPPAUGE NY"
   },
   {
