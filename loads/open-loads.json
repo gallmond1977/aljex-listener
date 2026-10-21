@@ -156,7 +156,7 @@
     "equipment": "Van",
     "weight_lbs": 20260,
     "carrier_rate": 2000,
-    "updated_at": "2026-10-21T14:32:19.870795+00:00",
+    "updated_at": "2026-10-21T14:38:29.494743+00:00",
     "lane": "NEWNAN GA-MCALLEN TX"
   },
   {
@@ -175,6 +175,23 @@
     "carrier_rate": 1400,
     "updated_at": "2026-10-21T14:30:48.775475+00:00",
     "lane": "HOLLY SPRINGS NC-HAUPPAUGE NY"
+  },
+  {
+    "pro": "51074",
+    "status": "OPEN",
+    "pu_date": "2026-10-21",
+    "pu_city": "BUENA VISTA",
+    "pu_state": "GA",
+    "pu_hours": "0800-1600",
+    "del_date": "2026-10-22",
+    "del_city": "CHARLOTTE",
+    "del_state": "NC",
+    "del_hours": "0700-1500",
+    "equipment": "Van",
+    "weight_lbs": 43500,
+    "carrier_rate": 1000,
+    "updated_at": "2026-10-21T14:40:20.712397+00:00",
+    "lane": "BUENA VISTA GA-CHARLOTTE NC"
   },
   {
     "pro": "8890446",
@@ -395,7 +412,7 @@
     "pu_date": "2026-10-22",
     "pu_city": "WINCHESTER",
     "pu_state": "KY",
-    "pu_hours": "0900-1500",
+    "pu_hours": "1330-1500",
     "del_date": "2026-10-23",
     "del_city": "JOLIET",
     "del_state": "IL",
@@ -403,7 +420,7 @@
     "equipment": "Van",
     "weight_lbs": 11280,
     "carrier_rate": 1000,
-    "updated_at": "2026-10-21T14:05:26.101002+00:00",
+    "updated_at": "2026-10-21T14:37:42.273540+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
@@ -412,7 +429,7 @@
     "pu_date": "2026-10-22",
     "pu_city": "WINCHESTER",
     "pu_state": "KY",
-    "pu_hours": "0900-1500",
+    "pu_hours": "1330-1500",
     "del_date": "2026-10-23",
     "del_city": "JOLIET",
     "del_state": "IL",
@@ -420,7 +437,7 @@
     "equipment": "Van",
     "weight_lbs": 11280,
     "carrier_rate": 1000,
-    "updated_at": "2026-10-21T14:04:41.707120+00:00",
+    "updated_at": "2026-10-21T14:37:19.287212+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
@@ -488,8 +505,25 @@
     "equipment": "Van",
     "weight_lbs": 11280,
     "carrier_rate": 1000,
-    "updated_at": "2026-10-21T14:04:01.243991+00:00",
+    "updated_at": "2026-10-21T14:36:27.823054+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
+  },
+  {
+    "pro": "51073",
+    "status": "OPEN",
+    "pu_date": "2026-10-23",
+    "pu_city": "PHENIX CITY",
+    "pu_state": "AL",
+    "pu_hours": "0800-1200",
+    "del_date": "2026-10-26",
+    "del_city": "ROCKLAND",
+    "del_state": "ME",
+    "del_hours": "CALL!",
+    "equipment": "Van",
+    "weight_lbs": 30000,
+    "carrier_rate": 4200,
+    "updated_at": "2026-10-21T14:39:46.628011+00:00",
+    "lane": "PHENIX CITY AL-ROCKLAND ME"
   },
   {
     "pro": "8890459",
@@ -816,23 +850,6 @@
     "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
-    "pro": "50794",
-    "status": "RELEASED",
-    "pu_date": "2026-10-06",
-    "pu_city": "WADESBORO",
-    "pu_state": "NC",
-    "pu_hours": "0730-1630",
-    "del_date": "2026-10-07",
-    "del_city": "ATLANTA",
-    "del_state": "GA",
-    "del_hours": "0800-1600",
-    "equipment": "Van",
-    "weight_lbs": 44000,
-    "carrier_rate": 900,
-    "updated_at": "2026-10-14T14:39:42.028909+00:00",
-    "lane": "WADESBORO NC-ATLANTA GA"
-  },
-  {
     "pro": "50795",
     "status": "RELEASED",
     "pu_date": "2026-10-06",
@@ -1123,7 +1140,7 @@
   },
   {
     "pro": "50954",
-    "status": "DELIVERED",
+    "status": "RELEASED",
     "pu_date": "2026-10-16",
     "pu_city": "WADESBORO",
     "pu_state": "NC",
@@ -1135,7 +1152,7 @@
     "equipment": "Van",
     "weight_lbs": 44000,
     "carrier_rate": 900,
-    "updated_at": "2026-10-19T18:47:46.627254+00:00",
+    "updated_at": "2026-10-21T14:35:53.441864+00:00",
     "lane": "WADESBORO NC-ATLANTA GA"
   },
   {
@@ -1157,7 +1174,7 @@
   },
   {
     "pro": "51008",
-    "status": "DELIVERED",
+    "status": "RELEASED",
     "pu_date": "2026-10-16",
     "pu_city": "WADESBORO",
     "pu_state": "NC",
@@ -1169,7 +1186,7 @@
     "equipment": "Van",
     "weight_lbs": 44000,
     "carrier_rate": 900,
-    "updated_at": "2026-10-19T18:48:36.775261+00:00",
+    "updated_at": "2026-10-21T14:36:18.758426+00:00",
     "lane": "WADESBORO NC-ATLANTA GA"
   },
   {
