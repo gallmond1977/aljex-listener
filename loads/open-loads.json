@@ -472,7 +472,7 @@
     "equipment": "Van",
     "weight_lbs": 23600,
     "carrier_rate": 1400,
-    "updated_at": "2026-10-21T13:39:28.304136+00:00",
+    "updated_at": "2026-10-21T13:40:29.726984+00:00",
     "lane": "SCOTTDALE GA-CLEVELAND OH"
   },
   {
@@ -482,14 +482,14 @@
     "pu_city": "WINCHESTER",
     "pu_state": "KY",
     "pu_hours": "NEED",
-    "del_date": "",
+    "del_date": "2026-10-23",
     "del_city": "JOLIET",
     "del_state": "IL",
-    "del_hours": "REQ",
+    "del_hours": "0730",
     "equipment": "Van",
     "weight_lbs": 11280,
     "carrier_rate": 1000,
-    "updated_at": "2026-10-21T13:07:57.560102+00:00",
+    "updated_at": "2026-10-21T13:44:22.442104+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
