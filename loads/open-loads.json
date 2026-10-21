@@ -126,23 +126,6 @@
     "lane": "PORT ANGELES WA-FULLERTON CA"
   },
   {
-    "pro": "50969",
-    "status": "OPEN",
-    "pu_date": "2026-10-21",
-    "pu_city": "WINCHESTER",
-    "pu_state": "KY",
-    "pu_hours": "0800-1400",
-    "del_date": "2026-10-23",
-    "del_city": "BARRIE",
-    "del_state": "ON",
-    "del_hours": "",
-    "equipment": "Van",
-    "weight_lbs": 5000,
-    "carrier_rate": 1000,
-    "updated_at": "2026-10-21T12:41:20.649256+00:00",
-    "lane": "WINCHESTER KY-BARRIE ON"
-  },
-  {
     "pro": "51055",
     "status": "OPEN",
     "pu_date": "2026-10-21",
@@ -241,7 +224,7 @@
     "equipment": "Flatbed Hot Shot",
     "weight_lbs": 3500,
     "carrier_rate": 1100,
-    "updated_at": "2026-10-21T12:50:11.687861+00:00",
+    "updated_at": "2026-10-21T12:50:48.467914+00:00",
     "lane": "HOLLY SPRINGS NC-HAUPPAUGE NY"
   },
   {
@@ -481,7 +464,7 @@
     "pu_date": "2026-10-22",
     "pu_city": "SCOTTDALE",
     "pu_state": "GA",
-    "pu_hours": "CALL!",
+    "pu_hours": "1000-1400",
     "del_date": "2026-10-23",
     "del_city": "CLEVELAND",
     "del_state": "OH",
@@ -489,7 +472,7 @@
     "equipment": "Van",
     "weight_lbs": 23600,
     "carrier_rate": 1400,
-    "updated_at": "2026-10-21T12:26:06.708330+00:00",
+    "updated_at": "2026-10-21T12:53:09.156462+00:00",
     "lane": "SCOTTDALE GA-CLEVELAND OH"
   },
   {
