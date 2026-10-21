@@ -126,23 +126,6 @@
     "lane": "PORT ANGELES WA-FULLERTON CA"
   },
   {
-    "pro": "51055",
-    "status": "OPEN",
-    "pu_date": "2026-10-21",
-    "pu_city": "PORT ANGELES",
-    "pu_state": "WA",
-    "pu_hours": "0600-1600",
-    "del_date": "2026-10-22",
-    "del_city": "MAGNA",
-    "del_state": "UT",
-    "del_hours": "CALL !",
-    "equipment": "Van",
-    "weight_lbs": 44000,
-    "carrier_rate": 4000,
-    "updated_at": "2026-10-21T13:56:44.763442+00:00",
-    "lane": "PORT ANGELES WA-MAGNA UT"
-  },
-  {
     "pro": "51056",
     "status": "OPEN",
     "pu_date": "2026-10-21",
