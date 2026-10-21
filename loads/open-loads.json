@@ -126,23 +126,6 @@
     "lane": "PORT ANGELES WA-FULLERTON CA"
   },
   {
-    "pro": "51056",
-    "status": "OPEN",
-    "pu_date": "2026-10-21",
-    "pu_city": "ALPHARETTA",
-    "pu_state": "GA",
-    "pu_hours": "0900-1700",
-    "del_date": "2026-10-23",
-    "del_city": "AMARILLO",
-    "del_state": "TX",
-    "del_hours": "0800-1400",
-    "equipment": "Flatbed w/ Tarps",
-    "weight_lbs": 42000,
-    "carrier_rate": 5000,
-    "updated_at": "2026-10-21T16:18:47.492398+00:00",
-    "lane": "ALPHARETTA GA-AMARILLO TX"
-  },
-  {
     "pro": "51075",
     "status": "OPEN",
     "pu_date": "2026-10-21",
@@ -1222,5 +1205,22 @@
     "carrier_rate": 900,
     "updated_at": "2026-10-21T11:55:22.881894+00:00",
     "lane": "WADESBORO NC-ATLANTA GA"
+  },
+  {
+    "pro": "51056",
+    "status": "COVERED",
+    "pu_date": "2026-10-21",
+    "pu_city": "ALPHARETTA",
+    "pu_state": "GA",
+    "pu_hours": "0900-1700",
+    "del_date": "2026-10-23",
+    "del_city": "AMARILLO",
+    "del_state": "TX",
+    "del_hours": "0800-1400",
+    "equipment": "Flatbed w/ Tarps",
+    "weight_lbs": 42000,
+    "carrier_rate": 5500,
+    "updated_at": "2026-10-21T16:21:42.165239+00:00",
+    "lane": "ALPHARETTA GA-AMARILLO TX"
   }
 ]
