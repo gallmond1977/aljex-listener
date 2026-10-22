@@ -280,8 +280,8 @@
     "del_hours": "",
     "equipment": "Flatbed",
     "weight_lbs": 22687,
-    "carrier_rate": null,
-    "updated_at": "2026-10-22T14:44:59.233202+00:00",
+    "carrier_rate": 1000,
+    "updated_at": "2026-10-22T14:47:21.523506+00:00",
     "lane": "DAYTON TN-FLETCHER NC"
   },
   {
@@ -1171,7 +1171,7 @@
   },
   {
     "pro": "51070",
-    "status": "PICKUP",
+    "status": "LOADED",
     "pu_date": "2026-10-22",
     "pu_city": "WINCHESTER",
     "pu_state": "KY",
@@ -1183,7 +1183,7 @@
     "equipment": "Van",
     "weight_lbs": 11280,
     "carrier_rate": 1000,
-    "updated_at": "2026-10-22T13:06:48.951541+00:00",
+    "updated_at": "2026-10-22T14:49:31.657772+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
