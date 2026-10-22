@@ -266,23 +266,6 @@
     "lane": "CHEHALIS WA-DUNDEE OH"
   },
   {
-    "pro": "51033",
-    "status": "OPEN",
-    "pu_date": "2026-10-23",
-    "pu_city": "MONTEZUMA",
-    "pu_state": "GA",
-    "pu_hours": "1400",
-    "del_date": "2026-10-27",
-    "del_city": "TRACY",
-    "del_state": "CA",
-    "del_hours": "0445",
-    "equipment": "Reefer",
-    "weight_lbs": 23400,
-    "carrier_rate": 4500,
-    "updated_at": "2026-10-22T15:05:55.761774+00:00",
-    "lane": "MONTEZUMA GA-TRACY CA"
-  },
-  {
     "pro": "51071",
     "status": "OPEN",
     "pu_date": "2026-10-23",
@@ -343,11 +326,11 @@
     "del_date": "2026-10-26",
     "del_city": "TUSCALOOSA",
     "del_state": "AL",
-    "del_hours": "",
+    "del_hours": "0800-1000",
     "equipment": "Flatbed Hot Shot",
     "weight_lbs": 12500,
     "carrier_rate": 500,
-    "updated_at": "2026-10-22T15:23:32.444054+00:00",
+    "updated_at": "2026-10-22T15:26:18.738399+00:00",
     "lane": "BREMEN GA-TUSCALOOSA AL"
   },
   {
@@ -725,23 +708,6 @@
     "carrier_rate": null,
     "updated_at": "2026-09-03T14:33:15.542069+00:00",
     "lane": "LA PORTE TX-GREENVILLE SC"
-  },
-  {
-    "pro": "50902",
-    "status": "RELEASED",
-    "pu_date": "2026-10-12",
-    "pu_city": "GRAND PRAIRIE",
-    "pu_state": "TX",
-    "pu_hours": "0800-1300",
-    "del_date": "2026-10-13",
-    "del_city": "COLUMBUS",
-    "del_state": "GA",
-    "del_hours": "0800-1000",
-    "equipment": "Van",
-    "weight_lbs": 43000,
-    "carrier_rate": 2000,
-    "updated_at": "2026-10-15T15:27:26.412821+00:00",
-    "lane": "GRAND PRAIRIE TX-COLUMBUS GA"
   },
   {
     "pro": "50758",
