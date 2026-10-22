@@ -283,6 +283,23 @@
     "lane": "DAYTON TN-FLETCHER NC"
   },
   {
+    "pro": "51099",
+    "status": "OPEN",
+    "pu_date": "2026-10-23",
+    "pu_city": "RALEIGH",
+    "pu_state": "NC",
+    "pu_hours": "0900-1100",
+    "del_date": "2026-10-26",
+    "del_city": "CLANTON",
+    "del_state": "AL",
+    "del_hours": "",
+    "equipment": "26' Straight Box Truck",
+    "weight_lbs": 2762,
+    "carrier_rate": null,
+    "updated_at": "2026-10-22T17:10:19.231357+00:00",
+    "lane": "RALEIGH NC-CLANTON AL"
+  },
+  {
     "pro": "8890459",
     "status": "OPEN",
     "spot": true,
@@ -1086,7 +1103,7 @@
   },
   {
     "pro": "51069",
-    "status": "PICKUP",
+    "status": "LOADED",
     "pu_date": "2026-10-22",
     "pu_city": "WINCHESTER",
     "pu_state": "KY",
@@ -1098,7 +1115,7 @@
     "equipment": "Van",
     "weight_lbs": 11280,
     "carrier_rate": 1000,
-    "updated_at": "2026-10-22T15:21:43.265185+00:00",
+    "updated_at": "2026-10-22T17:05:33.390684+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
