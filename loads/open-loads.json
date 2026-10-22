@@ -283,23 +283,6 @@
     "lane": "DAYTON TN-FLETCHER NC"
   },
   {
-    "pro": "51099",
-    "status": "OPEN",
-    "pu_date": "2026-10-23",
-    "pu_city": "RALEIGH",
-    "pu_state": "NC",
-    "pu_hours": "0800",
-    "del_date": "2026-10-26",
-    "del_city": "CLANTON",
-    "del_state": "AL",
-    "del_hours": "0700",
-    "equipment": "26' Straight Box Truck",
-    "weight_lbs": 2762,
-    "carrier_rate": 1300,
-    "updated_at": "2026-10-22T17:13:40.221708+00:00",
-    "lane": "RALEIGH NC-CLANTON AL"
-  },
-  {
     "pro": "8890459",
     "status": "OPEN",
     "spot": true,
