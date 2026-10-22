@@ -173,8 +173,8 @@
     "del_hours": "0800-1600",
     "equipment": "Van",
     "weight_lbs": 44000,
-    "carrier_rate": null,
-    "updated_at": "2026-10-22T18:29:21.090513+00:00",
+    "carrier_rate": 850,
+    "updated_at": "2026-10-22T18:31:00.685728+00:00",
     "lane": "MONCURE NC-ATLANTA GA"
   },
   {
