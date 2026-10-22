@@ -336,6 +336,24 @@
     "lane": "CHEHALIS WA-SALT LAKE CITY UT"
   },
   {
+    "pro": "8890466",
+    "status": "OPEN",
+    "spot": true,
+    "pu_date": "2026-10-23",
+    "pu_city": "OPELIKA",
+    "pu_state": "AL",
+    "pu_hours": "",
+    "del_date": "2026-10-23",
+    "del_city": "NORCROSS",
+    "del_state": "GA",
+    "del_hours": "",
+    "equipment": "Power Only",
+    "weight_lbs": 30000,
+    "carrier_rate": 800,
+    "updated_at": "2026-10-22T16:42:54.941280+00:00",
+    "lane": "OPELIKA AL-NORCROSS GA"
+  },
+  {
     "pro": "51029",
     "status": "OPEN",
     "pu_date": "2026-10-24",
