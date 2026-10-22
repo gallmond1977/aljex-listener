@@ -296,7 +296,7 @@
     "equipment": "Flatbed Hot Shot",
     "weight_lbs": 650,
     "carrier_rate": 500,
-    "updated_at": "2026-10-22T16:04:56.785700+00:00",
+    "updated_at": "2026-10-22T16:10:08.598873+00:00",
     "lane": "BREMEN GA-TUSCALOOSA AL"
   },
   {
@@ -1148,7 +1148,7 @@
     "equipment": "Van",
     "weight_lbs": 44000,
     "carrier_rate": 900,
-    "updated_at": "2026-10-22T16:05:11.766746+00:00",
+    "updated_at": "2026-10-22T16:05:59.619777+00:00",
     "lane": "WADESBORO NC-ATLANTA GA"
   },
   {
