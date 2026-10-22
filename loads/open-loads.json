@@ -507,6 +507,23 @@
     "lane": "WADESBORO NC-ATLANTA GA"
   },
   {
+    "pro": "51101",
+    "status": "OPEN",
+    "pu_date": "2026-10-27",
+    "pu_city": "JACKSONVILLE",
+    "pu_state": "TX",
+    "pu_hours": "0800-1500",
+    "del_date": "2026-10-28",
+    "del_city": "MACON",
+    "del_state": "GA",
+    "del_hours": "0800-1500",
+    "equipment": "Van",
+    "weight_lbs": 44500,
+    "carrier_rate": 1800,
+    "updated_at": "2026-10-22T17:40:01.105088+00:00",
+    "lane": "JACKSONVILLE TX-MACON GA"
+  },
+  {
     "pro": "51096",
     "status": "OPEN",
     "pu_date": "2026-10-28",
