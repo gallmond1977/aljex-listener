@@ -1187,7 +1187,7 @@
   },
   {
     "pro": "50998",
-    "status": "PICKUP",
+    "status": "LOADED",
     "pu_date": "2026-10-21",
     "pu_city": "WADESBORO",
     "pu_state": "NC",
@@ -1199,7 +1199,7 @@
     "equipment": "Van",
     "weight_lbs": 44000,
     "carrier_rate": 900,
-    "updated_at": "2026-10-21T20:40:46.523929+00:00",
+    "updated_at": "2026-10-22T11:35:48.283183+00:00",
     "lane": "WADESBORO NC-ATLANTA GA"
   },
   {
@@ -1221,7 +1221,7 @@
   },
   {
     "pro": "51032",
-    "status": "COVERED",
+    "status": "PICKUP",
     "pu_date": "2026-10-22",
     "pu_city": "ATLANTA",
     "pu_state": "GA",
@@ -1233,7 +1233,7 @@
     "equipment": "Reefer",
     "weight_lbs": 21264,
     "carrier_rate": 450,
-    "updated_at": "2026-10-21T13:45:11.835572+00:00",
+    "updated_at": "2026-10-22T11:37:54.431299+00:00",
     "lane": "ATLANTA GA-DECATUR GA"
   },
   {
