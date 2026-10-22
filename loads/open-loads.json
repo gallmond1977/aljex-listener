@@ -178,23 +178,6 @@
     "lane": "ROPER NC-SUMMERVILLE SC"
   },
   {
-    "pro": "51076",
-    "status": "OPEN",
-    "pu_date": "2026-10-22",
-    "pu_city": "SPARTA",
-    "pu_state": "NC",
-    "pu_hours": "0800-1500",
-    "del_date": "2026-10-22",
-    "del_city": "BELMONT",
-    "del_state": "NC",
-    "del_hours": "0700-1600",
-    "equipment": "Van",
-    "weight_lbs": 20000,
-    "carrier_rate": 600,
-    "updated_at": "2026-10-22T13:17:39.454315+00:00",
-    "lane": "SPARTA NC-BELMONT NC"
-  },
-  {
     "pro": "51078",
     "status": "OPEN",
     "pu_date": "2026-10-22",
@@ -284,23 +267,6 @@
     "lane": "CHEHALIS WA-STRUM WI"
   },
   {
-    "pro": "51028",
-    "status": "OPEN",
-    "pu_date": "2026-10-23",
-    "pu_city": "HOUSTON",
-    "pu_state": "TX",
-    "pu_hours": "0700",
-    "del_date": "2026-10-26",
-    "del_city": "SANFORD",
-    "del_state": "FL",
-    "del_hours": "0700",
-    "equipment": "26' Straight Box Truck",
-    "weight_lbs": 7000,
-    "carrier_rate": 1800,
-    "updated_at": "2026-10-22T12:17:50.381430+00:00",
-    "lane": "HOUSTON TX-SANFORD FL"
-  },
-  {
     "pro": "51033",
     "status": "OPEN",
     "pu_date": "2026-10-23",
@@ -314,7 +280,7 @@
     "equipment": "Reefer",
     "weight_lbs": 23400,
     "carrier_rate": null,
-    "updated_at": "2026-10-21T15:24:48.715526+00:00",
+    "updated_at": "2026-10-22T13:38:10.055914+00:00",
     "lane": "MONTEZUMA GA-TRACY CA"
   },
   {
@@ -330,8 +296,8 @@
     "del_hours": "2000",
     "equipment": "Van",
     "weight_lbs": 11280,
-    "carrier_rate": 1000,
-    "updated_at": "2026-10-21T14:36:27.823054+00:00",
+    "carrier_rate": 900,
+    "updated_at": "2026-10-22T13:38:05.080151+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
@@ -348,7 +314,7 @@
     "equipment": "Van",
     "weight_lbs": 35000,
     "carrier_rate": 4200,
-    "updated_at": "2026-10-22T11:53:10.385944+00:00",
+    "updated_at": "2026-10-22T13:39:23.328948+00:00",
     "lane": "PHENIX CITY AL-ROCKLAND ME"
   },
   {
@@ -1133,6 +1099,23 @@
     "carrier_rate": 1000,
     "updated_at": "2026-10-22T13:06:48.951541+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
+  },
+  {
+    "pro": "51028",
+    "status": "COVERED",
+    "pu_date": "2026-10-23",
+    "pu_city": "HOUSTON",
+    "pu_state": "TX",
+    "pu_hours": "0700",
+    "del_date": "2026-10-26",
+    "del_city": "SANFORD",
+    "del_state": "FL",
+    "del_hours": "0700",
+    "equipment": "26' Straight Box Truck",
+    "weight_lbs": 7000,
+    "carrier_rate": 2000,
+    "updated_at": "2026-10-22T13:39:03.442185+00:00",
+    "lane": "HOUSTON TX-SANFORD FL"
   },
   {
     "pro": "51082",
