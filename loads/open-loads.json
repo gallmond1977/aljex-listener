@@ -438,40 +438,6 @@
     "lane": "HOUSTON TX-SANFORD FL"
   },
   {
-    "pro": "50592",
-    "status": "OPEN",
-    "pu_date": "2026-10-26",
-    "pu_city": "RICHMOND",
-    "pu_state": "VA",
-    "pu_hours": "0730",
-    "del_date": "2026-10-26",
-    "del_city": "MIDLOTHIAN",
-    "del_state": "VA",
-    "del_hours": "",
-    "equipment": "26' Straight Box Truck",
-    "weight_lbs": 9300,
-    "carrier_rate": null,
-    "updated_at": "2026-10-22T12:33:51.487829+00:00",
-    "lane": "RICHMOND VA-MIDLOTHIAN VA"
-  },
-  {
-    "pro": "50593",
-    "status": "OPEN",
-    "pu_date": "2026-10-26",
-    "pu_city": "RICHMOND",
-    "pu_state": "VA",
-    "pu_hours": "1030",
-    "del_date": "2026-10-26",
-    "del_city": "MIDLOTHIAN",
-    "del_state": "VA",
-    "del_hours": "",
-    "equipment": "26' Straight Box Truck",
-    "weight_lbs": 9300,
-    "carrier_rate": null,
-    "updated_at": "2026-10-22T12:34:00.626940+00:00",
-    "lane": "RICHMOND VA-MIDLOTHIAN VA"
-  },
-  {
     "pro": "50914",
     "status": "OPEN",
     "pu_date": "2026-10-26",
@@ -572,23 +538,6 @@
     "carrier_rate": null,
     "updated_at": "2026-10-20T15:32:41.981193+00:00",
     "lane": "COLUMBUS GA-VAN WERT OH"
-  },
-  {
-    "pro": "51085",
-    "status": "OPEN",
-    "pu_date": "2026-10-30",
-    "pu_city": "ATLANTA",
-    "pu_state": "GA",
-    "pu_hours": "",
-    "del_date": "2026-10-30",
-    "del_city": "DECATUR",
-    "del_state": "GA",
-    "del_hours": "1100",
-    "equipment": "Reefer",
-    "weight_lbs": 21264,
-    "carrier_rate": 450,
-    "updated_at": "2026-10-22T11:41:44.685062+00:00",
-    "lane": "ATLANTA GA-DECATUR GA"
   },
   {
     "pro": "51086",
@@ -1114,7 +1063,7 @@
     "equipment": "Van",
     "weight_lbs": 44000,
     "carrier_rate": 900,
-    "updated_at": "2026-10-22T11:35:48.283183+00:00",
+    "updated_at": "2026-10-22T12:45:08.928016+00:00",
     "lane": "WADESBORO NC-ATLANTA GA"
   },
   {
@@ -1199,7 +1148,7 @@
     "equipment": "Reefer",
     "weight_lbs": 21264,
     "carrier_rate": 450,
-    "updated_at": "2026-10-22T12:38:51.789010+00:00",
+    "updated_at": "2026-10-22T12:41:32.428287+00:00",
     "lane": "ATLANTA GA-DECATUR GA"
   },
   {
@@ -1216,7 +1165,7 @@
     "equipment": "Reefer",
     "weight_lbs": 22150,
     "carrier_rate": 450,
-    "updated_at": "2026-10-22T12:39:13.152815+00:00",
+    "updated_at": "2026-10-22T12:40:56.495695+00:00",
     "lane": "ATLANTA GA-DECATUR GA"
   },
   {
@@ -1233,7 +1182,24 @@
     "equipment": "Reefer",
     "weight_lbs": 20378,
     "carrier_rate": 450,
-    "updated_at": "2026-10-22T12:39:23.514525+00:00",
+    "updated_at": "2026-10-22T12:42:10.099202+00:00",
+    "lane": "ATLANTA GA-DECATUR GA"
+  },
+  {
+    "pro": "51085",
+    "status": "COVERED",
+    "pu_date": "2026-10-30",
+    "pu_city": "ATLANTA",
+    "pu_state": "GA",
+    "pu_hours": "",
+    "del_date": "2026-10-30",
+    "del_city": "DECATUR",
+    "del_state": "GA",
+    "del_hours": "1100",
+    "equipment": "Reefer",
+    "weight_lbs": 21264,
+    "carrier_rate": 450,
+    "updated_at": "2026-10-22T12:42:41.455473+00:00",
     "lane": "ATLANTA GA-DECATUR GA"
   }
 ]
