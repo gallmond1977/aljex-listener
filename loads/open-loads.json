@@ -846,23 +846,6 @@
     "lane": "GARLAND TX-CALHOUN GA"
   },
   {
-    "pro": "50928",
-    "status": "RELEASED",
-    "pu_date": "2026-10-13",
-    "pu_city": "WADESBORO",
-    "pu_state": "NC",
-    "pu_hours": "0730-1630",
-    "del_date": "2026-10-14",
-    "del_city": "ATLANTA",
-    "del_state": "GA",
-    "del_hours": "0800-1600",
-    "equipment": "Van",
-    "weight_lbs": 44000,
-    "carrier_rate": 900,
-    "updated_at": "2026-10-15T12:04:22.153775+00:00",
-    "lane": "WADESBORO NC-ATLANTA GA"
-  },
-  {
     "pro": "50941",
     "status": "RELEASED",
     "pu_date": "2026-10-13",
