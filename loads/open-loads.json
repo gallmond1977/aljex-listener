@@ -283,23 +283,6 @@
     "lane": "BUENA VISTA GA-INDIAN TRAIL NC"
   },
   {
-    "pro": "51105",
-    "status": "OPEN",
-    "pu_date": "2026-10-23",
-    "pu_city": "HAMBURG",
-    "pu_state": "PA",
-    "pu_hours": "0730-1500",
-    "del_date": "2026-10-23",
-    "del_city": "STEVENS",
-    "del_state": "PA",
-    "del_hours": "0700-1500",
-    "equipment": "Flatbed",
-    "weight_lbs": 44280,
-    "carrier_rate": 600,
-    "updated_at": "2026-10-22T19:56:05.800032+00:00",
-    "lane": "HAMBURG PA-STEVENS PA"
-  },
-  {
     "pro": "8890459",
     "status": "OPEN",
     "spot": true,
