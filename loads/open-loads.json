@@ -208,7 +208,7 @@
     "equipment": "Flatbed",
     "weight_lbs": 22687,
     "carrier_rate": 1200,
-    "updated_at": "2026-10-22T15:01:53.436270+00:00",
+    "updated_at": "2026-10-22T15:32:30.705319+00:00",
     "lane": "DAYTON TN-FLETCHER NC"
   },
   {
@@ -322,7 +322,7 @@
     "pu_date": "2026-10-23",
     "pu_city": "BREMEN",
     "pu_state": "GA",
-    "pu_hours": "1530",
+    "pu_hours": "1500",
     "del_date": "2026-10-26",
     "del_city": "TUSCALOOSA",
     "del_state": "AL",
@@ -330,7 +330,7 @@
     "equipment": "Flatbed Hot Shot",
     "weight_lbs": 12500,
     "carrier_rate": 500,
-    "updated_at": "2026-10-22T15:26:18.738399+00:00",
+    "updated_at": "2026-10-22T15:32:24.360423+00:00",
     "lane": "BREMEN GA-TUSCALOOSA AL"
   },
   {
@@ -521,6 +521,23 @@
     "carrier_rate": 900,
     "updated_at": "2026-10-21T19:07:46.591911+00:00",
     "lane": "WADESBORO NC-ATLANTA GA"
+  },
+  {
+    "pro": "51096",
+    "status": "OPEN",
+    "pu_date": "2026-10-28",
+    "pu_city": "HOUSTON",
+    "pu_state": "TX",
+    "pu_hours": "1300",
+    "del_date": "2026-10-30",
+    "del_city": "SANFORD",
+    "del_state": "FL",
+    "del_hours": "0700",
+    "equipment": "26' Straight Box Truck",
+    "weight_lbs": 7000,
+    "carrier_rate": 2000,
+    "updated_at": "2026-10-22T15:34:51.916026+00:00",
+    "lane": "HOUSTON TX-SANFORD FL"
   },
   {
     "pro": "51051",
