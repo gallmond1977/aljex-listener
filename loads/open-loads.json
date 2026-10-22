@@ -166,7 +166,7 @@
     "pu_date": "2026-10-22",
     "pu_city": "ROPER",
     "pu_state": "NC",
-    "pu_hours": "0700-1630",
+    "pu_hours": "0700-1700",
     "del_date": "2026-10-23",
     "del_city": "SUMMERVILLE",
     "del_state": "SC",
@@ -174,7 +174,7 @@
     "equipment": "Flatbed Hot Shot",
     "weight_lbs": 16000,
     "carrier_rate": 1100,
-    "updated_at": "2026-10-22T15:05:47.541231+00:00",
+    "updated_at": "2026-10-22T17:50:10.829984+00:00",
     "lane": "ROPER NC-SUMMERVILLE SC"
   },
   {
