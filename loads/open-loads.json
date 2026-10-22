@@ -161,6 +161,23 @@
     "lane": "ABERDEEN MD-CHARLOTTE NC"
   },
   {
+    "pro": "51103",
+    "status": "OPEN",
+    "pu_date": "2026-10-22",
+    "pu_city": "MONCURE",
+    "pu_state": "NC",
+    "pu_hours": "0730-1600",
+    "del_date": "2026-10-23",
+    "del_city": "ATLANTA",
+    "del_state": "GA",
+    "del_hours": "0800-1600",
+    "equipment": "Van",
+    "weight_lbs": 44000,
+    "carrier_rate": null,
+    "updated_at": "2026-10-22T18:29:21.090513+00:00",
+    "lane": "MONCURE NC-ATLANTA GA"
+  },
+  {
     "pro": "8890453",
     "status": "OPEN",
     "spot": true,
@@ -743,6 +760,23 @@
     "carrier_rate": 5800,
     "updated_at": "2026-10-20T11:58:33.599793+00:00",
     "lane": "ALPHARETTA GA-AMARILLO TX"
+  },
+  {
+    "pro": "50883",
+    "status": "RELEASED",
+    "pu_date": "2026-10-14",
+    "pu_city": "MONCURE",
+    "pu_state": "NC",
+    "pu_hours": "0730-1600",
+    "del_date": "2026-10-15",
+    "del_city": "ATLANTA",
+    "del_state": "GA",
+    "del_hours": "0800-1600",
+    "equipment": "Van",
+    "weight_lbs": 44000,
+    "carrier_rate": 900,
+    "updated_at": "2026-10-16T15:27:18.049866+00:00",
+    "lane": "MONCURE NC-ATLANTA GA"
   },
   {
     "pro": "50929",
