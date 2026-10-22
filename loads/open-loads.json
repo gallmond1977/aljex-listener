@@ -473,6 +473,23 @@
     "lane": "MCDONOUGH GA-MILLEDGEVILLE GA"
   },
   {
+    "pro": "51100",
+    "status": "OPEN",
+    "pu_date": "2026-10-26",
+    "pu_city": "JACKSONVILLE",
+    "pu_state": "TX",
+    "pu_hours": "0800-1500",
+    "del_date": "2026-10-27",
+    "del_city": "PUEBLO",
+    "del_state": "CO",
+    "del_hours": "",
+    "equipment": "Van",
+    "weight_lbs": 44000,
+    "carrier_rate": 2500,
+    "updated_at": "2026-10-22T17:23:13.894114+00:00",
+    "lane": "JACKSONVILLE TX-PUEBLO CO"
+  },
+  {
     "pro": "51081",
     "status": "OPEN",
     "pu_date": "2026-10-27",
