@@ -352,6 +352,23 @@
     "lane": "BUFFALO NY-BELCAMP MD"
   },
   {
+    "pro": "51095",
+    "status": "OPEN",
+    "pu_date": "2026-10-23",
+    "pu_city": "BREMEN",
+    "pu_state": "GA",
+    "pu_hours": "1530",
+    "del_date": "2026-10-26",
+    "del_city": "TUSCALOOSA",
+    "del_state": "AL",
+    "del_hours": "",
+    "equipment": "Flatbed Hot Shot",
+    "weight_lbs": 12500,
+    "carrier_rate": 500,
+    "updated_at": "2026-10-22T15:14:56.421681+00:00",
+    "lane": "BREMEN GA-TUSCALOOSA AL"
+  },
+  {
     "pro": "8890459",
     "status": "OPEN",
     "spot": true,
