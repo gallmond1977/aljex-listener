@@ -812,23 +812,6 @@
     "lane": "LA PORTE TX-GREENVILLE SC"
   },
   {
-    "pro": "49856",
-    "status": "RELEASED",
-    "pu_date": "2026-10-12",
-    "pu_city": "PASADENA",
-    "pu_state": "TX",
-    "pu_hours": "1300",
-    "del_date": "2026-10-14",
-    "del_city": "GREENVILLE",
-    "del_state": "SC",
-    "del_hours": "0630-1330",
-    "equipment": "Van",
-    "weight_lbs": 44960,
-    "carrier_rate": 2800,
-    "updated_at": "2026-10-15T11:45:45.863160+00:00",
-    "lane": "PASADENA TX-GREENVILLE SC"
-  },
-  {
     "pro": "50902",
     "status": "RELEASED",
     "pu_date": "2026-10-12",
