@@ -226,7 +226,7 @@
     "equipment": "Van",
     "weight_lbs": 44000,
     "carrier_rate": 3600,
-    "updated_at": "2026-10-21T20:00:32.049056+00:00",
+    "updated_at": "2026-10-22T15:17:18.344839+00:00",
     "lane": "PORT ANGELES WA-MAGNA UT"
   },
   {
@@ -244,7 +244,7 @@
     "equipment": "Van",
     "weight_lbs": 44000,
     "carrier_rate": 2300,
-    "updated_at": "2026-10-21T20:00:20.382333+00:00",
+    "updated_at": "2026-10-22T15:17:11.531647+00:00",
     "lane": "PORT ANGELES WA-GARDENA CA"
   },
   {
@@ -262,26 +262,8 @@
     "equipment": "Flatbed",
     "weight_lbs": 47000,
     "carrier_rate": 6000,
-    "updated_at": "2026-10-21T20:00:37.617847+00:00",
+    "updated_at": "2026-10-22T15:17:09.290567+00:00",
     "lane": "CHEHALIS WA-DUNDEE OH"
-  },
-  {
-    "pro": "8890464",
-    "status": "OPEN",
-    "spot": true,
-    "pu_date": "2026-10-22",
-    "pu_city": "CHEHALIS",
-    "pu_state": "WA",
-    "pu_hours": "",
-    "del_date": "2026-10-23",
-    "del_city": "STRUM",
-    "del_state": "WI",
-    "del_hours": "",
-    "equipment": "Flatbed",
-    "weight_lbs": 47000,
-    "carrier_rate": 5000,
-    "updated_at": "2026-10-21T20:00:26.284611+00:00",
-    "lane": "CHEHALIS WA-STRUM WI"
   },
   {
     "pro": "51033",
@@ -383,8 +365,26 @@
     "equipment": "Van",
     "weight_lbs": 44000,
     "carrier_rate": 3600,
-    "updated_at": "2026-10-20T18:23:42.903621+00:00",
+    "updated_at": "2026-10-22T15:17:20.704563+00:00",
     "lane": "PORT ANGELES WA-MAGNA UT"
+  },
+  {
+    "pro": "8890464",
+    "status": "OPEN",
+    "spot": true,
+    "pu_date": "2026-10-23",
+    "pu_city": "CHEHALIS",
+    "pu_state": "WA",
+    "pu_hours": "",
+    "del_date": "2026-10-24",
+    "del_city": "SALT LAKE CITY",
+    "del_state": "UT",
+    "del_hours": "",
+    "equipment": "Van",
+    "weight_lbs": 44000,
+    "carrier_rate": 4500,
+    "updated_at": "2026-10-22T15:19:09.355821+00:00",
+    "lane": "CHEHALIS WA-SALT LAKE CITY UT"
   },
   {
     "pro": "51029",
