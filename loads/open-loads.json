@@ -242,7 +242,7 @@
     "equipment": "Van Hazmat",
     "weight_lbs": 44940,
     "carrier_rate": 2000,
-    "updated_at": "2026-10-22T12:18:41.210811+00:00",
+    "updated_at": "2026-10-22T12:27:25.981265+00:00",
     "lane": "OAKLAND TN-PHENIX CITY AL"
   },
   {
@@ -1233,7 +1233,7 @@
     "equipment": "Van",
     "weight_lbs": 11280,
     "carrier_rate": 1000,
-    "updated_at": "2026-10-22T12:20:51.742552+00:00",
+    "updated_at": "2026-10-22T12:27:56.669056+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
@@ -1250,7 +1250,7 @@
     "equipment": "Van",
     "weight_lbs": 11280,
     "carrier_rate": 1000,
-    "updated_at": "2026-10-21T19:42:33.476788+00:00",
+    "updated_at": "2026-10-22T12:29:41.408282+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
   }
 ]
