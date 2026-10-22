@@ -195,6 +195,23 @@
     "lane": "WADESBORO NC-ATLANTA GA"
   },
   {
+    "pro": "51090",
+    "status": "OPEN",
+    "pu_date": "2026-10-22",
+    "pu_city": "RALEIGH",
+    "pu_state": "NC",
+    "pu_hours": "0900-1100",
+    "del_date": "2026-10-22",
+    "del_city": "WINSTON SALEM",
+    "del_state": "NC",
+    "del_hours": "0800-1500",
+    "equipment": "26' Straight Box Truck",
+    "weight_lbs": 2662,
+    "carrier_rate": 300,
+    "updated_at": "2026-10-22T13:09:49.616882+00:00",
+    "lane": "RALEIGH NC-WINSTON SALEM NC"
+  },
+  {
     "pro": "8890453",
     "status": "OPEN",
     "spot": true,
@@ -761,6 +778,23 @@
     "lane": "ALPHARETTA GA-AMARILLO TX"
   },
   {
+    "pro": "50971",
+    "status": "RELEASED",
+    "pu_date": "2026-10-15",
+    "pu_city": "RALEIGH",
+    "pu_state": "NC",
+    "pu_hours": "0900",
+    "del_date": "2026-10-15",
+    "del_city": "WINSTON SALEM",
+    "del_state": "NC",
+    "del_hours": "0800-1500",
+    "equipment": "Van",
+    "weight_lbs": 6313,
+    "carrier_rate": 500,
+    "updated_at": "2026-10-15T16:59:53.524693+00:00",
+    "lane": "RALEIGH NC-WINSTON SALEM NC"
+  },
+  {
     "pro": "50976",
     "status": "RELEASED",
     "pu_date": "2026-10-15",
@@ -1097,7 +1131,7 @@
     "equipment": "Van",
     "weight_lbs": 11280,
     "carrier_rate": 1000,
-    "updated_at": "2026-10-22T12:54:47.927140+00:00",
+    "updated_at": "2026-10-22T13:06:48.951541+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
