@@ -178,23 +178,6 @@
     "lane": "ROPER NC-SUMMERVILLE SC"
   },
   {
-    "pro": "51094",
-    "status": "OPEN",
-    "pu_date": "2026-10-22",
-    "pu_city": "DAYTON",
-    "pu_state": "TN",
-    "pu_hours": "0800-1500",
-    "del_date": "2026-10-23",
-    "del_city": "FLETCHER",
-    "del_state": "NC",
-    "del_hours": "",
-    "equipment": "Flatbed",
-    "weight_lbs": 22687,
-    "carrier_rate": 1000,
-    "updated_at": "2026-10-22T16:35:21.367261+00:00",
-    "lane": "DAYTON TN-FLETCHER NC"
-  },
-  {
     "pro": "8890453",
     "status": "OPEN",
     "spot": true,
@@ -281,6 +264,23 @@
     "carrier_rate": 750,
     "updated_at": "2026-10-22T14:40:10.663859+00:00",
     "lane": "BUFFALO NY-BELCAMP MD"
+  },
+  {
+    "pro": "51094",
+    "status": "OPEN",
+    "pu_date": "2026-10-23",
+    "pu_city": "DAYTON",
+    "pu_state": "TN",
+    "pu_hours": "0800-1500",
+    "del_date": "2026-10-23",
+    "del_city": "FLETCHER",
+    "del_state": "NC",
+    "del_hours": "",
+    "equipment": "Flatbed",
+    "weight_lbs": 22687,
+    "carrier_rate": 1000,
+    "updated_at": "2026-10-22T16:45:50.559654+00:00",
+    "lane": "DAYTON TN-FLETCHER NC"
   },
   {
     "pro": "51095",
@@ -1018,7 +1018,7 @@
   },
   {
     "pro": "50998",
-    "status": "LOADED",
+    "status": "CONSIGNEE",
     "pu_date": "2026-10-21",
     "pu_city": "WADESBORO",
     "pu_state": "NC",
@@ -1030,7 +1030,7 @@
     "equipment": "Van",
     "weight_lbs": 44000,
     "carrier_rate": 900,
-    "updated_at": "2026-10-22T14:54:36.940757+00:00",
+    "updated_at": "2026-10-22T16:49:14.129003+00:00",
     "lane": "WADESBORO NC-ATLANTA GA"
   },
   {
@@ -1149,7 +1149,7 @@
     "equipment": "Van",
     "weight_lbs": 44000,
     "carrier_rate": 900,
-    "updated_at": "2026-10-22T16:05:59.619777+00:00",
+    "updated_at": "2026-10-22T16:46:23.277453+00:00",
     "lane": "WADESBORO NC-ATLANTA GA"
   },
   {
