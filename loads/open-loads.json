@@ -173,8 +173,8 @@
     "del_hours": "0700-1500",
     "equipment": "Flatbed Hot Shot",
     "weight_lbs": 16000,
-    "carrier_rate": 700,
-    "updated_at": "2026-10-22T13:48:18.824811+00:00",
+    "carrier_rate": 1000,
+    "updated_at": "2026-10-22T14:42:57.030848+00:00",
     "lane": "ROPER NC-SUMMERVILLE SC"
   },
   {
@@ -267,6 +267,24 @@
     "lane": "CHEHALIS WA-STRUM WI"
   },
   {
+    "pro": "8890465",
+    "status": "OPEN",
+    "spot": true,
+    "pu_date": "2026-10-22",
+    "pu_city": "DAYTON",
+    "pu_state": "TN",
+    "pu_hours": "",
+    "del_date": "2026-10-23",
+    "del_city": "FLETCHER",
+    "del_state": "NC",
+    "del_hours": "",
+    "equipment": "Flatbed",
+    "weight_lbs": 22687,
+    "carrier_rate": null,
+    "updated_at": "2026-10-22T14:44:59.233202+00:00",
+    "lane": "DAYTON TN-FLETCHER NC"
+  },
+  {
     "pro": "51033",
     "status": "OPEN",
     "pu_date": "2026-10-23",
@@ -348,7 +366,7 @@
     "equipment": "Sprinter Van",
     "weight_lbs": 2000,
     "carrier_rate": 3000,
-    "updated_at": "2026-10-22T14:39:44.095949+00:00",
+    "updated_at": "2026-10-22T14:45:13.090317+00:00",
     "lane": "BUFFALO NY-MUKILTEO WA"
   },
   {
