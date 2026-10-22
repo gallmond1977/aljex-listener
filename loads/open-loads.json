@@ -178,23 +178,6 @@
     "lane": "ROPER NC-SUMMERVILLE SC"
   },
   {
-    "pro": "51076",
-    "status": "OPEN",
-    "pu_date": "2026-10-22",
-    "pu_city": "SPARTA",
-    "pu_state": "NC",
-    "pu_hours": "0800-1500",
-    "del_date": "2026-10-22",
-    "del_city": "BELMONT",
-    "del_state": "NC",
-    "del_hours": "0700-1600",
-    "equipment": "Van",
-    "weight_lbs": 20000,
-    "carrier_rate": 500,
-    "updated_at": "2026-10-21T19:31:21.821359+00:00",
-    "lane": "SPARTA NC-BELMONT NC"
-  },
-  {
     "pro": "51078",
     "status": "OPEN",
     "pu_date": "2026-10-22",
@@ -1114,7 +1097,7 @@
     "equipment": "Van",
     "weight_lbs": 11280,
     "carrier_rate": 1000,
-    "updated_at": "2026-10-22T12:35:43.307507+00:00",
+    "updated_at": "2026-10-22T12:54:47.927140+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
