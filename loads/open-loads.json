@@ -347,7 +347,7 @@
     "equipment": "Flatbed Hot Shot",
     "weight_lbs": 12500,
     "carrier_rate": 500,
-    "updated_at": "2026-10-22T15:14:56.421681+00:00",
+    "updated_at": "2026-10-22T15:23:32.444054+00:00",
     "lane": "BREMEN GA-TUSCALOOSA AL"
   },
   {
@@ -1153,7 +1153,7 @@
   },
   {
     "pro": "51069",
-    "status": "DISPATCHED",
+    "status": "PICKUP",
     "pu_date": "2026-10-22",
     "pu_city": "WINCHESTER",
     "pu_state": "KY",
@@ -1165,7 +1165,7 @@
     "equipment": "Van",
     "weight_lbs": 11280,
     "carrier_rate": 1000,
-    "updated_at": "2026-10-22T15:01:32.017781+00:00",
+    "updated_at": "2026-10-22T15:21:43.265185+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
