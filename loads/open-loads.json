@@ -229,6 +229,23 @@
     "lane": "TROY PA-AVENEL NJ"
   },
   {
+    "pro": "51089",
+    "status": "OPEN",
+    "pu_date": "2026-10-22",
+    "pu_city": "OAKLAND",
+    "pu_state": "TN",
+    "pu_hours": "0800-1500",
+    "del_date": "2026-10-23",
+    "del_city": "PHENIX CITY",
+    "del_state": "AL",
+    "del_hours": "0700-1000",
+    "equipment": "Van Hazmat",
+    "weight_lbs": 44940,
+    "carrier_rate": 2200,
+    "updated_at": "2026-10-22T12:14:56.365829+00:00",
+    "lane": "OAKLAND TN-PHENIX CITY AL"
+  },
+  {
     "pro": "8890453",
     "status": "OPEN",
     "spot": true,
