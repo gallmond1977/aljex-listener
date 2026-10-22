@@ -1136,7 +1136,7 @@
   },
   {
     "pro": "51032",
-    "status": "CONSIGNEE",
+    "status": "DELIVERED",
     "pu_date": "2026-10-22",
     "pu_city": "ATLANTA",
     "pu_state": "GA",
@@ -1148,7 +1148,7 @@
     "equipment": "Reefer",
     "weight_lbs": 21264,
     "carrier_rate": 450,
-    "updated_at": "2026-10-22T13:54:55.888188+00:00",
+    "updated_at": "2026-10-22T14:56:28.930807+00:00",
     "lane": "ATLANTA GA-DECATUR GA"
   },
   {
