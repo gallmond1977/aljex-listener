@@ -467,9 +467,9 @@
     "del_state": "CO",
     "del_hours": "0730-1530",
     "equipment": "Van",
-    "weight_lbs": 44000,
+    "weight_lbs": 24000,
     "carrier_rate": 2600,
-    "updated_at": "2026-10-22T17:33:15.796195+00:00",
+    "updated_at": "2026-10-22T18:14:56.583672+00:00",
     "lane": "JACKSONVILLE TX-PUEBLO CO"
   },
   {
@@ -616,14 +616,14 @@
     "pu_state": "TX",
     "pu_hours": "REQ ETA",
     "del_date": "",
-    "del_city": "GREENVILLE",
+    "del_city": "PIEDMONT",
     "del_state": "SC",
-    "del_hours": "0630-1330",
+    "del_hours": "CONFIRM",
     "equipment": "Van",
     "weight_lbs": 44000,
     "carrier_rate": null,
-    "updated_at": "2026-10-16T13:46:08.884137+00:00",
-    "lane": "PASADENA TX-GREENVILLE SC"
+    "updated_at": "2026-10-22T18:12:56.187762+00:00",
+    "lane": "PASADENA TX-PIEDMONT SC"
   },
   {
     "pro": "50717",
@@ -650,14 +650,14 @@
     "pu_state": "TX",
     "pu_hours": "REQ ETA",
     "del_date": "",
-    "del_city": "GREENVILLE",
+    "del_city": "PIEDMONT",
     "del_state": "SC",
-    "del_hours": "0630-1330",
+    "del_hours": "CONFIRM",
     "equipment": "Van",
     "weight_lbs": 44000,
     "carrier_rate": null,
-    "updated_at": "2026-10-19T20:20:39.928067+00:00",
-    "lane": "PASADENA TX-GREENVILLE SC"
+    "updated_at": "2026-10-22T18:13:49.823857+00:00",
+    "lane": "PASADENA TX-PIEDMONT SC"
   },
   {
     "pro": "50287",
@@ -667,14 +667,14 @@
     "pu_state": "TX",
     "pu_hours": "0800-1430",
     "del_date": "2026-12-10",
-    "del_city": "GREENVILLE",
+    "del_city": "PIEDMONT",
     "del_state": "SC",
-    "del_hours": "0630-1330",
+    "del_hours": "CONFIRM",
     "equipment": "Van",
     "weight_lbs": 41667,
     "carrier_rate": null,
-    "updated_at": "2026-09-03T14:31:39.531141+00:00",
-    "lane": "LA PORTE TX-GREENVILLE SC"
+    "updated_at": "2026-10-22T18:14:45.039672+00:00",
+    "lane": "LA PORTE TX-PIEDMONT SC"
   },
   {
     "pro": "50924",
