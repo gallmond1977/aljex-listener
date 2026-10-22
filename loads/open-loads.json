@@ -157,7 +157,7 @@
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 10673,
     "carrier_rate": 1000,
-    "updated_at": "2026-10-22T14:51:27.383499+00:00",
+    "updated_at": "2026-10-22T15:05:58.902677+00:00",
     "lane": "ABERDEEN MD-CHARLOTTE NC"
   },
   {
@@ -173,8 +173,8 @@
     "del_hours": "0700-1500",
     "equipment": "Flatbed Hot Shot",
     "weight_lbs": 16000,
-    "carrier_rate": 1000,
-    "updated_at": "2026-10-22T15:03:56.686234+00:00",
+    "carrier_rate": 1100,
+    "updated_at": "2026-10-22T15:05:47.541231+00:00",
     "lane": "ROPER NC-SUMMERVILLE SC"
   },
   {
@@ -296,8 +296,8 @@
     "del_hours": "0445",
     "equipment": "Reefer",
     "weight_lbs": 23400,
-    "carrier_rate": null,
-    "updated_at": "2026-10-22T13:38:10.055914+00:00",
+    "carrier_rate": 4500,
+    "updated_at": "2026-10-22T15:05:55.761774+00:00",
     "lane": "MONTEZUMA GA-TRACY CA"
   },
   {
@@ -1165,7 +1165,7 @@
     "equipment": "Van",
     "weight_lbs": 11280,
     "carrier_rate": 1000,
-    "updated_at": "2026-10-22T14:49:31.657772+00:00",
+    "updated_at": "2026-10-22T15:05:42.873846+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
