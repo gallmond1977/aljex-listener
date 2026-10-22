@@ -283,23 +283,6 @@
     "lane": "DAYTON TN-FLETCHER NC"
   },
   {
-    "pro": "51095",
-    "status": "OPEN",
-    "pu_date": "2026-10-23",
-    "pu_city": "BREMEN",
-    "pu_state": "GA",
-    "pu_hours": "1500",
-    "del_date": "2026-10-23",
-    "del_city": "TUSCALOOSA",
-    "del_state": "AL",
-    "del_hours": "1500-2000",
-    "equipment": "Flatbed Hot Shot",
-    "weight_lbs": 650,
-    "carrier_rate": 500,
-    "updated_at": "2026-10-22T16:17:52.247624+00:00",
-    "lane": "BREMEN GA-TUSCALOOSA AL"
-  },
-  {
     "pro": "8890459",
     "status": "OPEN",
     "spot": true,
@@ -1149,7 +1132,7 @@
     "equipment": "Van",
     "weight_lbs": 44000,
     "carrier_rate": 900,
-    "updated_at": "2026-10-22T16:46:23.277453+00:00",
+    "updated_at": "2026-10-22T16:50:37.642657+00:00",
     "lane": "WADESBORO NC-ATLANTA GA"
   },
   {
