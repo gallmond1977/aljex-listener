@@ -265,23 +265,6 @@
     "lane": "BUENA VISTA GA-INDIAN TRAIL NC"
   },
   {
-    "pro": "51106",
-    "status": "OPEN",
-    "pu_date": "2026-10-23",
-    "pu_city": "COLUMBUS",
-    "pu_state": "GA",
-    "pu_hours": "0800-1500",
-    "del_date": "2026-10-26",
-    "del_city": "LAFAYETTE",
-    "del_state": "LA",
-    "del_hours": "0700-1600",
-    "equipment": "Van",
-    "weight_lbs": 44280,
-    "carrier_rate": 1900,
-    "updated_at": "2026-10-23T13:02:08.670100+00:00",
-    "lane": "COLUMBUS GA-LAFAYETTE LA"
-  },
-  {
     "pro": "8890459",
     "status": "OPEN",
     "spot": true,
