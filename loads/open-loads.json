@@ -197,23 +197,6 @@
     "lane": "DAYTON TN-FLETCHER NC"
   },
   {
-    "pro": "51107",
-    "status": "OPEN",
-    "pu_date": "2026-10-23",
-    "pu_city": "APOPKA",
-    "pu_state": "FL",
-    "pu_hours": "0800-1500",
-    "del_date": "2026-10-26",
-    "del_city": "CLANTON",
-    "del_state": "AL",
-    "del_hours": "0700",
-    "equipment": "26' Straight Box Truck",
-    "weight_lbs": 2762,
-    "carrier_rate": 550,
-    "updated_at": "2026-10-23T14:48:50.170530+00:00",
-    "lane": "APOPKA FL-CLANTON AL"
-  },
-  {
     "pro": "51111",
     "status": "OPEN",
     "pu_date": "2026-10-23",
@@ -227,7 +210,7 @@
     "equipment": "Van Hazmat",
     "weight_lbs": 44900,
     "carrier_rate": 2800,
-    "updated_at": "2026-10-23T14:59:26.752535+00:00",
+    "updated_at": "2026-10-23T15:01:26.959970+00:00",
     "lane": "OAKLAND TN-SALISBURY NC"
   },
   {
@@ -244,7 +227,7 @@
     "equipment": "Van",
     "weight_lbs": 33000,
     "carrier_rate": 4800,
-    "updated_at": "2026-10-23T14:59:30.569678+00:00",
+    "updated_at": "2026-10-23T15:00:30.563158+00:00",
     "lane": "HOUSTON TX-HANOVER TOWNSHIP PA"
   },
   {
@@ -399,8 +382,8 @@
     "del_hours": "2000",
     "equipment": "Van",
     "weight_lbs": 9600,
-    "carrier_rate": null,
-    "updated_at": "2026-10-23T14:58:37.970167+00:00",
+    "carrier_rate": 900,
+    "updated_at": "2026-10-23T15:04:52.118236+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
@@ -410,14 +393,14 @@
     "pu_city": "WINCHESTER",
     "pu_state": "KY",
     "pu_hours": "0800-1030",
-    "del_date": "",
+    "del_date": "2026-10-26",
     "del_city": "JOLIET",
     "del_state": "IL",
-    "del_hours": "",
+    "del_hours": "2000",
     "equipment": "Van",
     "weight_lbs": 9600,
-    "carrier_rate": null,
-    "updated_at": "2026-10-23T14:48:56.512514+00:00",
+    "carrier_rate": 900,
+    "updated_at": "2026-10-23T15:03:03.479247+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
@@ -468,7 +451,7 @@
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 7000,
     "carrier_rate": 2000,
-    "updated_at": "2026-10-22T15:35:26.249037+00:00",
+    "updated_at": "2026-10-23T15:04:56.686832+00:00",
     "lane": "HOUSTON TX-SANFORD FL"
   },
   {
