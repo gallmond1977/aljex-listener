@@ -180,23 +180,6 @@
     "lane": "CHEHALIS WA-DUNDEE OH"
   },
   {
-    "pro": "51016",
-    "status": "OPEN",
-    "pu_date": "2026-10-23",
-    "pu_city": "ABERDEEN",
-    "pu_state": "MD",
-    "pu_hours": "1000-1400",
-    "del_date": "2026-10-26",
-    "del_city": "CHARLOTTE",
-    "del_state": "NC",
-    "del_hours": "0800-1000",
-    "equipment": "26' Straight Box Truck",
-    "weight_lbs": 10673,
-    "carrier_rate": 1000,
-    "updated_at": "2026-10-23T14:02:14.434248+00:00",
-    "lane": "ABERDEEN MD-CHARLOTTE NC"
-  },
-  {
     "pro": "51094",
     "status": "OPEN",
     "pu_date": "2026-10-23",
