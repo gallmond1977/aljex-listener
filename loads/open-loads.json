@@ -260,8 +260,8 @@
     "del_hours": "0700-1500",
     "equipment": "Van",
     "weight_lbs": 43500,
-    "carrier_rate": 1100,
-    "updated_at": "2026-10-23T12:21:11.264494+00:00",
+    "carrier_rate": 1200,
+    "updated_at": "2026-10-23T12:50:53.795099+00:00",
     "lane": "BUENA VISTA GA-INDIAN TRAIL NC"
   },
   {
@@ -366,7 +366,7 @@
     "equipment": "Van",
     "weight_lbs": 40949,
     "carrier_rate": 1850,
-    "updated_at": "2026-10-23T12:49:07.733503+00:00",
+    "updated_at": "2026-10-23T12:50:26.799637+00:00",
     "lane": "GARLAND TX-CALHOUN GA"
   },
   {
