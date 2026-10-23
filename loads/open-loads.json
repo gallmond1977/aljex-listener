@@ -215,23 +215,6 @@
     "lane": "OAKLAND TN-SALISBURY NC"
   },
   {
-    "pro": "51112",
-    "status": "OPEN",
-    "pu_date": "2026-10-23",
-    "pu_city": "HOUSTON",
-    "pu_state": "TX",
-    "pu_hours": "0730-1700",
-    "del_date": "2026-10-26",
-    "del_city": "HANOVER TOWNSHIP",
-    "del_state": "PA",
-    "del_hours": "0800-1400",
-    "equipment": "Van",
-    "weight_lbs": 33000,
-    "carrier_rate": 4800,
-    "updated_at": "2026-10-23T15:39:15.004452+00:00",
-    "lane": "HOUSTON TX-HANOVER TOWNSHIP PA"
-  },
-  {
     "pro": "8890459",
     "status": "OPEN",
     "spot": true,
@@ -418,7 +401,7 @@
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 4000,
     "carrier_rate": null,
-    "updated_at": "2026-10-23T15:40:22.125726+00:00",
+    "updated_at": "2026-10-23T15:42:12.529168+00:00",
     "lane": "UNION CITY GA-PINECREST FL"
   },
   {
@@ -675,23 +658,6 @@
     "carrier_rate": 900,
     "updated_at": "2026-10-20T15:54:31.381343+00:00",
     "lane": "WADESBORO NC-ATLANTA GA"
-  },
-  {
-    "pro": "50976",
-    "status": "RELEASED",
-    "pu_date": "2026-10-15",
-    "pu_city": "WINCHESTER",
-    "pu_state": "KY",
-    "pu_hours": "0800-1030",
-    "del_date": "2026-10-15",
-    "del_city": "JOLIET",
-    "del_state": "IL",
-    "del_hours": "2130",
-    "equipment": "Van",
-    "weight_lbs": 14580,
-    "carrier_rate": 1000,
-    "updated_at": "2026-10-16T15:44:17.466716+00:00",
-    "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
     "pro": "50981",
