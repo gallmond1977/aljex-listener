@@ -286,23 +286,6 @@
     "lane": "PHENIX CITY AL-ROCKLAND ME"
   },
   {
-    "pro": "51080",
-    "status": "OPEN",
-    "pu_date": "2026-10-26",
-    "pu_city": "WADESBORO",
-    "pu_state": "NC",
-    "pu_hours": "0730-1630",
-    "del_date": "2026-10-27",
-    "del_city": "ATLANTA",
-    "del_state": "GA",
-    "del_hours": "0800-1600",
-    "equipment": "Van",
-    "weight_lbs": 44000,
-    "carrier_rate": 900,
-    "updated_at": "2026-10-21T19:08:15.794472+00:00",
-    "lane": "WADESBORO NC-ATLANTA GA"
-  },
-  {
     "pro": "51100",
     "status": "OPEN",
     "pu_date": "2026-10-26",
@@ -930,6 +913,23 @@
     "carrier_rate": 2000,
     "updated_at": "2026-10-23T13:55:15.205200+00:00",
     "lane": "HOUSTON TX-SANFORD FL"
+  },
+  {
+    "pro": "51080",
+    "status": "COVERED",
+    "pu_date": "2026-10-26",
+    "pu_city": "WADESBORO",
+    "pu_state": "NC",
+    "pu_hours": "0730-1630",
+    "del_date": "2026-10-27",
+    "del_city": "ATLANTA",
+    "del_state": "GA",
+    "del_hours": "0800-1600",
+    "equipment": "Van",
+    "weight_lbs": 44000,
+    "carrier_rate": 900,
+    "updated_at": "2026-10-23T17:25:09.047416+00:00",
+    "lane": "WADESBORO NC-ATLANTA GA"
   },
   {
     "pro": "51082",
