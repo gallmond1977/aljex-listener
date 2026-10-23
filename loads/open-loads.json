@@ -371,6 +371,23 @@
     "lane": "JACKSONVILLE TX-MACON GA"
   },
   {
+    "pro": "51119",
+    "status": "OPEN",
+    "pu_date": "2026-10-27",
+    "pu_city": "WINCHESTER",
+    "pu_state": "KY",
+    "pu_hours": "",
+    "del_date": "2026-10-28",
+    "del_city": "JACKSONVILLE",
+    "del_state": "FL",
+    "del_hours": "",
+    "equipment": "Van",
+    "weight_lbs": 4200,
+    "carrier_rate": null,
+    "updated_at": "2026-10-23T18:59:01.727617+00:00",
+    "lane": "WINCHESTER KY-JACKSONVILLE FL"
+  },
+  {
     "pro": "51096",
     "status": "OPEN",
     "pu_date": "2026-10-28",
@@ -403,6 +420,23 @@
     "carrier_rate": null,
     "updated_at": "2026-10-20T15:32:41.981193+00:00",
     "lane": "COLUMBUS GA-VAN WERT OH"
+  },
+  {
+    "pro": "51118",
+    "status": "OPEN",
+    "pu_date": "2026-10-29",
+    "pu_city": "KENTWOOD",
+    "pu_state": "MI",
+    "pu_hours": "0800-1500",
+    "del_date": "2026-10-30",
+    "del_city": "OAKLAND",
+    "del_state": "TN",
+    "del_hours": "1100",
+    "equipment": "Van",
+    "weight_lbs": 35000,
+    "carrier_rate": null,
+    "updated_at": "2026-10-23T18:58:21.392631+00:00",
+    "lane": "KENTWOOD MI-OAKLAND TN"
   },
   {
     "pro": "51086",
