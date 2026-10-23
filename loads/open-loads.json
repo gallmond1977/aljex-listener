@@ -210,7 +210,7 @@
     "equipment": "Flatbed",
     "weight_lbs": 44000,
     "carrier_rate": 900,
-    "updated_at": "2026-10-23T12:41:41.840738+00:00",
+    "updated_at": "2026-10-23T12:49:00.971700+00:00",
     "lane": "WADESBORO NC-ATLANTA GA"
   },
   {
@@ -319,23 +319,6 @@
     "lane": "OPELIKA AL-NORCROSS GA"
   },
   {
-    "pro": "51029",
-    "status": "OPEN",
-    "pu_date": "2026-10-24",
-    "pu_city": "HOUSTON",
-    "pu_state": "TX",
-    "pu_hours": "0700",
-    "del_date": "2026-10-26",
-    "del_city": "SANFORD",
-    "del_state": "FL",
-    "del_hours": "0900",
-    "equipment": "26' Straight Box Truck",
-    "weight_lbs": 7000,
-    "carrier_rate": 1800,
-    "updated_at": "2026-10-23T12:40:11.581543+00:00",
-    "lane": "HOUSTON TX-SANFORD FL"
-  },
-  {
     "pro": "51030",
     "status": "OPEN",
     "pu_date": "2026-10-24",
@@ -383,7 +366,7 @@
     "equipment": "Van",
     "weight_lbs": 40949,
     "carrier_rate": 1850,
-    "updated_at": "2026-10-20T14:23:18.695867+00:00",
+    "updated_at": "2026-10-23T12:49:07.733503+00:00",
     "lane": "GARLAND TX-CALHOUN GA"
   },
   {
@@ -1048,6 +1031,23 @@
     "carrier_rate": 900,
     "updated_at": "2026-10-22T15:48:24.448470+00:00",
     "lane": "WADESBORO NC-ATLANTA GA"
+  },
+  {
+    "pro": "51029",
+    "status": "COVERED",
+    "pu_date": "2026-10-24",
+    "pu_city": "HOUSTON",
+    "pu_state": "TX",
+    "pu_hours": "0700",
+    "del_date": "2026-10-26",
+    "del_city": "SANFORD",
+    "del_state": "FL",
+    "del_hours": "0900",
+    "equipment": "26' Straight Box Truck",
+    "weight_lbs": 7000,
+    "carrier_rate": 2000,
+    "updated_at": "2026-10-23T12:47:45.501042+00:00",
+    "lane": "HOUSTON TX-SANFORD FL"
   },
   {
     "pro": "51082",
