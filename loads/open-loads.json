@@ -185,7 +185,7 @@
     "pu_date": "2026-10-23",
     "pu_city": "ABERDEEN",
     "pu_state": "MD",
-    "pu_hours": "ETA",
+    "pu_hours": "1000-1400",
     "del_date": "2026-10-26",
     "del_city": "CHARLOTTE",
     "del_state": "NC",
@@ -193,7 +193,7 @@
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 10673,
     "carrier_rate": 1000,
-    "updated_at": "2026-10-23T13:32:55.002705+00:00",
+    "updated_at": "2026-10-23T13:54:29.562303+00:00",
     "lane": "ABERDEEN MD-CHARLOTTE NC"
   },
   {
@@ -864,7 +864,7 @@
   },
   {
     "pro": "51079",
-    "status": "COVERED",
+    "status": "DISPATCHED",
     "pu_date": "2026-10-23",
     "pu_city": "WADESBORO",
     "pu_state": "NC",
@@ -876,7 +876,7 @@
     "equipment": "Van",
     "weight_lbs": 44000,
     "carrier_rate": 900,
-    "updated_at": "2026-10-23T12:56:29.689163+00:00",
+    "updated_at": "2026-10-23T13:55:12.110134+00:00",
     "lane": "WADESBORO NC-ATLANTA GA"
   },
   {
