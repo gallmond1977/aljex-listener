@@ -677,23 +677,6 @@
     "lane": "HOUSTON TX-SANFORD FL"
   },
   {
-    "pro": "50944",
-    "status": "RELEASED",
-    "pu_date": "2026-10-16",
-    "pu_city": "ATLANTA",
-    "pu_state": "GA",
-    "pu_hours": "0700",
-    "del_date": "2026-10-16",
-    "del_city": "DECATUR",
-    "del_state": "GA",
-    "del_hours": "1000",
-    "equipment": "Reefer",
-    "weight_lbs": 21264,
-    "carrier_rate": 450,
-    "updated_at": "2026-10-16T16:31:54.852729+00:00",
-    "lane": "ATLANTA GA-DECATUR GA"
-  },
-  {
     "pro": "50945",
     "status": "RELEASED",
     "pu_date": "2026-10-16",
