@@ -231,6 +231,23 @@
     "lane": "HOUSTON TX-HANOVER TOWNSHIP PA"
   },
   {
+    "pro": "51113",
+    "status": "OPEN",
+    "pu_date": "2026-10-23",
+    "pu_city": "COLUMBUS",
+    "pu_state": "GA",
+    "pu_hours": "0800-1500",
+    "del_date": "2026-10-26",
+    "del_city": "CLIFTON",
+    "del_state": "NJ",
+    "del_hours": "0700-1500",
+    "equipment": "Van",
+    "weight_lbs": 38016,
+    "carrier_rate": 2700,
+    "updated_at": "2026-10-23T15:09:00.862274+00:00",
+    "lane": "COLUMBUS GA-CLIFTON NJ"
+  },
+  {
     "pro": "8890459",
     "status": "OPEN",
     "spot": true,
@@ -400,7 +417,7 @@
     "equipment": "Van",
     "weight_lbs": 9600,
     "carrier_rate": 900,
-    "updated_at": "2026-10-23T15:03:03.479247+00:00",
+    "updated_at": "2026-10-23T15:05:46.301523+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
