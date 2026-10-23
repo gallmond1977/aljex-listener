@@ -198,23 +198,6 @@
     "lane": "DAYTON TN-FLETCHER NC"
   },
   {
-    "pro": "51111",
-    "status": "OPEN",
-    "pu_date": "2026-10-23",
-    "pu_city": "OAKLAND",
-    "pu_state": "TN",
-    "pu_hours": "0800-1500",
-    "del_date": "2026-10-26",
-    "del_city": "SALISBURY",
-    "del_state": "NC",
-    "del_hours": "0600-1100",
-    "equipment": "Van Hazmat",
-    "weight_lbs": 44900,
-    "carrier_rate": 2800,
-    "updated_at": "2026-10-23T15:01:26.959970+00:00",
-    "lane": "OAKLAND TN-SALISBURY NC"
-  },
-  {
     "pro": "8890459",
     "status": "OPEN",
     "spot": true,
@@ -397,11 +380,11 @@
     "del_date": "2026-10-27",
     "del_city": "NEW BOSTON",
     "del_state": "NH",
-    "del_hours": "0700-1630",
+    "del_hours": "0700-1700",
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 7000,
     "carrier_rate": 2100,
-    "updated_at": "2026-10-23T16:22:09.441520+00:00",
+    "updated_at": "2026-10-23T16:30:00.862823+00:00",
     "lane": "ROANOKE AL-NEW BOSTON NH"
   },
   {
@@ -845,40 +828,6 @@
     "carrier_rate": 900,
     "updated_at": "2026-10-21T16:37:01.287130+00:00",
     "lane": "WADESBORO NC-ATLANTA GA"
-  },
-  {
-    "pro": "51026",
-    "status": "RELEASED",
-    "pu_date": "2026-10-20",
-    "pu_city": "OAKLAND",
-    "pu_state": "TN",
-    "pu_hours": "0800-1500",
-    "del_date": "2026-10-21",
-    "del_city": "SALISBURY",
-    "del_state": "NC",
-    "del_hours": "0600-1100",
-    "equipment": "Van Hazmat",
-    "weight_lbs": 44900,
-    "carrier_rate": 3000,
-    "updated_at": "2026-10-21T16:23:44.659885+00:00",
-    "lane": "OAKLAND TN-SALISBURY NC"
-  },
-  {
-    "pro": "51036",
-    "status": "RELEASED",
-    "pu_date": "2026-10-20",
-    "pu_city": "OAKLAND",
-    "pu_state": "TN",
-    "pu_hours": "0800-1500",
-    "del_date": "2026-10-21",
-    "del_city": "SALISBURY",
-    "del_state": "NC",
-    "del_hours": "0600-1100",
-    "equipment": "Van Hazmat",
-    "weight_lbs": 44900,
-    "carrier_rate": 3000,
-    "updated_at": "2026-10-22T15:03:05.684158+00:00",
-    "lane": "OAKLAND TN-SALISBURY NC"
   },
   {
     "pro": "50998",
