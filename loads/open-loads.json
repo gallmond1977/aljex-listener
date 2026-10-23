@@ -435,7 +435,7 @@
     "equipment": "Van",
     "weight_lbs": 11500,
     "carrier_rate": null,
-    "updated_at": "2026-10-20T15:32:41.981193+00:00",
+    "updated_at": "2026-10-23T19:44:42.986505+00:00",
     "lane": "COLUMBUS GA-VAN WERT OH"
   },
   {
@@ -1013,7 +1013,7 @@
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 7000,
     "carrier_rate": 2000,
-    "updated_at": "2026-10-23T12:47:45.501042+00:00",
+    "updated_at": "2026-10-23T19:43:32.605467+00:00",
     "lane": "HOUSTON TX-SANFORD FL"
   },
   {
@@ -1030,7 +1030,7 @@
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 7000,
     "carrier_rate": 2000,
-    "updated_at": "2026-10-23T13:55:15.205200+00:00",
+    "updated_at": "2026-10-23T19:44:57.074661+00:00",
     "lane": "HOUSTON TX-SANFORD FL"
   },
   {
