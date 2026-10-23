@@ -228,7 +228,7 @@
     "equipment": "Van",
     "weight_lbs": 33000,
     "carrier_rate": 4800,
-    "updated_at": "2026-10-23T15:34:51.384789+00:00",
+    "updated_at": "2026-10-23T15:39:15.004452+00:00",
     "lane": "HOUSTON TX-HANOVER TOWNSHIP PA"
   },
   {
@@ -416,9 +416,9 @@
     "del_state": "FL",
     "del_hours": "0600",
     "equipment": "26' Straight Box Truck",
-    "weight_lbs": 7000,
+    "weight_lbs": 4000,
     "carrier_rate": null,
-    "updated_at": "2026-10-23T15:34:00.369698+00:00",
+    "updated_at": "2026-10-23T15:40:22.125726+00:00",
     "lane": "UNION CITY GA-PINECREST FL"
   },
   {
