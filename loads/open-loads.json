@@ -643,23 +643,6 @@
     "lane": "WADESBORO NC-ATLANTA GA"
   },
   {
-    "pro": "50981",
-    "status": "RELEASED",
-    "pu_date": "2026-10-15",
-    "pu_city": "WINCHESTER",
-    "pu_state": "KY",
-    "pu_hours": "0800-1200",
-    "del_date": "2026-10-15",
-    "del_city": "JOLIET",
-    "del_state": "IL",
-    "del_hours": "2200",
-    "equipment": "Van",
-    "weight_lbs": 14580,
-    "carrier_rate": 1000,
-    "updated_at": "2026-10-16T17:10:04.125772+00:00",
-    "lane": "WINCHESTER KY-JOLIET IL"
-  },
-  {
     "pro": "50936",
     "status": "RELEASED",
     "pu_date": "2026-10-16",
