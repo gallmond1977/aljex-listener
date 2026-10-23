@@ -813,7 +813,7 @@
   },
   {
     "pro": "51078",
-    "status": "LOADED",
+    "status": "CONSIGNEE",
     "pu_date": "2026-10-22",
     "pu_city": "WADESBORO",
     "pu_state": "NC",
@@ -825,7 +825,7 @@
     "equipment": "Van",
     "weight_lbs": 44000,
     "carrier_rate": 900,
-    "updated_at": "2026-10-23T13:19:09.854333+00:00",
+    "updated_at": "2026-10-23T14:40:31.293978+00:00",
     "lane": "WADESBORO NC-ATLANTA GA"
   },
   {
