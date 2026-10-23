@@ -193,7 +193,7 @@
     "equipment": "Van",
     "weight_lbs": 44000,
     "carrier_rate": 900,
-    "updated_at": "2026-10-23T12:32:22.429133+00:00",
+    "updated_at": "2026-10-23T12:40:05.891436+00:00",
     "lane": "WADESBORO NC-ATLANTA GA"
   },
   {
@@ -210,7 +210,7 @@
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 10673,
     "carrier_rate": 1000,
-    "updated_at": "2026-10-22T19:04:29.712568+00:00",
+    "updated_at": "2026-10-23T12:38:10.492649+00:00",
     "lane": "ABERDEEN MD-CHARLOTTE NC"
   },
   {
@@ -315,7 +315,7 @@
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 7000,
     "carrier_rate": 1800,
-    "updated_at": "2026-10-23T12:17:27.026801+00:00",
+    "updated_at": "2026-10-23T12:40:11.581543+00:00",
     "lane": "HOUSTON TX-SANFORD FL"
   },
   {
