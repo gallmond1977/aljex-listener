@@ -265,6 +265,23 @@
     "lane": "BUENA VISTA GA-INDIAN TRAIL NC"
   },
   {
+    "pro": "51107",
+    "status": "OPEN",
+    "pu_date": "2026-10-23",
+    "pu_city": "APOPKA",
+    "pu_state": "FL",
+    "pu_hours": "0800-1500",
+    "del_date": "2026-10-26",
+    "del_city": "CLANTON",
+    "del_state": "AL",
+    "del_hours": "0700",
+    "equipment": "26' Straight Box Truck",
+    "weight_lbs": 2762,
+    "carrier_rate": 400,
+    "updated_at": "2026-10-23T13:18:16.018831+00:00",
+    "lane": "APOPKA FL-CLANTON AL"
+  },
+  {
     "pro": "8890459",
     "status": "OPEN",
     "spot": true,
@@ -978,7 +995,7 @@
     "equipment": "Van",
     "weight_lbs": 44000,
     "carrier_rate": 900,
-    "updated_at": "2026-10-22T20:35:06.436976+00:00",
+    "updated_at": "2026-10-23T13:19:09.854333+00:00",
     "lane": "WADESBORO NC-ATLANTA GA"
   },
   {
