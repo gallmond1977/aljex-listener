@@ -353,23 +353,6 @@
     "lane": "HOUSTON TX-SANFORD FL"
   },
   {
-    "pro": "50914",
-    "status": "OPEN",
-    "pu_date": "2026-10-26",
-    "pu_city": "ALPHARETTA",
-    "pu_state": "GA",
-    "pu_hours": "0900-1600",
-    "del_date": "2026-10-28",
-    "del_city": "AMARILLO",
-    "del_state": "TX",
-    "del_hours": "0800-1400",
-    "equipment": "Flatbed w/ Tarps",
-    "weight_lbs": 42000,
-    "carrier_rate": 4800,
-    "updated_at": "2026-10-16T13:46:20.122454+00:00",
-    "lane": "ALPHARETTA GA-AMARILLO TX"
-  },
-  {
     "pro": "51058",
     "status": "OPEN",
     "pu_date": "2026-10-26",
@@ -693,23 +676,6 @@
     "lane": "LA PORTE TX-PIEDMONT SC"
   },
   {
-    "pro": "50941",
-    "status": "RELEASED",
-    "pu_date": "2026-10-13",
-    "pu_city": "ALPHARETTA",
-    "pu_state": "GA",
-    "pu_hours": "0900-1700",
-    "del_date": "2026-10-16",
-    "del_city": "AMARILLO",
-    "del_state": "TX",
-    "del_hours": "0800-1400",
-    "equipment": "Flatbed w/ Tarps",
-    "weight_lbs": 42000,
-    "carrier_rate": 5800,
-    "updated_at": "2026-10-20T11:58:33.599793+00:00",
-    "lane": "ALPHARETTA GA-AMARILLO TX"
-  },
-  {
     "pro": "50929",
     "status": "RELEASED",
     "pu_date": "2026-10-15",
@@ -725,23 +691,6 @@
     "carrier_rate": 900,
     "updated_at": "2026-10-20T15:54:31.381343+00:00",
     "lane": "WADESBORO NC-ATLANTA GA"
-  },
-  {
-    "pro": "50970",
-    "status": "RELEASED",
-    "pu_date": "2026-10-15",
-    "pu_city": "ALPHARETTA",
-    "pu_state": "GA",
-    "pu_hours": "0900-1700",
-    "del_date": "2026-10-19",
-    "del_city": "AMARILLO",
-    "del_state": "TX",
-    "del_hours": "0800-1400",
-    "equipment": "Conestoga",
-    "weight_lbs": 42000,
-    "carrier_rate": 5000,
-    "updated_at": "2026-10-19T16:05:23.787413+00:00",
-    "lane": "ALPHARETTA GA-AMARILLO TX"
   },
   {
     "pro": "50936",
@@ -880,23 +829,6 @@
     "lane": "WADESBORO NC-ATLANTA GA"
   },
   {
-    "pro": "51012",
-    "status": "DELIVERED",
-    "pu_date": "2026-10-19",
-    "pu_city": "ALPHARETTA",
-    "pu_state": "GA",
-    "pu_hours": "0900-1700",
-    "del_date": "2026-10-21",
-    "del_city": "AMARILLO",
-    "del_state": "TX",
-    "del_hours": "0800-1400",
-    "equipment": "Flatbed w/ Tarps",
-    "weight_lbs": 42000,
-    "carrier_rate": 5000,
-    "updated_at": "2026-10-21T14:43:55.903248+00:00",
-    "lane": "ALPHARETTA GA-AMARILLO TX"
-  },
-  {
     "pro": "50997",
     "status": "RELEASED",
     "pu_date": "2026-10-20",
@@ -946,23 +878,6 @@
     "carrier_rate": 900,
     "updated_at": "2026-10-22T19:05:31.205343+00:00",
     "lane": "WADESBORO NC-ATLANTA GA"
-  },
-  {
-    "pro": "51056",
-    "status": "CONSIGNEE",
-    "pu_date": "2026-10-21",
-    "pu_city": "ALPHARETTA",
-    "pu_state": "GA",
-    "pu_hours": "0900-1700",
-    "del_date": "2026-10-23",
-    "del_city": "AMARILLO",
-    "del_state": "TX",
-    "del_hours": "0800-1400",
-    "equipment": "Flatbed w/ Tarps",
-    "weight_lbs": 42000,
-    "carrier_rate": 5500,
-    "updated_at": "2026-10-23T13:14:46.493755+00:00",
-    "lane": "ALPHARETTA GA-AMARILLO TX"
   },
   {
     "pro": "51032",
