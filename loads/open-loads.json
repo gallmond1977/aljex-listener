@@ -248,23 +248,6 @@
     "lane": "DAYTON TN-FLETCHER NC"
   },
   {
-    "pro": "51102",
-    "status": "OPEN",
-    "pu_date": "2026-10-23",
-    "pu_city": "BUENA VISTA",
-    "pu_state": "GA",
-    "pu_hours": "1200-1400",
-    "del_date": "2026-10-26",
-    "del_city": "INDIAN TRAIL",
-    "del_state": "NC",
-    "del_hours": "0700-1500",
-    "equipment": "Van",
-    "weight_lbs": 43500,
-    "carrier_rate": 1200,
-    "updated_at": "2026-10-23T12:50:53.795099+00:00",
-    "lane": "BUENA VISTA GA-INDIAN TRAIL NC"
-  },
-  {
     "pro": "51107",
     "status": "OPEN",
     "pu_date": "2026-10-23",
@@ -277,8 +260,8 @@
     "del_hours": "0700",
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 2762,
-    "carrier_rate": 400,
-    "updated_at": "2026-10-23T13:21:29.869330+00:00",
+    "carrier_rate": 500,
+    "updated_at": "2026-10-23T13:39:56.757829+00:00",
     "lane": "APOPKA FL-CLANTON AL"
   },
   {
@@ -334,23 +317,6 @@
     "carrier_rate": 800,
     "updated_at": "2026-10-22T18:46:06.801839+00:00",
     "lane": "OPELIKA AL-NORCROSS GA"
-  },
-  {
-    "pro": "51030",
-    "status": "OPEN",
-    "pu_date": "2026-10-24",
-    "pu_city": "HOUSTON",
-    "pu_state": "TX",
-    "pu_hours": "0900",
-    "del_date": "2026-10-26",
-    "del_city": "SANFORD",
-    "del_state": "FL",
-    "del_hours": "1100",
-    "equipment": "26' Straight Box Truck",
-    "weight_lbs": 7000,
-    "carrier_rate": 2000,
-    "updated_at": "2026-10-23T13:32:30.714572+00:00",
-    "lane": "HOUSTON TX-SANFORD FL"
   },
   {
     "pro": "51058",
@@ -962,6 +928,23 @@
     "weight_lbs": 7000,
     "carrier_rate": 2000,
     "updated_at": "2026-10-23T12:47:45.501042+00:00",
+    "lane": "HOUSTON TX-SANFORD FL"
+  },
+  {
+    "pro": "51030",
+    "status": "COVERED",
+    "pu_date": "2026-10-24",
+    "pu_city": "HOUSTON",
+    "pu_state": "TX",
+    "pu_hours": "0900",
+    "del_date": "2026-10-26",
+    "del_city": "SANFORD",
+    "del_state": "FL",
+    "del_hours": "1100",
+    "equipment": "26' Straight Box Truck",
+    "weight_lbs": 7000,
+    "carrier_rate": 2000,
+    "updated_at": "2026-10-23T13:37:38.325305+00:00",
     "lane": "HOUSTON TX-SANFORD FL"
   },
   {
