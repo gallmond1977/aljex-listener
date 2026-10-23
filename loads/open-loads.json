@@ -214,6 +214,23 @@
     "lane": "APOPKA FL-CLANTON AL"
   },
   {
+    "pro": "51108",
+    "status": "OPEN",
+    "pu_date": "2026-10-23",
+    "pu_city": "HOLLY SPRINGS",
+    "pu_state": "NC",
+    "pu_hours": "1030-1630",
+    "del_date": "2026-10-23",
+    "del_city": "CLEMSON",
+    "del_state": "SC",
+    "del_hours": "0800-1700",
+    "equipment": "Sprinter Van",
+    "weight_lbs": 250,
+    "carrier_rate": 600,
+    "updated_at": "2026-10-23T14:20:01.942158+00:00",
+    "lane": "HOLLY SPRINGS NC-CLEMSON SC"
+  },
+  {
     "pro": "8890459",
     "status": "OPEN",
     "spot": true,
