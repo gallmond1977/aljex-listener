@@ -90,24 +90,6 @@
     "lane": "PORT ANGELES WA-FULLERTON CA"
   },
   {
-    "pro": "8890446",
-    "status": "OPEN",
-    "spot": true,
-    "pu_date": "2026-10-21",
-    "pu_city": "GAINESVILLE",
-    "pu_state": "GA",
-    "pu_hours": "",
-    "del_date": "2026-10-22",
-    "del_city": "SPRINGDALE",
-    "del_state": "AR",
-    "del_hours": "",
-    "equipment": "Van Hazmat",
-    "weight_lbs": 41500,
-    "carrier_rate": 2000,
-    "updated_at": "2026-10-21T13:15:56.184740+00:00",
-    "lane": "GAINESVILLE GA-SPRINGDALE AR"
-  },
-  {
     "pro": "8890448",
     "status": "OPEN",
     "spot": true,
