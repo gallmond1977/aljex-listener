@@ -227,7 +227,7 @@
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 10673,
     "carrier_rate": 1000,
-    "updated_at": "2026-10-23T12:40:24.287203+00:00",
+    "updated_at": "2026-10-23T13:32:55.002705+00:00",
     "lane": "ABERDEEN MD-CHARLOTTE NC"
   },
   {
@@ -348,8 +348,8 @@
     "del_hours": "1100",
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 7000,
-    "carrier_rate": 1800,
-    "updated_at": "2026-10-23T12:17:35.034821+00:00",
+    "carrier_rate": 2000,
+    "updated_at": "2026-10-23T13:32:30.714572+00:00",
     "lane": "HOUSTON TX-SANFORD FL"
   },
   {
