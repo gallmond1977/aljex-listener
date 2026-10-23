@@ -401,7 +401,7 @@
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 4000,
     "carrier_rate": 1300,
-    "updated_at": "2026-10-23T15:57:12.978888+00:00",
+    "updated_at": "2026-10-23T16:02:03.746401+00:00",
     "lane": "UNION CITY GA-PINECREST FL"
   },
   {
@@ -950,7 +950,7 @@
   },
   {
     "pro": "51078",
-    "status": "CONSIGNEE",
+    "status": "DELIVERED",
     "pu_date": "2026-10-22",
     "pu_city": "WADESBORO",
     "pu_state": "NC",
@@ -962,7 +962,7 @@
     "equipment": "Van",
     "weight_lbs": 44000,
     "carrier_rate": 900,
-    "updated_at": "2026-10-23T14:40:31.293978+00:00",
+    "updated_at": "2026-10-23T16:00:47.436806+00:00",
     "lane": "WADESBORO NC-ATLANTA GA"
   },
   {
