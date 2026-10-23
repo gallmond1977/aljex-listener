@@ -371,23 +371,6 @@
     "lane": "UNION CITY GA-PINECREST FL"
   },
   {
-    "pro": "51115",
-    "status": "OPEN",
-    "pu_date": "2026-10-26",
-    "pu_city": "ROANOKE",
-    "pu_state": "AL",
-    "pu_hours": "0800-1430",
-    "del_date": "2026-10-27",
-    "del_city": "NEW BOSTON",
-    "del_state": "NH",
-    "del_hours": "0700-1700",
-    "equipment": "26' Straight Box Truck",
-    "weight_lbs": 7000,
-    "carrier_rate": 2100,
-    "updated_at": "2026-10-23T17:04:52.784312+00:00",
-    "lane": "ROANOKE AL-NEW BOSTON NH"
-  },
-  {
     "pro": "51081",
     "status": "OPEN",
     "pu_date": "2026-10-27",
