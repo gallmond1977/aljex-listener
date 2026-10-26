@@ -55,7 +55,7 @@
     "status": "OPEN",
     "spot": true,
     "pu_date": "2026-10-26",
-    "pu_city": "SMYRNA",
+    "pu_city": "MC MINNVILLE",
     "pu_state": "TN",
     "pu_hours": "",
     "del_date": "2026-10-27",
@@ -65,8 +65,8 @@
     "equipment": "Flatbed",
     "weight_lbs": 45000,
     "carrier_rate": 3900,
-    "updated_at": "2026-10-26T16:18:15.231181+00:00",
-    "lane": "SMYRNA TN-OMAHA NE"
+    "updated_at": "2026-10-26T16:20:57.054096+00:00",
+    "lane": "MC MINNVILLE TN-OMAHA NE"
   },
   {
     "pro": "51037",
@@ -167,7 +167,7 @@
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 300,
     "carrier_rate": null,
-    "updated_at": "2026-10-26T16:19:15.816709+00:00",
+    "updated_at": "2026-10-26T16:25:10.751501+00:00",
     "lane": "WINCHESTER KY-ROGERS AR"
   },
   {
