@@ -146,11 +146,11 @@
     "del_date": "2026-10-28",
     "del_city": "UXBRIDGE",
     "del_state": "MA",
-    "del_hours": "",
+    "del_hours": "REQ",
     "equipment": "Van",
     "weight_lbs": 5200,
     "carrier_rate": null,
-    "updated_at": "2026-10-26T19:40:12.639206+00:00",
+    "updated_at": "2026-10-26T19:43:52.841403+00:00",
     "lane": "WINCHESTER KY-UXBRIDGE MA"
   },
   {
@@ -609,7 +609,7 @@
     "equipment": "Flatbed w/ Tarps",
     "weight_lbs": 42650,
     "carrier_rate": 5000,
-    "updated_at": "2026-10-26T18:45:53.431232+00:00",
+    "updated_at": "2026-10-26T19:40:22.517299+00:00",
     "lane": "ALPHARETTA GA-AMARILLO TX"
   },
   {
