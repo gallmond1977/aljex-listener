@@ -546,7 +546,7 @@
   },
   {
     "pro": "51123",
-    "status": "PICKUP",
+    "status": "LOADED",
     "pu_date": "2026-10-26",
     "pu_city": "OAKLAND",
     "pu_state": "TN",
@@ -558,7 +558,7 @@
     "equipment": "Van Hazmat",
     "weight_lbs": 44900,
     "carrier_rate": 1900,
-    "updated_at": "2026-10-26T16:14:30.577204+00:00",
+    "updated_at": "2026-10-26T18:41:28.384277+00:00",
     "lane": "OAKLAND TN-MONTICELLO IL"
   },
   {
