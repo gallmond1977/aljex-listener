@@ -715,7 +715,7 @@
   },
   {
     "pro": "51028",
-    "status": "LOADED",
+    "status": "CONSIGNEE",
     "pu_date": "2026-10-23",
     "pu_city": "HOUSTON",
     "pu_state": "TX",
@@ -727,7 +727,7 @@
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 7000,
     "carrier_rate": 2000,
-    "updated_at": "2026-10-26T12:00:26.496730+00:00",
+    "updated_at": "2026-10-26T12:16:31.995831+00:00",
     "lane": "HOUSTON TX-SANFORD FL"
   },
   {
