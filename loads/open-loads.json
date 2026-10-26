@@ -68,23 +68,6 @@
     "lane": "BELCAMP MD-WILLIAMSBURG VA"
   },
   {
-    "pro": "51124",
-    "status": "OPEN",
-    "pu_date": "2026-10-27",
-    "pu_city": "ROANOKE",
-    "pu_state": "AL",
-    "pu_hours": "0800-1530",
-    "del_date": "2026-10-28",
-    "del_city": "CYPRESS",
-    "del_state": "TX",
-    "del_hours": "0800-1530",
-    "equipment": "Flatbed",
-    "weight_lbs": 23800,
-    "carrier_rate": 3000,
-    "updated_at": "2026-10-26T20:44:48.070147+00:00",
-    "lane": "ROANOKE AL-CYPRESS TX"
-  },
-  {
     "pro": "51129",
     "status": "OPEN",
     "pu_date": "2026-10-27",
