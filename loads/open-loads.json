@@ -61,11 +61,11 @@
     "del_date": "2026-10-28",
     "del_city": "COLUMBUS",
     "del_state": "GA",
-    "del_hours": "NEEDS APP",
+    "del_hours": "0800-1400",
     "equipment": "Van",
     "weight_lbs": 43000,
-    "carrier_rate": 1800,
-    "updated_at": "2026-10-26T19:10:04.348665+00:00",
+    "carrier_rate": 1900,
+    "updated_at": "2026-10-26T19:19:48.520322+00:00",
     "lane": "GRAND PRAIRIE TX-COLUMBUS GA"
   },
   {
@@ -356,6 +356,23 @@
     "carrier_rate": 1100,
     "updated_at": "2026-10-20T12:56:28.415329+00:00",
     "lane": "WOODRUFF SC-RICHMOND KY"
+  },
+  {
+    "pro": "51135",
+    "status": "OPEN",
+    "pu_date": "2026-11-06",
+    "pu_city": "MOUNT STERLING",
+    "pu_state": "KY",
+    "pu_hours": "",
+    "del_date": "2026-11-09",
+    "del_city": "MIRA LOMA",
+    "del_state": "CA",
+    "del_hours": "",
+    "equipment": "Van",
+    "weight_lbs": 4800,
+    "carrier_rate": null,
+    "updated_at": "2026-10-26T19:17:29.201047+00:00",
+    "lane": "MOUNT STERLING KY-MIRA LOMA CA"
   },
   {
     "pro": "49855",
