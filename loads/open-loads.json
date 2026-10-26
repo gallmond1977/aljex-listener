@@ -642,7 +642,7 @@
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 7000,
     "carrier_rate": 2000,
-    "updated_at": "2026-10-26T13:26:56.602438+00:00",
+    "updated_at": "2026-10-26T14:08:31.672004+00:00",
     "lane": "HOUSTON TX-SANFORD FL"
   },
   {
@@ -715,7 +715,7 @@
   },
   {
     "pro": "51110",
-    "status": "COVERED",
+    "status": "DISPATCHED",
     "pu_date": "2026-10-26",
     "pu_city": "WINCHESTER",
     "pu_state": "KY",
@@ -727,7 +727,7 @@
     "equipment": "Van",
     "weight_lbs": 9600,
     "carrier_rate": 1200,
-    "updated_at": "2026-10-26T14:05:02.550134+00:00",
+    "updated_at": "2026-10-26T14:09:25.211504+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
