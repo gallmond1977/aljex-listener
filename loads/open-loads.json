@@ -51,23 +51,6 @@
     "lane": "LINCOLNTON NC-AUBURN AL"
   },
   {
-    "pro": "51123",
-    "status": "OPEN",
-    "pu_date": "2026-10-26",
-    "pu_city": "OAKLAND",
-    "pu_state": "TN",
-    "pu_hours": "0800-1400",
-    "del_date": "2026-10-27",
-    "del_city": "MONTICELLO",
-    "del_state": "IL",
-    "del_hours": "0800-0900",
-    "equipment": "Van Hazmat",
-    "weight_lbs": 44900,
-    "carrier_rate": 1600,
-    "updated_at": "2026-10-26T13:24:28.958187+00:00",
-    "lane": "OAKLAND TN-MONTICELLO IL"
-  },
-  {
     "pro": "51124",
     "status": "OPEN",
     "pu_date": "2026-10-26",
@@ -81,8 +64,25 @@
     "equipment": "Flatbed",
     "weight_lbs": 23800,
     "carrier_rate": 2800,
-    "updated_at": "2026-10-26T14:40:09.006480+00:00",
+    "updated_at": "2026-10-26T14:44:05.702326+00:00",
     "lane": "ROANOKE AL-CYPRESS TX"
+  },
+  {
+    "pro": "51037",
+    "status": "OPEN",
+    "pu_date": "2026-10-27",
+    "pu_city": "GARLAND",
+    "pu_state": "TX",
+    "pu_hours": "1200-1400",
+    "del_date": "2026-10-28",
+    "del_city": "CALHOUN",
+    "del_state": "GA",
+    "del_hours": "0730-1400",
+    "equipment": "Van",
+    "weight_lbs": 40949,
+    "carrier_rate": 1850,
+    "updated_at": "2026-10-26T14:44:48.155865+00:00",
+    "lane": "GARLAND TX-CALHOUN GA"
   },
   {
     "pro": "51081",
