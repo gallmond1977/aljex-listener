@@ -64,7 +64,7 @@
     "equipment": "Van",
     "weight_lbs": 38600,
     "carrier_rate": 600,
-    "updated_at": "2026-10-26T15:20:06.599466+00:00",
+    "updated_at": "2026-10-26T15:25:08.063494+00:00",
     "lane": "CALHOUN GA-TEMPLE GA"
   },
   {
@@ -146,10 +146,10 @@
     "del_city": "WILLIAMSBURG",
     "del_state": "VA",
     "del_hours": "0800-1530",
-    "equipment": "Sprinter Van",
+    "equipment": "26' Straight Box Truck",
     "weight_lbs": 1000,
-    "carrier_rate": 300,
-    "updated_at": "2026-10-26T13:33:20.780304+00:00",
+    "carrier_rate": 400,
+    "updated_at": "2026-10-26T15:24:56.916391+00:00",
     "lane": "BELCAMP MD-WILLIAMSBURG VA"
   },
   {
