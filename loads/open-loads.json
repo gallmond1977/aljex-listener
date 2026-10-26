@@ -166,7 +166,7 @@
     "equipment": "Sprinter Van",
     "weight_lbs": 1000,
     "carrier_rate": 300,
-    "updated_at": "2026-10-26T13:22:46.449967+00:00",
+    "updated_at": "2026-10-26T13:33:20.780304+00:00",
     "lane": "BELCAMP MD-WILLIAMSBURG VA"
   },
   {
@@ -829,7 +829,7 @@
     "equipment": "Van",
     "weight_lbs": 44000,
     "carrier_rate": 900,
-    "updated_at": "2026-10-26T12:52:05.276525+00:00",
+    "updated_at": "2026-10-26T13:34:49.432815+00:00",
     "lane": "WADESBORO NC-ATLANTA GA"
   },
   {
