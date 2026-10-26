@@ -47,8 +47,25 @@
     "equipment": "Flatbed",
     "weight_lbs": 23800,
     "carrier_rate": 3000,
-    "updated_at": "2026-10-26T15:09:00.901184+00:00",
+    "updated_at": "2026-10-26T15:11:13.956125+00:00",
     "lane": "ROANOKE AL-CYPRESS TX"
+  },
+  {
+    "pro": "51126",
+    "status": "OPEN",
+    "pu_date": "2026-10-26",
+    "pu_city": "CALHOUN",
+    "pu_state": "GA",
+    "pu_hours": "0730-1100",
+    "del_date": "2026-10-27",
+    "del_city": "TEMPLE",
+    "del_state": "GA",
+    "del_hours": "0700-1430",
+    "equipment": "Van",
+    "weight_lbs": 38600,
+    "carrier_rate": 700,
+    "updated_at": "2026-10-26T15:14:47.289679+00:00",
+    "lane": "CALHOUN GA-TEMPLE GA"
   },
   {
     "pro": "51037",
