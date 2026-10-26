@@ -136,6 +136,23 @@
     "lane": "WINCHESTER KY-UXBRIDGE MA"
   },
   {
+    "pro": "51138",
+    "status": "OPEN",
+    "pu_date": "2026-10-27",
+    "pu_city": "LINDENHURST",
+    "pu_state": "NY",
+    "pu_hours": "",
+    "del_date": "2026-10-29",
+    "del_city": "ROANOKE",
+    "del_state": "AL",
+    "del_hours": "0800-1430",
+    "equipment": "26' Straight Box Truck",
+    "weight_lbs": 4700,
+    "carrier_rate": 1800,
+    "updated_at": "2026-10-26T20:07:57.748419+00:00",
+    "lane": "LINDENHURST NY-ROANOKE AL"
+  },
+  {
     "pro": "8890467",
     "status": "OPEN",
     "spot": true,
@@ -609,7 +626,7 @@
     "equipment": "Flatbed w/ Tarps",
     "weight_lbs": 42650,
     "carrier_rate": 5000,
-    "updated_at": "2026-10-26T19:40:22.517299+00:00",
+    "updated_at": "2026-10-26T20:07:09.401754+00:00",
     "lane": "ALPHARETTA GA-AMARILLO TX"
   },
   {
