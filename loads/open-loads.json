@@ -148,9 +148,9 @@
     "del_state": "FL",
     "del_hours": "1400",
     "equipment": "26' Straight Box Truck",
-    "weight_lbs": 1500,
-    "carrier_rate": 1000,
-    "updated_at": "2026-10-26T18:27:13.743724+00:00",
+    "weight_lbs": 4000,
+    "carrier_rate": 1200,
+    "updated_at": "2026-10-26T18:33:21.237410+00:00",
     "lane": "UNION CITY GA-MIAMI FL"
   },
   {
@@ -210,7 +210,7 @@
     "pu_date": "2026-10-28",
     "pu_city": "STOCKERTOWN",
     "pu_state": "PA",
-    "pu_hours": "0700-1500",
+    "pu_hours": "0700-1600",
     "del_date": "2026-10-29",
     "del_city": "CALHOUN",
     "del_state": "GA",
@@ -218,7 +218,7 @@
     "equipment": "Van",
     "weight_lbs": 25500,
     "carrier_rate": 2000,
-    "updated_at": "2026-10-26T17:48:14.439201+00:00",
+    "updated_at": "2026-10-26T18:35:08.964151+00:00",
     "lane": "STOCKERTOWN PA-CALHOUN GA"
   },
   {
