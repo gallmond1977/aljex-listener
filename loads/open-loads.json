@@ -115,8 +115,8 @@
     "del_hours": "0800-1530",
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 1000,
-    "carrier_rate": 450,
-    "updated_at": "2026-10-26T17:57:26.099644+00:00",
+    "carrier_rate": 500,
+    "updated_at": "2026-10-26T18:48:28.395263+00:00",
     "lane": "BELCAMP MD-WILLIAMSBURG VA"
   },
   {
@@ -150,7 +150,7 @@
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 4000,
     "carrier_rate": 1200,
-    "updated_at": "2026-10-26T18:33:21.237410+00:00",
+    "updated_at": "2026-10-26T18:47:32.508447+00:00",
     "lane": "UNION CITY GA-MIAMI FL"
   },
   {
