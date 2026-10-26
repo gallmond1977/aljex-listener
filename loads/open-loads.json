@@ -205,6 +205,23 @@
     "lane": "OAKLAND TN-MONTICELLO IL"
   },
   {
+    "pro": "51132",
+    "status": "OPEN",
+    "pu_date": "2026-10-28",
+    "pu_city": "STOCKERTOWN",
+    "pu_state": "PA",
+    "pu_hours": "0700-1500",
+    "del_date": "",
+    "del_city": "CALHOUN",
+    "del_state": "GA",
+    "del_hours": "0730-1200",
+    "equipment": "Van",
+    "weight_lbs": 43000,
+    "carrier_rate": null,
+    "updated_at": "2026-10-26T17:12:50.552750+00:00",
+    "lane": "STOCKERTOWN PA-CALHOUN GA"
+  },
+  {
     "pro": "51051",
     "status": "OPEN",
     "pu_date": "2026-10-29",
