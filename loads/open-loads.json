@@ -80,8 +80,8 @@
     "del_hours": "0700-0800",
     "equipment": "Flatbed Hot Shot",
     "weight_lbs": 10000,
-    "carrier_rate": 750,
-    "updated_at": "2026-10-26T13:48:24.537656+00:00",
+    "carrier_rate": 800,
+    "updated_at": "2026-10-26T13:53:32.273224+00:00",
     "lane": "LINCOLNTON NC-AUBURN AL"
   },
   {
@@ -115,7 +115,7 @@
     "equipment": "Flatbed",
     "weight_lbs": 23800,
     "carrier_rate": null,
-    "updated_at": "2026-10-26T13:49:16.746474+00:00",
+    "updated_at": "2026-10-26T13:52:25.943842+00:00",
     "lane": "ROANOKE AL-CYPRESS TX"
   },
   {
