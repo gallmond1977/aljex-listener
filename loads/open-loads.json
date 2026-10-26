@@ -17,23 +17,6 @@
     "lane": "HOUSTON TX-SANFORD FL"
   },
   {
-    "pro": "51122",
-    "status": "OPEN",
-    "pu_date": "2026-10-26",
-    "pu_city": "LINCOLNTON",
-    "pu_state": "NC",
-    "pu_hours": "0700-1500",
-    "del_date": "2026-10-27",
-    "del_city": "AUBURN",
-    "del_state": "AL",
-    "del_hours": "0700-0800",
-    "equipment": "Flatbed Hot Shot",
-    "weight_lbs": 10000,
-    "carrier_rate": 900,
-    "updated_at": "2026-10-26T14:45:57.112487+00:00",
-    "lane": "LINCOLNTON NC-AUBURN AL"
-  },
-  {
     "pro": "51124",
     "status": "OPEN",
     "pu_date": "2026-10-26",
@@ -56,7 +39,7 @@
     "pu_date": "2026-10-26",
     "pu_city": "CALHOUN",
     "pu_state": "GA",
-    "pu_hours": "0730-1100",
+    "pu_hours": "0730-1545",
     "del_date": "2026-10-27",
     "del_city": "TEMPLE",
     "del_state": "GA",
@@ -64,7 +47,7 @@
     "equipment": "Van",
     "weight_lbs": 38600,
     "carrier_rate": 600,
-    "updated_at": "2026-10-26T15:25:08.063494+00:00",
+    "updated_at": "2026-10-26T15:29:12.421334+00:00",
     "lane": "CALHOUN GA-TEMPLE GA"
   },
   {
@@ -151,6 +134,23 @@
     "carrier_rate": 400,
     "updated_at": "2026-10-26T15:24:56.916391+00:00",
     "lane": "BELCAMP MD-WILLIAMSBURG VA"
+  },
+  {
+    "pro": "51127",
+    "status": "OPEN",
+    "pu_date": "2026-10-27",
+    "pu_city": "ROGERS",
+    "pu_state": "AR",
+    "pu_hours": "NEEDED",
+    "del_date": "",
+    "del_city": "WINCHESTER",
+    "del_state": "KY",
+    "del_hours": "0800-1000",
+    "equipment": "Sprinter Van",
+    "weight_lbs": 300,
+    "carrier_rate": null,
+    "updated_at": "2026-10-26T15:29:35.408653+00:00",
+    "lane": "ROGERS AR-WINCHESTER KY"
   },
   {
     "pro": "51096",
