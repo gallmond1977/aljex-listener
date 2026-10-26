@@ -17,23 +17,6 @@
     "lane": "ROANOKE AL-CYPRESS TX"
   },
   {
-    "pro": "51129",
-    "status": "OPEN",
-    "pu_date": "2026-10-26",
-    "pu_city": "LAGRANGE",
-    "pu_state": "GA",
-    "pu_hours": "1200-1600",
-    "del_date": "2026-10-27",
-    "del_city": "RICHMOND",
-    "del_state": "VA",
-    "del_hours": "0800-1530",
-    "equipment": "26' Straight Box Truck",
-    "weight_lbs": 7000,
-    "carrier_rate": 900,
-    "updated_at": "2026-10-26T15:42:29.072473+00:00",
-    "lane": "LAGRANGE GA-RICHMOND VA"
-  },
-  {
     "pro": "8890467",
     "status": "OPEN",
     "spot": true,
@@ -120,6 +103,23 @@
     "lane": "BELCAMP MD-WILLIAMSBURG VA"
   },
   {
+    "pro": "51129",
+    "status": "OPEN",
+    "pu_date": "2026-10-27",
+    "pu_city": "LAGRANGE",
+    "pu_state": "GA",
+    "pu_hours": "1200-1600",
+    "del_date": "2026-10-28",
+    "del_city": "RICHMOND",
+    "del_state": "VA",
+    "del_hours": "0800-1530",
+    "equipment": "26' Straight Box Truck",
+    "weight_lbs": 7000,
+    "carrier_rate": 900,
+    "updated_at": "2026-10-26T19:52:41.424406+00:00",
+    "lane": "LAGRANGE GA-RICHMOND VA"
+  },
+  {
     "pro": "51133",
     "status": "OPEN",
     "pu_date": "2026-10-27",
@@ -150,7 +150,7 @@
     "equipment": "Van",
     "weight_lbs": 5200,
     "carrier_rate": null,
-    "updated_at": "2026-10-26T19:43:52.841403+00:00",
+    "updated_at": "2026-10-26T19:54:51.096694+00:00",
     "lane": "WINCHESTER KY-UXBRIDGE MA"
   },
   {
