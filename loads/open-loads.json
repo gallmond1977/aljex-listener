@@ -211,14 +211,14 @@
     "pu_city": "STOCKERTOWN",
     "pu_state": "PA",
     "pu_hours": "0700-1500",
-    "del_date": "",
+    "del_date": "2026-10-29",
     "del_city": "CALHOUN",
     "del_state": "GA",
     "del_hours": "0730-1200",
     "equipment": "Van",
-    "weight_lbs": 43000,
-    "carrier_rate": null,
-    "updated_at": "2026-10-26T17:12:50.552750+00:00",
+    "weight_lbs": 25500,
+    "carrier_rate": 2000,
+    "updated_at": "2026-10-26T17:30:26.253202+00:00",
     "lane": "STOCKERTOWN PA-CALHOUN GA"
   },
   {
