@@ -17,23 +17,6 @@
     "lane": "HOUSTON TX-SANFORD FL"
   },
   {
-    "pro": "51073",
-    "status": "OPEN",
-    "pu_date": "2026-10-26",
-    "pu_city": "PHENIX CITY",
-    "pu_state": "AL",
-    "pu_hours": "0800-1200",
-    "del_date": "2026-10-28",
-    "del_city": "ROCKLAND",
-    "del_state": "ME",
-    "del_hours": "1200-1400",
-    "equipment": "Van",
-    "weight_lbs": 35000,
-    "carrier_rate": 4200,
-    "updated_at": "2026-10-22T13:43:08.880838+00:00",
-    "lane": "PHENIX CITY AL-ROCKLAND ME"
-  },
-  {
     "pro": "51100",
     "status": "OPEN",
     "pu_date": "2026-10-26",
@@ -47,7 +30,7 @@
     "equipment": "Van",
     "weight_lbs": 24000,
     "carrier_rate": 2600,
-    "updated_at": "2026-10-22T18:20:19.573849+00:00",
+    "updated_at": "2026-10-26T12:26:34.283753+00:00",
     "lane": "JACKSONVILLE TX-PUEBLO CO"
   },
   {
