@@ -52,6 +52,23 @@
     "lane": "MC MINNVILLE TN-OMAHA NE"
   },
   {
+    "pro": "50900",
+    "status": "OPEN",
+    "pu_date": "2026-10-27",
+    "pu_city": "GRAND PRAIRIE",
+    "pu_state": "TX",
+    "pu_hours": "0800-1300",
+    "del_date": "2026-10-28",
+    "del_city": "COLUMBUS",
+    "del_state": "GA",
+    "del_hours": "NEEDS APP",
+    "equipment": "Van",
+    "weight_lbs": 43000,
+    "carrier_rate": 1800,
+    "updated_at": "2026-10-26T19:10:04.348665+00:00",
+    "lane": "GRAND PRAIRIE TX-COLUMBUS GA"
+  },
+  {
     "pro": "51037",
     "status": "OPEN",
     "pu_date": "2026-10-27",
@@ -152,23 +169,6 @@
     "carrier_rate": 1200,
     "updated_at": "2026-10-26T18:47:32.508447+00:00",
     "lane": "UNION CITY GA-MIAMI FL"
-  },
-  {
-    "pro": "51134",
-    "status": "OPEN",
-    "pu_date": "2026-10-27",
-    "pu_city": "EL DORADO",
-    "pu_state": "AR",
-    "pu_hours": "0700-1500",
-    "del_date": "2026-10-28",
-    "del_city": "CALHOUN",
-    "del_state": "GA",
-    "del_hours": "0730-1400",
-    "equipment": "Van",
-    "weight_lbs": 43006,
-    "carrier_rate": 1800,
-    "updated_at": "2026-10-26T18:29:25.785860+00:00",
-    "lane": "EL DORADO AR-CALHOUN GA"
   },
   {
     "pro": "51096",
@@ -356,23 +356,6 @@
     "carrier_rate": 1100,
     "updated_at": "2026-10-20T12:56:28.415329+00:00",
     "lane": "WOODRUFF SC-RICHMOND KY"
-  },
-  {
-    "pro": "50900",
-    "status": "OPEN",
-    "pu_date": "2026-11-09",
-    "pu_city": "GRAND PRAIRIE",
-    "pu_state": "TX",
-    "pu_hours": "0800-1300",
-    "del_date": "",
-    "del_city": "COLUMBUS",
-    "del_state": "GA",
-    "del_hours": "NEEDS APP",
-    "equipment": "Van",
-    "weight_lbs": 43000,
-    "carrier_rate": 1800,
-    "updated_at": "2026-10-09T16:12:45.421619+00:00",
-    "lane": "GRAND PRAIRIE TX-COLUMBUS GA"
   },
   {
     "pro": "49855",
