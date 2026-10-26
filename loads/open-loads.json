@@ -51,6 +51,24 @@
     "lane": "LAGRANGE GA-RICHMOND VA"
   },
   {
+    "pro": "8890467",
+    "status": "OPEN",
+    "spot": true,
+    "pu_date": "2026-10-26",
+    "pu_city": "SMYRNA",
+    "pu_state": "TN",
+    "pu_hours": "",
+    "del_date": "2026-10-27",
+    "del_city": "OMAHA",
+    "del_state": "NE",
+    "del_hours": "",
+    "equipment": "Flatbed",
+    "weight_lbs": 45000,
+    "carrier_rate": 3900,
+    "updated_at": "2026-10-26T16:18:15.231181+00:00",
+    "lane": "SMYRNA TN-OMAHA NE"
+  },
+  {
     "pro": "51037",
     "status": "OPEN",
     "pu_date": "2026-10-27",
@@ -149,7 +167,7 @@
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 300,
     "carrier_rate": null,
-    "updated_at": "2026-10-26T16:14:27.419270+00:00",
+    "updated_at": "2026-10-26T16:19:15.816709+00:00",
     "lane": "WINCHESTER KY-ROGERS AR"
   },
   {
