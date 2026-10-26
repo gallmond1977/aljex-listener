@@ -63,8 +63,8 @@
     "del_hours": "0700-1430",
     "equipment": "Van",
     "weight_lbs": 38600,
-    "carrier_rate": 700,
-    "updated_at": "2026-10-26T15:14:47.289679+00:00",
+    "carrier_rate": 600,
+    "updated_at": "2026-10-26T15:20:06.599466+00:00",
     "lane": "CALHOUN GA-TEMPLE GA"
   },
   {
@@ -630,7 +630,7 @@
   },
   {
     "pro": "51080",
-    "status": "COVERED",
+    "status": "DISPATCHED",
     "pu_date": "2026-10-26",
     "pu_city": "WADESBORO",
     "pu_state": "NC",
@@ -642,7 +642,7 @@
     "equipment": "Van",
     "weight_lbs": 44000,
     "carrier_rate": 900,
-    "updated_at": "2026-10-26T13:34:49.432815+00:00",
+    "updated_at": "2026-10-26T15:18:33.919136+00:00",
     "lane": "WADESBORO NC-ATLANTA GA"
   },
   {
