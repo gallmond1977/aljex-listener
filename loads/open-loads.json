@@ -81,7 +81,7 @@
     "equipment": "Flatbed",
     "weight_lbs": 23800,
     "carrier_rate": 2800,
-    "updated_at": "2026-10-26T14:32:48.937368+00:00",
+    "updated_at": "2026-10-26T14:40:09.006480+00:00",
     "lane": "ROANOKE AL-CYPRESS TX"
   },
   {
@@ -545,7 +545,7 @@
   },
   {
     "pro": "50998",
-    "status": "DELIVERED",
+    "status": "RELEASED",
     "pu_date": "2026-10-21",
     "pu_city": "WADESBORO",
     "pu_state": "NC",
@@ -557,7 +557,7 @@
     "equipment": "Van",
     "weight_lbs": 44000,
     "carrier_rate": 900,
-    "updated_at": "2026-10-22T19:05:31.205343+00:00",
+    "updated_at": "2026-10-26T14:36:54.734904+00:00",
     "lane": "WADESBORO NC-ATLANTA GA"
   },
   {
