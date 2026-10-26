@@ -214,11 +214,11 @@
     "del_date": "2026-10-29",
     "del_city": "CALHOUN",
     "del_state": "GA",
-    "del_hours": "0730-1200",
+    "del_hours": "0730-1400",
     "equipment": "Van",
     "weight_lbs": 25500,
     "carrier_rate": 2000,
-    "updated_at": "2026-10-26T17:30:26.253202+00:00",
+    "updated_at": "2026-10-26T17:32:38.128467+00:00",
     "lane": "STOCKERTOWN PA-CALHOUN GA"
   },
   {
