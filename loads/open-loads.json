@@ -137,23 +137,6 @@
     "lane": "BELCAMP MD-WILLIAMSBURG VA"
   },
   {
-    "pro": "51127",
-    "status": "OPEN",
-    "pu_date": "2026-10-27",
-    "pu_city": "WINCHESTER",
-    "pu_state": "KY",
-    "pu_hours": "",
-    "del_date": "2026-10-28",
-    "del_city": "ROGERS",
-    "del_state": "AR",
-    "del_hours": "1200",
-    "equipment": "26' Straight Box Truck",
-    "weight_lbs": 300,
-    "carrier_rate": null,
-    "updated_at": "2026-10-26T18:11:56.374715+00:00",
-    "lane": "WINCHESTER KY-ROGERS AR"
-  },
-  {
     "pro": "51133",
     "status": "OPEN",
     "pu_date": "2026-10-27",
