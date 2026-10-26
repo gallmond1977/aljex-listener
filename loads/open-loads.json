@@ -34,23 +34,6 @@
     "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
-    "pro": "51110",
-    "status": "OPEN",
-    "pu_date": "2026-10-26",
-    "pu_city": "WINCHESTER",
-    "pu_state": "KY",
-    "pu_hours": "0800-1030",
-    "del_date": "2026-10-26",
-    "del_city": "JOLIET",
-    "del_state": "IL",
-    "del_hours": "2000",
-    "equipment": "Van",
-    "weight_lbs": 9600,
-    "carrier_rate": 1200,
-    "updated_at": "2026-10-26T13:57:10.447708+00:00",
-    "lane": "WINCHESTER KY-JOLIET IL"
-  },
-  {
     "pro": "51122",
     "status": "OPEN",
     "pu_date": "2026-10-26",
@@ -64,7 +47,7 @@
     "equipment": "Flatbed Hot Shot",
     "weight_lbs": 10000,
     "carrier_rate": 800,
-    "updated_at": "2026-10-26T13:53:32.273224+00:00",
+    "updated_at": "2026-10-26T14:01:46.729403+00:00",
     "lane": "LINCOLNTON NC-AUBURN AL"
   },
   {
@@ -729,6 +712,23 @@
     "carrier_rate": 900,
     "updated_at": "2026-10-26T13:34:49.432815+00:00",
     "lane": "WADESBORO NC-ATLANTA GA"
+  },
+  {
+    "pro": "51110",
+    "status": "COVERED",
+    "pu_date": "2026-10-26",
+    "pu_city": "WINCHESTER",
+    "pu_state": "KY",
+    "pu_hours": "0800-1030",
+    "del_date": "2026-10-26",
+    "del_city": "JOLIET",
+    "del_state": "IL",
+    "del_hours": "2000",
+    "equipment": "Van",
+    "weight_lbs": 9600,
+    "carrier_rate": 1200,
+    "updated_at": "2026-10-26T14:05:02.550134+00:00",
+    "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
     "pro": "51082",
