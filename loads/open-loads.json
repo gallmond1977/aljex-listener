@@ -17,23 +17,6 @@
     "lane": "ROANOKE AL-CYPRESS TX"
   },
   {
-    "pro": "51126",
-    "status": "OPEN",
-    "pu_date": "2026-10-26",
-    "pu_city": "CALHOUN",
-    "pu_state": "GA",
-    "pu_hours": "0730-1545",
-    "del_date": "2026-10-27",
-    "del_city": "TEMPLE",
-    "del_state": "GA",
-    "del_hours": "0700-1430",
-    "equipment": "Van",
-    "weight_lbs": 38600,
-    "carrier_rate": 650,
-    "updated_at": "2026-10-26T16:37:19.906001+00:00",
-    "lane": "CALHOUN GA-TEMPLE GA"
-  },
-  {
     "pro": "51129",
     "status": "OPEN",
     "pu_date": "2026-10-26",
