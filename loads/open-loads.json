@@ -64,7 +64,7 @@
     "equipment": "Van",
     "weight_lbs": 44500,
     "carrier_rate": 2000,
-    "updated_at": "2026-10-22T17:44:34.256520+00:00",
+    "updated_at": "2026-10-26T20:29:58.939030+00:00",
     "lane": "JACKSONVILLE TX-MACON GA"
   },
   {
@@ -166,7 +166,7 @@
     "equipment": "Flatbed Hot Shot",
     "weight_lbs": 7600,
     "carrier_rate": 1300,
-    "updated_at": "2026-10-26T20:24:13.780202+00:00",
+    "updated_at": "2026-10-26T20:27:30.010559+00:00",
     "lane": "COLUMBUS GA-MYRTLE BEACH SC"
   },
   {
@@ -388,7 +388,7 @@
     "equipment": "Van",
     "weight_lbs": 15900,
     "carrier_rate": 650,
-    "updated_at": "2026-10-26T20:24:26.524156+00:00",
+    "updated_at": "2026-10-26T20:25:24.228760+00:00",
     "lane": "RABUN GAP GA-VALDESE NC"
   },
   {
