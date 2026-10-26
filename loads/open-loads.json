@@ -766,19 +766,19 @@
   },
   {
     "pro": "51030",
-    "status": "CONSIGNEE",
+    "status": "DELIVERED",
     "pu_date": "2026-10-24",
     "pu_city": "HOUSTON",
     "pu_state": "TX",
     "pu_hours": "0900",
-    "del_date": "2026-10-26",
+    "del_date": "2026-10-25",
     "del_city": "SANFORD",
     "del_state": "FL",
     "del_hours": "1100",
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 7000,
     "carrier_rate": 2000,
-    "updated_at": "2026-10-26T01:46:35.810067+00:00",
+    "updated_at": "2026-10-26T02:18:28.226102+00:00",
     "lane": "HOUSTON TX-SANFORD FL"
   },
   {
