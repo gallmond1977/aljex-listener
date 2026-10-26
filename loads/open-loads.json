@@ -710,7 +710,7 @@
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 7000,
     "carrier_rate": 2000,
-    "updated_at": "2026-10-26T11:59:50.031897+00:00",
+    "updated_at": "2026-10-26T12:00:26.496730+00:00",
     "lane": "HOUSTON TX-SANFORD FL"
   },
   {
@@ -744,12 +744,12 @@
     "equipment": "Van",
     "weight_lbs": 44000,
     "carrier_rate": 900,
-    "updated_at": "2026-10-23T16:07:47.833524+00:00",
+    "updated_at": "2026-10-26T12:03:59.860556+00:00",
     "lane": "WADESBORO NC-ATLANTA GA"
   },
   {
     "pro": "51029",
-    "status": "LOADED",
+    "status": "PICKUP",
     "pu_date": "2026-10-24",
     "pu_city": "HOUSTON",
     "pu_state": "TX",
@@ -761,7 +761,7 @@
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 7000,
     "carrier_rate": 2000,
-    "updated_at": "2026-10-24T13:35:12.028191+00:00",
+    "updated_at": "2026-10-26T12:02:14.291803+00:00",
     "lane": "HOUSTON TX-SANFORD FL"
   },
   {
