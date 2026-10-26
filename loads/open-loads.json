@@ -30,7 +30,7 @@
     "equipment": "Van",
     "weight_lbs": 24000,
     "carrier_rate": 2600,
-    "updated_at": "2026-10-26T12:26:34.283753+00:00",
+    "updated_at": "2026-10-26T13:19:24.104695+00:00",
     "lane": "JACKSONVILLE TX-PUEBLO CO"
   },
   {
@@ -100,6 +100,23 @@
     "carrier_rate": 750,
     "updated_at": "2026-10-26T13:14:50.307333+00:00",
     "lane": "LINCOLNTON NC-AUBURN AL"
+  },
+  {
+    "pro": "51123",
+    "status": "OPEN",
+    "pu_date": "2026-10-26",
+    "pu_city": "OAKLAND",
+    "pu_state": "TN",
+    "pu_hours": "0800-1400",
+    "del_date": "2026-10-27",
+    "del_city": "MONTICELLO",
+    "del_state": "IL",
+    "del_hours": "0800-0900",
+    "equipment": "Van Hazmat",
+    "weight_lbs": 44900,
+    "carrier_rate": null,
+    "updated_at": "2026-10-26T13:20:14.584901+00:00",
+    "lane": "OAKLAND TN-MONTICELLO IL"
   },
   {
     "pro": "51081",
