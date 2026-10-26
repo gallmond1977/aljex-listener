@@ -47,7 +47,7 @@
     "equipment": "Flatbed",
     "weight_lbs": 23800,
     "carrier_rate": 2800,
-    "updated_at": "2026-10-26T14:50:17.239054+00:00",
+    "updated_at": "2026-10-26T14:58:28.573962+00:00",
     "lane": "ROANOKE AL-CYPRESS TX"
   },
   {
@@ -596,7 +596,7 @@
   },
   {
     "pro": "51030",
-    "status": "CONSIGNEE",
+    "status": "DELIVERED",
     "pu_date": "2026-10-24",
     "pu_city": "HOUSTON",
     "pu_state": "TX",
@@ -608,7 +608,7 @@
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 7000,
     "carrier_rate": 2000,
-    "updated_at": "2026-10-26T14:32:56.403975+00:00",
+    "updated_at": "2026-10-26T14:57:39.791267+00:00",
     "lane": "HOUSTON TX-SANFORD FL"
   },
   {
