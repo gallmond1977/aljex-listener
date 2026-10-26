@@ -29,8 +29,8 @@
     "del_hours": "0730-1530",
     "equipment": "Van",
     "weight_lbs": 24000,
-    "carrier_rate": 2600,
-    "updated_at": "2026-10-26T13:19:24.104695+00:00",
+    "carrier_rate": 2750,
+    "updated_at": "2026-10-26T13:21:57.911394+00:00",
     "lane": "JACKSONVILLE TX-PUEBLO CO"
   },
   {
@@ -114,8 +114,8 @@
     "del_hours": "0800-0900",
     "equipment": "Van Hazmat",
     "weight_lbs": 44900,
-    "carrier_rate": null,
-    "updated_at": "2026-10-26T13:20:14.584901+00:00",
+    "carrier_rate": 1600,
+    "updated_at": "2026-10-26T13:24:28.958187+00:00",
     "lane": "OAKLAND TN-MONTICELLO IL"
   },
   {
@@ -179,11 +179,11 @@
     "del_date": "2026-10-27",
     "del_city": "WILLIAMSBURG",
     "del_state": "VA",
-    "del_hours": "CALL!",
+    "del_hours": "0800-1530",
     "equipment": "Sprinter Van",
     "weight_lbs": 1000,
     "carrier_rate": 300,
-    "updated_at": "2026-10-26T12:54:12.264341+00:00",
+    "updated_at": "2026-10-26T13:22:46.449967+00:00",
     "lane": "BELCAMP MD-WILLIAMSBURG VA"
   },
   {
@@ -829,7 +829,7 @@
     "equipment": "Flatbed w/ Tarps",
     "weight_lbs": 42000,
     "carrier_rate": 5000,
-    "updated_at": "2026-10-26T12:39:16.969439+00:00",
+    "updated_at": "2026-10-26T13:24:41.605921+00:00",
     "lane": "ALPHARETTA GA-AMARILLO TX"
   },
   {
