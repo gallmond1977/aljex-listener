@@ -46,8 +46,8 @@
     "del_hours": "0700-0800",
     "equipment": "Flatbed Hot Shot",
     "weight_lbs": 10000,
-    "carrier_rate": 800,
-    "updated_at": "2026-10-26T14:01:46.729403+00:00",
+    "carrier_rate": 850,
+    "updated_at": "2026-10-26T14:29:03.701141+00:00",
     "lane": "LINCOLNTON NC-AUBURN AL"
   },
   {
@@ -693,7 +693,7 @@
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 7000,
     "carrier_rate": 2000,
-    "updated_at": "2026-10-26T12:20:13.742788+00:00",
+    "updated_at": "2026-10-26T14:29:22.176734+00:00",
     "lane": "HOUSTON TX-SANFORD FL"
   },
   {
