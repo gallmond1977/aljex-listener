@@ -80,8 +80,8 @@
     "del_hours": "0800-1530",
     "equipment": "Flatbed",
     "weight_lbs": 23800,
-    "carrier_rate": null,
-    "updated_at": "2026-10-26T13:52:25.943842+00:00",
+    "carrier_rate": 2800,
+    "updated_at": "2026-10-26T14:32:48.937368+00:00",
     "lane": "ROANOKE AL-CYPRESS TX"
   },
   {
@@ -693,7 +693,7 @@
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 7000,
     "carrier_rate": 2000,
-    "updated_at": "2026-10-26T14:29:22.176734+00:00",
+    "updated_at": "2026-10-26T14:32:56.403975+00:00",
     "lane": "HOUSTON TX-SANFORD FL"
   },
   {
