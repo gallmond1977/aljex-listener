@@ -166,7 +166,7 @@
     "equipment": "Flatbed Hot Shot",
     "weight_lbs": 7600,
     "carrier_rate": 1300,
-    "updated_at": "2026-10-26T20:19:45.503772+00:00",
+    "updated_at": "2026-10-26T20:24:13.780202+00:00",
     "lane": "COLUMBUS GA-MYRTLE BEACH SC"
   },
   {
@@ -373,6 +373,23 @@
     "carrier_rate": 1850,
     "updated_at": "2026-10-26T15:50:40.778463+00:00",
     "lane": "GARLAND TX-CALHOUN GA"
+  },
+  {
+    "pro": "51140",
+    "status": "OPEN",
+    "pu_date": "2026-11-02",
+    "pu_city": "RABUN GAP",
+    "pu_state": "GA",
+    "pu_hours": "0800-1545",
+    "del_date": "2026-11-03",
+    "del_city": "VALDESE",
+    "del_state": "NC",
+    "del_hours": "0800-1400",
+    "equipment": "Van",
+    "weight_lbs": 15900,
+    "carrier_rate": 650,
+    "updated_at": "2026-10-26T20:24:26.524156+00:00",
+    "lane": "RABUN GAP GA-VALDESE NC"
   },
   {
     "pro": "51043",
