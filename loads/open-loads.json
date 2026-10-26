@@ -1,5 +1,22 @@
 [
   {
+    "pro": "51029",
+    "status": "OPEN",
+    "pu_date": "2026-10-26",
+    "pu_city": "HOUSTON",
+    "pu_state": "TX",
+    "pu_hours": "",
+    "del_date": "2026-10-28",
+    "del_city": "SANFORD",
+    "del_state": "FL",
+    "del_hours": "",
+    "equipment": "26' Straight Box Truck",
+    "weight_lbs": 7000,
+    "carrier_rate": 2000,
+    "updated_at": "2026-10-26T12:14:09.079735+00:00",
+    "lane": "HOUSTON TX-SANFORD FL"
+  },
+  {
     "pro": "51073",
     "status": "OPEN",
     "pu_date": "2026-10-26",
@@ -746,23 +763,6 @@
     "carrier_rate": 900,
     "updated_at": "2026-10-26T12:03:59.860556+00:00",
     "lane": "WADESBORO NC-ATLANTA GA"
-  },
-  {
-    "pro": "51029",
-    "status": "PICKUP",
-    "pu_date": "2026-10-24",
-    "pu_city": "HOUSTON",
-    "pu_state": "TX",
-    "pu_hours": "0700",
-    "del_date": "2026-10-26",
-    "del_city": "SANFORD",
-    "del_state": "FL",
-    "del_hours": "0900",
-    "equipment": "26' Straight Box Truck",
-    "weight_lbs": 7000,
-    "carrier_rate": 2000,
-    "updated_at": "2026-10-26T12:02:14.291803+00:00",
-    "lane": "HOUSTON TX-SANFORD FL"
   },
   {
     "pro": "51030",
