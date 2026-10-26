@@ -459,23 +459,6 @@
     "lane": "ALPHARETTA GA-AMARILLO TX"
   },
   {
-    "pro": "50936",
-    "status": "RELEASED",
-    "pu_date": "2026-10-16",
-    "pu_city": "HOUSTON",
-    "pu_state": "TX",
-    "pu_hours": "0700",
-    "del_date": "2026-10-19",
-    "del_city": "SANFORD",
-    "del_state": "FL",
-    "del_hours": "0700",
-    "equipment": "26' Straight Box Truck",
-    "weight_lbs": 7000,
-    "carrier_rate": 2000,
-    "updated_at": "2026-10-19T13:40:49.535430+00:00",
-    "lane": "HOUSTON TX-SANFORD FL"
-  },
-  {
     "pro": "50945",
     "status": "RELEASED",
     "pu_date": "2026-10-16",
@@ -562,7 +545,7 @@
   },
   {
     "pro": "51009",
-    "status": "DELIVERED",
+    "status": "RELEASED",
     "pu_date": "2026-10-19",
     "pu_city": "WADESBORO",
     "pu_state": "NC",
@@ -574,7 +557,7 @@
     "equipment": "Flatbed",
     "weight_lbs": 44000,
     "carrier_rate": 900,
-    "updated_at": "2026-10-22T19:50:51.981855+00:00",
+    "updated_at": "2026-10-26T13:42:34.022044+00:00",
     "lane": "WADESBORO NC-ATLANTA GA"
   },
   {
@@ -698,7 +681,7 @@
   },
   {
     "pro": "51070",
-    "status": "DELIVERED",
+    "status": "RELEASED",
     "pu_date": "2026-10-22",
     "pu_city": "WINCHESTER",
     "pu_state": "KY",
@@ -710,12 +693,12 @@
     "equipment": "Van",
     "weight_lbs": 11280,
     "carrier_rate": 1000,
-    "updated_at": "2026-10-23T13:56:57.354359+00:00",
+    "updated_at": "2026-10-26T13:44:10.513979+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
     "pro": "51078",
-    "status": "DELIVERED",
+    "status": "RELEASED",
     "pu_date": "2026-10-22",
     "pu_city": "WADESBORO",
     "pu_state": "NC",
@@ -727,7 +710,7 @@
     "equipment": "Van",
     "weight_lbs": 44000,
     "carrier_rate": 900,
-    "updated_at": "2026-10-23T16:00:47.436806+00:00",
+    "updated_at": "2026-10-26T13:44:29.957507+00:00",
     "lane": "WADESBORO NC-ATLANTA GA"
   },
   {
