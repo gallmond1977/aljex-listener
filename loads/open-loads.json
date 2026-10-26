@@ -126,14 +126,14 @@
     "pu_city": "WINCHESTER",
     "pu_state": "KY",
     "pu_hours": "",
-    "del_date": "",
+    "del_date": "2026-10-28",
     "del_city": "ROGERS",
     "del_state": "AR",
-    "del_hours": "",
+    "del_hours": "1200",
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 300,
     "carrier_rate": null,
-    "updated_at": "2026-10-26T16:48:24.222653+00:00",
+    "updated_at": "2026-10-26T18:07:36.000926+00:00",
     "lane": "WINCHESTER KY-ROGERS AR"
   },
   {
