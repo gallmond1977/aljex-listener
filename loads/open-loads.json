@@ -682,7 +682,7 @@
   },
   {
     "pro": "51030",
-    "status": "DELIVERED",
+    "status": "RELEASED",
     "pu_date": "2026-10-24",
     "pu_city": "HOUSTON",
     "pu_state": "TX",
@@ -694,12 +694,12 @@
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 7000,
     "carrier_rate": 2000,
-    "updated_at": "2026-10-26T14:57:39.791267+00:00",
+    "updated_at": "2026-10-26T16:43:25.115462+00:00",
     "lane": "HOUSTON TX-SANFORD FL"
   },
   {
     "pro": "51080",
-    "status": "DISPATCHED",
+    "status": "PICKUP",
     "pu_date": "2026-10-26",
     "pu_city": "WADESBORO",
     "pu_state": "NC",
@@ -711,7 +711,7 @@
     "equipment": "Van",
     "weight_lbs": 44000,
     "carrier_rate": 900,
-    "updated_at": "2026-10-26T16:34:20.703220+00:00",
+    "updated_at": "2026-10-26T16:43:17.671649+00:00",
     "lane": "WADESBORO NC-ATLANTA GA"
   },
   {
