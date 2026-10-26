@@ -34,6 +34,23 @@
     "lane": "CALHOUN GA-TEMPLE GA"
   },
   {
+    "pro": "51129",
+    "status": "OPEN",
+    "pu_date": "2026-10-26",
+    "pu_city": "LAGRANGE",
+    "pu_state": "GA",
+    "pu_hours": "1200-1700",
+    "del_date": "2026-10-27",
+    "del_city": "RICHMOND",
+    "del_state": "VA",
+    "del_hours": "CALL!",
+    "equipment": "26' Straight Box Truck",
+    "weight_lbs": 7000,
+    "carrier_rate": 900,
+    "updated_at": "2026-10-26T15:40:12.849914+00:00",
+    "lane": "LAGRANGE GA-RICHMOND VA"
+  },
+  {
     "pro": "51037",
     "status": "OPEN",
     "pu_date": "2026-10-27",
@@ -234,7 +251,7 @@
     "equipment": "Reefer",
     "weight_lbs": 13650,
     "carrier_rate": null,
-    "updated_at": "2026-10-26T15:35:08.467918+00:00",
+    "updated_at": "2026-10-26T15:35:24.103510+00:00",
     "lane": "MONTEZUMA GA-TRACY CA"
   },
   {
@@ -545,7 +562,7 @@
   },
   {
     "pro": "51032",
-    "status": "DELIVERED",
+    "status": "RELEASED",
     "pu_date": "2026-10-22",
     "pu_city": "ATLANTA",
     "pu_state": "GA",
@@ -557,7 +574,7 @@
     "equipment": "Reefer",
     "weight_lbs": 21264,
     "carrier_rate": 450,
-    "updated_at": "2026-10-22T14:56:28.930807+00:00",
+    "updated_at": "2026-10-26T15:35:34.096101+00:00",
     "lane": "ATLANTA GA-DECATUR GA"
   },
   {
