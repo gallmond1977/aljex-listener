@@ -153,6 +153,23 @@
     "lane": "LINDENHURST NY-ROANOKE AL"
   },
   {
+    "pro": "51139",
+    "status": "OPEN",
+    "pu_date": "2026-10-27",
+    "pu_city": "COLUMBUS",
+    "pu_state": "GA",
+    "pu_hours": "1400",
+    "del_date": "2026-10-28",
+    "del_city": "MYRTLE BEACH",
+    "del_state": "SC",
+    "del_hours": "0800",
+    "equipment": "Flatbed Hot Shot",
+    "weight_lbs": 7600,
+    "carrier_rate": 1300,
+    "updated_at": "2026-10-26T20:19:45.503772+00:00",
+    "lane": "COLUMBUS GA-MYRTLE BEACH SC"
+  },
+  {
     "pro": "8890467",
     "status": "OPEN",
     "spot": true,
