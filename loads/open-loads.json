@@ -120,6 +120,23 @@
     "lane": "OAKLAND TN-PHENIX CITY AL"
   },
   {
+    "pro": "51162",
+    "status": "OPEN",
+    "pu_date": "2026-10-28",
+    "pu_city": "MADISON",
+    "pu_state": "MS",
+    "pu_hours": "0700-1600",
+    "del_date": "",
+    "del_city": "AMORY",
+    "del_state": "MS",
+    "del_hours": "0700-1600",
+    "equipment": "Flatbed",
+    "weight_lbs": 20000,
+    "carrier_rate": 800,
+    "updated_at": "2026-10-27T19:34:03.433566+00:00",
+    "lane": "MADISON MS-AMORY MS"
+  },
+  {
     "pro": "51164",
     "status": "OPEN",
     "pu_date": "2026-10-28",
@@ -148,9 +165,9 @@
     "del_state": "GA",
     "del_hours": "0800-1700",
     "equipment": "26' Straight Box Truck",
-    "weight_lbs": 4697,
-    "carrier_rate": null,
-    "updated_at": "2026-10-27T19:30:19.152097+00:00",
+    "weight_lbs": 7772,
+    "carrier_rate": 550,
+    "updated_at": "2026-10-27T19:34:16.345403+00:00",
     "lane": "GAINESVILLE GA-GLENNVILLE GA"
   },
   {
@@ -373,6 +390,23 @@
     "carrier_rate": null,
     "updated_at": "2026-10-27T12:09:22.919663+00:00",
     "lane": "MOUNT STERLING KY-MIRA LOMA CA"
+  },
+  {
+    "pro": "51166",
+    "status": "OPEN",
+    "pu_date": "2026-11-06",
+    "pu_city": "PHENIX CITY",
+    "pu_state": "AL",
+    "pu_hours": "0800-1200",
+    "del_date": "2026-11-09",
+    "del_city": "ROCKLAND",
+    "del_state": "ME",
+    "del_hours": "1200-1400",
+    "equipment": "Van",
+    "weight_lbs": 35000,
+    "carrier_rate": 4200,
+    "updated_at": "2026-10-27T19:32:49.386965+00:00",
+    "lane": "PHENIX CITY AL-ROCKLAND ME"
   },
   {
     "pro": "49855",
@@ -628,6 +662,23 @@
     "carrier_rate": 3000,
     "updated_at": "2026-10-26T15:07:31.297309+00:00",
     "lane": "OAKLAND TN-SALISBURY NC"
+  },
+  {
+    "pro": "51073",
+    "status": "LOADED",
+    "pu_date": "2026-10-26",
+    "pu_city": "PHENIX CITY",
+    "pu_state": "AL",
+    "pu_hours": "0800-1200",
+    "del_date": "2026-10-28",
+    "del_city": "ROCKLAND",
+    "del_state": "ME",
+    "del_hours": "1200-1400",
+    "equipment": "Van",
+    "weight_lbs": 35000,
+    "carrier_rate": 4200,
+    "updated_at": "2026-10-26T18:20:24.970901+00:00",
+    "lane": "PHENIX CITY AL-ROCKLAND ME"
   },
   {
     "pro": "51109",
