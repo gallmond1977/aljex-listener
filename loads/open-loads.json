@@ -68,23 +68,6 @@
     "lane": "OAKLAND TN-SALISBURY NC"
   },
   {
-    "pro": "51161",
-    "status": "OPEN",
-    "pu_date": "2026-10-27",
-    "pu_city": "OAKLAND",
-    "pu_state": "TN",
-    "pu_hours": "0800-1500",
-    "del_date": "2026-10-28",
-    "del_city": "PHENIX CITY",
-    "del_state": "AL",
-    "del_hours": "0600-1100",
-    "equipment": "Van Hazmat",
-    "weight_lbs": 44940,
-    "carrier_rate": 2400,
-    "updated_at": "2026-10-27T18:40:33.283046+00:00",
-    "lane": "OAKLAND TN-PHENIX CITY AL"
-  },
-  {
     "pro": "8890467",
     "status": "OPEN",
     "spot": true,
@@ -137,6 +120,23 @@
     "lane": "COLUMBUS GA-CONCORD NC"
   },
   {
+    "pro": "51161",
+    "status": "OPEN",
+    "pu_date": "2026-10-28",
+    "pu_city": "OAKLAND",
+    "pu_state": "TN",
+    "pu_hours": "0800-1500",
+    "del_date": "2026-10-29",
+    "del_city": "PHENIX CITY",
+    "del_state": "AL",
+    "del_hours": "0600-1100",
+    "equipment": "Van Hazmat",
+    "weight_lbs": 44940,
+    "carrier_rate": 2400,
+    "updated_at": "2026-10-27T19:20:00.618248+00:00",
+    "lane": "OAKLAND TN-PHENIX CITY AL"
+  },
+  {
     "pro": "51164",
     "status": "OPEN",
     "pu_date": "2026-10-28",
@@ -150,7 +150,7 @@
     "equipment": "Flatbed",
     "weight_lbs": 47000,
     "carrier_rate": 1000,
-    "updated_at": "2026-10-27T19:15:13.400828+00:00",
+    "updated_at": "2026-10-27T19:16:11.363452+00:00",
     "lane": "POSEYVILLE IN-LOUISVILLE KY"
   },
   {
