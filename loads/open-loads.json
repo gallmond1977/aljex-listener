@@ -132,8 +132,8 @@
     "del_hours": "0800-0900",
     "equipment": "Van Hazmat",
     "weight_lbs": 44900,
-    "carrier_rate": 1800,
-    "updated_at": "2026-10-26T17:03:08.396839+00:00",
+    "carrier_rate": 2000,
+    "updated_at": "2026-10-27T13:15:06.999103+00:00",
     "lane": "OAKLAND TN-MONTICELLO IL"
   },
   {
@@ -181,10 +181,10 @@
     "del_city": "BELCAMP",
     "del_state": "MD",
     "del_hours": "0700-1500",
-    "equipment": "Conestoga",
+    "equipment": "Flatbed w/ Tarps",
     "weight_lbs": 42000,
     "carrier_rate": 3300,
-    "updated_at": "2026-10-27T12:51:47.389348+00:00",
+    "updated_at": "2026-10-27T13:10:51.256470+00:00",
     "lane": "ALPHARETTA GA-BELCAMP MD"
   },
   {
@@ -201,7 +201,7 @@
     "equipment": "Van",
     "weight_lbs": 43000,
     "carrier_rate": null,
-    "updated_at": "2026-10-27T13:08:59.444379+00:00",
+    "updated_at": "2026-10-27T13:10:34.747250+00:00",
     "lane": "CARTERSVILLE GA-MACON GA"
   },
   {
@@ -524,7 +524,7 @@
     "equipment": "Van",
     "weight_lbs": 40949,
     "carrier_rate": 2000,
-    "updated_at": "2026-10-27T13:10:09.755682+00:00",
+    "updated_at": "2026-10-27T13:11:24.464595+00:00",
     "lane": "GARLAND TX-CALHOUN GA"
   },
   {
