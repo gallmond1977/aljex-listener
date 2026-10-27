@@ -17,23 +17,6 @@
     "lane": "PORT ANGELES WA-IRWINDALE CA"
   },
   {
-    "pro": "51160",
-    "status": "OPEN",
-    "pu_date": "2026-10-27",
-    "pu_city": "OAKLAND",
-    "pu_state": "TN",
-    "pu_hours": "0800-1500",
-    "del_date": "2026-10-28",
-    "del_city": "SALISBURY",
-    "del_state": "NC",
-    "del_hours": "0600-1100",
-    "equipment": "Van Hazmat",
-    "weight_lbs": 44900,
-    "carrier_rate": 2800,
-    "updated_at": "2026-10-27T18:38:14.406682+00:00",
-    "lane": "OAKLAND TN-SALISBURY NC"
-  },
-  {
     "pro": "8890467",
     "status": "OPEN",
     "spot": true,
@@ -101,6 +84,23 @@
     "carrier_rate": 1000,
     "updated_at": "2026-10-27T19:13:49.152325+00:00",
     "lane": "COLUMBUS GA-CONCORD NC"
+  },
+  {
+    "pro": "51160",
+    "status": "OPEN",
+    "pu_date": "2026-10-28",
+    "pu_city": "OAKLAND",
+    "pu_state": "TN",
+    "pu_hours": "0800-1500",
+    "del_date": "2026-10-29",
+    "del_city": "SALISBURY",
+    "del_state": "NC",
+    "del_hours": "0600-1100",
+    "equipment": "Van Hazmat",
+    "weight_lbs": 44900,
+    "carrier_rate": 2800,
+    "updated_at": "2026-10-27T20:35:41.677001+00:00",
+    "lane": "OAKLAND TN-SALISBURY NC"
   },
   {
     "pro": "51161",
@@ -244,7 +244,7 @@
     "pu_date": "2026-10-29",
     "pu_city": "LINDENHURST",
     "pu_state": "NY",
-    "pu_hours": "",
+    "pu_hours": "0930-1130",
     "del_date": "",
     "del_city": "ROANOKE",
     "del_state": "AL",
@@ -252,7 +252,7 @@
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 3200,
     "carrier_rate": null,
-    "updated_at": "2026-10-27T20:35:10.342974+00:00",
+    "updated_at": "2026-10-27T20:38:19.119850+00:00",
     "lane": "LINDENHURST NY-ROANOKE AL"
   },
   {
