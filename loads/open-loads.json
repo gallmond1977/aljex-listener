@@ -51,23 +51,6 @@
     "lane": "BELCAMP MD-WILLIAMSBURG VA"
   },
   {
-    "pro": "51133",
-    "status": "OPEN",
-    "pu_date": "2026-10-27",
-    "pu_city": "UNION CITY",
-    "pu_state": "GA",
-    "pu_hours": "1300",
-    "del_date": "2026-10-28",
-    "del_city": "MIAMI",
-    "del_state": "FL",
-    "del_hours": "1400",
-    "equipment": "26' Straight Box Truck",
-    "weight_lbs": 4000,
-    "carrier_rate": 1400,
-    "updated_at": "2026-10-27T13:49:12.958763+00:00",
-    "lane": "UNION CITY GA-MIAMI FL"
-  },
-  {
     "pro": "8890467",
     "status": "OPEN",
     "spot": true,
@@ -252,7 +235,7 @@
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 255,
     "carrier_rate": null,
-    "updated_at": "2026-10-27T13:55:53.125082+00:00",
+    "updated_at": "2026-10-27T14:02:08.775863+00:00",
     "lane": "FREDERICKSBURG VA-CAPE CHARLES VA"
   },
   {
