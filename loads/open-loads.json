@@ -30,7 +30,7 @@
     "equipment": "Van",
     "weight_lbs": 44500,
     "carrier_rate": 2000,
-    "updated_at": "2026-10-27T12:49:56.274961+00:00",
+    "updated_at": "2026-10-27T14:09:25.910920+00:00",
     "lane": "JACKSONVILLE TX-MACON GA"
   },
   {
@@ -46,8 +46,8 @@
     "del_hours": "0800-1530",
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 1000,
-    "carrier_rate": 600,
-    "updated_at": "2026-10-27T13:34:38.428252+00:00",
+    "carrier_rate": 650,
+    "updated_at": "2026-10-27T14:09:59.381052+00:00",
     "lane": "BELCAMP MD-WILLIAMSBURG VA"
   },
   {
@@ -101,23 +101,6 @@
     "carrier_rate": 200,
     "updated_at": "2026-10-27T11:57:45.798424+00:00",
     "lane": "RICHMOND VA-ASHLAND VA"
-  },
-  {
-    "pro": "51143",
-    "status": "OPEN",
-    "pu_date": "2026-10-28",
-    "pu_city": "ALPHARETTA",
-    "pu_state": "GA",
-    "pu_hours": "1200-1800",
-    "del_date": "2026-10-29",
-    "del_city": "BELCAMP",
-    "del_state": "MD",
-    "del_hours": "0700-1500",
-    "equipment": "Flatbed w/ Tarps",
-    "weight_lbs": 42000,
-    "carrier_rate": 3300,
-    "updated_at": "2026-10-27T13:10:51.256470+00:00",
-    "lane": "ALPHARETTA GA-BELCAMP MD"
   },
   {
     "pro": "51144",
@@ -231,11 +214,11 @@
     "del_date": "2026-10-30",
     "del_city": "CAPE CHARLES",
     "del_state": "VA",
-    "del_hours": "",
+    "del_hours": "CALL!",
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 255,
     "carrier_rate": null,
-    "updated_at": "2026-10-27T14:02:08.775863+00:00",
+    "updated_at": "2026-10-27T14:09:31.661161+00:00",
     "lane": "FREDERICKSBURG VA-CAPE CHARLES VA"
   },
   {
