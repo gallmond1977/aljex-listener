@@ -52,23 +52,6 @@
     "lane": "STOCKERTOWN PA-CALHOUN GA"
   },
   {
-    "pro": "51141",
-    "status": "OPEN",
-    "pu_date": "2026-10-28",
-    "pu_city": "RICHMOND",
-    "pu_state": "VA",
-    "pu_hours": "0700-0730",
-    "del_date": "2026-10-28",
-    "del_city": "ASHLAND",
-    "del_state": "VA",
-    "del_hours": "0700-1100",
-    "equipment": "26' Straight Box Truck",
-    "weight_lbs": 3000,
-    "carrier_rate": 200,
-    "updated_at": "2026-10-27T14:22:03.371977+00:00",
-    "lane": "RICHMOND VA-ASHLAND VA"
-  },
-  {
     "pro": "51144",
     "status": "OPEN",
     "pu_date": "2026-10-28",
