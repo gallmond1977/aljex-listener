@@ -47,7 +47,7 @@
     "equipment": "Van",
     "weight_lbs": 44000,
     "carrier_rate": 900,
-    "updated_at": "2026-10-27T16:49:41.948180+00:00",
+    "updated_at": "2026-10-27T16:54:15.365177+00:00",
     "lane": "WADESBORO NC-ATLANTA GA"
   },
   {
@@ -218,7 +218,7 @@
     "equipment": "Van",
     "weight_lbs": 14580,
     "carrier_rate": 1000,
-    "updated_at": "2026-10-27T16:00:31.909719+00:00",
+    "updated_at": "2026-10-27T16:53:12.582015+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
