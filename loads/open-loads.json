@@ -69,23 +69,6 @@
     "lane": "CARTERSVILLE GA-MACON GA"
   },
   {
-    "pro": "51150",
-    "status": "OPEN",
-    "pu_date": "2026-10-28",
-    "pu_city": "COLUMBUS",
-    "pu_state": "GA",
-    "pu_hours": "0800-1500",
-    "del_date": "2026-10-29",
-    "del_city": "CONCORD",
-    "del_state": "NC",
-    "del_hours": "",
-    "equipment": "Flatbed Hot Shot",
-    "weight_lbs": 7600,
-    "carrier_rate": 1000,
-    "updated_at": "2026-10-27T15:06:49.277976+00:00",
-    "lane": "COLUMBUS GA-CONCORD NC"
-  },
-  {
     "pro": "51051",
     "status": "OPEN",
     "pu_date": "2026-10-29",
