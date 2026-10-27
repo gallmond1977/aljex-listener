@@ -239,6 +239,23 @@
     "lane": "MONTEZUMA GA-TRACY CA"
   },
   {
+    "pro": "51146",
+    "status": "OPEN",
+    "pu_date": "2026-10-30",
+    "pu_city": "FREDERICKSBURG",
+    "pu_state": "VA",
+    "pu_hours": "0700-1000",
+    "del_date": "2026-10-30",
+    "del_city": "CAPE CHARLES",
+    "del_state": "VA",
+    "del_hours": "",
+    "equipment": "26' Straight Box Truck",
+    "weight_lbs": 255,
+    "carrier_rate": null,
+    "updated_at": "2026-10-27T13:55:53.125082+00:00",
+    "lane": "FREDERICKSBURG VA-CAPE CHARLES VA"
+  },
+  {
     "pro": "50542",
     "status": "OPEN",
     "pu_date": "2026-11-02",
