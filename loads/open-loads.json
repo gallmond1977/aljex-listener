@@ -17,21 +17,21 @@
     "lane": "JACKSONVILLE TX-MACON GA"
   },
   {
-    "pro": "51156",
+    "pro": "51158",
     "status": "OPEN",
     "pu_date": "2026-10-27",
-    "pu_city": "KITTANNING",
-    "pu_state": "PA",
-    "pu_hours": "0900-1400",
+    "pu_city": "PORT ANGELES",
+    "pu_state": "WA",
+    "pu_hours": "0600-1600",
     "del_date": "2026-10-28",
-    "del_city": "LATROBE",
-    "del_state": "PA",
-    "del_hours": "0900-1500",
-    "equipment": "26' Straight Box Truck",
-    "weight_lbs": 3000,
-    "carrier_rate": 350,
-    "updated_at": "2026-10-27T15:53:55.450137+00:00",
-    "lane": "KITTANNING PA-LATROBE PA"
+    "del_city": "IRWINDALE",
+    "del_state": "CA",
+    "del_hours": "",
+    "equipment": "Flatbed w/ Tarps",
+    "weight_lbs": 47500,
+    "carrier_rate": 4700,
+    "updated_at": "2026-10-27T16:27:40.773187+00:00",
+    "lane": "PORT ANGELES WA-IRWINDALE CA"
   },
   {
     "pro": "8890467",
