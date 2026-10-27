@@ -167,7 +167,7 @@
     "equipment": "Van",
     "weight_lbs": 5200,
     "carrier_rate": 3800,
-    "updated_at": "2026-10-27T15:54:42.938677+00:00",
+    "updated_at": "2026-10-27T15:55:31.508819+00:00",
     "lane": "WINCHESTER KY-UXBRIDGE MA"
   },
   {
@@ -193,7 +193,7 @@
     "pu_date": "2026-10-30",
     "pu_city": "WINCHESTER",
     "pu_state": "KY",
-    "pu_hours": "NEEDED",
+    "pu_hours": "0800-1130",
     "del_date": "2026-10-30",
     "del_city": "JOLIET",
     "del_state": "IL",
@@ -201,7 +201,7 @@
     "equipment": "Van",
     "weight_lbs": 14580,
     "carrier_rate": 1000,
-    "updated_at": "2026-10-27T15:54:59.750762+00:00",
+    "updated_at": "2026-10-27T15:56:21.778887+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
