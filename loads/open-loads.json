@@ -1,22 +1,5 @@
 [
   {
-    "pro": "51158",
-    "status": "OPEN",
-    "pu_date": "2026-10-27",
-    "pu_city": "PORT ANGELES",
-    "pu_state": "WA",
-    "pu_hours": "0600-1600",
-    "del_date": "2026-10-28",
-    "del_city": "IRWINDALE",
-    "del_state": "CA",
-    "del_hours": "",
-    "equipment": "Flatbed w/ Tarps",
-    "weight_lbs": 47500,
-    "carrier_rate": 4700,
-    "updated_at": "2026-10-27T16:41:04.587070+00:00",
-    "lane": "PORT ANGELES WA-IRWINDALE CA"
-  },
-  {
     "pro": "8890467",
     "status": "OPEN",
     "spot": true,
@@ -84,6 +67,23 @@
     "carrier_rate": 1000,
     "updated_at": "2026-10-27T19:13:49.152325+00:00",
     "lane": "COLUMBUS GA-CONCORD NC"
+  },
+  {
+    "pro": "51158",
+    "status": "OPEN",
+    "pu_date": "2026-10-28",
+    "pu_city": "PORT ANGELES",
+    "pu_state": "WA",
+    "pu_hours": "0600-1600",
+    "del_date": "2026-10-29",
+    "del_city": "IRWINDALE",
+    "del_state": "CA",
+    "del_hours": "",
+    "equipment": "Flatbed w/ Tarps",
+    "weight_lbs": 47500,
+    "carrier_rate": 4900,
+    "updated_at": "2026-10-27T20:45:20.179922+00:00",
+    "lane": "PORT ANGELES WA-IRWINDALE CA"
   },
   {
     "pro": "51160",
@@ -252,7 +252,7 @@
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 3200,
     "carrier_rate": null,
-    "updated_at": "2026-10-27T20:38:19.119850+00:00",
+    "updated_at": "2026-10-27T20:46:51.835621+00:00",
     "lane": "LINDENHURST NY-ROANOKE AL"
   },
   {
@@ -750,7 +750,7 @@
   },
   {
     "pro": "51037",
-    "status": "PICKUP",
+    "status": "LOADED",
     "pu_date": "2026-10-27",
     "pu_city": "GARLAND",
     "pu_state": "TX",
@@ -762,7 +762,7 @@
     "equipment": "Van",
     "weight_lbs": 40949,
     "carrier_rate": 2000,
-    "updated_at": "2026-10-27T17:00:26.994698+00:00",
+    "updated_at": "2026-10-27T20:46:19.075326+00:00",
     "lane": "GARLAND TX-CALHOUN GA"
   }
 ]
