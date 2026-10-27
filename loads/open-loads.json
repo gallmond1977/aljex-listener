@@ -68,23 +68,6 @@
     "lane": "BELCAMP MD-WILLIAMSBURG VA"
   },
   {
-    "pro": "51129",
-    "status": "OPEN",
-    "pu_date": "2026-10-27",
-    "pu_city": "LAGRANGE",
-    "pu_state": "GA",
-    "pu_hours": "0800-1600",
-    "del_date": "2026-10-28",
-    "del_city": "RICHMOND",
-    "del_state": "VA",
-    "del_hours": "0800-1530",
-    "equipment": "26' Straight Box Truck",
-    "weight_lbs": 7000,
-    "carrier_rate": 900,
-    "updated_at": "2026-10-27T12:33:36.694969+00:00",
-    "lane": "LAGRANGE GA-RICHMOND VA"
-  },
-  {
     "pro": "51133",
     "status": "OPEN",
     "pu_date": "2026-10-27",
@@ -184,7 +167,7 @@
     "equipment": "Van",
     "weight_lbs": 25500,
     "carrier_rate": 2000,
-    "updated_at": "2026-10-26T18:35:08.964151+00:00",
+    "updated_at": "2026-10-27T12:56:18.638933+00:00",
     "lane": "STOCKERTOWN PA-CALHOUN GA"
   },
   {
@@ -356,23 +339,6 @@
     "carrier_rate": 1850,
     "updated_at": "2026-10-26T15:50:40.778463+00:00",
     "lane": "GARLAND TX-CALHOUN GA"
-  },
-  {
-    "pro": "51140",
-    "status": "OPEN",
-    "pu_date": "2026-11-02",
-    "pu_city": "RABUN GAP",
-    "pu_state": "GA",
-    "pu_hours": "0800-1545",
-    "del_date": "2026-11-03",
-    "del_city": "VALDESE",
-    "del_state": "NC",
-    "del_hours": "0800-1400",
-    "equipment": "Van",
-    "weight_lbs": 40000,
-    "carrier_rate": 650,
-    "updated_at": "2026-10-27T11:52:33.009176+00:00",
-    "lane": "RABUN GAP GA-VALDESE NC"
   },
   {
     "pro": "51043",
