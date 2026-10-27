@@ -51,6 +51,23 @@
     "lane": "WADESBORO NC-ATLANTA GA"
   },
   {
+    "pro": "51160",
+    "status": "OPEN",
+    "pu_date": "2026-10-27",
+    "pu_city": "OAKLAND",
+    "pu_state": "TN",
+    "pu_hours": "0800-1500",
+    "del_date": "2026-10-28",
+    "del_city": "SALISBURY",
+    "del_state": "NC",
+    "del_hours": "0600-1100",
+    "equipment": "Van Hazmat",
+    "weight_lbs": 44900,
+    "carrier_rate": 2800,
+    "updated_at": "2026-10-27T17:15:24.804441+00:00",
+    "lane": "OAKLAND TN-SALISBURY NC"
+  },
+  {
     "pro": "8890467",
     "status": "OPEN",
     "spot": true,
@@ -579,6 +596,40 @@
     "lane": "WADESBORO NC-ATLANTA GA"
   },
   {
+    "pro": "51026",
+    "status": "RELEASED",
+    "pu_date": "2026-10-20",
+    "pu_city": "OAKLAND",
+    "pu_state": "TN",
+    "pu_hours": "0800-1500",
+    "del_date": "2026-10-21",
+    "del_city": "SALISBURY",
+    "del_state": "NC",
+    "del_hours": "0600-1100",
+    "equipment": "Van Hazmat",
+    "weight_lbs": 44900,
+    "carrier_rate": 3000,
+    "updated_at": "2026-10-21T16:23:44.659885+00:00",
+    "lane": "OAKLAND TN-SALISBURY NC"
+  },
+  {
+    "pro": "51036",
+    "status": "RELEASED",
+    "pu_date": "2026-10-20",
+    "pu_city": "OAKLAND",
+    "pu_state": "TN",
+    "pu_hours": "0800-1500",
+    "del_date": "2026-10-21",
+    "del_city": "SALISBURY",
+    "del_state": "NC",
+    "del_hours": "0600-1100",
+    "equipment": "Van Hazmat",
+    "weight_lbs": 44900,
+    "carrier_rate": 3000,
+    "updated_at": "2026-10-22T15:03:05.684158+00:00",
+    "lane": "OAKLAND TN-SALISBURY NC"
+  },
+  {
     "pro": "50998",
     "status": "RELEASED",
     "pu_date": "2026-10-21",
@@ -696,6 +747,23 @@
     "carrier_rate": 900,
     "updated_at": "2026-10-27T12:44:15.781615+00:00",
     "lane": "WADESBORO NC-ATLANTA GA"
+  },
+  {
+    "pro": "51111",
+    "status": "RELEASED",
+    "pu_date": "2026-10-23",
+    "pu_city": "OAKLAND",
+    "pu_state": "TN",
+    "pu_hours": "0800-1500",
+    "del_date": "2026-10-26",
+    "del_city": "SALISBURY",
+    "del_state": "NC",
+    "del_hours": "0600-1100",
+    "equipment": "Van Hazmat",
+    "weight_lbs": 44900,
+    "carrier_rate": 3000,
+    "updated_at": "2026-10-26T15:07:31.297309+00:00",
+    "lane": "OAKLAND TN-SALISBURY NC"
   },
   {
     "pro": "51080",
