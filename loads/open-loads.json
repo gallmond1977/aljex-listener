@@ -17,6 +17,23 @@
     "lane": "JACKSONVILLE TX-MACON GA"
   },
   {
+    "pro": "51133",
+    "status": "OPEN",
+    "pu_date": "2026-10-27",
+    "pu_city": "UNION CITY",
+    "pu_state": "GA",
+    "pu_hours": "1300",
+    "del_date": "2026-10-28",
+    "del_city": "MIAMI",
+    "del_state": "FL",
+    "del_hours": "1400",
+    "equipment": "26' Straight Box Truck",
+    "weight_lbs": 4000,
+    "carrier_rate": 1300,
+    "updated_at": "2026-10-27T17:26:29.504080+00:00",
+    "lane": "UNION CITY GA-MIAMI FL"
+  },
+  {
     "pro": "51158",
     "status": "OPEN",
     "pu_date": "2026-10-27",
@@ -64,8 +81,25 @@
     "equipment": "Van Hazmat",
     "weight_lbs": 44900,
     "carrier_rate": 2800,
-    "updated_at": "2026-10-27T17:25:04.382280+00:00",
+    "updated_at": "2026-10-27T17:26:38.959649+00:00",
     "lane": "OAKLAND TN-SALISBURY NC"
+  },
+  {
+    "pro": "51161",
+    "status": "OPEN",
+    "pu_date": "2026-10-27",
+    "pu_city": "OAKLAND",
+    "pu_state": "TN",
+    "pu_hours": "0800-1500",
+    "del_date": "2026-10-28",
+    "del_city": "PHENIX CITY",
+    "del_state": "AL",
+    "del_hours": "0600-1100",
+    "equipment": "Van Hazmat",
+    "weight_lbs": 44940,
+    "carrier_rate": 2400,
+    "updated_at": "2026-10-27T17:29:47.616922+00:00",
+    "lane": "OAKLAND TN-PHENIX CITY AL"
   },
   {
     "pro": "8890467",
@@ -696,6 +730,23 @@
     "carrier_rate": 900,
     "updated_at": "2026-10-26T13:44:29.957507+00:00",
     "lane": "WADESBORO NC-ATLANTA GA"
+  },
+  {
+    "pro": "51089",
+    "status": "RELEASED",
+    "pu_date": "2026-10-22",
+    "pu_city": "OAKLAND",
+    "pu_state": "TN",
+    "pu_hours": "0800-1500",
+    "del_date": "2026-10-23",
+    "del_city": "PHENIX CITY",
+    "del_state": "AL",
+    "del_hours": "0600-1100",
+    "equipment": "Van Hazmat",
+    "weight_lbs": 44940,
+    "carrier_rate": 2150,
+    "updated_at": "2026-10-23T15:49:52.599749+00:00",
+    "lane": "OAKLAND TN-PHENIX CITY AL"
   },
   {
     "pro": "51033",
