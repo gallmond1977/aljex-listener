@@ -17,23 +17,6 @@
     "lane": "JACKSONVILLE TX-MACON GA"
   },
   {
-    "pro": "51133",
-    "status": "OPEN",
-    "pu_date": "2026-10-27",
-    "pu_city": "UNION CITY",
-    "pu_state": "GA",
-    "pu_hours": "1300",
-    "del_date": "2026-10-28",
-    "del_city": "MIAMI",
-    "del_state": "FL",
-    "del_hours": "1400",
-    "equipment": "26' Straight Box Truck",
-    "weight_lbs": 4000,
-    "carrier_rate": 1400,
-    "updated_at": "2026-10-27T18:40:44.707536+00:00",
-    "lane": "UNION CITY GA-MIAMI FL"
-  },
-  {
     "pro": "51158",
     "status": "OPEN",
     "pu_date": "2026-10-27",
@@ -132,8 +115,8 @@
     "del_hours": "0600-1100",
     "equipment": "Van Hazmat",
     "weight_lbs": 44940,
-    "carrier_rate": 2400,
-    "updated_at": "2026-10-27T19:20:00.618248+00:00",
+    "carrier_rate": 2100,
+    "updated_at": "2026-10-27T19:23:09.670180+00:00",
     "lane": "OAKLAND TN-PHENIX CITY AL"
   },
   {
