@@ -205,6 +205,23 @@
     "lane": "ALPHARETTA GA-AMARILLO TX"
   },
   {
+    "pro": "51141",
+    "status": "OPEN",
+    "pu_date": "2026-10-28",
+    "pu_city": "RICHMOND",
+    "pu_state": "VA",
+    "pu_hours": "0700-0730",
+    "del_date": "2026-10-28",
+    "del_city": "ASHLAND",
+    "del_state": "VA",
+    "del_hours": "CALL!",
+    "equipment": "26' Straight Box Truck",
+    "weight_lbs": 3000,
+    "carrier_rate": 200,
+    "updated_at": "2026-10-27T11:57:45.798424+00:00",
+    "lane": "RICHMOND VA-ASHLAND VA"
+  },
+  {
     "pro": "51051",
     "status": "OPEN",
     "pu_date": "2026-10-29",
@@ -363,15 +380,15 @@
     "pu_date": "2026-11-06",
     "pu_city": "MOUNT STERLING",
     "pu_state": "KY",
-    "pu_hours": "",
+    "pu_hours": "REQ",
     "del_date": "2026-11-09",
     "del_city": "MIRA LOMA",
     "del_state": "CA",
-    "del_hours": "REQ",
+    "del_hours": "1030",
     "equipment": "Van",
     "weight_lbs": 4800,
     "carrier_rate": null,
-    "updated_at": "2026-10-26T20:03:10.508403+00:00",
+    "updated_at": "2026-10-27T11:59:36.239651+00:00",
     "lane": "MOUNT STERLING KY-MIRA LOMA CA"
   },
   {
@@ -475,23 +492,6 @@
     "carrier_rate": null,
     "updated_at": "2026-10-22T18:15:37.833153+00:00",
     "lane": "LA PORTE TX-PIEDMONT SC"
-  },
-  {
-    "pro": "50941",
-    "status": "RELEASED",
-    "pu_date": "2026-10-13",
-    "pu_city": "ALPHARETTA",
-    "pu_state": "GA",
-    "pu_hours": "0900-1700",
-    "del_date": "2026-10-16",
-    "del_city": "AMARILLO",
-    "del_state": "TX",
-    "del_hours": "0800-1400",
-    "equipment": "Flatbed w/ Tarps",
-    "weight_lbs": 42000,
-    "carrier_rate": 5800,
-    "updated_at": "2026-10-20T11:58:33.599793+00:00",
-    "lane": "ALPHARETTA GA-AMARILLO TX"
   },
   {
     "pro": "51012",
