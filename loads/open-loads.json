@@ -64,7 +64,7 @@
     "equipment": "Van",
     "weight_lbs": 44000,
     "carrier_rate": 900,
-    "updated_at": "2026-10-27T16:54:15.365177+00:00",
+    "updated_at": "2026-10-27T19:03:42.776346+00:00",
     "lane": "WADESBORO NC-ATLANTA GA"
   },
   {
@@ -120,23 +120,6 @@
     "lane": "MC MINNVILLE TN-OMAHA NE"
   },
   {
-    "pro": "51132",
-    "status": "OPEN",
-    "pu_date": "2026-10-28",
-    "pu_city": "STOCKERTOWN",
-    "pu_state": "PA",
-    "pu_hours": "0700-1600",
-    "del_date": "2026-10-29",
-    "del_city": "CALHOUN",
-    "del_state": "GA",
-    "del_hours": "0730-1400",
-    "equipment": "Van",
-    "weight_lbs": 25500,
-    "carrier_rate": 2000,
-    "updated_at": "2026-10-27T12:56:18.638933+00:00",
-    "lane": "STOCKERTOWN PA-CALHOUN GA"
-  },
-  {
     "pro": "51144",
     "status": "OPEN",
     "pu_date": "2026-10-28",
@@ -186,6 +169,23 @@
     "carrier_rate": 1800,
     "updated_at": "2026-10-27T18:41:47.257860+00:00",
     "lane": "GATESVILLE NC-NORTH PALM BEACH FL"
+  },
+  {
+    "pro": "51164",
+    "status": "OPEN",
+    "pu_date": "2026-10-28",
+    "pu_city": "POSEYVILLE",
+    "pu_state": "IN",
+    "pu_hours": "0700-1500",
+    "del_date": "2026-10-28",
+    "del_city": "LOUISVILLE",
+    "del_state": "KY",
+    "del_hours": "0800-1400",
+    "equipment": "Flatbed",
+    "weight_lbs": 47000,
+    "carrier_rate": 1000,
+    "updated_at": "2026-10-27T19:04:51.301837+00:00",
+    "lane": "POSEYVILLE IN-LOUISVILLE KY"
   },
   {
     "pro": "51051",
