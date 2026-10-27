@@ -47,7 +47,7 @@
     "equipment": "Van",
     "weight_lbs": 44500,
     "carrier_rate": 2000,
-    "updated_at": "2026-10-26T20:41:09.313556+00:00",
+    "updated_at": "2026-10-27T12:31:58.037982+00:00",
     "lane": "JACKSONVILLE TX-MACON GA"
   },
   {
@@ -90,7 +90,7 @@
     "pu_date": "2026-10-27",
     "pu_city": "LAGRANGE",
     "pu_state": "GA",
-    "pu_hours": "1200-1600",
+    "pu_hours": "0800-1600",
     "del_date": "2026-10-28",
     "del_city": "RICHMOND",
     "del_state": "VA",
@@ -98,7 +98,7 @@
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 7000,
     "carrier_rate": 900,
-    "updated_at": "2026-10-26T20:04:04.892251+00:00",
+    "updated_at": "2026-10-27T12:33:36.694969+00:00",
     "lane": "LAGRANGE GA-RICHMOND VA"
   },
   {
