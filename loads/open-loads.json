@@ -34,6 +34,40 @@
     "lane": "BELCAMP MD-WILLIAMSBURG VA"
   },
   {
+    "pro": "51149",
+    "status": "OPEN",
+    "pu_date": "2026-10-27",
+    "pu_city": "JACKSONVILLE",
+    "pu_state": "TX",
+    "pu_hours": "0800-1500",
+    "del_date": "2026-10-28",
+    "del_city": "ENDICOTT",
+    "del_state": "NE",
+    "del_hours": "0700-1530",
+    "equipment": "Van",
+    "weight_lbs": 44000,
+    "carrier_rate": 1900,
+    "updated_at": "2026-10-27T14:45:06.860274+00:00",
+    "lane": "JACKSONVILLE TX-ENDICOTT NE"
+  },
+  {
+    "pro": "51151",
+    "status": "OPEN",
+    "pu_date": "2026-10-27",
+    "pu_city": "BUENA VISTA",
+    "pu_state": "GA",
+    "pu_hours": "1200-1400",
+    "del_date": "2026-10-28",
+    "del_city": "INDIAN TRAIL",
+    "del_state": "NC",
+    "del_hours": "0700-1500",
+    "equipment": "Van",
+    "weight_lbs": 43500,
+    "carrier_rate": 1100,
+    "updated_at": "2026-10-27T14:44:15.726113+00:00",
+    "lane": "BUENA VISTA GA-INDIAN TRAIL NC"
+  },
+  {
     "pro": "8890467",
     "status": "OPEN",
     "spot": true,
@@ -101,6 +135,23 @@
     "carrier_rate": null,
     "updated_at": "2026-10-27T13:21:44.763259+00:00",
     "lane": "CARTERSVILLE GA-MACON GA"
+  },
+  {
+    "pro": "51150",
+    "status": "OPEN",
+    "pu_date": "2026-10-28",
+    "pu_city": "COLUMBUS",
+    "pu_state": "GA",
+    "pu_hours": "0800-1500",
+    "del_date": "2026-10-29",
+    "del_city": "CONCORD",
+    "del_state": "NC",
+    "del_hours": "",
+    "equipment": "Flatbed Hot Shot",
+    "weight_lbs": 7600,
+    "carrier_rate": null,
+    "updated_at": "2026-10-27T14:40:46.163010+00:00",
+    "lane": "COLUMBUS GA-CONCORD NC"
   },
   {
     "pro": "51051",
@@ -509,6 +560,23 @@
     "carrier_rate": 1000,
     "updated_at": "2026-10-26T11:53:12.575993+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
+  },
+  {
+    "pro": "51102",
+    "status": "DELIVERED",
+    "pu_date": "2026-10-23",
+    "pu_city": "BUENA VISTA",
+    "pu_state": "GA",
+    "pu_hours": "1200-1400",
+    "del_date": "2026-10-26",
+    "del_city": "INDIAN TRAIL",
+    "del_state": "NC",
+    "del_hours": "0700-1500",
+    "equipment": "Van",
+    "weight_lbs": 43500,
+    "carrier_rate": 1200,
+    "updated_at": "2026-10-26T15:44:20.127057+00:00",
+    "lane": "BUENA VISTA GA-INDIAN TRAIL NC"
   },
   {
     "pro": "51109",
