@@ -63,26 +63,9 @@
     "del_hours": "1400",
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 4000,
-    "carrier_rate": 1200,
-    "updated_at": "2026-10-26T18:47:32.508447+00:00",
+    "carrier_rate": 1400,
+    "updated_at": "2026-10-27T13:49:12.958763+00:00",
     "lane": "UNION CITY GA-MIAMI FL"
-  },
-  {
-    "pro": "51137",
-    "status": "OPEN",
-    "pu_date": "2026-10-27",
-    "pu_city": "WINCHESTER",
-    "pu_state": "KY",
-    "pu_hours": "1200-1500",
-    "del_date": "2026-10-28",
-    "del_city": "UXBRIDGE",
-    "del_state": "MA",
-    "del_hours": "1700",
-    "equipment": "Van",
-    "weight_lbs": 5200,
-    "carrier_rate": 3600,
-    "updated_at": "2026-10-27T13:39:59.707934+00:00",
-    "lane": "WINCHESTER KY-UXBRIDGE MA"
   },
   {
     "pro": "8890467",
@@ -354,7 +337,7 @@
     "equipment": "Van",
     "weight_lbs": 42000,
     "carrier_rate": null,
-    "updated_at": "2026-10-27T13:39:11.093345+00:00",
+    "updated_at": "2026-10-27T13:50:11.025671+00:00",
     "lane": "DEEP GAP NC-CHARLESTON SC"
   },
   {
