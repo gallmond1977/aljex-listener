@@ -171,6 +171,23 @@
     "lane": "COLUMBUS GA-CONCORD NC"
   },
   {
+    "pro": "51162",
+    "status": "OPEN",
+    "pu_date": "2026-10-28",
+    "pu_city": "MADISON",
+    "pu_state": "MS",
+    "pu_hours": "0800-1500",
+    "del_date": "",
+    "del_city": "AMORY",
+    "del_state": "MS",
+    "del_hours": "0800-1500",
+    "equipment": "Flatbed",
+    "weight_lbs": 20000,
+    "carrier_rate": 800,
+    "updated_at": "2026-10-27T18:09:01.219348+00:00",
+    "lane": "MADISON MS-AMORY MS"
+  },
+  {
     "pro": "51051",
     "status": "OPEN",
     "pu_date": "2026-10-29",
