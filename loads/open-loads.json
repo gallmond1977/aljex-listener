@@ -103,6 +103,23 @@
     "lane": "CARTERSVILLE GA-MACON GA"
   },
   {
+    "pro": "51150",
+    "status": "OPEN",
+    "pu_date": "2026-10-28",
+    "pu_city": "COLUMBUS",
+    "pu_state": "GA",
+    "pu_hours": "0800-1500",
+    "del_date": "2026-10-29",
+    "del_city": "CONCORD",
+    "del_state": "NC",
+    "del_hours": "CALL",
+    "equipment": "Flatbed Hot Shot",
+    "weight_lbs": 17139,
+    "carrier_rate": 1000,
+    "updated_at": "2026-10-27T17:00:08.110688+00:00",
+    "lane": "COLUMBUS GA-CONCORD NC"
+  },
+  {
     "pro": "51051",
     "status": "OPEN",
     "pu_date": "2026-10-29",
@@ -135,6 +152,23 @@
     "carrier_rate": null,
     "updated_at": "2026-10-23T19:20:09.337062+00:00",
     "lane": "KENTWOOD MI-OAKLAND TN"
+  },
+  {
+    "pro": "51147",
+    "status": "OPEN",
+    "pu_date": "2026-10-29",
+    "pu_city": "WINCHESTER",
+    "pu_state": "KY",
+    "pu_hours": "0800-1500",
+    "del_date": "2026-10-30",
+    "del_city": "JOLIET",
+    "del_state": "IL",
+    "del_hours": "1300",
+    "equipment": "Van",
+    "weight_lbs": 14580,
+    "carrier_rate": 1000,
+    "updated_at": "2026-10-27T16:59:31.517786+00:00",
+    "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
     "pro": "51120",
@@ -203,23 +237,6 @@
     "carrier_rate": 400,
     "updated_at": "2026-10-27T14:22:43.547920+00:00",
     "lane": "FREDERICKSBURG VA-CHESAPEAKE VA"
-  },
-  {
-    "pro": "51147",
-    "status": "OPEN",
-    "pu_date": "2026-10-30",
-    "pu_city": "WINCHESTER",
-    "pu_state": "KY",
-    "pu_hours": "0800-1130",
-    "del_date": "2026-10-30",
-    "del_city": "JOLIET",
-    "del_state": "IL",
-    "del_hours": "2100",
-    "equipment": "Van",
-    "weight_lbs": 14580,
-    "carrier_rate": 1000,
-    "updated_at": "2026-10-27T16:53:12.582015+00:00",
-    "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
     "pro": "50542",
