@@ -1,22 +1,5 @@
 [
   {
-    "pro": "50900",
-    "status": "OPEN",
-    "pu_date": "2026-10-27",
-    "pu_city": "GRAND PRAIRIE",
-    "pu_state": "TX",
-    "pu_hours": "0800-1300",
-    "del_date": "2026-10-28",
-    "del_city": "COLUMBUS",
-    "del_state": "GA",
-    "del_hours": "0800-1400",
-    "equipment": "Van",
-    "weight_lbs": 43000,
-    "carrier_rate": 1900,
-    "updated_at": "2026-10-27T13:19:14.339607+00:00",
-    "lane": "GRAND PRAIRIE TX-COLUMBUS GA"
-  },
-  {
     "pro": "51101",
     "status": "OPEN",
     "pu_date": "2026-10-27",
