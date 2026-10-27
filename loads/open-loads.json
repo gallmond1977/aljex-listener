@@ -68,6 +68,23 @@
     "lane": "BELCAMP MD-WILLIAMSBURG VA"
   },
   {
+    "pro": "51125",
+    "status": "OPEN",
+    "pu_date": "2026-10-27",
+    "pu_city": "SAVANNAH",
+    "pu_state": "GA",
+    "pu_hours": "0800",
+    "del_date": "2026-10-27",
+    "del_city": "LAWRENCEVILLE",
+    "del_state": "GA",
+    "del_hours": "0900-1500",
+    "equipment": "Flatbed Hot Shot",
+    "weight_lbs": 4000,
+    "carrier_rate": 700,
+    "updated_at": "2026-10-27T12:04:13.208914+00:00",
+    "lane": "SAVANNAH GA-LAWRENCEVILLE GA"
+  },
+  {
     "pro": "51129",
     "status": "OPEN",
     "pu_date": "2026-10-27",
@@ -220,6 +237,23 @@
     "carrier_rate": 200,
     "updated_at": "2026-10-27T11:57:45.798424+00:00",
     "lane": "RICHMOND VA-ASHLAND VA"
+  },
+  {
+    "pro": "51142",
+    "status": "OPEN",
+    "pu_date": "2026-10-28",
+    "pu_city": "OPELIKA",
+    "pu_state": "AL",
+    "pu_hours": "1300-1500",
+    "del_date": "2026-10-28",
+    "del_city": "COLUMBIA",
+    "del_state": "AL",
+    "del_hours": "0530-1900",
+    "equipment": "Flatbed",
+    "weight_lbs": 47000,
+    "carrier_rate": 1000,
+    "updated_at": "2026-10-27T12:05:05.772831+00:00",
+    "lane": "OPELIKA AL-COLUMBIA AL"
   },
   {
     "pro": "51051",
@@ -511,6 +545,23 @@
     "lane": "ALPHARETTA GA-AMARILLO TX"
   },
   {
+    "pro": "51035",
+    "status": "RELEASED",
+    "pu_date": "2026-10-20",
+    "pu_city": "OPELIKA",
+    "pu_state": "AL",
+    "pu_hours": "1300-1500",
+    "del_date": "2026-10-20",
+    "del_city": "COLUMBIA",
+    "del_state": "AL",
+    "del_hours": "0530-1900",
+    "equipment": "Flatbed",
+    "weight_lbs": 47000,
+    "carrier_rate": 1000,
+    "updated_at": "2026-10-26T13:45:44.469079+00:00",
+    "lane": "OPELIKA AL-COLUMBIA AL"
+  },
+  {
     "pro": "51056",
     "status": "RELEASED",
     "pu_date": "2026-10-21",
@@ -543,6 +594,23 @@
     "carrier_rate": 450,
     "updated_at": "2026-10-26T15:35:34.096101+00:00",
     "lane": "ATLANTA GA-DECATUR GA"
+  },
+  {
+    "pro": "51057",
+    "status": "RELEASED",
+    "pu_date": "2026-10-22",
+    "pu_city": "OPELIKA",
+    "pu_state": "AL",
+    "pu_hours": "1300-1500",
+    "del_date": "2026-10-23",
+    "del_city": "COLUMBIA",
+    "del_state": "AL",
+    "del_hours": "0530-1900",
+    "equipment": "Flatbed",
+    "weight_lbs": 47000,
+    "carrier_rate": 1000,
+    "updated_at": "2026-10-26T13:55:29.138515+00:00",
+    "lane": "OPELIKA AL-COLUMBIA AL"
   },
   {
     "pro": "51028",
