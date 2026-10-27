@@ -222,6 +222,23 @@
     "lane": "RICHMOND VA-ASHLAND VA"
   },
   {
+    "pro": "51143",
+    "status": "OPEN",
+    "pu_date": "2026-10-28",
+    "pu_city": "ALPHARETTA",
+    "pu_state": "GA",
+    "pu_hours": "1200-1800",
+    "del_date": "2026-10-29",
+    "del_city": "BELCAMP",
+    "del_state": "MD",
+    "del_hours": "0700-1500",
+    "equipment": "Conestoga",
+    "weight_lbs": 42000,
+    "carrier_rate": 3300,
+    "updated_at": "2026-10-27T12:51:47.389348+00:00",
+    "lane": "ALPHARETTA GA-BELCAMP MD"
+  },
+  {
     "pro": "51051",
     "status": "OPEN",
     "pu_date": "2026-10-29",
