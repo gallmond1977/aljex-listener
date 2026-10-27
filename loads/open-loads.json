@@ -78,11 +78,11 @@
     "del_date": "2026-10-28",
     "del_city": "ASHLAND",
     "del_state": "VA",
-    "del_hours": "CALL!",
+    "del_hours": "0700-1100",
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 3000,
     "carrier_rate": 200,
-    "updated_at": "2026-10-27T11:57:45.798424+00:00",
+    "updated_at": "2026-10-27T14:22:03.371977+00:00",
     "lane": "RICHMOND VA-ASHLAND VA"
   },
   {
@@ -195,14 +195,14 @@
     "pu_state": "VA",
     "pu_hours": "0700-1000",
     "del_date": "2026-10-30",
-    "del_city": "CAPE CHARLES",
+    "del_city": "CHESAPEAKE",
     "del_state": "VA",
     "del_hours": "CALL!",
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 255,
-    "carrier_rate": null,
-    "updated_at": "2026-10-27T14:09:31.661161+00:00",
-    "lane": "FREDERICKSBURG VA-CAPE CHARLES VA"
+    "carrier_rate": 400,
+    "updated_at": "2026-10-27T14:22:43.547920+00:00",
+    "lane": "FREDERICKSBURG VA-CHESAPEAKE VA"
   },
   {
     "pro": "51147",
@@ -214,11 +214,11 @@
     "del_date": "2026-10-30",
     "del_city": "JOLIET",
     "del_state": "IL",
-    "del_hours": "NEED APPT",
+    "del_hours": "AD REQD",
     "equipment": "Van",
-    "weight_lbs": 9600,
-    "carrier_rate": 1100,
-    "updated_at": "2026-10-27T14:19:21.056109+00:00",
+    "weight_lbs": 14580,
+    "carrier_rate": 1000,
+    "updated_at": "2026-10-27T14:24:43.855211+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
@@ -254,6 +254,23 @@
     "carrier_rate": 1850,
     "updated_at": "2026-10-26T15:50:40.778463+00:00",
     "lane": "GARLAND TX-CALHOUN GA"
+  },
+  {
+    "pro": "51148",
+    "status": "OPEN",
+    "pu_date": "2026-11-02",
+    "pu_city": "WINCHESTER",
+    "pu_state": "KY",
+    "pu_hours": "0800-1030",
+    "del_date": "2026-11-02",
+    "del_city": "JOLIET",
+    "del_state": "IL",
+    "del_hours": "AD REQD",
+    "equipment": "Van",
+    "weight_lbs": 14580,
+    "carrier_rate": 1000,
+    "updated_at": "2026-10-27T14:24:47.637363+00:00",
+    "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
     "pro": "51043",
