@@ -30,7 +30,7 @@
     "equipment": "Van",
     "weight_lbs": 40949,
     "carrier_rate": 1850,
-    "updated_at": "2026-10-26T14:44:48.155865+00:00",
+    "updated_at": "2026-10-27T12:39:46.771458+00:00",
     "lane": "GARLAND TX-CALHOUN GA"
   },
   {
@@ -66,23 +66,6 @@
     "carrier_rate": 600,
     "updated_at": "2026-10-27T12:17:32.333163+00:00",
     "lane": "BELCAMP MD-WILLIAMSBURG VA"
-  },
-  {
-    "pro": "51125",
-    "status": "OPEN",
-    "pu_date": "2026-10-27",
-    "pu_city": "SAVANNAH",
-    "pu_state": "GA",
-    "pu_hours": "0800",
-    "del_date": "2026-10-27",
-    "del_city": "LAWRENCEVILLE",
-    "del_state": "GA",
-    "del_hours": "0900-1500",
-    "equipment": "Flatbed Hot Shot",
-    "weight_lbs": 4000,
-    "carrier_rate": 700,
-    "updated_at": "2026-10-27T12:09:20.240392+00:00",
-    "lane": "SAVANNAH GA-LAWRENCEVILLE GA"
   },
   {
     "pro": "51129",
