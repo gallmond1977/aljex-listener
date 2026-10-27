@@ -17,23 +17,6 @@
     "lane": "JACKSONVILLE TX-MACON GA"
   },
   {
-    "pro": "51149",
-    "status": "OPEN",
-    "pu_date": "2026-10-27",
-    "pu_city": "JACKSONVILLE",
-    "pu_state": "TX",
-    "pu_hours": "0800-1500",
-    "del_date": "2026-10-28",
-    "del_city": "ENDICOTT",
-    "del_state": "NE",
-    "del_hours": "0700-1530",
-    "equipment": "Van",
-    "weight_lbs": 44000,
-    "carrier_rate": 1900,
-    "updated_at": "2026-10-27T14:48:20.866846+00:00",
-    "lane": "JACKSONVILLE TX-ENDICOTT NE"
-  },
-  {
     "pro": "8890467",
     "status": "OPEN",
     "spot": true,
@@ -115,8 +98,8 @@
     "del_hours": "",
     "equipment": "Flatbed Hot Shot",
     "weight_lbs": 7600,
-    "carrier_rate": null,
-    "updated_at": "2026-10-27T14:57:23.723997+00:00",
+    "carrier_rate": 1000,
+    "updated_at": "2026-10-27T15:06:49.277976+00:00",
     "lane": "COLUMBUS GA-CONCORD NC"
   },
   {
