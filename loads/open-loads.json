@@ -29,8 +29,8 @@
     "del_hours": "1400",
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 4000,
-    "carrier_rate": 1300,
-    "updated_at": "2026-10-27T18:05:15.287365+00:00",
+    "carrier_rate": 1400,
+    "updated_at": "2026-10-27T18:25:54.920695+00:00",
     "lane": "UNION CITY GA-MIAMI FL"
   },
   {
@@ -169,23 +169,6 @@
     "carrier_rate": 1000,
     "updated_at": "2026-10-27T17:01:23.928054+00:00",
     "lane": "COLUMBUS GA-CONCORD NC"
-  },
-  {
-    "pro": "51162",
-    "status": "OPEN",
-    "pu_date": "2026-10-28",
-    "pu_city": "MADISON",
-    "pu_state": "MS",
-    "pu_hours": "0700-1600",
-    "del_date": "",
-    "del_city": "AMORY",
-    "del_state": "MS",
-    "del_hours": "0700-1600",
-    "equipment": "Flatbed",
-    "weight_lbs": 20000,
-    "carrier_rate": 800,
-    "updated_at": "2026-10-27T18:24:27.981686+00:00",
-    "lane": "MADISON MS-AMORY MS"
   },
   {
     "pro": "51051",
