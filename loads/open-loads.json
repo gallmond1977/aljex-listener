@@ -73,15 +73,15 @@
     "pu_date": "2026-10-27",
     "pu_city": "WINCHESTER",
     "pu_state": "KY",
-    "pu_hours": "",
+    "pu_hours": "1200-1500",
     "del_date": "2026-10-28",
     "del_city": "UXBRIDGE",
     "del_state": "MA",
     "del_hours": "1700",
     "equipment": "Van",
     "weight_lbs": 5200,
-    "carrier_rate": null,
-    "updated_at": "2026-10-27T13:35:03.976425+00:00",
+    "carrier_rate": 3600,
+    "updated_at": "2026-10-27T13:39:59.707934+00:00",
     "lane": "WINCHESTER KY-UXBRIDGE MA"
   },
   {
@@ -354,7 +354,7 @@
     "equipment": "Van",
     "weight_lbs": 42000,
     "carrier_rate": null,
-    "updated_at": "2026-10-27T13:35:09.097512+00:00",
+    "updated_at": "2026-10-27T13:39:11.093345+00:00",
     "lane": "DEEP GAP NC-CHARLESTON SC"
   },
   {
