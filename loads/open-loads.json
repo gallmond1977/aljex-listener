@@ -222,6 +222,23 @@
     "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
+    "pro": "51167",
+    "status": "OPEN",
+    "pu_date": "2026-10-29",
+    "pu_city": "COLUMBUS",
+    "pu_state": "GA",
+    "pu_hours": "0800-1500",
+    "del_date": "2026-11-02",
+    "del_city": "COLUMBUS",
+    "del_state": "WI",
+    "del_hours": "0700",
+    "equipment": "Van",
+    "weight_lbs": 40000,
+    "carrier_rate": 1900,
+    "updated_at": "2026-10-27T19:48:17.649224+00:00",
+    "lane": "COLUMBUS GA-COLUMBUS WI"
+  },
+  {
     "pro": "51120",
     "status": "OPEN",
     "pu_date": "2026-10-30",
@@ -405,7 +422,7 @@
     "equipment": "Van",
     "weight_lbs": 35000,
     "carrier_rate": 4200,
-    "updated_at": "2026-10-27T19:41:07.131944+00:00",
+    "updated_at": "2026-10-27T19:47:44.822525+00:00",
     "lane": "PHENIX CITY AL-ROCKLAND ME"
   },
   {
