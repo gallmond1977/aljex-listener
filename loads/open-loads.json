@@ -30,7 +30,7 @@
     "equipment": "Flatbed w/ Tarps",
     "weight_lbs": 47500,
     "carrier_rate": 4700,
-    "updated_at": "2026-10-27T16:27:40.773187+00:00",
+    "updated_at": "2026-10-27T16:41:04.587070+00:00",
     "lane": "PORT ANGELES WA-IRWINDALE CA"
   },
   {
@@ -46,8 +46,8 @@
     "del_hours": "0800-1600",
     "equipment": "Van",
     "weight_lbs": 44000,
-    "carrier_rate": null,
-    "updated_at": "2026-10-27T16:37:37.841314+00:00",
+    "carrier_rate": 900,
+    "updated_at": "2026-10-27T16:41:37.021609+00:00",
     "lane": "WADESBORO NC-ATLANTA GA"
   },
   {
