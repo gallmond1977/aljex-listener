@@ -30,7 +30,7 @@
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 4000,
     "carrier_rate": 1400,
-    "updated_at": "2026-10-27T18:25:54.920695+00:00",
+    "updated_at": "2026-10-27T18:40:44.707536+00:00",
     "lane": "UNION CITY GA-MIAMI FL"
   },
   {
@@ -98,7 +98,7 @@
     "equipment": "Van Hazmat",
     "weight_lbs": 44940,
     "carrier_rate": 2400,
-    "updated_at": "2026-10-27T18:40:11.409873+00:00",
+    "updated_at": "2026-10-27T18:40:33.283046+00:00",
     "lane": "OAKLAND TN-PHENIX CITY AL"
   },
   {
@@ -169,6 +169,23 @@
     "carrier_rate": 1000,
     "updated_at": "2026-10-27T17:01:23.928054+00:00",
     "lane": "COLUMBUS GA-CONCORD NC"
+  },
+  {
+    "pro": "51163",
+    "status": "OPEN",
+    "pu_date": "2026-10-28",
+    "pu_city": "GATESVILLE",
+    "pu_state": "NC",
+    "pu_hours": "0800-1400",
+    "del_date": "2026-10-29",
+    "del_city": "NORTH PALM BEACH",
+    "del_state": "FL",
+    "del_hours": "0800-1200",
+    "equipment": "26' Straight Box Truck",
+    "weight_lbs": 3700,
+    "carrier_rate": 1800,
+    "updated_at": "2026-10-27T18:41:47.257860+00:00",
+    "lane": "GATESVILLE NC-NORTH PALM BEACH FL"
   },
   {
     "pro": "51051",
