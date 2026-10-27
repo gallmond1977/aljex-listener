@@ -13,7 +13,7 @@
     "equipment": "Van",
     "weight_lbs": 44500,
     "carrier_rate": 2300,
-    "updated_at": "2026-10-27T15:36:52.085108+00:00",
+    "updated_at": "2026-10-27T19:41:03.224614+00:00",
     "lane": "JACKSONVILLE TX-MACON GA"
   },
   {
@@ -268,8 +268,8 @@
     "del_hours": "",
     "equipment": "Van",
     "weight_lbs": 5200,
-    "carrier_rate": 3800,
-    "updated_at": "2026-10-27T15:55:31.508819+00:00",
+    "carrier_rate": 3600,
+    "updated_at": "2026-10-27T19:41:48.583996+00:00",
     "lane": "WINCHESTER KY-UXBRIDGE MA"
   },
   {
@@ -405,7 +405,7 @@
     "equipment": "Van",
     "weight_lbs": 35000,
     "carrier_rate": 4200,
-    "updated_at": "2026-10-27T19:32:49.386965+00:00",
+    "updated_at": "2026-10-27T19:41:07.131944+00:00",
     "lane": "PHENIX CITY AL-ROCKLAND ME"
   },
   {
