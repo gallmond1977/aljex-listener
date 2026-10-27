@@ -17,6 +17,23 @@
     "lane": "JACKSONVILLE TX-MACON GA"
   },
   {
+    "pro": "51156",
+    "status": "OPEN",
+    "pu_date": "2026-10-27",
+    "pu_city": "KITTANNING",
+    "pu_state": "PA",
+    "pu_hours": "0900-1400",
+    "del_date": "2026-10-28",
+    "del_city": "LATROBE",
+    "del_state": "PA",
+    "del_hours": "0900-1500",
+    "equipment": "26' Straight Box Truck",
+    "weight_lbs": 3000,
+    "carrier_rate": 350,
+    "updated_at": "2026-10-27T15:53:55.450137+00:00",
+    "lane": "KITTANNING PA-LATROBE PA"
+  },
+  {
     "pro": "8890467",
     "status": "OPEN",
     "spot": true,
@@ -137,6 +154,23 @@
     "lane": "MONTEZUMA GA-TRACY CA"
   },
   {
+    "pro": "51137",
+    "status": "OPEN",
+    "pu_date": "2026-10-30",
+    "pu_city": "WINCHESTER",
+    "pu_state": "KY",
+    "pu_hours": "1200-1500",
+    "del_date": "2026-11-01",
+    "del_city": "UXBRIDGE",
+    "del_state": "MA",
+    "del_hours": "",
+    "equipment": "Van",
+    "weight_lbs": 5200,
+    "carrier_rate": 3800,
+    "updated_at": "2026-10-27T15:54:42.938677+00:00",
+    "lane": "WINCHESTER KY-UXBRIDGE MA"
+  },
+  {
     "pro": "51146",
     "status": "OPEN",
     "pu_date": "2026-10-30",
@@ -163,11 +197,11 @@
     "del_date": "2026-10-30",
     "del_city": "JOLIET",
     "del_state": "IL",
-    "del_hours": "AD REQD",
+    "del_hours": "2100",
     "equipment": "Van",
     "weight_lbs": 14580,
     "carrier_rate": 1000,
-    "updated_at": "2026-10-27T14:33:57.672677+00:00",
+    "updated_at": "2026-10-27T15:54:59.750762+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
