@@ -116,7 +116,7 @@
     "equipment": "Flatbed Hot Shot",
     "weight_lbs": 17139,
     "carrier_rate": 1000,
-    "updated_at": "2026-10-27T17:00:08.110688+00:00",
+    "updated_at": "2026-10-27T17:01:23.928054+00:00",
     "lane": "COLUMBUS GA-CONCORD NC"
   },
   {
@@ -167,7 +167,7 @@
     "equipment": "Van",
     "weight_lbs": 14580,
     "carrier_rate": 1000,
-    "updated_at": "2026-10-27T16:59:31.517786+00:00",
+    "updated_at": "2026-10-27T17:02:28.805279+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
@@ -750,7 +750,7 @@
   },
   {
     "pro": "51037",
-    "status": "DISPATCHED",
+    "status": "PICKUP",
     "pu_date": "2026-10-27",
     "pu_city": "GARLAND",
     "pu_state": "TX",
@@ -762,7 +762,7 @@
     "equipment": "Van",
     "weight_lbs": 40949,
     "carrier_rate": 2000,
-    "updated_at": "2026-10-27T16:31:13.987747+00:00",
+    "updated_at": "2026-10-27T17:00:26.994698+00:00",
     "lane": "GARLAND TX-CALHOUN GA"
   },
   {
