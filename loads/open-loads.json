@@ -133,25 +133,8 @@
     "equipment": "Flatbed Hot Shot",
     "weight_lbs": 17139,
     "carrier_rate": 1000,
-    "updated_at": "2026-10-27T17:01:23.928054+00:00",
+    "updated_at": "2026-10-27T19:13:49.152325+00:00",
     "lane": "COLUMBUS GA-CONCORD NC"
-  },
-  {
-    "pro": "51163",
-    "status": "OPEN",
-    "pu_date": "2026-10-28",
-    "pu_city": "GATESVILLE",
-    "pu_state": "NC",
-    "pu_hours": "0800-1400",
-    "del_date": "2026-10-29",
-    "del_city": "NORTH PALM BEACH",
-    "del_state": "FL",
-    "del_hours": "0800-1200",
-    "equipment": "26' Straight Box Truck",
-    "weight_lbs": 3700,
-    "carrier_rate": 1800,
-    "updated_at": "2026-10-27T18:41:47.257860+00:00",
-    "lane": "GATESVILLE NC-NORTH PALM BEACH FL"
   },
   {
     "pro": "51164",
@@ -167,7 +150,7 @@
     "equipment": "Flatbed",
     "weight_lbs": 47000,
     "carrier_rate": 1000,
-    "updated_at": "2026-10-27T19:10:05.726849+00:00",
+    "updated_at": "2026-10-27T19:15:13.400828+00:00",
     "lane": "POSEYVILLE IN-LOUISVILLE KY"
   },
   {
