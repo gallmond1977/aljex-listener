@@ -30,7 +30,7 @@
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 1000,
     "carrier_rate": 700,
-    "updated_at": "2026-10-27T14:27:12.610623+00:00",
+    "updated_at": "2026-10-27T14:48:43.560699+00:00",
     "lane": "BELCAMP MD-WILLIAMSBURG VA"
   },
   {
@@ -47,7 +47,7 @@
     "equipment": "Van",
     "weight_lbs": 44000,
     "carrier_rate": 1900,
-    "updated_at": "2026-10-27T14:45:06.860274+00:00",
+    "updated_at": "2026-10-27T14:48:20.866846+00:00",
     "lane": "JACKSONVILLE TX-ENDICOTT NE"
   },
   {
@@ -64,7 +64,7 @@
     "equipment": "Van",
     "weight_lbs": 43500,
     "carrier_rate": 1100,
-    "updated_at": "2026-10-27T14:44:15.726113+00:00",
+    "updated_at": "2026-10-27T14:47:12.909165+00:00",
     "lane": "BUENA VISTA GA-INDIAN TRAIL NC"
   },
   {
