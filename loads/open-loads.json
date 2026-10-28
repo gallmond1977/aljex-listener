@@ -358,6 +358,23 @@
     "lane": "RICHMOND VA-LUTHERVILLE TIMONIUM MD"
   },
   {
+    "pro": "51170",
+    "status": "OPEN",
+    "pu_date": "2026-11-02",
+    "pu_city": "STEVENS",
+    "pu_state": "PA",
+    "pu_hours": "0700-1500",
+    "del_date": "2026-11-03",
+    "del_city": "HAYMARKET",
+    "del_state": "VA",
+    "del_hours": "0830",
+    "equipment": "Flatbed",
+    "weight_lbs": 38000,
+    "carrier_rate": null,
+    "updated_at": "2026-10-28T12:34:23.206647+00:00",
+    "lane": "STEVENS PA-HAYMARKET VA"
+  },
+  {
     "pro": "51043",
     "status": "OPEN",
     "pu_date": "2026-11-04",
