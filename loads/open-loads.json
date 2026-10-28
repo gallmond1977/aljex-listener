@@ -17,23 +17,6 @@
     "lane": "PORT ANGELES WA-IRWINDALE CA"
   },
   {
-    "pro": "51177",
-    "status": "OPEN",
-    "pu_date": "2026-10-28",
-    "pu_city": "WADESBORO",
-    "pu_state": "NC",
-    "pu_hours": "0730-1630",
-    "del_date": "2026-10-29",
-    "del_city": "ATLANTA",
-    "del_state": "GA",
-    "del_hours": "0800-1600",
-    "equipment": "Van",
-    "weight_lbs": 44000,
-    "carrier_rate": 850,
-    "updated_at": "2026-10-28T17:19:39.698738+00:00",
-    "lane": "WADESBORO NC-ATLANTA GA"
-  },
-  {
     "pro": "51147",
     "status": "OPEN",
     "pu_date": "2026-10-29",
@@ -151,6 +134,23 @@
     "carrier_rate": 1600,
     "updated_at": "2026-10-28T19:16:12.565537+00:00",
     "lane": "SOUTH BOSTON VA-HALEYVILLE AL"
+  },
+  {
+    "pro": "51189",
+    "status": "OPEN",
+    "pu_date": "2026-10-29",
+    "pu_city": "RALEIGH",
+    "pu_state": "NC",
+    "pu_hours": "0900",
+    "del_date": "2026-10-29",
+    "del_city": "WINSTON SALEM",
+    "del_state": "NC",
+    "del_hours": "0800-1500",
+    "equipment": "Van",
+    "weight_lbs": 7184,
+    "carrier_rate": 500,
+    "updated_at": "2026-10-28T19:31:37.779818+00:00",
+    "lane": "RALEIGH NC-WINSTON SALEM NC"
   },
   {
     "pro": "51120",
@@ -680,6 +680,23 @@
     "lane": "WADESBORO NC-ATLANTA GA"
   },
   {
+    "pro": "51090",
+    "status": "RELEASED",
+    "pu_date": "2026-10-22",
+    "pu_city": "RALEIGH",
+    "pu_state": "NC",
+    "pu_hours": "0900-1100",
+    "del_date": "2026-10-22",
+    "del_city": "WINSTON SALEM",
+    "del_state": "NC",
+    "del_hours": "0800-1500",
+    "equipment": "26' Straight Box Truck",
+    "weight_lbs": 2662,
+    "carrier_rate": 300,
+    "updated_at": "2026-10-26T13:54:52.055865+00:00",
+    "lane": "RALEIGH NC-WINSTON SALEM NC"
+  },
+  {
     "pro": "51033",
     "status": "RELEASED",
     "pu_date": "2026-10-23",
@@ -800,7 +817,7 @@
   },
   {
     "pro": "51037",
-    "status": "CONSIGNEE",
+    "status": "DELIVERED",
     "pu_date": "2026-10-27",
     "pu_city": "GARLAND",
     "pu_state": "TX",
@@ -812,7 +829,7 @@
     "equipment": "Van",
     "weight_lbs": 40949,
     "carrier_rate": 2000,
-    "updated_at": "2026-10-28T17:47:26.755536+00:00",
+    "updated_at": "2026-10-28T19:31:44.639039+00:00",
     "lane": "GARLAND TX-CALHOUN GA"
   },
   {
@@ -881,6 +898,23 @@
     "weight_lbs": 44000,
     "carrier_rate": 900,
     "updated_at": "2026-10-28T15:07:20.974702+00:00",
+    "lane": "WADESBORO NC-ATLANTA GA"
+  },
+  {
+    "pro": "51177",
+    "status": "COVERED",
+    "pu_date": "2026-10-29",
+    "pu_city": "WADESBORO",
+    "pu_state": "NC",
+    "pu_hours": "0730-1630",
+    "del_date": "2026-10-30",
+    "del_city": "ATLANTA",
+    "del_state": "GA",
+    "del_hours": "0800-1600",
+    "equipment": "Van",
+    "weight_lbs": 44000,
+    "carrier_rate": 850,
+    "updated_at": "2026-10-28T19:34:49.195856+00:00",
     "lane": "WADESBORO NC-ATLANTA GA"
   }
 ]
