@@ -46,8 +46,8 @@
     "del_hours": "0600-1500",
     "equipment": "Van",
     "weight_lbs": 44602,
-    "carrier_rate": 2700,
-    "updated_at": "2026-10-28T14:55:04.090707+00:00",
+    "carrier_rate": 2800,
+    "updated_at": "2026-10-28T15:23:45.458633+00:00",
     "lane": "COLUMBUS GA-MIAMI FL"
   },
   {
@@ -75,14 +75,14 @@
     "pu_state": "TN",
     "pu_hours": "0800-1600",
     "del_date": "2026-10-29",
-    "del_city": "LAWRENCEVILLE",
+    "del_city": "NORCROSS",
     "del_state": "GA",
-    "del_hours": "0700-1500",
+    "del_hours": "0800-1500",
     "equipment": "26' Straight Box Truck",
-    "weight_lbs": 15001,
+    "weight_lbs": 3500,
     "carrier_rate": null,
-    "updated_at": "2026-10-28T15:18:12.287000+00:00",
-    "lane": "MOUNT PLEASANT TN-LAWRENCEVILLE GA"
+    "updated_at": "2026-10-28T15:25:11.312777+00:00",
+    "lane": "MOUNT PLEASANT TN-NORCROSS GA"
   },
   {
     "pro": "51118",
@@ -134,23 +134,6 @@
     "carrier_rate": 2000,
     "updated_at": "2026-10-28T14:10:24.656492+00:00",
     "lane": "COLUMBUS GA-COLUMBUS WI"
-  },
-  {
-    "pro": "51169",
-    "status": "OPEN",
-    "pu_date": "2026-10-29",
-    "pu_city": "LINDENHURST",
-    "pu_state": "NY",
-    "pu_hours": "0930-1130",
-    "del_date": "2026-10-30",
-    "del_city": "ROANOKE",
-    "del_state": "AL",
-    "del_hours": "0600-1400",
-    "equipment": "26' Straight Box Truck",
-    "weight_lbs": 3200,
-    "carrier_rate": 1850,
-    "updated_at": "2026-10-28T13:45:50.890793+00:00",
-    "lane": "LINDENHURST NY-ROANOKE AL"
   },
   {
     "pro": "51120",
