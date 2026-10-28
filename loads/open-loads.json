@@ -17,23 +17,6 @@
     "lane": "PORT ANGELES WA-IRWINDALE CA"
   },
   {
-    "pro": "51147",
-    "status": "OPEN",
-    "pu_date": "2026-10-29",
-    "pu_city": "WINCHESTER",
-    "pu_state": "KY",
-    "pu_hours": "0800-1500",
-    "del_date": "2026-10-30",
-    "del_city": "JOLIET",
-    "del_state": "IL",
-    "del_hours": "1300",
-    "equipment": "Van",
-    "weight_lbs": 14580,
-    "carrier_rate": 1000,
-    "updated_at": "2026-10-27T17:02:28.805279+00:00",
-    "lane": "WINCHESTER KY-JOLIET IL"
-  },
-  {
     "pro": "51167",
     "status": "OPEN",
     "pu_date": "2026-10-29",
@@ -715,7 +698,7 @@
   },
   {
     "pro": "51073",
-    "status": "CONSIGNEE",
+    "status": "DELIVERED",
     "pu_date": "2026-10-26",
     "pu_city": "PHENIX CITY",
     "pu_state": "AL",
@@ -727,7 +710,7 @@
     "equipment": "Van",
     "weight_lbs": 35000,
     "carrier_rate": 4200,
-    "updated_at": "2026-10-28T19:48:06.523494+00:00",
+    "updated_at": "2026-10-28T20:09:14.893974+00:00",
     "lane": "PHENIX CITY AL-ROCKLAND ME"
   },
   {
@@ -848,6 +831,23 @@
     "carrier_rate": 850,
     "updated_at": "2026-10-28T19:12:56.213959+00:00",
     "lane": "WADESBORO NC-ATLANTA GA"
+  },
+  {
+    "pro": "51147",
+    "status": "COVERED",
+    "pu_date": "2026-10-29",
+    "pu_city": "WINCHESTER",
+    "pu_state": "KY",
+    "pu_hours": "0800-1500",
+    "del_date": "2026-10-30",
+    "del_city": "JOLIET",
+    "del_state": "IL",
+    "del_hours": "1300",
+    "equipment": "Van",
+    "weight_lbs": 14580,
+    "carrier_rate": 1000,
+    "updated_at": "2026-10-28T20:08:07.499501+00:00",
+    "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
     "pro": "51175",
