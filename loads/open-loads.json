@@ -145,11 +145,11 @@
     "del_date": "2026-10-30",
     "del_city": "AMERICUS",
     "del_state": "GA",
-    "del_hours": "0800-1200",
+    "del_hours": "0800-1000",
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 2500,
     "carrier_rate": 400,
-    "updated_at": "2026-10-28T18:20:20.476989+00:00",
+    "updated_at": "2026-10-28T18:21:53.025021+00:00",
     "lane": "ORLANDO FL-AMERICUS GA"
   },
   {
@@ -166,7 +166,7 @@
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 4000,
     "carrier_rate": 550,
-    "updated_at": "2026-10-28T18:20:12.782484+00:00",
+    "updated_at": "2026-10-28T18:25:23.662735+00:00",
     "lane": "UNION CITY GA-CHARLOTTE NC"
   },
   {
