@@ -85,23 +85,6 @@
     "lane": "COLUMBUS GA-COLUMBUS WI"
   },
   {
-    "pro": "51169",
-    "status": "OPEN",
-    "pu_date": "2026-10-29",
-    "pu_city": "LINDENHURST",
-    "pu_state": "NY",
-    "pu_hours": "0930-1130",
-    "del_date": "2026-10-30",
-    "del_city": "ROANOKE",
-    "del_state": "AL",
-    "del_hours": "0600-1400",
-    "equipment": "26' Straight Box Truck",
-    "weight_lbs": 3200,
-    "carrier_rate": 1900,
-    "updated_at": "2026-10-28T17:05:34.963406+00:00",
-    "lane": "LINDENHURST NY-ROANOKE AL"
-  },
-  {
     "pro": "51183",
     "status": "OPEN",
     "pu_date": "2026-10-29",
@@ -151,6 +134,23 @@
     "carrier_rate": 400,
     "updated_at": "2026-10-28T19:00:35.900499+00:00",
     "lane": "ORLANDO FL-AMERICUS GA"
+  },
+  {
+    "pro": "51188",
+    "status": "OPEN",
+    "pu_date": "2026-10-29",
+    "pu_city": "SOUTH BOSTON",
+    "pu_state": "VA",
+    "pu_hours": "0800-1500",
+    "del_date": "2026-10-30",
+    "del_city": "HALEYVILLE",
+    "del_state": "AL",
+    "del_hours": "0730-0900",
+    "equipment": "Van",
+    "weight_lbs": 43000,
+    "carrier_rate": 1600,
+    "updated_at": "2026-10-28T19:14:37.665981+00:00",
+    "lane": "SOUTH BOSTON VA-HALEYVILLE AL"
   },
   {
     "pro": "51120",
@@ -919,7 +919,7 @@
   },
   {
     "pro": "51176",
-    "status": "DISPATCHED",
+    "status": "PICKUP",
     "pu_date": "2026-10-28",
     "pu_city": "WADESBORO",
     "pu_state": "NC",
@@ -931,7 +931,7 @@
     "equipment": "Van",
     "weight_lbs": 44000,
     "carrier_rate": 850,
-    "updated_at": "2026-10-28T17:41:34.242277+00:00",
+    "updated_at": "2026-10-28T19:12:56.213959+00:00",
     "lane": "WADESBORO NC-ATLANTA GA"
   },
   {
