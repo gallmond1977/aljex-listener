@@ -17,6 +17,23 @@
     "lane": "PORT ANGELES WA-IRWINDALE CA"
   },
   {
+    "pro": "51173",
+    "status": "OPEN",
+    "pu_date": "2026-10-28",
+    "pu_city": "PHENIX CITY",
+    "pu_state": "AL",
+    "pu_hours": "0600-1500",
+    "del_date": "2026-10-29",
+    "del_city": "MONTICELLO",
+    "del_state": "IL",
+    "del_hours": "0800-1400",
+    "equipment": "Flatbed",
+    "weight_lbs": 12000,
+    "carrier_rate": 2800,
+    "updated_at": "2026-10-28T15:12:33.209747+00:00",
+    "lane": "PHENIX CITY AL-MONTICELLO IL"
+  },
+  {
     "pro": "51174",
     "status": "OPEN",
     "pu_date": "2026-10-28",
@@ -355,6 +372,23 @@
     "carrier_rate": 4200,
     "updated_at": "2026-10-27T19:47:44.822525+00:00",
     "lane": "PHENIX CITY AL-ROCKLAND ME"
+  },
+  {
+    "pro": "51179",
+    "status": "OPEN",
+    "pu_date": "2026-11-06",
+    "pu_city": "WINCHESTER",
+    "pu_state": "KY",
+    "pu_hours": "NEEDED",
+    "del_date": "2026-11-09",
+    "del_city": "JOLIET",
+    "del_state": "IL",
+    "del_hours": "NEEDED",
+    "equipment": "Van",
+    "weight_lbs": 10295,
+    "carrier_rate": null,
+    "updated_at": "2026-10-28T15:14:45.775934+00:00",
+    "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
     "pro": "49855",
