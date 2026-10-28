@@ -119,6 +119,23 @@
     "lane": "LINDENHURST NY-ROANOKE AL"
   },
   {
+    "pro": "51177",
+    "status": "OPEN",
+    "pu_date": "2026-10-29",
+    "pu_city": "WADESBORO",
+    "pu_state": "NC",
+    "pu_hours": "0730-1630",
+    "del_date": "2026-10-29",
+    "del_city": "ATLANTA",
+    "del_state": "GA",
+    "del_hours": "0800-1600",
+    "equipment": "Van",
+    "weight_lbs": 44000,
+    "carrier_rate": null,
+    "updated_at": "2026-10-28T16:55:12.691125+00:00",
+    "lane": "WADESBORO NC-ATLANTA GA"
+  },
+  {
     "pro": "51120",
     "status": "OPEN",
     "pu_date": "2026-10-30",
