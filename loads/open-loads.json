@@ -197,11 +197,11 @@
     "del_date": "2026-11-01",
     "del_city": "UXBRIDGE",
     "del_state": "MA",
-    "del_hours": "",
+    "del_hours": "1200",
     "equipment": "Van",
     "weight_lbs": 5200,
     "carrier_rate": 3600,
-    "updated_at": "2026-10-27T19:41:48.583996+00:00",
+    "updated_at": "2026-10-28T13:25:14.990303+00:00",
     "lane": "WINCHESTER KY-UXBRIDGE MA"
   },
   {
