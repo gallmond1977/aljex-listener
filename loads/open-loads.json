@@ -17,23 +17,6 @@
     "lane": "PORT ANGELES WA-IRWINDALE CA"
   },
   {
-    "pro": "51173",
-    "status": "OPEN",
-    "pu_date": "2026-10-28",
-    "pu_city": "PHENIX CITY",
-    "pu_state": "AL",
-    "pu_hours": "0600-1500",
-    "del_date": "2026-10-29",
-    "del_city": "MONTICELLO",
-    "del_state": "IL",
-    "del_hours": "0800-1400",
-    "equipment": "Flatbed",
-    "weight_lbs": 12000,
-    "carrier_rate": 2800,
-    "updated_at": "2026-10-28T14:23:31.634477+00:00",
-    "lane": "PHENIX CITY AL-MONTICELLO IL"
-  },
-  {
     "pro": "8890468",
     "status": "OPEN",
     "spot": true,
@@ -529,7 +512,7 @@
   },
   {
     "pro": "51033",
-    "status": "DELIVERED",
+    "status": "RELEASED",
     "pu_date": "2026-10-23",
     "pu_city": "MONTEZUMA",
     "pu_state": "GA",
@@ -541,7 +524,7 @@
     "equipment": "Reefer",
     "weight_lbs": 23400,
     "carrier_rate": 4900,
-    "updated_at": "2026-10-27T13:08:48.415706+00:00",
+    "updated_at": "2026-10-28T14:34:20.671181+00:00",
     "lane": "MONTEZUMA GA-TRACY CA"
   },
   {
