@@ -97,8 +97,8 @@
     "del_hours": "0600-1400",
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 3200,
-    "carrier_rate": 1800,
-    "updated_at": "2026-10-28T15:44:02.471992+00:00",
+    "carrier_rate": 1900,
+    "updated_at": "2026-10-28T17:05:11.308189+00:00",
     "lane": "LINDENHURST NY-ROANOKE AL"
   },
   {
@@ -202,6 +202,23 @@
     "carrier_rate": 1200,
     "updated_at": "2026-10-28T16:29:28.068779+00:00",
     "lane": "PENDERGRASS GA-ZEBULON NC"
+  },
+  {
+    "pro": "51178",
+    "status": "OPEN",
+    "pu_date": "2026-10-30",
+    "pu_city": "WADESBORO",
+    "pu_state": "NC",
+    "pu_hours": "0730-1630",
+    "del_date": "2026-10-30",
+    "del_city": "ATLANTA",
+    "del_state": "GA",
+    "del_hours": "0800-1600",
+    "equipment": "Van",
+    "weight_lbs": 44000,
+    "carrier_rate": null,
+    "updated_at": "2026-10-28T17:01:49.829400+00:00",
+    "lane": "WADESBORO NC-ATLANTA GA"
   },
   {
     "pro": "50542",
@@ -812,7 +829,7 @@
     "equipment": "Van",
     "weight_lbs": 44000,
     "carrier_rate": 850,
-    "updated_at": "2026-10-28T16:58:50.811283+00:00",
+    "updated_at": "2026-10-28T17:00:37.232358+00:00",
     "lane": "WADESBORO NC-ATLANTA GA"
   },
   {
