@@ -68,6 +68,23 @@
     "lane": "PHENIX CITY AL-MONTICELLO IL"
   },
   {
+    "pro": "51178",
+    "status": "OPEN",
+    "pu_date": "2026-10-29",
+    "pu_city": "WADESBORO",
+    "pu_state": "NC",
+    "pu_hours": "0730-1630",
+    "del_date": "2026-10-30",
+    "del_city": "ATLANTA",
+    "del_state": "GA",
+    "del_hours": "0800-1600",
+    "equipment": "Van",
+    "weight_lbs": 44000,
+    "carrier_rate": null,
+    "updated_at": "2026-10-28T19:38:46.418959+00:00",
+    "lane": "WADESBORO NC-ATLANTA GA"
+  },
+  {
     "pro": "51183",
     "status": "OPEN",
     "pu_date": "2026-10-29",
@@ -136,21 +153,21 @@
     "lane": "SOUTH BOSTON VA-HALEYVILLE AL"
   },
   {
-    "pro": "51189",
+    "pro": "51190",
     "status": "OPEN",
     "pu_date": "2026-10-29",
-    "pu_city": "RALEIGH",
-    "pu_state": "NC",
-    "pu_hours": "0900",
-    "del_date": "2026-10-29",
-    "del_city": "WINSTON SALEM",
-    "del_state": "NC",
+    "pu_city": "APOPKA",
+    "pu_state": "FL",
+    "pu_hours": "1200-1530",
+    "del_date": "2026-10-30",
+    "del_city": "SAVANNAH",
+    "del_state": "GA",
     "del_hours": "0800-1500",
     "equipment": "Van",
-    "weight_lbs": 7184,
-    "carrier_rate": 500,
-    "updated_at": "2026-10-28T19:31:37.779818+00:00",
-    "lane": "RALEIGH NC-WINSTON SALEM NC"
+    "weight_lbs": 3605,
+    "carrier_rate": 400,
+    "updated_at": "2026-10-28T19:38:44.362558+00:00",
+    "lane": "APOPKA FL-SAVANNAH GA"
   },
   {
     "pro": "51120",
@@ -236,23 +253,6 @@
     "carrier_rate": 1200,
     "updated_at": "2026-10-28T16:29:28.068779+00:00",
     "lane": "PENDERGRASS GA-ZEBULON NC"
-  },
-  {
-    "pro": "51178",
-    "status": "OPEN",
-    "pu_date": "2026-10-30",
-    "pu_city": "WADESBORO",
-    "pu_state": "NC",
-    "pu_hours": "0730-1630",
-    "del_date": "2026-10-30",
-    "del_city": "ATLANTA",
-    "del_state": "GA",
-    "del_hours": "0800-1600",
-    "equipment": "Van",
-    "weight_lbs": 44000,
-    "carrier_rate": null,
-    "updated_at": "2026-10-28T17:01:49.829400+00:00",
-    "lane": "WADESBORO NC-ATLANTA GA"
   },
   {
     "pro": "50542",
@@ -680,23 +680,6 @@
     "lane": "WADESBORO NC-ATLANTA GA"
   },
   {
-    "pro": "51090",
-    "status": "RELEASED",
-    "pu_date": "2026-10-22",
-    "pu_city": "RALEIGH",
-    "pu_state": "NC",
-    "pu_hours": "0900-1100",
-    "del_date": "2026-10-22",
-    "del_city": "WINSTON SALEM",
-    "del_state": "NC",
-    "del_hours": "0800-1500",
-    "equipment": "26' Straight Box Truck",
-    "weight_lbs": 2662,
-    "carrier_rate": 300,
-    "updated_at": "2026-10-26T13:54:52.055865+00:00",
-    "lane": "RALEIGH NC-WINSTON SALEM NC"
-  },
-  {
     "pro": "51033",
     "status": "RELEASED",
     "pu_date": "2026-10-23",
@@ -914,7 +897,7 @@
     "equipment": "Van",
     "weight_lbs": 44000,
     "carrier_rate": 850,
-    "updated_at": "2026-10-28T19:34:49.195856+00:00",
+    "updated_at": "2026-10-28T19:35:42.008721+00:00",
     "lane": "WADESBORO NC-ATLANTA GA"
   }
 ]
