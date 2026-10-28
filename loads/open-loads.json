@@ -13,7 +13,7 @@
     "equipment": "Van",
     "weight_lbs": 44500,
     "carrier_rate": 2300,
-    "updated_at": "2026-10-28T13:51:57.679315+00:00",
+    "updated_at": "2026-10-28T13:56:25.922420+00:00",
     "lane": "JACKSONVILLE TX-MACON GA"
   },
   {
@@ -203,6 +203,23 @@
     "carrier_rate": 400,
     "updated_at": "2026-10-27T14:22:43.547920+00:00",
     "lane": "FREDERICKSBURG VA-CHESAPEAKE VA"
+  },
+  {
+    "pro": "51172",
+    "status": "OPEN",
+    "pu_date": "2026-10-30",
+    "pu_city": "PENDERGRASS",
+    "pu_state": "GA",
+    "pu_hours": "REQ",
+    "del_date": "2026-11-02",
+    "del_city": "ZEBULON",
+    "del_state": "NC",
+    "del_hours": "0700-0900",
+    "equipment": "Van",
+    "weight_lbs": 40124,
+    "carrier_rate": 1200,
+    "updated_at": "2026-10-28T13:59:16.404028+00:00",
+    "lane": "PENDERGRASS GA-ZEBULON NC"
   },
   {
     "pro": "50542",
