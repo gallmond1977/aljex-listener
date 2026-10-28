@@ -13,7 +13,7 @@
     "equipment": "Van",
     "weight_lbs": 44500,
     "carrier_rate": 2300,
-    "updated_at": "2026-10-28T13:49:28.011556+00:00",
+    "updated_at": "2026-10-28T13:51:57.679315+00:00",
     "lane": "JACKSONVILLE TX-MACON GA"
   },
   {
@@ -32,23 +32,6 @@
     "carrier_rate": 4900,
     "updated_at": "2026-10-28T13:19:57.193125+00:00",
     "lane": "PORT ANGELES WA-IRWINDALE CA"
-  },
-  {
-    "pro": "51161",
-    "status": "OPEN",
-    "pu_date": "2026-10-28",
-    "pu_city": "OAKLAND",
-    "pu_state": "TN",
-    "pu_hours": "0800-1500",
-    "del_date": "2026-10-29",
-    "del_city": "PHENIX CITY",
-    "del_state": "AL",
-    "del_hours": "0600-1100",
-    "equipment": "Van Hazmat",
-    "weight_lbs": 44940,
-    "carrier_rate": 2100,
-    "updated_at": "2026-10-28T13:50:07.539071+00:00",
-    "lane": "OAKLAND TN-PHENIX CITY AL"
   },
   {
     "pro": "8890468",
@@ -526,23 +509,6 @@
     "carrier_rate": 1000,
     "updated_at": "2026-10-26T13:44:10.513979+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
-  },
-  {
-    "pro": "51089",
-    "status": "RELEASED",
-    "pu_date": "2026-10-22",
-    "pu_city": "OAKLAND",
-    "pu_state": "TN",
-    "pu_hours": "0800-1500",
-    "del_date": "2026-10-23",
-    "del_city": "PHENIX CITY",
-    "del_state": "AL",
-    "del_hours": "0600-1100",
-    "equipment": "Van Hazmat",
-    "weight_lbs": 44940,
-    "carrier_rate": 2150,
-    "updated_at": "2026-10-23T15:49:52.599749+00:00",
-    "lane": "OAKLAND TN-PHENIX CITY AL"
   },
   {
     "pro": "51033",
