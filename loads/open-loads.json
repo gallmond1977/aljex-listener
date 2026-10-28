@@ -277,7 +277,7 @@
     "pu_date": "2026-11-02",
     "pu_city": "RICHMOND",
     "pu_state": "VA",
-    "pu_hours": "0800-1000",
+    "pu_hours": "0700-0800",
     "del_date": "2026-11-02",
     "del_city": "LUTHERVILLE TIMONIUM",
     "del_state": "MD",
@@ -285,7 +285,7 @@
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 6500,
     "carrier_rate": 400,
-    "updated_at": "2026-10-27T16:02:48.210499+00:00",
+    "updated_at": "2026-10-28T16:13:05.967821+00:00",
     "lane": "RICHMOND VA-LUTHERVILLE TIMONIUM MD"
   },
   {
@@ -304,6 +304,23 @@
     "carrier_rate": null,
     "updated_at": "2026-10-28T12:48:27.948418+00:00",
     "lane": "STEVENS PA-HAYMARKET VA"
+  },
+  {
+    "pro": "51182",
+    "status": "OPEN",
+    "pu_date": "2026-11-02",
+    "pu_city": "SHILOH",
+    "pu_state": "OH",
+    "pu_hours": "0800-1500",
+    "del_date": "2026-11-03",
+    "del_city": "CASHIERS",
+    "del_state": "NC",
+    "del_hours": "CALL!",
+    "equipment": "Flatbed w/ Tarps",
+    "weight_lbs": 13000,
+    "carrier_rate": null,
+    "updated_at": "2026-10-28T16:10:56.588998+00:00",
+    "lane": "SHILOH OH-CASHIERS NC"
   },
   {
     "pro": "51043",
