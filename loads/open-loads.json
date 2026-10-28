@@ -22,15 +22,15 @@
     "pu_date": "2026-10-28",
     "pu_city": "PHENIX CITY",
     "pu_state": "AL",
-    "pu_hours": "0600-1700",
+    "pu_hours": "0600-1500",
     "del_date": "2026-10-29",
     "del_city": "MONTICELLO",
     "del_state": "IL",
-    "del_hours": "0800-1100",
+    "del_hours": "0800-1400",
     "equipment": "Flatbed",
     "weight_lbs": 12000,
     "carrier_rate": 2800,
-    "updated_at": "2026-10-28T14:20:25.407437+00:00",
+    "updated_at": "2026-10-28T14:23:31.634477+00:00",
     "lane": "PHENIX CITY AL-MONTICELLO IL"
   },
   {
