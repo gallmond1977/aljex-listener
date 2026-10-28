@@ -34,6 +34,23 @@
     "lane": "PHENIX CITY AL-MONTICELLO IL"
   },
   {
+    "pro": "51177",
+    "status": "OPEN",
+    "pu_date": "2026-10-28",
+    "pu_city": "WADESBORO",
+    "pu_state": "NC",
+    "pu_hours": "0730-1630",
+    "del_date": "2026-10-29",
+    "del_city": "ATLANTA",
+    "del_state": "GA",
+    "del_hours": "0800-1600",
+    "equipment": "Van",
+    "weight_lbs": 44000,
+    "carrier_rate": 850,
+    "updated_at": "2026-10-28T17:19:39.698738+00:00",
+    "lane": "WADESBORO NC-ATLANTA GA"
+  },
+  {
     "pro": "51118",
     "status": "OPEN",
     "pu_date": "2026-10-29",
@@ -100,23 +117,6 @@
     "carrier_rate": 1900,
     "updated_at": "2026-10-28T17:05:34.963406+00:00",
     "lane": "LINDENHURST NY-ROANOKE AL"
-  },
-  {
-    "pro": "51177",
-    "status": "OPEN",
-    "pu_date": "2026-10-29",
-    "pu_city": "WADESBORO",
-    "pu_state": "NC",
-    "pu_hours": "0730-1630",
-    "del_date": "2026-10-30",
-    "del_city": "ATLANTA",
-    "del_state": "GA",
-    "del_hours": "0800-1600",
-    "equipment": "Van",
-    "weight_lbs": 44000,
-    "carrier_rate": 850,
-    "updated_at": "2026-10-28T16:55:39.426138+00:00",
-    "lane": "WADESBORO NC-ATLANTA GA"
   },
   {
     "pro": "51120",
