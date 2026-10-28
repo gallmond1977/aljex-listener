@@ -68,23 +68,6 @@
     "lane": "PORT ANGELES WA-IRWINDALE CA"
   },
   {
-    "pro": "51160",
-    "status": "OPEN",
-    "pu_date": "2026-10-28",
-    "pu_city": "OAKLAND",
-    "pu_state": "TN",
-    "pu_hours": "0800-1500",
-    "del_date": "2026-10-29",
-    "del_city": "SALISBURY",
-    "del_state": "NC",
-    "del_hours": "0600-1100",
-    "equipment": "Van Hazmat",
-    "weight_lbs": 44900,
-    "carrier_rate": 2800,
-    "updated_at": "2026-10-27T20:35:41.677001+00:00",
-    "lane": "OAKLAND TN-SALISBURY NC"
-  },
-  {
     "pro": "51161",
     "status": "OPEN",
     "pu_date": "2026-10-28",
@@ -371,7 +354,7 @@
     "equipment": "Flatbed w/ Tarps",
     "weight_lbs": 38000,
     "carrier_rate": null,
-    "updated_at": "2026-10-28T12:35:22.236558+00:00",
+    "updated_at": "2026-10-28T12:42:21.096743+00:00",
     "lane": "STEVENS PA-HAYMARKET VA"
   },
   {
@@ -545,40 +528,6 @@
     "lane": "LA PORTE TX-PIEDMONT SC"
   },
   {
-    "pro": "51026",
-    "status": "RELEASED",
-    "pu_date": "2026-10-20",
-    "pu_city": "OAKLAND",
-    "pu_state": "TN",
-    "pu_hours": "0800-1500",
-    "del_date": "2026-10-21",
-    "del_city": "SALISBURY",
-    "del_state": "NC",
-    "del_hours": "0600-1100",
-    "equipment": "Van Hazmat",
-    "weight_lbs": 44900,
-    "carrier_rate": 3000,
-    "updated_at": "2026-10-21T16:23:44.659885+00:00",
-    "lane": "OAKLAND TN-SALISBURY NC"
-  },
-  {
-    "pro": "51036",
-    "status": "RELEASED",
-    "pu_date": "2026-10-20",
-    "pu_city": "OAKLAND",
-    "pu_state": "TN",
-    "pu_hours": "0800-1500",
-    "del_date": "2026-10-21",
-    "del_city": "SALISBURY",
-    "del_state": "NC",
-    "del_hours": "0600-1100",
-    "equipment": "Van Hazmat",
-    "weight_lbs": 44900,
-    "carrier_rate": 3000,
-    "updated_at": "2026-10-22T15:03:05.684158+00:00",
-    "lane": "OAKLAND TN-SALISBURY NC"
-  },
-  {
     "pro": "51069",
     "status": "RELEASED",
     "pu_date": "2026-10-22",
@@ -662,23 +611,6 @@
     "carrier_rate": 1000,
     "updated_at": "2026-10-26T11:53:12.575993+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
-  },
-  {
-    "pro": "51111",
-    "status": "RELEASED",
-    "pu_date": "2026-10-23",
-    "pu_city": "OAKLAND",
-    "pu_state": "TN",
-    "pu_hours": "0800-1500",
-    "del_date": "2026-10-26",
-    "del_city": "SALISBURY",
-    "del_state": "NC",
-    "del_hours": "0600-1100",
-    "equipment": "Van Hazmat",
-    "weight_lbs": 44900,
-    "carrier_rate": 3000,
-    "updated_at": "2026-10-26T15:07:31.297309+00:00",
-    "lane": "OAKLAND TN-SALISBURY NC"
   },
   {
     "pro": "51073",
