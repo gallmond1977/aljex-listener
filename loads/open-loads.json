@@ -145,11 +145,11 @@
     "del_date": "2026-10-29",
     "del_city": "PARAGOULD",
     "del_state": "AR",
-    "del_hours": "NEEDED",
+    "del_hours": "0900",
     "equipment": "Reefer",
     "weight_lbs": 42500,
     "carrier_rate": 1500,
-    "updated_at": "2026-10-27T20:11:16.808751+00:00",
+    "updated_at": "2026-10-28T11:55:12.926699+00:00",
     "lane": "ELLAVILLE GA-PARAGOULD AR"
   },
   {
