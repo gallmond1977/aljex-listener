@@ -34,23 +34,6 @@
     "lane": "PHENIX CITY AL-MONTICELLO IL"
   },
   {
-    "pro": "51174",
-    "status": "OPEN",
-    "pu_date": "2026-10-28",
-    "pu_city": "COLUMBUS",
-    "pu_state": "GA",
-    "pu_hours": "0800-1500",
-    "del_date": "2026-10-29",
-    "del_city": "MIAMI",
-    "del_state": "FL",
-    "del_hours": "0600-1500",
-    "equipment": "Van",
-    "weight_lbs": 44602,
-    "carrier_rate": 2800,
-    "updated_at": "2026-10-28T15:23:45.458633+00:00",
-    "lane": "COLUMBUS GA-MIAMI FL"
-  },
-  {
     "pro": "51176",
     "status": "OPEN",
     "pu_date": "2026-10-28",
@@ -68,23 +51,6 @@
     "lane": "WADESBORO NC-ATLANTA GA"
   },
   {
-    "pro": "51180",
-    "status": "OPEN",
-    "pu_date": "2026-10-28",
-    "pu_city": "MOUNT PLEASANT",
-    "pu_state": "TN",
-    "pu_hours": "0800-1600",
-    "del_date": "2026-10-29",
-    "del_city": "NORCROSS",
-    "del_state": "GA",
-    "del_hours": "0800-1500",
-    "equipment": "26' Straight Box Truck",
-    "weight_lbs": 3500,
-    "carrier_rate": 600,
-    "updated_at": "2026-10-28T15:30:03.281550+00:00",
-    "lane": "MOUNT PLEASANT TN-NORCROSS GA"
-  },
-  {
     "pro": "51181",
     "status": "OPEN",
     "pu_date": "2026-10-28",
@@ -94,11 +60,11 @@
     "del_date": "2026-10-29",
     "del_city": "POWDER SPRINGS",
     "del_state": "GA",
-    "del_hours": "0800-1500",
+    "del_hours": "0800-1630",
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 3500,
-    "carrier_rate": null,
-    "updated_at": "2026-10-28T15:44:45.379459+00:00",
+    "carrier_rate": 500,
+    "updated_at": "2026-10-28T15:50:06.347777+00:00",
     "lane": "MOUNT PLEASANT TN-POWDER SPRINGS GA"
   },
   {
