@@ -119,6 +119,23 @@
     "lane": "LINDENHURST NY-ROANOKE AL"
   },
   {
+    "pro": "51183",
+    "status": "OPEN",
+    "pu_date": "2026-10-29",
+    "pu_city": "BUENA VISTA",
+    "pu_state": "GA",
+    "pu_hours": "1000-1500",
+    "del_date": "",
+    "del_city": "LINDEN",
+    "del_state": "NJ",
+    "del_hours": "0800-1200",
+    "equipment": "Van",
+    "weight_lbs": 43500,
+    "carrier_rate": 2300,
+    "updated_at": "2026-10-28T17:52:00.265932+00:00",
+    "lane": "BUENA VISTA GA-LINDEN NJ"
+  },
+  {
     "pro": "51120",
     "status": "OPEN",
     "pu_date": "2026-10-30",
