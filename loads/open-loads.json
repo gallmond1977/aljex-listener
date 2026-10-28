@@ -47,25 +47,8 @@
     "equipment": "Van",
     "weight_lbs": 40000,
     "carrier_rate": 2000,
-    "updated_at": "2026-10-28T17:09:07.854260+00:00",
+    "updated_at": "2026-10-28T19:44:22.308315+00:00",
     "lane": "COLUMBUS GA-COLUMBUS WI"
-  },
-  {
-    "pro": "51173",
-    "status": "OPEN",
-    "pu_date": "2026-10-29",
-    "pu_city": "PHENIX CITY",
-    "pu_state": "AL",
-    "pu_hours": "0600-1500",
-    "del_date": "2026-10-29",
-    "del_city": "MONTICELLO",
-    "del_state": "IL",
-    "del_hours": "0800-1400",
-    "equipment": "Flatbed",
-    "weight_lbs": 12000,
-    "carrier_rate": 3000,
-    "updated_at": "2026-10-28T19:21:40.045692+00:00",
-    "lane": "PHENIX CITY AL-MONTICELLO IL"
   },
   {
     "pro": "51178",
@@ -149,7 +132,7 @@
     "equipment": "Van",
     "weight_lbs": 43000,
     "carrier_rate": 1600,
-    "updated_at": "2026-10-28T19:16:12.565537+00:00",
+    "updated_at": "2026-10-28T19:43:55.713037+00:00",
     "lane": "SOUTH BOSTON VA-HALEYVILLE AL"
   },
   {
@@ -166,7 +149,7 @@
     "equipment": "Van",
     "weight_lbs": 3605,
     "carrier_rate": 400,
-    "updated_at": "2026-10-28T19:38:44.362558+00:00",
+    "updated_at": "2026-10-28T19:44:59.831532+00:00",
     "lane": "APOPKA FL-SAVANNAH GA"
   },
   {
