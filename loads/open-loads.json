@@ -68,23 +68,6 @@
     "lane": "OAKLAND TN-PHENIX CITY AL"
   },
   {
-    "pro": "51165",
-    "status": "OPEN",
-    "pu_date": "2026-10-28",
-    "pu_city": "GAINESVILLE",
-    "pu_state": "GA",
-    "pu_hours": "0800-1600",
-    "del_date": "2026-10-29",
-    "del_city": "GLENNVILLE",
-    "del_state": "GA",
-    "del_hours": "0800-1700",
-    "equipment": "26' Straight Box Truck",
-    "weight_lbs": 7772,
-    "carrier_rate": 620,
-    "updated_at": "2026-10-28T12:54:36.737828+00:00",
-    "lane": "GAINESVILLE GA-GLENNVILLE GA"
-  },
-  {
     "pro": "51171",
     "status": "OPEN",
     "pu_date": "2026-10-28",
