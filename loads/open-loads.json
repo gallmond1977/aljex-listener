@@ -30,7 +30,7 @@
     "equipment": "Flatbed",
     "weight_lbs": 12000,
     "carrier_rate": 2800,
-    "updated_at": "2026-10-28T15:12:33.209747+00:00",
+    "updated_at": "2026-10-28T16:35:59.795657+00:00",
     "lane": "PHENIX CITY AL-MONTICELLO IL"
   },
   {
@@ -387,7 +387,7 @@
     "equipment": "Van",
     "weight_lbs": 10295,
     "carrier_rate": null,
-    "updated_at": "2026-10-28T15:18:31.005637+00:00",
+    "updated_at": "2026-10-28T16:38:14.406792+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
@@ -761,7 +761,7 @@
     "equipment": "Van",
     "weight_lbs": 40949,
     "carrier_rate": 2000,
-    "updated_at": "2026-10-28T13:15:18.089443+00:00",
+    "updated_at": "2026-10-28T16:36:45.418287+00:00",
     "lane": "GARLAND TX-CALHOUN GA"
   },
   {
