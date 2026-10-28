@@ -17,23 +17,6 @@
     "lane": "PORT ANGELES WA-IRWINDALE CA"
   },
   {
-    "pro": "51167",
-    "status": "OPEN",
-    "pu_date": "2026-10-29",
-    "pu_city": "COLUMBUS",
-    "pu_state": "GA",
-    "pu_hours": "0800-1500",
-    "del_date": "2026-11-02",
-    "del_city": "COLUMBUS",
-    "del_state": "WI",
-    "del_hours": "0700",
-    "equipment": "Van",
-    "weight_lbs": 40000,
-    "carrier_rate": 2000,
-    "updated_at": "2026-10-28T19:44:22.308315+00:00",
-    "lane": "COLUMBUS GA-COLUMBUS WI"
-  },
-  {
     "pro": "51178",
     "status": "OPEN",
     "pu_date": "2026-10-29",
@@ -148,8 +131,8 @@
     "del_hours": "0800-1600",
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 9000,
-    "carrier_rate": 350,
-    "updated_at": "2026-10-28T20:28:09.059215+00:00",
+    "carrier_rate": 300,
+    "updated_at": "2026-10-28T20:34:13.296048+00:00",
     "lane": "COLUMBUS GA-ATLANTA GA"
   },
   {
@@ -315,11 +298,11 @@
     "del_date": "2026-11-02",
     "del_city": "LUTHERVILLE TIMONIUM",
     "del_state": "MD",
-    "del_hours": "CALL!",
+    "del_hours": "1230",
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 6500,
     "carrier_rate": 400,
-    "updated_at": "2026-10-28T18:33:08.648664+00:00",
+    "updated_at": "2026-10-28T20:31:49.331075+00:00",
     "lane": "RICHMOND VA-LUTHERVILLE TIMONIUM MD"
   },
   {
