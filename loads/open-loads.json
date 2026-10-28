@@ -681,7 +681,7 @@
   },
   {
     "pro": "51073",
-    "status": "LOADED",
+    "status": "CONSIGNEE",
     "pu_date": "2026-10-26",
     "pu_city": "PHENIX CITY",
     "pu_state": "AL",
@@ -693,7 +693,7 @@
     "equipment": "Van",
     "weight_lbs": 35000,
     "carrier_rate": 4200,
-    "updated_at": "2026-10-26T18:20:24.970901+00:00",
+    "updated_at": "2026-10-28T11:42:20.924130+00:00",
     "lane": "PHENIX CITY AL-ROCKLAND ME"
   },
   {
