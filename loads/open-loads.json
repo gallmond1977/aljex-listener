@@ -1,23 +1,5 @@
 [
   {
-    "pro": "8890467",
-    "status": "OPEN",
-    "spot": true,
-    "pu_date": "2026-10-27",
-    "pu_city": "MC MINNVILLE",
-    "pu_state": "TN",
-    "pu_hours": "",
-    "del_date": "2026-10-27",
-    "del_city": "OMAHA",
-    "del_state": "NE",
-    "del_hours": "",
-    "equipment": "Flatbed w/ Tarps",
-    "weight_lbs": 47000,
-    "carrier_rate": 4000,
-    "updated_at": "2026-10-26T20:00:21.634730+00:00",
-    "lane": "MC MINNVILLE TN-OMAHA NE"
-  },
-  {
     "pro": "51101",
     "status": "OPEN",
     "pu_date": "2026-10-28",
