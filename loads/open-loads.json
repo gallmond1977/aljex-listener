@@ -368,10 +368,10 @@
     "del_city": "HAYMARKET",
     "del_state": "VA",
     "del_hours": "0830",
-    "equipment": "Flatbed",
+    "equipment": "Flatbed w/ Tarps",
     "weight_lbs": 38000,
     "carrier_rate": null,
-    "updated_at": "2026-10-28T12:34:23.206647+00:00",
+    "updated_at": "2026-10-28T12:35:22.236558+00:00",
     "lane": "STEVENS PA-HAYMARKET VA"
   },
   {
