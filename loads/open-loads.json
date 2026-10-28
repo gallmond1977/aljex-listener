@@ -81,7 +81,7 @@
     "equipment": "Van",
     "weight_lbs": 40000,
     "carrier_rate": 2000,
-    "updated_at": "2026-10-28T14:10:24.656492+00:00",
+    "updated_at": "2026-10-28T17:09:07.854260+00:00",
     "lane": "COLUMBUS GA-COLUMBUS WI"
   },
   {
@@ -98,7 +98,7 @@
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 3200,
     "carrier_rate": 1900,
-    "updated_at": "2026-10-28T17:05:11.308189+00:00",
+    "updated_at": "2026-10-28T17:05:34.963406+00:00",
     "lane": "LINDENHURST NY-ROANOKE AL"
   },
   {
@@ -829,7 +829,7 @@
     "equipment": "Van",
     "weight_lbs": 44000,
     "carrier_rate": 850,
-    "updated_at": "2026-10-28T17:00:37.232358+00:00",
+    "updated_at": "2026-10-28T17:07:16.522720+00:00",
     "lane": "WADESBORO NC-ATLANTA GA"
   },
   {
