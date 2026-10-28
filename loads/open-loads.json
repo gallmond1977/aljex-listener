@@ -136,6 +136,23 @@
     "lane": "CALHOUN GA-LINCOLNTON NC"
   },
   {
+    "pro": "51185",
+    "status": "OPEN",
+    "pu_date": "2026-10-29",
+    "pu_city": "ORLANDO",
+    "pu_state": "FL",
+    "pu_hours": "",
+    "del_date": "2026-10-30",
+    "del_city": "AMERICUS",
+    "del_state": "GA",
+    "del_hours": "0800-1200",
+    "equipment": "26' Straight Box Truck",
+    "weight_lbs": 8500,
+    "carrier_rate": 400,
+    "updated_at": "2026-10-28T18:09:58.590001+00:00",
+    "lane": "ORLANDO FL-AMERICUS GA"
+  },
+  {
     "pro": "51120",
     "status": "OPEN",
     "pu_date": "2026-10-30",
