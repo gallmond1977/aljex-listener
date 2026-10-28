@@ -102,23 +102,6 @@
     "lane": "SOUTH BOSTON VA-HALEYVILLE AL"
   },
   {
-    "pro": "51190",
-    "status": "OPEN",
-    "pu_date": "2026-10-29",
-    "pu_city": "APOPKA",
-    "pu_state": "FL",
-    "pu_hours": "1200-1530",
-    "del_date": "2026-10-30",
-    "del_city": "SAVANNAH",
-    "del_state": "GA",
-    "del_hours": "0800-1500",
-    "equipment": "Van",
-    "weight_lbs": 3605,
-    "carrier_rate": 400,
-    "updated_at": "2026-10-28T19:44:59.831532+00:00",
-    "lane": "APOPKA FL-SAVANNAH GA"
-  },
-  {
     "pro": "51191",
     "status": "OPEN",
     "pu_date": "2026-10-29",
@@ -132,7 +115,7 @@
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 9000,
     "carrier_rate": 300,
-    "updated_at": "2026-10-28T20:34:13.296048+00:00",
+    "updated_at": "2026-10-28T20:38:57.493702+00:00",
     "lane": "COLUMBUS GA-ATLANTA GA"
   },
   {
