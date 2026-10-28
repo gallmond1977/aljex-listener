@@ -99,7 +99,7 @@
     "equipment": "Van",
     "weight_lbs": 35000,
     "carrier_rate": 2100,
-    "updated_at": "2026-10-28T13:34:11.209863+00:00",
+    "updated_at": "2026-10-28T13:38:14.519101+00:00",
     "lane": "KENTWOOD MI-OAKLAND TN"
   },
   {
@@ -143,14 +143,14 @@
     "pu_city": "LINDENHURST",
     "pu_state": "NY",
     "pu_hours": "0930-1130",
-    "del_date": "",
+    "del_date": "2026-10-30",
     "del_city": "ROANOKE",
     "del_state": "AL",
-    "del_hours": "0800-1200",
+    "del_hours": "0600-1400",
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 3200,
-    "carrier_rate": null,
-    "updated_at": "2026-10-27T20:53:55.806461+00:00",
+    "carrier_rate": 1850,
+    "updated_at": "2026-10-28T13:39:09.167661+00:00",
     "lane": "LINDENHURST NY-ROANOKE AL"
   },
   {
