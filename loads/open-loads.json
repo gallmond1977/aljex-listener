@@ -149,7 +149,7 @@
     "equipment": "Van",
     "weight_lbs": 43000,
     "carrier_rate": 1600,
-    "updated_at": "2026-10-28T19:14:37.665981+00:00",
+    "updated_at": "2026-10-28T19:16:12.565537+00:00",
     "lane": "SOUTH BOSTON VA-HALEYVILLE AL"
   },
   {
@@ -914,7 +914,7 @@
     "equipment": "Flatbed",
     "weight_lbs": 47000,
     "carrier_rate": 1000,
-    "updated_at": "2026-10-28T19:01:41.946928+00:00",
+    "updated_at": "2026-10-28T19:17:23.335699+00:00",
     "lane": "OPELIKA AL-COLUMBIA AL"
   },
   {
