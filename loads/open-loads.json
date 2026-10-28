@@ -46,26 +46,9 @@
     "del_hours": "0800-1600",
     "equipment": "Van",
     "weight_lbs": 44000,
-    "carrier_rate": 900,
-    "updated_at": "2026-10-28T15:04:17.326850+00:00",
+    "carrier_rate": 850,
+    "updated_at": "2026-10-28T15:06:50.240875+00:00",
     "lane": "WADESBORO NC-ATLANTA GA"
-  },
-  {
-    "pro": "51051",
-    "status": "OPEN",
-    "pu_date": "2026-10-29",
-    "pu_city": "COLUMBUS",
-    "pu_state": "GA",
-    "pu_hours": "1300",
-    "del_date": "2026-10-30",
-    "del_city": "VAN WERT",
-    "del_state": "OH",
-    "del_hours": "0900",
-    "equipment": "Van",
-    "weight_lbs": 11500,
-    "carrier_rate": 1600,
-    "updated_at": "2026-10-28T13:48:53.967141+00:00",
-    "lane": "COLUMBUS GA-VAN WERT OH"
   },
   {
     "pro": "51118",
@@ -795,7 +778,7 @@
     "equipment": "Van",
     "weight_lbs": 44000,
     "carrier_rate": 900,
-    "updated_at": "2026-10-28T14:57:27.228193+00:00",
+    "updated_at": "2026-10-28T15:07:20.974702+00:00",
     "lane": "WADESBORO NC-ATLANTA GA"
   }
 ]
