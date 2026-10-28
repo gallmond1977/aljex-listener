@@ -102,23 +102,6 @@
     "lane": "OAKLAND TN-PHENIX CITY AL"
   },
   {
-    "pro": "51164",
-    "status": "OPEN",
-    "pu_date": "2026-10-28",
-    "pu_city": "POSEYVILLE",
-    "pu_state": "IN",
-    "pu_hours": "0700-1500",
-    "del_date": "2026-10-28",
-    "del_city": "LOUISVILLE",
-    "del_state": "KY",
-    "del_hours": "0800-1400",
-    "equipment": "Flatbed",
-    "weight_lbs": 47000,
-    "carrier_rate": 1100,
-    "updated_at": "2026-10-27T20:26:45.809499+00:00",
-    "lane": "POSEYVILLE IN-LOUISVILLE KY"
-  },
-  {
     "pro": "51165",
     "status": "OPEN",
     "pu_date": "2026-10-28",
@@ -151,6 +134,24 @@
     "carrier_rate": 1500,
     "updated_at": "2026-10-28T11:55:12.926699+00:00",
     "lane": "ELLAVILLE GA-PARAGOULD AR"
+  },
+  {
+    "pro": "8890468",
+    "status": "OPEN",
+    "spot": true,
+    "pu_date": "2026-10-28",
+    "pu_city": "COLUMBUS",
+    "pu_state": "GA",
+    "pu_hours": "",
+    "del_date": "2026-10-29",
+    "del_city": "MIAMI",
+    "del_state": "FL",
+    "del_hours": "",
+    "equipment": "Van",
+    "weight_lbs": 43500,
+    "carrier_rate": 2600,
+    "updated_at": "2026-10-28T12:01:25.744991+00:00",
+    "lane": "COLUMBUS GA-MIAMI FL"
   },
   {
     "pro": "51051",
