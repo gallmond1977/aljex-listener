@@ -80,8 +80,8 @@
     "del_hours": "0800-1500",
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 3500,
-    "carrier_rate": null,
-    "updated_at": "2026-10-28T15:25:11.312777+00:00",
+    "carrier_rate": 600,
+    "updated_at": "2026-10-28T15:30:03.281550+00:00",
     "lane": "MOUNT PLEASANT TN-NORCROSS GA"
   },
   {
