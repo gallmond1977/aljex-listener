@@ -85,6 +85,23 @@
     "lane": "MOUNT PLEASANT TN-NORCROSS GA"
   },
   {
+    "pro": "51181",
+    "status": "OPEN",
+    "pu_date": "2026-10-28",
+    "pu_city": "MOUNT PLEASANT",
+    "pu_state": "TN",
+    "pu_hours": "0800-1600",
+    "del_date": "",
+    "del_city": "POWDER SPRINGS",
+    "del_state": "GA",
+    "del_hours": "0800-1500",
+    "equipment": "26' Straight Box Truck",
+    "weight_lbs": 3500,
+    "carrier_rate": null,
+    "updated_at": "2026-10-28T15:39:57.904944+00:00",
+    "lane": "MOUNT PLEASANT TN-POWDER SPRINGS GA"
+  },
+  {
     "pro": "51118",
     "status": "OPEN",
     "pu_date": "2026-10-29",
