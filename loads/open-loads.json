@@ -68,23 +68,6 @@
     "lane": "ORLANDO FL-KNOXVILLE TN"
   },
   {
-    "pro": "51217",
-    "status": "OPEN",
-    "pu_date": "2026-10-30",
-    "pu_city": "ATLANTA",
-    "pu_state": "GA",
-    "pu_hours": "1000-1100",
-    "del_date": "2026-10-30",
-    "del_city": "LEESBURG",
-    "del_state": "GA",
-    "del_hours": "0800-1500",
-    "equipment": "Flatbed Hot Shot",
-    "weight_lbs": 3500,
-    "carrier_rate": 500,
-    "updated_at": "2026-10-29T19:58:39.223317+00:00",
-    "lane": "ATLANTA GA-LEESBURG GA"
-  },
-  {
     "pro": "50542",
     "status": "OPEN",
     "pu_date": "2026-11-02",
