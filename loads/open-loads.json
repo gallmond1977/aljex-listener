@@ -73,7 +73,7 @@
     "pu_date": "2026-10-30",
     "pu_city": "ATLANTA",
     "pu_state": "GA",
-    "pu_hours": "0800-1100",
+    "pu_hours": "1000-1100",
     "del_date": "2026-10-30",
     "del_city": "LEESBURG",
     "del_state": "GA",
@@ -81,7 +81,7 @@
     "equipment": "Flatbed Hot Shot",
     "weight_lbs": 3500,
     "carrier_rate": 500,
-    "updated_at": "2026-10-29T19:45:13.366920+00:00",
+    "updated_at": "2026-10-29T19:58:39.223317+00:00",
     "lane": "ATLANTA GA-LEESBURG GA"
   },
   {
