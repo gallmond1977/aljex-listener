@@ -22,7 +22,7 @@
     "pu_date": "2026-10-29",
     "pu_city": "ATLANTA",
     "pu_state": "GA",
-    "pu_hours": "0800-1230",
+    "pu_hours": "0800-1500",
     "del_date": "2026-10-29",
     "del_city": "MARIETTA",
     "del_state": "GA",
@@ -30,7 +30,7 @@
     "equipment": "Flatbed",
     "weight_lbs": 25774,
     "carrier_rate": 400,
-    "updated_at": "2026-10-29T15:16:38.717894+00:00",
+    "updated_at": "2026-10-29T17:30:23.916838+00:00",
     "lane": "ATLANTA GA-MARIETTA GA"
   },
   {
