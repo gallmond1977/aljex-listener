@@ -68,23 +68,6 @@
     "lane": "ARDMORE OK-MIDLAND GA"
   },
   {
-    "pro": "51205",
-    "status": "OPEN",
-    "pu_date": "2026-10-29",
-    "pu_city": "SALISBURY",
-    "pu_state": "NC",
-    "pu_hours": "1200-1600",
-    "del_date": "2026-10-30",
-    "del_city": "COLUMBUS",
-    "del_state": "OH",
-    "del_hours": "0800-1500",
-    "equipment": "26' Straight Box Truck",
-    "weight_lbs": 1140,
-    "carrier_rate": 700,
-    "updated_at": "2026-10-29T16:17:42.940112+00:00",
-    "lane": "SALISBURY NC-COLUMBUS OH"
-  },
-  {
     "pro": "51120",
     "status": "OPEN",
     "pu_date": "2026-10-30",
@@ -202,6 +185,23 @@
     "carrier_rate": 900,
     "updated_at": "2026-10-29T16:17:13.367991+00:00",
     "lane": "MONCURE NC-ATLANTA GA"
+  },
+  {
+    "pro": "51207",
+    "status": "OPEN",
+    "pu_date": "2026-10-30",
+    "pu_city": "RALEIGH",
+    "pu_state": "NC",
+    "pu_hours": "0800",
+    "del_date": "2026-10-30",
+    "del_city": "ROANOKE",
+    "del_state": "VA",
+    "del_hours": "0800-1500",
+    "equipment": "26' Straight Box Truck",
+    "weight_lbs": 3898,
+    "carrier_rate": null,
+    "updated_at": "2026-10-29T16:29:38.136994+00:00",
+    "lane": "RALEIGH NC-ROANOKE VA"
   },
   {
     "pro": "50542",
