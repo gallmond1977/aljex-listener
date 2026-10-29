@@ -119,6 +119,23 @@
     "lane": "COLUMBUS GA-ATLANTA GA"
   },
   {
+    "pro": "51192",
+    "status": "OPEN",
+    "pu_date": "2026-10-29",
+    "pu_city": "JACKSONVILLE",
+    "pu_state": "FL",
+    "pu_hours": "1500-1700",
+    "del_date": "2026-10-30",
+    "del_city": "DES MOINES",
+    "del_state": "IA",
+    "del_hours": "0800-1500",
+    "equipment": "Van",
+    "weight_lbs": 10000,
+    "carrier_rate": 2200,
+    "updated_at": "2026-10-29T11:58:36.101432+00:00",
+    "lane": "JACKSONVILLE FL-DES MOINES IA"
+  },
+  {
     "pro": "51120",
     "status": "OPEN",
     "pu_date": "2026-10-30",
