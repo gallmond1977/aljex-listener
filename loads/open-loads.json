@@ -34,40 +34,6 @@
     "lane": "ATLANTA GA-MARIETTA GA"
   },
   {
-    "pro": "51203",
-    "status": "OPEN",
-    "pu_date": "2026-10-29",
-    "pu_city": "MONCURE",
-    "pu_state": "NC",
-    "pu_hours": "0730-1600",
-    "del_date": "",
-    "del_city": "ATLANTA",
-    "del_state": "GA",
-    "del_hours": "0800-1600",
-    "equipment": "Van",
-    "weight_lbs": 44000,
-    "carrier_rate": 900,
-    "updated_at": "2026-10-29T16:17:48.703221+00:00",
-    "lane": "MONCURE NC-ATLANTA GA"
-  },
-  {
-    "pro": "51204",
-    "status": "OPEN",
-    "pu_date": "2026-10-29",
-    "pu_city": "ARDMORE",
-    "pu_state": "OK",
-    "pu_hours": "0800-1500",
-    "del_date": "2026-10-30",
-    "del_city": "MIDLAND",
-    "del_state": "GA",
-    "del_hours": "0800-1200",
-    "equipment": "Sprinter Van",
-    "weight_lbs": 1200,
-    "carrier_rate": null,
-    "updated_at": "2026-10-29T16:19:30.130240+00:00",
-    "lane": "ARDMORE OK-MIDLAND GA"
-  },
-  {
     "pro": "51158",
     "status": "OPEN",
     "pu_date": "2026-10-30",
@@ -134,6 +100,23 @@
     "carrier_rate": 2200,
     "updated_at": "2026-10-29T15:41:22.249670+00:00",
     "lane": "BUFFALO NY-PFLUGERVILLE TX"
+  },
+  {
+    "pro": "51204",
+    "status": "OPEN",
+    "pu_date": "2026-10-30",
+    "pu_city": "ARDMORE",
+    "pu_state": "OK",
+    "pu_hours": "0800-1500",
+    "del_date": "2026-10-30",
+    "del_city": "MIDLAND",
+    "del_state": "GA",
+    "del_hours": "0800-1200",
+    "equipment": "Sprinter Van",
+    "weight_lbs": 1200,
+    "carrier_rate": null,
+    "updated_at": "2026-10-29T17:02:07.771718+00:00",
+    "lane": "ARDMORE OK-MIDLAND GA"
   },
   {
     "pro": "51206",
@@ -285,7 +268,7 @@
     "equipment": "Van",
     "weight_lbs": 16000,
     "carrier_rate": 2600,
-    "updated_at": "2026-10-29T16:55:48.151614+00:00",
+    "updated_at": "2026-10-29T17:01:28.034999+00:00",
     "lane": "BENSENVILLE IL-ALPHARETTA GA"
   },
   {
@@ -294,16 +277,33 @@
     "pu_date": "2026-11-03",
     "pu_city": "BENSENVILLE",
     "pu_state": "IL",
-    "pu_hours": "1200-1545",
+    "pu_hours": "1200-1530",
     "del_date": "2026-11-04",
     "del_city": "BELCAMP",
     "del_state": "MD",
     "del_hours": "0700-1500",
     "equipment": "Van",
     "weight_lbs": 16000,
-    "carrier_rate": null,
-    "updated_at": "2026-10-29T16:58:47.080140+00:00",
+    "carrier_rate": 2700,
+    "updated_at": "2026-10-29T17:01:53.432226+00:00",
     "lane": "BENSENVILLE IL-BELCAMP MD"
+  },
+  {
+    "pro": "51210",
+    "status": "OPEN",
+    "pu_date": "2026-11-03",
+    "pu_city": "CHARLESTON",
+    "pu_state": "SC",
+    "pu_hours": "0800-1500",
+    "del_date": "2026-11-04",
+    "del_city": "LOUDON",
+    "del_state": "TN",
+    "del_hours": "1000",
+    "equipment": "Van",
+    "weight_lbs": 44000,
+    "carrier_rate": 1400,
+    "updated_at": "2026-10-29T17:05:05.956239+00:00",
+    "lane": "CHARLESTON SC-LOUDON TN"
   },
   {
     "pro": "51043",
@@ -848,5 +848,22 @@
     "carrier_rate": 850,
     "updated_at": "2026-10-29T16:37:40.149569+00:00",
     "lane": "WADESBORO NC-ATLANTA GA"
+  },
+  {
+    "pro": "51203",
+    "status": "COVERED",
+    "pu_date": "2026-10-30",
+    "pu_city": "MONCURE",
+    "pu_state": "NC",
+    "pu_hours": "0730-1600",
+    "del_date": "2026-11-02",
+    "del_city": "ATLANTA",
+    "del_state": "GA",
+    "del_hours": "0800-1600",
+    "equipment": "Van",
+    "weight_lbs": 44000,
+    "carrier_rate": 900,
+    "updated_at": "2026-10-29T17:04:54.481823+00:00",
+    "lane": "MONCURE NC-ATLANTA GA"
   }
 ]
