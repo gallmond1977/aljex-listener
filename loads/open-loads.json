@@ -51,6 +51,23 @@
     "lane": "BUENA VISTA GA-LINDEN NJ"
   },
   {
+    "pro": "51197",
+    "status": "OPEN",
+    "pu_date": "2026-10-29",
+    "pu_city": "WINDER",
+    "pu_state": "GA",
+    "pu_hours": "1300-1600",
+    "del_date": "2026-10-30",
+    "del_city": "UNION CITY",
+    "del_state": "GA",
+    "del_hours": "0630-0730",
+    "equipment": "Sprinter Van",
+    "weight_lbs": 1500,
+    "carrier_rate": 250,
+    "updated_at": "2026-10-29T14:13:10.735743+00:00",
+    "lane": "WINDER GA-UNION CITY GA"
+  },
+  {
     "pro": "51120",
     "status": "OPEN",
     "pu_date": "2026-10-30",
