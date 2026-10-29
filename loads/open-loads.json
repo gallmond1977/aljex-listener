@@ -771,14 +771,14 @@
     "pu_city": "ALPHARETTA",
     "pu_state": "GA",
     "pu_hours": "1200-1800",
-    "del_date": "2026-10-29",
+    "del_date": "2026-10-30",
     "del_city": "BELCAMP",
     "del_state": "MD",
     "del_hours": "0700-1500",
     "equipment": "Conestoga",
     "weight_lbs": 42000,
     "carrier_rate": 3300,
-    "updated_at": "2026-10-28T21:33:28.600325+00:00",
+    "updated_at": "2026-10-29T14:04:58.878810+00:00",
     "lane": "ALPHARETTA GA-BELCAMP MD"
   },
   {
@@ -834,7 +834,7 @@
   },
   {
     "pro": "51177",
-    "status": "COVERED",
+    "status": "DISPATCHED",
     "pu_date": "2026-10-29",
     "pu_city": "WADESBORO",
     "pu_state": "NC",
@@ -846,7 +846,7 @@
     "equipment": "Van",
     "weight_lbs": 44000,
     "carrier_rate": 850,
-    "updated_at": "2026-10-29T13:59:31.400189+00:00",
+    "updated_at": "2026-10-29T14:01:02.806019+00:00",
     "lane": "WADESBORO NC-ATLANTA GA"
   },
   {
