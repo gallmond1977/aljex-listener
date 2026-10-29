@@ -68,6 +68,23 @@
     "lane": "ORLANDO FL-KNOXVILLE TN"
   },
   {
+    "pro": "51218",
+    "status": "OPEN",
+    "pu_date": "2026-10-30",
+    "pu_city": "CONYERS",
+    "pu_state": "GA",
+    "pu_hours": "0700-0900",
+    "del_date": "2026-10-30",
+    "del_city": "ALPHARETTA",
+    "del_state": "GA",
+    "del_hours": "0700-1300",
+    "equipment": "26' Straight Box Truck",
+    "weight_lbs": 5635,
+    "carrier_rate": 200,
+    "updated_at": "2026-10-29T20:45:03.245100+00:00",
+    "lane": "CONYERS GA-ALPHARETTA GA"
+  },
+  {
     "pro": "50542",
     "status": "OPEN",
     "pu_date": "2026-11-02",
