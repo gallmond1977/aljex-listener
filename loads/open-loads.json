@@ -13,25 +13,8 @@
     "equipment": "Van",
     "weight_lbs": 44000,
     "carrier_rate": 850,
-    "updated_at": "2026-10-29T12:52:47.168123+00:00",
+    "updated_at": "2026-10-29T16:35:55.098511+00:00",
     "lane": "WADESBORO NC-ATLANTA GA"
-  },
-  {
-    "pro": "51183",
-    "status": "OPEN",
-    "pu_date": "2026-10-29",
-    "pu_city": "BUENA VISTA",
-    "pu_state": "GA",
-    "pu_hours": "1000-1500",
-    "del_date": "2026-10-30",
-    "del_city": "LINDEN",
-    "del_state": "NJ",
-    "del_hours": "0700-1100",
-    "equipment": "Van",
-    "weight_lbs": 43500,
-    "carrier_rate": 2700,
-    "updated_at": "2026-10-29T16:34:37.341328+00:00",
-    "lane": "BUENA VISTA GA-LINDEN NJ"
   },
   {
     "pro": "51201",
@@ -83,23 +66,6 @@
     "carrier_rate": null,
     "updated_at": "2026-10-29T16:19:30.130240+00:00",
     "lane": "ARDMORE OK-MIDLAND GA"
-  },
-  {
-    "pro": "51120",
-    "status": "OPEN",
-    "pu_date": "2026-10-30",
-    "pu_city": "WINCHESTER",
-    "pu_state": "KY",
-    "pu_hours": "1230",
-    "del_date": "2026-11-01",
-    "del_city": "BURLINGTON",
-    "del_state": "NJ",
-    "del_hours": "0900",
-    "equipment": "Van",
-    "weight_lbs": 7200,
-    "carrier_rate": 2300,
-    "updated_at": "2026-10-29T12:59:15.823376+00:00",
-    "lane": "WINCHESTER KY-BURLINGTON NJ"
   },
   {
     "pro": "51158",
@@ -880,7 +846,7 @@
     "equipment": "Van",
     "weight_lbs": 44000,
     "carrier_rate": 850,
-    "updated_at": "2026-10-29T14:54:00.081757+00:00",
+    "updated_at": "2026-10-29T16:37:40.149569+00:00",
     "lane": "WADESBORO NC-ATLANTA GA"
   },
   {
