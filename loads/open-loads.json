@@ -102,23 +102,6 @@
     "lane": "SOUTH BOSTON VA-HALEYVILLE AL"
   },
   {
-    "pro": "51191",
-    "status": "OPEN",
-    "pu_date": "2026-10-29",
-    "pu_city": "COLUMBUS",
-    "pu_state": "GA",
-    "pu_hours": "0800-0930",
-    "del_date": "2026-10-29",
-    "del_city": "ATLANTA",
-    "del_state": "GA",
-    "del_hours": "0800-1600",
-    "equipment": "26' Straight Box Truck",
-    "weight_lbs": 9000,
-    "carrier_rate": 300,
-    "updated_at": "2026-10-28T20:41:01.047225+00:00",
-    "lane": "COLUMBUS GA-ATLANTA GA"
-  },
-  {
     "pro": "51192",
     "status": "OPEN",
     "pu_date": "2026-10-29",
@@ -593,23 +576,6 @@
     "carrier_rate": 900,
     "updated_at": "2026-10-26T14:36:54.734904+00:00",
     "lane": "WADESBORO NC-ATLANTA GA"
-  },
-  {
-    "pro": "51061",
-    "status": "RELEASED",
-    "pu_date": "2026-10-21",
-    "pu_city": "COLUMBUS",
-    "pu_state": "GA",
-    "pu_hours": "1000-1200",
-    "del_date": "2026-10-21",
-    "del_city": "ATLANTA",
-    "del_state": "GA",
-    "del_hours": "0800-1600",
-    "equipment": "26' Straight Box Truck",
-    "weight_lbs": 9000,
-    "carrier_rate": 350,
-    "updated_at": "2026-10-22T16:02:06.917299+00:00",
-    "lane": "COLUMBUS GA-ATLANTA GA"
   },
   {
     "pro": "51069",
