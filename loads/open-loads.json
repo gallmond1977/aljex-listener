@@ -68,23 +68,6 @@
     "lane": "CALHOUN GA-LINCOLNTON NC"
   },
   {
-    "pro": "51186",
-    "status": "OPEN",
-    "pu_date": "2026-10-29",
-    "pu_city": "UNION CITY",
-    "pu_state": "GA",
-    "pu_hours": "1300",
-    "del_date": "2026-10-30",
-    "del_city": "CHARLOTTE",
-    "del_state": "NC",
-    "del_hours": "0630",
-    "equipment": "26' Straight Box Truck",
-    "weight_lbs": 4000,
-    "carrier_rate": 550,
-    "updated_at": "2026-10-29T13:13:19.651977+00:00",
-    "lane": "UNION CITY GA-CHARLOTTE NC"
-  },
-  {
     "pro": "51191",
     "status": "OPEN",
     "pu_date": "2026-10-29",
@@ -236,6 +219,23 @@
     "carrier_rate": 3300,
     "updated_at": "2026-10-29T12:57:37.719543+00:00",
     "lane": "ALPHARETTA GA-BELCAMP MD"
+  },
+  {
+    "pro": "51195",
+    "status": "OPEN",
+    "pu_date": "2026-10-30",
+    "pu_city": "COLUMBUS",
+    "pu_state": "GA",
+    "pu_hours": "0800-1500",
+    "del_date": "2026-11-02",
+    "del_city": "STEVENS",
+    "del_state": "PA",
+    "del_hours": "0700-1500",
+    "equipment": "Van",
+    "weight_lbs": 43850,
+    "carrier_rate": 2500,
+    "updated_at": "2026-10-29T13:23:09.657441+00:00",
+    "lane": "COLUMBUS GA-STEVENS PA"
   },
   {
     "pro": "50542",
@@ -897,7 +897,7 @@
     "equipment": "Van",
     "weight_lbs": 14580,
     "carrier_rate": 1000,
-    "updated_at": "2026-10-28T20:08:07.499501+00:00",
+    "updated_at": "2026-10-29T13:22:56.016275+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
