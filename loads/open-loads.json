@@ -119,23 +119,6 @@
     "lane": "BUENA VISTA GA-BRENTWOOD TN"
   },
   {
-    "pro": "51212",
-    "status": "OPEN",
-    "pu_date": "2026-10-30",
-    "pu_city": "CYPRESS",
-    "pu_state": "TX",
-    "pu_hours": "0800-1530",
-    "del_date": "2026-11-02",
-    "del_city": "ROANOKE",
-    "del_state": "AL",
-    "del_hours": "0800-1200",
-    "equipment": "Flatbed",
-    "weight_lbs": 22000,
-    "carrier_rate": 2100,
-    "updated_at": "2026-10-29T18:19:37.761528+00:00",
-    "lane": "CYPRESS TX-ROANOKE AL"
-  },
-  {
     "pro": "51213",
     "status": "OPEN",
     "pu_date": "2026-10-30",
@@ -287,6 +270,40 @@
     "carrier_rate": 2600,
     "updated_at": "2026-10-29T17:01:28.034999+00:00",
     "lane": "BENSENVILLE IL-ALPHARETTA GA"
+  },
+  {
+    "pro": "51212",
+    "status": "OPEN",
+    "pu_date": "2026-11-02",
+    "pu_city": "CYPRESS",
+    "pu_state": "TX",
+    "pu_hours": "0800-1530",
+    "del_date": "2026-11-03",
+    "del_city": "ROANOKE",
+    "del_state": "AL",
+    "del_hours": "0800-1200",
+    "equipment": "Flatbed",
+    "weight_lbs": 22000,
+    "carrier_rate": 2100,
+    "updated_at": "2026-10-29T18:56:53.234278+00:00",
+    "lane": "CYPRESS TX-ROANOKE AL"
+  },
+  {
+    "pro": "51215",
+    "status": "OPEN",
+    "pu_date": "2026-11-02",
+    "pu_city": "BUFFALO",
+    "pu_state": "NY",
+    "pu_hours": "1100-1500",
+    "del_date": "2026-11-03",
+    "del_city": "BELCAMP",
+    "del_state": "MD",
+    "del_hours": "0700-1500",
+    "equipment": "26' Straight Box Truck",
+    "weight_lbs": 3564,
+    "carrier_rate": null,
+    "updated_at": "2026-10-29T18:56:11.172498+00:00",
+    "lane": "BUFFALO NY-BELCAMP MD"
   },
   {
     "pro": "51209",
@@ -527,6 +544,23 @@
     "lane": "LA PORTE TX-PIEDMONT SC"
   },
   {
+    "pro": "51047",
+    "status": "RELEASED",
+    "pu_date": "2026-10-21",
+    "pu_city": "BUFFALO",
+    "pu_state": "NY",
+    "pu_hours": "1300-1400",
+    "del_date": "2026-10-22",
+    "del_city": "BELCAMP",
+    "del_state": "MD",
+    "del_hours": "0700-1500",
+    "equipment": "Van",
+    "weight_lbs": 14479,
+    "carrier_rate": 1800,
+    "updated_at": "2026-10-26T16:07:57.813057+00:00",
+    "lane": "BUFFALO NY-BELCAMP MD"
+  },
+  {
     "pro": "51069",
     "status": "RELEASED",
     "pu_date": "2026-10-22",
@@ -593,6 +627,23 @@
     "carrier_rate": 1000,
     "updated_at": "2026-10-26T11:53:12.575993+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
+  },
+  {
+    "pro": "51092",
+    "status": "RELEASED",
+    "pu_date": "2026-10-23",
+    "pu_city": "BUFFALO",
+    "pu_state": "NY",
+    "pu_hours": "0900-1500",
+    "del_date": "2026-10-26",
+    "del_city": "BELCAMP",
+    "del_state": "MD",
+    "del_hours": "0700-0800",
+    "equipment": "26' Straight Box Truck",
+    "weight_lbs": 7000,
+    "carrier_rate": 800,
+    "updated_at": "2026-10-26T13:19:35.649003+00:00",
+    "lane": "BUFFALO NY-BELCAMP MD"
   },
   {
     "pro": "51073",
