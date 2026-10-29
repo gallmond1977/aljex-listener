@@ -34,23 +34,6 @@
     "lane": "WADESBORO NC-ATLANTA GA"
   },
   {
-    "pro": "51183",
-    "status": "OPEN",
-    "pu_date": "2026-10-29",
-    "pu_city": "BUENA VISTA",
-    "pu_state": "GA",
-    "pu_hours": "1000-1500",
-    "del_date": "2026-10-30",
-    "del_city": "LINDEN",
-    "del_state": "NJ",
-    "del_hours": "0700-1100",
-    "equipment": "Van",
-    "weight_lbs": 43500,
-    "carrier_rate": 2400,
-    "updated_at": "2026-10-29T14:06:16.940868+00:00",
-    "lane": "BUENA VISTA GA-LINDEN NJ"
-  },
-  {
     "pro": "51197",
     "status": "OPEN",
     "pu_date": "2026-10-29",
@@ -64,7 +47,7 @@
     "equipment": "Sprinter Van",
     "weight_lbs": 1500,
     "carrier_rate": 250,
-    "updated_at": "2026-10-29T14:13:10.735743+00:00",
+    "updated_at": "2026-10-29T14:41:28.471888+00:00",
     "lane": "WINDER GA-UNION CITY GA"
   },
   {
