@@ -34,6 +34,23 @@
     "lane": "WADESBORO NC-ATLANTA GA"
   },
   {
+    "pro": "51201",
+    "status": "OPEN",
+    "pu_date": "2026-10-29",
+    "pu_city": "ATLANTA",
+    "pu_state": "GA",
+    "pu_hours": "0800-1230",
+    "del_date": "2026-10-29",
+    "del_city": "MARIETTA",
+    "del_state": "GA",
+    "del_hours": "0800-1430",
+    "equipment": "Flatbed",
+    "weight_lbs": 25774,
+    "carrier_rate": 400,
+    "updated_at": "2026-10-29T15:16:38.717894+00:00",
+    "lane": "ATLANTA GA-MARIETTA GA"
+  },
+  {
     "pro": "51120",
     "status": "OPEN",
     "pu_date": "2026-10-30",
@@ -66,23 +83,6 @@
     "carrier_rate": 4500,
     "updated_at": "2026-10-29T12:46:53.443038+00:00",
     "lane": "MONTEZUMA GA-TRACY CA"
-  },
-  {
-    "pro": "51172",
-    "status": "OPEN",
-    "pu_date": "2026-10-30",
-    "pu_city": "PENDERGRASS",
-    "pu_state": "GA",
-    "pu_hours": "1300",
-    "del_date": "2026-11-02",
-    "del_city": "ZEBULON",
-    "del_state": "NC",
-    "del_hours": "0700-0900",
-    "equipment": "Van",
-    "weight_lbs": 40124,
-    "carrier_rate": 1200,
-    "updated_at": "2026-10-28T16:29:28.068779+00:00",
-    "lane": "PENDERGRASS GA-ZEBULON NC"
   },
   {
     "pro": "51182",
