@@ -68,6 +68,23 @@
     "lane": "CALHOUN GA-LINCOLNTON NC"
   },
   {
+    "pro": "51186",
+    "status": "OPEN",
+    "pu_date": "2026-10-29",
+    "pu_city": "UNION CITY",
+    "pu_state": "GA",
+    "pu_hours": "1300",
+    "del_date": "2026-10-30",
+    "del_city": "CHARLOTTE",
+    "del_state": "NC",
+    "del_hours": "0630",
+    "equipment": "26' Straight Box Truck",
+    "weight_lbs": 4000,
+    "carrier_rate": 550,
+    "updated_at": "2026-10-29T13:13:19.651977+00:00",
+    "lane": "UNION CITY GA-CHARLOTTE NC"
+  },
+  {
     "pro": "51191",
     "status": "OPEN",
     "pu_date": "2026-10-29",
