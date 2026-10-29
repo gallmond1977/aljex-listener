@@ -63,8 +63,8 @@
     "del_hours": "0700-1500",
     "equipment": "Van",
     "weight_lbs": 42000,
-    "carrier_rate": 1000,
-    "updated_at": "2026-10-28T19:00:52.627110+00:00",
+    "carrier_rate": 1100,
+    "updated_at": "2026-10-29T13:25:36.364852+00:00",
     "lane": "CALHOUN GA-LINCOLNTON NC"
   },
   {
@@ -117,6 +117,23 @@
     "carrier_rate": 3300,
     "updated_at": "2026-10-29T13:18:31.985620+00:00",
     "lane": "ALPHARETTA GA-BELCAMP MD"
+  },
+  {
+    "pro": "51196",
+    "status": "OPEN",
+    "pu_date": "2026-10-29",
+    "pu_city": "HIGH POINT",
+    "pu_state": "NC",
+    "pu_hours": "NEEDS ETA",
+    "del_date": "2026-10-29",
+    "del_city": "HOLLY SPRINGS",
+    "del_state": "NC",
+    "del_hours": "NEEDS ETA",
+    "equipment": "Flatbed Hot Shot",
+    "weight_lbs": 6000,
+    "carrier_rate": 600,
+    "updated_at": "2026-10-29T13:28:13.289232+00:00",
+    "lane": "HIGH POINT NC-HOLLY SPRINGS NC"
   },
   {
     "pro": "51120",
@@ -885,7 +902,7 @@
   },
   {
     "pro": "51147",
-    "status": "COVERED",
+    "status": "DISPATCHED",
     "pu_date": "2026-10-29",
     "pu_city": "WINCHESTER",
     "pu_state": "KY",
@@ -897,7 +914,7 @@
     "equipment": "Van",
     "weight_lbs": 14580,
     "carrier_rate": 1000,
-    "updated_at": "2026-10-29T13:22:56.016275+00:00",
+    "updated_at": "2026-10-29T13:27:46.381635+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
