@@ -102,23 +102,6 @@
     "lane": "MONCURE NC-ATLANTA GA"
   },
   {
-    "pro": "51207",
-    "status": "OPEN",
-    "pu_date": "2026-10-30",
-    "pu_city": "RALEIGH",
-    "pu_state": "NC",
-    "pu_hours": "0800",
-    "del_date": "2026-10-30",
-    "del_city": "ROANOKE",
-    "del_state": "VA",
-    "del_hours": "0800-1500",
-    "equipment": "26' Straight Box Truck",
-    "weight_lbs": 3898,
-    "carrier_rate": 450,
-    "updated_at": "2026-10-29T16:30:13.521171+00:00",
-    "lane": "RALEIGH NC-ROANOKE VA"
-  },
-  {
     "pro": "51211",
     "status": "OPEN",
     "pu_date": "2026-10-30",
