@@ -17,6 +17,23 @@
     "lane": "ATLANTA GA-MARIETTA GA"
   },
   {
+    "pro": "51214",
+    "status": "OPEN",
+    "pu_date": "2026-10-29",
+    "pu_city": "MOUNT PLEASANT",
+    "pu_state": "TN",
+    "pu_hours": "0800-1600",
+    "del_date": "2026-10-30",
+    "del_city": "RAINSVILLE",
+    "del_state": "AL",
+    "del_hours": "0800-1630",
+    "equipment": "26' Straight Box Truck",
+    "weight_lbs": 5000,
+    "carrier_rate": 400,
+    "updated_at": "2026-10-29T18:40:08.934338+00:00",
+    "lane": "MOUNT PLEASANT TN-RAINSVILLE AL"
+  },
+  {
     "pro": "51158",
     "status": "OPEN",
     "pu_date": "2026-10-30",
