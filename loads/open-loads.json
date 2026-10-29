@@ -115,7 +115,7 @@
     "equipment": "Flatbed w/ Tarps",
     "weight_lbs": 13000,
     "carrier_rate": null,
-    "updated_at": "2026-10-29T15:03:37.592783+00:00",
+    "updated_at": "2026-10-29T15:05:55.215534+00:00",
     "lane": "SHILOH OH-CASHIERS NC"
   },
   {
@@ -287,6 +287,23 @@
     "carrier_rate": 1100,
     "updated_at": "2026-10-20T12:56:28.415329+00:00",
     "lane": "WOODRUFF SC-RICHMOND KY"
+  },
+  {
+    "pro": "51200",
+    "status": "OPEN",
+    "pu_date": "2026-11-05",
+    "pu_city": "COLUMBUS",
+    "pu_state": "GA",
+    "pu_hours": "0800-1500",
+    "del_date": "2026-11-06",
+    "del_city": "PENSACOLA",
+    "del_state": "FL",
+    "del_hours": "0700-1400",
+    "equipment": "Flatbed w/ Tarps",
+    "weight_lbs": 47478,
+    "carrier_rate": 1000,
+    "updated_at": "2026-10-29T15:08:37.875521+00:00",
+    "lane": "COLUMBUS GA-PENSACOLA FL"
   },
   {
     "pro": "51135",
@@ -754,14 +771,14 @@
     "pu_city": "ALPHARETTA",
     "pu_state": "GA",
     "pu_hours": "1200-1800",
-    "del_date": "2026-10-30",
+    "del_date": "2026-10-29",
     "del_city": "BELCAMP",
     "del_state": "MD",
     "del_hours": "0700-1500",
     "equipment": "Conestoga",
     "weight_lbs": 42000,
     "carrier_rate": 3300,
-    "updated_at": "2026-10-29T14:04:58.878810+00:00",
+    "updated_at": "2026-10-29T15:06:32.173167+00:00",
     "lane": "ALPHARETTA GA-BELCAMP MD"
   },
   {
