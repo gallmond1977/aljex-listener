@@ -136,23 +136,6 @@
     "lane": "COLUMBUS GA-STEVENS PA"
   },
   {
-    "pro": "51198",
-    "status": "OPEN",
-    "pu_date": "2026-10-30",
-    "pu_city": "BUFFALO",
-    "pu_state": "NY",
-    "pu_hours": "1100-1200",
-    "del_date": "2026-11-02",
-    "del_city": "PFLUGERVILLE",
-    "del_state": "TX",
-    "del_hours": "",
-    "equipment": "26' Straight Box Truck",
-    "weight_lbs": 1500,
-    "carrier_rate": null,
-    "updated_at": "2026-10-29T14:48:39.155828+00:00",
-    "lane": "BUFFALO NY-PFLUGERVILLE TX"
-  },
-  {
     "pro": "51199",
     "status": "OPEN",
     "pu_date": "2026-10-30",
