@@ -170,6 +170,23 @@
     "lane": "CYPRESS TX-ROANOKE AL"
   },
   {
+    "pro": "51213",
+    "status": "OPEN",
+    "pu_date": "2026-10-30",
+    "pu_city": "UNION CITY",
+    "pu_state": "GA",
+    "pu_hours": "1300",
+    "del_date": "2026-10-31",
+    "del_city": "MIAMI",
+    "del_state": "FL",
+    "del_hours": "0800",
+    "equipment": "26' Straight Box Truck",
+    "weight_lbs": 7000,
+    "carrier_rate": null,
+    "updated_at": "2026-10-29T18:27:38.818558+00:00",
+    "lane": "UNION CITY GA-MIAMI FL"
+  },
+  {
     "pro": "50542",
     "status": "OPEN",
     "pu_date": "2026-11-02",
@@ -661,6 +678,23 @@
     "carrier_rate": 2000,
     "updated_at": "2026-10-28T19:31:44.639039+00:00",
     "lane": "GARLAND TX-CALHOUN GA"
+  },
+  {
+    "pro": "51133",
+    "status": "DELIVERED",
+    "pu_date": "2026-10-27",
+    "pu_city": "UNION CITY",
+    "pu_state": "GA",
+    "pu_hours": "",
+    "del_date": "2026-10-28",
+    "del_city": "MIAMI",
+    "del_state": "FL",
+    "del_hours": "1400",
+    "equipment": "26' Straight Box Truck",
+    "weight_lbs": 4000,
+    "carrier_rate": 1600,
+    "updated_at": "2026-10-28T19:47:51.198621+00:00",
+    "lane": "UNION CITY GA-MIAMI FL"
   },
   {
     "pro": "51147",
