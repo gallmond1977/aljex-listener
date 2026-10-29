@@ -46,8 +46,8 @@
     "del_hours": "0800-1600",
     "equipment": "Van",
     "weight_lbs": 44000,
-    "carrier_rate": 850,
-    "updated_at": "2026-10-29T16:06:54.250495+00:00",
+    "carrier_rate": 900,
+    "updated_at": "2026-10-29T16:14:09.773861+00:00",
     "lane": "MONCURE NC-ATLANTA GA"
   },
   {
@@ -66,6 +66,23 @@
     "carrier_rate": null,
     "updated_at": "2026-10-29T16:03:27.345791+00:00",
     "lane": "ARDMORE OK-MIDLAND GA"
+  },
+  {
+    "pro": "51205",
+    "status": "OPEN",
+    "pu_date": "2026-10-29",
+    "pu_city": "SALISBURY",
+    "pu_state": "NC",
+    "pu_hours": "1200-1600",
+    "del_date": "2026-10-30",
+    "del_city": "COLUMBUS",
+    "del_state": "OH",
+    "del_hours": "0630-0800",
+    "equipment": "26' Straight Box Truck",
+    "weight_lbs": 1140,
+    "carrier_rate": null,
+    "updated_at": "2026-10-29T16:13:46.844448+00:00",
+    "lane": "SALISBURY NC-COLUMBUS OH"
   },
   {
     "pro": "51120",
