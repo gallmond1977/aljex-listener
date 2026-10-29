@@ -51,23 +51,6 @@
     "lane": "BUENA VISTA GA-LINDEN NJ"
   },
   {
-    "pro": "51194",
-    "status": "OPEN",
-    "pu_date": "2026-10-29",
-    "pu_city": "ALPHARETTA",
-    "pu_state": "GA",
-    "pu_hours": "0900-1700",
-    "del_date": "2026-10-30",
-    "del_city": "BELCAMP",
-    "del_state": "MD",
-    "del_hours": "0700-1300",
-    "equipment": "Flatbed w/ Tarps",
-    "weight_lbs": 42000,
-    "carrier_rate": 3300,
-    "updated_at": "2026-10-29T13:18:31.985620+00:00",
-    "lane": "ALPHARETTA GA-BELCAMP MD"
-  },
-  {
     "pro": "51120",
     "status": "OPEN",
     "pu_date": "2026-10-30",
@@ -829,7 +812,7 @@
     "equipment": "Van",
     "weight_lbs": 14580,
     "carrier_rate": 1000,
-    "updated_at": "2026-10-29T13:27:46.381635+00:00",
+    "updated_at": "2026-10-29T13:42:05.941873+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
@@ -865,5 +848,22 @@
     "carrier_rate": 850,
     "updated_at": "2026-10-29T12:39:37.730004+00:00",
     "lane": "WADESBORO NC-ATLANTA GA"
+  },
+  {
+    "pro": "51194",
+    "status": "COVERED",
+    "pu_date": "2026-10-29",
+    "pu_city": "ALPHARETTA",
+    "pu_state": "GA",
+    "pu_hours": "0900-1700",
+    "del_date": "2026-10-30",
+    "del_city": "BELCAMP",
+    "del_state": "MD",
+    "del_hours": "0700-1300",
+    "equipment": "Flatbed w/ Tarps",
+    "weight_lbs": 42000,
+    "carrier_rate": 3300,
+    "updated_at": "2026-10-29T13:44:16.706466+00:00",
+    "lane": "ALPHARETTA GA-BELCAMP MD"
   }
 ]
