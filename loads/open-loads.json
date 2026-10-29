@@ -145,11 +145,11 @@
     "del_date": "2026-11-02",
     "del_city": "PFLUGERVILLE",
     "del_state": "TX",
-    "del_hours": "",
+    "del_hours": "0700-1500",
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 1500,
     "carrier_rate": 2200,
-    "updated_at": "2026-10-29T14:55:12.087640+00:00",
+    "updated_at": "2026-10-29T15:41:22.249670+00:00",
     "lane": "BUFFALO NY-PFLUGERVILLE TX"
   },
   {
