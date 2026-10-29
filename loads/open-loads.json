@@ -153,6 +153,23 @@
     "lane": "BUENA VISTA GA-BRENTWOOD TN"
   },
   {
+    "pro": "51212",
+    "status": "OPEN",
+    "pu_date": "2026-10-30",
+    "pu_city": "CYPRESS",
+    "pu_state": "TX",
+    "pu_hours": "0800-1530",
+    "del_date": "2026-11-02",
+    "del_city": "ROANOKE",
+    "del_state": "AL",
+    "del_hours": "0800-1200",
+    "equipment": "Flatbed",
+    "weight_lbs": 23800,
+    "carrier_rate": null,
+    "updated_at": "2026-10-29T18:09:57.729759+00:00",
+    "lane": "CYPRESS TX-ROANOKE AL"
+  },
+  {
     "pro": "50542",
     "status": "OPEN",
     "pu_date": "2026-11-02",
