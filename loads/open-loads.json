@@ -17,23 +17,6 @@
     "lane": "PORT ANGELES WA-EL PASO TX"
   },
   {
-    "pro": "51182",
-    "status": "OPEN",
-    "pu_date": "2026-10-30",
-    "pu_city": "SHILOH",
-    "pu_state": "OH",
-    "pu_hours": "0800-1500",
-    "del_date": "2026-11-02",
-    "del_city": "CASHIERS",
-    "del_state": "NC",
-    "del_hours": "CALL!",
-    "equipment": "Flatbed w/ Tarps",
-    "weight_lbs": 13000,
-    "carrier_rate": null,
-    "updated_at": "2026-10-29T15:45:50.726703+00:00",
-    "lane": "SHILOH OH-CASHIERS NC"
-  },
-  {
     "pro": "51206",
     "status": "OPEN",
     "pu_date": "2026-10-30",
@@ -73,15 +56,15 @@
     "pu_date": "2026-10-30",
     "pu_city": "ORLANDO",
     "pu_state": "FL",
-    "pu_hours": "",
+    "pu_hours": "0800-1500",
     "del_date": "2026-11-02",
     "del_city": "KNOXVILLE",
     "del_state": "TN",
-    "del_hours": "",
+    "del_hours": "AD LEFTVM",
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 5500,
-    "carrier_rate": null,
-    "updated_at": "2026-10-29T19:44:32.113629+00:00",
+    "carrier_rate": 650,
+    "updated_at": "2026-10-29T19:53:29.955433+00:00",
     "lane": "ORLANDO FL-KNOXVILLE TN"
   },
   {
@@ -406,6 +389,23 @@
     "carrier_rate": 1000,
     "updated_at": "2026-10-28T16:59:30.682560+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
+  },
+  {
+    "pro": "51182",
+    "status": "OPEN",
+    "pu_date": "2026-11-09",
+    "pu_city": "SHILOH",
+    "pu_state": "OH",
+    "pu_hours": "0800-1500",
+    "del_date": "2026-11-10",
+    "del_city": "CASHIERS",
+    "del_state": "NC",
+    "del_hours": "CALL!",
+    "equipment": "Flatbed w/ Tarps",
+    "weight_lbs": 13000,
+    "carrier_rate": null,
+    "updated_at": "2026-10-29T19:52:56.084954+00:00",
+    "lane": "SHILOH OH-CASHIERS NC"
   },
   {
     "pro": "49855",
