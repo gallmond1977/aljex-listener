@@ -17,6 +17,23 @@
     "lane": "WADESBORO NC-ATLANTA GA"
   },
   {
+    "pro": "51183",
+    "status": "OPEN",
+    "pu_date": "2026-10-29",
+    "pu_city": "BUENA VISTA",
+    "pu_state": "GA",
+    "pu_hours": "1000-1500",
+    "del_date": "2026-10-30",
+    "del_city": "LINDEN",
+    "del_state": "NJ",
+    "del_hours": "0700-1100",
+    "equipment": "Van",
+    "weight_lbs": 43500,
+    "carrier_rate": 2700,
+    "updated_at": "2026-10-29T16:34:37.341328+00:00",
+    "lane": "BUENA VISTA GA-LINDEN NJ"
+  },
+  {
     "pro": "51201",
     "status": "OPEN",
     "pu_date": "2026-10-29",
@@ -199,8 +216,8 @@
     "del_hours": "0800-1500",
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 3898,
-    "carrier_rate": null,
-    "updated_at": "2026-10-29T16:29:38.136994+00:00",
+    "carrier_rate": 450,
+    "updated_at": "2026-10-29T16:30:13.521171+00:00",
     "lane": "RALEIGH NC-ROANOKE VA"
   },
   {
