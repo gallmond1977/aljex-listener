@@ -153,6 +153,23 @@
     "lane": "BUFFALO NY-PFLUGERVILLE TX"
   },
   {
+    "pro": "51199",
+    "status": "OPEN",
+    "pu_date": "2026-10-30",
+    "pu_city": "BUFFALO",
+    "pu_state": "NY",
+    "pu_hours": "1100-1200",
+    "del_date": "2026-11-02",
+    "del_city": "PFLUGERVILLE",
+    "del_state": "TX",
+    "del_hours": "",
+    "equipment": "26' Straight Box Truck",
+    "weight_lbs": 1500,
+    "carrier_rate": 2200,
+    "updated_at": "2026-10-29T14:55:12.087640+00:00",
+    "lane": "BUFFALO NY-PFLUGERVILLE TX"
+  },
+  {
     "pro": "50542",
     "status": "OPEN",
     "pu_date": "2026-11-02",
@@ -817,7 +834,7 @@
   },
   {
     "pro": "51177",
-    "status": "PICKUP",
+    "status": "LOADED",
     "pu_date": "2026-10-29",
     "pu_city": "WADESBORO",
     "pu_state": "NC",
@@ -829,7 +846,7 @@
     "equipment": "Van",
     "weight_lbs": 44000,
     "carrier_rate": 850,
-    "updated_at": "2026-10-29T14:49:32.809889+00:00",
+    "updated_at": "2026-10-29T14:54:00.081757+00:00",
     "lane": "WADESBORO NC-ATLANTA GA"
   },
   {
