@@ -164,9 +164,9 @@
     "del_state": "AL",
     "del_hours": "0800-1200",
     "equipment": "Flatbed",
-    "weight_lbs": 23800,
-    "carrier_rate": null,
-    "updated_at": "2026-10-29T18:09:57.729759+00:00",
+    "weight_lbs": 22000,
+    "carrier_rate": 2100,
+    "updated_at": "2026-10-29T18:14:52.872800+00:00",
     "lane": "CYPRESS TX-ROANOKE AL"
   },
   {
