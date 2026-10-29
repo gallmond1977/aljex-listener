@@ -34,6 +34,40 @@
     "lane": "ATLANTA GA-MARIETTA GA"
   },
   {
+    "pro": "51202",
+    "status": "OPEN",
+    "pu_date": "2026-10-29",
+    "pu_city": "ARDMORE",
+    "pu_state": "OK",
+    "pu_hours": "0800-1500",
+    "del_date": "2026-10-30",
+    "del_city": "MIDLAND",
+    "del_state": "GA",
+    "del_hours": "",
+    "equipment": "Sprinter Van",
+    "weight_lbs": 1200,
+    "carrier_rate": null,
+    "updated_at": "2026-10-29T15:58:16.721638+00:00",
+    "lane": "ARDMORE OK-MIDLAND GA"
+  },
+  {
+    "pro": "51203",
+    "status": "OPEN",
+    "pu_date": "2026-10-29",
+    "pu_city": "MONCURE",
+    "pu_state": "NC",
+    "pu_hours": "0730-1600",
+    "del_date": "",
+    "del_city": "ATLANTA",
+    "del_state": "GA",
+    "del_hours": "0800-1600",
+    "equipment": "Van",
+    "weight_lbs": 44000,
+    "carrier_rate": null,
+    "updated_at": "2026-10-29T15:58:51.892072+00:00",
+    "lane": "MONCURE NC-ATLANTA GA"
+  },
+  {
     "pro": "51120",
     "status": "OPEN",
     "pu_date": "2026-10-30",
@@ -63,8 +97,8 @@
     "del_hours": "0415",
     "equipment": "Reefer",
     "weight_lbs": 13650,
-    "carrier_rate": 4500,
-    "updated_at": "2026-10-29T15:49:41.467525+00:00",
+    "carrier_rate": 4650,
+    "updated_at": "2026-10-29T15:56:34.067230+00:00",
     "lane": "MONTEZUMA GA-TRACY CA"
   },
   {
@@ -576,6 +610,23 @@
     "carrier_rate": 900,
     "updated_at": "2026-10-26T13:44:29.957507+00:00",
     "lane": "WADESBORO NC-ATLANTA GA"
+  },
+  {
+    "pro": "51103",
+    "status": "RELEASED",
+    "pu_date": "2026-10-22",
+    "pu_city": "MONCURE",
+    "pu_state": "NC",
+    "pu_hours": "0730-1600",
+    "del_date": "2026-10-23",
+    "del_city": "ATLANTA",
+    "del_state": "GA",
+    "del_hours": "0800-1600",
+    "equipment": "Van",
+    "weight_lbs": 44000,
+    "carrier_rate": 850,
+    "updated_at": "2026-10-23T17:30:17.045854+00:00",
+    "lane": "MONCURE NC-ATLANTA GA"
   },
   {
     "pro": "51033",
