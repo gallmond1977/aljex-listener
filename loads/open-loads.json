@@ -47,7 +47,7 @@
     "equipment": "Van",
     "weight_lbs": 44000,
     "carrier_rate": 900,
-    "updated_at": "2026-10-29T16:14:09.773861+00:00",
+    "updated_at": "2026-10-29T16:17:48.703221+00:00",
     "lane": "MONCURE NC-ATLANTA GA"
   },
   {
@@ -64,7 +64,7 @@
     "equipment": "Sprinter Van",
     "weight_lbs": 1200,
     "carrier_rate": null,
-    "updated_at": "2026-10-29T16:03:27.345791+00:00",
+    "updated_at": "2026-10-29T16:19:30.130240+00:00",
     "lane": "ARDMORE OK-MIDLAND GA"
   },
   {
@@ -77,11 +77,11 @@
     "del_date": "2026-10-30",
     "del_city": "COLUMBUS",
     "del_state": "OH",
-    "del_hours": "0630-0800",
+    "del_hours": "0800-1500",
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 1140,
-    "carrier_rate": null,
-    "updated_at": "2026-10-29T16:13:46.844448+00:00",
+    "carrier_rate": 700,
+    "updated_at": "2026-10-29T16:17:42.940112+00:00",
     "lane": "SALISBURY NC-COLUMBUS OH"
   },
   {
@@ -185,6 +185,23 @@
     "carrier_rate": 2200,
     "updated_at": "2026-10-29T15:41:22.249670+00:00",
     "lane": "BUFFALO NY-PFLUGERVILLE TX"
+  },
+  {
+    "pro": "51206",
+    "status": "OPEN",
+    "pu_date": "2026-10-30",
+    "pu_city": "MONCURE",
+    "pu_state": "NC",
+    "pu_hours": "0730-1600",
+    "del_date": "2026-11-02",
+    "del_city": "ATLANTA",
+    "del_state": "GA",
+    "del_hours": "0800-1600",
+    "equipment": "Van",
+    "weight_lbs": 44000,
+    "carrier_rate": 900,
+    "updated_at": "2026-10-29T16:17:13.367991+00:00",
+    "lane": "MONCURE NC-ATLANTA GA"
   },
   {
     "pro": "50542",
