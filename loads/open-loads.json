@@ -46,8 +46,8 @@
     "del_hours": "0700-1100",
     "equipment": "Van",
     "weight_lbs": 43500,
-    "carrier_rate": 2300,
-    "updated_at": "2026-10-29T13:58:19.462751+00:00",
+    "carrier_rate": 2400,
+    "updated_at": "2026-10-29T14:06:16.940868+00:00",
     "lane": "BUENA VISTA GA-LINDEN NJ"
   },
   {
@@ -851,7 +851,7 @@
   },
   {
     "pro": "51194",
-    "status": "COVERED",
+    "status": "PICKUP",
     "pu_date": "2026-10-29",
     "pu_city": "ALPHARETTA",
     "pu_state": "GA",
@@ -863,7 +863,7 @@
     "equipment": "Flatbed w/ Tarps",
     "weight_lbs": 42000,
     "carrier_rate": 3300,
-    "updated_at": "2026-10-29T13:44:16.706466+00:00",
+    "updated_at": "2026-10-29T14:07:32.171029+00:00",
     "lane": "ALPHARETTA GA-BELCAMP MD"
   }
 ]
