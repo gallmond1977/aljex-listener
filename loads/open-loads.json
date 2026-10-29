@@ -102,23 +102,6 @@
     "lane": "MONTEZUMA GA-TRACY CA"
   },
   {
-    "pro": "51137",
-    "status": "OPEN",
-    "pu_date": "2026-10-30",
-    "pu_city": "WINCHESTER",
-    "pu_state": "KY",
-    "pu_hours": "1200-1500",
-    "del_date": "2026-11-01",
-    "del_city": "UXBRIDGE",
-    "del_state": "MA",
-    "del_hours": "1200",
-    "equipment": "Van",
-    "weight_lbs": 5200,
-    "carrier_rate": 3600,
-    "updated_at": "2026-10-28T18:52:55.872058+00:00",
-    "lane": "WINCHESTER KY-UXBRIDGE MA"
-  },
-  {
     "pro": "51146",
     "status": "OPEN",
     "pu_date": "2026-10-30",
