@@ -34,23 +34,6 @@
     "lane": "SHILOH OH-CASHIERS NC"
   },
   {
-    "pro": "51204",
-    "status": "OPEN",
-    "pu_date": "2026-10-30",
-    "pu_city": "ARDMORE",
-    "pu_state": "OK",
-    "pu_hours": "0800-1500",
-    "del_date": "2026-10-30",
-    "del_city": "MIDLAND",
-    "del_state": "GA",
-    "del_hours": "0800-1200",
-    "equipment": "Sprinter Van",
-    "weight_lbs": 1200,
-    "carrier_rate": null,
-    "updated_at": "2026-10-29T17:02:07.771718+00:00",
-    "lane": "ARDMORE OK-MIDLAND GA"
-  },
-  {
     "pro": "51206",
     "status": "OPEN",
     "pu_date": "2026-10-30",
@@ -202,6 +185,23 @@
     "carrier_rate": 400,
     "updated_at": "2026-10-29T18:40:45.188050+00:00",
     "lane": "ATLANTA GA-MARIETTA GA"
+  },
+  {
+    "pro": "51204",
+    "status": "OPEN",
+    "pu_date": "2026-11-02",
+    "pu_city": "ARDMORE",
+    "pu_state": "OK",
+    "pu_hours": "0800-1500",
+    "del_date": "2026-11-02",
+    "del_city": "MIDLAND",
+    "del_state": "GA",
+    "del_hours": "0800-1200",
+    "equipment": "Sprinter Van",
+    "weight_lbs": 1200,
+    "carrier_rate": null,
+    "updated_at": "2026-10-29T19:27:53.986665+00:00",
+    "lane": "ARDMORE OK-MIDLAND GA"
   },
   {
     "pro": "51208",
