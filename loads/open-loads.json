@@ -1,22 +1,5 @@
 [
   {
-    "pro": "51201",
-    "status": "OPEN",
-    "pu_date": "2026-10-29",
-    "pu_city": "ATLANTA",
-    "pu_state": "GA",
-    "pu_hours": "0800-1500",
-    "del_date": "2026-10-29",
-    "del_city": "MARIETTA",
-    "del_state": "GA",
-    "del_hours": "0800-1430",
-    "equipment": "Flatbed",
-    "weight_lbs": 25774,
-    "carrier_rate": 400,
-    "updated_at": "2026-10-29T17:30:23.916838+00:00",
-    "lane": "ATLANTA GA-MARIETTA GA"
-  },
-  {
     "pro": "51214",
     "status": "OPEN",
     "pu_date": "2026-10-29",
@@ -30,7 +13,7 @@
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 5000,
     "carrier_rate": 400,
-    "updated_at": "2026-10-29T18:40:08.934338+00:00",
+    "updated_at": "2026-10-29T18:44:02.804168+00:00",
     "lane": "MOUNT PLEASANT TN-RAINSVILLE AL"
   },
   {
@@ -183,7 +166,7 @@
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 7000,
     "carrier_rate": 1300,
-    "updated_at": "2026-10-29T18:33:07.448532+00:00",
+    "updated_at": "2026-10-29T18:42:13.764951+00:00",
     "lane": "UNION CITY GA-MIAMI FL"
   },
   {
@@ -287,6 +270,23 @@
     "carrier_rate": null,
     "updated_at": "2026-10-28T12:48:27.948418+00:00",
     "lane": "STEVENS PA-HAYMARKET VA"
+  },
+  {
+    "pro": "51201",
+    "status": "OPEN",
+    "pu_date": "2026-11-02",
+    "pu_city": "ATLANTA",
+    "pu_state": "GA",
+    "pu_hours": "0800-1500",
+    "del_date": "",
+    "del_city": "MARIETTA",
+    "del_state": "GA",
+    "del_hours": "0800-1430",
+    "equipment": "Flatbed",
+    "weight_lbs": 25774,
+    "carrier_rate": 400,
+    "updated_at": "2026-10-29T18:40:45.188050+00:00",
+    "lane": "ATLANTA GA-MARIETTA GA"
   },
   {
     "pro": "51208",
