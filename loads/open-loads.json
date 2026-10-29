@@ -85,23 +85,6 @@
     "lane": "ORLANDO FL-AMERICUS GA"
   },
   {
-    "pro": "51188",
-    "status": "OPEN",
-    "pu_date": "2026-10-29",
-    "pu_city": "SOUTH BOSTON",
-    "pu_state": "VA",
-    "pu_hours": "0800-1500",
-    "del_date": "2026-10-30",
-    "del_city": "HALEYVILLE",
-    "del_state": "AL",
-    "del_hours": "0730-0900",
-    "equipment": "Van",
-    "weight_lbs": 43000,
-    "carrier_rate": 1600,
-    "updated_at": "2026-10-28T19:43:55.713037+00:00",
-    "lane": "SOUTH BOSTON VA-HALEYVILLE AL"
-  },
-  {
     "pro": "51191",
     "status": "OPEN",
     "pu_date": "2026-10-29",
@@ -124,15 +107,15 @@
     "pu_date": "2026-10-29",
     "pu_city": "JACKSONVILLE",
     "pu_state": "FL",
-    "pu_hours": "1500-1700",
+    "pu_hours": "1100-1700",
     "del_date": "2026-10-30",
     "del_city": "DES MOINES",
     "del_state": "IA",
     "del_hours": "0800-1500",
     "equipment": "Van",
-    "weight_lbs": 10000,
+    "weight_lbs": 6480,
     "carrier_rate": 2200,
-    "updated_at": "2026-10-29T12:11:05.027716+00:00",
+    "updated_at": "2026-10-29T12:37:42.982929+00:00",
     "lane": "JACKSONVILLE FL-DES MOINES IA"
   },
   {
@@ -897,7 +880,7 @@
     "equipment": "Van",
     "weight_lbs": 44000,
     "carrier_rate": 850,
-    "updated_at": "2026-10-28T20:01:25.246532+00:00",
+    "updated_at": "2026-10-29T12:39:37.730004+00:00",
     "lane": "WADESBORO NC-ATLANTA GA"
   }
 ]
