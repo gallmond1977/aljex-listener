@@ -34,23 +34,6 @@
     "lane": "SHILOH OH-CASHIERS NC"
   },
   {
-    "pro": "51199",
-    "status": "OPEN",
-    "pu_date": "2026-10-30",
-    "pu_city": "BUFFALO",
-    "pu_state": "NY",
-    "pu_hours": "1100-1200",
-    "del_date": "2026-11-02",
-    "del_city": "PFLUGERVILLE",
-    "del_state": "TX",
-    "del_hours": "0700-1500",
-    "equipment": "26' Straight Box Truck",
-    "weight_lbs": 1500,
-    "carrier_rate": 2200,
-    "updated_at": "2026-10-29T15:41:22.249670+00:00",
-    "lane": "BUFFALO NY-PFLUGERVILLE TX"
-  },
-  {
     "pro": "51204",
     "status": "OPEN",
     "pu_date": "2026-10-30",
@@ -265,10 +248,10 @@
     "del_city": "BELCAMP",
     "del_state": "MD",
     "del_hours": "0700-1500",
-    "equipment": "26' Straight Box Truck",
-    "weight_lbs": 3564,
-    "carrier_rate": null,
-    "updated_at": "2026-10-29T18:56:11.172498+00:00",
+    "equipment": "Van",
+    "weight_lbs": 15000,
+    "carrier_rate": 1800,
+    "updated_at": "2026-10-29T19:18:15.792398+00:00",
     "lane": "BUFFALO NY-BELCAMP MD"
   },
   {
