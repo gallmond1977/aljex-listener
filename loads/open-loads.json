@@ -136,23 +136,6 @@
     "lane": "RICHMOND VA-LUTHERVILLE TIMONIUM MD"
   },
   {
-    "pro": "51201",
-    "status": "OPEN",
-    "pu_date": "2026-11-02",
-    "pu_city": "ATLANTA",
-    "pu_state": "GA",
-    "pu_hours": "0800-1500",
-    "del_date": "",
-    "del_city": "MARIETTA",
-    "del_state": "GA",
-    "del_hours": "0800-1430",
-    "equipment": "Flatbed",
-    "weight_lbs": 25774,
-    "carrier_rate": 400,
-    "updated_at": "2026-10-29T18:40:45.188050+00:00",
-    "lane": "ATLANTA GA-MARIETTA GA"
-  },
-  {
     "pro": "51208",
     "status": "OPEN",
     "pu_date": "2026-11-02",
@@ -199,8 +182,8 @@
     "del_hours": "0700-1500",
     "equipment": "Van",
     "weight_lbs": 15000,
-    "carrier_rate": 1800,
-    "updated_at": "2026-10-29T19:18:15.792398+00:00",
+    "carrier_rate": 1700,
+    "updated_at": "2026-10-30T15:24:41.014381+00:00",
     "lane": "BUFFALO NY-BELCAMP MD"
   },
   {
@@ -209,7 +192,7 @@
     "pu_date": "2026-11-02",
     "pu_city": "BESSEMER",
     "pu_state": "AL",
-    "pu_hours": "",
+    "pu_hours": "0800-1100",
     "del_date": "2026-11-02",
     "del_city": "ATLANTA",
     "del_state": "GA",
@@ -217,7 +200,7 @@
     "equipment": "Flatbed Hot Shot",
     "weight_lbs": 1000,
     "carrier_rate": 550,
-    "updated_at": "2026-10-30T15:19:44.713489+00:00",
+    "updated_at": "2026-10-30T15:24:12.804699+00:00",
     "lane": "BESSEMER AL-ATLANTA GA"
   },
   {
