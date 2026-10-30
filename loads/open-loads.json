@@ -64,7 +64,7 @@
     "equipment": "Van",
     "weight_lbs": 44000,
     "carrier_rate": null,
-    "updated_at": "2026-10-30T14:38:13.737215+00:00",
+    "updated_at": "2026-10-30T14:43:59.556887+00:00",
     "lane": "WADESBORO NC-ATLANTA GA"
   },
   {
@@ -405,7 +405,7 @@
     "equipment": "Van",
     "weight_lbs": 43438,
     "carrier_rate": 1900,
-    "updated_at": "2026-10-30T14:40:08.755515+00:00",
+    "updated_at": "2026-10-30T14:40:39.014204+00:00",
     "lane": "GARLAND TX-CALHOUN GA"
   },
   {
