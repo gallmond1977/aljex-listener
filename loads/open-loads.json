@@ -238,6 +238,23 @@
     "lane": "MOBILE AL-EUFAULA AL"
   },
   {
+    "pro": "51237",
+    "status": "OPEN",
+    "pu_date": "2026-11-02",
+    "pu_city": "LINCOLN",
+    "pu_state": "NE",
+    "pu_hours": "0730-1530",
+    "del_date": "2026-11-03",
+    "del_city": "AUGUSTA",
+    "del_state": "GA",
+    "del_hours": "0800-1600",
+    "equipment": "Flatbed",
+    "weight_lbs": 46000,
+    "carrier_rate": null,
+    "updated_at": "2026-10-30T20:48:33.587092+00:00",
+    "lane": "LINCOLN NE-AUGUSTA GA"
+  },
+  {
     "pro": "51182",
     "status": "OPEN",
     "pu_date": "2026-11-03",
