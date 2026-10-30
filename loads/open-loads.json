@@ -132,25 +132,8 @@
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 6500,
     "carrier_rate": 400,
-    "updated_at": "2026-10-28T20:31:49.331075+00:00",
+    "updated_at": "2026-10-30T15:18:58.563454+00:00",
     "lane": "RICHMOND VA-LUTHERVILLE TIMONIUM MD"
-  },
-  {
-    "pro": "51170",
-    "status": "OPEN",
-    "pu_date": "2026-11-02",
-    "pu_city": "STEVENS",
-    "pu_state": "PA",
-    "pu_hours": "0700-1500",
-    "del_date": "2026-11-03",
-    "del_city": "HAYMARKET",
-    "del_state": "VA",
-    "del_hours": "0830",
-    "equipment": "Flatbed w/ Tarps",
-    "weight_lbs": 38000,
-    "carrier_rate": 1000,
-    "updated_at": "2026-10-30T12:16:07.592286+00:00",
-    "lane": "STEVENS PA-HAYMARKET VA"
   },
   {
     "pro": "51201",
@@ -219,6 +202,23 @@
     "carrier_rate": 1800,
     "updated_at": "2026-10-29T19:18:15.792398+00:00",
     "lane": "BUFFALO NY-BELCAMP MD"
+  },
+  {
+    "pro": "51226",
+    "status": "OPEN",
+    "pu_date": "2026-11-02",
+    "pu_city": "BESSEMER",
+    "pu_state": "AL",
+    "pu_hours": "",
+    "del_date": "2026-11-02",
+    "del_city": "ATLANTA",
+    "del_state": "GA",
+    "del_hours": "0800-1600",
+    "equipment": "Flatbed Hot Shot",
+    "weight_lbs": 1000,
+    "carrier_rate": 550,
+    "updated_at": "2026-10-30T15:19:44.713489+00:00",
+    "lane": "BESSEMER AL-ATLANTA GA"
   },
   {
     "pro": "51209",
