@@ -13,7 +13,7 @@
     "equipment": "Reefer",
     "weight_lbs": 13650,
     "carrier_rate": 4600,
-    "updated_at": "2026-10-30T17:13:33.204181+00:00",
+    "updated_at": "2026-10-30T17:16:48.431019+00:00",
     "lane": "MONTEZUMA GA-TRACY CA"
   },
   {
@@ -166,7 +166,7 @@
     "equipment": "Flatbed",
     "weight_lbs": 26000,
     "carrier_rate": 2000,
-    "updated_at": "2026-10-30T17:04:25.323494+00:00",
+    "updated_at": "2026-10-30T17:18:59.236669+00:00",
     "lane": "CYPRESS TX-ROANOKE AL"
   },
   {
