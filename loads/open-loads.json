@@ -17,23 +17,6 @@
     "lane": "PORT ANGELES WA-EL PASO TX"
   },
   {
-    "pro": "51206",
-    "status": "OPEN",
-    "pu_date": "2026-10-30",
-    "pu_city": "MONCURE",
-    "pu_state": "NC",
-    "pu_hours": "0730-1600",
-    "del_date": "2026-11-02",
-    "del_city": "ATLANTA",
-    "del_state": "GA",
-    "del_hours": "0800-1600",
-    "equipment": "Van",
-    "weight_lbs": 44000,
-    "carrier_rate": 900,
-    "updated_at": "2026-10-30T14:18:39.815502+00:00",
-    "lane": "MONCURE NC-ATLANTA GA"
-  },
-  {
     "pro": "51211",
     "status": "OPEN",
     "pu_date": "2026-10-30",
@@ -49,6 +32,23 @@
     "carrier_rate": 1200,
     "updated_at": "2026-10-30T14:10:27.320001+00:00",
     "lane": "BUENA VISTA GA-BRENTWOOD TN"
+  },
+  {
+    "pro": "51221",
+    "status": "OPEN",
+    "pu_date": "2026-10-30",
+    "pu_city": "KITTANNING",
+    "pu_state": "PA",
+    "pu_hours": "NEEDS ETA",
+    "del_date": "2026-11-02",
+    "del_city": "PLAINFIELD",
+    "del_state": "IN",
+    "del_hours": "",
+    "equipment": "26' Straight Box Truck",
+    "weight_lbs": 2250,
+    "carrier_rate": 900,
+    "updated_at": "2026-10-30T14:27:35.254504+00:00",
+    "lane": "KITTANNING PA-PLAINFIELD IN"
   },
   {
     "pro": "8890469",
@@ -545,23 +545,6 @@
     "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
-    "pro": "51103",
-    "status": "RELEASED",
-    "pu_date": "2026-10-22",
-    "pu_city": "MONCURE",
-    "pu_state": "NC",
-    "pu_hours": "0730-1600",
-    "del_date": "2026-10-23",
-    "del_city": "ATLANTA",
-    "del_state": "GA",
-    "del_hours": "0800-1600",
-    "equipment": "Van",
-    "weight_lbs": 44000,
-    "carrier_rate": 850,
-    "updated_at": "2026-10-23T17:30:17.045854+00:00",
-    "lane": "MONCURE NC-ATLANTA GA"
-  },
-  {
     "pro": "51071",
     "status": "RELEASED",
     "pu_date": "2026-10-23",
@@ -679,22 +662,5 @@
     "carrier_rate": 1000,
     "updated_at": "2026-10-30T13:54:04.107821+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
-  },
-  {
-    "pro": "51203",
-    "status": "DISPATCHED",
-    "pu_date": "2026-10-30",
-    "pu_city": "MONCURE",
-    "pu_state": "NC",
-    "pu_hours": "0730-1600",
-    "del_date": "2026-11-02",
-    "del_city": "ATLANTA",
-    "del_state": "GA",
-    "del_hours": "0800-1600",
-    "equipment": "Van",
-    "weight_lbs": 44000,
-    "carrier_rate": 900,
-    "updated_at": "2026-10-30T12:37:57.767880+00:00",
-    "lane": "MONCURE NC-ATLANTA GA"
   }
 ]
