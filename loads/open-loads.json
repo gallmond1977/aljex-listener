@@ -51,23 +51,6 @@
     "lane": "POTTERVILLE MI-SALISBURY NC"
   },
   {
-    "pro": "50542",
-    "status": "OPEN",
-    "pu_date": "2026-11-02",
-    "pu_city": "OLD FORT",
-    "pu_state": "NC",
-    "pu_hours": "0800-1800",
-    "del_date": "2026-11-16",
-    "del_city": "COLUMBUS",
-    "del_state": "GA",
-    "del_hours": "NEEDED",
-    "equipment": "Van",
-    "weight_lbs": 41500,
-    "carrier_rate": 1500,
-    "updated_at": "2026-09-28T20:07:18.581518+00:00",
-    "lane": "OLD FORT NC-COLUMBUS GA"
-  },
-  {
     "pro": "51128",
     "status": "OPEN",
     "pu_date": "2026-11-02",
@@ -270,6 +253,23 @@
     "carrier_rate": 2800,
     "updated_at": "2026-10-30T19:23:51.203302+00:00",
     "lane": "COLUMBUS GA-ROGERSVILLE MO"
+  },
+  {
+    "pro": "50542",
+    "status": "OPEN",
+    "pu_date": "2026-11-03",
+    "pu_city": "OLD FORT",
+    "pu_state": "NC",
+    "pu_hours": "0800-1800",
+    "del_date": "",
+    "del_city": "COLUMBUS",
+    "del_state": "GA",
+    "del_hours": "NEEDED",
+    "equipment": "Van",
+    "weight_lbs": 41500,
+    "carrier_rate": 1500,
+    "updated_at": "2026-10-30T19:26:15.329087+00:00",
+    "lane": "OLD FORT NC-COLUMBUS GA"
   },
   {
     "pro": "51182",
