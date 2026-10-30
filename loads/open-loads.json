@@ -34,23 +34,6 @@
     "lane": "MOUNT PLEASANT TN-LIBERTY TN"
   },
   {
-    "pro": "51232",
-    "status": "OPEN",
-    "pu_date": "2026-10-30",
-    "pu_city": "POTTERVILLE",
-    "pu_state": "MI",
-    "pu_hours": "0700-1630",
-    "del_date": "2026-11-02",
-    "del_city": "SALISBURY",
-    "del_state": "NC",
-    "del_hours": "0600-0800",
-    "equipment": "Van",
-    "weight_lbs": 10000,
-    "carrier_rate": 3000,
-    "updated_at": "2026-10-30T19:54:23.648948+00:00",
-    "lane": "POTTERVILLE MI-SALISBURY NC"
-  },
-  {
     "pro": "51128",
     "status": "OPEN",
     "pu_date": "2026-11-02",
@@ -272,6 +255,23 @@
     "lane": "MOBILE AL-EUFAULA AL"
   },
   {
+    "pro": "51236",
+    "status": "OPEN",
+    "pu_date": "2026-11-02",
+    "pu_city": "COLUMBUS",
+    "pu_state": "GA",
+    "pu_hours": "0800-1300",
+    "del_date": "2026-11-03",
+    "del_city": "LONG CREEK",
+    "del_state": "SC",
+    "del_hours": "CALL!",
+    "equipment": "Sprinter Van",
+    "weight_lbs": 550,
+    "carrier_rate": 450,
+    "updated_at": "2026-10-30T20:07:32.428955+00:00",
+    "lane": "COLUMBUS GA-LONG CREEK SC"
+  },
+  {
     "pro": "51182",
     "status": "OPEN",
     "pu_date": "2026-11-03",
@@ -284,8 +284,8 @@
     "del_hours": "0800-1500",
     "equipment": "Flatbed Hot Shot",
     "weight_lbs": 9500,
-    "carrier_rate": null,
-    "updated_at": "2026-10-30T20:05:07.101718+00:00",
+    "carrier_rate": 1500,
+    "updated_at": "2026-10-30T20:09:25.844354+00:00",
     "lane": "SHILOH OH-TOWNVILLE SC"
   },
   {
@@ -321,6 +321,23 @@
     "carrier_rate": 1400,
     "updated_at": "2026-10-29T17:05:05.956239+00:00",
     "lane": "CHARLESTON SC-LOUDON TN"
+  },
+  {
+    "pro": "51232",
+    "status": "OPEN",
+    "pu_date": "2026-11-03",
+    "pu_city": "POTTERVILLE",
+    "pu_state": "MI",
+    "pu_hours": "0700-1630",
+    "del_date": "2026-11-04",
+    "del_city": "SALISBURY",
+    "del_state": "NC",
+    "del_hours": "0600-0800",
+    "equipment": "Van",
+    "weight_lbs": 10000,
+    "carrier_rate": 3000,
+    "updated_at": "2026-10-30T20:09:55.518835+00:00",
+    "lane": "POTTERVILLE MI-SALISBURY NC"
   },
   {
     "pro": "50542",
