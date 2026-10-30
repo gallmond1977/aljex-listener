@@ -90,7 +90,7 @@
     "pu_date": "2026-10-30",
     "pu_city": "CONYERS",
     "pu_state": "GA",
-    "pu_hours": "0700-0900",
+    "pu_hours": "0800-1000",
     "del_date": "2026-10-30",
     "del_city": "ALPHARETTA",
     "del_state": "GA",
@@ -98,7 +98,7 @@
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 5635,
     "carrier_rate": 200,
-    "updated_at": "2026-10-30T11:57:04.588572+00:00",
+    "updated_at": "2026-10-30T12:02:15.633559+00:00",
     "lane": "CONYERS GA-ALPHARETTA GA"
   },
   {
