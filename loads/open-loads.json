@@ -68,6 +68,23 @@
     "lane": "BUENA VISTA GA-BRENTWOOD TN"
   },
   {
+    "pro": "51219",
+    "status": "OPEN",
+    "pu_date": "2026-10-30",
+    "pu_city": "UNION CITY",
+    "pu_state": "GA",
+    "pu_hours": "1000-1100",
+    "del_date": "2026-10-31",
+    "del_city": "CHARLOTTE",
+    "del_state": "NC",
+    "del_hours": "1000",
+    "equipment": "26' Straight Box Truck",
+    "weight_lbs": 4000,
+    "carrier_rate": null,
+    "updated_at": "2026-10-30T12:33:07.743659+00:00",
+    "lane": "UNION CITY GA-CHARLOTTE NC"
+  },
+  {
     "pro": "50542",
     "status": "OPEN",
     "pu_date": "2026-11-02",
@@ -678,6 +695,23 @@
     "carrier_rate": 1000,
     "updated_at": "2026-10-29T16:03:57.822288+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
+  },
+  {
+    "pro": "51186",
+    "status": "RELEASED",
+    "pu_date": "2026-10-29",
+    "pu_city": "UNION CITY",
+    "pu_state": "GA",
+    "pu_hours": "1300",
+    "del_date": "2026-10-30",
+    "del_city": "CHARLOTTE",
+    "del_state": "NC",
+    "del_hours": "0630",
+    "equipment": "26' Straight Box Truck",
+    "weight_lbs": 4000,
+    "carrier_rate": 550,
+    "updated_at": "2026-10-30T11:45:51.144477+00:00",
+    "lane": "UNION CITY GA-CHARLOTTE NC"
   },
   {
     "pro": "51203",
