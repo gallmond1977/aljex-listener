@@ -5,7 +5,7 @@
     "pu_date": "2026-10-30",
     "pu_city": "MONTEZUMA",
     "pu_state": "GA",
-    "pu_hours": "1400",
+    "pu_hours": "1400-1500",
     "del_date": "2026-11-03",
     "del_city": "TRACY",
     "del_state": "CA",
@@ -13,7 +13,7 @@
     "equipment": "Reefer",
     "weight_lbs": 13650,
     "carrier_rate": 4600,
-    "updated_at": "2026-10-30T17:16:48.431019+00:00",
+    "updated_at": "2026-10-30T17:36:47.567712+00:00",
     "lane": "MONTEZUMA GA-TRACY CA"
   },
   {
@@ -62,9 +62,9 @@
     "del_state": "TN",
     "del_hours": "0800-1600",
     "equipment": "26' Straight Box Truck",
-    "weight_lbs": 6100,
-    "carrier_rate": null,
-    "updated_at": "2026-10-30T17:34:05.951128+00:00",
+    "weight_lbs": 5163,
+    "carrier_rate": 350,
+    "updated_at": "2026-10-30T17:38:14.009561+00:00",
     "lane": "MOUNT PLEASANT TN-LIBERTY TN"
   },
   {
@@ -202,6 +202,23 @@
     "carrier_rate": 550,
     "updated_at": "2026-10-30T15:24:12.804699+00:00",
     "lane": "BESSEMER AL-ATLANTA GA"
+  },
+  {
+    "pro": "51228",
+    "status": "OPEN",
+    "pu_date": "2026-11-02",
+    "pu_city": "CLARENCE",
+    "pu_state": "NY",
+    "pu_hours": "1200-1700",
+    "del_date": "2026-11-03",
+    "del_city": "BELCAMP",
+    "del_state": "MD",
+    "del_hours": "0700-1500",
+    "equipment": "26' Straight Box Truck",
+    "weight_lbs": 1000,
+    "carrier_rate": 800,
+    "updated_at": "2026-10-30T17:38:17.128723+00:00",
+    "lane": "CLARENCE NY-BELCAMP MD"
   },
   {
     "pro": "51209",
