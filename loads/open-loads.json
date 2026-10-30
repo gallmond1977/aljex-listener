@@ -12,8 +12,8 @@
     "del_hours": "0415",
     "equipment": "Reefer",
     "weight_lbs": 13650,
-    "carrier_rate": 5000,
-    "updated_at": "2026-10-30T17:57:43.589695+00:00",
+    "carrier_rate": 5200,
+    "updated_at": "2026-10-30T18:09:37.325418+00:00",
     "lane": "MONTEZUMA GA-TRACY CA"
   },
   {
@@ -199,8 +199,8 @@
     "del_hours": "0700-1400",
     "equipment": "Van",
     "weight_lbs": 43446,
-    "carrier_rate": null,
-    "updated_at": "2026-10-30T17:55:46.444199+00:00",
+    "carrier_rate": 1431.84,
+    "updated_at": "2026-10-30T18:06:49.602445+00:00",
     "lane": "DEMOPOLIS AL-CASSVILLE MO"
   },
   {
