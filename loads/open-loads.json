@@ -51,6 +51,23 @@
     "lane": "WADESBORO NC-ATLANTA GA"
   },
   {
+    "pro": "51227",
+    "status": "OPEN",
+    "pu_date": "2026-10-30",
+    "pu_city": "MOUNT PLEASANT",
+    "pu_state": "TN",
+    "pu_hours": "0800-1600",
+    "del_date": "",
+    "del_city": "LIBERTY",
+    "del_state": "TN",
+    "del_hours": "0800-1600",
+    "equipment": "26' Straight Box Truck",
+    "weight_lbs": 6100,
+    "carrier_rate": null,
+    "updated_at": "2026-10-30T17:34:05.951128+00:00",
+    "lane": "MOUNT PLEASANT TN-LIBERTY TN"
+  },
+  {
     "pro": "50542",
     "status": "OPEN",
     "pu_date": "2026-11-02",
