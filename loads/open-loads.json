@@ -34,6 +34,23 @@
     "lane": "MOUNT PLEASANT TN-LIBERTY TN"
   },
   {
+    "pro": "51232",
+    "status": "OPEN",
+    "pu_date": "2026-10-30",
+    "pu_city": "POTTERVILLE",
+    "pu_state": "MI",
+    "pu_hours": "0700-1630",
+    "del_date": "2026-11-02",
+    "del_city": "SALISBURY",
+    "del_state": "NC",
+    "del_hours": "0600-0800",
+    "equipment": "Van",
+    "weight_lbs": 10000,
+    "carrier_rate": 2600,
+    "updated_at": "2026-10-30T18:53:09.706206+00:00",
+    "lane": "POTTERVILLE MI-SALISBURY NC"
+  },
+  {
     "pro": "50542",
     "status": "OPEN",
     "pu_date": "2026-11-02",
@@ -202,6 +219,23 @@
     "carrier_rate": null,
     "updated_at": "2026-10-30T18:47:17.501826+00:00",
     "lane": "MONTICELLO GA-RALEIGH NC"
+  },
+  {
+    "pro": "51231",
+    "status": "OPEN",
+    "pu_date": "2026-11-02",
+    "pu_city": "HOSCHTON",
+    "pu_state": "GA",
+    "pu_hours": "0900-1500",
+    "del_date": "2026-11-03",
+    "del_city": "RIDGELAND",
+    "del_state": "SC",
+    "del_hours": "0700-1430",
+    "equipment": "Flatbed w/ Tarps",
+    "weight_lbs": 40600,
+    "carrier_rate": 1100,
+    "updated_at": "2026-10-30T18:52:02.263427+00:00",
+    "lane": "HOSCHTON GA-RIDGELAND SC"
   },
   {
     "pro": "51182",
