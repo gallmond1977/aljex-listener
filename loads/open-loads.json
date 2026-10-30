@@ -43,11 +43,11 @@
     "del_date": "2026-11-02",
     "del_city": "PLAINFIELD",
     "del_state": "IN",
-    "del_hours": "",
+    "del_hours": "0800-1100",
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 2250,
-    "carrier_rate": 900,
-    "updated_at": "2026-10-30T14:35:51.593470+00:00",
+    "carrier_rate": 950,
+    "updated_at": "2026-10-30T14:48:57.063056+00:00",
     "lane": "KITTANNING PA-PLAINFIELD IN"
   },
   {
@@ -64,7 +64,7 @@
     "equipment": "Van",
     "weight_lbs": 44000,
     "carrier_rate": null,
-    "updated_at": "2026-10-30T14:43:59.556887+00:00",
+    "updated_at": "2026-10-30T14:47:22.638821+00:00",
     "lane": "WADESBORO NC-ATLANTA GA"
   },
   {
@@ -373,6 +373,23 @@
     "carrier_rate": 1000,
     "updated_at": "2026-10-28T16:59:30.682560+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
+  },
+  {
+    "pro": "51225",
+    "status": "OPEN",
+    "pu_date": "2026-11-06",
+    "pu_city": "GARLAND",
+    "pu_state": "TX",
+    "pu_hours": "1200-1500",
+    "del_date": "2026-11-09",
+    "del_city": "CALHOUN",
+    "del_state": "GA",
+    "del_hours": "0730-1400",
+    "equipment": "Van",
+    "weight_lbs": 42523,
+    "carrier_rate": 1900,
+    "updated_at": "2026-10-30T14:46:52.253390+00:00",
+    "lane": "GARLAND TX-CALHOUN GA"
   },
   {
     "pro": "51182",
