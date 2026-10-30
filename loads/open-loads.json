@@ -34,23 +34,6 @@
     "lane": "BUENA VISTA GA-BRENTWOOD TN"
   },
   {
-    "pro": "51221",
-    "status": "OPEN",
-    "pu_date": "2026-10-30",
-    "pu_city": "KITTANNING",
-    "pu_state": "PA",
-    "pu_hours": "NEEDS ETA",
-    "del_date": "2026-11-02",
-    "del_city": "PLAINFIELD",
-    "del_state": "IN",
-    "del_hours": "0800-1100",
-    "equipment": "26' Straight Box Truck",
-    "weight_lbs": 2250,
-    "carrier_rate": 950,
-    "updated_at": "2026-10-30T14:48:57.063056+00:00",
-    "lane": "KITTANNING PA-PLAINFIELD IN"
-  },
-  {
     "pro": "51223",
     "status": "OPEN",
     "pu_date": "2026-10-30",
@@ -388,7 +371,7 @@
     "equipment": "Van",
     "weight_lbs": 42523,
     "carrier_rate": 1900,
-    "updated_at": "2026-10-30T14:46:52.253390+00:00",
+    "updated_at": "2026-10-30T14:54:18.133668+00:00",
     "lane": "GARLAND TX-CALHOUN GA"
   },
   {
