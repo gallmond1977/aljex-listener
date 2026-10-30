@@ -1,22 +1,5 @@
 [
   {
-    "pro": "51227",
-    "status": "OPEN",
-    "pu_date": "2026-10-30",
-    "pu_city": "MOUNT PLEASANT",
-    "pu_state": "TN",
-    "pu_hours": "0800-1630",
-    "del_date": "2026-10-31",
-    "del_city": "LIBERTY",
-    "del_state": "TN",
-    "del_hours": "0700-1500",
-    "equipment": "26' Straight Box Truck",
-    "weight_lbs": 5163,
-    "carrier_rate": 350,
-    "updated_at": "2026-10-30T20:36:21.985831+00:00",
-    "lane": "MOUNT PLEASANT TN-LIBERTY TN"
-  },
-  {
     "pro": "51128",
     "status": "OPEN",
     "pu_date": "2026-11-02",
