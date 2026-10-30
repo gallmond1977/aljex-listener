@@ -80,8 +80,8 @@
     "del_hours": "1000",
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 4000,
-    "carrier_rate": null,
-    "updated_at": "2026-10-30T12:33:07.743659+00:00",
+    "carrier_rate": 550,
+    "updated_at": "2026-10-30T12:36:15.217263+00:00",
     "lane": "UNION CITY GA-CHARLOTTE NC"
   },
   {
@@ -715,7 +715,7 @@
   },
   {
     "pro": "51203",
-    "status": "COVERED",
+    "status": "DISPATCHED",
     "pu_date": "2026-10-30",
     "pu_city": "MONCURE",
     "pu_state": "NC",
@@ -727,7 +727,7 @@
     "equipment": "Van",
     "weight_lbs": 44000,
     "carrier_rate": 900,
-    "updated_at": "2026-10-29T17:05:32.379608+00:00",
+    "updated_at": "2026-10-30T12:37:57.767880+00:00",
     "lane": "MONCURE NC-ATLANTA GA"
   }
 ]
