@@ -1,5 +1,22 @@
 [
   {
+    "pro": "51146",
+    "status": "OPEN",
+    "pu_date": "2026-10-30",
+    "pu_city": "FREDERICKSBURG",
+    "pu_state": "VA",
+    "pu_hours": "0700-0800",
+    "del_date": "2026-10-30",
+    "del_city": "CHESAPEAKE",
+    "del_state": "VA",
+    "del_hours": "CALL!",
+    "equipment": "26' Straight Box Truck",
+    "weight_lbs": 255,
+    "carrier_rate": 400,
+    "updated_at": "2026-10-30T11:58:31.650756+00:00",
+    "lane": "FREDERICKSBURG VA-CHESAPEAKE VA"
+  },
+  {
     "pro": "51158",
     "status": "OPEN",
     "pu_date": "2026-10-30",
@@ -81,7 +98,7 @@
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 5635,
     "carrier_rate": 200,
-    "updated_at": "2026-10-29T20:45:03.245100+00:00",
+    "updated_at": "2026-10-30T11:57:04.588572+00:00",
     "lane": "CONYERS GA-ALPHARETTA GA"
   },
   {
