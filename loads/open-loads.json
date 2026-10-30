@@ -12,26 +12,9 @@
     "del_hours": "0415",
     "equipment": "Reefer",
     "weight_lbs": 13650,
-    "carrier_rate": 4600,
-    "updated_at": "2026-10-30T17:36:47.567712+00:00",
+    "carrier_rate": 5000,
+    "updated_at": "2026-10-30T17:57:43.589695+00:00",
     "lane": "MONTEZUMA GA-TRACY CA"
-  },
-  {
-    "pro": "51211",
-    "status": "OPEN",
-    "pu_date": "2026-10-30",
-    "pu_city": "BUENA VISTA",
-    "pu_state": "GA",
-    "pu_hours": "1200-1430",
-    "del_date": "2026-11-02",
-    "del_city": "BRENTWOOD",
-    "del_state": "TN",
-    "del_hours": "0630-1200",
-    "equipment": "Van",
-    "weight_lbs": 43500,
-    "carrier_rate": 1450,
-    "updated_at": "2026-10-30T16:37:31.662327+00:00",
-    "lane": "BUENA VISTA GA-BRENTWOOD TN"
   },
   {
     "pro": "51223",
@@ -187,23 +170,6 @@
     "lane": "CYPRESS TX-ROANOKE AL"
   },
   {
-    "pro": "51226",
-    "status": "OPEN",
-    "pu_date": "2026-11-02",
-    "pu_city": "BESSEMER",
-    "pu_state": "AL",
-    "pu_hours": "0800-1100",
-    "del_date": "2026-11-02",
-    "del_city": "ATLANTA",
-    "del_state": "GA",
-    "del_hours": "0800-1600",
-    "equipment": "Flatbed Hot Shot",
-    "weight_lbs": 1000,
-    "carrier_rate": 550,
-    "updated_at": "2026-10-30T15:24:12.804699+00:00",
-    "lane": "BESSEMER AL-ATLANTA GA"
-  },
-  {
     "pro": "51228",
     "status": "OPEN",
     "pu_date": "2026-11-02",
@@ -234,7 +200,7 @@
     "equipment": "Van",
     "weight_lbs": 43446,
     "carrier_rate": null,
-    "updated_at": "2026-10-30T17:54:56.402666+00:00",
+    "updated_at": "2026-10-30T17:55:46.444199+00:00",
     "lane": "DEMOPOLIS AL-CASSVILLE MO"
   },
   {
