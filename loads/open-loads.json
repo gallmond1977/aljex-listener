@@ -255,6 +255,23 @@
     "lane": "COLUMBUS GA-ROGERSVILLE MO"
   },
   {
+    "pro": "51235",
+    "status": "OPEN",
+    "pu_date": "2026-11-02",
+    "pu_city": "MOBILE",
+    "pu_state": "AL",
+    "pu_hours": "0800-1000",
+    "del_date": "2026-11-02",
+    "del_city": "EUFAULA",
+    "del_state": "AL",
+    "del_hours": "0800-1700",
+    "equipment": "Flatbed Hot Shot",
+    "weight_lbs": 5000,
+    "carrier_rate": 600,
+    "updated_at": "2026-10-30T19:35:22.534659+00:00",
+    "lane": "MOBILE AL-EUFAULA AL"
+  },
+  {
     "pro": "50542",
     "status": "OPEN",
     "pu_date": "2026-11-03",
