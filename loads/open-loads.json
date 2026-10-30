@@ -57,14 +57,14 @@
     "pu_city": "MOUNT PLEASANT",
     "pu_state": "TN",
     "pu_hours": "0800-1600",
-    "del_date": "",
+    "del_date": "2026-10-31",
     "del_city": "LIBERTY",
     "del_state": "TN",
-    "del_hours": "0800-1600",
+    "del_hours": "0700-1500",
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 5163,
     "carrier_rate": 350,
-    "updated_at": "2026-10-30T17:38:14.009561+00:00",
+    "updated_at": "2026-10-30T17:44:19.331128+00:00",
     "lane": "MOUNT PLEASANT TN-LIBERTY TN"
   },
   {
@@ -209,7 +209,7 @@
     "pu_date": "2026-11-02",
     "pu_city": "CLARENCE",
     "pu_state": "NY",
-    "pu_hours": "1200-1700",
+    "pu_hours": "1000-1500",
     "del_date": "2026-11-03",
     "del_city": "BELCAMP",
     "del_state": "MD",
@@ -217,7 +217,7 @@
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 1000,
     "carrier_rate": 800,
-    "updated_at": "2026-10-30T17:38:17.128723+00:00",
+    "updated_at": "2026-10-30T17:42:49.261316+00:00",
     "lane": "CLARENCE NY-BELCAMP MD"
   },
   {
