@@ -12,8 +12,8 @@
     "del_hours": "0630-1200",
     "equipment": "Van",
     "weight_lbs": 43500,
-    "carrier_rate": 1350,
-    "updated_at": "2026-10-30T16:04:06.637004+00:00",
+    "carrier_rate": 1450,
+    "updated_at": "2026-10-30T16:33:53.023613+00:00",
     "lane": "BUENA VISTA GA-BRENTWOOD TN"
   },
   {
@@ -132,7 +132,7 @@
     "equipment": "Flatbed Hot Shot",
     "weight_lbs": 13000,
     "carrier_rate": null,
-    "updated_at": "2026-10-30T16:28:29.782746+00:00",
+    "updated_at": "2026-10-30T16:30:36.214406+00:00",
     "lane": "SHILOH OH-TOWNVILLE SC"
   },
   {
