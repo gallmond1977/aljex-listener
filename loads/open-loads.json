@@ -264,11 +264,11 @@
     "del_date": "2026-11-03",
     "del_city": "LONG CREEK",
     "del_state": "SC",
-    "del_hours": "CALL!",
+    "del_hours": "0800-0900",
     "equipment": "Sprinter Van",
     "weight_lbs": 550,
     "carrier_rate": 450,
-    "updated_at": "2026-10-30T20:07:32.428955+00:00",
+    "updated_at": "2026-10-30T20:14:12.008211+00:00",
     "lane": "COLUMBUS GA-LONG CREEK SC"
   },
   {
@@ -336,7 +336,7 @@
     "equipment": "Van",
     "weight_lbs": 10000,
     "carrier_rate": 3000,
-    "updated_at": "2026-10-30T20:09:55.518835+00:00",
+    "updated_at": "2026-10-30T20:10:44.562784+00:00",
     "lane": "POTTERVILLE MI-SALISBURY NC"
   },
   {
