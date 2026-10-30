@@ -268,25 +268,8 @@
     "equipment": "Flatbed Hot Shot",
     "weight_lbs": 5000,
     "carrier_rate": 600,
-    "updated_at": "2026-10-30T19:39:27.075407+00:00",
+    "updated_at": "2026-10-30T19:47:28.670402+00:00",
     "lane": "MOBILE AL-EUFAULA AL"
-  },
-  {
-    "pro": "50542",
-    "status": "OPEN",
-    "pu_date": "2026-11-03",
-    "pu_city": "OLD FORT",
-    "pu_state": "NC",
-    "pu_hours": "0800-1800",
-    "del_date": "",
-    "del_city": "COLUMBUS",
-    "del_state": "GA",
-    "del_hours": "NEEDED",
-    "equipment": "Van",
-    "weight_lbs": 41500,
-    "carrier_rate": 1500,
-    "updated_at": "2026-10-30T19:26:15.329087+00:00",
-    "lane": "OLD FORT NC-COLUMBUS GA"
   },
   {
     "pro": "51182",
@@ -338,6 +321,23 @@
     "carrier_rate": 1400,
     "updated_at": "2026-10-29T17:05:05.956239+00:00",
     "lane": "CHARLESTON SC-LOUDON TN"
+  },
+  {
+    "pro": "50542",
+    "status": "OPEN",
+    "pu_date": "2026-11-04",
+    "pu_city": "OLD FORT",
+    "pu_state": "NC",
+    "pu_hours": "0800-1800",
+    "del_date": "",
+    "del_city": "COLUMBUS",
+    "del_state": "GA",
+    "del_hours": "NEEDED",
+    "equipment": "Van",
+    "weight_lbs": 41500,
+    "carrier_rate": 1500,
+    "updated_at": "2026-10-30T19:49:48.655392+00:00",
+    "lane": "OLD FORT NC-COLUMBUS GA"
   },
   {
     "pro": "51043",
