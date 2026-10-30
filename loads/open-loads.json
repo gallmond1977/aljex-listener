@@ -81,7 +81,7 @@
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 3000,
     "carrier_rate": 1400,
-    "updated_at": "2026-10-30T13:23:43.280299+00:00",
+    "updated_at": "2026-10-30T13:53:41.173420+00:00",
     "lane": "BELCAMP MD-ST LOUIS MO"
   },
   {
@@ -681,7 +681,7 @@
   },
   {
     "pro": "51147",
-    "status": "LOADED",
+    "status": "CONSIGNEE",
     "pu_date": "2026-10-29",
     "pu_city": "WINCHESTER",
     "pu_state": "KY",
@@ -693,7 +693,7 @@
     "equipment": "Van",
     "weight_lbs": 14580,
     "carrier_rate": 1000,
-    "updated_at": "2026-10-29T16:03:57.822288+00:00",
+    "updated_at": "2026-10-30T13:54:04.107821+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
