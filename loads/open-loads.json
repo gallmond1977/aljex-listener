@@ -119,6 +119,23 @@
     "lane": "PORT ANGELES WA-RAPID CITY SD"
   },
   {
+    "pro": "51182",
+    "status": "OPEN",
+    "pu_date": "2026-11-02",
+    "pu_city": "SHILOH",
+    "pu_state": "OH",
+    "pu_hours": "0800-1500",
+    "del_date": "2026-11-03",
+    "del_city": "TOWNVILLE",
+    "del_state": "SC",
+    "del_hours": "CALL!",
+    "equipment": "Flatbed Hot Shot",
+    "weight_lbs": 13000,
+    "carrier_rate": null,
+    "updated_at": "2026-10-30T16:28:29.782746+00:00",
+    "lane": "SHILOH OH-TOWNVILLE SC"
+  },
+  {
     "pro": "51212",
     "status": "OPEN",
     "pu_date": "2026-11-02",
@@ -287,23 +304,6 @@
     "carrier_rate": 1900,
     "updated_at": "2026-10-30T14:54:18.133668+00:00",
     "lane": "GARLAND TX-CALHOUN GA"
-  },
-  {
-    "pro": "51182",
-    "status": "OPEN",
-    "pu_date": "2026-11-09",
-    "pu_city": "SHILOH",
-    "pu_state": "OH",
-    "pu_hours": "0800-1500",
-    "del_date": "2026-11-10",
-    "del_city": "CASHIERS",
-    "del_state": "NC",
-    "del_hours": "CALL!",
-    "equipment": "Flatbed Hot Shot",
-    "weight_lbs": 13000,
-    "carrier_rate": null,
-    "updated_at": "2026-10-30T16:20:30.707690+00:00",
-    "lane": "SHILOH OH-CASHIERS NC"
   },
   {
     "pro": "51224",
