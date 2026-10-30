@@ -136,23 +136,6 @@
     "lane": "PORT ANGELES WA-RAPID CITY SD"
   },
   {
-    "pro": "51208",
-    "status": "OPEN",
-    "pu_date": "2026-11-02",
-    "pu_city": "BENSENVILLE",
-    "pu_state": "IL",
-    "pu_hours": "1200-1530",
-    "del_date": "2026-11-03",
-    "del_city": "ALPHARETTA",
-    "del_state": "GA",
-    "del_hours": "0800-1500",
-    "equipment": "Van",
-    "weight_lbs": 16000,
-    "carrier_rate": 2600,
-    "updated_at": "2026-10-29T17:01:28.034999+00:00",
-    "lane": "BENSENVILLE IL-ALPHARETTA GA"
-  },
-  {
     "pro": "51212",
     "status": "OPEN",
     "pu_date": "2026-11-02",
