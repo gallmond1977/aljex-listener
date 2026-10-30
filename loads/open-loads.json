@@ -255,23 +255,6 @@
     "lane": "MOBILE AL-EUFAULA AL"
   },
   {
-    "pro": "51236",
-    "status": "OPEN",
-    "pu_date": "2026-11-02",
-    "pu_city": "COLUMBUS",
-    "pu_state": "GA",
-    "pu_hours": "0800-1300",
-    "del_date": "2026-11-03",
-    "del_city": "LONG CREEK",
-    "del_state": "SC",
-    "del_hours": "0800-0900",
-    "equipment": "Sprinter Van",
-    "weight_lbs": 550,
-    "carrier_rate": 450,
-    "updated_at": "2026-10-30T20:14:12.008211+00:00",
-    "lane": "COLUMBUS GA-LONG CREEK SC"
-  },
-  {
     "pro": "51182",
     "status": "OPEN",
     "pu_date": "2026-11-03",
