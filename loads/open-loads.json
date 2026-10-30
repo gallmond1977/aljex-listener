@@ -255,6 +255,23 @@
     "lane": "BUENA VISTA GA-INDIAN TRAIL NC"
   },
   {
+    "pro": "51234",
+    "status": "OPEN",
+    "pu_date": "2026-11-02",
+    "pu_city": "COLUMBUS",
+    "pu_state": "GA",
+    "pu_hours": "1000-1500",
+    "del_date": "2026-11-03",
+    "del_city": "ROGERSVILLE",
+    "del_state": "MO",
+    "del_hours": "0600-1400",
+    "equipment": "Flatbed w/ Tarps",
+    "weight_lbs": 47516,
+    "carrier_rate": 2800,
+    "updated_at": "2026-10-30T19:18:48.229769+00:00",
+    "lane": "COLUMBUS GA-ROGERSVILLE MO"
+  },
+  {
     "pro": "51182",
     "status": "OPEN",
     "pu_date": "2026-11-03",
