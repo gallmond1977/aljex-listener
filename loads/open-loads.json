@@ -68,23 +68,6 @@
     "lane": "BUENA VISTA GA-BRENTWOOD TN"
   },
   {
-    "pro": "51216",
-    "status": "OPEN",
-    "pu_date": "2026-10-30",
-    "pu_city": "ORLANDO",
-    "pu_state": "FL",
-    "pu_hours": "0800-1500",
-    "del_date": "2026-11-02",
-    "del_city": "KNOXVILLE",
-    "del_state": "TN",
-    "del_hours": "0730-0800",
-    "equipment": "26' Straight Box Truck",
-    "weight_lbs": 5500,
-    "carrier_rate": 650,
-    "updated_at": "2026-10-29T20:24:19.402485+00:00",
-    "lane": "ORLANDO FL-KNOXVILLE TN"
-  },
-  {
     "pro": "50542",
     "status": "OPEN",
     "pu_date": "2026-11-02",
@@ -182,8 +165,8 @@
     "del_hours": "0830",
     "equipment": "Flatbed w/ Tarps",
     "weight_lbs": 38000,
-    "carrier_rate": null,
-    "updated_at": "2026-10-28T12:48:27.948418+00:00",
+    "carrier_rate": 1000,
+    "updated_at": "2026-10-30T12:16:07.592286+00:00",
     "lane": "STEVENS PA-HAYMARKET VA"
   },
   {
@@ -202,23 +185,6 @@
     "carrier_rate": 400,
     "updated_at": "2026-10-29T18:40:45.188050+00:00",
     "lane": "ATLANTA GA-MARIETTA GA"
-  },
-  {
-    "pro": "51204",
-    "status": "OPEN",
-    "pu_date": "2026-11-02",
-    "pu_city": "ARDMORE",
-    "pu_state": "OK",
-    "pu_hours": "0800-1500",
-    "del_date": "2026-11-02",
-    "del_city": "MIDLAND",
-    "del_state": "GA",
-    "del_hours": "0800-1200",
-    "equipment": "Sprinter Van",
-    "weight_lbs": 1200,
-    "carrier_rate": null,
-    "updated_at": "2026-10-29T19:27:53.986665+00:00",
-    "lane": "ARDMORE OK-MIDLAND GA"
   },
   {
     "pro": "51208",
