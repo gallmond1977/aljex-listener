@@ -221,6 +221,23 @@
     "lane": "CLARENCE NY-BELCAMP MD"
   },
   {
+    "pro": "51229",
+    "status": "OPEN",
+    "pu_date": "2026-11-02",
+    "pu_city": "DEMOPOLIS",
+    "pu_state": "AL",
+    "pu_hours": "0800-1400",
+    "del_date": "2026-11-03",
+    "del_city": "CASSVILLE",
+    "del_state": "MO",
+    "del_hours": "0700-1400",
+    "equipment": "Van",
+    "weight_lbs": 43446,
+    "carrier_rate": null,
+    "updated_at": "2026-10-30T17:54:56.402666+00:00",
+    "lane": "DEMOPOLIS AL-CASSVILLE MO"
+  },
+  {
     "pro": "51209",
     "status": "OPEN",
     "pu_date": "2026-11-03",
