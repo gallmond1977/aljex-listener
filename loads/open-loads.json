@@ -1,22 +1,5 @@
 [
   {
-    "pro": "51128",
-    "status": "OPEN",
-    "pu_date": "2026-10-30",
-    "pu_city": "MONTEZUMA",
-    "pu_state": "GA",
-    "pu_hours": "1400-1500",
-    "del_date": "2026-11-03",
-    "del_city": "TRACY",
-    "del_state": "CA",
-    "del_hours": "0415",
-    "equipment": "Reefer",
-    "weight_lbs": 13650,
-    "carrier_rate": 5500,
-    "updated_at": "2026-10-30T18:17:48.653604+00:00",
-    "lane": "MONTEZUMA GA-TRACY CA"
-  },
-  {
     "pro": "51223",
     "status": "OPEN",
     "pu_date": "2026-10-30",
@@ -66,6 +49,23 @@
     "carrier_rate": 1500,
     "updated_at": "2026-09-28T20:07:18.581518+00:00",
     "lane": "OLD FORT NC-COLUMBUS GA"
+  },
+  {
+    "pro": "51128",
+    "status": "OPEN",
+    "pu_date": "2026-11-02",
+    "pu_city": "MONTEZUMA",
+    "pu_state": "GA",
+    "pu_hours": "",
+    "del_date": "2026-11-03",
+    "del_city": "TRACY",
+    "del_state": "CA",
+    "del_hours": "0415",
+    "equipment": "Reefer",
+    "weight_lbs": 13650,
+    "carrier_rate": null,
+    "updated_at": "2026-10-30T18:34:44.207861+00:00",
+    "lane": "MONTEZUMA GA-TRACY CA"
   },
   {
     "pro": "51130",
@@ -202,6 +202,23 @@
     "carrier_rate": 1431.84,
     "updated_at": "2026-10-30T18:12:16.959681+00:00",
     "lane": "DEMOPOLIS AL-CASSVILLE MO"
+  },
+  {
+    "pro": "51230",
+    "status": "OPEN",
+    "pu_date": "2026-11-02",
+    "pu_city": "MONTICELLO",
+    "pu_state": "GA",
+    "pu_hours": "",
+    "del_date": "",
+    "del_city": "RALEIGH",
+    "del_state": "NC",
+    "del_hours": "0700-1500",
+    "equipment": "Van",
+    "weight_lbs": 43500,
+    "carrier_rate": null,
+    "updated_at": "2026-10-30T18:34:34.859410+00:00",
+    "lane": "MONTICELLO GA-RALEIGH NC"
   },
   {
     "pro": "51209",
