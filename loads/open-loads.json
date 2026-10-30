@@ -7,14 +7,14 @@
     "pu_state": "WA",
     "pu_hours": "0600-1600",
     "del_date": "",
-    "del_city": "EL PASO",
-    "del_state": "TX",
+    "del_city": "RAPID CITY",
+    "del_state": "SD",
     "del_hours": "",
-    "equipment": "Van",
-    "weight_lbs": 44000,
-    "carrier_rate": 6000,
-    "updated_at": "2026-10-30T13:23:42.363027+00:00",
-    "lane": "PORT ANGELES WA-EL PASO TX"
+    "equipment": "Flatbed",
+    "weight_lbs": 47500,
+    "carrier_rate": 5500,
+    "updated_at": "2026-10-30T15:06:16.411352+00:00",
+    "lane": "PORT ANGELES WA-RAPID CITY SD"
   },
   {
     "pro": "51211",
@@ -49,24 +49,6 @@
     "carrier_rate": null,
     "updated_at": "2026-10-30T14:59:55.205833+00:00",
     "lane": "WADESBORO NC-ATLANTA GA"
-  },
-  {
-    "pro": "8890469",
-    "status": "OPEN",
-    "spot": true,
-    "pu_date": "2026-10-30",
-    "pu_city": "PORT ANGELES",
-    "pu_state": "WA",
-    "pu_hours": "",
-    "del_date": "2026-10-31",
-    "del_city": "RAPID CITY",
-    "del_state": "SD",
-    "del_hours": "",
-    "equipment": "Flatbed",
-    "weight_lbs": 47500,
-    "carrier_rate": 5400,
-    "updated_at": "2026-10-30T14:02:55.881546+00:00",
-    "lane": "PORT ANGELES WA-RAPID CITY SD"
   },
   {
     "pro": "50542",
