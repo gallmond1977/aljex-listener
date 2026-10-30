@@ -68,23 +68,6 @@
     "lane": "BUENA VISTA GA-BRENTWOOD TN"
   },
   {
-    "pro": "51220",
-    "status": "OPEN",
-    "pu_date": "2026-10-30",
-    "pu_city": "BELCAMP",
-    "pu_state": "MD",
-    "pu_hours": "0800-1230",
-    "del_date": "2026-11-02",
-    "del_city": "ST LOUIS",
-    "del_state": "MO",
-    "del_hours": "0700-1200",
-    "equipment": "26' Straight Box Truck",
-    "weight_lbs": 3000,
-    "carrier_rate": 1400,
-    "updated_at": "2026-10-30T13:53:41.173420+00:00",
-    "lane": "BELCAMP MD-ST LOUIS MO"
-  },
-  {
     "pro": "50542",
     "status": "OPEN",
     "pu_date": "2026-11-02",
