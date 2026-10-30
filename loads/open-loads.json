@@ -12,8 +12,8 @@
     "del_hours": "0415",
     "equipment": "Reefer",
     "weight_lbs": 13650,
-    "carrier_rate": 5200,
-    "updated_at": "2026-10-30T18:09:37.325418+00:00",
+    "carrier_rate": 5500,
+    "updated_at": "2026-10-30T18:17:48.653604+00:00",
     "lane": "MONTEZUMA GA-TRACY CA"
   },
   {
@@ -527,23 +527,6 @@
     "lane": "WADESBORO NC-ATLANTA GA"
   },
   {
-    "pro": "51069",
-    "status": "RELEASED",
-    "pu_date": "2026-10-22",
-    "pu_city": "WINCHESTER",
-    "pu_state": "KY",
-    "pu_hours": "1330-1500",
-    "del_date": "2026-10-23",
-    "del_city": "JOLIET",
-    "del_state": "IL",
-    "del_hours": "0730",
-    "equipment": "Van",
-    "weight_lbs": 11280,
-    "carrier_rate": 1000,
-    "updated_at": "2026-10-23T18:18:45.730090+00:00",
-    "lane": "WINCHESTER KY-JOLIET IL"
-  },
-  {
     "pro": "51070",
     "status": "RELEASED",
     "pu_date": "2026-10-22",
@@ -783,7 +766,7 @@
   },
   {
     "pro": "51175",
-    "status": "LOADED",
+    "status": "DELIVERED",
     "pu_date": "2026-10-29",
     "pu_city": "WADESBORO",
     "pu_state": "NC",
@@ -795,7 +778,7 @@
     "equipment": "Van",
     "weight_lbs": 44000,
     "carrier_rate": 900,
-    "updated_at": "2026-10-30T18:15:25.094334+00:00",
+    "updated_at": "2026-10-30T18:18:45.782750+00:00",
     "lane": "WADESBORO NC-ATLANTA GA"
   },
   {
