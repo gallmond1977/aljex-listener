@@ -68,6 +68,24 @@
     "lane": "BUENA VISTA GA-BRENTWOOD TN"
   },
   {
+    "pro": "8890469",
+    "status": "OPEN",
+    "spot": true,
+    "pu_date": "2026-10-30",
+    "pu_city": "PORT ANGELES",
+    "pu_state": "WA",
+    "pu_hours": "",
+    "del_date": "2026-10-31",
+    "del_city": "RAPID CITY",
+    "del_state": "SD",
+    "del_hours": "",
+    "equipment": "Flatbed",
+    "weight_lbs": 47500,
+    "carrier_rate": 5400,
+    "updated_at": "2026-10-30T14:02:55.881546+00:00",
+    "lane": "PORT ANGELES WA-RAPID CITY SD"
+  },
+  {
     "pro": "50542",
     "status": "OPEN",
     "pu_date": "2026-11-02",
