@@ -22,7 +22,7 @@
     "pu_date": "2026-11-02",
     "pu_city": "WILMINGTON",
     "pu_state": "NC",
-    "pu_hours": "1230-1500",
+    "pu_hours": "1230-1600",
     "del_date": "2026-11-03",
     "del_city": "CONWAY",
     "del_state": "SC",
@@ -30,7 +30,7 @@
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 6000,
     "carrier_rate": 400,
-    "updated_at": "2026-11-02T19:37:00.415956+00:00",
+    "updated_at": "2026-11-02T19:46:00.548488+00:00",
     "lane": "WILMINGTON NC-CONWAY SC"
   },
   {
