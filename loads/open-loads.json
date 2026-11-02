@@ -136,6 +136,23 @@
     "lane": "BUFFALO NY-BELCAMP MD"
   },
   {
+    "pro": "51261",
+    "status": "OPEN",
+    "pu_date": "2026-11-03",
+    "pu_city": "RICHMOND",
+    "pu_state": "VA",
+    "pu_hours": "0800-1400",
+    "del_date": "2026-11-04",
+    "del_city": "NORTH PALM BEACH",
+    "del_state": "FL",
+    "del_hours": "0800-1200",
+    "equipment": "26' Straight Box Truck",
+    "weight_lbs": 5000,
+    "carrier_rate": 2200,
+    "updated_at": "2026-11-02T20:07:58.805289+00:00",
+    "lane": "RICHMOND VA-NORTH PALM BEACH FL"
+  },
+  {
     "pro": "50542",
     "status": "OPEN",
     "pu_date": "2026-11-04",
