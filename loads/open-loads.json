@@ -528,7 +528,7 @@
   },
   {
     "pro": "51082",
-    "status": "DELIVERED",
+    "status": "RELEASED",
     "pu_date": "2026-10-30",
     "pu_city": "ATLANTA",
     "pu_state": "GA",
@@ -540,12 +540,12 @@
     "equipment": "Reefer",
     "weight_lbs": 21264,
     "carrier_rate": 450,
-    "updated_at": "2026-10-30T14:16:07.769760+00:00",
+    "updated_at": "2026-11-02T15:27:53.524620+00:00",
     "lane": "ATLANTA GA-DECATUR GA"
   },
   {
     "pro": "51083",
-    "status": "DELIVERED",
+    "status": "RELEASED",
     "pu_date": "2026-10-30",
     "pu_city": "ATLANTA",
     "pu_state": "GA",
@@ -557,12 +557,12 @@
     "equipment": "Reefer",
     "weight_lbs": 22150,
     "carrier_rate": 450,
-    "updated_at": "2026-10-30T15:16:01.312654+00:00",
+    "updated_at": "2026-11-02T15:28:25.574988+00:00",
     "lane": "ATLANTA GA-DECATUR GA"
   },
   {
     "pro": "51084",
-    "status": "DELIVERED",
+    "status": "RELEASED",
     "pu_date": "2026-10-30",
     "pu_city": "ATLANTA",
     "pu_state": "GA",
@@ -574,12 +574,12 @@
     "equipment": "Reefer",
     "weight_lbs": 20378,
     "carrier_rate": 450,
-    "updated_at": "2026-10-30T14:16:57.704287+00:00",
+    "updated_at": "2026-11-02T15:25:33.632148+00:00",
     "lane": "ATLANTA GA-DECATUR GA"
   },
   {
     "pro": "51085",
-    "status": "DELIVERED",
+    "status": "RELEASED",
     "pu_date": "2026-10-30",
     "pu_city": "ATLANTA",
     "pu_state": "GA",
@@ -591,12 +591,12 @@
     "equipment": "Reefer",
     "weight_lbs": 21264,
     "carrier_rate": 450,
-    "updated_at": "2026-10-30T14:17:55.243674+00:00",
+    "updated_at": "2026-11-02T15:26:02.019197+00:00",
     "lane": "ATLANTA GA-DECATUR GA"
   },
   {
     "pro": "51086",
-    "status": "DELIVERED",
+    "status": "RELEASED",
     "pu_date": "2026-10-30",
     "pu_city": "ATLANTA",
     "pu_state": "GA",
@@ -608,7 +608,7 @@
     "equipment": "Reefer",
     "weight_lbs": 21264,
     "carrier_rate": 450,
-    "updated_at": "2026-10-30T16:04:02.115633+00:00",
+    "updated_at": "2026-11-02T15:28:53.564431+00:00",
     "lane": "ATLANTA GA-DECATUR GA"
   },
   {
