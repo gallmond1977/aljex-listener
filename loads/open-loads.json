@@ -68,23 +68,6 @@
     "lane": "WILMINGTON NC-CONWAY SC"
   },
   {
-    "pro": "51247",
-    "status": "OPEN",
-    "pu_date": "2026-11-02",
-    "pu_city": "CHARLOTTE",
-    "pu_state": "NC",
-    "pu_hours": "0800-1400",
-    "del_date": "2026-11-03",
-    "del_city": "SAVANNAH",
-    "del_state": "GA",
-    "del_hours": "0730-1500",
-    "equipment": "26' Straight Box Truck",
-    "weight_lbs": 1500,
-    "carrier_rate": 500,
-    "updated_at": "2026-11-02T16:59:39.480896+00:00",
-    "lane": "CHARLOTTE NC-SAVANNAH GA"
-  },
-  {
     "pro": "51128",
     "status": "OPEN",
     "pu_date": "2026-11-03",
