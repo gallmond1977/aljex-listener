@@ -29,8 +29,8 @@
     "del_hours": "0800-1200",
     "equipment": "Flatbed",
     "weight_lbs": 26000,
-    "carrier_rate": 2000,
-    "updated_at": "2026-10-30T17:18:59.236669+00:00",
+    "carrier_rate": 1900,
+    "updated_at": "2026-11-02T13:49:44.986347+00:00",
     "lane": "CYPRESS TX-ROANOKE AL"
   },
   {
@@ -49,23 +49,6 @@
     "carrier_rate": 900,
     "updated_at": "2026-10-30T20:16:24.313785+00:00",
     "lane": "WADESBORO NC-ATLANTA GA"
-  },
-  {
-    "pro": "51229",
-    "status": "OPEN",
-    "pu_date": "2026-11-02",
-    "pu_city": "DEMOPOLIS",
-    "pu_state": "AL",
-    "pu_hours": "0800-1400",
-    "del_date": "2026-11-03",
-    "del_city": "CASSVILLE",
-    "del_state": "MO",
-    "del_hours": "0700-1400",
-    "equipment": "Van",
-    "weight_lbs": 43446,
-    "carrier_rate": 1431.84,
-    "updated_at": "2026-10-30T18:12:16.959681+00:00",
-    "lane": "DEMOPOLIS AL-CASSVILLE MO"
   },
   {
     "pro": "51230",
