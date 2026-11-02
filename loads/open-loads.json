@@ -80,8 +80,8 @@
     "del_hours": "0730-1630",
     "equipment": "Van",
     "weight_lbs": 43000,
-    "carrier_rate": null,
-    "updated_at": "2026-11-02T16:19:59.715840+00:00",
+    "carrier_rate": 600,
+    "updated_at": "2026-11-02T16:23:23.256786+00:00",
     "lane": "CARTERSVILLE GA-MACON GA"
   },
   {
