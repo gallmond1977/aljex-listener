@@ -153,6 +153,23 @@
     "lane": "COLUMBIA SC-MACON GA"
   },
   {
+    "pro": "51266",
+    "status": "OPEN",
+    "pu_date": "2026-11-03",
+    "pu_city": "MONTICELLO",
+    "pu_state": "IL",
+    "pu_hours": "0600-1400",
+    "del_date": "2026-11-04",
+    "del_city": "MIDLOTHIAN",
+    "del_state": "TX",
+    "del_hours": "0800-0900",
+    "equipment": "26' Straight Box Truck",
+    "weight_lbs": 2000,
+    "carrier_rate": null,
+    "updated_at": "2026-11-02T21:25:10.669346+00:00",
+    "lane": "MONTICELLO IL-MIDLOTHIAN TX"
+  },
+  {
     "pro": "50542",
     "status": "OPEN",
     "pu_date": "2026-11-04",
