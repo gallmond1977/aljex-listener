@@ -1,22 +1,5 @@
 [
   {
-    "pro": "51158",
-    "status": "OPEN",
-    "pu_date": "2026-11-02",
-    "pu_city": "PORT ANGELES",
-    "pu_state": "WA",
-    "pu_hours": "0600-1600",
-    "del_date": "",
-    "del_city": "RAPID CITY",
-    "del_state": "SD",
-    "del_hours": "",
-    "equipment": "Flatbed",
-    "weight_lbs": 47500,
-    "carrier_rate": 5750,
-    "updated_at": "2026-11-02T15:01:29.660421+00:00",
-    "lane": "PORT ANGELES WA-RAPID CITY SD"
-  },
-  {
     "pro": "51144",
     "status": "OPEN",
     "pu_date": "2026-11-03",
@@ -34,20 +17,37 @@
     "lane": "CARTERSVILLE GA-MACON GA"
   },
   {
+    "pro": "51158",
+    "status": "OPEN",
+    "pu_date": "2026-11-03",
+    "pu_city": "PORT ANGELES",
+    "pu_state": "WA",
+    "pu_hours": "0600-1600",
+    "del_date": "",
+    "del_city": "RAPID CITY",
+    "del_state": "SD",
+    "del_hours": "",
+    "equipment": "Flatbed",
+    "weight_lbs": 47500,
+    "carrier_rate": 5750,
+    "updated_at": "2026-11-02T21:45:21.501300+00:00",
+    "lane": "PORT ANGELES WA-RAPID CITY SD"
+  },
+  {
     "pro": "51248",
     "status": "OPEN",
     "pu_date": "2026-11-03",
     "pu_city": "MOUNT PLEASANT",
     "pu_state": "TN",
     "pu_hours": "0800-1600",
-    "del_date": "2026-11-04",
+    "del_date": "2026-11-03",
     "del_city": "DOUGLASVILLE",
     "del_state": "GA",
     "del_hours": "0800-1600",
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 800,
     "carrier_rate": 450,
-    "updated_at": "2026-11-02T21:40:50.931159+00:00",
+    "updated_at": "2026-11-02T21:47:46.864418+00:00",
     "lane": "MOUNT PLEASANT TN-DOUGLASVILLE GA"
   },
   {
