@@ -17,23 +17,6 @@
     "lane": "GARLAND TX-CALHOUN GA"
   },
   {
-    "pro": "51144",
-    "status": "OPEN",
-    "pu_date": "2026-11-02",
-    "pu_city": "CARTERSVILLE",
-    "pu_state": "GA",
-    "pu_hours": "0600-1500",
-    "del_date": "2026-11-02",
-    "del_city": "MACON",
-    "del_state": "GA",
-    "del_hours": "0730-1630",
-    "equipment": "Van",
-    "weight_lbs": 43000,
-    "carrier_rate": null,
-    "updated_at": "2026-10-28T12:59:57.554937+00:00",
-    "lane": "CARTERSVILLE GA-MACON GA"
-  },
-  {
     "pro": "51148",
     "status": "OPEN",
     "pu_date": "2026-11-02",
@@ -221,6 +204,23 @@
     "lane": "LINCOLN NE-AUGUSTA GA"
   },
   {
+    "pro": "51239",
+    "status": "OPEN",
+    "pu_date": "2026-11-02",
+    "pu_city": "UNION CITY",
+    "pu_state": "GA",
+    "pu_hours": "0900",
+    "del_date": "2026-11-03",
+    "del_city": "PINECREST",
+    "del_state": "FL",
+    "del_hours": "0600",
+    "equipment": "26' Straight Box Truck",
+    "weight_lbs": 4000,
+    "carrier_rate": 1300,
+    "updated_at": "2026-11-02T13:04:33.433393+00:00",
+    "lane": "UNION CITY GA-PINECREST FL"
+  },
+  {
     "pro": "51128",
     "status": "OPEN",
     "pu_date": "2026-11-03",
@@ -236,6 +236,23 @@
     "carrier_rate": null,
     "updated_at": "2026-11-02T12:56:04.225200+00:00",
     "lane": "MONTEZUMA GA-TRACY CA"
+  },
+  {
+    "pro": "51144",
+    "status": "OPEN",
+    "pu_date": "2026-11-03",
+    "pu_city": "CARTERSVILLE",
+    "pu_state": "GA",
+    "pu_hours": "0600-1500",
+    "del_date": "2026-11-03",
+    "del_city": "MACON",
+    "del_state": "GA",
+    "del_hours": "0730-1630",
+    "equipment": "Van",
+    "weight_lbs": 43000,
+    "carrier_rate": null,
+    "updated_at": "2026-11-02T13:04:54.346852+00:00",
+    "lane": "CARTERSVILLE GA-MACON GA"
   },
   {
     "pro": "51182",
@@ -746,6 +763,23 @@
     "carrier_rate": 1200,
     "updated_at": "2026-10-27T12:19:44.115312+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
+  },
+  {
+    "pro": "51114",
+    "status": "RELEASED",
+    "pu_date": "2026-10-26",
+    "pu_city": "UNION CITY",
+    "pu_state": "GA",
+    "pu_hours": "0900",
+    "del_date": "2026-10-27",
+    "del_city": "PINECREST",
+    "del_state": "FL",
+    "del_hours": "0600",
+    "equipment": "26' Straight Box Truck",
+    "weight_lbs": 4000,
+    "carrier_rate": 1300,
+    "updated_at": "2026-10-27T12:10:48.813454+00:00",
+    "lane": "UNION CITY GA-PINECREST FL"
   },
   {
     "pro": "51037",
