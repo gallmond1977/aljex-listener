@@ -17,23 +17,6 @@
     "lane": "PORT ANGELES WA-RAPID CITY SD"
   },
   {
-    "pro": "51245",
-    "status": "OPEN",
-    "pu_date": "2026-11-02",
-    "pu_city": "EAST MOLINE",
-    "pu_state": "IL",
-    "pu_hours": "0700-1400",
-    "del_date": "2026-11-03",
-    "del_city": "BELCAMP",
-    "del_state": "MD",
-    "del_hours": "0700-1500",
-    "equipment": "Van",
-    "weight_lbs": 25000,
-    "carrier_rate": 3200,
-    "updated_at": "2026-11-02T18:12:46.266876+00:00",
-    "lane": "EAST MOLINE IL-BELCAMP MD"
-  },
-  {
     "pro": "51246",
     "status": "OPEN",
     "pu_date": "2026-11-02",
@@ -49,6 +32,23 @@
     "carrier_rate": 300,
     "updated_at": "2026-11-02T16:53:21.832338+00:00",
     "lane": "WILMINGTON NC-CONWAY SC"
+  },
+  {
+    "pro": "51248",
+    "status": "OPEN",
+    "pu_date": "2026-11-02",
+    "pu_city": "MOUNT PLEASANT",
+    "pu_state": "TN",
+    "pu_hours": "0800-1600",
+    "del_date": "2026-11-03",
+    "del_city": "DOUGLASVILLE",
+    "del_state": "GA",
+    "del_hours": "0800-1600",
+    "equipment": "26' Straight Box Truck",
+    "weight_lbs": 800,
+    "carrier_rate": 450,
+    "updated_at": "2026-11-02T18:17:43.378621+00:00",
+    "lane": "MOUNT PLEASANT TN-DOUGLASVILLE GA"
   },
   {
     "pro": "51250",
@@ -149,7 +149,7 @@
     "equipment": "Flatbed w/ Tarps",
     "weight_lbs": 43581,
     "carrier_rate": null,
-    "updated_at": "2026-11-02T18:14:35.567907+00:00",
+    "updated_at": "2026-11-02T18:15:37.926764+00:00",
     "lane": "COLUMBUS GA-PANAMA CITY FL"
   },
   {
