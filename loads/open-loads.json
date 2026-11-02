@@ -34,23 +34,6 @@
     "lane": "SAVANNAH GA-ATLANTA GA"
   },
   {
-    "pro": "51244",
-    "status": "OPEN",
-    "pu_date": "2026-11-02",
-    "pu_city": "TROY",
-    "pu_state": "PA",
-    "pu_hours": "0800-1500",
-    "del_date": "2026-11-03",
-    "del_city": "AVENEL",
-    "del_state": "NJ",
-    "del_hours": "0800",
-    "equipment": "26' Straight Box Truck",
-    "weight_lbs": 3420,
-    "carrier_rate": 600,
-    "updated_at": "2026-11-02T17:07:55.819638+00:00",
-    "lane": "TROY PA-AVENEL NJ"
-  },
-  {
     "pro": "51245",
     "status": "OPEN",
     "pu_date": "2026-11-02",
