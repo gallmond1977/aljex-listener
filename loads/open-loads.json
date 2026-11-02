@@ -210,15 +210,15 @@
     "pu_city": "COLUMBUS",
     "pu_state": "GA",
     "pu_hours": "1200-1700",
-    "del_date": "",
-    "del_city": "COLUMBUS",
+    "del_date": "2026-11-04",
+    "del_city": "ATLANTA",
     "del_state": "GA",
-    "del_hours": "0800-1430",
+    "del_hours": "0800-1445",
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 5000,
     "carrier_rate": null,
-    "updated_at": "2026-11-02T19:14:35.599951+00:00",
-    "lane": "COLUMBUS GA-COLUMBUS GA"
+    "updated_at": "2026-11-02T19:15:30.746879+00:00",
+    "lane": "COLUMBUS GA-ATLANTA GA"
   },
   {
     "pro": "51200",
