@@ -17,23 +17,6 @@
     "lane": "PORT ANGELES WA-RAPID CITY SD"
   },
   {
-    "pro": "51246",
-    "status": "OPEN",
-    "pu_date": "2026-11-02",
-    "pu_city": "WILMINGTON",
-    "pu_state": "NC",
-    "pu_hours": "1230-1600",
-    "del_date": "2026-11-03",
-    "del_city": "CONWAY",
-    "del_state": "SC",
-    "del_hours": "0700-1500",
-    "equipment": "26' Straight Box Truck",
-    "weight_lbs": 6000,
-    "carrier_rate": 400,
-    "updated_at": "2026-11-02T19:46:00.548488+00:00",
-    "lane": "WILMINGTON NC-CONWAY SC"
-  },
-  {
     "pro": "51248",
     "status": "OPEN",
     "pu_date": "2026-11-02",
