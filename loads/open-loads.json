@@ -81,7 +81,7 @@
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 800,
     "carrier_rate": 420,
-    "updated_at": "2026-11-02T17:44:56.731688+00:00",
+    "updated_at": "2026-11-02T17:46:46.339949+00:00",
     "lane": "MOUNT PLEASANT TN-DOUGLASVILLE GA"
   },
   {
@@ -151,6 +151,23 @@
     "carrier_rate": 1100,
     "updated_at": "2026-10-20T12:56:28.415329+00:00",
     "lane": "WOODRUFF SC-RICHMOND KY"
+  },
+  {
+    "pro": "51249",
+    "status": "OPEN",
+    "pu_date": "2026-11-04",
+    "pu_city": "COLUMBUS",
+    "pu_state": "GA",
+    "pu_hours": "0800-1500",
+    "del_date": "2026-11-05",
+    "del_city": "PANAMA CITY",
+    "del_state": "FL",
+    "del_hours": "0630-1500",
+    "equipment": "Flatbed w/ Tarps",
+    "weight_lbs": 43581,
+    "carrier_rate": null,
+    "updated_at": "2026-11-02T17:49:58.764496+00:00",
+    "lane": "COLUMBUS GA-PANAMA CITY FL"
   },
   {
     "pro": "51200",
