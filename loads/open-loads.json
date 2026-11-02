@@ -51,23 +51,6 @@
     "lane": "CARTERSVILLE GA-MACON GA"
   },
   {
-    "pro": "51255",
-    "status": "OPEN",
-    "pu_date": "2026-11-03",
-    "pu_city": "COLUMBUS",
-    "pu_state": "GA",
-    "pu_hours": "1100",
-    "del_date": "2026-11-03",
-    "del_city": "ATLANTA",
-    "del_state": "GA",
-    "del_hours": "0800-1600",
-    "equipment": "26' Straight Box Truck",
-    "weight_lbs": 9000,
-    "carrier_rate": 300,
-    "updated_at": "2026-11-02T20:58:36.776892+00:00",
-    "lane": "COLUMBUS GA-ATLANTA GA"
-  },
-  {
     "pro": "51257",
     "status": "OPEN",
     "pu_date": "2026-11-03",
@@ -128,11 +111,11 @@
     "del_date": "2026-11-04",
     "del_city": "TAMPA",
     "del_state": "FL",
-    "del_hours": "",
+    "del_hours": "0800-1100",
     "equipment": "Flatbed w/ Tarps",
     "weight_lbs": 47000,
-    "carrier_rate": 1680,
-    "updated_at": "2026-11-02T20:58:46.795831+00:00",
+    "carrier_rate": 1650,
+    "updated_at": "2026-11-02T21:03:29.489566+00:00",
     "lane": "AUGUSTA GA-TAMPA FL"
   },
   {
@@ -149,7 +132,24 @@
     "equipment": "Van",
     "weight_lbs": 44000,
     "carrier_rate": 750,
-    "updated_at": "2026-11-02T20:58:29.682304+00:00",
+    "updated_at": "2026-11-02T21:02:06.494956+00:00",
+    "lane": "COLUMBIA SC-MACON GA"
+  },
+  {
+    "pro": "51265",
+    "status": "OPEN",
+    "pu_date": "2026-11-03",
+    "pu_city": "COLUMBIA",
+    "pu_state": "SC",
+    "pu_hours": "0730-1530",
+    "del_date": "2026-11-04",
+    "del_city": "MACON",
+    "del_state": "GA",
+    "del_hours": "0800-1600",
+    "equipment": "Van",
+    "weight_lbs": 44000,
+    "carrier_rate": 750,
+    "updated_at": "2026-11-02T21:01:12.625933+00:00",
     "lane": "COLUMBIA SC-MACON GA"
   },
   {
@@ -865,5 +865,22 @@
     "carrier_rate": 900,
     "updated_at": "2026-11-02T20:08:48.467266+00:00",
     "lane": "WADESBORO NC-ATLANTA GA"
+  },
+  {
+    "pro": "51255",
+    "status": "COVERED",
+    "pu_date": "2026-11-03",
+    "pu_city": "COLUMBUS",
+    "pu_state": "GA",
+    "pu_hours": "1100",
+    "del_date": "2026-11-03",
+    "del_city": "ATLANTA",
+    "del_state": "GA",
+    "del_hours": "0800-1600",
+    "equipment": "26' Straight Box Truck",
+    "weight_lbs": 9000,
+    "carrier_rate": 300,
+    "updated_at": "2026-11-02T21:02:44.981161+00:00",
+    "lane": "COLUMBUS GA-ATLANTA GA"
   }
 ]
