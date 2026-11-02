@@ -115,25 +115,8 @@
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 9000,
     "carrier_rate": 300,
-    "updated_at": "2026-11-02T19:03:10.485220+00:00",
+    "updated_at": "2026-11-02T19:10:49.845544+00:00",
     "lane": "COLUMBUS GA-ATLANTA GA"
-  },
-  {
-    "pro": "51256",
-    "status": "OPEN",
-    "pu_date": "2026-11-03",
-    "pu_city": "JACKSONVILLE",
-    "pu_state": "FL",
-    "pu_hours": "0700-1200",
-    "del_date": "2026-11-03",
-    "del_city": "TALLAHASSEE",
-    "del_state": "FL",
-    "del_hours": "0800-1500",
-    "equipment": "26' Straight Box Truck",
-    "weight_lbs": 2200,
-    "carrier_rate": 525,
-    "updated_at": "2026-11-02T18:54:27.877209+00:00",
-    "lane": "JACKSONVILLE FL-TALLAHASSEE FL"
   },
   {
     "pro": "51257",
@@ -151,6 +134,23 @@
     "carrier_rate": 1300,
     "updated_at": "2026-11-02T18:58:27.383304+00:00",
     "lane": "UNION CITY GA-MIAMI FL"
+  },
+  {
+    "pro": "51258",
+    "status": "OPEN",
+    "pu_date": "2026-11-03",
+    "pu_city": "BUFFALO",
+    "pu_state": "NY",
+    "pu_hours": "1000-1500",
+    "del_date": "2026-11-04",
+    "del_city": "BELCAMP",
+    "del_state": "MD",
+    "del_hours": "0700-1500",
+    "equipment": "Van",
+    "weight_lbs": 12410,
+    "carrier_rate": 1700,
+    "updated_at": "2026-11-02T19:10:34.503412+00:00",
+    "lane": "BUFFALO NY-BELCAMP MD"
   },
   {
     "pro": "50542",
@@ -202,6 +202,23 @@
     "carrier_rate": 1000,
     "updated_at": "2026-11-02T18:30:56.886173+00:00",
     "lane": "COLUMBUS GA-PANAMA CITY FL"
+  },
+  {
+    "pro": "51259",
+    "status": "OPEN",
+    "pu_date": "2026-11-04",
+    "pu_city": "COLUMBUS",
+    "pu_state": "GA",
+    "pu_hours": "1200-1700",
+    "del_date": "",
+    "del_city": "COLUMBUS",
+    "del_state": "GA",
+    "del_hours": "0800-1430",
+    "equipment": "26' Straight Box Truck",
+    "weight_lbs": 5000,
+    "carrier_rate": null,
+    "updated_at": "2026-11-02T19:14:35.599951+00:00",
+    "lane": "COLUMBUS GA-COLUMBUS GA"
   },
   {
     "pro": "51200",
@@ -678,5 +695,22 @@
     "carrier_rate": 1100,
     "updated_at": "2026-11-02T15:32:02.921567+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
+  },
+  {
+    "pro": "51215",
+    "status": "LOADED",
+    "pu_date": "2026-11-02",
+    "pu_city": "BUFFALO",
+    "pu_state": "NY",
+    "pu_hours": "1100-1500",
+    "del_date": "2026-11-03",
+    "del_city": "BELCAMP",
+    "del_state": "MD",
+    "del_hours": "0700-1500",
+    "equipment": "Van",
+    "weight_lbs": 15000,
+    "carrier_rate": 1800,
+    "updated_at": "2026-11-02T17:14:42.474051+00:00",
+    "lane": "BUFFALO NY-BELCAMP MD"
   }
 ]
