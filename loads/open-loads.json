@@ -17,23 +17,6 @@
     "lane": "PORT ANGELES WA-RAPID CITY SD"
   },
   {
-    "pro": "51232",
-    "status": "OPEN",
-    "pu_date": "2026-11-02",
-    "pu_city": "POTTERVILLE",
-    "pu_state": "MI",
-    "pu_hours": "0700-1630",
-    "del_date": "2026-11-03",
-    "del_city": "SALISBURY",
-    "del_state": "NC",
-    "del_hours": "0600-0800",
-    "equipment": "Van",
-    "weight_lbs": 10000,
-    "carrier_rate": 2750,
-    "updated_at": "2026-11-02T16:42:52.763258+00:00",
-    "lane": "POTTERVILLE MI-SALISBURY NC"
-  },
-  {
     "pro": "51243",
     "status": "OPEN",
     "pu_date": "2026-11-02",
@@ -96,9 +79,9 @@
     "del_state": "SC",
     "del_hours": "0700-1500",
     "equipment": "26' Straight Box Truck",
-    "weight_lbs": 5000,
+    "weight_lbs": 6000,
     "carrier_rate": 300,
-    "updated_at": "2026-11-02T16:50:30.826350+00:00",
+    "updated_at": "2026-11-02T16:53:21.832338+00:00",
     "lane": "WILMINGTON NC-CONWAY SC"
   },
   {
