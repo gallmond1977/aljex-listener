@@ -47,7 +47,7 @@
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 800,
     "carrier_rate": 450,
-    "updated_at": "2026-11-02T18:17:43.378621+00:00",
+    "updated_at": "2026-11-02T18:20:44.856498+00:00",
     "lane": "MOUNT PLEASANT TN-DOUGLASVILLE GA"
   },
   {
@@ -147,9 +147,9 @@
     "del_state": "FL",
     "del_hours": "0630-1500",
     "equipment": "Flatbed w/ Tarps",
-    "weight_lbs": 43581,
+    "weight_lbs": 47045,
     "carrier_rate": null,
-    "updated_at": "2026-11-02T18:15:37.926764+00:00",
+    "updated_at": "2026-11-02T18:25:23.825159+00:00",
     "lane": "COLUMBUS GA-PANAMA CITY FL"
   },
   {
