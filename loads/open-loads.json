@@ -136,23 +136,6 @@
     "lane": "POTTERVILLE MI-SALISBURY NC"
   },
   {
-    "pro": "51240",
-    "status": "OPEN",
-    "pu_date": "2026-11-03",
-    "pu_city": "COLUMBUS",
-    "pu_state": "GA",
-    "pu_hours": "0800-1500",
-    "del_date": "2026-11-04",
-    "del_city": "STEVENS",
-    "del_state": "PA",
-    "del_hours": "0700-1500",
-    "equipment": "Van",
-    "weight_lbs": 44424,
-    "carrier_rate": 2500,
-    "updated_at": "2026-11-02T14:18:49.624855+00:00",
-    "lane": "COLUMBUS GA-STEVENS PA"
-  },
-  {
     "pro": "50542",
     "status": "OPEN",
     "pu_date": "2026-11-04",
@@ -281,11 +264,11 @@
     "del_date": "2026-11-06",
     "del_city": "DECATUR",
     "del_state": "GA",
-    "del_hours": "",
+    "del_hours": "1000",
     "equipment": "Reefer",
     "weight_lbs": 21264,
     "carrier_rate": 450,
-    "updated_at": "2026-11-02T15:22:36.527431+00:00",
+    "updated_at": "2026-11-02T15:35:37.856062+00:00",
     "lane": "ATLANTA GA-DECATUR GA"
   },
   {
@@ -423,23 +406,6 @@
     "carrier_rate": null,
     "updated_at": "2026-10-22T18:15:37.833153+00:00",
     "lane": "LA PORTE TX-PIEDMONT SC"
-  },
-  {
-    "pro": "51032",
-    "status": "RELEASED",
-    "pu_date": "2026-10-22",
-    "pu_city": "ATLANTA",
-    "pu_state": "GA",
-    "pu_hours": "0700",
-    "del_date": "2026-10-22",
-    "del_city": "DECATUR",
-    "del_state": "GA",
-    "del_hours": "1000",
-    "equipment": "Reefer",
-    "weight_lbs": 21264,
-    "carrier_rate": 450,
-    "updated_at": "2026-10-26T15:35:34.096101+00:00",
-    "lane": "ATLANTA GA-DECATUR GA"
   },
   {
     "pro": "51033",
@@ -627,23 +593,6 @@
     "carrier_rate": 450,
     "updated_at": "2026-11-02T15:28:53.564431+00:00",
     "lane": "ATLANTA GA-DECATUR GA"
-  },
-  {
-    "pro": "51195",
-    "status": "DELIVERED",
-    "pu_date": "2026-10-30",
-    "pu_city": "COLUMBUS",
-    "pu_state": "GA",
-    "pu_hours": "0800-1500",
-    "del_date": "2026-11-02",
-    "del_city": "STEVENS",
-    "del_state": "PA",
-    "del_hours": "0700-1500",
-    "equipment": "Van",
-    "weight_lbs": 43850,
-    "carrier_rate": 2500,
-    "updated_at": "2026-11-02T13:28:26.747811+00:00",
-    "lane": "COLUMBUS GA-STEVENS PA"
   },
   {
     "pro": "51130",
