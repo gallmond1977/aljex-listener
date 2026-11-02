@@ -13,7 +13,7 @@
     "equipment": "Van",
     "weight_lbs": 43438,
     "carrier_rate": 1850,
-    "updated_at": "2026-10-30T20:27:12.487027+00:00",
+    "updated_at": "2026-11-02T13:19:51.583714+00:00",
     "lane": "GARLAND TX-CALHOUN GA"
   },
   {
@@ -30,7 +30,7 @@
     "equipment": "Van",
     "weight_lbs": 14580,
     "carrier_rate": 1000,
-    "updated_at": "2026-10-27T16:03:31.575244+00:00",
+    "updated_at": "2026-11-02T13:19:43.658030+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
@@ -83,23 +83,6 @@
     "carrier_rate": 900,
     "updated_at": "2026-10-30T20:16:24.313785+00:00",
     "lane": "WADESBORO NC-ATLANTA GA"
-  },
-  {
-    "pro": "51228",
-    "status": "OPEN",
-    "pu_date": "2026-11-02",
-    "pu_city": "CLARENCE",
-    "pu_state": "NY",
-    "pu_hours": "1000-1500",
-    "del_date": "2026-11-03",
-    "del_city": "BELCAMP",
-    "del_state": "MD",
-    "del_hours": "0700-1500",
-    "equipment": "26' Straight Box Truck",
-    "weight_lbs": 1000,
-    "carrier_rate": 800,
-    "updated_at": "2026-10-30T17:42:49.261316+00:00",
-    "lane": "CLARENCE NY-BELCAMP MD"
   },
   {
     "pro": "51229",
@@ -168,23 +151,6 @@
     "carrier_rate": 2900,
     "updated_at": "2026-10-30T20:28:59.951387+00:00",
     "lane": "COLUMBUS GA-ROGERSVILLE MO"
-  },
-  {
-    "pro": "51235",
-    "status": "OPEN",
-    "pu_date": "2026-11-02",
-    "pu_city": "MOBILE",
-    "pu_state": "AL",
-    "pu_hours": "0800-1000",
-    "del_date": "2026-11-02",
-    "del_city": "EUFAULA",
-    "del_state": "AL",
-    "del_hours": "0800-1700",
-    "equipment": "Flatbed Hot Shot",
-    "weight_lbs": 5000,
-    "carrier_rate": 600,
-    "updated_at": "2026-11-02T13:14:57.496336+00:00",
-    "lane": "MOBILE AL-EUFAULA AL"
   },
   {
     "pro": "51237",
