@@ -81,7 +81,7 @@
     "equipment": "Van",
     "weight_lbs": 25000,
     "carrier_rate": 3200,
-    "updated_at": "2026-11-02T16:44:33.243123+00:00",
+    "updated_at": "2026-11-02T16:46:18.989837+00:00",
     "lane": "EAST MOLINE IL-BELCAMP MD"
   },
   {
@@ -98,8 +98,25 @@
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 5000,
     "carrier_rate": 300,
-    "updated_at": "2026-11-02T16:45:10.350485+00:00",
+    "updated_at": "2026-11-02T16:50:30.826350+00:00",
     "lane": "WILMINGTON NC-CONWAY SC"
+  },
+  {
+    "pro": "51247",
+    "status": "OPEN",
+    "pu_date": "2026-11-02",
+    "pu_city": "CHARLOTTE",
+    "pu_state": "NC",
+    "pu_hours": "0800-1400",
+    "del_date": "2026-11-03",
+    "del_city": "SAVANNAH",
+    "del_state": "GA",
+    "del_hours": "0800-1500",
+    "equipment": "26' Straight Box Truck",
+    "weight_lbs": 3500,
+    "carrier_rate": 500,
+    "updated_at": "2026-11-02T16:50:04.962537+00:00",
+    "lane": "CHARLOTTE NC-SAVANNAH GA"
   },
   {
     "pro": "51128",
