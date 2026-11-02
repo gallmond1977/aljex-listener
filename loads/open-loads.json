@@ -30,7 +30,7 @@
     "equipment": "Van",
     "weight_lbs": 44000,
     "carrier_rate": 900,
-    "updated_at": "2026-11-02T15:48:34.508061+00:00",
+    "updated_at": "2026-11-02T16:28:28.712708+00:00",
     "lane": "SAVANNAH GA-ATLANTA GA"
   },
   {
@@ -56,7 +56,7 @@
     "pu_date": "2026-11-03",
     "pu_city": "MONTEZUMA",
     "pu_state": "GA",
-    "pu_hours": "REQ",
+    "pu_hours": "1300",
     "del_date": "2026-11-07",
     "del_city": "TRACY",
     "del_state": "CA",
@@ -64,7 +64,7 @@
     "equipment": "Reefer",
     "weight_lbs": 13650,
     "carrier_rate": 4600,
-    "updated_at": "2026-11-02T13:38:49.567201+00:00",
+    "updated_at": "2026-11-02T16:27:56.875567+00:00",
     "lane": "MONTEZUMA GA-TRACY CA"
   },
   {
@@ -80,8 +80,8 @@
     "del_hours": "0730-1630",
     "equipment": "Van",
     "weight_lbs": 43000,
-    "carrier_rate": 600,
-    "updated_at": "2026-11-02T16:23:23.256786+00:00",
+    "carrier_rate": 500,
+    "updated_at": "2026-11-02T16:28:11.288562+00:00",
     "lane": "CARTERSVILLE GA-MACON GA"
   },
   {
