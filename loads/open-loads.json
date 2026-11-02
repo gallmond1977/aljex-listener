@@ -68,6 +68,23 @@
     "lane": "WILMINGTON NC-CONWAY SC"
   },
   {
+    "pro": "51248",
+    "status": "OPEN",
+    "pu_date": "2026-11-02",
+    "pu_city": "MOUNT PLEASANT",
+    "pu_state": "TN",
+    "pu_hours": "0800-1600",
+    "del_date": "2026-11-03",
+    "del_city": "DOUGLASVILLE",
+    "del_state": "GA",
+    "del_hours": "0800-1600",
+    "equipment": "26' Straight Box Truck",
+    "weight_lbs": 800,
+    "carrier_rate": 400,
+    "updated_at": "2026-11-02T17:39:26.116362+00:00",
+    "lane": "MOUNT PLEASANT TN-DOUGLASVILLE GA"
+  },
+  {
     "pro": "51144",
     "status": "OPEN",
     "pu_date": "2026-11-03",
