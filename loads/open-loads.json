@@ -30,7 +30,7 @@
     "equipment": "Van",
     "weight_lbs": 10000,
     "carrier_rate": 2750,
-    "updated_at": "2026-11-02T16:40:04.832803+00:00",
+    "updated_at": "2026-11-02T16:42:52.763258+00:00",
     "lane": "POTTERVILLE MI-SALISBURY NC"
   },
   {
@@ -73,15 +73,15 @@
     "pu_date": "2026-11-02",
     "pu_city": "EAST MOLINE",
     "pu_state": "IL",
-    "pu_hours": "",
+    "pu_hours": "0800-1400",
     "del_date": "2026-11-03",
     "del_city": "BELCAMP",
     "del_state": "MD",
     "del_hours": "0700-1500",
     "equipment": "Van",
     "weight_lbs": 25000,
-    "carrier_rate": null,
-    "updated_at": "2026-11-02T16:38:52.983704+00:00",
+    "carrier_rate": 3200,
+    "updated_at": "2026-11-02T16:44:33.243123+00:00",
     "lane": "EAST MOLINE IL-BELCAMP MD"
   },
   {
@@ -98,7 +98,7 @@
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 5000,
     "carrier_rate": 300,
-    "updated_at": "2026-11-02T16:40:19.574506+00:00",
+    "updated_at": "2026-11-02T16:45:10.350485+00:00",
     "lane": "WILMINGTON NC-CONWAY SC"
   },
   {
