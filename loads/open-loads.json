@@ -17,23 +17,6 @@
     "lane": "GARLAND TX-CALHOUN GA"
   },
   {
-    "pro": "51148",
-    "status": "OPEN",
-    "pu_date": "2026-11-02",
-    "pu_city": "WINCHESTER",
-    "pu_state": "KY",
-    "pu_hours": "0800-1130",
-    "del_date": "2026-11-02",
-    "del_city": "JOLIET",
-    "del_state": "IL",
-    "del_hours": "2100",
-    "equipment": "Van",
-    "weight_lbs": 14580,
-    "carrier_rate": 1000,
-    "updated_at": "2026-11-02T13:19:43.658030+00:00",
-    "lane": "WINCHESTER KY-JOLIET IL"
-  },
-  {
     "pro": "51158",
     "status": "OPEN",
     "pu_date": "2026-11-02",
@@ -115,7 +98,7 @@
     "equipment": "Van",
     "weight_lbs": 43500,
     "carrier_rate": 1430,
-    "updated_at": "2026-11-02T13:13:06.546691+00:00",
+    "updated_at": "2026-11-02T13:21:11.837867+00:00",
     "lane": "MONTICELLO GA-RALEIGH NC"
   },
   {
@@ -882,5 +865,22 @@
     "carrier_rate": 850,
     "updated_at": "2026-10-30T15:37:57.592254+00:00",
     "lane": "WADESBORO NC-ATLANTA GA"
+  },
+  {
+    "pro": "51148",
+    "status": "COVERED",
+    "pu_date": "2026-11-02",
+    "pu_city": "WINCHESTER",
+    "pu_state": "KY",
+    "pu_hours": "0800-1130",
+    "del_date": "2026-11-02",
+    "del_city": "JOLIET",
+    "del_state": "IL",
+    "del_hours": "2100",
+    "equipment": "Van",
+    "weight_lbs": 14580,
+    "carrier_rate": 1100,
+    "updated_at": "2026-11-02T13:25:11.175997+00:00",
+    "lane": "WINCHESTER KY-JOLIET IL"
   }
 ]
