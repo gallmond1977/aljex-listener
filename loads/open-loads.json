@@ -221,6 +221,23 @@
     "lane": "LINCOLN NE-AUGUSTA GA"
   },
   {
+    "pro": "51128",
+    "status": "OPEN",
+    "pu_date": "2026-11-03",
+    "pu_city": "MONTEZUMA",
+    "pu_state": "GA",
+    "pu_hours": "",
+    "del_date": "2026-11-07",
+    "del_city": "TRACY",
+    "del_state": "CA",
+    "del_hours": "0345",
+    "equipment": "Reefer",
+    "weight_lbs": 13650,
+    "carrier_rate": null,
+    "updated_at": "2026-11-02T12:53:47.633388+00:00",
+    "lane": "MONTEZUMA GA-TRACY CA"
+  },
+  {
     "pro": "51182",
     "status": "OPEN",
     "pu_date": "2026-11-03",
@@ -249,9 +266,9 @@
     "del_state": "MD",
     "del_hours": "0700-1500",
     "equipment": "Van",
-    "weight_lbs": 16000,
+    "weight_lbs": 14000,
     "carrier_rate": 2700,
-    "updated_at": "2026-10-29T17:01:53.432226+00:00",
+    "updated_at": "2026-11-02T12:54:54.706795+00:00",
     "lane": "BENSENVILLE IL-BELCAMP MD"
   },
   {
@@ -627,6 +644,23 @@
     "carrier_rate": 900,
     "updated_at": "2026-10-26T13:44:29.957507+00:00",
     "lane": "WADESBORO NC-ATLANTA GA"
+  },
+  {
+    "pro": "51033",
+    "status": "RELEASED",
+    "pu_date": "2026-10-23",
+    "pu_city": "MONTEZUMA",
+    "pu_state": "GA",
+    "pu_hours": "1400",
+    "del_date": "2026-10-27",
+    "del_city": "TRACY",
+    "del_state": "CA",
+    "del_hours": "0445",
+    "equipment": "Reefer",
+    "weight_lbs": 23400,
+    "carrier_rate": 4900,
+    "updated_at": "2026-10-28T14:34:20.671181+00:00",
+    "lane": "MONTEZUMA GA-TRACY CA"
   },
   {
     "pro": "51079",
