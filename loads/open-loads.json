@@ -68,23 +68,6 @@
     "lane": "CARTERSVILLE GA-MACON GA"
   },
   {
-    "pro": "51182",
-    "status": "OPEN",
-    "pu_date": "2026-11-03",
-    "pu_city": "SHILOH",
-    "pu_state": "OH",
-    "pu_hours": "0800-1500",
-    "del_date": "2026-11-04",
-    "del_city": "TOWNVILLE",
-    "del_state": "SC",
-    "del_hours": "0800-1500",
-    "equipment": "Flatbed Hot Shot",
-    "weight_lbs": 9500,
-    "carrier_rate": 1400,
-    "updated_at": "2026-11-02T19:57:49.517726+00:00",
-    "lane": "SHILOH OH-TOWNVILLE SC"
-  },
-  {
     "pro": "51255",
     "status": "OPEN",
     "pu_date": "2026-11-03",
@@ -132,7 +115,7 @@
     "equipment": "Van",
     "weight_lbs": 12410,
     "carrier_rate": 1700,
-    "updated_at": "2026-11-02T19:10:34.503412+00:00",
+    "updated_at": "2026-11-02T20:35:30.784232+00:00",
     "lane": "BUFFALO NY-BELCAMP MD"
   },
   {
@@ -149,7 +132,7 @@
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 5000,
     "carrier_rate": 2200,
-    "updated_at": "2026-11-02T20:07:58.805289+00:00",
+    "updated_at": "2026-11-02T20:38:58.444327+00:00",
     "lane": "RICHMOND VA-NORTH PALM BEACH FL"
   },
   {
