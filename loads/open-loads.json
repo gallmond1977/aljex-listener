@@ -68,6 +68,23 @@
     "lane": "HOSCHTON GA-RIDGELAND SC"
   },
   {
+    "pro": "51241",
+    "status": "OPEN",
+    "pu_date": "2026-11-02",
+    "pu_city": "KNOXVILLE",
+    "pu_state": "TN",
+    "pu_hours": "0800-1600",
+    "del_date": "2026-11-02",
+    "del_city": "COLUMBUS",
+    "del_state": "GA",
+    "del_hours": "0800-1700",
+    "equipment": "Sprinter Van",
+    "weight_lbs": 1000,
+    "carrier_rate": 550,
+    "updated_at": "2026-11-02T14:29:15.662131+00:00",
+    "lane": "KNOXVILLE TN-COLUMBUS GA"
+  },
+  {
     "pro": "51128",
     "status": "OPEN",
     "pu_date": "2026-11-03",
@@ -477,7 +494,7 @@
   },
   {
     "pro": "51079",
-    "status": "DELIVERED",
+    "status": "RELEASED",
     "pu_date": "2026-10-23",
     "pu_city": "WADESBORO",
     "pu_state": "NC",
@@ -489,7 +506,7 @@
     "equipment": "Van",
     "weight_lbs": 44000,
     "carrier_rate": 900,
-    "updated_at": "2026-10-27T12:44:15.781615+00:00",
+    "updated_at": "2026-11-02T14:26:10.466954+00:00",
     "lane": "WADESBORO NC-ATLANTA GA"
   },
   {
