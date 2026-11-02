@@ -68,23 +68,6 @@
     "lane": "HOSCHTON GA-RIDGELAND SC"
   },
   {
-    "pro": "51235",
-    "status": "OPEN",
-    "pu_date": "2026-11-02",
-    "pu_city": "MOBILE",
-    "pu_state": "AL",
-    "pu_hours": "0800-1000",
-    "del_date": "2026-11-02",
-    "del_city": "EUFAULA",
-    "del_state": "AL",
-    "del_hours": "0800-1700",
-    "equipment": "Flatbed Hot Shot",
-    "weight_lbs": 5000,
-    "carrier_rate": 700,
-    "updated_at": "2026-11-02T13:26:08.254131+00:00",
-    "lane": "MOBILE AL-EUFAULA AL"
-  },
-  {
     "pro": "51128",
     "status": "OPEN",
     "pu_date": "2026-11-03",
