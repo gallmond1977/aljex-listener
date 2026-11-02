@@ -149,25 +149,8 @@
     "equipment": "Flatbed",
     "weight_lbs": 46000,
     "carrier_rate": 3000,
-    "updated_at": "2026-11-02T13:39:46.425459+00:00",
+    "updated_at": "2026-11-02T13:42:15.601952+00:00",
     "lane": "LINCOLN NE-AUGUSTA GA"
-  },
-  {
-    "pro": "51239",
-    "status": "OPEN",
-    "pu_date": "2026-11-02",
-    "pu_city": "UNION CITY",
-    "pu_state": "GA",
-    "pu_hours": "0900",
-    "del_date": "2026-11-03",
-    "del_city": "PINECREST",
-    "del_state": "FL",
-    "del_hours": "0600",
-    "equipment": "26' Straight Box Truck",
-    "weight_lbs": 4000,
-    "carrier_rate": 1400,
-    "updated_at": "2026-11-02T13:40:11.962907+00:00",
-    "lane": "UNION CITY GA-PINECREST FL"
   },
   {
     "pro": "51128",
@@ -200,7 +183,7 @@
     "equipment": "Van",
     "weight_lbs": 43000,
     "carrier_rate": null,
-    "updated_at": "2026-11-02T13:04:54.346852+00:00",
+    "updated_at": "2026-11-02T13:44:54.265611+00:00",
     "lane": "CARTERSVILLE GA-MACON GA"
   },
   {
@@ -527,23 +510,6 @@
     "lane": "LA PORTE TX-PIEDMONT SC"
   },
   {
-    "pro": "51009",
-    "status": "RELEASED",
-    "pu_date": "2026-10-19",
-    "pu_city": "WADESBORO",
-    "pu_state": "NC",
-    "pu_hours": "0730-1630",
-    "del_date": "2026-10-20",
-    "del_city": "ATLANTA",
-    "del_state": "GA",
-    "del_hours": "0800-1600",
-    "equipment": "Flatbed",
-    "weight_lbs": 44000,
-    "carrier_rate": 900,
-    "updated_at": "2026-10-26T13:42:34.022044+00:00",
-    "lane": "WADESBORO NC-ATLANTA GA"
-  },
-  {
     "pro": "51010",
     "status": "RELEASED",
     "pu_date": "2026-10-20",
@@ -575,40 +541,6 @@
     "weight_lbs": 44000,
     "carrier_rate": 900,
     "updated_at": "2026-10-26T14:36:54.734904+00:00",
-    "lane": "WADESBORO NC-ATLANTA GA"
-  },
-  {
-    "pro": "51070",
-    "status": "RELEASED",
-    "pu_date": "2026-10-22",
-    "pu_city": "WINCHESTER",
-    "pu_state": "KY",
-    "pu_hours": "1330-1500",
-    "del_date": "2026-10-23",
-    "del_city": "JOLIET",
-    "del_state": "IL",
-    "del_hours": "0730",
-    "equipment": "Van",
-    "weight_lbs": 11280,
-    "carrier_rate": 1000,
-    "updated_at": "2026-10-26T13:44:10.513979+00:00",
-    "lane": "WINCHESTER KY-JOLIET IL"
-  },
-  {
-    "pro": "51078",
-    "status": "RELEASED",
-    "pu_date": "2026-10-22",
-    "pu_city": "WADESBORO",
-    "pu_state": "NC",
-    "pu_hours": "0730-1630",
-    "del_date": "2026-10-23",
-    "del_city": "ATLANTA",
-    "del_state": "GA",
-    "del_hours": "0800-1600",
-    "equipment": "Van",
-    "weight_lbs": 44000,
-    "carrier_rate": 900,
-    "updated_at": "2026-10-26T13:44:29.957507+00:00",
     "lane": "WADESBORO NC-ATLANTA GA"
   },
   {
@@ -712,23 +644,6 @@
     "carrier_rate": 1200,
     "updated_at": "2026-10-27T12:19:44.115312+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
-  },
-  {
-    "pro": "51114",
-    "status": "RELEASED",
-    "pu_date": "2026-10-26",
-    "pu_city": "UNION CITY",
-    "pu_state": "GA",
-    "pu_hours": "0900",
-    "del_date": "2026-10-27",
-    "del_city": "PINECREST",
-    "del_state": "FL",
-    "del_hours": "0600",
-    "equipment": "26' Straight Box Truck",
-    "weight_lbs": 4000,
-    "carrier_rate": 1300,
-    "updated_at": "2026-10-27T12:10:48.813454+00:00",
-    "lane": "UNION CITY GA-PINECREST FL"
   },
   {
     "pro": "51037",
@@ -868,7 +783,7 @@
   },
   {
     "pro": "51130",
-    "status": "COVERED",
+    "status": "DISPATCHED",
     "pu_date": "2026-11-02",
     "pu_city": "GARLAND",
     "pu_state": "TX",
@@ -880,7 +795,7 @@
     "equipment": "Van",
     "weight_lbs": 43438,
     "carrier_rate": 2000,
-    "updated_at": "2026-11-02T13:33:48.907902+00:00",
+    "updated_at": "2026-11-02T13:40:37.031681+00:00",
     "lane": "GARLAND TX-CALHOUN GA"
   },
   {
