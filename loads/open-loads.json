@@ -17,23 +17,6 @@
     "lane": "PORT ANGELES WA-RAPID CITY SD"
   },
   {
-    "pro": "51248",
-    "status": "OPEN",
-    "pu_date": "2026-11-02",
-    "pu_city": "MOUNT PLEASANT",
-    "pu_state": "TN",
-    "pu_hours": "0800-1600",
-    "del_date": "2026-11-03",
-    "del_city": "DOUGLASVILLE",
-    "del_state": "GA",
-    "del_hours": "0800-1600",
-    "equipment": "26' Straight Box Truck",
-    "weight_lbs": 800,
-    "carrier_rate": 450,
-    "updated_at": "2026-11-02T18:56:47.445127+00:00",
-    "lane": "MOUNT PLEASANT TN-DOUGLASVILLE GA"
-  },
-  {
     "pro": "51144",
     "status": "OPEN",
     "pu_date": "2026-11-03",
@@ -49,6 +32,23 @@
     "carrier_rate": 550,
     "updated_at": "2026-11-02T21:10:07.567222+00:00",
     "lane": "CARTERSVILLE GA-MACON GA"
+  },
+  {
+    "pro": "51248",
+    "status": "OPEN",
+    "pu_date": "2026-11-03",
+    "pu_city": "MOUNT PLEASANT",
+    "pu_state": "TN",
+    "pu_hours": "0800-1600",
+    "del_date": "2026-11-04",
+    "del_city": "DOUGLASVILLE",
+    "del_state": "GA",
+    "del_hours": "0800-1600",
+    "equipment": "26' Straight Box Truck",
+    "weight_lbs": 800,
+    "carrier_rate": 450,
+    "updated_at": "2026-11-02T21:40:50.931159+00:00",
+    "lane": "MOUNT PLEASANT TN-DOUGLASVILLE GA"
   },
   {
     "pro": "51257",
@@ -472,7 +472,7 @@
     "equipment": "Van Hazmat",
     "weight_lbs": 42000,
     "carrier_rate": 2000,
-    "updated_at": "2026-11-02T21:39:55.760536+00:00",
+    "updated_at": "2026-11-02T21:45:00.594634+00:00",
     "lane": "OAKLAND TN-MIDLOTHIAN TX"
   },
   {
