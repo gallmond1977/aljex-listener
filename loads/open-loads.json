@@ -255,6 +255,23 @@
     "lane": "ATLANTA GA-BELLPORT NY"
   },
   {
+    "pro": "51267",
+    "status": "OPEN",
+    "pu_date": "2026-11-04",
+    "pu_city": "OAKLAND",
+    "pu_state": "TN",
+    "pu_hours": "0800-1500",
+    "del_date": "2026-11-05",
+    "del_city": "MIDLOTHIAN",
+    "del_state": "TX",
+    "del_hours": "0800-1500",
+    "equipment": "Van Hazmat",
+    "weight_lbs": 42000,
+    "carrier_rate": 2000,
+    "updated_at": "2026-11-02T21:34:57.618666+00:00",
+    "lane": "OAKLAND TN-MIDLOTHIAN TX"
+  },
+  {
     "pro": "51200",
     "status": "OPEN",
     "pu_date": "2026-11-05",
