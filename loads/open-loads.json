@@ -1,22 +1,5 @@
 [
   {
-    "pro": "51130",
-    "status": "OPEN",
-    "pu_date": "2026-11-02",
-    "pu_city": "GARLAND",
-    "pu_state": "TX",
-    "pu_hours": "1200-1400",
-    "del_date": "2026-11-03",
-    "del_city": "CALHOUN",
-    "del_state": "GA",
-    "del_hours": "0730-1400",
-    "equipment": "Van",
-    "weight_lbs": 43438,
-    "carrier_rate": 1850,
-    "updated_at": "2026-11-02T13:30:15.469866+00:00",
-    "lane": "GARLAND TX-CALHOUN GA"
-  },
-  {
     "pro": "51158",
     "status": "OPEN",
     "pu_date": "2026-11-02",
@@ -97,8 +80,8 @@
     "del_hours": "0700-1500",
     "equipment": "Van",
     "weight_lbs": 43500,
-    "carrier_rate": 1430,
-    "updated_at": "2026-11-02T13:28:03.753506+00:00",
+    "carrier_rate": 1450,
+    "updated_at": "2026-11-02T13:33:12.903221+00:00",
     "lane": "MONTICELLO GA-RALEIGH NC"
   },
   {
@@ -882,6 +865,23 @@
     "carrier_rate": 850,
     "updated_at": "2026-10-30T15:37:57.592254+00:00",
     "lane": "WADESBORO NC-ATLANTA GA"
+  },
+  {
+    "pro": "51130",
+    "status": "COVERED",
+    "pu_date": "2026-11-02",
+    "pu_city": "GARLAND",
+    "pu_state": "TX",
+    "pu_hours": "1200-1400",
+    "del_date": "2026-11-03",
+    "del_city": "CALHOUN",
+    "del_state": "GA",
+    "del_hours": "0730-1400",
+    "equipment": "Van",
+    "weight_lbs": 43438,
+    "carrier_rate": 2000,
+    "updated_at": "2026-11-02T13:33:48.907902+00:00",
+    "lane": "GARLAND TX-CALHOUN GA"
   },
   {
     "pro": "51148",
