@@ -255,23 +255,6 @@
     "lane": "GARLAND TX-CALHOUN GA"
   },
   {
-    "pro": "51251",
-    "status": "OPEN",
-    "pu_date": "2026-11-09",
-    "pu_city": "MIAMI",
-    "pu_state": "FL",
-    "pu_hours": "0730-1500",
-    "del_date": "2026-11-10",
-    "del_city": "TALLAHASSEE",
-    "del_state": "FL",
-    "del_hours": "SCHED DEL",
-    "equipment": "26' Straight Box Truck",
-    "weight_lbs": 8100,
-    "carrier_rate": 550,
-    "updated_at": "2026-11-02T18:15:13.449207+00:00",
-    "lane": "MIAMI FL-TALLAHASSEE FL"
-  },
-  {
     "pro": "49855",
     "status": "OPEN",
     "pu_date": "2026-11-12",
@@ -287,6 +270,23 @@
     "carrier_rate": null,
     "updated_at": "2026-10-22T18:12:56.187762+00:00",
     "lane": "PASADENA TX-PIEDMONT SC"
+  },
+  {
+    "pro": "51251",
+    "status": "OPEN",
+    "pu_date": "2026-11-16",
+    "pu_city": "MIAMI",
+    "pu_state": "FL",
+    "pu_hours": "0730-1500",
+    "del_date": "2026-11-17",
+    "del_city": "TALLAHASSEE",
+    "del_state": "FL",
+    "del_hours": "0800-0900",
+    "equipment": "26' Straight Box Truck",
+    "weight_lbs": 8100,
+    "carrier_rate": 550,
+    "updated_at": "2026-11-02T18:45:24.290698+00:00",
+    "lane": "MIAMI FL-TALLAHASSEE FL"
   },
   {
     "pro": "51145",
