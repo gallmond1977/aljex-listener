@@ -64,7 +64,7 @@
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 9000,
     "carrier_rate": 300,
-    "updated_at": "2026-11-02T19:10:49.845544+00:00",
+    "updated_at": "2026-11-02T20:58:36.776892+00:00",
     "lane": "COLUMBUS GA-ATLANTA GA"
   },
   {
@@ -129,10 +129,10 @@
     "del_city": "TAMPA",
     "del_state": "FL",
     "del_hours": "",
-    "equipment": "Flatbed",
+    "equipment": "Flatbed w/ Tarps",
     "weight_lbs": 47000,
-    "carrier_rate": 1600,
-    "updated_at": "2026-11-02T20:55:04.954686+00:00",
+    "carrier_rate": 1680,
+    "updated_at": "2026-11-02T20:58:46.795831+00:00",
     "lane": "AUGUSTA GA-TAMPA FL"
   },
   {
@@ -148,8 +148,8 @@
     "del_hours": "0800-1600",
     "equipment": "Van",
     "weight_lbs": 44000,
-    "carrier_rate": null,
-    "updated_at": "2026-11-02T20:54:50.797188+00:00",
+    "carrier_rate": 750,
+    "updated_at": "2026-11-02T20:58:29.682304+00:00",
     "lane": "COLUMBIA SC-MACON GA"
   },
   {
