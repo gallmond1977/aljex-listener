@@ -268,7 +268,7 @@
     "equipment": "Van Hazmat",
     "weight_lbs": 42000,
     "carrier_rate": 2000,
-    "updated_at": "2026-11-02T21:34:57.618666+00:00",
+    "updated_at": "2026-11-02T21:38:10.477054+00:00",
     "lane": "OAKLAND TN-MIDLOTHIAN TX"
   },
   {
@@ -457,6 +457,23 @@
     "carrier_rate": 550,
     "updated_at": "2026-11-02T18:45:24.290698+00:00",
     "lane": "MIAMI FL-TALLAHASSEE FL"
+  },
+  {
+    "pro": "51268",
+    "status": "OPEN",
+    "pu_date": "2026-11-16",
+    "pu_city": "OAKLAND",
+    "pu_state": "TN",
+    "pu_hours": "0800-1500",
+    "del_date": "",
+    "del_city": "MIDLOTHIAN",
+    "del_state": "TX",
+    "del_hours": "0800-1500",
+    "equipment": "Van Hazmat",
+    "weight_lbs": 42000,
+    "carrier_rate": 2000,
+    "updated_at": "2026-11-02T21:39:55.760536+00:00",
+    "lane": "OAKLAND TN-MIDLOTHIAN TX"
   },
   {
     "pro": "51145",
