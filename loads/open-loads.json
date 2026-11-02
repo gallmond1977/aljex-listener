@@ -47,7 +47,7 @@
     "equipment": "Van",
     "weight_lbs": 44000,
     "carrier_rate": 900,
-    "updated_at": "2026-10-30T20:16:24.313785+00:00",
+    "updated_at": "2026-11-02T14:21:06.502206+00:00",
     "lane": "WADESBORO NC-ATLANTA GA"
   },
   {
@@ -440,23 +440,6 @@
     "carrier_rate": null,
     "updated_at": "2026-10-22T18:15:37.833153+00:00",
     "lane": "LA PORTE TX-PIEDMONT SC"
-  },
-  {
-    "pro": "51010",
-    "status": "RELEASED",
-    "pu_date": "2026-10-20",
-    "pu_city": "WADESBORO",
-    "pu_state": "NC",
-    "pu_hours": "0730-1630",
-    "del_date": "2026-10-21",
-    "del_city": "ATLANTA",
-    "del_state": "GA",
-    "del_hours": "0800-1600",
-    "equipment": "Van",
-    "weight_lbs": 44000,
-    "carrier_rate": 900,
-    "updated_at": "2026-10-26T14:21:47.628511+00:00",
-    "lane": "WADESBORO NC-ATLANTA GA"
   },
   {
     "pro": "50998",
