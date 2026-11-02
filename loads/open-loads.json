@@ -97,8 +97,8 @@
     "del_hours": "0600-1430",
     "equipment": "Van Hazmat",
     "weight_lbs": 44940,
-    "carrier_rate": null,
-    "updated_at": "2026-11-02T17:59:50.159522+00:00",
+    "carrier_rate": 2000,
+    "updated_at": "2026-11-02T18:02:45.109758+00:00",
     "lane": "OAKLAND TN-PHENIX CITY AL"
   },
   {
