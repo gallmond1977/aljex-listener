@@ -17,23 +17,6 @@
     "lane": "PORT ANGELES WA-RAPID CITY SD"
   },
   {
-    "pro": "51243",
-    "status": "OPEN",
-    "pu_date": "2026-11-02",
-    "pu_city": "SAVANNAH",
-    "pu_state": "GA",
-    "pu_hours": "1200-1500",
-    "del_date": "2026-11-03",
-    "del_city": "ATLANTA",
-    "del_state": "GA",
-    "del_hours": "0930",
-    "equipment": "Van",
-    "weight_lbs": 44000,
-    "carrier_rate": 1000,
-    "updated_at": "2026-11-02T17:08:12.447873+00:00",
-    "lane": "SAVANNAH GA-ATLANTA GA"
-  },
-  {
     "pro": "51245",
     "status": "OPEN",
     "pu_date": "2026-11-02",
@@ -68,23 +51,6 @@
     "lane": "WILMINGTON NC-CONWAY SC"
   },
   {
-    "pro": "51248",
-    "status": "OPEN",
-    "pu_date": "2026-11-02",
-    "pu_city": "MOUNT PLEASANT",
-    "pu_state": "TN",
-    "pu_hours": "0800-1600",
-    "del_date": "2026-11-03",
-    "del_city": "DOUGLASVILLE",
-    "del_state": "GA",
-    "del_hours": "0800-1600",
-    "equipment": "26' Straight Box Truck",
-    "weight_lbs": 800,
-    "carrier_rate": 420,
-    "updated_at": "2026-11-02T17:46:46.339949+00:00",
-    "lane": "MOUNT PLEASANT TN-DOUGLASVILLE GA"
-  },
-  {
     "pro": "51250",
     "status": "OPEN",
     "pu_date": "2026-11-02",
@@ -98,7 +64,7 @@
     "equipment": "Van Hazmat",
     "weight_lbs": 44940,
     "carrier_rate": 2000,
-    "updated_at": "2026-11-02T18:02:45.109758+00:00",
+    "updated_at": "2026-11-02T18:08:49.216367+00:00",
     "lane": "OAKLAND TN-PHENIX CITY AL"
   },
   {
@@ -287,6 +253,23 @@
     "carrier_rate": 1900,
     "updated_at": "2026-10-30T14:40:39.014204+00:00",
     "lane": "GARLAND TX-CALHOUN GA"
+  },
+  {
+    "pro": "51251",
+    "status": "OPEN",
+    "pu_date": "2026-11-09",
+    "pu_city": "MIAMI",
+    "pu_state": "FL",
+    "pu_hours": "0730-1500",
+    "del_date": "2026-11-10",
+    "del_city": "TALLAHASSEE",
+    "del_state": "FL",
+    "del_hours": "",
+    "equipment": "26' Straight Box Truck",
+    "weight_lbs": 8100,
+    "carrier_rate": 550,
+    "updated_at": "2026-11-02T18:09:32.608839+00:00",
+    "lane": "MIAMI FL-TALLAHASSEE FL"
   },
   {
     "pro": "49855",
