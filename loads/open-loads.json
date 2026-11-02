@@ -124,7 +124,7 @@
     "pu_date": "2026-11-02",
     "pu_city": "MONTICELLO",
     "pu_state": "GA",
-    "pu_hours": "",
+    "pu_hours": "0800-1500",
     "del_date": "2026-11-03",
     "del_city": "RALEIGH",
     "del_state": "NC",
@@ -132,7 +132,7 @@
     "equipment": "Van",
     "weight_lbs": 43500,
     "carrier_rate": null,
-    "updated_at": "2026-10-30T18:47:17.501826+00:00",
+    "updated_at": "2026-11-02T13:09:41.478795+00:00",
     "lane": "MONTICELLO GA-RALEIGH NC"
   },
   {
@@ -217,7 +217,7 @@
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 4000,
     "carrier_rate": 1300,
-    "updated_at": "2026-11-02T13:04:33.433393+00:00",
+    "updated_at": "2026-11-02T13:05:57.775037+00:00",
     "lane": "UNION CITY GA-PINECREST FL"
   },
   {
