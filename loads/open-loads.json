@@ -17,23 +17,6 @@
     "lane": "PORT ANGELES WA-RAPID CITY SD"
   },
   {
-    "pro": "51241",
-    "status": "OPEN",
-    "pu_date": "2026-11-02",
-    "pu_city": "KNOXVILLE",
-    "pu_state": "TN",
-    "pu_hours": "0800-1600",
-    "del_date": "2026-11-02",
-    "del_city": "COLUMBUS",
-    "del_state": "GA",
-    "del_hours": "0800-1700",
-    "equipment": "Sprinter Van",
-    "weight_lbs": 1000,
-    "carrier_rate": 550,
-    "updated_at": "2026-11-02T14:31:01.749300+00:00",
-    "lane": "KNOXVILLE TN-COLUMBUS GA"
-  },
-  {
     "pro": "51128",
     "status": "OPEN",
     "pu_date": "2026-11-03",
