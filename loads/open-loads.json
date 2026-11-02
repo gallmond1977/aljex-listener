@@ -131,8 +131,8 @@
     "del_hours": "0700-1500",
     "equipment": "Van",
     "weight_lbs": 43500,
-    "carrier_rate": null,
-    "updated_at": "2026-11-02T13:09:41.478795+00:00",
+    "carrier_rate": 1430,
+    "updated_at": "2026-11-02T13:13:06.546691+00:00",
     "lane": "MONTICELLO GA-RALEIGH NC"
   },
   {
@@ -183,7 +183,7 @@
     "equipment": "Flatbed Hot Shot",
     "weight_lbs": 5000,
     "carrier_rate": 600,
-    "updated_at": "2026-10-30T19:47:28.670402+00:00",
+    "updated_at": "2026-11-02T13:14:57.496336+00:00",
     "lane": "MOBILE AL-EUFAULA AL"
   },
   {
@@ -217,7 +217,7 @@
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 4000,
     "carrier_rate": 1300,
-    "updated_at": "2026-11-02T13:05:57.775037+00:00",
+    "updated_at": "2026-11-02T13:12:07.798205+00:00",
     "lane": "UNION CITY GA-PINECREST FL"
   },
   {
