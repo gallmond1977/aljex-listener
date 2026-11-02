@@ -165,8 +165,8 @@
     "del_hours": "0800-0900",
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 2000,
-    "carrier_rate": null,
-    "updated_at": "2026-11-02T21:25:10.669346+00:00",
+    "carrier_rate": 1500,
+    "updated_at": "2026-11-02T21:26:52.650687+00:00",
     "lane": "MONTICELLO IL-MIDLOTHIAN TX"
   },
   {
