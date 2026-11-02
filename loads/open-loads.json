@@ -17,6 +17,23 @@
     "lane": "PORT ANGELES WA-RAPID CITY SD"
   },
   {
+    "pro": "51246",
+    "status": "OPEN",
+    "pu_date": "2026-11-02",
+    "pu_city": "WILMINGTON",
+    "pu_state": "NC",
+    "pu_hours": "1230-1500",
+    "del_date": "2026-11-03",
+    "del_city": "CONWAY",
+    "del_state": "SC",
+    "del_hours": "0700-1500",
+    "equipment": "26' Straight Box Truck",
+    "weight_lbs": 6000,
+    "carrier_rate": 400,
+    "updated_at": "2026-11-02T19:37:00.415956+00:00",
+    "lane": "WILMINGTON NC-CONWAY SC"
+  },
+  {
     "pro": "51248",
     "status": "OPEN",
     "pu_date": "2026-11-02",
@@ -32,23 +49,6 @@
     "carrier_rate": 450,
     "updated_at": "2026-11-02T18:56:47.445127+00:00",
     "lane": "MOUNT PLEASANT TN-DOUGLASVILLE GA"
-  },
-  {
-    "pro": "51250",
-    "status": "OPEN",
-    "pu_date": "2026-11-02",
-    "pu_city": "OAKLAND",
-    "pu_state": "TN",
-    "pu_hours": "0800-1500",
-    "del_date": "2026-11-03",
-    "del_city": "PHENIX CITY",
-    "del_state": "AL",
-    "del_hours": "0600-1430",
-    "equipment": "Van Hazmat",
-    "weight_lbs": 44900,
-    "carrier_rate": 2000,
-    "updated_at": "2026-11-02T18:56:59.346335+00:00",
-    "lane": "OAKLAND TN-PHENIX CITY AL"
   },
   {
     "pro": "51144",
@@ -81,7 +81,7 @@
     "equipment": "Flatbed Hot Shot",
     "weight_lbs": 9500,
     "carrier_rate": 1500,
-    "updated_at": "2026-10-30T20:29:30.887708+00:00",
+    "updated_at": "2026-11-02T19:39:51.719154+00:00",
     "lane": "SHILOH OH-TOWNVILLE SC"
   },
   {
@@ -199,8 +199,8 @@
     "del_hours": "0800-1445",
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 5000,
-    "carrier_rate": null,
-    "updated_at": "2026-11-02T19:15:30.746879+00:00",
+    "carrier_rate": 300,
+    "updated_at": "2026-11-02T19:39:14.308995+00:00",
     "lane": "COLUMBUS GA-ATLANTA GA"
   },
   {
@@ -593,23 +593,6 @@
     "carrier_rate": 1600,
     "updated_at": "2026-11-02T14:41:15.321355+00:00",
     "lane": "UNION CITY GA-MIAMI FL"
-  },
-  {
-    "pro": "51161",
-    "status": "RELEASED",
-    "pu_date": "2026-10-28",
-    "pu_city": "OAKLAND",
-    "pu_state": "TN",
-    "pu_hours": "0800-1500",
-    "del_date": "2026-10-29",
-    "del_city": "PHENIX CITY",
-    "del_state": "AL",
-    "del_hours": "0600-1100",
-    "equipment": "Van Hazmat",
-    "weight_lbs": 44940,
-    "carrier_rate": 2300,
-    "updated_at": "2026-11-02T15:25:07.526622+00:00",
-    "lane": "OAKLAND TN-PHENIX CITY AL"
   },
   {
     "pro": "51147",
