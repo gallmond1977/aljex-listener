@@ -221,6 +221,23 @@
     "lane": "COLUMBUS GA-ATLANTA GA"
   },
   {
+    "pro": "51260",
+    "status": "OPEN",
+    "pu_date": "2026-11-04",
+    "pu_city": "ATLANTA",
+    "pu_state": "GA",
+    "pu_hours": "1500",
+    "del_date": "2026-11-06",
+    "del_city": "BELLPORT",
+    "del_state": "NY",
+    "del_hours": "0900",
+    "equipment": "Van",
+    "weight_lbs": 25000,
+    "carrier_rate": null,
+    "updated_at": "2026-11-02T19:22:50.101395+00:00",
+    "lane": "ATLANTA GA-BELLPORT NY"
+  },
+  {
     "pro": "51200",
     "status": "OPEN",
     "pu_date": "2026-11-05",
