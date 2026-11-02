@@ -39,7 +39,7 @@
     "pu_date": "2026-11-02",
     "pu_city": "TROY",
     "pu_state": "PA",
-    "pu_hours": "0800-1400",
+    "pu_hours": "0800-1500",
     "del_date": "2026-11-03",
     "del_city": "AVENEL",
     "del_state": "NJ",
@@ -47,7 +47,7 @@
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 8020,
     "carrier_rate": 600,
-    "updated_at": "2026-11-02T15:49:33.729703+00:00",
+    "updated_at": "2026-11-02T15:54:18.106722+00:00",
     "lane": "TROY PA-AVENEL NJ"
   },
   {
@@ -100,23 +100,6 @@
     "carrier_rate": 1500,
     "updated_at": "2026-10-30T20:29:30.887708+00:00",
     "lane": "SHILOH OH-TOWNVILLE SC"
-  },
-  {
-    "pro": "51209",
-    "status": "OPEN",
-    "pu_date": "2026-11-03",
-    "pu_city": "BENSENVILLE",
-    "pu_state": "IL",
-    "pu_hours": "1100-1530",
-    "del_date": "2026-11-04",
-    "del_city": "BELCAMP",
-    "del_state": "MD",
-    "del_hours": "0700-1500",
-    "equipment": "Van",
-    "weight_lbs": 14000,
-    "carrier_rate": 2700,
-    "updated_at": "2026-11-02T15:49:44.220008+00:00",
-    "lane": "BENSENVILLE IL-BELCAMP MD"
   },
   {
     "pro": "51232",
@@ -260,7 +243,7 @@
     "pu_date": "2026-11-06",
     "pu_city": "ATLANTA",
     "pu_state": "GA",
-    "pu_hours": "",
+    "pu_hours": "0700",
     "del_date": "2026-11-06",
     "del_city": "DECATUR",
     "del_state": "GA",
@@ -268,7 +251,7 @@
     "equipment": "Reefer",
     "weight_lbs": 21264,
     "carrier_rate": 450,
-    "updated_at": "2026-11-02T15:35:37.856062+00:00",
+    "updated_at": "2026-11-02T15:51:53.205352+00:00",
     "lane": "ATLANTA GA-DECATUR GA"
   },
   {
