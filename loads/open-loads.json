@@ -170,6 +170,23 @@
     "lane": "POTTERVILLE MI-SALISBURY NC"
   },
   {
+    "pro": "51240",
+    "status": "OPEN",
+    "pu_date": "2026-11-03",
+    "pu_city": "COLUMBUS",
+    "pu_state": "GA",
+    "pu_hours": "0800-1500",
+    "del_date": "2026-11-04",
+    "del_city": "STEVENS",
+    "del_state": "PA",
+    "del_hours": "0700-1500",
+    "equipment": "Van",
+    "weight_lbs": 44424,
+    "carrier_rate": 2500,
+    "updated_at": "2026-11-02T14:18:49.624855+00:00",
+    "lane": "COLUMBUS GA-STEVENS PA"
+  },
+  {
     "pro": "50542",
     "status": "OPEN",
     "pu_date": "2026-11-04",
@@ -697,6 +714,23 @@
     "lane": "WADESBORO NC-ATLANTA GA"
   },
   {
+    "pro": "51195",
+    "status": "DELIVERED",
+    "pu_date": "2026-10-30",
+    "pu_city": "COLUMBUS",
+    "pu_state": "GA",
+    "pu_hours": "0800-1500",
+    "del_date": "2026-11-02",
+    "del_city": "STEVENS",
+    "del_state": "PA",
+    "del_hours": "0700-1500",
+    "equipment": "Van",
+    "weight_lbs": 43850,
+    "carrier_rate": 2500,
+    "updated_at": "2026-11-02T13:28:26.747811+00:00",
+    "lane": "COLUMBUS GA-STEVENS PA"
+  },
+  {
     "pro": "51130",
     "status": "DISPATCHED",
     "pu_date": "2026-11-02",
@@ -715,7 +749,7 @@
   },
   {
     "pro": "51148",
-    "status": "DISPATCHED",
+    "status": "PICKUP",
     "pu_date": "2026-11-02",
     "pu_city": "WINCHESTER",
     "pu_state": "KY",
@@ -727,7 +761,7 @@
     "equipment": "Van",
     "weight_lbs": 14580,
     "carrier_rate": 1100,
-    "updated_at": "2026-11-02T13:26:13.750304+00:00",
+    "updated_at": "2026-11-02T14:19:11.921675+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
   }
 ]
