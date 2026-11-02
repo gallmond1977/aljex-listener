@@ -17,23 +17,6 @@
     "lane": "PORT ANGELES WA-RAPID CITY SD"
   },
   {
-    "pro": "51246",
-    "status": "OPEN",
-    "pu_date": "2026-11-02",
-    "pu_city": "WILMINGTON",
-    "pu_state": "NC",
-    "pu_hours": "1230-1500",
-    "del_date": "2026-11-03",
-    "del_city": "CONWAY",
-    "del_state": "SC",
-    "del_hours": "0700-1500",
-    "equipment": "26' Straight Box Truck",
-    "weight_lbs": 6000,
-    "carrier_rate": 375,
-    "updated_at": "2026-11-02T18:50:55.654439+00:00",
-    "lane": "WILMINGTON NC-CONWAY SC"
-  },
-  {
     "pro": "51248",
     "status": "OPEN",
     "pu_date": "2026-11-02",
@@ -230,11 +213,11 @@
     "del_date": "2026-11-06",
     "del_city": "BELLPORT",
     "del_state": "NY",
-    "del_hours": "0900",
+    "del_hours": "0700",
     "equipment": "Van",
-    "weight_lbs": 25000,
-    "carrier_rate": null,
-    "updated_at": "2026-11-02T19:22:50.101395+00:00",
+    "weight_lbs": 42000,
+    "carrier_rate": 2800,
+    "updated_at": "2026-11-02T19:29:10.748392+00:00",
     "lane": "ATLANTA GA-BELLPORT NY"
   },
   {
