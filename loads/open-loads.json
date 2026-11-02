@@ -17,6 +17,23 @@
     "lane": "PORT ANGELES WA-RAPID CITY SD"
   },
   {
+    "pro": "51243",
+    "status": "OPEN",
+    "pu_date": "2026-11-02",
+    "pu_city": "SAVANNAH",
+    "pu_state": "GA",
+    "pu_hours": "",
+    "del_date": "2026-11-03",
+    "del_city": "ATLANTA",
+    "del_state": "GA",
+    "del_hours": "",
+    "equipment": "Van",
+    "weight_lbs": 44000,
+    "carrier_rate": 900,
+    "updated_at": "2026-11-02T15:34:59.943415+00:00",
+    "lane": "SAVANNAH GA-ATLANTA GA"
+  },
+  {
     "pro": "51128",
     "status": "OPEN",
     "pu_date": "2026-11-03",
@@ -630,7 +647,7 @@
   },
   {
     "pro": "51130",
-    "status": "DISPATCHED",
+    "status": "PICKUP",
     "pu_date": "2026-11-02",
     "pu_city": "GARLAND",
     "pu_state": "TX",
@@ -642,12 +659,12 @@
     "equipment": "Van",
     "weight_lbs": 43438,
     "carrier_rate": 2000,
-    "updated_at": "2026-11-02T13:40:37.031681+00:00",
+    "updated_at": "2026-11-02T15:34:46.960664+00:00",
     "lane": "GARLAND TX-CALHOUN GA"
   },
   {
     "pro": "51148",
-    "status": "PICKUP",
+    "status": "LOADED",
     "pu_date": "2026-11-02",
     "pu_city": "WINCHESTER",
     "pu_state": "KY",
@@ -659,7 +676,7 @@
     "equipment": "Van",
     "weight_lbs": 14580,
     "carrier_rate": 1100,
-    "updated_at": "2026-11-02T14:19:11.921675+00:00",
+    "updated_at": "2026-11-02T15:32:02.921567+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
   }
 ]
