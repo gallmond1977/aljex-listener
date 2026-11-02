@@ -47,7 +47,7 @@
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 800,
     "carrier_rate": 450,
-    "updated_at": "2026-11-02T18:34:20.382622+00:00",
+    "updated_at": "2026-11-02T18:47:12.187205+00:00",
     "lane": "MOUNT PLEASANT TN-DOUGLASVILLE GA"
   },
   {
@@ -253,6 +253,23 @@
     "carrier_rate": 1900,
     "updated_at": "2026-10-30T14:40:39.014204+00:00",
     "lane": "GARLAND TX-CALHOUN GA"
+  },
+  {
+    "pro": "51252",
+    "status": "OPEN",
+    "pu_date": "2026-11-10",
+    "pu_city": "ATHENS",
+    "pu_state": "AL",
+    "pu_hours": "0700-1500",
+    "del_date": "2026-11-11",
+    "del_city": "GULFPORT",
+    "del_state": "MS",
+    "del_hours": "0700-1030",
+    "equipment": "Van",
+    "weight_lbs": 43107,
+    "carrier_rate": 1500,
+    "updated_at": "2026-11-02T18:48:55.781193+00:00",
+    "lane": "ATHENS AL-GULFPORT MS"
   },
   {
     "pro": "49855",
@@ -494,7 +511,7 @@
   },
   {
     "pro": "51130",
-    "status": "PICKUP",
+    "status": "LOADED",
     "pu_date": "2026-11-02",
     "pu_city": "GARLAND",
     "pu_state": "TX",
@@ -506,7 +523,7 @@
     "equipment": "Van",
     "weight_lbs": 43438,
     "carrier_rate": 2000,
-    "updated_at": "2026-11-02T15:34:46.960664+00:00",
+    "updated_at": "2026-11-02T18:46:16.541247+00:00",
     "lane": "GARLAND TX-CALHOUN GA"
   },
   {
