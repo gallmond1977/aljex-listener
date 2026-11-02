@@ -142,14 +142,14 @@
     "pu_city": "LINCOLN",
     "pu_state": "NE",
     "pu_hours": "0730-1530",
-    "del_date": "2026-11-03",
+    "del_date": "2026-11-04",
     "del_city": "AUGUSTA",
     "del_state": "GA",
     "del_hours": "0800-1600",
     "equipment": "Flatbed",
     "weight_lbs": 46000,
-    "carrier_rate": null,
-    "updated_at": "2026-10-30T21:08:03.505092+00:00",
+    "carrier_rate": 3000,
+    "updated_at": "2026-11-02T13:39:46.425459+00:00",
     "lane": "LINCOLN NE-AUGUSTA GA"
   },
   {
@@ -165,8 +165,8 @@
     "del_hours": "0600",
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 4000,
-    "carrier_rate": 1300,
-    "updated_at": "2026-11-02T13:12:07.798205+00:00",
+    "carrier_rate": 1400,
+    "updated_at": "2026-11-02T13:40:11.962907+00:00",
     "lane": "UNION CITY GA-PINECREST FL"
   },
   {
@@ -182,8 +182,8 @@
     "del_hours": "0345",
     "equipment": "Reefer",
     "weight_lbs": 13650,
-    "carrier_rate": null,
-    "updated_at": "2026-11-02T12:56:04.225200+00:00",
+    "carrier_rate": 4600,
+    "updated_at": "2026-11-02T13:38:49.567201+00:00",
     "lane": "MONTEZUMA GA-TRACY CA"
   },
   {
