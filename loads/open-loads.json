@@ -90,7 +90,7 @@
     "pu_date": "2026-11-03",
     "pu_city": "BENSENVILLE",
     "pu_state": "IL",
-    "pu_hours": "1200-1530",
+    "pu_hours": "1100-1530",
     "del_date": "2026-11-04",
     "del_city": "BELCAMP",
     "del_state": "MD",
@@ -98,7 +98,7 @@
     "equipment": "Van",
     "weight_lbs": 14000,
     "carrier_rate": 2700,
-    "updated_at": "2026-11-02T12:54:54.706795+00:00",
+    "updated_at": "2026-11-02T15:40:52.551005+00:00",
     "lane": "BENSENVILLE IL-BELCAMP MD"
   },
   {
