@@ -846,7 +846,7 @@
     "equipment": "Van",
     "weight_lbs": 44000,
     "carrier_rate": 900,
-    "updated_at": "2026-11-03T21:16:13.039266+00:00",
+    "updated_at": "2026-11-03T21:30:19.743016+00:00",
     "lane": "WADESBORO NC-ATLANTA GA"
   },
   {
@@ -880,7 +880,7 @@
     "equipment": "Van Hazmat",
     "weight_lbs": 42000,
     "carrier_rate": 2300,
-    "updated_at": "2026-11-03T21:20:14.049261+00:00",
+    "updated_at": "2026-11-03T21:27:16.154213+00:00",
     "lane": "OAKLAND TN-MIDLOTHIAN TX"
   }
 ]
