@@ -114,8 +114,8 @@
     "del_hours": "0800-0900",
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 1170,
-    "carrier_rate": 1500,
-    "updated_at": "2026-11-03T14:56:28.240880+00:00",
+    "carrier_rate": 1600,
+    "updated_at": "2026-11-03T15:52:55.546655+00:00",
     "lane": "MONTICELLO IL-MIDLOTHIAN TX"
   },
   {
@@ -261,14 +261,14 @@
     "pu_city": "LAGRANGE",
     "pu_state": "GA",
     "pu_hours": "0800-1600",
-    "del_date": "2026-11-06",
+    "del_date": "2026-11-05",
     "del_city": "WICHITA",
     "del_state": "KS",
-    "del_hours": "0800-1200",
+    "del_hours": "0800-1500",
     "equipment": "Van",
     "weight_lbs": 36000,
     "carrier_rate": 2400,
-    "updated_at": "2026-11-03T15:49:39.452422+00:00",
+    "updated_at": "2026-11-03T15:55:05.221337+00:00",
     "lane": "LAGRANGE GA-WICHITA KS"
   },
   {
@@ -902,7 +902,7 @@
   },
   {
     "pro": "51255",
-    "status": "PICKUP",
+    "status": "LOADED",
     "pu_date": "2026-11-03",
     "pu_city": "COLUMBUS",
     "pu_state": "GA",
@@ -914,7 +914,7 @@
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 9000,
     "carrier_rate": 350,
-    "updated_at": "2026-11-03T15:02:36.150897+00:00",
+    "updated_at": "2026-11-03T15:50:59.666337+00:00",
     "lane": "COLUMBUS GA-ATLANTA GA"
   },
   {
