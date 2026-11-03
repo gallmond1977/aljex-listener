@@ -221,6 +221,40 @@
     "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
+    "pro": "51285",
+    "status": "OPEN",
+    "pu_date": "2026-11-05",
+    "pu_city": "WADESBORO",
+    "pu_state": "NC",
+    "pu_hours": "0730-1630",
+    "del_date": "2026-11-06",
+    "del_city": "ATLANTA",
+    "del_state": "GA",
+    "del_hours": "0800-1600",
+    "equipment": "Van",
+    "weight_lbs": 44000,
+    "carrier_rate": null,
+    "updated_at": "2026-11-03T21:10:35.845179+00:00",
+    "lane": "WADESBORO NC-ATLANTA GA"
+  },
+  {
+    "pro": "51286",
+    "status": "OPEN",
+    "pu_date": "2026-11-05",
+    "pu_city": "WADESBORO",
+    "pu_state": "NC",
+    "pu_hours": "0730-1630",
+    "del_date": "2026-11-06",
+    "del_city": "ATLANTA",
+    "del_state": "GA",
+    "del_hours": "0800-1600",
+    "equipment": "Van",
+    "weight_lbs": 44000,
+    "carrier_rate": 900,
+    "updated_at": "2026-11-03T21:10:50.239656+00:00",
+    "lane": "WADESBORO NC-ATLANTA GA"
+  },
+  {
     "pro": "51135",
     "status": "OPEN",
     "pu_date": "2026-11-06",
@@ -340,7 +374,7 @@
     "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
-    "pro": "51285",
+    "pro": "51287",
     "status": "OPEN",
     "pu_date": "2026-11-06",
     "pu_city": "WADESBORO",
@@ -352,8 +386,8 @@
     "del_hours": "0800-1600",
     "equipment": "Van",
     "weight_lbs": 44000,
-    "carrier_rate": null,
-    "updated_at": "2026-11-03T20:57:06.614643+00:00",
+    "carrier_rate": 900,
+    "updated_at": "2026-11-03T21:11:20.851923+00:00",
     "lane": "WADESBORO NC-ATLANTA GA"
   },
   {
@@ -391,23 +425,6 @@
     "lane": "LA PORTE TX-PIEDMONT SC"
   },
   {
-    "pro": "51286",
-    "status": "OPEN",
-    "pu_date": "2026-11-09",
-    "pu_city": "WADESBORO",
-    "pu_state": "NC",
-    "pu_hours": "0730-1630",
-    "del_date": "2026-11-10",
-    "del_city": "ATLANTA",
-    "del_state": "GA",
-    "del_hours": "0800-1600",
-    "equipment": "Van",
-    "weight_lbs": 44000,
-    "carrier_rate": 900,
-    "updated_at": "2026-11-03T21:01:12.540752+00:00",
-    "lane": "WADESBORO NC-ATLANTA GA"
-  },
-  {
     "pro": "51252",
     "status": "OPEN",
     "pu_date": "2026-11-10",
@@ -423,23 +440,6 @@
     "carrier_rate": 1500,
     "updated_at": "2026-11-02T18:48:55.781193+00:00",
     "lane": "ATHENS AL-GULFPORT MS"
-  },
-  {
-    "pro": "51287",
-    "status": "OPEN",
-    "pu_date": "2026-11-10",
-    "pu_city": "WADESBORO",
-    "pu_state": "NC",
-    "pu_hours": "0730-1630",
-    "del_date": "2026-11-11",
-    "del_city": "ATLANTA",
-    "del_state": "GA",
-    "del_hours": "0800-1600",
-    "equipment": "Van",
-    "weight_lbs": 44000,
-    "carrier_rate": null,
-    "updated_at": "2026-11-03T21:00:43.381110+00:00",
-    "lane": "WADESBORO NC-ATLANTA GA"
   },
   {
     "pro": "51253",
@@ -885,7 +885,7 @@
   },
   {
     "pro": "51264",
-    "status": "PICKUP",
+    "status": "LOADED",
     "pu_date": "2026-11-03",
     "pu_city": "COLUMBIA",
     "pu_state": "SC",
@@ -897,7 +897,7 @@
     "equipment": "Van",
     "weight_lbs": 44000,
     "carrier_rate": 825,
-    "updated_at": "2026-11-03T21:09:48.980322+00:00",
+    "updated_at": "2026-11-03T21:10:24.576989+00:00",
     "lane": "COLUMBIA SC-MACON GA"
   }
 ]
