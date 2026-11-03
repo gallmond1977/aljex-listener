@@ -817,7 +817,7 @@
   },
   {
     "pro": "51264",
-    "status": "COVERED",
+    "status": "DISPATCHED",
     "pu_date": "2026-11-03",
     "pu_city": "COLUMBIA",
     "pu_state": "SC",
@@ -829,7 +829,7 @@
     "equipment": "Van",
     "weight_lbs": 44000,
     "carrier_rate": 825,
-    "updated_at": "2026-11-03T17:51:03.488966+00:00",
+    "updated_at": "2026-11-03T17:56:59.304463+00:00",
     "lane": "COLUMBIA SC-MACON GA"
   },
   {
