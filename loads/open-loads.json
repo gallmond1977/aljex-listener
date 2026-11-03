@@ -12,8 +12,8 @@
     "del_hours": "0730-1630",
     "equipment": "Van",
     "weight_lbs": 43000,
-    "carrier_rate": 600,
-    "updated_at": "2026-11-03T14:40:35.389969+00:00",
+    "carrier_rate": 700,
+    "updated_at": "2026-11-03T14:59:45.929750+00:00",
     "lane": "CARTERSVILLE GA-MACON GA"
   },
   {
@@ -113,9 +113,9 @@
     "del_state": "TX",
     "del_hours": "0800-0900",
     "equipment": "26' Straight Box Truck",
-    "weight_lbs": 2000,
+    "weight_lbs": 1170,
     "carrier_rate": 1500,
-    "updated_at": "2026-11-03T14:51:18.125345+00:00",
+    "updated_at": "2026-11-03T14:56:28.240880+00:00",
     "lane": "MONTICELLO IL-MIDLOTHIAN TX"
   },
   {
@@ -134,6 +134,23 @@
     "carrier_rate": 3300,
     "updated_at": "2026-11-03T14:35:13.172868+00:00",
     "lane": "HOUSTON TX-WILMINGTON NC"
+  },
+  {
+    "pro": "51272",
+    "status": "OPEN",
+    "pu_date": "2026-11-03",
+    "pu_city": "AUSTELL",
+    "pu_state": "GA",
+    "pu_hours": "0800-1500",
+    "del_date": "2026-11-03",
+    "del_city": "OPELIKA",
+    "del_state": "AL",
+    "del_hours": "0800-1700",
+    "equipment": "Flatbed Hot Shot",
+    "weight_lbs": 5000,
+    "carrier_rate": 500,
+    "updated_at": "2026-11-03T14:59:42.167926+00:00",
+    "lane": "AUSTELL GA-OPELIKA AL"
   },
   {
     "pro": "50542",
