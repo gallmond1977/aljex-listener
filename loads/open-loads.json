@@ -834,7 +834,7 @@
   },
   {
     "pro": "51130",
-    "status": "LOADED",
+    "status": "CONSIGNEE",
     "pu_date": "2026-11-02",
     "pu_city": "GARLAND",
     "pu_state": "TX",
@@ -846,24 +846,24 @@
     "equipment": "Van",
     "weight_lbs": 43438,
     "carrier_rate": 2000,
-    "updated_at": "2026-11-02T19:04:05.928822+00:00",
+    "updated_at": "2026-11-03T12:52:07.905380+00:00",
     "lane": "GARLAND TX-CALHOUN GA"
   },
   {
     "pro": "51148",
-    "status": "LOADED",
+    "status": "DELIVERED",
     "pu_date": "2026-11-02",
     "pu_city": "WINCHESTER",
     "pu_state": "KY",
     "pu_hours": "0800-1130",
-    "del_date": "2026-11-02",
+    "del_date": "2026-11-03",
     "del_city": "JOLIET",
     "del_state": "IL",
     "del_hours": "2100",
     "equipment": "Van",
     "weight_lbs": 14580,
     "carrier_rate": 1100,
-    "updated_at": "2026-11-02T15:32:02.921567+00:00",
+    "updated_at": "2026-11-03T12:53:36.392501+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
