@@ -170,23 +170,6 @@
     "lane": "HOUSTON TX-SANFORD FL"
   },
   {
-    "pro": "51278",
-    "status": "OPEN",
-    "pu_date": "2026-11-04",
-    "pu_city": "HEADLAND",
-    "pu_state": "AL",
-    "pu_hours": "0800-1500",
-    "del_date": "2026-11-05",
-    "del_city": "ROCKWELL",
-    "del_state": "NC",
-    "del_hours": "0730-1430",
-    "equipment": "26' Straight Box Truck",
-    "weight_lbs": 6600,
-    "carrier_rate": 950,
-    "updated_at": "2026-11-03T18:42:49.990414+00:00",
-    "lane": "HEADLAND AL-ROCKWELL NC"
-  },
-  {
     "pro": "51279",
     "status": "OPEN",
     "pu_date": "2026-11-04",
@@ -335,8 +318,8 @@
     "del_hours": "ETA",
     "equipment": "Flatbed Hot Shot",
     "weight_lbs": 8900,
-    "carrier_rate": null,
-    "updated_at": "2026-11-03T18:49:00.775696+00:00",
+    "carrier_rate": 400,
+    "updated_at": "2026-11-03T18:55:14.592154+00:00",
     "lane": "GREENVILLE NC-WILSON NC"
   },
   {
