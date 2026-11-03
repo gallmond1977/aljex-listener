@@ -187,21 +187,21 @@
     "lane": "HOUSTON TX-SANFORD FL"
   },
   {
-    "pro": "51277",
+    "pro": "51278",
     "status": "OPEN",
     "pu_date": "2026-11-04",
-    "pu_city": "LAGRANGE",
-    "pu_state": "GA",
-    "pu_hours": "0800-1600",
+    "pu_city": "HEADLAND",
+    "pu_state": "AL",
+    "pu_hours": "0800-1500",
     "del_date": "2026-11-05",
-    "del_city": "WICHITA",
-    "del_state": "KS",
-    "del_hours": "0800-1500",
-    "equipment": "Van",
-    "weight_lbs": 25000,
-    "carrier_rate": 2300,
-    "updated_at": "2026-11-03T16:28:01.499932+00:00",
-    "lane": "LAGRANGE GA-WICHITA KS"
+    "del_city": "ROCKWELL",
+    "del_state": "NC",
+    "del_hours": "0730-1430",
+    "equipment": "26' Straight Box Truck",
+    "weight_lbs": 6600,
+    "carrier_rate": 950,
+    "updated_at": "2026-11-03T16:37:16.406296+00:00",
+    "lane": "HEADLAND AL-ROCKWELL NC"
   },
   {
     "pro": "51200",
