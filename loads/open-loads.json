@@ -39,15 +39,15 @@
     "pu_date": "2026-11-03",
     "pu_city": "MOUNT PLEASANT",
     "pu_state": "TN",
-    "pu_hours": "0800-1600",
+    "pu_hours": "1200-1600",
     "del_date": "2026-11-03",
     "del_city": "DOUGLASVILLE",
     "del_state": "GA",
     "del_hours": "0800-1600",
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 800,
-    "carrier_rate": 450,
-    "updated_at": "2026-11-03T13:45:39.444918+00:00",
+    "carrier_rate": 500,
+    "updated_at": "2026-11-03T14:09:34.686229+00:00",
     "lane": "MOUNT PLEASANT TN-DOUGLASVILLE GA"
   },
   {
@@ -81,7 +81,7 @@
     "equipment": "Flatbed w/ Tarps",
     "weight_lbs": 47000,
     "carrier_rate": 1650,
-    "updated_at": "2026-11-02T21:07:36.289687+00:00",
+    "updated_at": "2026-11-03T14:06:48.323647+00:00",
     "lane": "AUGUSTA GA-TAMPA FL"
   },
   {
