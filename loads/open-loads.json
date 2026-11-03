@@ -199,8 +199,8 @@
     "del_hours": "0800-1600",
     "equipment": "Van",
     "weight_lbs": 44000,
-    "carrier_rate": null,
-    "updated_at": "2026-11-03T18:25:07.052765+00:00",
+    "carrier_rate": 900,
+    "updated_at": "2026-11-03T18:27:43.955478+00:00",
     "lane": "WADESBORO NC-ATLANTA GA"
   },
   {
@@ -219,6 +219,23 @@
     "carrier_rate": 1000,
     "updated_at": "2026-10-29T15:08:37.875521+00:00",
     "lane": "COLUMBUS GA-PENSACOLA FL"
+  },
+  {
+    "pro": "51280",
+    "status": "OPEN",
+    "pu_date": "2026-11-05",
+    "pu_city": "WADESBORO",
+    "pu_state": "NC",
+    "pu_hours": "0730-1630",
+    "del_date": "2026-11-06",
+    "del_city": "ATLANTA",
+    "del_state": "GA",
+    "del_hours": "0800-1600",
+    "equipment": "Van",
+    "weight_lbs": 44000,
+    "carrier_rate": 900,
+    "updated_at": "2026-11-03T18:27:32.601309+00:00",
+    "lane": "WADESBORO NC-ATLANTA GA"
   },
   {
     "pro": "51135",
