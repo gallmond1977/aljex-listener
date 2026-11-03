@@ -34,6 +34,23 @@
     "lane": "PORT ANGELES WA-RAPID CITY SD"
   },
   {
+    "pro": "51248",
+    "status": "OPEN",
+    "pu_date": "2026-11-03",
+    "pu_city": "MOUNT PLEASANT",
+    "pu_state": "TN",
+    "pu_hours": "0800-1600",
+    "del_date": "2026-11-03",
+    "del_city": "DOUGLASVILLE",
+    "del_state": "GA",
+    "del_hours": "0800-1600",
+    "equipment": "26' Straight Box Truck",
+    "weight_lbs": 800,
+    "carrier_rate": 450,
+    "updated_at": "2026-11-03T13:45:39.444918+00:00",
+    "lane": "MOUNT PLEASANT TN-DOUGLASVILLE GA"
+  },
+  {
     "pro": "51262",
     "status": "OPEN",
     "pu_date": "2026-11-03",
@@ -829,7 +846,7 @@
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 9000,
     "carrier_rate": 350,
-    "updated_at": "2026-11-02T21:09:03.581083+00:00",
+    "updated_at": "2026-11-03T13:48:06.860294+00:00",
     "lane": "COLUMBUS GA-ATLANTA GA"
   }
 ]
