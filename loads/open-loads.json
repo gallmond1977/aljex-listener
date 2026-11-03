@@ -136,23 +136,6 @@
     "lane": "SAVANNAH GA-SUMMERVILLE SC"
   },
   {
-    "pro": "51275",
-    "status": "OPEN",
-    "pu_date": "2026-11-04",
-    "pu_city": "HOUSTON",
-    "pu_state": "TX",
-    "pu_hours": "0700",
-    "del_date": "2026-11-05",
-    "del_city": "SANFORD",
-    "del_state": "FL",
-    "del_hours": "0700",
-    "equipment": "26' Straight Box Truck",
-    "weight_lbs": 7000,
-    "carrier_rate": 2000,
-    "updated_at": "2026-11-03T15:32:35.361026+00:00",
-    "lane": "HOUSTON TX-SANFORD FL"
-  },
-  {
     "pro": "51279",
     "status": "OPEN",
     "pu_date": "2026-11-04",
@@ -202,6 +185,23 @@
     "carrier_rate": 900,
     "updated_at": "2026-11-03T18:39:12.716771+00:00",
     "lane": "WADESBORO NC-ATLANTA GA"
+  },
+  {
+    "pro": "51282",
+    "status": "OPEN",
+    "pu_date": "2026-11-05",
+    "pu_city": "WINCHESTER",
+    "pu_state": "KY",
+    "pu_hours": "0800-1130",
+    "del_date": "2026-11-05",
+    "del_city": "JOLIET",
+    "del_state": "IL",
+    "del_hours": "",
+    "equipment": "Van",
+    "weight_lbs": 14580,
+    "carrier_rate": null,
+    "updated_at": "2026-11-03T19:08:06.910647+00:00",
+    "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
     "pro": "51135",
@@ -304,6 +304,23 @@
     "carrier_rate": 400,
     "updated_at": "2026-11-03T18:55:14.592154+00:00",
     "lane": "GREENVILLE NC-WILSON NC"
+  },
+  {
+    "pro": "51283",
+    "status": "OPEN",
+    "pu_date": "2026-11-06",
+    "pu_city": "WINCHESTER",
+    "pu_state": "KY",
+    "pu_hours": "",
+    "del_date": "2026-11-07",
+    "del_city": "JOLIET",
+    "del_state": "IL",
+    "del_hours": "",
+    "equipment": "Van",
+    "weight_lbs": 14580,
+    "carrier_rate": null,
+    "updated_at": "2026-11-03T19:10:16.764247+00:00",
+    "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
     "pro": "51224",
@@ -644,23 +661,6 @@
     "carrier_rate": 900,
     "updated_at": "2026-10-28T14:35:11.075539+00:00",
     "lane": "WADESBORO NC-ATLANTA GA"
-  },
-  {
-    "pro": "51096",
-    "status": "RELEASED",
-    "pu_date": "2026-10-28",
-    "pu_city": "HOUSTON",
-    "pu_state": "TX",
-    "pu_hours": "1300",
-    "del_date": "2026-10-30",
-    "del_city": "SANFORD",
-    "del_state": "FL",
-    "del_hours": "0700",
-    "equipment": "26' Straight Box Truck",
-    "weight_lbs": 7000,
-    "carrier_rate": 2000,
-    "updated_at": "2026-10-30T11:43:14.301419+00:00",
-    "lane": "HOUSTON TX-SANFORD FL"
   },
   {
     "pro": "51176",
