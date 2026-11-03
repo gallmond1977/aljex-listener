@@ -60,11 +60,11 @@
     "del_date": "",
     "del_city": "COLUMBUS",
     "del_state": "GA",
-    "del_hours": "NEEDED",
+    "del_hours": "GIVE ETA!",
     "equipment": "Van",
     "weight_lbs": 41500,
     "carrier_rate": 1500,
-    "updated_at": "2026-10-30T19:49:48.655392+00:00",
+    "updated_at": "2026-11-03T19:12:46.873451+00:00",
     "lane": "OLD FORT NC-COLUMBUS GA"
   },
   {
@@ -319,7 +319,7 @@
     "equipment": "Van",
     "weight_lbs": 14580,
     "carrier_rate": null,
-    "updated_at": "2026-11-03T19:10:16.764247+00:00",
+    "updated_at": "2026-11-03T19:10:51.803264+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
