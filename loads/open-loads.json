@@ -34,23 +34,6 @@
     "lane": "AUGUSTA GA-TAMPA FL"
   },
   {
-    "pro": "51265",
-    "status": "OPEN",
-    "pu_date": "2026-11-03",
-    "pu_city": "COLUMBIA",
-    "pu_state": "SC",
-    "pu_hours": "0730-1530",
-    "del_date": "2026-11-04",
-    "del_city": "MACON",
-    "del_state": "GA",
-    "del_hours": "0800-1600",
-    "equipment": "Van",
-    "weight_lbs": 44000,
-    "carrier_rate": 800,
-    "updated_at": "2026-11-03T16:13:25.976779+00:00",
-    "lane": "COLUMBIA SC-MACON GA"
-  },
-  {
     "pro": "50542",
     "status": "OPEN",
     "pu_date": "2026-11-04",
@@ -119,6 +102,23 @@
     "lane": "ATLANTA GA-BELLPORT NY"
   },
   {
+    "pro": "51265",
+    "status": "OPEN",
+    "pu_date": "2026-11-04",
+    "pu_city": "COLUMBIA",
+    "pu_state": "SC",
+    "pu_hours": "0730-1530",
+    "del_date": "2026-11-05",
+    "del_city": "MACON",
+    "del_state": "GA",
+    "del_hours": "0800-1600",
+    "equipment": "Van",
+    "weight_lbs": 44000,
+    "carrier_rate": 800,
+    "updated_at": "2026-11-03T20:01:03.388227+00:00",
+    "lane": "COLUMBIA SC-MACON GA"
+  },
+  {
     "pro": "51267",
     "status": "OPEN",
     "pu_date": "2026-11-04",
@@ -168,6 +168,23 @@
     "carrier_rate": 900,
     "updated_at": "2026-11-03T18:27:43.955478+00:00",
     "lane": "WADESBORO NC-ATLANTA GA"
+  },
+  {
+    "pro": "51284",
+    "status": "OPEN",
+    "pu_date": "2026-11-04",
+    "pu_city": "AUBURN",
+    "pu_state": "AL",
+    "pu_hours": "0800-1500",
+    "del_date": "2026-11-05",
+    "del_city": "GREENVILLE",
+    "del_state": "MS",
+    "del_hours": "0800",
+    "equipment": "26' Straight Box Truck",
+    "weight_lbs": 2000,
+    "carrier_rate": 650,
+    "updated_at": "2026-11-03T20:04:52.365206+00:00",
+    "lane": "AUBURN AL-GREENVILLE MS"
   },
   {
     "pro": "51200",
