@@ -783,7 +783,7 @@
   },
   {
     "pro": "51130",
-    "status": "DELIVERED",
+    "status": "RELEASED",
     "pu_date": "2026-11-02",
     "pu_city": "GARLAND",
     "pu_state": "TX",
@@ -795,7 +795,7 @@
     "equipment": "Van",
     "weight_lbs": 43438,
     "carrier_rate": 2000,
-    "updated_at": "2026-11-03T13:54:55.477740+00:00",
+    "updated_at": "2026-11-03T13:56:55.749217+00:00",
     "lane": "GARLAND TX-CALHOUN GA"
   },
   {
