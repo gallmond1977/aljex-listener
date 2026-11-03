@@ -34,23 +34,6 @@
     "lane": "PORT ANGELES WA-RAPID CITY SD"
   },
   {
-    "pro": "51258",
-    "status": "OPEN",
-    "pu_date": "2026-11-03",
-    "pu_city": "BUFFALO",
-    "pu_state": "NY",
-    "pu_hours": "1000-1500",
-    "del_date": "2026-11-04",
-    "del_city": "BELCAMP",
-    "del_state": "MD",
-    "del_hours": "0700-1500",
-    "equipment": "Van",
-    "weight_lbs": 12410,
-    "carrier_rate": 1700,
-    "updated_at": "2026-11-02T20:35:30.784232+00:00",
-    "lane": "BUFFALO NY-BELCAMP MD"
-  },
-  {
     "pro": "51262",
     "status": "OPEN",
     "pu_date": "2026-11-03",
@@ -812,25 +795,8 @@
     "equipment": "Van",
     "weight_lbs": 14580,
     "carrier_rate": 1100,
-    "updated_at": "2026-11-03T12:53:36.392501+00:00",
+    "updated_at": "2026-11-03T13:24:36.107976+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
-  },
-  {
-    "pro": "51215",
-    "status": "LOADED",
-    "pu_date": "2026-11-02",
-    "pu_city": "BUFFALO",
-    "pu_state": "NY",
-    "pu_hours": "1100-1500",
-    "del_date": "2026-11-03",
-    "del_city": "BELCAMP",
-    "del_state": "MD",
-    "del_hours": "0700-1500",
-    "equipment": "Van",
-    "weight_lbs": 15000,
-    "carrier_rate": 1800,
-    "updated_at": "2026-11-02T17:14:42.474051+00:00",
-    "lane": "BUFFALO NY-BELCAMP MD"
   },
   {
     "pro": "51223",
