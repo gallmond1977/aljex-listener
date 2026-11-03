@@ -136,23 +136,6 @@
     "lane": "HOUSTON TX-WILMINGTON NC"
   },
   {
-    "pro": "51276",
-    "status": "OPEN",
-    "pu_date": "2026-11-03",
-    "pu_city": "CHARLOTTE",
-    "pu_state": "NC",
-    "pu_hours": "0800-1230",
-    "del_date": "2026-11-03",
-    "del_city": "CONWAY",
-    "del_state": "SC",
-    "del_hours": "",
-    "equipment": "Flatbed Hot Shot",
-    "weight_lbs": 9100,
-    "carrier_rate": 600,
-    "updated_at": "2026-11-03T15:45:23.727333+00:00",
-    "lane": "CHARLOTTE NC-CONWAY SC"
-  },
-  {
     "pro": "50542",
     "status": "OPEN",
     "pu_date": "2026-11-04",
@@ -266,9 +249,9 @@
     "del_state": "KS",
     "del_hours": "0800-1500",
     "equipment": "Van",
-    "weight_lbs": 36000,
+    "weight_lbs": 25000,
     "carrier_rate": 2400,
-    "updated_at": "2026-11-03T15:55:05.221337+00:00",
+    "updated_at": "2026-11-03T15:58:08.062752+00:00",
     "lane": "LAGRANGE GA-WICHITA KS"
   },
   {
@@ -644,23 +627,6 @@
     "carrier_rate": 4200,
     "updated_at": "2026-10-28T20:43:59.049722+00:00",
     "lane": "PHENIX CITY AL-ROCKLAND ME"
-  },
-  {
-    "pro": "51080",
-    "status": "RELEASED",
-    "pu_date": "2026-10-26",
-    "pu_city": "WADESBORO",
-    "pu_state": "NC",
-    "pu_hours": "0730-1630",
-    "del_date": "2026-10-27",
-    "del_city": "ATLANTA",
-    "del_state": "GA",
-    "del_hours": "0800-1600",
-    "equipment": "Van",
-    "weight_lbs": 44000,
-    "carrier_rate": 900,
-    "updated_at": "2026-10-27T15:56:38.829185+00:00",
-    "lane": "WADESBORO NC-ATLANTA GA"
   },
   {
     "pro": "51109",
