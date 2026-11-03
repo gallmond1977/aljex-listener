@@ -63,8 +63,8 @@
     "del_hours": "0800-1600",
     "equipment": "Van",
     "weight_lbs": 44000,
-    "carrier_rate": 750,
-    "updated_at": "2026-11-02T21:15:17.786250+00:00",
+    "carrier_rate": 800,
+    "updated_at": "2026-11-03T16:13:17.757020+00:00",
     "lane": "COLUMBIA SC-MACON GA"
   },
   {
@@ -80,26 +80,9 @@
     "del_hours": "0800-1600",
     "equipment": "Van",
     "weight_lbs": 44000,
-    "carrier_rate": 750,
-    "updated_at": "2026-11-02T21:17:40.345499+00:00",
+    "carrier_rate": 800,
+    "updated_at": "2026-11-03T16:13:25.976779+00:00",
     "lane": "COLUMBIA SC-MACON GA"
-  },
-  {
-    "pro": "51271",
-    "status": "OPEN",
-    "pu_date": "2026-11-03",
-    "pu_city": "HOUSTON",
-    "pu_state": "TX",
-    "pu_hours": "NEEDED",
-    "del_date": "",
-    "del_city": "WILMINGTON",
-    "del_state": "NC",
-    "del_hours": "NEEDED",
-    "equipment": "Van",
-    "weight_lbs": 44000,
-    "carrier_rate": 3300,
-    "updated_at": "2026-11-03T15:38:39.444334+00:00",
-    "lane": "HOUSTON TX-WILMINGTON NC"
   },
   {
     "pro": "50542",
@@ -216,8 +199,8 @@
     "del_hours": "0800-1500",
     "equipment": "Van",
     "weight_lbs": 25000,
-    "carrier_rate": 2400,
-    "updated_at": "2026-11-03T15:58:08.062752+00:00",
+    "carrier_rate": 2300,
+    "updated_at": "2026-11-03T16:11:51.167798+00:00",
     "lane": "LAGRANGE GA-WICHITA KS"
   },
   {
@@ -698,7 +681,7 @@
   },
   {
     "pro": "51147",
-    "status": "DELIVERED",
+    "status": "RELEASED",
     "pu_date": "2026-10-29",
     "pu_city": "WINCHESTER",
     "pu_state": "KY",
@@ -710,12 +693,12 @@
     "equipment": "Van",
     "weight_lbs": 14580,
     "carrier_rate": 1000,
-    "updated_at": "2026-10-30T20:30:20.454403+00:00",
+    "updated_at": "2026-11-03T16:11:13.350028+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
     "pro": "51175",
-    "status": "DELIVERED",
+    "status": "RELEASED",
     "pu_date": "2026-10-29",
     "pu_city": "WADESBORO",
     "pu_state": "NC",
@@ -727,7 +710,7 @@
     "equipment": "Van",
     "weight_lbs": 44000,
     "carrier_rate": 900,
-    "updated_at": "2026-10-30T18:18:45.782750+00:00",
+    "updated_at": "2026-11-03T16:13:46.794046+00:00",
     "lane": "WADESBORO NC-ATLANTA GA"
   },
   {
