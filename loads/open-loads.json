@@ -323,6 +323,23 @@
     "lane": "ROME GA-BELCAMP MD"
   },
   {
+    "pro": "51281",
+    "status": "OPEN",
+    "pu_date": "2026-11-06",
+    "pu_city": "GREENVILLE",
+    "pu_state": "NC",
+    "pu_hours": "0630",
+    "del_date": "2026-11-06",
+    "del_city": "WILSON",
+    "del_state": "NC",
+    "del_hours": "ETA",
+    "equipment": "Flatbed Hot Shot",
+    "weight_lbs": 8900,
+    "carrier_rate": null,
+    "updated_at": "2026-11-03T18:49:00.775696+00:00",
+    "lane": "GREENVILLE NC-WILSON NC"
+  },
+  {
     "pro": "51224",
     "status": "OPEN",
     "pu_date": "2026-11-09",
