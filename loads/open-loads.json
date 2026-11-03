@@ -221,6 +221,23 @@
     "lane": "SAVANNAH GA-SUMMERVILLE SC"
   },
   {
+    "pro": "51275",
+    "status": "OPEN",
+    "pu_date": "2026-11-04",
+    "pu_city": "HOUSTON",
+    "pu_state": "TX",
+    "pu_hours": "0700",
+    "del_date": "2026-11-05",
+    "del_city": "SANFORD",
+    "del_state": "FL",
+    "del_hours": "0700",
+    "equipment": "26' Straight Box Truck",
+    "weight_lbs": 7000,
+    "carrier_rate": 2000,
+    "updated_at": "2026-11-03T15:23:43.556028+00:00",
+    "lane": "HOUSTON TX-SANFORD FL"
+  },
+  {
     "pro": "51200",
     "status": "OPEN",
     "pu_date": "2026-11-05",
@@ -678,6 +695,23 @@
     "carrier_rate": 900,
     "updated_at": "2026-10-28T14:35:11.075539+00:00",
     "lane": "WADESBORO NC-ATLANTA GA"
+  },
+  {
+    "pro": "51096",
+    "status": "RELEASED",
+    "pu_date": "2026-10-28",
+    "pu_city": "HOUSTON",
+    "pu_state": "TX",
+    "pu_hours": "1300",
+    "del_date": "2026-10-30",
+    "del_city": "SANFORD",
+    "del_state": "FL",
+    "del_hours": "0700",
+    "equipment": "26' Straight Box Truck",
+    "weight_lbs": 7000,
+    "carrier_rate": 2000,
+    "updated_at": "2026-10-30T11:43:14.301419+00:00",
+    "lane": "HOUSTON TX-SANFORD FL"
   },
   {
     "pro": "51176",
