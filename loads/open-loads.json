@@ -149,7 +149,7 @@
     "equipment": "Flatbed Hot Shot",
     "weight_lbs": 9100,
     "carrier_rate": 600,
-    "updated_at": "2026-11-03T15:42:49.209494+00:00",
+    "updated_at": "2026-11-03T15:45:23.727333+00:00",
     "lane": "CHARLOTTE NC-CONWAY SC"
   },
   {
@@ -253,6 +253,23 @@
     "carrier_rate": 2000,
     "updated_at": "2026-11-03T15:32:35.361026+00:00",
     "lane": "HOUSTON TX-SANFORD FL"
+  },
+  {
+    "pro": "51277",
+    "status": "OPEN",
+    "pu_date": "2026-11-04",
+    "pu_city": "LAGRANGE",
+    "pu_state": "GA",
+    "pu_hours": "0800-1600",
+    "del_date": "2026-11-06",
+    "del_city": "WICHITA",
+    "del_state": "KS",
+    "del_hours": "0800-1200",
+    "equipment": "Van",
+    "weight_lbs": 36000,
+    "carrier_rate": 2400,
+    "updated_at": "2026-11-03T15:49:39.452422+00:00",
+    "lane": "LAGRANGE GA-WICHITA KS"
   },
   {
     "pro": "51200",
