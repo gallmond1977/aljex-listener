@@ -90,7 +90,7 @@
     "pu_date": "2026-11-04",
     "pu_city": "COLUMBUS",
     "pu_state": "GA",
-    "pu_hours": "1200-1700",
+    "pu_hours": "1200",
     "del_date": "2026-11-04",
     "del_city": "ATLANTA",
     "del_state": "GA",
@@ -98,7 +98,7 @@
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 5000,
     "carrier_rate": 300,
-    "updated_at": "2026-11-02T19:39:14.308995+00:00",
+    "updated_at": "2026-11-03T19:43:53.685042+00:00",
     "lane": "COLUMBUS GA-ATLANTA GA"
   },
   {
@@ -863,12 +863,12 @@
     "equipment": "Van",
     "weight_lbs": 44000,
     "carrier_rate": 900,
-    "updated_at": "2026-11-03T19:34:49.636866+00:00",
+    "updated_at": "2026-11-03T19:44:42.745751+00:00",
     "lane": "WADESBORO NC-ATLANTA GA"
   },
   {
     "pro": "51264",
-    "status": "DISPATCHED",
+    "status": "PICKUP",
     "pu_date": "2026-11-03",
     "pu_city": "COLUMBIA",
     "pu_state": "SC",
@@ -880,7 +880,7 @@
     "equipment": "Van",
     "weight_lbs": 44000,
     "carrier_rate": 825,
-    "updated_at": "2026-11-03T17:56:59.304463+00:00",
+    "updated_at": "2026-11-03T19:43:26.950556+00:00",
     "lane": "COLUMBIA SC-MACON GA"
   }
 ]
