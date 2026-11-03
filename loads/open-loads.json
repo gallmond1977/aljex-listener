@@ -102,23 +102,6 @@
     "lane": "COLUMBIA SC-MACON GA"
   },
   {
-    "pro": "51267",
-    "status": "OPEN",
-    "pu_date": "2026-11-04",
-    "pu_city": "OAKLAND",
-    "pu_state": "TN",
-    "pu_hours": "0800-1500",
-    "del_date": "2026-11-05",
-    "del_city": "MIDLOTHIAN",
-    "del_state": "TX",
-    "del_hours": "0800-1500",
-    "equipment": "Van Hazmat",
-    "weight_lbs": 42000,
-    "carrier_rate": 2200,
-    "updated_at": "2026-11-03T19:31:50.059336+00:00",
-    "lane": "OAKLAND TN-MIDLOTHIAN TX"
-  },
-  {
     "pro": "51270",
     "status": "OPEN",
     "pu_date": "2026-11-04",
@@ -170,21 +153,21 @@
     "lane": "WADESBORO NC-ATLANTA GA"
   },
   {
-    "pro": "51284",
+    "pro": "51288",
     "status": "OPEN",
     "pu_date": "2026-11-04",
-    "pu_city": "AUBURN",
-    "pu_state": "AL",
-    "pu_hours": "0800-1500",
-    "del_date": "2026-11-05",
-    "del_city": "GREENVILLE",
-    "del_state": "MS",
-    "del_hours": "0800",
-    "equipment": "26' Straight Box Truck",
-    "weight_lbs": 2000,
-    "carrier_rate": 650,
-    "updated_at": "2026-11-03T20:06:40.446148+00:00",
-    "lane": "AUBURN AL-GREENVILLE MS"
+    "pu_city": "SAVANNAH",
+    "pu_state": "GA",
+    "pu_hours": "0800-1100",
+    "del_date": "2026-11-04",
+    "del_city": "DUBLIN",
+    "del_state": "GA",
+    "del_hours": "0800-1500",
+    "equipment": "Van",
+    "weight_lbs": 31500,
+    "carrier_rate": 700,
+    "updated_at": "2026-11-03T21:19:05.588367+00:00",
+    "lane": "SAVANNAH GA-DUBLIN GA"
   },
   {
     "pro": "51200",
@@ -868,7 +851,7 @@
   },
   {
     "pro": "51262",
-    "status": "DISPATCHED",
+    "status": "PICKUP",
     "pu_date": "2026-11-03",
     "pu_city": "WADESBORO",
     "pu_state": "NC",
@@ -880,7 +863,7 @@
     "equipment": "Van",
     "weight_lbs": 44000,
     "carrier_rate": 900,
-    "updated_at": "2026-11-03T20:41:29.410916+00:00",
+    "updated_at": "2026-11-03T21:16:13.039266+00:00",
     "lane": "WADESBORO NC-ATLANTA GA"
   },
   {
@@ -899,5 +882,22 @@
     "carrier_rate": 825,
     "updated_at": "2026-11-03T21:10:24.576989+00:00",
     "lane": "COLUMBIA SC-MACON GA"
+  },
+  {
+    "pro": "51267",
+    "status": "COVERED",
+    "pu_date": "2026-11-04",
+    "pu_city": "OAKLAND",
+    "pu_state": "TN",
+    "pu_hours": "0800-1500",
+    "del_date": "2026-11-05",
+    "del_city": "MIDLOTHIAN",
+    "del_state": "TX",
+    "del_hours": "0800-1500",
+    "equipment": "Van Hazmat",
+    "weight_lbs": 42000,
+    "carrier_rate": 2300,
+    "updated_at": "2026-11-03T21:20:14.049261+00:00",
+    "lane": "OAKLAND TN-MIDLOTHIAN TX"
   }
 ]
