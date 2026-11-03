@@ -817,7 +817,7 @@
   },
   {
     "pro": "51255",
-    "status": "CONSIGNEE",
+    "status": "DELIVERED",
     "pu_date": "2026-11-03",
     "pu_city": "COLUMBUS",
     "pu_state": "GA",
@@ -829,7 +829,7 @@
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 9000,
     "carrier_rate": 350,
-    "updated_at": "2026-11-03T18:00:31.835315+00:00",
+    "updated_at": "2026-11-03T19:20:08.667330+00:00",
     "lane": "COLUMBUS GA-ATLANTA GA"
   },
   {
