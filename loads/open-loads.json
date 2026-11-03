@@ -119,6 +119,23 @@
     "lane": "ATLANTA GA-BELLPORT NY"
   },
   {
+    "pro": "51267",
+    "status": "OPEN",
+    "pu_date": "2026-11-04",
+    "pu_city": "OAKLAND",
+    "pu_state": "TN",
+    "pu_hours": "0800-1500",
+    "del_date": "2026-11-05",
+    "del_city": "MIDLOTHIAN",
+    "del_state": "TX",
+    "del_hours": "0800-1500",
+    "equipment": "Van Hazmat",
+    "weight_lbs": 42000,
+    "carrier_rate": 2200,
+    "updated_at": "2026-11-03T19:31:50.059336+00:00",
+    "lane": "OAKLAND TN-MIDLOTHIAN TX"
+  },
+  {
     "pro": "51270",
     "status": "OPEN",
     "pu_date": "2026-11-04",
@@ -846,7 +863,7 @@
     "equipment": "Van",
     "weight_lbs": 44000,
     "carrier_rate": 900,
-    "updated_at": "2026-11-03T19:03:42.394088+00:00",
+    "updated_at": "2026-11-03T19:34:49.636866+00:00",
     "lane": "WADESBORO NC-ATLANTA GA"
   },
   {
@@ -865,22 +882,5 @@
     "carrier_rate": 825,
     "updated_at": "2026-11-03T17:56:59.304463+00:00",
     "lane": "COLUMBIA SC-MACON GA"
-  },
-  {
-    "pro": "51267",
-    "status": "COVERED",
-    "pu_date": "2026-11-04",
-    "pu_city": "OAKLAND",
-    "pu_state": "TN",
-    "pu_hours": "0800-1500",
-    "del_date": "2026-11-05",
-    "del_city": "MIDLOTHIAN",
-    "del_state": "TX",
-    "del_hours": "0800-1500",
-    "equipment": "Van Hazmat",
-    "weight_lbs": 42000,
-    "carrier_rate": 2200,
-    "updated_at": "2026-11-03T14:46:19.040129+00:00",
-    "lane": "OAKLAND TN-MIDLOTHIAN TX"
   }
 ]
