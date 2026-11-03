@@ -1,22 +1,5 @@
 [
   {
-    "pro": "51144",
-    "status": "OPEN",
-    "pu_date": "2026-11-03",
-    "pu_city": "CARTERSVILLE",
-    "pu_state": "GA",
-    "pu_hours": "0600-1500",
-    "del_date": "2026-11-03",
-    "del_city": "MACON",
-    "del_state": "GA",
-    "del_hours": "0730-1630",
-    "equipment": "Van",
-    "weight_lbs": 43000,
-    "carrier_rate": 900,
-    "updated_at": "2026-11-03T15:41:20.582310+00:00",
-    "lane": "CARTERSVILLE GA-MACON GA"
-  },
-  {
     "pro": "51158",
     "status": "OPEN",
     "pu_date": "2026-11-03",
@@ -100,23 +83,6 @@
     "carrier_rate": 750,
     "updated_at": "2026-11-02T21:17:40.345499+00:00",
     "lane": "COLUMBIA SC-MACON GA"
-  },
-  {
-    "pro": "51266",
-    "status": "OPEN",
-    "pu_date": "2026-11-03",
-    "pu_city": "MONTICELLO",
-    "pu_state": "IL",
-    "pu_hours": "0600-1400",
-    "del_date": "2026-11-04",
-    "del_city": "MIDLOTHIAN",
-    "del_state": "TX",
-    "del_hours": "0800-0900",
-    "equipment": "26' Straight Box Truck",
-    "weight_lbs": 1170,
-    "carrier_rate": 1600,
-    "updated_at": "2026-11-03T15:52:55.546655+00:00",
-    "lane": "MONTICELLO IL-MIDLOTHIAN TX"
   },
   {
     "pro": "51271",
