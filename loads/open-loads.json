@@ -132,8 +132,25 @@
     "equipment": "Van",
     "weight_lbs": 44000,
     "carrier_rate": 3300,
-    "updated_at": "2026-11-03T15:11:39.980903+00:00",
+    "updated_at": "2026-11-03T15:38:39.444334+00:00",
     "lane": "HOUSTON TX-WILMINGTON NC"
+  },
+  {
+    "pro": "51276",
+    "status": "OPEN",
+    "pu_date": "2026-11-03",
+    "pu_city": "CHARLOTTE",
+    "pu_state": "NC",
+    "pu_hours": "0800-1230",
+    "del_date": "2026-11-03",
+    "del_city": "CONWAY",
+    "del_state": "SC",
+    "del_hours": "",
+    "equipment": "Flatbed Hot Shot",
+    "weight_lbs": 1500,
+    "carrier_rate": 600,
+    "updated_at": "2026-11-03T15:37:00.416271+00:00",
+    "lane": "CHARLOTTE NC-CONWAY SC"
   },
   {
     "pro": "50542",
