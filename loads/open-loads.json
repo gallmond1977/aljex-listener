@@ -68,23 +68,6 @@
     "lane": "COLUMBUS GA-PANAMA CITY FL"
   },
   {
-    "pro": "51259",
-    "status": "OPEN",
-    "pu_date": "2026-11-04",
-    "pu_city": "COLUMBUS",
-    "pu_state": "GA",
-    "pu_hours": "1200",
-    "del_date": "2026-11-04",
-    "del_city": "ATLANTA",
-    "del_state": "GA",
-    "del_hours": "0800-1445",
-    "equipment": "26' Straight Box Truck",
-    "weight_lbs": 5000,
-    "carrier_rate": 300,
-    "updated_at": "2026-11-03T19:43:53.685042+00:00",
-    "lane": "COLUMBUS GA-ATLANTA GA"
-  },
-  {
     "pro": "51260",
     "status": "OPEN",
     "pu_date": "2026-11-04",
@@ -782,23 +765,6 @@
     "lane": "WADESBORO NC-ATLANTA GA"
   },
   {
-    "pro": "51191",
-    "status": "RELEASED",
-    "pu_date": "2026-10-29",
-    "pu_city": "COLUMBUS",
-    "pu_state": "GA",
-    "pu_hours": "0800-0930",
-    "del_date": "2026-10-29",
-    "del_city": "ATLANTA",
-    "del_state": "GA",
-    "del_hours": "0800-1600",
-    "equipment": "26' Straight Box Truck",
-    "weight_lbs": 9000,
-    "carrier_rate": 350,
-    "updated_at": "2026-11-02T15:37:22.742485+00:00",
-    "lane": "COLUMBUS GA-ATLANTA GA"
-  },
-  {
     "pro": "51130",
     "status": "RELEASED",
     "pu_date": "2026-11-02",
@@ -850,23 +816,6 @@
     "lane": "WADESBORO NC-ATLANTA GA"
   },
   {
-    "pro": "51255",
-    "status": "DELIVERED",
-    "pu_date": "2026-11-03",
-    "pu_city": "COLUMBUS",
-    "pu_state": "GA",
-    "pu_hours": "1100",
-    "del_date": "2026-11-03",
-    "del_city": "ATLANTA",
-    "del_state": "GA",
-    "del_hours": "0800-1600",
-    "equipment": "26' Straight Box Truck",
-    "weight_lbs": 9000,
-    "carrier_rate": 350,
-    "updated_at": "2026-11-03T19:20:08.667330+00:00",
-    "lane": "COLUMBUS GA-ATLANTA GA"
-  },
-  {
     "pro": "51262",
     "status": "COVERED",
     "pu_date": "2026-11-03",
@@ -880,7 +829,7 @@
     "equipment": "Van",
     "weight_lbs": 44000,
     "carrier_rate": 900,
-    "updated_at": "2026-11-03T19:48:38.980634+00:00",
+    "updated_at": "2026-11-03T20:25:00.856005+00:00",
     "lane": "WADESBORO NC-ATLANTA GA"
   },
   {
