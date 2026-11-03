@@ -170,23 +170,6 @@
     "lane": "OLD FORT NC-COLUMBUS GA"
   },
   {
-    "pro": "51043",
-    "status": "OPEN",
-    "pu_date": "2026-11-04",
-    "pu_city": "WOODRUFF",
-    "pu_state": "SC",
-    "pu_hours": "0800-1500",
-    "del_date": "2026-11-05",
-    "del_city": "RICHMOND",
-    "del_state": "KY",
-    "del_hours": "0900",
-    "equipment": "Van",
-    "weight_lbs": 44000,
-    "carrier_rate": 1100,
-    "updated_at": "2026-10-20T12:56:28.415329+00:00",
-    "lane": "WOODRUFF SC-RICHMOND KY"
-  },
-  {
     "pro": "51249",
     "status": "OPEN",
     "pu_date": "2026-11-04",
@@ -851,7 +834,7 @@
   },
   {
     "pro": "51255",
-    "status": "DISPATCHED",
+    "status": "PICKUP",
     "pu_date": "2026-11-03",
     "pu_city": "COLUMBUS",
     "pu_state": "GA",
@@ -863,7 +846,7 @@
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 9000,
     "carrier_rate": 350,
-    "updated_at": "2026-11-03T14:29:36.166888+00:00",
+    "updated_at": "2026-11-03T15:02:36.150897+00:00",
     "lane": "COLUMBUS GA-ATLANTA GA"
   },
   {
