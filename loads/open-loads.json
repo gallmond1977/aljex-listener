@@ -102,23 +102,6 @@
     "lane": "COLUMBIA SC-MACON GA"
   },
   {
-    "pro": "51270",
-    "status": "OPEN",
-    "pu_date": "2026-11-04",
-    "pu_city": "SAVANNAH",
-    "pu_state": "GA",
-    "pu_hours": "0800-1200",
-    "del_date": "2026-11-04",
-    "del_city": "SUMMERVILLE",
-    "del_state": "SC",
-    "del_hours": "CALL",
-    "equipment": "Flatbed",
-    "weight_lbs": 44800,
-    "carrier_rate": 700,
-    "updated_at": "2026-11-03T14:17:35.525500+00:00",
-    "lane": "SAVANNAH GA-SUMMERVILLE SC"
-  },
-  {
     "pro": "51279",
     "status": "OPEN",
     "pu_date": "2026-11-04",
