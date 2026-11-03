@@ -13,7 +13,7 @@
     "equipment": "Van",
     "weight_lbs": 43000,
     "carrier_rate": 550,
-    "updated_at": "2026-11-02T21:10:07.567222+00:00",
+    "updated_at": "2026-11-03T13:42:05.468183+00:00",
     "lane": "CARTERSVILLE GA-MACON GA"
   },
   {
@@ -800,7 +800,7 @@
   },
   {
     "pro": "51223",
-    "status": "CONSIGNEE",
+    "status": "DELIVERED",
     "pu_date": "2026-11-02",
     "pu_city": "WADESBORO",
     "pu_state": "NC",
@@ -812,7 +812,7 @@
     "equipment": "Van",
     "weight_lbs": 44000,
     "carrier_rate": 900,
-    "updated_at": "2026-11-03T10:18:23.542182+00:00",
+    "updated_at": "2026-11-03T13:42:29.708176+00:00",
     "lane": "WADESBORO NC-ATLANTA GA"
   },
   {
