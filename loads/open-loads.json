@@ -885,7 +885,7 @@
   },
   {
     "pro": "51267",
-    "status": "COVERED",
+    "status": "DISPATCHED",
     "pu_date": "2026-11-04",
     "pu_city": "OAKLAND",
     "pu_state": "TN",
@@ -897,7 +897,7 @@
     "equipment": "Van Hazmat",
     "weight_lbs": 42000,
     "carrier_rate": 2300,
-    "updated_at": "2026-11-04T14:11:28.202630+00:00",
+    "updated_at": "2026-11-04T14:17:38.345654+00:00",
     "lane": "OAKLAND TN-MIDLOTHIAN TX"
   },
   {
