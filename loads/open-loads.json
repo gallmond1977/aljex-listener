@@ -187,23 +187,6 @@
     "lane": "WADESBORO NC-ATLANTA GA"
   },
   {
-    "pro": "51294",
-    "status": "OPEN",
-    "pu_date": "2026-11-05",
-    "pu_city": "WHITEHALL",
-    "pu_state": "NY",
-    "pu_hours": "0700-1400",
-    "del_date": "2026-11-06",
-    "del_city": "TALLMADGE",
-    "del_state": "OH",
-    "del_hours": "0900",
-    "equipment": "Van",
-    "weight_lbs": 45252,
-    "carrier_rate": 1350,
-    "updated_at": "2026-11-04T13:51:59.340024+00:00",
-    "lane": "WHITEHALL NY-TALLMADGE OH"
-  },
-  {
     "pro": "51135",
     "status": "OPEN",
     "pu_date": "2026-11-06",
@@ -914,7 +897,7 @@
     "equipment": "Van Hazmat",
     "weight_lbs": 42000,
     "carrier_rate": 2300,
-    "updated_at": "2026-11-03T21:27:16.154213+00:00",
+    "updated_at": "2026-11-04T13:58:59.691070+00:00",
     "lane": "OAKLAND TN-MIDLOTHIAN TX"
   },
   {
