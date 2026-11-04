@@ -43,11 +43,11 @@
     "del_date": "2026-11-06",
     "del_city": "BIRMINGHAM",
     "del_state": "AL",
-    "del_hours": "",
+    "del_hours": "0700-0900",
     "equipment": "Van",
     "weight_lbs": 5500,
     "carrier_rate": 800,
-    "updated_at": "2026-11-04T18:52:47.086212+00:00",
+    "updated_at": "2026-11-04T18:59:52.686568+00:00",
     "lane": "COLUMBUS GA-BIRMINGHAM AL"
   },
   {
@@ -251,7 +251,7 @@
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 5000,
     "carrier_rate": 250,
-    "updated_at": "2026-11-04T16:56:52.130025+00:00",
+    "updated_at": "2026-11-04T18:56:30.811055+00:00",
     "lane": "GRENADA MS-AMORY MS"
   },
   {
