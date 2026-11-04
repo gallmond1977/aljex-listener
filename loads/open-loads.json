@@ -64,7 +64,7 @@
     "equipment": "Sprinter Van",
     "weight_lbs": 250,
     "carrier_rate": 300,
-    "updated_at": "2026-11-04T15:39:34.368694+00:00",
+    "updated_at": "2026-11-04T15:46:05.351009+00:00",
     "lane": "ROCK HILL SC-PLEASANT GARDEN NC"
   },
   {
@@ -117,6 +117,23 @@
     "carrier_rate": 900,
     "updated_at": "2026-11-04T14:51:39.337806+00:00",
     "lane": "WADESBORO NC-ATLANTA GA"
+  },
+  {
+    "pro": "51298",
+    "status": "OPEN",
+    "pu_date": "2026-11-05",
+    "pu_city": "PHENIX CITY",
+    "pu_state": "AL",
+    "pu_hours": "0800-1100",
+    "del_date": "2026-11-06",
+    "del_city": "MIDLOTHIAN",
+    "del_state": "TX",
+    "del_hours": "0800-1400",
+    "equipment": "Flatbed",
+    "weight_lbs": 12000,
+    "carrier_rate": 2300,
+    "updated_at": "2026-11-04T15:50:00.522495+00:00",
+    "lane": "PHENIX CITY AL-MIDLOTHIAN TX"
   },
   {
     "pro": "51135",
