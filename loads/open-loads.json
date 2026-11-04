@@ -17,23 +17,6 @@
     "lane": "PORT ANGELES WA-RAPID CITY SD"
   },
   {
-    "pro": "51302",
-    "status": "OPEN",
-    "pu_date": "2026-11-04",
-    "pu_city": "GREER",
-    "pu_state": "SC",
-    "pu_hours": "0700-1500",
-    "del_date": "",
-    "del_city": "THOMASTON",
-    "del_state": "GA",
-    "del_hours": "0800-1500",
-    "equipment": "Van",
-    "weight_lbs": 44000,
-    "carrier_rate": 750,
-    "updated_at": "2026-11-04T16:21:21.851729+00:00",
-    "lane": "GREER SC-THOMASTON GA"
-  },
-  {
     "pro": "51286",
     "status": "OPEN",
     "pu_date": "2026-11-05",
@@ -302,7 +285,7 @@
     "equipment": "Van",
     "weight_lbs": 43212,
     "carrier_rate": 1800,
-    "updated_at": "2026-11-04T17:08:45.027885+00:00",
+    "updated_at": "2026-11-04T18:30:14.672555+00:00",
     "lane": "EL DORADO AR-CALHOUN GA"
   },
   {
