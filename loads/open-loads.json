@@ -51,6 +51,23 @@
     "lane": "PHENIX CITY AL-MIDLOTHIAN TX"
   },
   {
+    "pro": "51307",
+    "status": "OPEN",
+    "pu_date": "2026-11-05",
+    "pu_city": "COLUMBUS",
+    "pu_state": "GA",
+    "pu_hours": "1430",
+    "del_date": "2026-11-06",
+    "del_city": "BIRMINGHAM",
+    "del_state": "AL",
+    "del_hours": "CALL!",
+    "equipment": "Van",
+    "weight_lbs": 5500,
+    "carrier_rate": 800,
+    "updated_at": "2026-11-04T18:33:44.709551+00:00",
+    "lane": "COLUMBUS GA-BIRMINGHAM AL"
+  },
+  {
     "pro": "51135",
     "status": "OPEN",
     "pu_date": "2026-11-06",
@@ -134,23 +151,6 @@
     "carrier_rate": 3500,
     "updated_at": "2026-11-03T15:07:19.746865+00:00",
     "lane": "ROME GA-BELCAMP MD"
-  },
-  {
-    "pro": "51281",
-    "status": "OPEN",
-    "pu_date": "2026-11-06",
-    "pu_city": "GREENVILLE",
-    "pu_state": "NC",
-    "pu_hours": "0630",
-    "del_date": "2026-11-06",
-    "del_city": "WILSON",
-    "del_state": "NC",
-    "del_hours": "ETA",
-    "equipment": "Flatbed Hot Shot",
-    "weight_lbs": 8900,
-    "carrier_rate": 400,
-    "updated_at": "2026-11-03T18:55:14.592154+00:00",
-    "lane": "GREENVILLE NC-WILSON NC"
   },
   {
     "pro": "51283",
