@@ -251,7 +251,7 @@
     "equipment": "Flatbed w/ Tarps",
     "weight_lbs": 40000,
     "carrier_rate": 800,
-    "updated_at": "2026-11-04T20:09:42.978341+00:00",
+    "updated_at": "2026-11-04T20:13:22.668171+00:00",
     "lane": "JACKSONVILLE TX-VIDOR TX"
   },
   {
@@ -304,6 +304,23 @@
     "carrier_rate": 1500,
     "updated_at": "2026-11-02T18:51:14.942979+00:00",
     "lane": "ATHENS AL-GULFPORT MS"
+  },
+  {
+    "pro": "51310",
+    "status": "OPEN",
+    "pu_date": "2026-11-11",
+    "pu_city": "JACKSONVILLE",
+    "pu_state": "TX",
+    "pu_hours": "0800-1500",
+    "del_date": "2026-11-12",
+    "del_city": "JACKSON",
+    "del_state": "MS",
+    "del_hours": "0700-1500",
+    "equipment": "Van",
+    "weight_lbs": 44500,
+    "carrier_rate": 850,
+    "updated_at": "2026-11-04T20:14:53.386660+00:00",
+    "lane": "JACKSONVILLE TX-JACKSON MS"
   },
   {
     "pro": "49855",
