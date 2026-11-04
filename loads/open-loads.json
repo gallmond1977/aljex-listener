@@ -63,8 +63,8 @@
     "del_hours": "0700",
     "equipment": "Van",
     "weight_lbs": 42000,
-    "carrier_rate": 3000,
-    "updated_at": "2026-11-04T13:35:35.794144+00:00",
+    "carrier_rate": 3200,
+    "updated_at": "2026-11-04T14:12:01.512431+00:00",
     "lane": "ATLANTA GA-BELLPORT NY"
   },
   {
@@ -897,7 +897,7 @@
     "equipment": "Van Hazmat",
     "weight_lbs": 42000,
     "carrier_rate": 2300,
-    "updated_at": "2026-11-04T13:58:59.691070+00:00",
+    "updated_at": "2026-11-04T14:11:28.202630+00:00",
     "lane": "OAKLAND TN-MIDLOTHIAN TX"
   },
   {
