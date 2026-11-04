@@ -47,7 +47,7 @@
     "equipment": "Flatbed",
     "weight_lbs": 44000,
     "carrier_rate": 900,
-    "updated_at": "2026-11-04T21:23:54.533341+00:00",
+    "updated_at": "2026-11-04T21:29:24.217070+00:00",
     "lane": "COLUMBIA SC-DORAVILLE GA"
   },
   {
@@ -914,7 +914,7 @@
     "equipment": "Van",
     "weight_lbs": 44000,
     "carrier_rate": 900,
-    "updated_at": "2026-11-04T21:19:34.687196+00:00",
+    "updated_at": "2026-11-04T21:29:22.598666+00:00",
     "lane": "WADESBORO NC-ATLANTA GA"
   },
   {
