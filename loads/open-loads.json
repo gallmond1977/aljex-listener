@@ -129,10 +129,10 @@
     "del_city": "BELCAMP",
     "del_state": "MD",
     "del_hours": "0700-1500",
-    "equipment": "Flatbed w/ Tarps",
+    "equipment": "Conestoga",
     "weight_lbs": 40000,
     "carrier_rate": 3500,
-    "updated_at": "2026-11-03T15:07:19.746865+00:00",
+    "updated_at": "2026-11-04T19:08:45.766249+00:00",
     "lane": "ROME GA-BELCAMP MD"
   },
   {
@@ -812,7 +812,7 @@
     "equipment": "Van Hazmat",
     "weight_lbs": 42000,
     "carrier_rate": 2300,
-    "updated_at": "2026-11-04T19:05:01.181426+00:00",
+    "updated_at": "2026-11-04T19:05:32.836388+00:00",
     "lane": "OAKLAND TN-MIDLOTHIAN TX"
   },
   {
@@ -846,7 +846,7 @@
     "equipment": "Flatbed",
     "weight_lbs": 44000,
     "carrier_rate": 900,
-    "updated_at": "2026-11-04T18:39:27.418714+00:00",
+    "updated_at": "2026-11-04T19:05:57.964683+00:00",
     "lane": "WADESBORO NC-ATLANTA GA"
   },
   {
