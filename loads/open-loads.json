@@ -41,14 +41,14 @@
     "pu_state": "SC",
     "pu_hours": "0730-1530",
     "del_date": "2026-11-05",
-    "del_city": "DORAVILLE",
+    "del_city": "ATLANTA",
     "del_state": "GA",
     "del_hours": "0800-1600",
     "equipment": "Flatbed",
     "weight_lbs": 44000,
     "carrier_rate": 900,
-    "updated_at": "2026-11-04T21:29:24.217070+00:00",
-    "lane": "COLUMBIA SC-DORAVILLE GA"
+    "updated_at": "2026-11-04T21:33:55.903381+00:00",
+    "lane": "COLUMBIA SC-ATLANTA GA"
   },
   {
     "pro": "51135",
