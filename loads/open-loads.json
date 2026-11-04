@@ -1,5 +1,22 @@
 [
   {
+    "pro": "51043",
+    "status": "OPEN",
+    "pu_date": "2026-11-04",
+    "pu_city": "WOODRUFF",
+    "pu_state": "SC",
+    "pu_hours": "0800-1500",
+    "del_date": "2026-11-05",
+    "del_city": "RICHMOND",
+    "del_state": "KY",
+    "del_hours": "0900",
+    "equipment": "Van",
+    "weight_lbs": 44000,
+    "carrier_rate": 1100,
+    "updated_at": "2026-11-04T14:49:31.777851+00:00",
+    "lane": "WOODRUFF SC-RICHMOND KY"
+  },
+  {
     "pro": "51158",
     "status": "OPEN",
     "pu_date": "2026-11-04",
@@ -64,7 +81,7 @@
     "equipment": "Van",
     "weight_lbs": 44000,
     "carrier_rate": 900,
-    "updated_at": "2026-11-04T14:45:08.379101+00:00",
+    "updated_at": "2026-11-04T14:45:16.457034+00:00",
     "lane": "WADESBORO NC-ATLANTA GA"
   },
   {
@@ -81,7 +98,7 @@
     "equipment": "Van",
     "weight_lbs": 44000,
     "carrier_rate": 900,
-    "updated_at": "2026-11-03T21:09:34.670111+00:00",
+    "updated_at": "2026-11-04T14:46:05.183244+00:00",
     "lane": "WADESBORO NC-ATLANTA GA"
   },
   {
@@ -811,8 +828,8 @@
     "del_hours": "GIVE ETA!",
     "equipment": "Van",
     "weight_lbs": 41500,
-    "carrier_rate": 1500,
-    "updated_at": "2026-11-04T14:40:30.422098+00:00",
+    "carrier_rate": 1700,
+    "updated_at": "2026-11-04T14:48:10.827500+00:00",
     "lane": "OLD FORT NC-COLUMBUS GA"
   },
   {
@@ -846,7 +863,7 @@
     "equipment": "Van",
     "weight_lbs": 44000,
     "carrier_rate": 900,
-    "updated_at": "2026-11-04T14:37:05.454347+00:00",
+    "updated_at": "2026-11-04T14:49:55.413418+00:00",
     "lane": "WADESBORO NC-ATLANTA GA"
   }
 ]
