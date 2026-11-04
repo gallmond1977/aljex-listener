@@ -153,37 +153,20 @@
     "lane": "SAVANNAH GA-DUBLIN GA"
   },
   {
-    "pro": "51289",
-    "status": "OPEN",
-    "pu_date": "2026-11-04",
-    "pu_city": "CALHOUN",
-    "pu_state": "GA",
-    "pu_hours": "0800-1400",
-    "del_date": "2026-11-05",
-    "del_city": "RICHMOND",
-    "del_state": "VA",
-    "del_hours": "0700-1400",
-    "equipment": "Van",
-    "weight_lbs": 45000,
-    "carrier_rate": 2200,
-    "updated_at": "2026-11-04T13:19:42.177204+00:00",
-    "lane": "CALHOUN GA-RICHMOND VA"
-  },
-  {
     "pro": "51290",
     "status": "OPEN",
     "pu_date": "2026-11-04",
     "pu_city": "PLEASANT GARDEN",
     "pu_state": "NC",
-    "pu_hours": "0800-1100",
+    "pu_hours": "0700-1000",
     "del_date": "2026-11-04",
     "del_city": "CONWAY",
     "del_state": "SC",
     "del_hours": "0800-1530",
     "equipment": "26' Straight Box Truck",
-    "weight_lbs": 650,
+    "weight_lbs": 1500,
     "carrier_rate": 500,
-    "updated_at": "2026-11-04T13:17:14.969338+00:00",
+    "updated_at": "2026-11-04T13:24:28.831796+00:00",
     "lane": "PLEASANT GARDEN NC-CONWAY SC"
   },
   {
@@ -219,23 +202,6 @@
     "carrier_rate": 1000,
     "updated_at": "2026-11-04T13:06:16.430740+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
-  },
-  {
-    "pro": "51285",
-    "status": "OPEN",
-    "pu_date": "2026-11-05",
-    "pu_city": "WADESBORO",
-    "pu_state": "NC",
-    "pu_hours": "0730-1630",
-    "del_date": "2026-11-06",
-    "del_city": "ATLANTA",
-    "del_state": "GA",
-    "del_hours": "0800-1600",
-    "equipment": "Van",
-    "weight_lbs": 44000,
-    "carrier_rate": null,
-    "updated_at": "2026-11-03T21:10:35.845179+00:00",
-    "lane": "WADESBORO NC-ATLANTA GA"
   },
   {
     "pro": "51286",
@@ -440,6 +406,23 @@
     "carrier_rate": null,
     "updated_at": "2026-11-04T13:19:54.772520+00:00",
     "lane": "WINCHESTER KY-BURLINGTON NJ"
+  },
+  {
+    "pro": "51292",
+    "status": "OPEN",
+    "pu_date": "2026-11-09",
+    "pu_city": "WINCHESTER",
+    "pu_state": "KY",
+    "pu_hours": "NEEDED",
+    "del_date": "2026-11-10",
+    "del_city": "UXBRIDGE",
+    "del_state": "MA",
+    "del_hours": "REQ",
+    "equipment": "Van",
+    "weight_lbs": 5000,
+    "carrier_rate": null,
+    "updated_at": "2026-11-04T13:22:19.142683+00:00",
+    "lane": "WINCHESTER KY-UXBRIDGE MA"
   },
   {
     "pro": "51252",
@@ -850,6 +833,23 @@
     "lane": "WINCHESTER KY-BURLINGTON NJ"
   },
   {
+    "pro": "51137",
+    "status": "RELEASED",
+    "pu_date": "2026-10-30",
+    "pu_city": "WINCHESTER",
+    "pu_state": "KY",
+    "pu_hours": "1200-1300",
+    "del_date": "2026-11-01",
+    "del_city": "UXBRIDGE",
+    "del_state": "MA",
+    "del_hours": "1200",
+    "equipment": "Van",
+    "weight_lbs": 5200,
+    "carrier_rate": 3600,
+    "updated_at": "2026-11-02T15:34:57.801024+00:00",
+    "lane": "WINCHESTER KY-UXBRIDGE MA"
+  },
+  {
     "pro": "51130",
     "status": "RELEASED",
     "pu_date": "2026-11-02",
@@ -950,5 +950,22 @@
     "carrier_rate": 2300,
     "updated_at": "2026-11-03T21:27:16.154213+00:00",
     "lane": "OAKLAND TN-MIDLOTHIAN TX"
+  },
+  {
+    "pro": "51285",
+    "status": "COVERED",
+    "pu_date": "2026-11-05",
+    "pu_city": "WADESBORO",
+    "pu_state": "NC",
+    "pu_hours": "0730-1630",
+    "del_date": "2026-11-06",
+    "del_city": "ATLANTA",
+    "del_state": "GA",
+    "del_hours": "0800-1600",
+    "equipment": "Van",
+    "weight_lbs": 44000,
+    "carrier_rate": 900,
+    "updated_at": "2026-11-04T13:25:08.781308+00:00",
+    "lane": "WADESBORO NC-ATLANTA GA"
   }
 ]
