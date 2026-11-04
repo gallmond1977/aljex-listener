@@ -47,7 +47,7 @@
     "equipment": "Flatbed",
     "weight_lbs": 44000,
     "carrier_rate": 900,
-    "updated_at": "2026-11-04T21:19:37.827697+00:00",
+    "updated_at": "2026-11-04T21:23:54.533341+00:00",
     "lane": "COLUMBIA SC-DORAVILLE GA"
   },
   {
@@ -270,6 +270,23 @@
     "carrier_rate": 1800,
     "updated_at": "2026-11-04T18:30:14.672555+00:00",
     "lane": "EL DORADO AR-CALHOUN GA"
+  },
+  {
+    "pro": "51314",
+    "status": "OPEN",
+    "pu_date": "2026-11-09",
+    "pu_city": "WINCHESTER",
+    "pu_state": "KY",
+    "pu_hours": "NEEDED",
+    "del_date": "2026-11-10",
+    "del_city": "JACKSONVILLE",
+    "del_state": "FL",
+    "del_hours": "ADREQD",
+    "equipment": "Van",
+    "weight_lbs": 5200,
+    "carrier_rate": 2800,
+    "updated_at": "2026-11-04T21:24:51.586824+00:00",
+    "lane": "WINCHESTER KY-JACKSONVILLE FL"
   },
   {
     "pro": "51252",
@@ -593,6 +610,23 @@
     "carrier_rate": 900,
     "updated_at": "2026-11-02T15:10:19.231613+00:00",
     "lane": "WADESBORO NC-ATLANTA GA"
+  },
+  {
+    "pro": "51119",
+    "status": "RELEASED",
+    "pu_date": "2026-10-27",
+    "pu_city": "WINCHESTER",
+    "pu_state": "KY",
+    "pu_hours": "1230",
+    "del_date": "2026-10-28",
+    "del_city": "JACKSONVILLE",
+    "del_state": "FL",
+    "del_hours": "1700",
+    "equipment": "Van",
+    "weight_lbs": 4200,
+    "carrier_rate": 3000,
+    "updated_at": "2026-10-30T02:34:36.708821+00:00",
+    "lane": "WINCHESTER KY-JACKSONVILLE FL"
   },
   {
     "pro": "51134",
