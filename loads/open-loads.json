@@ -391,6 +391,23 @@
     "lane": "PASADENA TX-PIEDMONT SC"
   },
   {
+    "pro": "50542",
+    "status": "OPEN",
+    "pu_date": "2026-11-13",
+    "pu_city": "OLD FORT",
+    "pu_state": "NC",
+    "pu_hours": "0800-1800",
+    "del_date": "",
+    "del_city": "COLUMBUS",
+    "del_state": "GA",
+    "del_hours": "GIVE ETA!",
+    "equipment": "Van",
+    "weight_lbs": 41500,
+    "carrier_rate": 1500,
+    "updated_at": "2026-11-04T14:58:20.904228+00:00",
+    "lane": "OLD FORT NC-COLUMBUS GA"
+  },
+  {
     "pro": "51251",
     "status": "OPEN",
     "pu_date": "2026-11-16",
@@ -780,23 +797,6 @@
     "carrier_rate": 900,
     "updated_at": "2026-11-03T23:42:23.923406+00:00",
     "lane": "WADESBORO NC-ATLANTA GA"
-  },
-  {
-    "pro": "50542",
-    "status": "COVERED",
-    "pu_date": "2026-11-04",
-    "pu_city": "OLD FORT",
-    "pu_state": "NC",
-    "pu_hours": "0800-1800",
-    "del_date": "",
-    "del_city": "COLUMBUS",
-    "del_state": "GA",
-    "del_hours": "GIVE ETA!",
-    "equipment": "Van",
-    "weight_lbs": 41500,
-    "carrier_rate": 1700,
-    "updated_at": "2026-11-04T14:48:10.827500+00:00",
-    "lane": "OLD FORT NC-COLUMBUS GA"
   },
   {
     "pro": "51267",
