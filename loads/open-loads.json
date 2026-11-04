@@ -63,8 +63,8 @@
     "del_hours": "0700",
     "equipment": "Van",
     "weight_lbs": 42000,
-    "carrier_rate": 2800,
-    "updated_at": "2026-11-02T19:29:10.748392+00:00",
+    "carrier_rate": 3000,
+    "updated_at": "2026-11-04T13:35:35.794144+00:00",
     "lane": "ATLANTA GA-BELLPORT NY"
   },
   {
@@ -166,7 +166,7 @@
     "equipment": "Van",
     "weight_lbs": 14580,
     "carrier_rate": 1000,
-    "updated_at": "2026-11-04T13:06:16.430740+00:00",
+    "updated_at": "2026-11-04T13:38:05.640403+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
@@ -302,7 +302,7 @@
     "equipment": "Van",
     "weight_lbs": 14580,
     "carrier_rate": 1000,
-    "updated_at": "2026-11-04T13:06:03.602364+00:00",
+    "updated_at": "2026-11-04T13:39:21.614923+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
