@@ -34,23 +34,6 @@
     "lane": "GREER SC-THOMASTON GA"
   },
   {
-    "pro": "51200",
-    "status": "OPEN",
-    "pu_date": "2026-11-05",
-    "pu_city": "COLUMBUS",
-    "pu_state": "GA",
-    "pu_hours": "0800-1500",
-    "del_date": "2026-11-06",
-    "del_city": "PENSACOLA",
-    "del_state": "FL",
-    "del_hours": "0700-1400",
-    "equipment": "Flatbed w/ Tarps",
-    "weight_lbs": 47478,
-    "carrier_rate": 1000,
-    "updated_at": "2026-10-29T15:08:37.875521+00:00",
-    "lane": "COLUMBUS GA-PENSACOLA FL"
-  },
-  {
     "pro": "51286",
     "status": "OPEN",
     "pu_date": "2026-11-05",
@@ -100,23 +83,6 @@
     "carrier_rate": 1600,
     "updated_at": "2026-11-04T16:54:21.604656+00:00",
     "lane": "COLUMBUS GA-SAINT LOUIS MO"
-  },
-  {
-    "pro": "51305",
-    "status": "OPEN",
-    "pu_date": "2026-11-05",
-    "pu_city": "RALEIGH",
-    "pu_state": "NC",
-    "pu_hours": "0800",
-    "del_date": "2026-11-05",
-    "del_city": "WINSTON SALEM",
-    "del_state": "NC",
-    "del_hours": "0800-1500",
-    "equipment": "Van",
-    "weight_lbs": 9882,
-    "carrier_rate": 500,
-    "updated_at": "2026-11-04T17:35:59.200221+00:00",
-    "lane": "RALEIGH NC-WINSTON SALEM NC"
   },
   {
     "pro": "51135",
@@ -765,23 +731,6 @@
     "lane": "WADESBORO NC-ATLANTA GA"
   },
   {
-    "pro": "51189",
-    "status": "RELEASED",
-    "pu_date": "2026-10-29",
-    "pu_city": "RALEIGH",
-    "pu_state": "NC",
-    "pu_hours": "0900",
-    "del_date": "2026-10-29",
-    "del_city": "WINSTON SALEM",
-    "del_state": "NC",
-    "del_hours": "0800-1500",
-    "equipment": "Van",
-    "weight_lbs": 7184,
-    "carrier_rate": 500,
-    "updated_at": "2026-11-02T15:53:53.300781+00:00",
-    "lane": "RALEIGH NC-WINSTON SALEM NC"
-  },
-  {
     "pro": "51120",
     "status": "RELEASED",
     "pu_date": "2026-10-30",
@@ -984,22 +933,5 @@
     "carrier_rate": 900,
     "updated_at": "2026-11-04T14:49:55.413418+00:00",
     "lane": "WADESBORO NC-ATLANTA GA"
-  },
-  {
-    "pro": "51306",
-    "status": "COVERED",
-    "pu_date": "2026-11-05",
-    "pu_city": "RALEIGH",
-    "pu_state": "NC",
-    "pu_hours": "0900",
-    "del_date": "2026-11-05",
-    "del_city": "WINSTON SALEM",
-    "del_state": "NC",
-    "del_hours": "0800-1500",
-    "equipment": "26' Straight Box Truck",
-    "weight_lbs": 1926,
-    "carrier_rate": 350,
-    "updated_at": "2026-11-04T17:41:10.470083+00:00",
-    "lane": "RALEIGH NC-WINSTON SALEM NC"
   }
 ]
