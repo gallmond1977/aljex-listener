@@ -34,6 +34,23 @@
     "lane": "WADESBORO NC-ATLANTA GA"
   },
   {
+    "pro": "51300",
+    "status": "OPEN",
+    "pu_date": "2026-11-04",
+    "pu_city": "GREER",
+    "pu_state": "SC",
+    "pu_hours": "0700-1500",
+    "del_date": "2026-11-05",
+    "del_city": "ZEBULON",
+    "del_state": "GA",
+    "del_hours": "0700-1500",
+    "equipment": "Van",
+    "weight_lbs": 16600,
+    "carrier_rate": null,
+    "updated_at": "2026-11-04T16:13:41.728142+00:00",
+    "lane": "GREER SC-ZEBULON GA"
+  },
+  {
     "pro": "51200",
     "status": "OPEN",
     "pu_date": "2026-11-05",
@@ -374,6 +391,23 @@
     "lane": "OLD FORT NC-COLUMBUS GA"
   },
   {
+    "pro": "51299",
+    "status": "OPEN",
+    "pu_date": "2026-11-13",
+    "pu_city": "PENDERGRASS",
+    "pu_state": "GA",
+    "pu_hours": "REQ",
+    "del_date": "2026-11-16",
+    "del_city": "ZEBULON",
+    "del_state": "NC",
+    "del_hours": "0700-0900",
+    "equipment": "Van",
+    "weight_lbs": 40124,
+    "carrier_rate": 1200,
+    "updated_at": "2026-11-04T16:12:20.781264+00:00",
+    "lane": "PENDERGRASS GA-ZEBULON NC"
+  },
+  {
     "pro": "51251",
     "status": "OPEN",
     "pu_date": "2026-11-16",
@@ -695,6 +729,23 @@
     "carrier_rate": 3600,
     "updated_at": "2026-11-02T15:34:57.801024+00:00",
     "lane": "WINCHESTER KY-UXBRIDGE MA"
+  },
+  {
+    "pro": "51172",
+    "status": "RELEASED",
+    "pu_date": "2026-10-30",
+    "pu_city": "PENDERGRASS",
+    "pu_state": "GA",
+    "pu_hours": "1300",
+    "del_date": "2026-11-02",
+    "del_city": "ZEBULON",
+    "del_state": "NC",
+    "del_hours": "0700-0900",
+    "equipment": "Van",
+    "weight_lbs": 40124,
+    "carrier_rate": 1200,
+    "updated_at": "2026-11-02T14:57:15.143987+00:00",
+    "lane": "PENDERGRASS GA-ZEBULON NC"
   },
   {
     "pro": "51130",
