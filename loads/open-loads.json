@@ -187,6 +187,23 @@
     "lane": "WADESBORO NC-ATLANTA GA"
   },
   {
+    "pro": "51294",
+    "status": "OPEN",
+    "pu_date": "2026-11-05",
+    "pu_city": "WHITEHALL",
+    "pu_state": "NY",
+    "pu_hours": "0700-1400",
+    "del_date": "2026-11-06",
+    "del_city": "TALLMADGE",
+    "del_state": "OH",
+    "del_hours": "CALL",
+    "equipment": "Van",
+    "weight_lbs": 45252,
+    "carrier_rate": null,
+    "updated_at": "2026-11-04T13:43:59.088253+00:00",
+    "lane": "WHITEHALL NY-TALLMADGE OH"
+  },
+  {
     "pro": "51135",
     "status": "OPEN",
     "pu_date": "2026-11-06",
