@@ -731,23 +731,6 @@
     "lane": "WADESBORO NC-ATLANTA GA"
   },
   {
-    "pro": "51262",
-    "status": "CONSIGNEE",
-    "pu_date": "2026-11-03",
-    "pu_city": "WADESBORO",
-    "pu_state": "NC",
-    "pu_hours": "0730-1630",
-    "del_date": "2026-11-04",
-    "del_city": "ATLANTA",
-    "del_state": "GA",
-    "del_hours": "0800-1600",
-    "equipment": "Van",
-    "weight_lbs": 44000,
-    "carrier_rate": 900,
-    "updated_at": "2026-11-04T19:47:50.192143+00:00",
-    "lane": "WADESBORO NC-ATLANTA GA"
-  },
-  {
     "pro": "51267",
     "status": "LOADED",
     "pu_date": "2026-11-04",
