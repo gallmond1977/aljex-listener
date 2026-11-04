@@ -34,6 +34,23 @@
     "lane": "PHENIX CITY AL-MIDLOTHIAN TX"
   },
   {
+    "pro": "51312",
+    "status": "OPEN",
+    "pu_date": "2026-11-05",
+    "pu_city": "TAMPA",
+    "pu_state": "FL",
+    "pu_hours": "NEED APPT",
+    "del_date": "2026-11-09",
+    "del_city": "GRAND PRAIRIE",
+    "del_state": "TX",
+    "del_hours": "NEED APPT",
+    "equipment": "Van",
+    "weight_lbs": 30500,
+    "carrier_rate": 1600,
+    "updated_at": "2026-11-04T20:34:53.671891+00:00",
+    "lane": "TAMPA FL-GRAND PRAIRIE TX"
+  },
+  {
     "pro": "51135",
     "status": "OPEN",
     "pu_date": "2026-11-06",
@@ -268,7 +285,7 @@
     "equipment": "Flatbed w/ Tarps",
     "weight_lbs": 46000,
     "carrier_rate": 800,
-    "updated_at": "2026-11-04T20:30:23.047546+00:00",
+    "updated_at": "2026-11-04T20:32:45.840274+00:00",
     "lane": "JACKSONVILLE TX-VIDOR TX"
   },
   {
