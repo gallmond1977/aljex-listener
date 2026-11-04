@@ -2,7 +2,7 @@
   {
     "pro": "51158",
     "status": "OPEN",
-    "pu_date": "2026-11-04",
+    "pu_date": "2026-11-05",
     "pu_city": "PORT ANGELES",
     "pu_state": "WA",
     "pu_hours": "0600-1600",
@@ -13,7 +13,7 @@
     "equipment": "Flatbed",
     "weight_lbs": 47500,
     "carrier_rate": 5750,
-    "updated_at": "2026-11-03T20:59:47.016224+00:00",
+    "updated_at": "2026-11-04T20:18:56.390389+00:00",
     "lane": "PORT ANGELES WA-RAPID CITY SD"
   },
   {
@@ -319,7 +319,7 @@
     "equipment": "Van",
     "weight_lbs": 44500,
     "carrier_rate": 850,
-    "updated_at": "2026-11-04T20:14:53.386660+00:00",
+    "updated_at": "2026-11-04T20:17:48.192144+00:00",
     "lane": "JACKSONVILLE TX-JACKSON MS"
   },
   {
