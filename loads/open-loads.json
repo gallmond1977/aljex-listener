@@ -47,7 +47,7 @@
     "equipment": "Flatbed",
     "weight_lbs": 44000,
     "carrier_rate": 900,
-    "updated_at": "2026-11-04T21:14:55.240798+00:00",
+    "updated_at": "2026-11-04T21:19:37.827697+00:00",
     "lane": "COLUMBIA SC-DORAVILLE GA"
   },
   {
@@ -868,7 +868,7 @@
   },
   {
     "pro": "51279",
-    "status": "PICKUP",
+    "status": "LOADED",
     "pu_date": "2026-11-04",
     "pu_city": "WADESBORO",
     "pu_state": "NC",
@@ -880,7 +880,7 @@
     "equipment": "Van",
     "weight_lbs": 44000,
     "carrier_rate": 900,
-    "updated_at": "2026-11-04T20:44:44.988889+00:00",
+    "updated_at": "2026-11-04T21:19:34.687196+00:00",
     "lane": "WADESBORO NC-ATLANTA GA"
   },
   {
