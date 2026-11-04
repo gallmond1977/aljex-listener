@@ -196,11 +196,11 @@
     "del_date": "2026-11-06",
     "del_city": "TALLMADGE",
     "del_state": "OH",
-    "del_hours": "CALL",
+    "del_hours": "0900",
     "equipment": "Van",
     "weight_lbs": 45252,
-    "carrier_rate": null,
-    "updated_at": "2026-11-04T13:43:59.088253+00:00",
+    "carrier_rate": 1350,
+    "updated_at": "2026-11-04T13:49:41.060676+00:00",
     "lane": "WHITEHALL NY-TALLMADGE OH"
   },
   {
