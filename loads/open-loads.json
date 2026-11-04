@@ -102,6 +102,23 @@
     "lane": "COLUMBUS GA-SAINT LOUIS MO"
   },
   {
+    "pro": "51305",
+    "status": "OPEN",
+    "pu_date": "2026-11-05",
+    "pu_city": "RALEIGH",
+    "pu_state": "NC",
+    "pu_hours": "0800",
+    "del_date": "2026-11-05",
+    "del_city": "WINSTON SALEM",
+    "del_state": "NC",
+    "del_hours": "0800-1500",
+    "equipment": "Van",
+    "weight_lbs": 9882,
+    "carrier_rate": 500,
+    "updated_at": "2026-11-04T17:10:04.982126+00:00",
+    "lane": "RALEIGH NC-WINSTON SALEM NC"
+  },
+  {
     "pro": "51135",
     "status": "OPEN",
     "pu_date": "2026-11-06",
@@ -321,6 +338,23 @@
     "carrier_rate": 250,
     "updated_at": "2026-11-04T16:56:52.130025+00:00",
     "lane": "GRENADA MS-AMORY MS"
+  },
+  {
+    "pro": "51304",
+    "status": "OPEN",
+    "pu_date": "2026-11-09",
+    "pu_city": "EL DORADO",
+    "pu_state": "AR",
+    "pu_hours": "0700-1500",
+    "del_date": "2026-11-10",
+    "del_city": "CALHOUN",
+    "del_state": "GA",
+    "del_hours": "0730-1400",
+    "equipment": "Van",
+    "weight_lbs": 43212,
+    "carrier_rate": 1800,
+    "updated_at": "2026-11-04T17:08:45.027885+00:00",
+    "lane": "EL DORADO AR-CALHOUN GA"
   },
   {
     "pro": "51252",
@@ -629,6 +663,23 @@
     "lane": "WADESBORO NC-ATLANTA GA"
   },
   {
+    "pro": "51134",
+    "status": "RELEASED",
+    "pu_date": "2026-10-27",
+    "pu_city": "EL DORADO",
+    "pu_state": "AR",
+    "pu_hours": "0700-1500",
+    "del_date": "2026-10-28",
+    "del_city": "CALHOUN",
+    "del_state": "GA",
+    "del_hours": "0730-1400",
+    "equipment": "Van",
+    "weight_lbs": 43006,
+    "carrier_rate": 1800,
+    "updated_at": "2026-11-02T14:30:16.088460+00:00",
+    "lane": "EL DORADO AR-CALHOUN GA"
+  },
+  {
     "pro": "51176",
     "status": "RELEASED",
     "pu_date": "2026-10-28",
@@ -712,6 +763,23 @@
     "carrier_rate": 850,
     "updated_at": "2026-10-30T15:37:57.592254+00:00",
     "lane": "WADESBORO NC-ATLANTA GA"
+  },
+  {
+    "pro": "51189",
+    "status": "RELEASED",
+    "pu_date": "2026-10-29",
+    "pu_city": "RALEIGH",
+    "pu_state": "NC",
+    "pu_hours": "0900",
+    "del_date": "2026-10-29",
+    "del_city": "WINSTON SALEM",
+    "del_state": "NC",
+    "del_hours": "0800-1500",
+    "equipment": "Van",
+    "weight_lbs": 7184,
+    "carrier_rate": 500,
+    "updated_at": "2026-11-02T15:53:53.300781+00:00",
+    "lane": "RALEIGH NC-WINSTON SALEM NC"
   },
   {
     "pro": "51120",
