@@ -68,23 +68,6 @@
     "lane": "MOUNT STERLING KY-MIRA LOMA CA"
   },
   {
-    "pro": "51166",
-    "status": "OPEN",
-    "pu_date": "2026-11-06",
-    "pu_city": "PHENIX CITY",
-    "pu_state": "AL",
-    "pu_hours": "0800-1200",
-    "del_date": "2026-11-09",
-    "del_city": "ROCKLAND",
-    "del_state": "ME",
-    "del_hours": "0800",
-    "equipment": "Van",
-    "weight_lbs": 35000,
-    "carrier_rate": 4100,
-    "updated_at": "2026-11-03T16:51:53.171457+00:00",
-    "lane": "PHENIX CITY AL-ROCKLAND ME"
-  },
-  {
     "pro": "51179",
     "status": "OPEN",
     "pu_date": "2026-11-06",
@@ -508,23 +491,6 @@
     "carrier_rate": 900,
     "updated_at": "2026-11-02T14:26:10.466954+00:00",
     "lane": "WADESBORO NC-ATLANTA GA"
-  },
-  {
-    "pro": "51073",
-    "status": "RELEASED",
-    "pu_date": "2026-10-26",
-    "pu_city": "PHENIX CITY",
-    "pu_state": "AL",
-    "pu_hours": "0800-1200",
-    "del_date": "2026-10-28",
-    "del_city": "ROCKLAND",
-    "del_state": "ME",
-    "del_hours": "1200-1400",
-    "equipment": "Van",
-    "weight_lbs": 35000,
-    "carrier_rate": 4200,
-    "updated_at": "2026-10-28T20:43:59.049722+00:00",
-    "lane": "PHENIX CITY AL-ROCKLAND ME"
   },
   {
     "pro": "51037",
