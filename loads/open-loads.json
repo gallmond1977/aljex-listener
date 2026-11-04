@@ -238,6 +238,23 @@
     "lane": "EL DORADO AR-CALHOUN GA"
   },
   {
+    "pro": "51309",
+    "status": "OPEN",
+    "pu_date": "2026-11-09",
+    "pu_city": "JACKSONVILLE",
+    "pu_state": "TX",
+    "pu_hours": "0800-1500",
+    "del_date": "",
+    "del_city": "VIDOR",
+    "del_state": "TX",
+    "del_hours": "",
+    "equipment": "Flatbed w/ Tarps",
+    "weight_lbs": 40000,
+    "carrier_rate": 800,
+    "updated_at": "2026-11-04T20:03:38.389015+00:00",
+    "lane": "JACKSONVILLE TX-VIDOR TX"
+  },
+  {
     "pro": "51252",
     "status": "OPEN",
     "pu_date": "2026-11-10",
@@ -778,7 +795,7 @@
     "equipment": "Flatbed",
     "weight_lbs": 44000,
     "carrier_rate": 900,
-    "updated_at": "2026-11-04T19:16:52.295573+00:00",
+    "updated_at": "2026-11-04T20:00:34.668161+00:00",
     "lane": "WADESBORO NC-ATLANTA GA"
   },
   {
