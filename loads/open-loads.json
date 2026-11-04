@@ -51,6 +51,23 @@
     "lane": "WADESBORO NC-ATLANTA GA"
   },
   {
+    "pro": "51297",
+    "status": "OPEN",
+    "pu_date": "2026-11-04",
+    "pu_city": "ROCK HILL",
+    "pu_state": "SC",
+    "pu_hours": "0800-1430",
+    "del_date": "2026-11-04",
+    "del_city": "PLEASANT GARDEN",
+    "del_state": "NC",
+    "del_hours": "",
+    "equipment": "Sprinter Van",
+    "weight_lbs": 250,
+    "carrier_rate": 300,
+    "updated_at": "2026-11-04T15:34:42.730515+00:00",
+    "lane": "ROCK HILL SC-PLEASANT GARDEN NC"
+  },
+  {
     "pro": "51200",
     "status": "OPEN",
     "pu_date": "2026-11-05",
