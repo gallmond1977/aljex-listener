@@ -464,7 +464,7 @@
     "pu_date": "2026-11-13",
     "pu_city": "PENDERGRASS",
     "pu_state": "GA",
-    "pu_hours": "REQ",
+    "pu_hours": "1430",
     "del_date": "2026-11-16",
     "del_city": "ZEBULON",
     "del_state": "NC",
@@ -472,7 +472,7 @@
     "equipment": "Van",
     "weight_lbs": 40124,
     "carrier_rate": 1200,
-    "updated_at": "2026-11-04T17:15:22.920815+00:00",
+    "updated_at": "2026-11-04T17:25:12.311946+00:00",
     "lane": "PENDERGRASS GA-ZEBULON NC"
   },
   {
@@ -919,7 +919,7 @@
   },
   {
     "pro": "51267",
-    "status": "DISPATCHED",
+    "status": "PICKUP",
     "pu_date": "2026-11-04",
     "pu_city": "OAKLAND",
     "pu_state": "TN",
@@ -931,7 +931,7 @@
     "equipment": "Van Hazmat",
     "weight_lbs": 42000,
     "carrier_rate": 2300,
-    "updated_at": "2026-11-04T16:55:32.800940+00:00",
+    "updated_at": "2026-11-04T17:25:12.546640+00:00",
     "lane": "OAKLAND TN-MIDLOTHIAN TX"
   },
   {
