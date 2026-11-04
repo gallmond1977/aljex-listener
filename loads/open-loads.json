@@ -115,7 +115,24 @@
     "equipment": "Van",
     "weight_lbs": 9882,
     "carrier_rate": 500,
-    "updated_at": "2026-11-04T17:10:04.982126+00:00",
+    "updated_at": "2026-11-04T17:10:24.561559+00:00",
+    "lane": "RALEIGH NC-WINSTON SALEM NC"
+  },
+  {
+    "pro": "51306",
+    "status": "OPEN",
+    "pu_date": "2026-11-05",
+    "pu_city": "RALEIGH",
+    "pu_state": "NC",
+    "pu_hours": "0900",
+    "del_date": "2026-11-05",
+    "del_city": "WINSTON SALEM",
+    "del_state": "NC",
+    "del_hours": "0800-1500",
+    "equipment": "26' Straight Box Truck",
+    "weight_lbs": 1926,
+    "carrier_rate": 300,
+    "updated_at": "2026-11-04T17:11:33.744287+00:00",
     "lane": "RALEIGH NC-WINSTON SALEM NC"
   },
   {
@@ -302,7 +319,7 @@
     "equipment": "Van",
     "weight_lbs": 4200,
     "carrier_rate": null,
-    "updated_at": "2026-11-04T13:19:54.772520+00:00",
+    "updated_at": "2026-11-04T17:12:41.164512+00:00",
     "lane": "WINCHESTER KY-BURLINGTON NJ"
   },
   {
