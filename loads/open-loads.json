@@ -85,23 +85,6 @@
     "lane": "AUGUSTA GA-TAMPA FL"
   },
   {
-    "pro": "51265",
-    "status": "OPEN",
-    "pu_date": "2026-11-04",
-    "pu_city": "COLUMBIA",
-    "pu_state": "SC",
-    "pu_hours": "0730-1530",
-    "del_date": "2026-11-05",
-    "del_city": "MACON",
-    "del_state": "GA",
-    "del_hours": "0800-1600",
-    "equipment": "Van",
-    "weight_lbs": 44000,
-    "carrier_rate": 800,
-    "updated_at": "2026-11-03T20:01:03.388227+00:00",
-    "lane": "COLUMBIA SC-MACON GA"
-  },
-  {
     "pro": "51279",
     "status": "OPEN",
     "pu_date": "2026-11-04",
@@ -151,23 +134,6 @@
     "carrier_rate": 700,
     "updated_at": "2026-11-03T21:19:05.588367+00:00",
     "lane": "SAVANNAH GA-DUBLIN GA"
-  },
-  {
-    "pro": "51290",
-    "status": "OPEN",
-    "pu_date": "2026-11-04",
-    "pu_city": "PLEASANT GARDEN",
-    "pu_state": "NC",
-    "pu_hours": "0700-1000",
-    "del_date": "2026-11-04",
-    "del_city": "CONWAY",
-    "del_state": "SC",
-    "del_hours": "0800-1530",
-    "equipment": "26' Straight Box Truck",
-    "weight_lbs": 1500,
-    "carrier_rate": 500,
-    "updated_at": "2026-11-04T13:28:11.599914+00:00",
-    "lane": "PLEASANT GARDEN NC-CONWAY SC"
   },
   {
     "pro": "51200",
@@ -916,23 +882,6 @@
     "carrier_rate": 900,
     "updated_at": "2026-11-03T23:42:23.923406+00:00",
     "lane": "WADESBORO NC-ATLANTA GA"
-  },
-  {
-    "pro": "51264",
-    "status": "LOADED",
-    "pu_date": "2026-11-03",
-    "pu_city": "COLUMBIA",
-    "pu_state": "SC",
-    "pu_hours": "0730-1530",
-    "del_date": "2026-11-04",
-    "del_city": "MACON",
-    "del_state": "GA",
-    "del_hours": "0800-1600",
-    "equipment": "Van",
-    "weight_lbs": 44000,
-    "carrier_rate": 825,
-    "updated_at": "2026-11-03T21:10:24.576989+00:00",
-    "lane": "COLUMBIA SC-MACON GA"
   },
   {
     "pro": "51267",
