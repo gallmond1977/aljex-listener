@@ -17,23 +17,6 @@
     "lane": "PORT ANGELES WA-RAPID CITY SD"
   },
   {
-    "pro": "51286",
-    "status": "OPEN",
-    "pu_date": "2026-11-05",
-    "pu_city": "WADESBORO",
-    "pu_state": "NC",
-    "pu_hours": "0730-1630",
-    "del_date": "2026-11-06",
-    "del_city": "ATLANTA",
-    "del_state": "GA",
-    "del_hours": "0800-1600",
-    "equipment": "Van",
-    "weight_lbs": 44000,
-    "carrier_rate": 900,
-    "updated_at": "2026-11-04T14:51:39.337806+00:00",
-    "lane": "WADESBORO NC-ATLANTA GA"
-  },
-  {
     "pro": "51298",
     "status": "OPEN",
     "pu_date": "2026-11-05",
@@ -64,7 +47,7 @@
     "equipment": "Van",
     "weight_lbs": 5500,
     "carrier_rate": 800,
-    "updated_at": "2026-11-04T18:33:44.709551+00:00",
+    "updated_at": "2026-11-04T18:35:53.216317+00:00",
     "lane": "COLUMBUS GA-BIRMINGHAM AL"
   },
   {
@@ -800,7 +783,7 @@
   },
   {
     "pro": "51262",
-    "status": "LOADED",
+    "status": "CONSIGNEE",
     "pu_date": "2026-11-03",
     "pu_city": "WADESBORO",
     "pu_state": "NC",
@@ -812,7 +795,7 @@
     "equipment": "Van",
     "weight_lbs": 44000,
     "carrier_rate": 900,
-    "updated_at": "2026-11-04T15:27:30.104961+00:00",
+    "updated_at": "2026-11-04T18:39:46.412405+00:00",
     "lane": "WADESBORO NC-ATLANTA GA"
   },
   {
@@ -846,12 +829,12 @@
     "equipment": "Van",
     "weight_lbs": 44000,
     "carrier_rate": 900,
-    "updated_at": "2026-11-04T17:05:07.955277+00:00",
+    "updated_at": "2026-11-04T18:39:43.274256+00:00",
     "lane": "WADESBORO NC-ATLANTA GA"
   },
   {
     "pro": "51280",
-    "status": "COVERED",
+    "status": "DISPATCHED",
     "pu_date": "2026-11-04",
     "pu_city": "WADESBORO",
     "pu_state": "NC",
@@ -863,7 +846,7 @@
     "equipment": "Flatbed",
     "weight_lbs": 44000,
     "carrier_rate": 900,
-    "updated_at": "2026-11-04T17:27:42.427404+00:00",
+    "updated_at": "2026-11-04T18:39:27.418714+00:00",
     "lane": "WADESBORO NC-ATLANTA GA"
   },
   {
@@ -898,6 +881,23 @@
     "weight_lbs": 44000,
     "carrier_rate": 900,
     "updated_at": "2026-11-04T14:49:55.413418+00:00",
+    "lane": "WADESBORO NC-ATLANTA GA"
+  },
+  {
+    "pro": "51286",
+    "status": "COVERED",
+    "pu_date": "2026-11-05",
+    "pu_city": "WADESBORO",
+    "pu_state": "NC",
+    "pu_hours": "0730-1630",
+    "del_date": "2026-11-06",
+    "del_city": "ATLANTA",
+    "del_state": "GA",
+    "del_hours": "0800-1600",
+    "equipment": "Van",
+    "weight_lbs": 44000,
+    "carrier_rate": 900,
+    "updated_at": "2026-11-04T18:38:08.968723+00:00",
     "lane": "WADESBORO NC-ATLANTA GA"
   }
 ]
