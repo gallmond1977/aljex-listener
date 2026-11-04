@@ -166,7 +166,7 @@
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 1500,
     "carrier_rate": 500,
-    "updated_at": "2026-11-04T13:24:28.831796+00:00",
+    "updated_at": "2026-11-04T13:28:11.599914+00:00",
     "lane": "PLEASANT GARDEN NC-CONWAY SC"
   },
   {
@@ -414,14 +414,14 @@
     "pu_city": "WINCHESTER",
     "pu_state": "KY",
     "pu_hours": "NEEDED",
-    "del_date": "2026-11-10",
+    "del_date": "2026-11-11",
     "del_city": "UXBRIDGE",
     "del_state": "MA",
     "del_hours": "REQ",
     "equipment": "Van",
     "weight_lbs": 5000,
     "carrier_rate": null,
-    "updated_at": "2026-11-04T13:22:19.142683+00:00",
+    "updated_at": "2026-11-04T13:28:58.554470+00:00",
     "lane": "WINCHESTER KY-UXBRIDGE MA"
   },
   {
