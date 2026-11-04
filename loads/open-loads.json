@@ -34,23 +34,6 @@
     "lane": "WADESBORO NC-ATLANTA GA"
   },
   {
-    "pro": "51300",
-    "status": "OPEN",
-    "pu_date": "2026-11-04",
-    "pu_city": "GREER",
-    "pu_state": "SC",
-    "pu_hours": "0700-1500",
-    "del_date": "2026-11-05",
-    "del_city": "ZEBULON",
-    "del_state": "GA",
-    "del_hours": "0700-1500",
-    "equipment": "Van",
-    "weight_lbs": 16600,
-    "carrier_rate": 750,
-    "updated_at": "2026-11-04T16:16:49.161752+00:00",
-    "lane": "GREER SC-ZEBULON GA"
-  },
-  {
     "pro": "51302",
     "status": "OPEN",
     "pu_date": "2026-11-04",
@@ -335,8 +318,8 @@
     "del_hours": "0700-1600",
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 5000,
-    "carrier_rate": null,
-    "updated_at": "2026-11-04T16:24:58.053748+00:00",
+    "carrier_rate": 250,
+    "updated_at": "2026-11-04T16:28:56.041245+00:00",
     "lane": "GRENADA MS-AMORY MS"
   },
   {
