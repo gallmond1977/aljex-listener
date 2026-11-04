@@ -51,23 +51,6 @@
     "lane": "AUGUSTA GA-TAMPA FL"
   },
   {
-    "pro": "51270",
-    "status": "OPEN",
-    "pu_date": "2026-11-04",
-    "pu_city": "SAVANNAH",
-    "pu_state": "GA",
-    "pu_hours": "0800-1200",
-    "del_date": "2026-11-05",
-    "del_city": "SUMMERVILLE",
-    "del_state": "SC",
-    "del_hours": "0800",
-    "equipment": "Flatbed",
-    "weight_lbs": 44800,
-    "carrier_rate": 700,
-    "updated_at": "2026-11-04T14:37:11.757848+00:00",
-    "lane": "SAVANNAH GA-SUMMERVILLE SC"
-  },
-  {
     "pro": "51279",
     "status": "OPEN",
     "pu_date": "2026-11-04",
@@ -81,7 +64,7 @@
     "equipment": "Van",
     "weight_lbs": 44000,
     "carrier_rate": 900,
-    "updated_at": "2026-11-03T21:10:00.896764+00:00",
+    "updated_at": "2026-11-04T14:45:08.379101+00:00",
     "lane": "WADESBORO NC-ATLANTA GA"
   },
   {
@@ -829,7 +812,7 @@
     "equipment": "Van",
     "weight_lbs": 41500,
     "carrier_rate": 1500,
-    "updated_at": "2026-11-04T14:40:12.470203+00:00",
+    "updated_at": "2026-11-04T14:40:30.422098+00:00",
     "lane": "OLD FORT NC-COLUMBUS GA"
   },
   {
