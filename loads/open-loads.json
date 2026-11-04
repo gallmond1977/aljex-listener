@@ -80,8 +80,8 @@
     "del_hours": "1030",
     "equipment": "Van",
     "weight_lbs": 4800,
-    "carrier_rate": null,
-    "updated_at": "2026-10-27T12:09:22.919663+00:00",
+    "carrier_rate": 4300,
+    "updated_at": "2026-11-04T18:19:22.032214+00:00",
     "lane": "MOUNT STERLING KY-MIRA LOMA CA"
   },
   {
