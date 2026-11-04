@@ -47,7 +47,7 @@
     "equipment": "Van",
     "weight_lbs": 5500,
     "carrier_rate": 800,
-    "updated_at": "2026-11-04T18:59:52.686568+00:00",
+    "updated_at": "2026-11-04T19:00:17.200526+00:00",
     "lane": "COLUMBUS GA-BIRMINGHAM AL"
   },
   {
@@ -800,7 +800,7 @@
   },
   {
     "pro": "51267",
-    "status": "PICKUP",
+    "status": "LOADED",
     "pu_date": "2026-11-04",
     "pu_city": "OAKLAND",
     "pu_state": "TN",
@@ -812,12 +812,12 @@
     "equipment": "Van Hazmat",
     "weight_lbs": 42000,
     "carrier_rate": 2300,
-    "updated_at": "2026-11-04T17:25:12.546640+00:00",
+    "updated_at": "2026-11-04T19:05:01.181426+00:00",
     "lane": "OAKLAND TN-MIDLOTHIAN TX"
   },
   {
     "pro": "51279",
-    "status": "DISPATCHED",
+    "status": "PICKUP",
     "pu_date": "2026-11-04",
     "pu_city": "WADESBORO",
     "pu_state": "NC",
@@ -829,7 +829,7 @@
     "equipment": "Van",
     "weight_lbs": 44000,
     "carrier_rate": 900,
-    "updated_at": "2026-11-04T18:39:43.274256+00:00",
+    "updated_at": "2026-11-04T19:03:18.538225+00:00",
     "lane": "WADESBORO NC-ATLANTA GA"
   },
   {
