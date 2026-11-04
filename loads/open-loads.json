@@ -85,23 +85,6 @@
     "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
-    "pro": "51225",
-    "status": "OPEN",
-    "pu_date": "2026-11-06",
-    "pu_city": "GARLAND",
-    "pu_state": "TX",
-    "pu_hours": "1200-1500",
-    "del_date": "2026-11-09",
-    "del_city": "CALHOUN",
-    "del_state": "GA",
-    "del_hours": "0730-1400",
-    "equipment": "Van",
-    "weight_lbs": 42523,
-    "carrier_rate": 1900,
-    "updated_at": "2026-11-04T22:23:53.148813+00:00",
-    "lane": "GARLAND TX-CALHOUN GA"
-  },
-  {
     "pro": "51283",
     "status": "OPEN",
     "pu_date": "2026-11-06",
@@ -931,7 +914,7 @@
     "equipment": "Flatbed",
     "weight_lbs": 44000,
     "carrier_rate": 900,
-    "updated_at": "2026-11-04T22:16:15.329026+00:00",
+    "updated_at": "2026-11-04T22:27:02.287975+00:00",
     "lane": "WADESBORO NC-ATLANTA GA"
   },
   {
@@ -984,5 +967,22 @@
     "carrier_rate": 900,
     "updated_at": "2026-11-04T18:38:08.968723+00:00",
     "lane": "WADESBORO NC-ATLANTA GA"
+  },
+  {
+    "pro": "51225",
+    "status": "COVERED",
+    "pu_date": "2026-11-06",
+    "pu_city": "GARLAND",
+    "pu_state": "TX",
+    "pu_hours": "1200-1500",
+    "del_date": "2026-11-09",
+    "del_city": "CALHOUN",
+    "del_state": "GA",
+    "del_hours": "0730-1400",
+    "equipment": "Van",
+    "weight_lbs": 42523,
+    "carrier_rate": 1900,
+    "updated_at": "2026-11-04T22:26:15.770113+00:00",
+    "lane": "GARLAND TX-CALHOUN GA"
   }
 ]
