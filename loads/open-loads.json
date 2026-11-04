@@ -119,23 +119,6 @@
     "lane": "GARLAND TX-CALHOUN GA"
   },
   {
-    "pro": "51273",
-    "status": "OPEN",
-    "pu_date": "2026-11-06",
-    "pu_city": "ROME",
-    "pu_state": "GA",
-    "pu_hours": "1100-1200",
-    "del_date": "2026-11-09",
-    "del_city": "BELCAMP",
-    "del_state": "MD",
-    "del_hours": "0700-1500",
-    "equipment": "Conestoga",
-    "weight_lbs": 40000,
-    "carrier_rate": 3500,
-    "updated_at": "2026-11-04T19:08:45.766249+00:00",
-    "lane": "ROME GA-BELCAMP MD"
-  },
-  {
     "pro": "51283",
     "status": "OPEN",
     "pu_date": "2026-11-06",
