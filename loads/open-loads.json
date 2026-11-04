@@ -27,10 +27,10 @@
     "del_city": "ATLANTA",
     "del_state": "GA",
     "del_hours": "0800-1600",
-    "equipment": "Van",
+    "equipment": "Flatbed",
     "weight_lbs": 44000,
     "carrier_rate": 900,
-    "updated_at": "2026-11-04T14:46:05.183244+00:00",
+    "updated_at": "2026-11-04T16:57:46.543437+00:00",
     "lane": "WADESBORO NC-ATLANTA GA"
   },
   {
@@ -336,7 +336,7 @@
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 5000,
     "carrier_rate": 250,
-    "updated_at": "2026-11-04T16:50:04.661023+00:00",
+    "updated_at": "2026-11-04T16:56:52.130025+00:00",
     "lane": "GRENADA MS-AMORY MS"
   },
   {
@@ -863,7 +863,7 @@
     "equipment": "Van Hazmat",
     "weight_lbs": 42000,
     "carrier_rate": 2300,
-    "updated_at": "2026-11-04T16:55:13.010819+00:00",
+    "updated_at": "2026-11-04T16:55:32.800940+00:00",
     "lane": "OAKLAND TN-MIDLOTHIAN TX"
   },
   {
