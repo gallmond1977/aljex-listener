@@ -17,23 +17,6 @@
     "lane": "PORT ANGELES WA-RAPID CITY SD"
   },
   {
-    "pro": "51279",
-    "status": "OPEN",
-    "pu_date": "2026-11-04",
-    "pu_city": "WADESBORO",
-    "pu_state": "NC",
-    "pu_hours": "0730-1630",
-    "del_date": "2026-11-05",
-    "del_city": "ATLANTA",
-    "del_state": "GA",
-    "del_hours": "0800-1600",
-    "equipment": "Van",
-    "weight_lbs": 44000,
-    "carrier_rate": 900,
-    "updated_at": "2026-11-04T14:45:16.457034+00:00",
-    "lane": "WADESBORO NC-ATLANTA GA"
-  },
-  {
     "pro": "51280",
     "status": "OPEN",
     "pu_date": "2026-11-04",
@@ -85,23 +68,6 @@
     "lane": "COLUMBUS GA-PENSACOLA FL"
   },
   {
-    "pro": "51282",
-    "status": "OPEN",
-    "pu_date": "2026-11-05",
-    "pu_city": "WINCHESTER",
-    "pu_state": "KY",
-    "pu_hours": "1300-1500",
-    "del_date": "2026-11-06",
-    "del_city": "JOLIET",
-    "del_state": "IL",
-    "del_hours": "1230",
-    "equipment": "Van",
-    "weight_lbs": 14580,
-    "carrier_rate": 1000,
-    "updated_at": "2026-11-04T14:31:30.696355+00:00",
-    "lane": "WINCHESTER KY-JOLIET IL"
-  },
-  {
     "pro": "51286",
     "status": "OPEN",
     "pu_date": "2026-11-05",
@@ -131,8 +97,8 @@
     "del_hours": "0800-1400",
     "equipment": "Flatbed",
     "weight_lbs": 12000,
-    "carrier_rate": 2300,
-    "updated_at": "2026-11-04T15:50:17.695563+00:00",
+    "carrier_rate": 2400,
+    "updated_at": "2026-11-04T16:00:10.375084+00:00",
     "lane": "PHENIX CITY AL-MIDLOTHIAN TX"
   },
   {
@@ -831,6 +797,40 @@
     "carrier_rate": 2300,
     "updated_at": "2026-11-04T15:14:00.337832+00:00",
     "lane": "OAKLAND TN-MIDLOTHIAN TX"
+  },
+  {
+    "pro": "51279",
+    "status": "COVERED",
+    "pu_date": "2026-11-04",
+    "pu_city": "WADESBORO",
+    "pu_state": "NC",
+    "pu_hours": "0730-1630",
+    "del_date": "2026-11-05",
+    "del_city": "ATLANTA",
+    "del_state": "GA",
+    "del_hours": "0800-1600",
+    "equipment": "Van",
+    "weight_lbs": 44000,
+    "carrier_rate": 900,
+    "updated_at": "2026-11-04T15:59:45.729103+00:00",
+    "lane": "WADESBORO NC-ATLANTA GA"
+  },
+  {
+    "pro": "51282",
+    "status": "COVERED",
+    "pu_date": "2026-11-05",
+    "pu_city": "WINCHESTER",
+    "pu_state": "KY",
+    "pu_hours": "1300-1500",
+    "del_date": "2026-11-06",
+    "del_city": "JOLIET",
+    "del_state": "IL",
+    "del_hours": "1230",
+    "equipment": "Van",
+    "weight_lbs": 14580,
+    "carrier_rate": 1000,
+    "updated_at": "2026-11-04T15:57:14.355697+00:00",
+    "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
     "pro": "51285",
