@@ -63,8 +63,8 @@
     "del_hours": "0800-1500",
     "equipment": "Van",
     "weight_lbs": 44000,
-    "carrier_rate": null,
-    "updated_at": "2026-11-04T16:18:35.925373+00:00",
+    "carrier_rate": 750,
+    "updated_at": "2026-11-04T16:21:21.851729+00:00",
     "lane": "GREER SC-THOMASTON GA"
   },
   {
@@ -336,7 +336,7 @@
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 5000,
     "carrier_rate": null,
-    "updated_at": "2026-11-04T16:16:38.917989+00:00",
+    "updated_at": "2026-11-04T16:24:58.053748+00:00",
     "lane": "GRENADA MS-AMORY MS"
   },
   {
