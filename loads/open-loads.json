@@ -47,7 +47,7 @@
     "equipment": "Flatbed",
     "weight_lbs": 12000,
     "carrier_rate": 2800,
-    "updated_at": "2026-11-05T13:49:11.886993+00:00",
+    "updated_at": "2026-11-05T13:54:05.465090+00:00",
     "lane": "PHENIX CITY AL-MIDLOTHIAN TX"
   },
   {
@@ -77,11 +77,11 @@
     "del_date": "2026-11-09",
     "del_city": "JOLIET",
     "del_state": "IL",
-    "del_hours": "0000",
+    "del_hours": "1200",
     "equipment": "Van",
     "weight_lbs": 10295,
     "carrier_rate": 1000,
-    "updated_at": "2026-11-05T13:46:27.143230+00:00",
+    "updated_at": "2026-11-05T13:55:15.856483+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
@@ -98,7 +98,7 @@
     "equipment": "Flatbed w/ Tarps",
     "weight_lbs": 42000,
     "carrier_rate": 3200,
-    "updated_at": "2026-11-05T13:23:31.967258+00:00",
+    "updated_at": "2026-11-05T13:54:14.979817+00:00",
     "lane": "ALPHARETTA GA-BELCAMP MD"
   },
   {
@@ -132,7 +132,7 @@
     "equipment": "Van",
     "weight_lbs": 12000,
     "carrier_rate": 1100,
-    "updated_at": "2026-11-05T12:49:43.929179+00:00",
+    "updated_at": "2026-11-05T13:52:03.233952+00:00",
     "lane": "COLUMBUS GA-JOHNSON CITY TN"
   },
   {
