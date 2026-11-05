@@ -200,7 +200,24 @@
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 2670,
     "carrier_rate": 800,
-    "updated_at": "2026-11-05T16:50:09.531235+00:00",
+    "updated_at": "2026-11-05T16:50:46.041431+00:00",
+    "lane": "BUFFALO NY-BELCAMP MD"
+  },
+  {
+    "pro": "51322",
+    "status": "OPEN",
+    "pu_date": "2026-11-09",
+    "pu_city": "BUFFALO",
+    "pu_state": "NY",
+    "pu_hours": "1100-1500",
+    "del_date": "2026-11-10",
+    "del_city": "BELCAMP",
+    "del_state": "MD",
+    "del_hours": "0700-1500",
+    "equipment": "Van",
+    "weight_lbs": 17809,
+    "carrier_rate": 1700,
+    "updated_at": "2026-11-05T16:53:18.418319+00:00",
     "lane": "BUFFALO NY-BELCAMP MD"
   },
   {
@@ -523,7 +540,7 @@
     "equipment": "Van",
     "weight_lbs": 41328,
     "carrier_rate": null,
-    "updated_at": "2026-11-05T13:04:28.810012+00:00",
+    "updated_at": "2026-11-05T16:51:53.885923+00:00",
     "lane": "LA PORTE TX-PIEDMONT SC"
   },
   {
