@@ -34,6 +34,23 @@
     "lane": "WADESBORO NC-ATLANTA GA"
   },
   {
+    "pro": "51286",
+    "status": "OPEN",
+    "pu_date": "2026-11-05",
+    "pu_city": "WADESBORO",
+    "pu_state": "NC",
+    "pu_hours": "0730-1630",
+    "del_date": "2026-11-06",
+    "del_city": "ATLANTA",
+    "del_state": "GA",
+    "del_hours": "0800-1600",
+    "equipment": "Van",
+    "weight_lbs": 44000,
+    "carrier_rate": 900,
+    "updated_at": "2026-11-05T14:03:34.008827+00:00",
+    "lane": "WADESBORO NC-ATLANTA GA"
+  },
+  {
     "pro": "51298",
     "status": "OPEN",
     "pu_date": "2026-11-05",
@@ -83,23 +100,6 @@
     "carrier_rate": 1000,
     "updated_at": "2026-11-05T13:55:34.862022+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
-  },
-  {
-    "pro": "51311",
-    "status": "OPEN",
-    "pu_date": "2026-11-06",
-    "pu_city": "ALPHARETTA",
-    "pu_state": "GA",
-    "pu_hours": "0900-1600",
-    "del_date": "2026-11-09",
-    "del_city": "BELCAMP",
-    "del_state": "MD",
-    "del_hours": "0700-1300",
-    "equipment": "Flatbed w/ Tarps",
-    "weight_lbs": 42000,
-    "carrier_rate": 3300,
-    "updated_at": "2026-11-05T13:58:02.607218+00:00",
-    "lane": "ALPHARETTA GA-BELCAMP MD"
   },
   {
     "pro": "51312",
@@ -680,23 +680,6 @@
     "lane": "EL DORADO AR-CALHOUN GA"
   },
   {
-    "pro": "51143",
-    "status": "RELEASED",
-    "pu_date": "2026-10-28",
-    "pu_city": "ALPHARETTA",
-    "pu_state": "GA",
-    "pu_hours": "1200-1800",
-    "del_date": "2026-10-29",
-    "del_city": "BELCAMP",
-    "del_state": "MD",
-    "del_hours": "0700-1500",
-    "equipment": "Conestoga",
-    "weight_lbs": 42000,
-    "carrier_rate": 3300,
-    "updated_at": "2026-10-29T20:50:17.541478+00:00",
-    "lane": "ALPHARETTA GA-BELCAMP MD"
-  },
-  {
     "pro": "51176",
     "status": "RELEASED",
     "pu_date": "2026-10-28",
@@ -782,23 +765,6 @@
     "lane": "WADESBORO NC-ATLANTA GA"
   },
   {
-    "pro": "51194",
-    "status": "RELEASED",
-    "pu_date": "2026-10-29",
-    "pu_city": "ALPHARETTA",
-    "pu_state": "GA",
-    "pu_hours": "0900-1700",
-    "del_date": "2026-10-30",
-    "del_city": "BELCAMP",
-    "del_state": "MD",
-    "del_hours": "0700-1300",
-    "equipment": "Flatbed w/ Tarps",
-    "weight_lbs": 42000,
-    "carrier_rate": 3300,
-    "updated_at": "2026-10-30T18:37:59.686740+00:00",
-    "lane": "ALPHARETTA GA-BELCAMP MD"
-  },
-  {
     "pro": "51120",
     "status": "RELEASED",
     "pu_date": "2026-10-30",
@@ -848,23 +814,6 @@
     "carrier_rate": 1200,
     "updated_at": "2026-11-02T14:57:15.143987+00:00",
     "lane": "PENDERGRASS GA-ZEBULON NC"
-  },
-  {
-    "pro": "51193",
-    "status": "RELEASED",
-    "pu_date": "2026-10-30",
-    "pu_city": "ALPHARETTA",
-    "pu_state": "GA",
-    "pu_hours": "0900-1700",
-    "del_date": "2026-11-02",
-    "del_city": "BELCAMP",
-    "del_state": "MD",
-    "del_hours": "0700-1500",
-    "equipment": "Conestoga",
-    "weight_lbs": 42000,
-    "carrier_rate": 3300,
-    "updated_at": "2026-11-02T16:39:59.480350+00:00",
-    "lane": "ALPHARETTA GA-BELCAMP MD"
   },
   {
     "pro": "51130",
@@ -984,23 +933,6 @@
     "carrier_rate": 1000,
     "updated_at": "2026-11-05T13:11:37.493998+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
-  },
-  {
-    "pro": "51286",
-    "status": "DISPATCHED",
-    "pu_date": "2026-11-05",
-    "pu_city": "WADESBORO",
-    "pu_state": "NC",
-    "pu_hours": "0730-1630",
-    "del_date": "2026-11-06",
-    "del_city": "ATLANTA",
-    "del_state": "GA",
-    "del_hours": "0800-1600",
-    "equipment": "Van",
-    "weight_lbs": 44000,
-    "carrier_rate": 900,
-    "updated_at": "2026-11-05T13:58:39.537571+00:00",
-    "lane": "WADESBORO NC-ATLANTA GA"
   },
   {
     "pro": "51225",
