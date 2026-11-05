@@ -17,23 +17,6 @@
     "lane": "PORT ANGELES WA-RAPID CITY SD"
   },
   {
-    "pro": "51285",
-    "status": "OPEN",
-    "pu_date": "2026-11-05",
-    "pu_city": "WADESBORO",
-    "pu_state": "NC",
-    "pu_hours": "0730-1630",
-    "del_date": "2026-11-06",
-    "del_city": "ATLANTA",
-    "del_state": "GA",
-    "del_hours": "0800-1600",
-    "equipment": "Van",
-    "weight_lbs": 44000,
-    "carrier_rate": 900,
-    "updated_at": "2026-11-05T13:23:33.824041+00:00",
-    "lane": "WADESBORO NC-ATLANTA GA"
-  },
-  {
     "pro": "51298",
     "status": "OPEN",
     "pu_date": "2026-11-05",
@@ -100,6 +83,23 @@
     "carrier_rate": 1000,
     "updated_at": "2026-11-05T13:55:34.862022+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
+  },
+  {
+    "pro": "51285",
+    "status": "OPEN",
+    "pu_date": "2026-11-06",
+    "pu_city": "WADESBORO",
+    "pu_state": "NC",
+    "pu_hours": "0730-1630",
+    "del_date": "2026-11-09",
+    "del_city": "ATLANTA",
+    "del_state": "GA",
+    "del_hours": "0800-1600",
+    "equipment": "Van",
+    "weight_lbs": 44000,
+    "carrier_rate": 900,
+    "updated_at": "2026-11-05T15:59:01.458303+00:00",
+    "lane": "WADESBORO NC-ATLANTA GA"
   },
   {
     "pro": "51224",
