@@ -489,7 +489,7 @@
     "equipment": "Van",
     "weight_lbs": 42000,
     "carrier_rate": null,
-    "updated_at": "2026-11-05T12:59:57.595823+00:00",
+    "updated_at": "2026-11-05T13:01:11.797180+00:00",
     "lane": "LA PORTE TX-PIEDMONT SC"
   },
   {
@@ -575,6 +575,40 @@
     "weight_lbs": 41667,
     "carrier_rate": null,
     "updated_at": "2026-10-22T18:15:37.833153+00:00",
+    "lane": "LA PORTE TX-PIEDMONT SC"
+  },
+  {
+    "pro": "51317",
+    "status": "OPEN",
+    "pu_date": "2027-01-05",
+    "pu_city": "LA PORTE",
+    "pu_state": "TX",
+    "pu_hours": "NEEDED",
+    "del_date": "2027-01-07",
+    "del_city": "PIEDMONT",
+    "del_state": "SC",
+    "del_hours": "0630-1300",
+    "equipment": "Van",
+    "weight_lbs": 42000,
+    "carrier_rate": null,
+    "updated_at": "2026-11-05T13:02:35.878807+00:00",
+    "lane": "LA PORTE TX-PIEDMONT SC"
+  },
+  {
+    "pro": "51318",
+    "status": "OPEN",
+    "pu_date": "2027-01-12",
+    "pu_city": "LA PORTE",
+    "pu_state": "TX",
+    "pu_hours": "0800-1430",
+    "del_date": "2027-01-14",
+    "del_city": "PIEDMONT",
+    "del_state": "SC",
+    "del_hours": "0630-1300",
+    "equipment": "Van",
+    "weight_lbs": 41328,
+    "carrier_rate": null,
+    "updated_at": "2026-11-05T13:04:28.810012+00:00",
     "lane": "LA PORTE TX-PIEDMONT SC"
   },
   {
@@ -965,7 +999,7 @@
     "equipment": "Van",
     "weight_lbs": 14580,
     "carrier_rate": 1000,
-    "updated_at": "2026-11-04T16:01:44.599731+00:00",
+    "updated_at": "2026-11-05T13:03:28.530122+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
