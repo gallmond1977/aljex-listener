@@ -119,23 +119,6 @@
     "lane": "GARLAND TX-CALHOUN GA"
   },
   {
-    "pro": "51269",
-    "status": "OPEN",
-    "pu_date": "2026-11-09",
-    "pu_city": "LA PORTE",
-    "pu_state": "TX",
-    "pu_hours": "0800-1430",
-    "del_date": "2026-11-11",
-    "del_city": "PIEDMONT",
-    "del_state": "SC",
-    "del_hours": "0630-1300",
-    "equipment": "Van",
-    "weight_lbs": 41328,
-    "carrier_rate": null,
-    "updated_at": "2026-11-03T13:06:38.804256+00:00",
-    "lane": "LA PORTE TX-PIEDMONT SC"
-  },
-  {
     "pro": "51291",
     "status": "OPEN",
     "pu_date": "2026-11-09",
@@ -251,7 +234,7 @@
     "equipment": "Van",
     "weight_lbs": 44960,
     "carrier_rate": null,
-    "updated_at": "2026-11-05T14:43:18.183115+00:00",
+    "updated_at": "2026-11-05T14:59:07.130672+00:00",
     "lane": "PASADENA TX-PIEDMONT SC"
   },
   {
@@ -950,5 +933,22 @@
     "carrier_rate": 900,
     "updated_at": "2026-11-05T13:23:25.430141+00:00",
     "lane": "WADESBORO NC-ATLANTA GA"
+  },
+  {
+    "pro": "51269",
+    "status": "COVERED",
+    "pu_date": "2026-11-09",
+    "pu_city": "LA PORTE",
+    "pu_state": "TX",
+    "pu_hours": "0800-1430",
+    "del_date": "2026-11-11",
+    "del_city": "PIEDMONT",
+    "del_state": "SC",
+    "del_hours": "0630-1300",
+    "equipment": "Van",
+    "weight_lbs": 41328,
+    "carrier_rate": 2800,
+    "updated_at": "2026-11-05T14:58:14.463415+00:00",
+    "lane": "LA PORTE TX-PIEDMONT SC"
   }
 ]
