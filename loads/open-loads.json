@@ -46,8 +46,8 @@
     "del_hours": "0800-1400",
     "equipment": "Flatbed",
     "weight_lbs": 12000,
-    "carrier_rate": 2800,
-    "updated_at": "2026-11-05T15:46:32.219827+00:00",
+    "carrier_rate": 3000,
+    "updated_at": "2026-11-05T15:51:02.338912+00:00",
     "lane": "PHENIX CITY AL-MIDLOTHIAN TX"
   },
   {
@@ -63,8 +63,8 @@
     "del_hours": "0700-1500",
     "equipment": "Van",
     "weight_lbs": 42000,
-    "carrier_rate": 1100,
-    "updated_at": "2026-11-05T15:46:38.813044+00:00",
+    "carrier_rate": 1200,
+    "updated_at": "2026-11-05T15:54:46.214683+00:00",
     "lane": "CALHOUN GA-LINCOLNTON NC"
   },
   {
