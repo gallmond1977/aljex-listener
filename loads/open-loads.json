@@ -30,7 +30,7 @@
     "equipment": "Van",
     "weight_lbs": 44000,
     "carrier_rate": 900,
-    "updated_at": "2026-11-05T13:15:30.507149+00:00",
+    "updated_at": "2026-11-05T13:16:26.015469+00:00",
     "lane": "WADESBORO NC-ATLANTA GA"
   },
   {
@@ -100,23 +100,6 @@
     "carrier_rate": 1000,
     "updated_at": "2026-11-04T13:39:21.614923+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
-  },
-  {
-    "pro": "51287",
-    "status": "OPEN",
-    "pu_date": "2026-11-06",
-    "pu_city": "WADESBORO",
-    "pu_state": "NC",
-    "pu_hours": "0730-1630",
-    "del_date": "2026-11-09",
-    "del_city": "ATLANTA",
-    "del_state": "GA",
-    "del_hours": "0800-1600",
-    "equipment": "Van",
-    "weight_lbs": 44000,
-    "carrier_rate": 900,
-    "updated_at": "2026-11-04T14:53:52.170838+00:00",
-    "lane": "WADESBORO NC-ATLANTA GA"
   },
   {
     "pro": "51311",
@@ -1004,7 +987,7 @@
   },
   {
     "pro": "51286",
-    "status": "COVERED",
+    "status": "DISPATCHED",
     "pu_date": "2026-11-05",
     "pu_city": "WADESBORO",
     "pu_state": "NC",
@@ -1016,7 +999,7 @@
     "equipment": "Van",
     "weight_lbs": 44000,
     "carrier_rate": 900,
-    "updated_at": "2026-11-04T18:38:08.968723+00:00",
+    "updated_at": "2026-11-05T13:18:46.526905+00:00",
     "lane": "WADESBORO NC-ATLANTA GA"
   },
   {
@@ -1035,5 +1018,22 @@
     "carrier_rate": 1900,
     "updated_at": "2026-11-04T22:26:15.770113+00:00",
     "lane": "GARLAND TX-CALHOUN GA"
+  },
+  {
+    "pro": "51287",
+    "status": "COVERED",
+    "pu_date": "2026-11-06",
+    "pu_city": "WADESBORO",
+    "pu_state": "NC",
+    "pu_hours": "0730-1630",
+    "del_date": "2026-11-09",
+    "del_city": "ATLANTA",
+    "del_state": "GA",
+    "del_hours": "0800-1600",
+    "equipment": "Van",
+    "weight_lbs": 44000,
+    "carrier_rate": 900,
+    "updated_at": "2026-11-05T13:19:45.397401+00:00",
+    "lane": "WADESBORO NC-ATLANTA GA"
   }
 ]
