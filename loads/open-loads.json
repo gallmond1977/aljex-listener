@@ -51,6 +51,23 @@
     "lane": "PHENIX CITY AL-MIDLOTHIAN TX"
   },
   {
+    "pro": "51320",
+    "status": "OPEN",
+    "pu_date": "2026-11-05",
+    "pu_city": "CALHOUN",
+    "pu_state": "GA",
+    "pu_hours": "0800-1430",
+    "del_date": "2026-11-06",
+    "del_city": "LINCOLNTON",
+    "del_state": "NC",
+    "del_hours": "0700-1500",
+    "equipment": "Van",
+    "weight_lbs": 42000,
+    "carrier_rate": 1100,
+    "updated_at": "2026-11-05T15:33:26.583140+00:00",
+    "lane": "CALHOUN GA-LINCOLNTON NC"
+  },
+  {
     "pro": "51135",
     "status": "OPEN",
     "pu_date": "2026-11-06",
@@ -209,15 +226,15 @@
     "pu_date": "2026-11-10",
     "pu_city": "PASADENA",
     "pu_state": "TX",
-    "pu_hours": "REQ ETA",
+    "pu_hours": "1400",
     "del_date": "2026-11-12",
     "del_city": "PIEDMONT",
     "del_state": "SC",
     "del_hours": "0630-1400",
     "equipment": "Van",
     "weight_lbs": 44960,
-    "carrier_rate": null,
-    "updated_at": "2026-11-05T14:59:07.130672+00:00",
+    "carrier_rate": 2600,
+    "updated_at": "2026-11-05T15:32:52.770769+00:00",
     "lane": "PASADENA TX-PIEDMONT SC"
   },
   {
@@ -697,6 +714,23 @@
     "lane": "WADESBORO NC-ATLANTA GA"
   },
   {
+    "pro": "51184",
+    "status": "RELEASED",
+    "pu_date": "2026-10-29",
+    "pu_city": "CALHOUN",
+    "pu_state": "GA",
+    "pu_hours": "0800-1430",
+    "del_date": "2026-10-30",
+    "del_city": "LINCOLNTON",
+    "del_state": "NC",
+    "del_hours": "0700-1500",
+    "equipment": "Van",
+    "weight_lbs": 42000,
+    "carrier_rate": 1300,
+    "updated_at": "2026-11-02T15:19:39.105232+00:00",
+    "lane": "CALHOUN GA-LINCOLNTON NC"
+  },
+  {
     "pro": "51120",
     "status": "RELEASED",
     "pu_date": "2026-10-30",
@@ -851,7 +885,7 @@
   },
   {
     "pro": "51282",
-    "status": "DISPATCHED",
+    "status": "PICKUP",
     "pu_date": "2026-11-05",
     "pu_city": "WINCHESTER",
     "pu_state": "KY",
@@ -863,7 +897,7 @@
     "equipment": "Van",
     "weight_lbs": 14580,
     "carrier_rate": 1000,
-    "updated_at": "2026-11-05T15:23:58.498535+00:00",
+    "updated_at": "2026-11-05T15:34:34.950823+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
