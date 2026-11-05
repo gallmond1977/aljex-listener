@@ -107,7 +107,7 @@
     "pu_date": "2026-11-09",
     "pu_city": "WINCHESTER",
     "pu_state": "KY",
-    "pu_hours": "NEEDED",
+    "pu_hours": "1200-1500",
     "del_date": "2026-11-11",
     "del_city": "UXBRIDGE",
     "del_state": "MA",
@@ -115,7 +115,7 @@
     "equipment": "Van",
     "weight_lbs": 5000,
     "carrier_rate": null,
-    "updated_at": "2026-11-05T12:28:26.787826+00:00",
+    "updated_at": "2026-11-05T17:52:22.227498+00:00",
     "lane": "WINCHESTER KY-UXBRIDGE MA"
   },
   {
@@ -783,7 +783,7 @@
   },
   {
     "pro": "51223",
-    "status": "DELIVERED",
+    "status": "RELEASED",
     "pu_date": "2026-11-02",
     "pu_city": "WADESBORO",
     "pu_state": "NC",
@@ -795,7 +795,7 @@
     "equipment": "Van",
     "weight_lbs": 44000,
     "carrier_rate": 900,
-    "updated_at": "2026-11-03T13:42:29.708176+00:00",
+    "updated_at": "2026-11-05T17:53:43.300006+00:00",
     "lane": "WADESBORO NC-ATLANTA GA"
   },
   {
