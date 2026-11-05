@@ -681,7 +681,7 @@
   },
   {
     "pro": "51267",
-    "status": "DELIVERED",
+    "status": "RELEASED",
     "pu_date": "2026-11-04",
     "pu_city": "OAKLAND",
     "pu_state": "TN",
@@ -693,7 +693,7 @@
     "equipment": "Van Hazmat",
     "weight_lbs": 42000,
     "carrier_rate": 2300,
-    "updated_at": "2026-11-05T18:45:22.439764+00:00",
+    "updated_at": "2026-11-05T19:08:44.579416+00:00",
     "lane": "OAKLAND TN-MIDLOTHIAN TX"
   },
   {
