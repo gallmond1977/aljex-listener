@@ -7,14 +7,14 @@
     "pu_state": "WA",
     "pu_hours": "0600-1600",
     "del_date": "",
-    "del_city": "RAPID CITY",
-    "del_state": "SD",
+    "del_city": "OKLAHOMA CITY",
+    "del_state": "OK",
     "del_hours": "",
     "equipment": "Flatbed",
     "weight_lbs": 47500,
-    "carrier_rate": 5750,
-    "updated_at": "2026-11-04T20:18:56.390389+00:00",
-    "lane": "PORT ANGELES WA-RAPID CITY SD"
+    "carrier_rate": 7800,
+    "updated_at": "2026-11-05T18:13:30.285368+00:00",
+    "lane": "PORT ANGELES WA-OKLAHOMA CITY OK"
   },
   {
     "pro": "51135",
