@@ -476,6 +476,23 @@
     "lane": "DEEP GAP NC-CHARLESTON SC"
   },
   {
+    "pro": "51316",
+    "status": "OPEN",
+    "pu_date": "2026-11-20",
+    "pu_city": "LA PORTE",
+    "pu_state": "TX",
+    "pu_hours": "NEEDED",
+    "del_date": "2026-11-23",
+    "del_city": "PIEDMONT",
+    "del_state": "SC",
+    "del_hours": "0630-1300",
+    "equipment": "Van",
+    "weight_lbs": 42000,
+    "carrier_rate": null,
+    "updated_at": "2026-11-05T12:59:57.595823+00:00",
+    "lane": "LA PORTE TX-PIEDMONT SC"
+  },
+  {
     "pro": "50717",
     "status": "OPEN",
     "pu_date": "2026-11-23",
