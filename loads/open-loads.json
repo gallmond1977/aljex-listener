@@ -34,23 +34,6 @@
     "lane": "PHENIX CITY AL-MIDLOTHIAN TX"
   },
   {
-    "pro": "51313",
-    "status": "OPEN",
-    "pu_date": "2026-11-05",
-    "pu_city": "COLUMBIA",
-    "pu_state": "SC",
-    "pu_hours": "0730-1530",
-    "del_date": "2026-11-05",
-    "del_city": "ATLANTA",
-    "del_state": "GA",
-    "del_hours": "0800-1600",
-    "equipment": "Flatbed",
-    "weight_lbs": 44000,
-    "carrier_rate": 900,
-    "updated_at": "2026-11-04T21:33:55.903381+00:00",
-    "lane": "COLUMBIA SC-ATLANTA GA"
-  },
-  {
     "pro": "51135",
     "status": "OPEN",
     "pu_date": "2026-11-06",
@@ -999,7 +982,7 @@
     "equipment": "Van",
     "weight_lbs": 14580,
     "carrier_rate": 1000,
-    "updated_at": "2026-11-05T13:03:28.530122+00:00",
+    "updated_at": "2026-11-05T13:10:21.592669+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
