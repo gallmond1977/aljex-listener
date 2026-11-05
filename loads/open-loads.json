@@ -85,23 +85,6 @@
     "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
-    "pro": "51312",
-    "status": "OPEN",
-    "pu_date": "2026-11-06",
-    "pu_city": "TAMPA",
-    "pu_state": "FL",
-    "pu_hours": "NEED APPT",
-    "del_date": "2026-11-09",
-    "del_city": "GRAND PRAIRIE",
-    "del_state": "TX",
-    "del_hours": "NEED APPT",
-    "equipment": "Van",
-    "weight_lbs": 30500,
-    "carrier_rate": 1600,
-    "updated_at": "2026-11-04T20:53:42.160906+00:00",
-    "lane": "TAMPA FL-GRAND PRAIRIE TX"
-  },
-  {
     "pro": "51224",
     "status": "OPEN",
     "pu_date": "2026-11-09",
@@ -846,7 +829,7 @@
     "equipment": "Van",
     "weight_lbs": 44000,
     "carrier_rate": 900,
-    "updated_at": "2026-11-05T14:50:16.715737+00:00",
+    "updated_at": "2026-11-05T15:22:32.231776+00:00",
     "lane": "WADESBORO NC-ATLANTA GA"
   },
   {
@@ -868,7 +851,7 @@
   },
   {
     "pro": "51282",
-    "status": "COVERED",
+    "status": "DISPATCHED",
     "pu_date": "2026-11-05",
     "pu_city": "WINCHESTER",
     "pu_state": "KY",
@@ -880,7 +863,7 @@
     "equipment": "Van",
     "weight_lbs": 14580,
     "carrier_rate": 1000,
-    "updated_at": "2026-11-05T14:35:42.257074+00:00",
+    "updated_at": "2026-11-05T15:23:58.498535+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
