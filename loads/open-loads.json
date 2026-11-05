@@ -102,23 +102,6 @@
     "lane": "TAMPA FL-GRAND PRAIRIE TX"
   },
   {
-    "pro": "51315",
-    "status": "OPEN",
-    "pu_date": "2026-11-06",
-    "pu_city": "COLUMBUS",
-    "pu_state": "GA",
-    "pu_hours": "1100",
-    "del_date": "2026-11-06",
-    "del_city": "JOHNSON CITY",
-    "del_state": "TN",
-    "del_hours": "CALL!",
-    "equipment": "Van",
-    "weight_lbs": 12000,
-    "carrier_rate": 1100,
-    "updated_at": "2026-11-05T13:52:03.233952+00:00",
-    "lane": "COLUMBUS GA-JOHNSON CITY TN"
-  },
-  {
     "pro": "51224",
     "status": "OPEN",
     "pu_date": "2026-11-09",
@@ -255,6 +238,23 @@
     "lane": "COLUMBUS GA-COLUMBUS GA"
   },
   {
+    "pro": "49855",
+    "status": "OPEN",
+    "pu_date": "2026-11-10",
+    "pu_city": "PASADENA",
+    "pu_state": "TX",
+    "pu_hours": "REQ ETA",
+    "del_date": "2026-11-12",
+    "del_city": "PIEDMONT",
+    "del_state": "SC",
+    "del_hours": "0630-1400",
+    "equipment": "Van",
+    "weight_lbs": 44960,
+    "carrier_rate": null,
+    "updated_at": "2026-11-05T14:43:18.183115+00:00",
+    "lane": "PASADENA TX-PIEDMONT SC"
+  },
+  {
     "pro": "51252",
     "status": "OPEN",
     "pu_date": "2026-11-10",
@@ -338,23 +338,6 @@
     "carrier_rate": 850,
     "updated_at": "2026-11-04T20:17:48.192144+00:00",
     "lane": "JACKSONVILLE TX-JACKSON MS"
-  },
-  {
-    "pro": "49855",
-    "status": "OPEN",
-    "pu_date": "2026-11-12",
-    "pu_city": "PASADENA",
-    "pu_state": "TX",
-    "pu_hours": "REQ ETA",
-    "del_date": "",
-    "del_city": "PIEDMONT",
-    "del_state": "SC",
-    "del_hours": "CONFIRM",
-    "equipment": "Van",
-    "weight_lbs": 44000,
-    "carrier_rate": null,
-    "updated_at": "2026-10-22T18:12:56.187762+00:00",
-    "lane": "PASADENA TX-PIEDMONT SC"
   },
   {
     "pro": "50542",
