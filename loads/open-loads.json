@@ -34,23 +34,6 @@
     "lane": "PHENIX CITY AL-MIDLOTHIAN TX"
   },
   {
-    "pro": "51320",
-    "status": "OPEN",
-    "pu_date": "2026-11-05",
-    "pu_city": "CALHOUN",
-    "pu_state": "GA",
-    "pu_hours": "0800-1430",
-    "del_date": "2026-11-06",
-    "del_city": "LINCOLNTON",
-    "del_state": "NC",
-    "del_hours": "0700-1500",
-    "equipment": "Van",
-    "weight_lbs": 42000,
-    "carrier_rate": 1200,
-    "updated_at": "2026-11-05T15:54:46.214683+00:00",
-    "lane": "CALHOUN GA-LINCOLNTON NC"
-  },
-  {
     "pro": "51135",
     "status": "OPEN",
     "pu_date": "2026-11-06",
@@ -80,8 +63,8 @@
     "del_hours": "1200 AM",
     "equipment": "Van",
     "weight_lbs": 10295,
-    "carrier_rate": 1000,
-    "updated_at": "2026-11-05T13:55:34.862022+00:00",
+    "carrier_rate": 1100,
+    "updated_at": "2026-11-05T16:14:55.448784+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
@@ -712,23 +695,6 @@
     "carrier_rate": 850,
     "updated_at": "2026-10-30T15:37:57.592254+00:00",
     "lane": "WADESBORO NC-ATLANTA GA"
-  },
-  {
-    "pro": "51184",
-    "status": "RELEASED",
-    "pu_date": "2026-10-29",
-    "pu_city": "CALHOUN",
-    "pu_state": "GA",
-    "pu_hours": "0800-1430",
-    "del_date": "2026-10-30",
-    "del_city": "LINCOLNTON",
-    "del_state": "NC",
-    "del_hours": "0700-1500",
-    "equipment": "Van",
-    "weight_lbs": 42000,
-    "carrier_rate": 1300,
-    "updated_at": "2026-11-02T15:19:39.105232+00:00",
-    "lane": "CALHOUN GA-LINCOLNTON NC"
   },
   {
     "pro": "51120",
