@@ -153,6 +153,23 @@
     "lane": "TAMPA FL-GRAND PRAIRIE TX"
   },
   {
+    "pro": "51315",
+    "status": "OPEN",
+    "pu_date": "2026-11-06",
+    "pu_city": "COLUMBUS",
+    "pu_state": "GA",
+    "pu_hours": "1100",
+    "del_date": "2026-11-06",
+    "del_city": "JOHNSON CITY",
+    "del_state": "TN",
+    "del_hours": "CALL!",
+    "equipment": "Van",
+    "weight_lbs": 12000,
+    "carrier_rate": 1100,
+    "updated_at": "2026-11-05T12:49:43.929179+00:00",
+    "lane": "COLUMBUS GA-JOHNSON CITY TN"
+  },
+  {
     "pro": "51224",
     "status": "OPEN",
     "pu_date": "2026-11-09",
