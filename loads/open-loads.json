@@ -51,23 +51,6 @@
     "lane": "EL DORADO AR-CALHOUN GA"
   },
   {
-    "pro": "51314",
-    "status": "OPEN",
-    "pu_date": "2026-11-09",
-    "pu_city": "WINCHESTER",
-    "pu_state": "KY",
-    "pu_hours": "0800-1500",
-    "del_date": "2026-11-10",
-    "del_city": "JACKSONVILLE",
-    "del_state": "FL",
-    "del_hours": "2000",
-    "equipment": "Van",
-    "weight_lbs": 5200,
-    "carrier_rate": 2800,
-    "updated_at": "2026-11-06T17:29:41.957146+00:00",
-    "lane": "WINCHESTER KY-JACKSONVILLE FL"
-  },
-  {
     "pro": "51319",
     "status": "OPEN",
     "pu_date": "2026-11-09",
