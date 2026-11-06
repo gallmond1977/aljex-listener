@@ -234,7 +234,7 @@
     "equipment": "Van",
     "weight_lbs": 17500,
     "carrier_rate": 1540,
-    "updated_at": "2026-11-06T19:40:08.345046+00:00",
+    "updated_at": "2026-11-06T19:42:02.909772+00:00",
     "lane": "CALHOUN GA-TAYLORVILLE IL"
   },
   {
@@ -800,7 +800,7 @@
   },
   {
     "pro": "51339",
-    "status": "DISPATCHED",
+    "status": "PICKUP",
     "pu_date": "2026-11-06",
     "pu_city": "HOUSTON",
     "pu_state": "TX",
@@ -812,7 +812,7 @@
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 7000,
     "carrier_rate": 2000,
-    "updated_at": "2026-11-06T19:09:36.778378+00:00",
+    "updated_at": "2026-11-06T19:44:03.124923+00:00",
     "lane": "HOUSTON TX-SANFORD FL"
   },
   {
