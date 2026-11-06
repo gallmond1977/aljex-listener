@@ -369,8 +369,8 @@
     "del_hours": "0800-1400",
     "equipment": "Van",
     "weight_lbs": 44000,
-    "carrier_rate": null,
-    "updated_at": "2026-11-06T17:28:18.058812+00:00",
+    "carrier_rate": 1550,
+    "updated_at": "2026-11-06T20:45:08.454055+00:00",
     "lane": "THEODORE AL-LOUISVILLE KY"
   },
   {
