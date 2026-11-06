@@ -119,23 +119,6 @@
     "lane": "BUFFALO NY-BELCAMP MD"
   },
   {
-    "pro": "51322",
-    "status": "OPEN",
-    "pu_date": "2026-11-09",
-    "pu_city": "BUFFALO",
-    "pu_state": "NY",
-    "pu_hours": "1100-1500",
-    "del_date": "2026-11-10",
-    "del_city": "BELCAMP",
-    "del_state": "MD",
-    "del_hours": "0700-1500",
-    "equipment": "Van",
-    "weight_lbs": 17809,
-    "carrier_rate": 1700,
-    "updated_at": "2026-11-06T13:12:40.774947+00:00",
-    "lane": "BUFFALO NY-BELCAMP MD"
-  },
-  {
     "pro": "51323",
     "status": "OPEN",
     "pu_date": "2026-11-09",
@@ -746,5 +729,22 @@
     "carrier_rate": 2800,
     "updated_at": "2026-11-05T14:58:14.463415+00:00",
     "lane": "LA PORTE TX-PIEDMONT SC"
+  },
+  {
+    "pro": "51322",
+    "status": "COVERED",
+    "pu_date": "2026-11-09",
+    "pu_city": "BUFFALO",
+    "pu_state": "NY",
+    "pu_hours": "1100-1500",
+    "del_date": "2026-11-10",
+    "del_city": "BELCAMP",
+    "del_state": "MD",
+    "del_hours": "0700-1500",
+    "equipment": "Van",
+    "weight_lbs": 17809,
+    "carrier_rate": 1800,
+    "updated_at": "2026-11-06T17:05:00.990346+00:00",
+    "lane": "BUFFALO NY-BELCAMP MD"
   }
 ]
