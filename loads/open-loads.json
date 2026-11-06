@@ -1,5 +1,22 @@
 [
   {
+    "pro": "51273",
+    "status": "OPEN",
+    "pu_date": "2026-11-06",
+    "pu_city": "ROME",
+    "pu_state": "GA",
+    "pu_hours": "1100-1200",
+    "del_date": "2026-11-09",
+    "del_city": "BELCAMP",
+    "del_state": "MD",
+    "del_hours": "0700-1500",
+    "equipment": "Conestoga",
+    "weight_lbs": 40000,
+    "carrier_rate": 3500,
+    "updated_at": "2026-11-06T16:10:23.860276+00:00",
+    "lane": "ROME GA-BELCAMP MD"
+  },
+  {
     "pro": "51325",
     "status": "OPEN",
     "pu_date": "2026-11-06",
@@ -202,6 +219,23 @@
     "carrier_rate": 2000,
     "updated_at": "2026-11-06T14:10:19.591625+00:00",
     "lane": "WHITEHALL NY-CHARLOTTE NC"
+  },
+  {
+    "pro": "51334",
+    "status": "OPEN",
+    "pu_date": "2026-11-09",
+    "pu_city": "OAKLAND",
+    "pu_state": "TN",
+    "pu_hours": "0800-1500",
+    "del_date": "2026-11-10",
+    "del_city": "PHENIX CITY",
+    "del_state": "AL",
+    "del_hours": "0600-1430",
+    "equipment": "Van Hazmat",
+    "weight_lbs": 44900,
+    "carrier_rate": 2000,
+    "updated_at": "2026-11-06T16:10:20.137390+00:00",
+    "lane": "OAKLAND TN-PHENIX CITY AL"
   },
   {
     "pro": "49855",
@@ -578,6 +612,23 @@
     "lane": "EL DORADO AR-CALHOUN GA"
   },
   {
+    "pro": "51161",
+    "status": "RELEASED",
+    "pu_date": "2026-10-28",
+    "pu_city": "OAKLAND",
+    "pu_state": "TN",
+    "pu_hours": "0800-1500",
+    "del_date": "2026-10-29",
+    "del_city": "PHENIX CITY",
+    "del_state": "AL",
+    "del_hours": "0600-1100",
+    "equipment": "Van Hazmat",
+    "weight_lbs": 44940,
+    "carrier_rate": 2300,
+    "updated_at": "2026-11-02T15:25:07.526622+00:00",
+    "lane": "OAKLAND TN-PHENIX CITY AL"
+  },
+  {
     "pro": "51120",
     "status": "RELEASED",
     "pu_date": "2026-10-30",
@@ -644,6 +695,23 @@
     "carrier_rate": 1800,
     "updated_at": "2026-11-03T18:59:54.611853+00:00",
     "lane": "BUFFALO NY-BELCAMP MD"
+  },
+  {
+    "pro": "51250",
+    "status": "RELEASED",
+    "pu_date": "2026-11-02",
+    "pu_city": "OAKLAND",
+    "pu_state": "TN",
+    "pu_hours": "0800-1500",
+    "del_date": "2026-11-03",
+    "del_city": "PHENIX CITY",
+    "del_state": "AL",
+    "del_hours": "0600-1430",
+    "equipment": "Van Hazmat",
+    "weight_lbs": 44900,
+    "carrier_rate": 2000,
+    "updated_at": "2026-11-03T19:57:50.114202+00:00",
+    "lane": "OAKLAND TN-PHENIX CITY AL"
   },
   {
     "pro": "51258",
