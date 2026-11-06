@@ -238,6 +238,23 @@
     "lane": "JACKSONVILLE TX-VIDOR TX"
   },
   {
+    "pro": "51331",
+    "status": "OPEN",
+    "pu_date": "2026-11-10",
+    "pu_city": "COLUMBUS",
+    "pu_state": "GA",
+    "pu_hours": "1430",
+    "del_date": "2026-11-11",
+    "del_city": "MASON",
+    "del_state": "OH",
+    "del_hours": "CALL!",
+    "equipment": "Van",
+    "weight_lbs": 10500,
+    "carrier_rate": 1200,
+    "updated_at": "2026-11-06T15:28:21.083773+00:00",
+    "lane": "COLUMBUS GA-MASON OH"
+  },
+  {
     "pro": "51253",
     "status": "OPEN",
     "pu_date": "2026-11-11",
@@ -355,6 +372,23 @@
     "carrier_rate": 2000,
     "updated_at": "2026-11-02T21:45:00.594634+00:00",
     "lane": "OAKLAND TN-MIDLOTHIAN TX"
+  },
+  {
+    "pro": "51332",
+    "status": "OPEN",
+    "pu_date": "2026-11-17",
+    "pu_city": "COLUMBUS",
+    "pu_state": "GA",
+    "pu_hours": "1300",
+    "del_date": "2026-11-18",
+    "del_city": "MASON",
+    "del_state": "OH",
+    "del_hours": "CALL!",
+    "equipment": "Van",
+    "weight_lbs": 10500,
+    "carrier_rate": 1200,
+    "updated_at": "2026-11-06T15:29:54.377706+00:00",
+    "lane": "COLUMBUS GA-MASON OH"
   },
   {
     "pro": "51145",
