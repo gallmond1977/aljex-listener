@@ -289,6 +289,23 @@
     "lane": "COLUMBUS GA-TRYON NC"
   },
   {
+    "pro": "51347",
+    "status": "OPEN",
+    "pu_date": "2026-11-10",
+    "pu_city": "HILLSVILLE",
+    "pu_state": "VA",
+    "pu_hours": "0630-1500",
+    "del_date": "2026-11-11",
+    "del_city": "SUMMERVILLE",
+    "del_state": "SC",
+    "del_hours": "0700-1400",
+    "equipment": "Flatbed w/ Tarps",
+    "weight_lbs": 44500,
+    "carrier_rate": 1200,
+    "updated_at": "2026-11-06T20:24:57.388160+00:00",
+    "lane": "HILLSVILLE VA-SUMMERVILLE SC"
+  },
+  {
     "pro": "51253",
     "status": "OPEN",
     "pu_date": "2026-11-11",
