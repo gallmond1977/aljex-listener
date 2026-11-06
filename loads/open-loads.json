@@ -85,23 +85,6 @@
     "lane": "COLUMBUS GA-TRYON NC"
   },
   {
-    "pro": "51328",
-    "status": "OPEN",
-    "pu_date": "2026-11-09",
-    "pu_city": "VILLA RICA",
-    "pu_state": "GA",
-    "pu_hours": "0800-1500",
-    "del_date": "2026-11-10",
-    "del_city": "SANTA ROSA BEACH",
-    "del_state": "FL",
-    "del_hours": "0600-1400",
-    "equipment": "Flatbed w/ Tarps",
-    "weight_lbs": 47317,
-    "carrier_rate": 1600,
-    "updated_at": "2026-11-06T19:01:03.212682+00:00",
-    "lane": "VILLA RICA GA-SANTA ROSA BEACH FL"
-  },
-  {
     "pro": "51330",
     "status": "OPEN",
     "pu_date": "2026-11-09",
@@ -219,6 +202,23 @@
     "carrier_rate": 650,
     "updated_at": "2026-11-06T19:18:44.974937+00:00",
     "lane": "CALHOUN GA-LINCOLNTON NC"
+  },
+  {
+    "pro": "51343",
+    "status": "OPEN",
+    "pu_date": "2026-11-09",
+    "pu_city": "CALHOUN",
+    "pu_state": "GA",
+    "pu_hours": "0730-1500",
+    "del_date": "2026-11-10",
+    "del_city": "TAYLORVILLE",
+    "del_state": "IL",
+    "del_hours": "0700-1400",
+    "equipment": "Van",
+    "weight_lbs": 17500,
+    "carrier_rate": null,
+    "updated_at": "2026-11-06T19:33:48.235271+00:00",
+    "lane": "CALHOUN GA-TAYLORVILLE IL"
   },
   {
     "pro": "49855",
