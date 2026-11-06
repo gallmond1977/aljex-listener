@@ -200,7 +200,7 @@
     "equipment": "Flatbed w/ Tarps",
     "weight_lbs": 47317,
     "carrier_rate": 1600,
-    "updated_at": "2026-11-06T14:03:09.637295+00:00",
+    "updated_at": "2026-11-06T14:12:23.525760+00:00",
     "lane": "VILLA RICA GA-SANTA ROSA BEACH FL"
   },
   {
@@ -213,11 +213,11 @@
     "del_date": "2026-11-10",
     "del_city": "CHARLOTTE",
     "del_state": "NC",
-    "del_hours": "0800-1400",
+    "del_hours": "0900-1400",
     "equipment": "Flatbed",
     "weight_lbs": 45162,
     "carrier_rate": 2000,
-    "updated_at": "2026-11-06T14:09:53.998853+00:00",
+    "updated_at": "2026-11-06T14:10:19.591625+00:00",
     "lane": "WHITEHALL NY-CHARLOTTE NC"
   },
   {
