@@ -17,6 +17,23 @@
     "lane": "AUBURN AL-MORRILTON AR"
   },
   {
+    "pro": "51333",
+    "status": "OPEN",
+    "pu_date": "2026-11-06",
+    "pu_city": "FAYETTEVILLE",
+    "pu_state": "NC",
+    "pu_hours": "0800-1200",
+    "del_date": "",
+    "del_city": "CONWAY",
+    "del_state": "SC",
+    "del_hours": "0800-1500",
+    "equipment": "26' Straight Box Truck",
+    "weight_lbs": 3500,
+    "carrier_rate": 350,
+    "updated_at": "2026-11-06T15:44:16.665792+00:00",
+    "lane": "FAYETTEVILLE NC-CONWAY SC"
+  },
+  {
     "pro": "51291",
     "status": "OPEN",
     "pu_date": "2026-11-09",
@@ -56,7 +73,7 @@
     "pu_date": "2026-11-09",
     "pu_city": "GRENADA",
     "pu_state": "MS",
-    "pu_hours": "0800-1500",
+    "pu_hours": "0800-1200",
     "del_date": "2026-11-09",
     "del_city": "AMORY",
     "del_state": "MS",
@@ -64,7 +81,7 @@
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 5000,
     "carrier_rate": 250,
-    "updated_at": "2026-11-04T18:56:30.811055+00:00",
+    "updated_at": "2026-11-06T15:42:55.133174+00:00",
     "lane": "GRENADA MS-AMORY MS"
   },
   {
