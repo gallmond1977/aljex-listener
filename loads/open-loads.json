@@ -46,8 +46,8 @@
     "del_hours": "0400",
     "equipment": "Van",
     "weight_lbs": 5000,
-    "carrier_rate": null,
-    "updated_at": "2026-11-05T20:35:44.983379+00:00",
+    "carrier_rate": 3600,
+    "updated_at": "2026-11-06T17:28:17.961842+00:00",
     "lane": "WINCHESTER KY-UXBRIDGE MA"
   },
   {
@@ -81,7 +81,7 @@
     "equipment": "Van",
     "weight_lbs": 5200,
     "carrier_rate": 2800,
-    "updated_at": "2026-11-06T16:59:41.587917+00:00",
+    "updated_at": "2026-11-06T17:29:41.957146+00:00",
     "lane": "WINCHESTER KY-JACKSONVILLE FL"
   },
   {
@@ -185,6 +185,23 @@
     "carrier_rate": null,
     "updated_at": "2026-11-06T16:20:20.941801+00:00",
     "lane": "OAKLAND TN-SALISBURY NC"
+  },
+  {
+    "pro": "51336",
+    "status": "OPEN",
+    "pu_date": "2026-11-09",
+    "pu_city": "COLUMBUS",
+    "pu_state": "GA",
+    "pu_hours": "1300",
+    "del_date": "2026-11-10",
+    "del_city": "RICHMOND",
+    "del_state": "VA",
+    "del_hours": "CALL",
+    "equipment": "26' Straight Box Truck",
+    "weight_lbs": 5000,
+    "carrier_rate": null,
+    "updated_at": "2026-11-06T17:26:27.900277+00:00",
+    "lane": "COLUMBUS GA-RICHMOND VA"
   },
   {
     "pro": "49855",
@@ -304,6 +321,23 @@
     "carrier_rate": 850,
     "updated_at": "2026-11-04T20:17:48.192144+00:00",
     "lane": "JACKSONVILLE TX-JACKSON MS"
+  },
+  {
+    "pro": "51337",
+    "status": "OPEN",
+    "pu_date": "2026-11-11",
+    "pu_city": "THEODORE",
+    "pu_state": "AL",
+    "pu_hours": "1000-1400",
+    "del_date": "2026-11-12",
+    "del_city": "LOUISVILLE",
+    "del_state": "KY",
+    "del_hours": "0800-1400",
+    "equipment": "Van",
+    "weight_lbs": 44000,
+    "carrier_rate": null,
+    "updated_at": "2026-11-06T17:28:18.058812+00:00",
+    "lane": "THEODORE AL-LOUISVILLE KY"
   },
   {
     "pro": "50542",
