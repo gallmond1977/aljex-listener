@@ -408,6 +408,23 @@
     "lane": "ATLANTA GA-DECATUR GA"
   },
   {
+    "pro": "51345",
+    "status": "OPEN",
+    "pu_date": "2026-11-13",
+    "pu_city": "ATLANTA",
+    "pu_state": "GA",
+    "pu_hours": "",
+    "del_date": "2026-11-13",
+    "del_city": "DECATUR",
+    "del_state": "GA",
+    "del_hours": "1000",
+    "equipment": "Reefer",
+    "weight_lbs": 21264,
+    "carrier_rate": null,
+    "updated_at": "2026-11-06T19:52:20.791373+00:00",
+    "lane": "ATLANTA GA-DECATUR GA"
+  },
+  {
     "pro": "51251",
     "status": "OPEN",
     "pu_date": "2026-11-16",
@@ -931,7 +948,7 @@
     "equipment": "Van",
     "weight_lbs": 41328,
     "carrier_rate": 2800,
-    "updated_at": "2026-11-05T14:58:14.463415+00:00",
+    "updated_at": "2026-11-06T19:55:16.889369+00:00",
     "lane": "LA PORTE TX-PIEDMONT SC"
   }
 ]
