@@ -1,22 +1,5 @@
 [
   {
-    "pro": "51166",
-    "status": "OPEN",
-    "pu_date": "2026-11-06",
-    "pu_city": "PHENIX CITY",
-    "pu_state": "AL",
-    "pu_hours": "0800-1200",
-    "del_date": "2026-11-09",
-    "del_city": "ROCKLAND",
-    "del_state": "ME",
-    "del_hours": "0800",
-    "equipment": "Van",
-    "weight_lbs": 35000,
-    "carrier_rate": 4200,
-    "updated_at": "2026-11-06T13:18:37.507113+00:00",
-    "lane": "PHENIX CITY AL-ROCKLAND ME"
-  },
-  {
     "pro": "51324",
     "status": "OPEN",
     "pu_date": "2026-11-06",
@@ -47,25 +30,8 @@
     "equipment": "Van",
     "weight_lbs": 41080,
     "carrier_rate": 1300,
-    "updated_at": "2026-11-06T13:15:56.279212+00:00",
+    "updated_at": "2026-11-06T13:22:51.489330+00:00",
     "lane": "AUBURN AL-MORRILTON AR"
-  },
-  {
-    "pro": "51224",
-    "status": "OPEN",
-    "pu_date": "2026-11-09",
-    "pu_city": "GARLAND",
-    "pu_state": "TX",
-    "pu_hours": "1200-1500",
-    "del_date": "2026-11-10",
-    "del_city": "CALHOUN",
-    "del_state": "GA",
-    "del_hours": "0730-1400",
-    "equipment": "Van",
-    "weight_lbs": 43438,
-    "carrier_rate": 1900,
-    "updated_at": "2026-10-30T14:40:39.014204+00:00",
-    "lane": "GARLAND TX-CALHOUN GA"
   },
   {
     "pro": "51291",
@@ -595,23 +561,6 @@
     "lane": "LA PORTE TX-PIEDMONT SC"
   },
   {
-    "pro": "51037",
-    "status": "RELEASED",
-    "pu_date": "2026-10-27",
-    "pu_city": "GARLAND",
-    "pu_state": "TX",
-    "pu_hours": "1200-1400",
-    "del_date": "2026-10-28",
-    "del_city": "CALHOUN",
-    "del_state": "GA",
-    "del_hours": "0730-1400",
-    "equipment": "Van",
-    "weight_lbs": 40949,
-    "carrier_rate": 2000,
-    "updated_at": "2026-11-02T15:05:23.659895+00:00",
-    "lane": "GARLAND TX-CALHOUN GA"
-  },
-  {
     "pro": "51134",
     "status": "RELEASED",
     "pu_date": "2026-10-27",
@@ -714,23 +663,6 @@
     "lane": "ALPHARETTA GA-BELCAMP MD"
   },
   {
-    "pro": "51130",
-    "status": "RELEASED",
-    "pu_date": "2026-11-02",
-    "pu_city": "GARLAND",
-    "pu_state": "TX",
-    "pu_hours": "1200-1400",
-    "del_date": "2026-11-03",
-    "del_city": "CALHOUN",
-    "del_state": "GA",
-    "del_hours": "0730-1400",
-    "equipment": "Van",
-    "weight_lbs": 43438,
-    "carrier_rate": 2000,
-    "updated_at": "2026-11-03T13:56:55.749217+00:00",
-    "lane": "GARLAND TX-CALHOUN GA"
-  },
-  {
     "pro": "51215",
     "status": "RELEASED",
     "pu_date": "2026-11-02",
@@ -780,23 +712,6 @@
     "carrier_rate": 2300,
     "updated_at": "2026-11-05T19:08:44.579416+00:00",
     "lane": "OAKLAND TN-MIDLOTHIAN TX"
-  },
-  {
-    "pro": "51225",
-    "status": "COVERED",
-    "pu_date": "2026-11-06",
-    "pu_city": "GARLAND",
-    "pu_state": "TX",
-    "pu_hours": "1200-1500",
-    "del_date": "2026-11-09",
-    "del_city": "CALHOUN",
-    "del_state": "GA",
-    "del_hours": "0730-1400",
-    "equipment": "Van",
-    "weight_lbs": 42523,
-    "carrier_rate": 1900,
-    "updated_at": "2026-11-04T22:26:15.770113+00:00",
-    "lane": "GARLAND TX-CALHOUN GA"
   },
   {
     "pro": "51311",
