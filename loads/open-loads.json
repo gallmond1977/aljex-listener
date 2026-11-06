@@ -5,15 +5,15 @@
     "pu_date": "2026-11-06",
     "pu_city": "FAYETTEVILLE",
     "pu_state": "NC",
-    "pu_hours": "0800-1200",
+    "pu_hours": "0800-1500",
     "del_date": "2026-11-09",
     "del_city": "CONWAY",
     "del_state": "SC",
     "del_hours": "0800-0900",
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 5500,
-    "carrier_rate": 350,
-    "updated_at": "2026-11-06T16:36:40.214521+00:00",
+    "carrier_rate": 400,
+    "updated_at": "2026-11-06T17:06:21.306186+00:00",
     "lane": "FAYETTEVILLE NC-CONWAY SC"
   },
   {
