@@ -13,7 +13,7 @@
     "equipment": "Van",
     "weight_lbs": 41080,
     "carrier_rate": 1400,
-    "updated_at": "2026-11-06T14:05:14.899413+00:00",
+    "updated_at": "2026-11-06T14:47:26.678168+00:00",
     "lane": "AUBURN AL-MORRILTON AR"
   },
   {
@@ -168,23 +168,6 @@
     "carrier_rate": 850,
     "updated_at": "2026-11-06T14:04:10.022202+00:00",
     "lane": "COLUMBUS GA-TRYON NC"
-  },
-  {
-    "pro": "51326",
-    "status": "OPEN",
-    "pu_date": "2026-11-09",
-    "pu_city": "CREWE",
-    "pu_state": "VA",
-    "pu_hours": "0800-1500",
-    "del_date": "2026-11-10",
-    "del_city": "SUMMERVILLE",
-    "del_state": "SC",
-    "del_hours": "0700-1500",
-    "equipment": "Flatbed w/ Tarps",
-    "weight_lbs": 42800,
-    "carrier_rate": 1300,
-    "updated_at": "2026-11-06T14:44:24.622850+00:00",
-    "lane": "CREWE VA-SUMMERVILLE SC"
   },
   {
     "pro": "51330",
