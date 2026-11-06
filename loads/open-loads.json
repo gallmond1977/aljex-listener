@@ -153,23 +153,6 @@
     "lane": "HOUSTON TX-SANFORD FL"
   },
   {
-    "pro": "51341",
-    "status": "OPEN",
-    "pu_date": "2026-11-09",
-    "pu_city": "ATHENS",
-    "pu_state": "AL",
-    "pu_hours": "0800-1100",
-    "del_date": "2026-11-09",
-    "del_city": "GRIFFIN",
-    "del_state": "GA",
-    "del_hours": "0800-1600",
-    "equipment": "Flatbed",
-    "weight_lbs": 18500,
-    "carrier_rate": 1400,
-    "updated_at": "2026-11-06T20:09:49.000721+00:00",
-    "lane": "ATHENS AL-GRIFFIN GA"
-  },
-  {
     "pro": "51342",
     "status": "OPEN",
     "pu_date": "2026-11-09",
