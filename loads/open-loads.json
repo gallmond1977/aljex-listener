@@ -216,8 +216,8 @@
     "del_hours": "0600-1400",
     "equipment": "Flatbed w/ Tarps",
     "weight_lbs": 47317,
-    "carrier_rate": null,
-    "updated_at": "2026-11-06T13:15:06.279605+00:00",
+    "carrier_rate": 1600,
+    "updated_at": "2026-11-06T13:31:48.505793+00:00",
     "lane": "VILLA RICA GA-SANTA ROSA BEACH FL"
   },
   {
@@ -233,8 +233,8 @@
     "del_hours": "0700-1300",
     "equipment": "Flatbed w/ Tarps",
     "weight_lbs": 42000,
-    "carrier_rate": 3300,
-    "updated_at": "2026-11-06T13:20:12.697946+00:00",
+    "carrier_rate": 3200,
+    "updated_at": "2026-11-06T13:33:08.265999+00:00",
     "lane": "ALPHARETTA GA-BELCAMP MD"
   },
   {
