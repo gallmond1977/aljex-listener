@@ -1,22 +1,5 @@
 [
   {
-    "pro": "51333",
-    "status": "OPEN",
-    "pu_date": "2026-11-06",
-    "pu_city": "FAYETTEVILLE",
-    "pu_state": "NC",
-    "pu_hours": "0800-1500",
-    "del_date": "2026-11-09",
-    "del_city": "CONWAY",
-    "del_state": "SC",
-    "del_hours": "0800-0900",
-    "equipment": "26' Straight Box Truck",
-    "weight_lbs": 5500,
-    "carrier_rate": 400,
-    "updated_at": "2026-11-06T17:06:21.306186+00:00",
-    "lane": "FAYETTEVILLE NC-CONWAY SC"
-  },
-  {
     "pro": "51291",
     "status": "OPEN",
     "pu_date": "2026-11-09",
@@ -200,8 +183,25 @@
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 5000,
     "carrier_rate": 1100,
-    "updated_at": "2026-11-06T17:33:51.467265+00:00",
+    "updated_at": "2026-11-06T17:36:56.715406+00:00",
     "lane": "COLUMBUS GA-RICHMOND VA"
+  },
+  {
+    "pro": "51338",
+    "status": "OPEN",
+    "pu_date": "2026-11-09",
+    "pu_city": "HOLLY SPRINGS",
+    "pu_state": "NC",
+    "pu_hours": "0700-0830",
+    "del_date": "2026-11-09",
+    "del_city": "CHARLOTTE",
+    "del_state": "NC",
+    "del_hours": "CALL !",
+    "equipment": "Flatbed Hot Shot",
+    "weight_lbs": 1800,
+    "carrier_rate": 600,
+    "updated_at": "2026-11-06T17:38:44.261882+00:00",
+    "lane": "HOLLY SPRINGS NC-CHARLOTTE NC"
   },
   {
     "pro": "49855",
