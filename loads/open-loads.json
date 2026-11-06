@@ -1,22 +1,5 @@
 [
   {
-    "pro": "51324",
-    "status": "OPEN",
-    "pu_date": "2026-11-06",
-    "pu_city": "UNION CITY",
-    "pu_state": "GA",
-    "pu_hours": "1300",
-    "del_date": "2026-11-07",
-    "del_city": "SANFORD",
-    "del_state": "FL",
-    "del_hours": "0800",
-    "equipment": "Sprinter Van",
-    "weight_lbs": 500,
-    "carrier_rate": 600,
-    "updated_at": "2026-11-05T18:49:36.008177+00:00",
-    "lane": "UNION CITY GA-SANFORD FL"
-  },
-  {
     "pro": "51325",
     "status": "OPEN",
     "pu_date": "2026-11-06",
