@@ -63,8 +63,8 @@
     "del_hours": "1300",
     "equipment": "Van",
     "weight_lbs": 4200,
-    "carrier_rate": null,
-    "updated_at": "2026-11-05T15:02:37.911108+00:00",
+    "carrier_rate": 2400,
+    "updated_at": "2026-11-06T13:12:05.043505+00:00",
     "lane": "WINCHESTER KY-BURLINGTON NJ"
   },
   {
@@ -183,7 +183,7 @@
     "equipment": "Van",
     "weight_lbs": 17809,
     "carrier_rate": 1700,
-    "updated_at": "2026-11-05T16:53:18.418319+00:00",
+    "updated_at": "2026-11-06T13:12:40.774947+00:00",
     "lane": "BUFFALO NY-BELCAMP MD"
   },
   {
@@ -219,6 +219,23 @@
     "carrier_rate": 1300,
     "updated_at": "2026-11-05T20:25:48.197236+00:00",
     "lane": "CREWE VA-SUMMERVILLE SC"
+  },
+  {
+    "pro": "51328",
+    "status": "OPEN",
+    "pu_date": "2026-11-09",
+    "pu_city": "VILLA RICA",
+    "pu_state": "GA",
+    "pu_hours": "0800-1500",
+    "del_date": "2026-11-10",
+    "del_city": "SANTA ROSA BEACH",
+    "del_state": "FL",
+    "del_hours": "0600-1400",
+    "equipment": "Flatbed w/ Tarps",
+    "weight_lbs": 47317,
+    "carrier_rate": null,
+    "updated_at": "2026-11-06T13:15:06.279605+00:00",
+    "lane": "VILLA RICA GA-SANTA ROSA BEACH FL"
   },
   {
     "pro": "49855",
