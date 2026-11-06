@@ -17,23 +17,6 @@
     "lane": "WINCHESTER KY-BURLINGTON NJ"
   },
   {
-    "pro": "51292",
-    "status": "OPEN",
-    "pu_date": "2026-11-09",
-    "pu_city": "WINCHESTER",
-    "pu_state": "KY",
-    "pu_hours": "1330",
-    "del_date": "2026-11-11",
-    "del_city": "UXBRIDGE",
-    "del_state": "MA",
-    "del_hours": "0400",
-    "equipment": "Van",
-    "weight_lbs": 5000,
-    "carrier_rate": 3600,
-    "updated_at": "2026-11-06T17:28:17.961842+00:00",
-    "lane": "WINCHESTER KY-UXBRIDGE MA"
-  },
-  {
     "pro": "51304",
     "status": "OPEN",
     "pu_date": "2026-11-09",
@@ -678,23 +661,6 @@
     "carrier_rate": 2400,
     "updated_at": "2026-11-04T14:09:59.281277+00:00",
     "lane": "WINCHESTER KY-BURLINGTON NJ"
-  },
-  {
-    "pro": "51137",
-    "status": "RELEASED",
-    "pu_date": "2026-10-30",
-    "pu_city": "WINCHESTER",
-    "pu_state": "KY",
-    "pu_hours": "1200-1300",
-    "del_date": "2026-11-01",
-    "del_city": "UXBRIDGE",
-    "del_state": "MA",
-    "del_hours": "1200",
-    "equipment": "Van",
-    "weight_lbs": 5200,
-    "carrier_rate": 3600,
-    "updated_at": "2026-11-02T15:34:57.801024+00:00",
-    "lane": "WINCHESTER KY-UXBRIDGE MA"
   },
   {
     "pro": "51172",
