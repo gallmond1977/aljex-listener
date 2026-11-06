@@ -13,7 +13,7 @@
     "equipment": "Conestoga",
     "weight_lbs": 40000,
     "carrier_rate": 3500,
-    "updated_at": "2026-11-06T16:10:23.860276+00:00",
+    "updated_at": "2026-11-06T16:10:43.109213+00:00",
     "lane": "ROME GA-BELCAMP MD"
   },
   {
@@ -234,7 +234,7 @@
     "equipment": "Van Hazmat",
     "weight_lbs": 44900,
     "carrier_rate": 2000,
-    "updated_at": "2026-11-06T16:10:20.137390+00:00",
+    "updated_at": "2026-11-06T16:10:56.595687+00:00",
     "lane": "OAKLAND TN-PHENIX CITY AL"
   },
   {
