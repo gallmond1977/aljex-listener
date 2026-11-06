@@ -12,8 +12,8 @@
     "del_hours": "0700-1600",
     "equipment": "Van",
     "weight_lbs": 41080,
-    "carrier_rate": 1300,
-    "updated_at": "2026-11-06T13:22:51.489330+00:00",
+    "carrier_rate": 1400,
+    "updated_at": "2026-11-06T14:05:14.899413+00:00",
     "lane": "AUBURN AL-MORRILTON AR"
   },
   {
@@ -202,6 +202,23 @@
     "carrier_rate": 1600,
     "updated_at": "2026-11-06T14:03:09.637295+00:00",
     "lane": "VILLA RICA GA-SANTA ROSA BEACH FL"
+  },
+  {
+    "pro": "51330",
+    "status": "OPEN",
+    "pu_date": "2026-11-09",
+    "pu_city": "WHITEHALL",
+    "pu_state": "NY",
+    "pu_hours": "0700-1500",
+    "del_date": "2026-11-10",
+    "del_city": "CHARLOTTE",
+    "del_state": "NC",
+    "del_hours": "0800-1400",
+    "equipment": "Flatbed",
+    "weight_lbs": 45162,
+    "carrier_rate": 2000,
+    "updated_at": "2026-11-06T14:09:53.998853+00:00",
+    "lane": "WHITEHALL NY-CHARLOTTE NC"
   },
   {
     "pro": "49855",
