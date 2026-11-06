@@ -175,15 +175,15 @@
     "pu_date": "2026-11-09",
     "pu_city": "HOUSTON",
     "pu_state": "TX",
-    "pu_hours": "0800-1500",
-    "del_date": "",
+    "pu_hours": "0700-1300",
+    "del_date": "2026-11-10",
     "del_city": "ATLANTA",
     "del_state": "GA",
-    "del_hours": "NEEDS APT",
+    "del_hours": "1200",
     "equipment": "Van",
     "weight_lbs": 44000,
-    "carrier_rate": null,
-    "updated_at": "2026-11-06T20:39:06.783348+00:00",
+    "carrier_rate": 1700,
+    "updated_at": "2026-11-06T20:54:47.536534+00:00",
     "lane": "HOUSTON TX-ATLANTA GA"
   },
   {
@@ -285,7 +285,7 @@
     "equipment": "Van",
     "weight_lbs": 44000,
     "carrier_rate": 1550,
-    "updated_at": "2026-11-06T20:48:44.033105+00:00",
+    "updated_at": "2026-11-06T20:51:22.533597+00:00",
     "lane": "THEODORE AL-LOUISVILLE KY"
   },
   {
