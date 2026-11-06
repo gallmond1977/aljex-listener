@@ -85,6 +85,23 @@
     "lane": "COLUMBUS GA-TRYON NC"
   },
   {
+    "pro": "51328",
+    "status": "OPEN",
+    "pu_date": "2026-11-09",
+    "pu_city": "VILLA RICA",
+    "pu_state": "GA",
+    "pu_hours": "0800-1500",
+    "del_date": "2026-11-10",
+    "del_city": "SANTA ROSA BEACH",
+    "del_state": "FL",
+    "del_hours": "0600-1400",
+    "equipment": "Flatbed w/ Tarps",
+    "weight_lbs": 47317,
+    "carrier_rate": 1600,
+    "updated_at": "2026-11-06T19:01:03.212682+00:00",
+    "lane": "VILLA RICA GA-SANTA ROSA BEACH FL"
+  },
+  {
     "pro": "51330",
     "status": "OPEN",
     "pu_date": "2026-11-09",
@@ -168,6 +185,23 @@
     "carrier_rate": 1800,
     "updated_at": "2026-11-06T18:42:52.204124+00:00",
     "lane": "HOUSTON TX-SANFORD FL"
+  },
+  {
+    "pro": "51341",
+    "status": "OPEN",
+    "pu_date": "2026-11-09",
+    "pu_city": "ATHENS",
+    "pu_state": "AL",
+    "pu_hours": "0800-1100",
+    "del_date": "2026-11-09",
+    "del_city": "GRIFFIN",
+    "del_state": "GA",
+    "del_hours": "0800-1600",
+    "equipment": "Flatbed",
+    "weight_lbs": 18500,
+    "carrier_rate": 1400,
+    "updated_at": "2026-11-06T19:03:29.287323+00:00",
+    "lane": "ATHENS AL-GRIFFIN GA"
   },
   {
     "pro": "49855",
