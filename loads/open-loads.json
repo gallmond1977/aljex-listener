@@ -238,6 +238,23 @@
     "lane": "OAKLAND TN-PHENIX CITY AL"
   },
   {
+    "pro": "51335",
+    "status": "OPEN",
+    "pu_date": "2026-11-09",
+    "pu_city": "OAKLAND",
+    "pu_state": "TN",
+    "pu_hours": "0800-1500",
+    "del_date": "2026-11-10",
+    "del_city": "SALISBURY",
+    "del_state": "NC",
+    "del_hours": "0600-1100",
+    "equipment": "Van Hazmat",
+    "weight_lbs": 44900,
+    "carrier_rate": null,
+    "updated_at": "2026-11-06T16:16:56.890304+00:00",
+    "lane": "OAKLAND TN-SALISBURY NC"
+  },
+  {
     "pro": "49855",
     "status": "OPEN",
     "pu_date": "2026-11-10",
@@ -610,6 +627,23 @@
     "carrier_rate": 1800,
     "updated_at": "2026-11-02T14:30:16.088460+00:00",
     "lane": "EL DORADO AR-CALHOUN GA"
+  },
+  {
+    "pro": "51160",
+    "status": "RELEASED",
+    "pu_date": "2026-10-28",
+    "pu_city": "OAKLAND",
+    "pu_state": "TN",
+    "pu_hours": "0800-1500",
+    "del_date": "2026-10-29",
+    "del_city": "SALISBURY",
+    "del_state": "NC",
+    "del_hours": "0600-1100",
+    "equipment": "Van Hazmat",
+    "weight_lbs": 44900,
+    "carrier_rate": 3000,
+    "updated_at": "2026-11-02T15:11:25.656474+00:00",
+    "lane": "OAKLAND TN-SALISBURY NC"
   },
   {
     "pro": "51161",
