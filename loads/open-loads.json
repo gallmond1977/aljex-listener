@@ -177,14 +177,14 @@
     "pu_state": "TX",
     "pu_hours": "0800-1500",
     "del_date": "",
-    "del_city": "WILMINGTON",
-    "del_state": "NC",
-    "del_hours": "0900",
+    "del_city": "ATLANTA",
+    "del_state": "GA",
+    "del_hours": "NEEDS APT",
     "equipment": "Van",
     "weight_lbs": 44000,
     "carrier_rate": null,
-    "updated_at": "2026-11-06T20:34:23.332238+00:00",
-    "lane": "HOUSTON TX-WILMINGTON NC"
+    "updated_at": "2026-11-06T20:39:06.783348+00:00",
+    "lane": "HOUSTON TX-ATLANTA GA"
   },
   {
     "pro": "49855",
@@ -413,15 +413,15 @@
     "pu_date": "2026-11-13",
     "pu_city": "ATLANTA",
     "pu_state": "GA",
-    "pu_hours": "",
+    "pu_hours": "0700",
     "del_date": "2026-11-13",
     "del_city": "DECATUR",
     "del_state": "GA",
-    "del_hours": "",
+    "del_hours": "1000",
     "equipment": "Reefer",
     "weight_lbs": 21264,
-    "carrier_rate": null,
-    "updated_at": "2026-11-06T19:59:40.200883+00:00",
+    "carrier_rate": 450,
+    "updated_at": "2026-11-06T20:38:59.509465+00:00",
     "lane": "ATLANTA GA-DECATUR GA"
   },
   {
@@ -430,7 +430,7 @@
     "pu_date": "2026-11-13",
     "pu_city": "ATLANTA",
     "pu_state": "GA",
-    "pu_hours": "REQ",
+    "pu_hours": "0730",
     "del_date": "2026-11-13",
     "del_city": "DECATUR",
     "del_state": "GA",
@@ -438,7 +438,7 @@
     "equipment": "Reefer",
     "weight_lbs": 21264,
     "carrier_rate": 450,
-    "updated_at": "2026-11-06T20:34:53.119554+00:00",
+    "updated_at": "2026-11-06T20:40:05.072505+00:00",
     "lane": "ATLANTA GA-DECATUR GA"
   },
   {
@@ -848,23 +848,6 @@
     "carrier_rate": 2000,
     "updated_at": "2026-11-03T19:57:50.114202+00:00",
     "lane": "OAKLAND TN-PHENIX CITY AL"
-  },
-  {
-    "pro": "51271",
-    "status": "DELIVERED",
-    "pu_date": "2026-11-03",
-    "pu_city": "HOUSTON",
-    "pu_state": "TX",
-    "pu_hours": "0800-1500",
-    "del_date": "2026-11-05",
-    "del_city": "WILMINGTON",
-    "del_state": "NC",
-    "del_hours": "0900",
-    "equipment": "Van",
-    "weight_lbs": 44000,
-    "carrier_rate": 3500,
-    "updated_at": "2026-11-05T20:08:03.667495+00:00",
-    "lane": "HOUSTON TX-WILMINGTON NC"
   },
   {
     "pro": "51267",
