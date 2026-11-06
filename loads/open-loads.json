@@ -265,10 +265,10 @@
     "del_city": "TRYON",
     "del_state": "NC",
     "del_hours": "0800-1000",
-    "equipment": "Van",
+    "equipment": "26' Straight Box Truck",
     "weight_lbs": 3200,
     "carrier_rate": 500,
-    "updated_at": "2026-11-06T19:59:05.588744+00:00",
+    "updated_at": "2026-11-06T20:00:54.969672+00:00",
     "lane": "COLUMBUS GA-TRYON NC"
   },
   {
@@ -299,10 +299,10 @@
     "del_city": "TRYON",
     "del_state": "NC",
     "del_hours": "0800-1000",
-    "equipment": "Van",
+    "equipment": "26' Straight Box Truck",
     "weight_lbs": 3200,
-    "carrier_rate": null,
-    "updated_at": "2026-11-06T19:59:27.750385+00:00",
+    "carrier_rate": 500,
+    "updated_at": "2026-11-06T20:00:26.965738+00:00",
     "lane": "COLUMBUS GA-TRYON NC"
   },
   {
@@ -438,7 +438,7 @@
     "equipment": "Reefer",
     "weight_lbs": 21264,
     "carrier_rate": null,
-    "updated_at": "2026-11-06T19:52:20.791373+00:00",
+    "updated_at": "2026-11-06T20:00:27.274557+00:00",
     "lane": "ATLANTA GA-DECATUR GA"
   },
   {
