@@ -85,23 +85,6 @@
     "lane": "WINCHESTER KY-UXBRIDGE MA"
   },
   {
-    "pro": "51301",
-    "status": "OPEN",
-    "pu_date": "2026-11-09",
-    "pu_city": "GRENADA",
-    "pu_state": "MS",
-    "pu_hours": "0800-1200",
-    "del_date": "2026-11-09",
-    "del_city": "AMORY",
-    "del_state": "MS",
-    "del_hours": "0700-1600",
-    "equipment": "26' Straight Box Truck",
-    "weight_lbs": 5000,
-    "carrier_rate": 250,
-    "updated_at": "2026-11-06T15:42:55.133174+00:00",
-    "lane": "GRENADA MS-AMORY MS"
-  },
-  {
     "pro": "51304",
     "status": "OPEN",
     "pu_date": "2026-11-09",
