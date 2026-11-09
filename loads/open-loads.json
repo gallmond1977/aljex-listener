@@ -1,22 +1,5 @@
 [
   {
-    "pro": "49855",
-    "status": "OPEN",
-    "pu_date": "2026-11-10",
-    "pu_city": "PASADENA",
-    "pu_state": "TX",
-    "pu_hours": "1400",
-    "del_date": "2026-11-12",
-    "del_city": "PIEDMONT",
-    "del_state": "SC",
-    "del_hours": "0630-1400",
-    "equipment": "Van",
-    "weight_lbs": 44960,
-    "carrier_rate": 2600,
-    "updated_at": "2026-11-05T15:35:11.323759+00:00",
-    "lane": "PASADENA TX-PIEDMONT SC"
-  },
-  {
     "pro": "51323",
     "status": "OPEN",
     "pu_date": "2026-11-10",
@@ -644,6 +627,23 @@
     "carrier_rate": 3300,
     "updated_at": "2026-11-09T19:15:23.017009+00:00",
     "lane": "ALPHARETTA GA-BELCAMP MD"
+  },
+  {
+    "pro": "49855",
+    "status": "COVERED",
+    "pu_date": "2026-11-10",
+    "pu_city": "PASADENA",
+    "pu_state": "TX",
+    "pu_hours": "1400",
+    "del_date": "2026-11-12",
+    "del_city": "PIEDMONT",
+    "del_state": "SC",
+    "del_hours": "0630-1400",
+    "equipment": "Van",
+    "weight_lbs": 44960,
+    "carrier_rate": 2800,
+    "updated_at": "2026-11-09T21:08:48.172957+00:00",
+    "lane": "PASADENA TX-PIEDMONT SC"
   },
   {
     "pro": "51252",
