@@ -34,23 +34,6 @@
     "lane": "PASADENA TX-PIEDMONT SC"
   },
   {
-    "pro": "51252",
-    "status": "OPEN",
-    "pu_date": "2026-11-10",
-    "pu_city": "ATHENS",
-    "pu_state": "AL",
-    "pu_hours": "0700-1500",
-    "del_date": "2026-11-11",
-    "del_city": "GULFPORT",
-    "del_state": "MS",
-    "del_hours": "0700-1030",
-    "equipment": "Van",
-    "weight_lbs": 43107,
-    "carrier_rate": 1450,
-    "updated_at": "2026-11-09T12:45:17.253765+00:00",
-    "lane": "ATHENS AL-GULFPORT MS"
-  },
-  {
     "pro": "51323",
     "status": "OPEN",
     "pu_date": "2026-11-10",
@@ -63,8 +46,8 @@
     "del_hours": "0800-1000",
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 3200,
-    "carrier_rate": 500,
-    "updated_at": "2026-11-09T17:38:35.415429+00:00",
+    "carrier_rate": 550,
+    "updated_at": "2026-11-09T20:37:33.752084+00:00",
     "lane": "COLUMBUS GA-TRYON NC"
   },
   {
@@ -712,6 +695,23 @@
     "carrier_rate": 3300,
     "updated_at": "2026-11-09T19:15:23.017009+00:00",
     "lane": "ALPHARETTA GA-BELCAMP MD"
+  },
+  {
+    "pro": "51252",
+    "status": "COVERED",
+    "pu_date": "2026-11-10",
+    "pu_city": "ATHENS",
+    "pu_state": "AL",
+    "pu_hours": "0700-1500",
+    "del_date": "2026-11-11",
+    "del_city": "GULFPORT",
+    "del_state": "MS",
+    "del_hours": "0700-1030",
+    "equipment": "Van",
+    "weight_lbs": 43107,
+    "carrier_rate": 1450,
+    "updated_at": "2026-11-09T20:38:40.946803+00:00",
+    "lane": "ATHENS AL-GULFPORT MS"
   },
   {
     "pro": "51331",
