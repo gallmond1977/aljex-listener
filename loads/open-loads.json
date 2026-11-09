@@ -114,8 +114,8 @@
     "del_hours": "0700-1400",
     "equipment": "Van",
     "weight_lbs": 17500,
-    "carrier_rate": 1540,
-    "updated_at": "2026-11-06T19:42:02.909772+00:00",
+    "carrier_rate": 1500,
+    "updated_at": "2026-11-09T13:03:43.702446+00:00",
     "lane": "CALHOUN GA-TAYLORVILLE IL"
   },
   {
@@ -298,11 +298,11 @@
     "del_date": "2026-11-11",
     "del_city": "GRAND RAPIDS",
     "del_state": "MI",
-    "del_hours": "1000-1500",
+    "del_hours": "0900-1500",
     "equipment": "Van",
     "weight_lbs": 43500,
-    "carrier_rate": null,
-    "updated_at": "2026-11-09T13:00:20.665983+00:00",
+    "carrier_rate": 1000,
+    "updated_at": "2026-11-09T13:01:52.913654+00:00",
     "lane": "PLAINFIELD IN-GRAND RAPIDS MI"
   },
   {
