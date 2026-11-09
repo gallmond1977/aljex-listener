@@ -47,7 +47,7 @@
     "equipment": "Flatbed",
     "weight_lbs": 45162,
     "carrier_rate": 2000,
-    "updated_at": "2026-11-06T20:50:06.279095+00:00",
+    "updated_at": "2026-11-09T13:24:36.647240+00:00",
     "lane": "WHITEHALL NY-CHARLOTTE NC"
   },
   {
@@ -134,6 +134,23 @@
     "carrier_rate": 1100,
     "updated_at": "2026-11-06T21:08:01.526430+00:00",
     "lane": "WILMINGTON NC-SAVANNAH GA"
+  },
+  {
+    "pro": "51351",
+    "status": "OPEN",
+    "pu_date": "2026-11-09",
+    "pu_city": "MIAMI",
+    "pu_state": "FL",
+    "pu_hours": "0800-1200",
+    "del_date": "",
+    "del_city": "TAMPA",
+    "del_state": "FL",
+    "del_hours": "",
+    "equipment": "26' Straight Box Truck",
+    "weight_lbs": 3500,
+    "carrier_rate": null,
+    "updated_at": "2026-11-09T13:24:50.118248+00:00",
+    "lane": "MIAMI FL-TAMPA FL"
   },
   {
     "pro": "49855",
