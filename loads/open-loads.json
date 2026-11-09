@@ -200,7 +200,7 @@
     "equipment": "Reefer",
     "weight_lbs": 43500,
     "carrier_rate": 900,
-    "updated_at": "2026-11-09T16:26:37.284408+00:00",
+    "updated_at": "2026-11-09T17:45:40.976512+00:00",
     "lane": "ROCHELLE IL-DE PERE WI"
   },
   {
@@ -209,7 +209,7 @@
     "pu_date": "2026-11-11",
     "pu_city": "PASADENA",
     "pu_state": "TX",
-    "pu_hours": "NEEDED",
+    "pu_hours": "REQUESTED",
     "del_date": "2026-11-12",
     "del_city": "FORT WORTH",
     "del_state": "TX",
@@ -217,7 +217,7 @@
     "equipment": "Van",
     "weight_lbs": 44960,
     "carrier_rate": null,
-    "updated_at": "2026-11-09T16:27:18.577516+00:00",
+    "updated_at": "2026-11-09T17:49:54.221552+00:00",
     "lane": "PASADENA TX-FORT WORTH TX"
   },
   {
