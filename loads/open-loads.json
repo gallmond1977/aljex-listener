@@ -289,6 +289,23 @@
     "lane": "HILLSVILLE VA-SUMMERVILLE SC"
   },
   {
+    "pro": "51350",
+    "status": "OPEN",
+    "pu_date": "2026-11-10",
+    "pu_city": "PLAINFIELD",
+    "pu_state": "IN",
+    "pu_hours": "APPT",
+    "del_date": "2026-11-11",
+    "del_city": "GRAND RAPIDS",
+    "del_state": "MI",
+    "del_hours": "1000-1500",
+    "equipment": "Van",
+    "weight_lbs": 43500,
+    "carrier_rate": null,
+    "updated_at": "2026-11-09T13:00:20.665983+00:00",
+    "lane": "PLAINFIELD IN-GRAND RAPIDS MI"
+  },
+  {
     "pro": "51253",
     "status": "OPEN",
     "pu_date": "2026-11-11",
