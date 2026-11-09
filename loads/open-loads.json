@@ -68,23 +68,6 @@
     "lane": "HOUSTON TX-ATLANTA GA"
   },
   {
-    "pro": "51352",
-    "status": "OPEN",
-    "pu_date": "2026-11-09",
-    "pu_city": "ENTERPRISE",
-    "pu_state": "AL",
-    "pu_hours": "0800-1300",
-    "del_date": "2026-11-09",
-    "del_city": "TIFTON",
-    "del_state": "GA",
-    "del_hours": "0700-1630",
-    "equipment": "Flatbed Hot Shot",
-    "weight_lbs": 6105,
-    "carrier_rate": 500,
-    "updated_at": "2026-11-09T14:23:12.272198+00:00",
-    "lane": "ENTERPRISE AL-TIFTON GA"
-  },
-  {
     "pro": "49855",
     "status": "OPEN",
     "pu_date": "2026-11-10",
