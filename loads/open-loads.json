@@ -131,8 +131,8 @@
     "del_hours": "0700-0800",
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 1500,
-    "carrier_rate": null,
-    "updated_at": "2026-11-09T19:05:56.956643+00:00",
+    "carrier_rate": 800,
+    "updated_at": "2026-11-09T20:20:05.846940+00:00",
     "lane": "BUFFALO NY-BELCAMP MD"
   },
   {
@@ -182,8 +182,8 @@
     "del_hours": "0800-1200",
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 7000,
-    "carrier_rate": 2000,
-    "updated_at": "2026-11-09T20:13:29.942930+00:00",
+    "carrier_rate": 1800,
+    "updated_at": "2026-11-09T20:18:28.628901+00:00",
     "lane": "NEW BOSTON NH-ROANOKE AL"
   },
   {
