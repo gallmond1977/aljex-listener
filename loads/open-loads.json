@@ -102,23 +102,6 @@
     "lane": "COLUMBUS GA-RICHMOND VA"
   },
   {
-    "pro": "51343",
-    "status": "OPEN",
-    "pu_date": "2026-11-09",
-    "pu_city": "CALHOUN",
-    "pu_state": "GA",
-    "pu_hours": "0730-1500",
-    "del_date": "2026-11-10",
-    "del_city": "TAYLORVILLE",
-    "del_state": "IL",
-    "del_hours": "0700-1400",
-    "equipment": "Van",
-    "weight_lbs": 17500,
-    "carrier_rate": 1500,
-    "updated_at": "2026-11-09T13:03:43.702446+00:00",
-    "lane": "CALHOUN GA-TAYLORVILLE IL"
-  },
-  {
     "pro": "51348",
     "status": "OPEN",
     "pu_date": "2026-11-09",
