@@ -1,22 +1,5 @@
 [
   {
-    "pro": "51322",
-    "status": "OPEN",
-    "pu_date": "2026-11-09",
-    "pu_city": "BUFFALO",
-    "pu_state": "NY",
-    "pu_hours": "1100-1500",
-    "del_date": "2026-11-10",
-    "del_city": "BELCAMP",
-    "del_state": "MD",
-    "del_hours": "0700-1500",
-    "equipment": "Van",
-    "weight_lbs": 17809,
-    "carrier_rate": 1850,
-    "updated_at": "2026-11-09T16:12:15.908142+00:00",
-    "lane": "BUFFALO NY-BELCAMP MD"
-  },
-  {
     "pro": "51335",
     "status": "OPEN",
     "pu_date": "2026-11-09",
@@ -510,23 +493,6 @@
     "lane": "LA PORTE TX-PIEDMONT SC"
   },
   {
-    "pro": "51215",
-    "status": "RELEASED",
-    "pu_date": "2026-11-02",
-    "pu_city": "BUFFALO",
-    "pu_state": "NY",
-    "pu_hours": "1100-1500",
-    "del_date": "2026-11-03",
-    "del_city": "BELCAMP",
-    "del_state": "MD",
-    "del_hours": "0700-1500",
-    "equipment": "Van",
-    "weight_lbs": 15000,
-    "carrier_rate": 1800,
-    "updated_at": "2026-11-03T18:59:54.611853+00:00",
-    "lane": "BUFFALO NY-BELCAMP MD"
-  },
-  {
     "pro": "51128",
     "status": "DELIVERED",
     "pu_date": "2026-11-03",
@@ -542,23 +508,6 @@
     "carrier_rate": 4800,
     "updated_at": "2026-11-07T13:00:17.538822+00:00",
     "lane": "MONTEZUMA GA-TRACY CA"
-  },
-  {
-    "pro": "51258",
-    "status": "RELEASED",
-    "pu_date": "2026-11-03",
-    "pu_city": "BUFFALO",
-    "pu_state": "NY",
-    "pu_hours": "1000-1500",
-    "del_date": "2026-11-04",
-    "del_city": "BELCAMP",
-    "del_state": "MD",
-    "del_hours": "0700-1500",
-    "equipment": "Van",
-    "weight_lbs": 12410,
-    "carrier_rate": 1800,
-    "updated_at": "2026-11-04T15:01:34.532112+00:00",
-    "lane": "BUFFALO NY-BELCAMP MD"
   },
   {
     "pro": "51267",
@@ -610,22 +559,5 @@
     "carrier_rate": 300,
     "updated_at": "2026-11-09T16:35:59.153519+00:00",
     "lane": "COLUMBUS GA-COLUMBUS GA"
-  },
-  {
-    "pro": "51321",
-    "status": "DISPATCHED",
-    "pu_date": "2026-11-09",
-    "pu_city": "BUFFALO",
-    "pu_state": "NY",
-    "pu_hours": "1000-1500",
-    "del_date": "2026-11-10",
-    "del_city": "BELCAMP",
-    "del_state": "MD",
-    "del_hours": "0700-1500",
-    "equipment": "26' Straight Box Truck",
-    "weight_lbs": 2670,
-    "carrier_rate": 800,
-    "updated_at": "2026-11-09T14:46:19.563010+00:00",
-    "lane": "BUFFALO NY-BELCAMP MD"
   }
 ]
