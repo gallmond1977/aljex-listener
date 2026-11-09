@@ -596,7 +596,7 @@
   },
   {
     "pro": "51319",
-    "status": "PICKUP",
+    "status": "DELIVERED",
     "pu_date": "2026-11-09",
     "pu_city": "COLUMBUS",
     "pu_state": "GA",
@@ -608,7 +608,7 @@
     "equipment": "Van",
     "weight_lbs": 40000,
     "carrier_rate": 300,
-    "updated_at": "2026-11-09T12:54:09.532340+00:00",
+    "updated_at": "2026-11-09T16:35:01.959764+00:00",
     "lane": "COLUMBUS GA-COLUMBUS GA"
   },
   {
