@@ -136,6 +136,23 @@
     "lane": "COLUMBUS GA-COLUMBUS GA"
   },
   {
+    "pro": "51357",
+    "status": "OPEN",
+    "pu_date": "2026-11-10",
+    "pu_city": "VILLA RICA",
+    "pu_state": "GA",
+    "pu_hours": "0800-1500",
+    "del_date": "2026-11-12",
+    "del_city": "BROOKSHIRE",
+    "del_state": "TX",
+    "del_hours": "0800-1500",
+    "equipment": "Van",
+    "weight_lbs": 44390,
+    "carrier_rate": null,
+    "updated_at": "2026-11-09T17:10:19.325817+00:00",
+    "lane": "VILLA RICA GA-BROOKSHIRE TX"
+  },
+  {
     "pro": "51253",
     "status": "OPEN",
     "pu_date": "2026-11-11",
