@@ -1,5 +1,22 @@
 [
   {
+    "pro": "51359",
+    "status": "OPEN",
+    "pu_date": "2026-11-09",
+    "pu_city": "MOUNT PLEASANT",
+    "pu_state": "TN",
+    "pu_hours": "1500-1600",
+    "del_date": "2026-11-11",
+    "del_city": "LAKELAND",
+    "del_state": "FL",
+    "del_hours": "0600",
+    "equipment": "Van",
+    "weight_lbs": 15000,
+    "carrier_rate": 2800,
+    "updated_at": "2026-11-09T18:05:17.308664+00:00",
+    "lane": "MOUNT PLEASANT TN-LAKELAND FL"
+  },
+  {
     "pro": "49855",
     "status": "OPEN",
     "pu_date": "2026-11-10",
@@ -209,7 +226,7 @@
     "pu_date": "2026-11-11",
     "pu_city": "PASADENA",
     "pu_state": "TX",
-    "pu_hours": "REQUESTED",
+    "pu_hours": "1400",
     "del_date": "2026-11-12",
     "del_city": "FORT WORTH",
     "del_state": "TX",
@@ -217,7 +234,7 @@
     "equipment": "Van",
     "weight_lbs": 44960,
     "carrier_rate": null,
-    "updated_at": "2026-11-09T17:49:54.221552+00:00",
+    "updated_at": "2026-11-09T18:03:31.815382+00:00",
     "lane": "PASADENA TX-FORT WORTH TX"
   },
   {
