@@ -90,7 +90,7 @@
     "pu_date": "2026-11-10",
     "pu_city": "CERRITOS",
     "pu_state": "CA",
-    "pu_hours": "1200-1400",
+    "pu_hours": "0800-1200",
     "del_date": "2026-11-10",
     "del_city": "ANAHEIM",
     "del_state": "CA",
@@ -98,7 +98,7 @@
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 1000,
     "carrier_rate": 200,
-    "updated_at": "2026-11-09T20:48:11.179862+00:00",
+    "updated_at": "2026-11-09T20:53:24.694149+00:00",
     "lane": "CERRITOS CA-ANAHEIM CA"
   },
   {
@@ -659,7 +659,7 @@
     "equipment": "Flatbed w/ Tarps",
     "weight_lbs": 42000,
     "carrier_rate": 3200,
-    "updated_at": "2026-11-09T20:42:20.470869+00:00",
+    "updated_at": "2026-11-09T20:54:11.572884+00:00",
     "lane": "ALPHARETTA GA-BELCAMP MD"
   }
 ]
