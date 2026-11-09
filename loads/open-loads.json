@@ -119,37 +119,20 @@
     "lane": "HOUSTON TX-ATLANTA GA"
   },
   {
-    "pro": "51349",
-    "status": "OPEN",
-    "pu_date": "2026-11-09",
-    "pu_city": "WILMINGTON",
-    "pu_state": "NC",
-    "pu_hours": "0800-100",
-    "del_date": "2026-11-10",
-    "del_city": "SAVANNAH",
-    "del_state": "GA",
-    "del_hours": "0700-1400",
-    "equipment": "Flatbed",
-    "weight_lbs": 41200,
-    "carrier_rate": 1100,
-    "updated_at": "2026-11-09T13:28:52.351274+00:00",
-    "lane": "WILMINGTON NC-SAVANNAH GA"
-  },
-  {
     "pro": "51351",
     "status": "OPEN",
     "pu_date": "2026-11-09",
     "pu_city": "MIAMI",
     "pu_state": "FL",
     "pu_hours": "0800-1200",
-    "del_date": "",
+    "del_date": "2026-11-09",
     "del_city": "TAMPA",
     "del_state": "FL",
-    "del_hours": "",
+    "del_hours": "0630-1530",
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 3500,
     "carrier_rate": 400,
-    "updated_at": "2026-11-09T13:29:31.821624+00:00",
+    "updated_at": "2026-11-09T13:34:45.217479+00:00",
     "lane": "MIAMI FL-TAMPA FL"
   },
   {
@@ -727,7 +710,7 @@
     "equipment": "Van",
     "weight_lbs": 41328,
     "carrier_rate": 2800,
-    "updated_at": "2026-11-09T13:26:44.645799+00:00",
+    "updated_at": "2026-11-09T13:31:04.875654+00:00",
     "lane": "LA PORTE TX-PIEDMONT SC"
   }
 ]
