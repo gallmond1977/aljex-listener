@@ -107,7 +107,7 @@
     "pu_date": "2026-11-10",
     "pu_city": "PLAINFIELD",
     "pu_state": "IN",
-    "pu_hours": "APPT",
+    "pu_hours": "1500",
     "del_date": "2026-11-11",
     "del_city": "GRAND RAPIDS",
     "del_state": "MI",
@@ -115,7 +115,7 @@
     "equipment": "Van",
     "weight_lbs": 43500,
     "carrier_rate": 1000,
-    "updated_at": "2026-11-09T13:01:52.913654+00:00",
+    "updated_at": "2026-11-09T16:53:25.729734+00:00",
     "lane": "PLAINFIELD IN-GRAND RAPIDS MI"
   },
   {
@@ -540,7 +540,7 @@
     "equipment": "Van",
     "weight_lbs": 41328,
     "carrier_rate": 2800,
-    "updated_at": "2026-11-09T16:29:44.941298+00:00",
+    "updated_at": "2026-11-09T16:54:11.403455+00:00",
     "lane": "LA PORTE TX-PIEDMONT SC"
   },
   {
