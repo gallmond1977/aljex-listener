@@ -1,22 +1,5 @@
 [
   {
-    "pro": "51304",
-    "status": "OPEN",
-    "pu_date": "2026-11-09",
-    "pu_city": "EL DORADO",
-    "pu_state": "AR",
-    "pu_hours": "0700-1500",
-    "del_date": "2026-11-10",
-    "del_city": "CALHOUN",
-    "del_state": "GA",
-    "del_hours": "0730-1400",
-    "equipment": "Van",
-    "weight_lbs": 43212,
-    "carrier_rate": 1800,
-    "updated_at": "2026-11-04T18:30:14.672555+00:00",
-    "lane": "EL DORADO AR-CALHOUN GA"
-  },
-  {
     "pro": "51322",
     "status": "OPEN",
     "pu_date": "2026-11-09",
@@ -559,23 +542,6 @@
     "carrier_rate": null,
     "updated_at": "2026-11-05T16:51:53.885923+00:00",
     "lane": "LA PORTE TX-PIEDMONT SC"
-  },
-  {
-    "pro": "51134",
-    "status": "RELEASED",
-    "pu_date": "2026-10-27",
-    "pu_city": "EL DORADO",
-    "pu_state": "AR",
-    "pu_hours": "0700-1500",
-    "del_date": "2026-10-28",
-    "del_city": "CALHOUN",
-    "del_state": "GA",
-    "del_hours": "0730-1400",
-    "equipment": "Van",
-    "weight_lbs": 43006,
-    "carrier_rate": 1800,
-    "updated_at": "2026-11-02T14:30:16.088460+00:00",
-    "lane": "EL DORADO AR-CALHOUN GA"
   },
   {
     "pro": "51160",
