@@ -12,8 +12,8 @@
     "del_hours": "0600-1100",
     "equipment": "Van Hazmat",
     "weight_lbs": 44900,
-    "carrier_rate": 2500,
-    "updated_at": "2026-11-09T15:44:36.098030+00:00",
+    "carrier_rate": 2700,
+    "updated_at": "2026-11-09T17:15:08.966163+00:00",
     "lane": "OAKLAND TN-SALISBURY NC"
   },
   {
@@ -149,7 +149,7 @@
     "equipment": "Van",
     "weight_lbs": 44390,
     "carrier_rate": null,
-    "updated_at": "2026-11-09T17:10:19.325817+00:00",
+    "updated_at": "2026-11-09T17:12:19.250742+00:00",
     "lane": "VILLA RICA GA-BROOKSHIRE TX"
   },
   {
