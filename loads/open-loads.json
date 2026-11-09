@@ -17,23 +17,6 @@
     "lane": "BUFFALO NY-BELCAMP MD"
   },
   {
-    "pro": "51334",
-    "status": "OPEN",
-    "pu_date": "2026-11-09",
-    "pu_city": "OAKLAND",
-    "pu_state": "TN",
-    "pu_hours": "0800-1500",
-    "del_date": "2026-11-10",
-    "del_city": "PHENIX CITY",
-    "del_state": "AL",
-    "del_hours": "0600-1430",
-    "equipment": "Van Hazmat",
-    "weight_lbs": 44900,
-    "carrier_rate": 2000,
-    "updated_at": "2026-11-09T15:05:21.386114+00:00",
-    "lane": "OAKLAND TN-PHENIX CITY AL"
-  },
-  {
     "pro": "51335",
     "status": "OPEN",
     "pu_date": "2026-11-09",
@@ -542,23 +525,6 @@
     "carrier_rate": 1800,
     "updated_at": "2026-11-03T18:59:54.611853+00:00",
     "lane": "BUFFALO NY-BELCAMP MD"
-  },
-  {
-    "pro": "51250",
-    "status": "RELEASED",
-    "pu_date": "2026-11-02",
-    "pu_city": "OAKLAND",
-    "pu_state": "TN",
-    "pu_hours": "0800-1500",
-    "del_date": "2026-11-03",
-    "del_city": "PHENIX CITY",
-    "del_state": "AL",
-    "del_hours": "0600-1430",
-    "equipment": "Van Hazmat",
-    "weight_lbs": 44900,
-    "carrier_rate": 2000,
-    "updated_at": "2026-11-03T19:57:50.114202+00:00",
-    "lane": "OAKLAND TN-PHENIX CITY AL"
   },
   {
     "pro": "51128",
