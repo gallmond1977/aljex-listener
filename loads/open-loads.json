@@ -13,7 +13,7 @@
     "equipment": "Van",
     "weight_lbs": 17809,
     "carrier_rate": 1800,
-    "updated_at": "2026-11-09T13:59:15.140410+00:00",
+    "updated_at": "2026-11-09T14:21:42.849394+00:00",
     "lane": "BUFFALO NY-BELCAMP MD"
   },
   {
@@ -81,7 +81,7 @@
     "equipment": "Flatbed Hot Shot",
     "weight_lbs": 6105,
     "carrier_rate": 500,
-    "updated_at": "2026-11-09T14:00:41.345034+00:00",
+    "updated_at": "2026-11-09T14:23:12.272198+00:00",
     "lane": "ENTERPRISE AL-TIFTON GA"
   },
   {
