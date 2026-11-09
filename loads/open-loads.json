@@ -47,7 +47,7 @@
     "equipment": "Flatbed",
     "weight_lbs": 45162,
     "carrier_rate": 2000,
-    "updated_at": "2026-11-09T13:24:36.647240+00:00",
+    "updated_at": "2026-11-09T13:29:56.372338+00:00",
     "lane": "WHITEHALL NY-CHARLOTTE NC"
   },
   {
@@ -63,8 +63,8 @@
     "del_hours": "0600-1430",
     "equipment": "Van Hazmat",
     "weight_lbs": 44900,
-    "carrier_rate": 2000,
-    "updated_at": "2026-11-06T16:10:56.595687+00:00",
+    "carrier_rate": 1900,
+    "updated_at": "2026-11-09T13:26:01.154682+00:00",
     "lane": "OAKLAND TN-PHENIX CITY AL"
   },
   {
@@ -80,8 +80,8 @@
     "del_hours": "0600-1100",
     "equipment": "Van Hazmat",
     "weight_lbs": 44900,
-    "carrier_rate": null,
-    "updated_at": "2026-11-06T20:07:16.653675+00:00",
+    "carrier_rate": 2500,
+    "updated_at": "2026-11-09T13:30:18.395745+00:00",
     "lane": "OAKLAND TN-SALISBURY NC"
   },
   {
@@ -124,7 +124,7 @@
     "pu_date": "2026-11-09",
     "pu_city": "WILMINGTON",
     "pu_state": "NC",
-    "pu_hours": "APPT",
+    "pu_hours": "0800-100",
     "del_date": "2026-11-10",
     "del_city": "SAVANNAH",
     "del_state": "GA",
@@ -132,7 +132,7 @@
     "equipment": "Flatbed",
     "weight_lbs": 41200,
     "carrier_rate": 1100,
-    "updated_at": "2026-11-06T21:08:01.526430+00:00",
+    "updated_at": "2026-11-09T13:28:52.351274+00:00",
     "lane": "WILMINGTON NC-SAVANNAH GA"
   },
   {
@@ -148,8 +148,8 @@
     "del_hours": "",
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 3500,
-    "carrier_rate": null,
-    "updated_at": "2026-11-09T13:24:50.118248+00:00",
+    "carrier_rate": 400,
+    "updated_at": "2026-11-09T13:29:31.821624+00:00",
     "lane": "MIAMI FL-TAMPA FL"
   },
   {
@@ -727,7 +727,7 @@
     "equipment": "Van",
     "weight_lbs": 41328,
     "carrier_rate": 2800,
-    "updated_at": "2026-11-06T19:55:16.889369+00:00",
+    "updated_at": "2026-11-09T13:26:44.645799+00:00",
     "lane": "LA PORTE TX-PIEDMONT SC"
   }
 ]
