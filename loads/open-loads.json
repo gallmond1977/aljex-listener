@@ -166,7 +166,7 @@
     "equipment": "Flatbed w/ Tarps",
     "weight_lbs": 42000,
     "carrier_rate": 3200,
-    "updated_at": "2026-11-09T20:06:21.929447+00:00",
+    "updated_at": "2026-11-09T20:14:56.536106+00:00",
     "lane": "ALPHARETTA GA-BELCAMP MD"
   },
   {
@@ -182,8 +182,8 @@
     "del_hours": "0800-1200",
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 7000,
-    "carrier_rate": null,
-    "updated_at": "2026-11-09T20:09:59.958795+00:00",
+    "carrier_rate": 2000,
+    "updated_at": "2026-11-09T20:13:29.942930+00:00",
     "lane": "NEW BOSTON NH-ROANOKE AL"
   },
   {
