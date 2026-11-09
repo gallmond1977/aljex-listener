@@ -56,7 +56,7 @@
     "pu_date": "2026-11-09",
     "pu_city": "HOUSTON",
     "pu_state": "TX",
-    "pu_hours": "0900",
+    "pu_hours": "1330",
     "del_date": "2026-11-11",
     "del_city": "SANFORD",
     "del_state": "FL",
@@ -64,7 +64,7 @@
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 7000,
     "carrier_rate": 1800,
-    "updated_at": "2026-11-09T14:44:41.998315+00:00",
+    "updated_at": "2026-11-09T14:47:29.261709+00:00",
     "lane": "HOUSTON TX-SANFORD FL"
   },
   {
@@ -298,11 +298,11 @@
     "del_date": "2026-11-12",
     "del_city": "LOUISVILLE",
     "del_state": "KY",
-    "del_hours": "0800-1400",
+    "del_hours": "0800-1300",
     "equipment": "Van",
     "weight_lbs": 44000,
     "carrier_rate": 1550,
-    "updated_at": "2026-11-09T14:43:23.165925+00:00",
+    "updated_at": "2026-11-09T14:48:00.170189+00:00",
     "lane": "THEODORE AL-LOUISVILLE KY"
   },
   {
@@ -715,7 +715,7 @@
   },
   {
     "pro": "51321",
-    "status": "COVERED",
+    "status": "DISPATCHED",
     "pu_date": "2026-11-09",
     "pu_city": "BUFFALO",
     "pu_state": "NY",
@@ -727,7 +727,7 @@
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 2670,
     "carrier_rate": 800,
-    "updated_at": "2026-11-09T14:45:08.153458+00:00",
+    "updated_at": "2026-11-09T14:46:19.563010+00:00",
     "lane": "BUFFALO NY-BELCAMP MD"
   }
 ]
