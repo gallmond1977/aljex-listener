@@ -1,22 +1,5 @@
 [
   {
-    "pro": "51359",
-    "status": "OPEN",
-    "pu_date": "2026-11-09",
-    "pu_city": "MOUNT PLEASANT",
-    "pu_state": "TN",
-    "pu_hours": "1500-1600",
-    "del_date": "2026-11-11",
-    "del_city": "LAKELAND",
-    "del_state": "FL",
-    "del_hours": "0600",
-    "equipment": "Van",
-    "weight_lbs": 15000,
-    "carrier_rate": 3000,
-    "updated_at": "2026-11-09T18:31:49.516939+00:00",
-    "lane": "MOUNT PLEASANT TN-LAKELAND FL"
-  },
-  {
     "pro": "49855",
     "status": "OPEN",
     "pu_date": "2026-11-10",
