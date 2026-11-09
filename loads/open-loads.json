@@ -136,23 +136,6 @@
     "lane": "BUFFALO NY-BELCAMP MD"
   },
   {
-    "pro": "51362",
-    "status": "OPEN",
-    "pu_date": "2026-11-10",
-    "pu_city": "FAYETTEVILLE",
-    "pu_state": "NC",
-    "pu_hours": "0730-1000",
-    "del_date": "2026-11-10",
-    "del_city": "CHARLOTTE",
-    "del_state": "NC",
-    "del_hours": "0800-1500",
-    "equipment": "Sprinter Van",
-    "weight_lbs": 1400,
-    "carrier_rate": 350,
-    "updated_at": "2026-11-09T19:52:19.063930+00:00",
-    "lane": "FAYETTEVILLE NC-CHARLOTTE NC"
-  },
-  {
     "pro": "51364",
     "status": "OPEN",
     "pu_date": "2026-11-10",
@@ -166,7 +149,7 @@
     "equipment": "Van",
     "weight_lbs": 35000,
     "carrier_rate": null,
-    "updated_at": "2026-11-09T19:59:17.208902+00:00",
+    "updated_at": "2026-11-09T20:06:08.450086+00:00",
     "lane": "ALPHARETTA GA-BELCAMP MD"
   },
   {
@@ -179,11 +162,11 @@
     "del_date": "2026-11-11",
     "del_city": "BELCAMP",
     "del_state": "MD",
-    "del_hours": "0700-1300",
+    "del_hours": "0700-1500",
     "equipment": "Flatbed w/ Tarps",
     "weight_lbs": 42000,
     "carrier_rate": 3200,
-    "updated_at": "2026-11-09T20:00:59.854847+00:00",
+    "updated_at": "2026-11-09T20:06:21.929447+00:00",
     "lane": "ALPHARETTA GA-BELCAMP MD"
   },
   {
@@ -192,7 +175,7 @@
     "pu_date": "2026-11-10",
     "pu_city": "NEW BOSTON",
     "pu_state": "NH",
-    "pu_hours": "0700-1700",
+    "pu_hours": "0700-1600",
     "del_date": "2026-11-11",
     "del_city": "ROANOKE",
     "del_state": "AL",
@@ -200,7 +183,7 @@
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 7000,
     "carrier_rate": null,
-    "updated_at": "2026-11-09T20:03:47.655237+00:00",
+    "updated_at": "2026-11-09T20:09:59.958795+00:00",
     "lane": "NEW BOSTON NH-ROANOKE AL"
   },
   {
@@ -301,8 +284,8 @@
     "del_hours": "0800-1500",
     "equipment": "Van",
     "weight_lbs": 44960,
-    "carrier_rate": null,
-    "updated_at": "2026-11-09T18:03:31.815382+00:00",
+    "carrier_rate": 900,
+    "updated_at": "2026-11-09T20:10:18.365306+00:00",
     "lane": "PASADENA TX-FORT WORTH TX"
   },
   {
