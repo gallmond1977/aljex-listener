@@ -125,14 +125,14 @@
     "pu_city": "JACKSONVILLE",
     "pu_state": "TX",
     "pu_hours": "0800-1500",
-    "del_date": "",
+    "del_date": "2026-11-10",
     "del_city": "VIDOR",
     "del_state": "TX",
-    "del_hours": "",
+    "del_hours": "0700-1300",
     "equipment": "Flatbed w/ Tarps",
     "weight_lbs": 46000,
-    "carrier_rate": 800,
-    "updated_at": "2026-11-05T15:45:24.466436+00:00",
+    "carrier_rate": 850,
+    "updated_at": "2026-11-09T15:00:26.273653+00:00",
     "lane": "JACKSONVILLE TX-VIDOR TX"
   },
   {
@@ -576,23 +576,6 @@
     "carrier_rate": 2300,
     "updated_at": "2026-11-02T15:25:07.526622+00:00",
     "lane": "OAKLAND TN-PHENIX CITY AL"
-  },
-  {
-    "pro": "51172",
-    "status": "RELEASED",
-    "pu_date": "2026-10-30",
-    "pu_city": "PENDERGRASS",
-    "pu_state": "GA",
-    "pu_hours": "1300",
-    "del_date": "2026-11-02",
-    "del_city": "ZEBULON",
-    "del_state": "NC",
-    "del_hours": "0700-0900",
-    "equipment": "Van",
-    "weight_lbs": 40124,
-    "carrier_rate": 1200,
-    "updated_at": "2026-11-02T14:57:15.143987+00:00",
-    "lane": "PENDERGRASS GA-ZEBULON NC"
   },
   {
     "pro": "51215",
