@@ -153,23 +153,6 @@
     "lane": "OAKLAND TN-SALISBURY NC"
   },
   {
-    "pro": "51346",
-    "status": "OPEN",
-    "pu_date": "2026-11-10",
-    "pu_city": "COLUMBUS",
-    "pu_state": "GA",
-    "pu_hours": "1100",
-    "del_date": "",
-    "del_city": "TRYON",
-    "del_state": "NC",
-    "del_hours": "0800-1000",
-    "equipment": "26' Straight Box Truck",
-    "weight_lbs": 3200,
-    "carrier_rate": 500,
-    "updated_at": "2026-11-06T20:00:26.965738+00:00",
-    "lane": "COLUMBUS GA-TRYON NC"
-  },
-  {
     "pro": "51347",
     "status": "OPEN",
     "pu_date": "2026-11-10",
@@ -216,8 +199,8 @@
     "del_hours": "0800-1800",
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 9000,
-    "carrier_rate": 600,
-    "updated_at": "2026-11-09T15:29:46.389485+00:00",
+    "carrier_rate": 500,
+    "updated_at": "2026-11-09T15:34:01.093485+00:00",
     "lane": "COLUMBUS GA-COLUMBUS GA"
   },
   {
