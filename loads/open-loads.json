@@ -234,8 +234,25 @@
     "equipment": "Reefer",
     "weight_lbs": 43500,
     "carrier_rate": 900,
-    "updated_at": "2026-11-09T16:25:15.290739+00:00",
+    "updated_at": "2026-11-09T16:26:37.284408+00:00",
     "lane": "ROCHELLE IL-DE PERE WI"
+  },
+  {
+    "pro": "51356",
+    "status": "OPEN",
+    "pu_date": "2026-11-11",
+    "pu_city": "PASADENA",
+    "pu_state": "TX",
+    "pu_hours": "NEEDED",
+    "del_date": "2026-11-12",
+    "del_city": "FORT WORTH",
+    "del_state": "TX",
+    "del_hours": "0800-1500",
+    "equipment": "Van",
+    "weight_lbs": 44960,
+    "carrier_rate": null,
+    "updated_at": "2026-11-09T16:27:18.577516+00:00",
+    "lane": "PASADENA TX-FORT WORTH TX"
   },
   {
     "pro": "50542",
@@ -562,7 +579,7 @@
   },
   {
     "pro": "51269",
-    "status": "COVERED",
+    "status": "DISPATCHED",
     "pu_date": "2026-11-09",
     "pu_city": "LA PORTE",
     "pu_state": "TX",
@@ -574,7 +591,7 @@
     "equipment": "Van",
     "weight_lbs": 41328,
     "carrier_rate": 2800,
-    "updated_at": "2026-11-09T14:13:43.316570+00:00",
+    "updated_at": "2026-11-09T16:29:44.941298+00:00",
     "lane": "LA PORTE TX-PIEDMONT SC"
   },
   {
