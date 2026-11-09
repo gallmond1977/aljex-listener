@@ -45,9 +45,9 @@
     "del_state": "GA",
     "del_hours": "1200",
     "equipment": "Van",
-    "weight_lbs": 44000,
+    "weight_lbs": 35000,
     "carrier_rate": 1700,
-    "updated_at": "2026-11-06T20:54:47.536534+00:00",
+    "updated_at": "2026-11-09T15:14:59.816202+00:00",
     "lane": "HOUSTON TX-ATLANTA GA"
   },
   {
@@ -306,6 +306,23 @@
     "lane": "PENDERGRASS GA-ZEBULON NC"
   },
   {
+    "pro": "51353",
+    "status": "OPEN",
+    "pu_date": "2026-11-13",
+    "pu_city": "MONTEZUMA",
+    "pu_state": "GA",
+    "pu_hours": "",
+    "del_date": "2026-11-17",
+    "del_city": "TRACY",
+    "del_state": "CA",
+    "del_hours": "0415",
+    "equipment": "Reefer",
+    "weight_lbs": 39000,
+    "carrier_rate": null,
+    "updated_at": "2026-11-09T15:14:30.791348+00:00",
+    "lane": "MONTEZUMA GA-TRACY CA"
+  },
+  {
     "pro": "51251",
     "status": "OPEN",
     "pu_date": "2026-11-16",
@@ -510,23 +527,6 @@
     "lane": "LA PORTE TX-PIEDMONT SC"
   },
   {
-    "pro": "51160",
-    "status": "RELEASED",
-    "pu_date": "2026-10-28",
-    "pu_city": "OAKLAND",
-    "pu_state": "TN",
-    "pu_hours": "0800-1500",
-    "del_date": "2026-10-29",
-    "del_city": "SALISBURY",
-    "del_state": "NC",
-    "del_hours": "0600-1100",
-    "equipment": "Van Hazmat",
-    "weight_lbs": 44900,
-    "carrier_rate": 3000,
-    "updated_at": "2026-11-02T15:11:25.656474+00:00",
-    "lane": "OAKLAND TN-SALISBURY NC"
-  },
-  {
     "pro": "51161",
     "status": "RELEASED",
     "pu_date": "2026-10-28",
@@ -576,6 +576,23 @@
     "carrier_rate": 2000,
     "updated_at": "2026-11-03T19:57:50.114202+00:00",
     "lane": "OAKLAND TN-PHENIX CITY AL"
+  },
+  {
+    "pro": "51128",
+    "status": "DELIVERED",
+    "pu_date": "2026-11-03",
+    "pu_city": "MONTEZUMA",
+    "pu_state": "GA",
+    "pu_hours": "1300",
+    "del_date": "2026-11-07",
+    "del_city": "TRACY",
+    "del_state": "CA",
+    "del_hours": "0345",
+    "equipment": "Reefer",
+    "weight_lbs": 13650,
+    "carrier_rate": 4800,
+    "updated_at": "2026-11-07T13:00:17.538822+00:00",
+    "lane": "MONTEZUMA GA-TRACY CA"
   },
   {
     "pro": "51258",
