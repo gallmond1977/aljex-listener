@@ -17,6 +17,23 @@
     "lane": "EL DORADO AR-CALHOUN GA"
   },
   {
+    "pro": "51322",
+    "status": "OPEN",
+    "pu_date": "2026-11-09",
+    "pu_city": "BUFFALO",
+    "pu_state": "NY",
+    "pu_hours": "1100-1500",
+    "del_date": "2026-11-10",
+    "del_city": "BELCAMP",
+    "del_state": "MD",
+    "del_hours": "0700-1500",
+    "equipment": "Van",
+    "weight_lbs": 17809,
+    "carrier_rate": 1800,
+    "updated_at": "2026-11-09T13:59:15.140410+00:00",
+    "lane": "BUFFALO NY-BELCAMP MD"
+  },
+  {
     "pro": "51334",
     "status": "OPEN",
     "pu_date": "2026-11-09",
@@ -91,14 +108,14 @@
     "pu_city": "ENTERPRISE",
     "pu_state": "AL",
     "pu_hours": "0800-1300",
-    "del_date": "",
+    "del_date": "2026-11-09",
     "del_city": "TIFTON",
     "del_state": "GA",
     "del_hours": "0700-1630",
     "equipment": "Flatbed Hot Shot",
     "weight_lbs": 6105,
-    "carrier_rate": 450,
-    "updated_at": "2026-11-09T13:53:50.088158+00:00",
+    "carrier_rate": 500,
+    "updated_at": "2026-11-09T14:00:41.345034+00:00",
     "lane": "ENTERPRISE AL-TIFTON GA"
   },
   {
@@ -612,6 +629,23 @@
     "lane": "PENDERGRASS GA-ZEBULON NC"
   },
   {
+    "pro": "51215",
+    "status": "RELEASED",
+    "pu_date": "2026-11-02",
+    "pu_city": "BUFFALO",
+    "pu_state": "NY",
+    "pu_hours": "1100-1500",
+    "del_date": "2026-11-03",
+    "del_city": "BELCAMP",
+    "del_state": "MD",
+    "del_hours": "0700-1500",
+    "equipment": "Van",
+    "weight_lbs": 15000,
+    "carrier_rate": 1800,
+    "updated_at": "2026-11-03T18:59:54.611853+00:00",
+    "lane": "BUFFALO NY-BELCAMP MD"
+  },
+  {
     "pro": "51250",
     "status": "RELEASED",
     "pu_date": "2026-11-02",
@@ -627,6 +661,23 @@
     "carrier_rate": 2000,
     "updated_at": "2026-11-03T19:57:50.114202+00:00",
     "lane": "OAKLAND TN-PHENIX CITY AL"
+  },
+  {
+    "pro": "51258",
+    "status": "RELEASED",
+    "pu_date": "2026-11-03",
+    "pu_city": "BUFFALO",
+    "pu_state": "NY",
+    "pu_hours": "1000-1500",
+    "del_date": "2026-11-04",
+    "del_city": "BELCAMP",
+    "del_state": "MD",
+    "del_hours": "0700-1500",
+    "equipment": "Van",
+    "weight_lbs": 12410,
+    "carrier_rate": 1800,
+    "updated_at": "2026-11-04T15:01:34.532112+00:00",
+    "lane": "BUFFALO NY-BELCAMP MD"
   },
   {
     "pro": "51267",
@@ -661,5 +712,22 @@
     "carrier_rate": 2800,
     "updated_at": "2026-11-09T13:31:04.875654+00:00",
     "lane": "LA PORTE TX-PIEDMONT SC"
+  },
+  {
+    "pro": "51321",
+    "status": "COVERED",
+    "pu_date": "2026-11-09",
+    "pu_city": "BUFFALO",
+    "pu_state": "NY",
+    "pu_hours": "1000-1500",
+    "del_date": "2026-11-10",
+    "del_city": "BELCAMP",
+    "del_state": "MD",
+    "del_hours": "0700-1500",
+    "equipment": "26' Straight Box Truck",
+    "weight_lbs": 2670,
+    "carrier_rate": 800,
+    "updated_at": "2026-11-09T13:55:32.612363+00:00",
+    "lane": "BUFFALO NY-BELCAMP MD"
   }
 ]
