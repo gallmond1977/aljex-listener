@@ -98,7 +98,7 @@
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 7000,
     "carrier_rate": 1800,
-    "updated_at": "2026-11-09T20:29:39.993363+00:00",
+    "updated_at": "2026-11-09T21:37:56.339691+00:00",
     "lane": "NEW BOSTON NH-ROANOKE AL"
   },
   {
@@ -243,7 +243,7 @@
     "pu_date": "2026-11-11",
     "pu_city": "EVANSVILLE",
     "pu_state": "IN",
-    "pu_hours": "0700-1100",
+    "pu_hours": "0630-1500",
     "del_date": "2026-11-12",
     "del_city": "OKLAHOMA CITY",
     "del_state": "OK",
@@ -251,7 +251,7 @@
     "equipment": "Flatbed",
     "weight_lbs": 48000,
     "carrier_rate": 3400,
-    "updated_at": "2026-11-09T21:34:51.599512+00:00",
+    "updated_at": "2026-11-09T21:38:56.110552+00:00",
     "lane": "EVANSVILLE IN-OKLAHOMA CITY OK"
   },
   {
