@@ -107,7 +107,7 @@
     "pu_date": "2026-11-10",
     "pu_city": "COLUMBUS",
     "pu_state": "GA",
-    "pu_hours": "0900",
+    "pu_hours": "1100",
     "del_date": "2026-11-11",
     "del_city": "TRYON",
     "del_state": "NC",
@@ -115,7 +115,7 @@
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 3200,
     "carrier_rate": 500,
-    "updated_at": "2026-11-06T20:00:54.969672+00:00",
+    "updated_at": "2026-11-09T15:27:25.765140+00:00",
     "lane": "COLUMBUS GA-TRYON NC"
   },
   {
@@ -204,6 +204,23 @@
     "lane": "PLAINFIELD IN-GRAND RAPIDS MI"
   },
   {
+    "pro": "51355",
+    "status": "OPEN",
+    "pu_date": "2026-11-10",
+    "pu_city": "COLUMBUS",
+    "pu_state": "GA",
+    "pu_hours": "0630-0800",
+    "del_date": "2026-11-10",
+    "del_city": "COLUMBUS",
+    "del_state": "GA",
+    "del_hours": "0800-1800",
+    "equipment": "26' Straight Box Truck",
+    "weight_lbs": 9000,
+    "carrier_rate": 600,
+    "updated_at": "2026-11-09T15:29:46.389485+00:00",
+    "lane": "COLUMBUS GA-COLUMBUS GA"
+  },
+  {
     "pro": "51253",
     "status": "OPEN",
     "pu_date": "2026-11-11",
@@ -270,6 +287,23 @@
     "carrier_rate": 1550,
     "updated_at": "2026-11-09T14:48:00.170189+00:00",
     "lane": "THEODORE AL-LOUISVILLE KY"
+  },
+  {
+    "pro": "51354",
+    "status": "OPEN",
+    "pu_date": "2026-11-11",
+    "pu_city": "ROCHELLE",
+    "pu_state": "IL",
+    "pu_hours": "0600-1000",
+    "del_date": "2026-11-12",
+    "del_city": "DE PERE",
+    "del_state": "WI",
+    "del_hours": "",
+    "equipment": "Reefer",
+    "weight_lbs": 43500,
+    "carrier_rate": 900,
+    "updated_at": "2026-11-09T15:28:10.971381+00:00",
+    "lane": "ROCHELLE IL-DE PERE WI"
   },
   {
     "pro": "50542",
@@ -627,6 +661,23 @@
     "carrier_rate": 2800,
     "updated_at": "2026-11-09T14:13:43.316570+00:00",
     "lane": "LA PORTE TX-PIEDMONT SC"
+  },
+  {
+    "pro": "51319",
+    "status": "PICKUP",
+    "pu_date": "2026-11-09",
+    "pu_city": "COLUMBUS",
+    "pu_state": "GA",
+    "pu_hours": "0800",
+    "del_date": "2026-11-09",
+    "del_city": "COLUMBUS",
+    "del_state": "GA",
+    "del_hours": "0800-1200",
+    "equipment": "Van",
+    "weight_lbs": 40000,
+    "carrier_rate": 300,
+    "updated_at": "2026-11-09T12:54:09.532340+00:00",
+    "lane": "COLUMBUS GA-COLUMBUS GA"
   },
   {
     "pro": "51321",
