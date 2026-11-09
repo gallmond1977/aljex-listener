@@ -34,23 +34,6 @@
     "lane": "OAKLAND TN-PHENIX CITY AL"
   },
   {
-    "pro": "51348",
-    "status": "OPEN",
-    "pu_date": "2026-11-09",
-    "pu_city": "HOUSTON",
-    "pu_state": "TX",
-    "pu_hours": "0700-1300",
-    "del_date": "2026-11-10",
-    "del_city": "ATLANTA",
-    "del_state": "GA",
-    "del_hours": "1200",
-    "equipment": "Van",
-    "weight_lbs": 35000,
-    "carrier_rate": 1700,
-    "updated_at": "2026-11-09T15:14:59.816202+00:00",
-    "lane": "HOUSTON TX-ATLANTA GA"
-  },
-  {
     "pro": "49855",
     "status": "OPEN",
     "pu_date": "2026-11-10",
