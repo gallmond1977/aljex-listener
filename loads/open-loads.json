@@ -1,22 +1,5 @@
 [
   {
-    "pro": "51361",
-    "status": "OPEN",
-    "pu_date": "2026-11-09",
-    "pu_city": "CERRITOS",
-    "pu_state": "CA",
-    "pu_hours": "1200-1400",
-    "del_date": "2026-11-09",
-    "del_city": "ANAHEIM",
-    "del_state": "CA",
-    "del_hours": "0800-1600",
-    "equipment": "26' Straight Box Truck",
-    "weight_lbs": 1000,
-    "carrier_rate": 200,
-    "updated_at": "2026-11-09T19:20:42.014556+00:00",
-    "lane": "CERRITOS CA-ANAHEIM CA"
-  },
-  {
     "pro": "49855",
     "status": "OPEN",
     "pu_date": "2026-11-10",
@@ -100,6 +83,23 @@
     "carrier_rate": 2000,
     "updated_at": "2026-11-09T17:17:22.303683+00:00",
     "lane": "VILLA RICA GA-BROOKSHIRE TX"
+  },
+  {
+    "pro": "51361",
+    "status": "OPEN",
+    "pu_date": "2026-11-10",
+    "pu_city": "CERRITOS",
+    "pu_state": "CA",
+    "pu_hours": "1200-1400",
+    "del_date": "2026-11-10",
+    "del_city": "ANAHEIM",
+    "del_state": "CA",
+    "del_hours": "0800-1600",
+    "equipment": "26' Straight Box Truck",
+    "weight_lbs": 1000,
+    "carrier_rate": 200,
+    "updated_at": "2026-11-09T20:48:11.179862+00:00",
+    "lane": "CERRITOS CA-ANAHEIM CA"
   },
   {
     "pro": "51366",
