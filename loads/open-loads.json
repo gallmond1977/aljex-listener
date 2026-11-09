@@ -34,23 +34,6 @@
     "lane": "EL DORADO AR-CALHOUN GA"
   },
   {
-    "pro": "51330",
-    "status": "OPEN",
-    "pu_date": "2026-11-09",
-    "pu_city": "WHITEHALL",
-    "pu_state": "NY",
-    "pu_hours": "0700-1500",
-    "del_date": "2026-11-10",
-    "del_city": "CHARLOTTE",
-    "del_state": "NC",
-    "del_hours": "0900-1400",
-    "equipment": "Flatbed",
-    "weight_lbs": 45162,
-    "carrier_rate": 2000,
-    "updated_at": "2026-11-09T13:29:56.372338+00:00",
-    "lane": "WHITEHALL NY-CHARLOTTE NC"
-  },
-  {
     "pro": "51334",
     "status": "OPEN",
     "pu_date": "2026-11-09",
