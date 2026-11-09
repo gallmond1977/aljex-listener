@@ -141,15 +141,15 @@
     "pu_date": "2026-11-10",
     "pu_city": "FAYETTEVILLE",
     "pu_state": "NC",
-    "pu_hours": "",
+    "pu_hours": "0730-1000",
     "del_date": "2026-11-10",
     "del_city": "CHARLOTTE",
     "del_state": "NC",
-    "del_hours": "",
+    "del_hours": "0800-1500",
     "equipment": "Sprinter Van",
     "weight_lbs": 1400,
     "carrier_rate": 350,
-    "updated_at": "2026-11-09T19:44:08.169562+00:00",
+    "updated_at": "2026-11-09T19:47:55.679532+00:00",
     "lane": "FAYETTEVILLE NC-CHARLOTTE NC"
   },
   {
@@ -320,6 +320,23 @@
     "weight_lbs": 39000,
     "carrier_rate": null,
     "updated_at": "2026-11-09T15:14:30.791348+00:00",
+    "lane": "MONTEZUMA GA-TRACY CA"
+  },
+  {
+    "pro": "51363",
+    "status": "OPEN",
+    "pu_date": "2026-11-13",
+    "pu_city": "MONTEZUMA",
+    "pu_state": "GA",
+    "pu_hours": "",
+    "del_date": "2026-11-17",
+    "del_city": "TRACY",
+    "del_state": "CA",
+    "del_hours": "0415",
+    "equipment": "Reefer",
+    "weight_lbs": 39000,
+    "carrier_rate": null,
+    "updated_at": "2026-11-09T19:49:23.084708+00:00",
     "lane": "MONTEZUMA GA-TRACY CA"
   },
   {
