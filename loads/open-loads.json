@@ -34,6 +34,23 @@
     "lane": "OAKLAND TN-PHENIX CITY AL"
   },
   {
+    "pro": "51335",
+    "status": "OPEN",
+    "pu_date": "2026-11-09",
+    "pu_city": "OAKLAND",
+    "pu_state": "TN",
+    "pu_hours": "0800-1500",
+    "del_date": "2026-11-10",
+    "del_city": "SALISBURY",
+    "del_state": "NC",
+    "del_hours": "0600-1100",
+    "equipment": "Van Hazmat",
+    "weight_lbs": 44900,
+    "carrier_rate": 2500,
+    "updated_at": "2026-11-09T15:44:36.098030+00:00",
+    "lane": "OAKLAND TN-SALISBURY NC"
+  },
+  {
     "pro": "49855",
     "status": "OPEN",
     "pu_date": "2026-11-10",
@@ -117,23 +134,6 @@
     "carrier_rate": 1200,
     "updated_at": "2026-11-09T13:49:27.690507+00:00",
     "lane": "COLUMBUS GA-MASON OH"
-  },
-  {
-    "pro": "51335",
-    "status": "OPEN",
-    "pu_date": "2026-11-10",
-    "pu_city": "OAKLAND",
-    "pu_state": "TN",
-    "pu_hours": "0800-1500",
-    "del_date": "2026-11-11",
-    "del_city": "SALISBURY",
-    "del_state": "NC",
-    "del_hours": "0600-1100",
-    "equipment": "Van Hazmat",
-    "weight_lbs": 44900,
-    "carrier_rate": 2500,
-    "updated_at": "2026-11-09T14:17:25.792820+00:00",
-    "lane": "OAKLAND TN-SALISBURY NC"
   },
   {
     "pro": "51347",
@@ -268,7 +268,7 @@
     "equipment": "Reefer",
     "weight_lbs": 43500,
     "carrier_rate": 900,
-    "updated_at": "2026-11-09T15:28:10.971381+00:00",
+    "updated_at": "2026-11-09T15:43:52.380249+00:00",
     "lane": "ROCHELLE IL-DE PERE WI"
   },
   {
