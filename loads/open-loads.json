@@ -226,15 +226,15 @@
     "pu_date": "2026-11-11",
     "pu_city": "ROCHELLE",
     "pu_state": "IL",
-    "pu_hours": "0600-1000",
+    "pu_hours": "2130",
     "del_date": "2026-11-12",
     "del_city": "DE PERE",
     "del_state": "WI",
-    "del_hours": "",
+    "del_hours": "0800",
     "equipment": "Reefer",
     "weight_lbs": 43500,
     "carrier_rate": 900,
-    "updated_at": "2026-11-09T15:48:53.116158+00:00",
+    "updated_at": "2026-11-09T16:25:15.290739+00:00",
     "lane": "ROCHELLE IL-DE PERE WI"
   },
   {
