@@ -30,7 +30,7 @@
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 3200,
     "carrier_rate": 550,
-    "updated_at": "2026-11-09T20:37:33.752084+00:00",
+    "updated_at": "2026-11-09T21:04:57.936073+00:00",
     "lane": "COLUMBUS GA-TRYON NC"
   },
   {
@@ -117,6 +117,23 @@
     "carrier_rate": 1800,
     "updated_at": "2026-11-09T20:29:39.993363+00:00",
     "lane": "NEW BOSTON NH-ROANOKE AL"
+  },
+  {
+    "pro": "51367",
+    "status": "OPEN",
+    "pu_date": "2026-11-10",
+    "pu_city": "ATLANTA",
+    "pu_state": "GA",
+    "pu_hours": "1300",
+    "del_date": "2026-11-12",
+    "del_city": "BELLPORT",
+    "del_state": "NY",
+    "del_hours": "CALL",
+    "equipment": "Van",
+    "weight_lbs": 12000,
+    "carrier_rate": 3000,
+    "updated_at": "2026-11-09T21:04:22.528977+00:00",
+    "lane": "ATLANTA GA-BELLPORT NY"
   },
   {
     "pro": "51253",
@@ -542,6 +559,23 @@
     "carrier_rate": 4800,
     "updated_at": "2026-11-07T13:00:17.538822+00:00",
     "lane": "MONTEZUMA GA-TRACY CA"
+  },
+  {
+    "pro": "51260",
+    "status": "DELIVERED",
+    "pu_date": "2026-11-04",
+    "pu_city": "ATLANTA",
+    "pu_state": "GA",
+    "pu_hours": "1500",
+    "del_date": "2026-11-06",
+    "del_city": "BELLPORT",
+    "del_state": "NY",
+    "del_hours": "0700",
+    "equipment": "Van",
+    "weight_lbs": 42000,
+    "carrier_rate": 3300,
+    "updated_at": "2026-11-06T15:59:28.341884+00:00",
+    "lane": "ATLANTA GA-BELLPORT NY"
   },
   {
     "pro": "51267",
