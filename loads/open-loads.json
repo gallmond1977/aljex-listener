@@ -12,8 +12,8 @@
     "del_hours": "0700-1500",
     "equipment": "Van",
     "weight_lbs": 17809,
-    "carrier_rate": 1800,
-    "updated_at": "2026-11-09T14:21:42.849394+00:00",
+    "carrier_rate": 1850,
+    "updated_at": "2026-11-09T16:12:15.908142+00:00",
     "lane": "BUFFALO NY-BELCAMP MD"
   },
   {
@@ -66,23 +66,6 @@
     "carrier_rate": 1450,
     "updated_at": "2026-11-09T12:45:17.253765+00:00",
     "lane": "ATHENS AL-GULFPORT MS"
-  },
-  {
-    "pro": "51309",
-    "status": "OPEN",
-    "pu_date": "2026-11-10",
-    "pu_city": "JACKSONVILLE",
-    "pu_state": "TX",
-    "pu_hours": "0800-1500",
-    "del_date": "2026-11-10",
-    "del_city": "VIDOR",
-    "del_state": "TX",
-    "del_hours": "0700-1300",
-    "equipment": "Flatbed w/ Tarps",
-    "weight_lbs": 46000,
-    "carrier_rate": 850,
-    "updated_at": "2026-11-09T15:00:26.273653+00:00",
-    "lane": "JACKSONVILLE TX-VIDOR TX"
   },
   {
     "pro": "51323",
