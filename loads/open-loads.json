@@ -102,23 +102,6 @@
     "lane": "PLAINFIELD IN-GRAND RAPIDS MI"
   },
   {
-    "pro": "51355",
-    "status": "OPEN",
-    "pu_date": "2026-11-10",
-    "pu_city": "COLUMBUS",
-    "pu_state": "GA",
-    "pu_hours": "0630-0800",
-    "del_date": "2026-11-10",
-    "del_city": "COLUMBUS",
-    "del_state": "GA",
-    "del_hours": "0800-1800",
-    "equipment": "26' Straight Box Truck",
-    "weight_lbs": 9000,
-    "carrier_rate": 600,
-    "updated_at": "2026-11-09T17:02:18.825194+00:00",
-    "lane": "COLUMBUS GA-COLUMBUS GA"
-  },
-  {
     "pro": "51357",
     "status": "OPEN",
     "pu_date": "2026-11-10",
@@ -559,22 +542,5 @@
     "carrier_rate": 2800,
     "updated_at": "2026-11-09T16:54:11.403455+00:00",
     "lane": "LA PORTE TX-PIEDMONT SC"
-  },
-  {
-    "pro": "51319",
-    "status": "DELIVERED",
-    "pu_date": "2026-11-09",
-    "pu_city": "COLUMBUS",
-    "pu_state": "GA",
-    "pu_hours": "0800",
-    "del_date": "2026-11-09",
-    "del_city": "COLUMBUS",
-    "del_state": "GA",
-    "del_hours": "0800-1200",
-    "equipment": "Van",
-    "weight_lbs": 40000,
-    "carrier_rate": 300,
-    "updated_at": "2026-11-09T16:35:59.153519+00:00",
-    "lane": "COLUMBUS GA-COLUMBUS GA"
   }
 ]
