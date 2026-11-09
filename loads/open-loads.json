@@ -149,7 +149,7 @@
     "equipment": "Sprinter Van",
     "weight_lbs": 1400,
     "carrier_rate": 350,
-    "updated_at": "2026-11-09T19:47:55.679532+00:00",
+    "updated_at": "2026-11-09T19:52:19.063930+00:00",
     "lane": "FAYETTEVILLE NC-CHARLOTTE NC"
   },
   {
@@ -336,7 +336,7 @@
     "equipment": "Reefer",
     "weight_lbs": 39000,
     "carrier_rate": null,
-    "updated_at": "2026-11-09T19:49:23.084708+00:00",
+    "updated_at": "2026-11-09T19:50:36.915861+00:00",
     "lane": "MONTEZUMA GA-TRACY CA"
   },
   {
