@@ -170,23 +170,6 @@
     "lane": "OAKLAND TN-SALISBURY NC"
   },
   {
-    "pro": "51337",
-    "status": "OPEN",
-    "pu_date": "2026-11-10",
-    "pu_city": "THEODORE",
-    "pu_state": "AL",
-    "pu_hours": "1000-1400",
-    "del_date": "2026-11-11",
-    "del_city": "LOUISVILLE",
-    "del_state": "KY",
-    "del_hours": "0800-1400",
-    "equipment": "Van",
-    "weight_lbs": 44000,
-    "carrier_rate": 1550,
-    "updated_at": "2026-11-06T20:51:22.533597+00:00",
-    "lane": "THEODORE AL-LOUISVILLE KY"
-  },
-  {
     "pro": "51346",
     "status": "OPEN",
     "pu_date": "2026-11-10",
@@ -287,6 +270,23 @@
     "carrier_rate": 850,
     "updated_at": "2026-11-04T20:17:48.192144+00:00",
     "lane": "JACKSONVILLE TX-JACKSON MS"
+  },
+  {
+    "pro": "51337",
+    "status": "OPEN",
+    "pu_date": "2026-11-11",
+    "pu_city": "THEODORE",
+    "pu_state": "AL",
+    "pu_hours": "0700-1400",
+    "del_date": "2026-11-11",
+    "del_city": "LOUISVILLE",
+    "del_state": "KY",
+    "del_hours": "0800-1400",
+    "equipment": "Van",
+    "weight_lbs": 44000,
+    "carrier_rate": 1550,
+    "updated_at": "2026-11-09T14:40:21.716907+00:00",
+    "lane": "THEODORE AL-LOUISVILLE KY"
   },
   {
     "pro": "50542",
@@ -676,7 +676,7 @@
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 2670,
     "carrier_rate": 800,
-    "updated_at": "2026-11-09T14:34:20.207670+00:00",
+    "updated_at": "2026-11-09T14:36:44.893966+00:00",
     "lane": "BUFFALO NY-BELCAMP MD"
   }
 ]
