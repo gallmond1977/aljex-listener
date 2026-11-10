@@ -46,8 +46,8 @@
     "del_hours": "0900-1500",
     "equipment": "Van",
     "weight_lbs": 43500,
-    "carrier_rate": 1000,
-    "updated_at": "2026-11-09T16:53:25.729734+00:00",
+    "carrier_rate": 1100,
+    "updated_at": "2026-11-10T13:34:04.229944+00:00",
     "lane": "PLAINFIELD IN-GRAND RAPIDS MI"
   },
   {
@@ -81,8 +81,25 @@
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 7000,
     "carrier_rate": 1800,
-    "updated_at": "2026-11-09T21:37:56.339691+00:00",
+    "updated_at": "2026-11-10T13:33:29.804050+00:00",
     "lane": "NEW BOSTON NH-ROANOKE AL"
+  },
+  {
+    "pro": "51370",
+    "status": "OPEN",
+    "pu_date": "2026-11-10",
+    "pu_city": "WINDER",
+    "pu_state": "GA",
+    "pu_hours": "0800-1200",
+    "del_date": "2026-11-10",
+    "del_city": "OPELIKA",
+    "del_state": "AL",
+    "del_hours": "0800-1500",
+    "equipment": "Flatbed Hot Shot",
+    "weight_lbs": 2000,
+    "carrier_rate": null,
+    "updated_at": "2026-11-10T13:33:38.523331+00:00",
+    "lane": "WINDER GA-OPELIKA AL"
   },
   {
     "pro": "51253",
