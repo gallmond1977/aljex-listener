@@ -114,8 +114,8 @@
     "del_hours": "0800-1200",
     "equipment": "Sprinter Van",
     "weight_lbs": 200,
-    "carrier_rate": null,
-    "updated_at": "2026-11-10T16:07:08.744393+00:00",
+    "carrier_rate": 300,
+    "updated_at": "2026-11-10T18:52:41.068769+00:00",
     "lane": "BESSEMER AL-COLUMBUS GA"
   },
   {
