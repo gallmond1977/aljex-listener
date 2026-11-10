@@ -5,7 +5,7 @@
     "pu_date": "2026-11-10",
     "pu_city": "COLUMBUS",
     "pu_state": "GA",
-    "pu_hours": "1100",
+    "pu_hours": "1100-1430",
     "del_date": "2026-11-11",
     "del_city": "TRYON",
     "del_state": "NC",
@@ -13,7 +13,7 @@
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 3200,
     "carrier_rate": 750,
-    "updated_at": "2026-11-10T16:07:02.080169+00:00",
+    "updated_at": "2026-11-10T16:20:21.252768+00:00",
     "lane": "COLUMBUS GA-TRYON NC"
   },
   {
@@ -30,7 +30,7 @@
     "equipment": "Flatbed Hot Shot",
     "weight_lbs": 200,
     "carrier_rate": null,
-    "updated_at": "2026-11-10T16:19:26.121073+00:00",
+    "updated_at": "2026-11-10T16:22:45.373444+00:00",
     "lane": "ATLANTA GA-COVINGTON GA"
   },
   {
