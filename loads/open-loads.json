@@ -596,7 +596,7 @@
   },
   {
     "pro": "51329",
-    "status": "LOADED",
+    "status": "CONSIGNEE",
     "pu_date": "2026-11-09",
     "pu_city": "ALPHARETTA",
     "pu_state": "GA",
@@ -608,7 +608,7 @@
     "equipment": "Flatbed w/ Tarps",
     "weight_lbs": 42000,
     "carrier_rate": 3300,
-    "updated_at": "2026-11-09T19:15:23.017009+00:00",
+    "updated_at": "2026-11-10T07:17:49.387542+00:00",
     "lane": "ALPHARETTA GA-BELCAMP MD"
   },
   {
