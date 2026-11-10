@@ -64,7 +64,7 @@
     "equipment": "Van",
     "weight_lbs": 44960,
     "carrier_rate": 800,
-    "updated_at": "2026-11-10T20:59:31.634115+00:00",
+    "updated_at": "2026-11-10T21:50:12.511711+00:00",
     "lane": "PASADENA TX-FORT WORTH TX"
   },
   {
@@ -434,11 +434,11 @@
     "del_date": "2026-11-20",
     "del_city": "DECATUR",
     "del_state": "GA",
-    "del_hours": "",
+    "del_hours": "1000",
     "equipment": "Reefer",
     "weight_lbs": 21264,
-    "carrier_rate": null,
-    "updated_at": "2026-11-10T21:13:05.904945+00:00",
+    "carrier_rate": 450,
+    "updated_at": "2026-11-10T21:52:39.247807+00:00",
     "lane": "ATLANTA GA-DECATUR GA"
   },
   {
@@ -451,11 +451,11 @@
     "del_date": "2026-11-20",
     "del_city": "DECATUR",
     "del_state": "GA",
-    "del_hours": "",
+    "del_hours": "1000",
     "equipment": "Reefer",
     "weight_lbs": 21264,
-    "carrier_rate": null,
-    "updated_at": "2026-11-10T21:14:20.811097+00:00",
+    "carrier_rate": 450,
+    "updated_at": "2026-11-10T21:52:10.577484+00:00",
     "lane": "ATLANTA GA-DECATUR GA"
   },
   {
