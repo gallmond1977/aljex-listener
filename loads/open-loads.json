@@ -243,7 +243,7 @@
     "pu_date": "2026-11-13",
     "pu_city": "MONTEZUMA",
     "pu_state": "GA",
-    "pu_hours": "",
+    "pu_hours": "1500",
     "del_date": "2026-11-17",
     "del_city": "TRACY",
     "del_state": "CA",
@@ -251,7 +251,7 @@
     "equipment": "Reefer",
     "weight_lbs": 39000,
     "carrier_rate": null,
-    "updated_at": "2026-11-10T14:59:20.601224+00:00",
+    "updated_at": "2026-11-10T17:10:17.989739+00:00",
     "lane": "MONTEZUMA GA-TRACY CA"
   },
   {
@@ -630,7 +630,7 @@
   },
   {
     "pro": "51331",
-    "status": "PICKUP",
+    "status": "LOADED",
     "pu_date": "2026-11-10",
     "pu_city": "COLUMBUS",
     "pu_state": "GA",
@@ -642,7 +642,7 @@
     "equipment": "Van",
     "weight_lbs": 10500,
     "carrier_rate": 1300,
-    "updated_at": "2026-11-10T15:21:37.418668+00:00",
+    "updated_at": "2026-11-10T17:14:51.230083+00:00",
     "lane": "COLUMBUS GA-MASON OH"
   },
   {
