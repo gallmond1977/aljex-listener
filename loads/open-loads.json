@@ -22,7 +22,7 @@
     "pu_date": "2026-11-11",
     "pu_city": "COLUMBUS",
     "pu_state": "GA",
-    "pu_hours": "1100-1430",
+    "pu_hours": "0930",
     "del_date": "2026-11-12",
     "del_city": "TRYON",
     "del_state": "NC",
@@ -30,7 +30,7 @@
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 3200,
     "carrier_rate": 600,
-    "updated_at": "2026-11-10T19:11:01.780909+00:00",
+    "updated_at": "2026-11-10T19:16:58.285525+00:00",
     "lane": "COLUMBUS GA-TRYON NC"
   },
   {
