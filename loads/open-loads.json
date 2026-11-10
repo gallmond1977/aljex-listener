@@ -17,23 +17,6 @@
     "lane": "COLUMBUS GA-TRYON NC"
   },
   {
-    "pro": "51310",
-    "status": "OPEN",
-    "pu_date": "2026-11-11",
-    "pu_city": "JACKSONVILLE",
-    "pu_state": "TX",
-    "pu_hours": "0800-1500",
-    "del_date": "2026-11-12",
-    "del_city": "JACKSON",
-    "del_state": "MS",
-    "del_hours": "0700-1500",
-    "equipment": "Van",
-    "weight_lbs": 44500,
-    "carrier_rate": 850,
-    "updated_at": "2026-11-04T20:17:48.192144+00:00",
-    "lane": "JACKSONVILLE TX-JACKSON MS"
-  },
-  {
     "pro": "51337",
     "status": "OPEN",
     "pu_date": "2026-11-11",
@@ -183,7 +166,7 @@
     "equipment": "Reefer",
     "weight_lbs": 39000,
     "carrier_rate": null,
-    "updated_at": "2026-11-09T19:50:36.915861+00:00",
+    "updated_at": "2026-11-10T14:59:20.601224+00:00",
     "lane": "MONTEZUMA GA-TRACY CA"
   },
   {
