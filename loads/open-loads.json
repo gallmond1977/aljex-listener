@@ -81,7 +81,7 @@
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 7000,
     "carrier_rate": 1800,
-    "updated_at": "2026-11-10T13:33:29.804050+00:00",
+    "updated_at": "2026-11-10T13:37:05.208149+00:00",
     "lane": "NEW BOSTON NH-ROANOKE AL"
   },
   {
@@ -92,14 +92,14 @@
     "pu_state": "GA",
     "pu_hours": "0800-1200",
     "del_date": "2026-11-10",
-    "del_city": "OPELIKA",
-    "del_state": "AL",
+    "del_city": "PINE MOUNTAIN",
+    "del_state": "GA",
     "del_hours": "0800-1500",
     "equipment": "Flatbed Hot Shot",
     "weight_lbs": 2000,
-    "carrier_rate": null,
-    "updated_at": "2026-11-10T13:33:38.523331+00:00",
-    "lane": "WINDER GA-OPELIKA AL"
+    "carrier_rate": 500,
+    "updated_at": "2026-11-10T13:39:06.793883+00:00",
+    "lane": "WINDER GA-PINE MOUNTAIN GA"
   },
   {
     "pro": "51253",
