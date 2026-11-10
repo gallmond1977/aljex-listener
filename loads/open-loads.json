@@ -12,8 +12,8 @@
     "del_hours": "0800-1000",
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 3200,
-    "carrier_rate": 600,
-    "updated_at": "2026-11-10T13:26:11.729523+00:00",
+    "carrier_rate": 650,
+    "updated_at": "2026-11-10T13:53:45.770008+00:00",
     "lane": "COLUMBUS GA-TRYON NC"
   },
   {
@@ -64,7 +64,7 @@
     "equipment": "Sprinter Van",
     "weight_lbs": 1500,
     "carrier_rate": 250,
-    "updated_at": "2026-11-10T13:45:54.690436+00:00",
+    "updated_at": "2026-11-10T13:54:20.349206+00:00",
     "lane": "WINDER GA-UNION CITY GA"
   },
   {
@@ -625,7 +625,7 @@
     "equipment": "Van",
     "weight_lbs": 10500,
     "carrier_rate": 1300,
-    "updated_at": "2026-11-10T13:09:01.957492+00:00",
+    "updated_at": "2026-11-10T13:54:09.392791+00:00",
     "lane": "COLUMBUS GA-MASON OH"
   },
   {
