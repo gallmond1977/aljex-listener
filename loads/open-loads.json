@@ -22,15 +22,15 @@
     "pu_date": "2026-11-10",
     "pu_city": "NEW BOSTON",
     "pu_state": "NH",
-    "pu_hours": "0700-1600",
+    "pu_hours": "0700-1530",
     "del_date": "2026-11-12",
     "del_city": "ROANOKE",
     "del_state": "AL",
     "del_hours": "0800-1200",
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 7000,
-    "carrier_rate": 1800,
-    "updated_at": "2026-11-10T13:37:05.208149+00:00",
+    "carrier_rate": 2000,
+    "updated_at": "2026-11-10T14:35:20.159935+00:00",
     "lane": "NEW BOSTON NH-ROANOKE AL"
   },
   {
