@@ -17,6 +17,23 @@
     "lane": "COLUMBUS GA-TRYON NC"
   },
   {
+    "pro": "50542",
+    "status": "OPEN",
+    "pu_date": "2026-11-11",
+    "pu_city": "OLD FORT",
+    "pu_state": "NC",
+    "pu_hours": "0800-1800",
+    "del_date": "2026-11-12",
+    "del_city": "COLUMBUS",
+    "del_state": "GA",
+    "del_hours": "GIVE ETA!",
+    "equipment": "Van",
+    "weight_lbs": 41500,
+    "carrier_rate": 1500,
+    "updated_at": "2026-11-10T17:36:06.450706+00:00",
+    "lane": "OLD FORT NC-COLUMBUS GA"
+  },
+  {
     "pro": "51354",
     "status": "OPEN",
     "pu_date": "2026-11-11",
@@ -202,23 +219,6 @@
     "carrier_rate": null,
     "updated_at": "2026-11-10T16:17:09.054418+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
-  },
-  {
-    "pro": "50542",
-    "status": "OPEN",
-    "pu_date": "2026-11-13",
-    "pu_city": "OLD FORT",
-    "pu_state": "NC",
-    "pu_hours": "0800-1800",
-    "del_date": "",
-    "del_city": "COLUMBUS",
-    "del_state": "GA",
-    "del_hours": "GIVE ETA!",
-    "equipment": "Van",
-    "weight_lbs": 41500,
-    "carrier_rate": 1500,
-    "updated_at": "2026-11-04T15:04:46.864881+00:00",
-    "lane": "OLD FORT NC-COLUMBUS GA"
   },
   {
     "pro": "51353",
@@ -659,7 +659,7 @@
     "equipment": "Flatbed w/ Tarps",
     "weight_lbs": 42000,
     "carrier_rate": 3200,
-    "updated_at": "2026-11-10T16:39:41.351490+00:00",
+    "updated_at": "2026-11-10T17:37:40.121929+00:00",
     "lane": "ALPHARETTA GA-BELCAMP MD"
   }
 ]
