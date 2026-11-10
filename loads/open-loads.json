@@ -141,7 +141,7 @@
     "pu_date": "2026-11-13",
     "pu_city": "MONTEZUMA",
     "pu_state": "GA",
-    "pu_hours": "",
+    "pu_hours": "1300",
     "del_date": "2026-11-17",
     "del_city": "TRACY",
     "del_state": "CA",
@@ -149,7 +149,7 @@
     "equipment": "Reefer",
     "weight_lbs": 39000,
     "carrier_rate": null,
-    "updated_at": "2026-11-09T15:14:30.791348+00:00",
+    "updated_at": "2026-11-10T15:07:33.254703+00:00",
     "lane": "MONTEZUMA GA-TRACY CA"
   },
   {
