@@ -73,15 +73,15 @@
     "pu_date": "2026-11-10",
     "pu_city": "CERRITOS",
     "pu_state": "CA",
-    "pu_hours": "0800-1200",
+    "pu_hours": "0730-0800",
     "del_date": "2026-11-10",
     "del_city": "ANAHEIM",
     "del_state": "CA",
-    "del_hours": "0800-1600",
+    "del_hours": "0800-0900",
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 1000,
     "carrier_rate": 200,
-    "updated_at": "2026-11-09T20:53:24.694149+00:00",
+    "updated_at": "2026-11-10T12:55:45.206522+00:00",
     "lane": "CERRITOS CA-ANAHEIM CA"
   },
   {
