@@ -12,8 +12,8 @@
     "del_hours": "0800-1000",
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 3200,
-    "carrier_rate": 750,
-    "updated_at": "2026-11-10T17:54:12.623659+00:00",
+    "carrier_rate": 800,
+    "updated_at": "2026-11-10T18:16:40.590902+00:00",
     "lane": "COLUMBUS GA-TRYON NC"
   },
   {
@@ -28,9 +28,9 @@
     "del_state": "IL",
     "del_hours": "0800-0900",
     "equipment": "Van Hazmat",
-    "weight_lbs": 44900,
-    "carrier_rate": 2000,
-    "updated_at": "2026-11-10T18:14:58.578429+00:00",
+    "weight_lbs": 42000,
+    "carrier_rate": 1800,
+    "updated_at": "2026-11-10T18:19:46.277381+00:00",
     "lane": "OAKLAND TN-MONTICELLO IL"
   },
   {
