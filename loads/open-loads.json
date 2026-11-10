@@ -262,14 +262,14 @@
     "pu_state": "GA",
     "pu_hours": "1300",
     "del_date": "2026-11-13",
-    "del_city": "TRYON",
+    "del_city": "BURNSVILLE",
     "del_state": "NC",
-    "del_hours": "CALL",
+    "del_hours": "0800-0900",
     "equipment": "Van",
     "weight_lbs": 6520,
     "carrier_rate": null,
-    "updated_at": "2026-11-10T21:04:21.685875+00:00",
-    "lane": "COLUMBUS GA-TRYON NC"
+    "updated_at": "2026-11-10T21:28:07.939859+00:00",
+    "lane": "COLUMBUS GA-BURNSVILLE NC"
   },
   {
     "pro": "51353",
