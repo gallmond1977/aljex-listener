@@ -64,7 +64,7 @@
     "equipment": "Van",
     "weight_lbs": 44960,
     "carrier_rate": 800,
-    "updated_at": "2026-11-10T19:21:05.712550+00:00",
+    "updated_at": "2026-11-10T20:59:31.634115+00:00",
     "lane": "PASADENA TX-FORT WORTH TX"
   },
   {
@@ -83,23 +83,6 @@
     "carrier_rate": 3400,
     "updated_at": "2026-11-09T21:41:34.675647+00:00",
     "lane": "EVANSVILLE IN-OKLAHOMA CITY OK"
-  },
-  {
-    "pro": "51376",
-    "status": "OPEN",
-    "pu_date": "2026-11-11",
-    "pu_city": "WINCHESTER",
-    "pu_state": "KY",
-    "pu_hours": "0800-1100",
-    "del_date": "2026-11-12",
-    "del_city": "JOLIET",
-    "del_state": "IL",
-    "del_hours": "2130",
-    "equipment": "Van",
-    "weight_lbs": 11280,
-    "carrier_rate": 1000,
-    "updated_at": "2026-11-10T19:13:32.572984+00:00",
-    "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
     "pro": "51381",
@@ -153,6 +136,23 @@
     "lane": "HALEYVILLE AL-WACO TX"
   },
   {
+    "pro": "51399",
+    "status": "OPEN",
+    "pu_date": "2026-11-11",
+    "pu_city": "CONOVER",
+    "pu_state": "NC",
+    "pu_hours": "1300",
+    "del_date": "2026-11-12",
+    "del_city": "KITTANNING",
+    "del_state": "PA",
+    "del_hours": "0800",
+    "equipment": "Van",
+    "weight_lbs": 20000,
+    "carrier_rate": 1300,
+    "updated_at": "2026-11-10T20:59:51.580913+00:00",
+    "lane": "CONOVER NC-KITTANNING PA"
+  },
+  {
     "pro": "51299",
     "status": "OPEN",
     "pu_date": "2026-11-12",
@@ -201,6 +201,23 @@
     "weight_lbs": 11280,
     "carrier_rate": 1000,
     "updated_at": "2026-11-10T19:13:23.534294+00:00",
+    "lane": "WINCHESTER KY-JOLIET IL"
+  },
+  {
+    "pro": "51376",
+    "status": "OPEN",
+    "pu_date": "2026-11-12",
+    "pu_city": "WINCHESTER",
+    "pu_state": "KY",
+    "pu_hours": "0800-1100",
+    "del_date": "2026-11-12",
+    "del_city": "JOLIET",
+    "del_state": "IL",
+    "del_hours": "2130",
+    "equipment": "Van",
+    "weight_lbs": 11280,
+    "carrier_rate": 1000,
+    "updated_at": "2026-11-10T20:55:41.291210+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
