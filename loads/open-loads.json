@@ -17,40 +17,6 @@
     "lane": "COLUMBUS GA-TRYON NC"
   },
   {
-    "pro": "51347",
-    "status": "OPEN",
-    "pu_date": "2026-11-10",
-    "pu_city": "HILLSVILLE",
-    "pu_state": "VA",
-    "pu_hours": "0630-1500",
-    "del_date": "2026-11-11",
-    "del_city": "SUMMERVILLE",
-    "del_state": "SC",
-    "del_hours": "0700-1400",
-    "equipment": "Flatbed w/ Tarps",
-    "weight_lbs": 45500,
-    "carrier_rate": 1200,
-    "updated_at": "2026-11-10T13:26:52.753729+00:00",
-    "lane": "HILLSVILLE VA-SUMMERVILLE SC"
-  },
-  {
-    "pro": "51350",
-    "status": "OPEN",
-    "pu_date": "2026-11-10",
-    "pu_city": "PLAINFIELD",
-    "pu_state": "IN",
-    "pu_hours": "1500",
-    "del_date": "2026-11-11",
-    "del_city": "GRAND RAPIDS",
-    "del_state": "MI",
-    "del_hours": "0900-1500",
-    "equipment": "Van",
-    "weight_lbs": 43500,
-    "carrier_rate": 1100,
-    "updated_at": "2026-11-10T13:34:04.229944+00:00",
-    "lane": "PLAINFIELD IN-GRAND RAPIDS MI"
-  },
-  {
     "pro": "51361",
     "status": "OPEN",
     "pu_date": "2026-11-10",
@@ -85,23 +51,6 @@
     "lane": "NEW BOSTON NH-ROANOKE AL"
   },
   {
-    "pro": "51370",
-    "status": "OPEN",
-    "pu_date": "2026-11-10",
-    "pu_city": "WINDER",
-    "pu_state": "GA",
-    "pu_hours": "0800-1200",
-    "del_date": "2026-11-10",
-    "del_city": "PINE MOUNTAIN",
-    "del_state": "GA",
-    "del_hours": "0800-1500",
-    "equipment": "Flatbed Hot Shot",
-    "weight_lbs": 2000,
-    "carrier_rate": 500,
-    "updated_at": "2026-11-10T13:39:06.793883+00:00",
-    "lane": "WINDER GA-PINE MOUNTAIN GA"
-  },
-  {
     "pro": "51371",
     "status": "OPEN",
     "pu_date": "2026-11-10",
@@ -114,8 +63,8 @@
     "del_hours": "0800-1500",
     "equipment": "Sprinter Van",
     "weight_lbs": 1500,
-    "carrier_rate": null,
-    "updated_at": "2026-11-10T13:43:45.636791+00:00",
+    "carrier_rate": 250,
+    "updated_at": "2026-11-10T13:45:54.690436+00:00",
     "lane": "WINDER GA-UNION CITY GA"
   },
   {
