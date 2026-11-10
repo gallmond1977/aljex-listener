@@ -131,8 +131,8 @@
     "del_hours": "0800-1430",
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 230,
-    "carrier_rate": null,
-    "updated_at": "2026-11-10T16:29:46.110498+00:00",
+    "carrier_rate": 200,
+    "updated_at": "2026-11-10T16:33:21.338553+00:00",
     "lane": "ATLANTA GA-COVINGTON GA"
   },
   {
@@ -664,7 +664,7 @@
   },
   {
     "pro": "51365",
-    "status": "COVERED",
+    "status": "DISPATCHED",
     "pu_date": "2026-11-10",
     "pu_city": "ALPHARETTA",
     "pu_state": "GA",
@@ -676,7 +676,7 @@
     "equipment": "Flatbed w/ Tarps",
     "weight_lbs": 42000,
     "carrier_rate": 3200,
-    "updated_at": "2026-11-10T15:02:46.367748+00:00",
+    "updated_at": "2026-11-10T16:30:56.054838+00:00",
     "lane": "ALPHARETTA GA-BELCAMP MD"
   }
 ]
