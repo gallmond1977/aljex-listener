@@ -12,8 +12,8 @@
     "del_hours": "0800-1000",
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 3200,
-    "carrier_rate": 550,
-    "updated_at": "2026-11-09T21:04:57.936073+00:00",
+    "carrier_rate": 600,
+    "updated_at": "2026-11-10T13:26:11.729523+00:00",
     "lane": "COLUMBUS GA-TRYON NC"
   },
   {
@@ -28,9 +28,9 @@
     "del_state": "SC",
     "del_hours": "0700-1400",
     "equipment": "Flatbed w/ Tarps",
-    "weight_lbs": 44500,
+    "weight_lbs": 45500,
     "carrier_rate": 1200,
-    "updated_at": "2026-11-06T20:28:29.349329+00:00",
+    "updated_at": "2026-11-10T13:26:52.753729+00:00",
     "lane": "HILLSVILLE VA-SUMMERVILLE SC"
   },
   {
