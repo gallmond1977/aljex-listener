@@ -63,8 +63,8 @@
     "del_hours": "0800-1500",
     "equipment": "Van",
     "weight_lbs": 44960,
-    "carrier_rate": 900,
-    "updated_at": "2026-11-09T20:10:18.365306+00:00",
+    "carrier_rate": 800,
+    "updated_at": "2026-11-10T19:21:05.712550+00:00",
     "lane": "PASADENA TX-FORT WORTH TX"
   },
   {
@@ -693,7 +693,7 @@
     "equipment": "Flatbed w/ Tarps",
     "weight_lbs": 42000,
     "carrier_rate": 3200,
-    "updated_at": "2026-11-10T19:08:11.363507+00:00",
+    "updated_at": "2026-11-10T19:24:35.882271+00:00",
     "lane": "ALPHARETTA GA-BELCAMP MD"
   }
 ]
