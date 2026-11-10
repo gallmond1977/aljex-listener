@@ -51,23 +51,6 @@
     "lane": "PASADENA TX-FORT WORTH TX"
   },
   {
-    "pro": "51358",
-    "status": "OPEN",
-    "pu_date": "2026-11-11",
-    "pu_city": "ALPHARETTA",
-    "pu_state": "GA",
-    "pu_hours": "0900-1600",
-    "del_date": "2026-11-12",
-    "del_city": "MARSHALL",
-    "del_state": "VA",
-    "del_hours": "0800-1500",
-    "equipment": "Flatbed w/ Tarps",
-    "weight_lbs": 42000,
-    "carrier_rate": 2700,
-    "updated_at": "2026-11-10T16:56:14.249494+00:00",
-    "lane": "ALPHARETTA GA-MARSHALL VA"
-  },
-  {
     "pro": "51368",
     "status": "OPEN",
     "pu_date": "2026-11-11",
