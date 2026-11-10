@@ -13,7 +13,7 @@
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 3200,
     "carrier_rate": 750,
-    "updated_at": "2026-11-10T16:20:21.252768+00:00",
+    "updated_at": "2026-11-10T17:54:12.623659+00:00",
     "lane": "COLUMBUS GA-TRYON NC"
   },
   {
@@ -136,6 +136,23 @@
     "lane": "BUENA VISTA GA-INDIAN TRAIL NC"
   },
   {
+    "pro": "51382",
+    "status": "OPEN",
+    "pu_date": "2026-11-11",
+    "pu_city": "CHARLOTTE",
+    "pu_state": "NC",
+    "pu_hours": "0800-1500",
+    "del_date": "2026-11-11",
+    "del_city": "FLETCHER",
+    "del_state": "NC",
+    "del_hours": "CALL!",
+    "equipment": "Sprinter Van",
+    "weight_lbs": 200,
+    "carrier_rate": 300,
+    "updated_at": "2026-11-10T17:54:45.493995+00:00",
+    "lane": "CHARLOTTE NC-FLETCHER NC"
+  },
+  {
     "pro": "51299",
     "status": "OPEN",
     "pu_date": "2026-11-12",
@@ -166,7 +183,7 @@
     "equipment": "Van",
     "weight_lbs": 11280,
     "carrier_rate": null,
-    "updated_at": "2026-11-10T16:09:39.548357+00:00",
+    "updated_at": "2026-11-10T17:54:07.619712+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
