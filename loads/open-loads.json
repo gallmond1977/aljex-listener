@@ -85,6 +85,23 @@
     "lane": "EVANSVILLE IN-OKLAHOMA CITY OK"
   },
   {
+    "pro": "51373",
+    "status": "OPEN",
+    "pu_date": "2026-11-11",
+    "pu_city": "BESSEMER",
+    "pu_state": "AL",
+    "pu_hours": "0700",
+    "del_date": "",
+    "del_city": "COLUMBUS",
+    "del_state": "GA",
+    "del_hours": "0800-1200",
+    "equipment": "Sprinter Van",
+    "weight_lbs": 200,
+    "carrier_rate": null,
+    "updated_at": "2026-11-10T15:27:01.124384+00:00",
+    "lane": "BESSEMER AL-COLUMBUS GA"
+  },
+  {
     "pro": "50542",
     "status": "OPEN",
     "pu_date": "2026-11-13",
