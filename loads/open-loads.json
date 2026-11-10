@@ -102,6 +102,23 @@
     "lane": "WINDER GA-PINE MOUNTAIN GA"
   },
   {
+    "pro": "51371",
+    "status": "OPEN",
+    "pu_date": "2026-11-10",
+    "pu_city": "WINDER",
+    "pu_state": "GA",
+    "pu_hours": "0800-1200",
+    "del_date": "",
+    "del_city": "UNION CITY",
+    "del_state": "GA",
+    "del_hours": "0800-1500",
+    "equipment": "Sprinter Van",
+    "weight_lbs": 1500,
+    "carrier_rate": null,
+    "updated_at": "2026-11-10T13:43:45.636791+00:00",
+    "lane": "WINDER GA-UNION CITY GA"
+  },
+  {
     "pro": "51253",
     "status": "OPEN",
     "pu_date": "2026-11-11",
@@ -676,7 +693,7 @@
     "equipment": "Flatbed w/ Tarps",
     "weight_lbs": 42000,
     "carrier_rate": 3200,
-    "updated_at": "2026-11-09T20:54:11.572884+00:00",
+    "updated_at": "2026-11-10T13:40:26.198221+00:00",
     "lane": "ALPHARETTA GA-BELCAMP MD"
   }
 ]
