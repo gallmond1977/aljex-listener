@@ -17,6 +17,23 @@
     "lane": "COLUMBUS GA-TRYON NC"
   },
   {
+    "pro": "51389",
+    "status": "OPEN",
+    "pu_date": "2026-11-10",
+    "pu_city": "OAKLAND",
+    "pu_state": "TN",
+    "pu_hours": "0800-1400",
+    "del_date": "2026-11-11",
+    "del_city": "MONTICELLO",
+    "del_state": "IL",
+    "del_hours": "0800-0900",
+    "equipment": "Van Hazmat",
+    "weight_lbs": 44900,
+    "carrier_rate": 2000,
+    "updated_at": "2026-11-10T18:14:58.578429+00:00",
+    "lane": "OAKLAND TN-MONTICELLO IL"
+  },
+  {
     "pro": "50542",
     "status": "OPEN",
     "pu_date": "2026-11-11",
