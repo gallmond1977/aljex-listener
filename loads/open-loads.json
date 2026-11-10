@@ -12,26 +12,9 @@
     "del_hours": "0800-1000",
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 3200,
-    "carrier_rate": 650,
-    "updated_at": "2026-11-10T14:49:25.484241+00:00",
+    "carrier_rate": 700,
+    "updated_at": "2026-11-10T14:51:35.635755+00:00",
     "lane": "COLUMBUS GA-TRYON NC"
-  },
-  {
-    "pro": "51366",
-    "status": "OPEN",
-    "pu_date": "2026-11-10",
-    "pu_city": "NEW BOSTON",
-    "pu_state": "NH",
-    "pu_hours": "0700-1530",
-    "del_date": "2026-11-12",
-    "del_city": "ROANOKE",
-    "del_state": "AL",
-    "del_hours": "0800-1200",
-    "equipment": "26' Straight Box Truck",
-    "weight_lbs": 7000,
-    "carrier_rate": 2000,
-    "updated_at": "2026-11-10T14:49:58.537754+00:00",
-    "lane": "NEW BOSTON NH-ROANOKE AL"
   },
   {
     "pro": "51310",
