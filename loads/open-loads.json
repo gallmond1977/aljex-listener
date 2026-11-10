@@ -1,22 +1,5 @@
 [
   {
-    "pro": "51395",
-    "status": "OPEN",
-    "pu_date": "2026-11-10",
-    "pu_city": "MOUNT PLEASANT",
-    "pu_state": "TN",
-    "pu_hours": "0800-1600",
-    "del_date": "2026-11-11",
-    "del_city": "SAINT LOUIS",
-    "del_state": "MO",
-    "del_hours": "0800-1600",
-    "equipment": "Van",
-    "weight_lbs": 22000,
-    "carrier_rate": 1000,
-    "updated_at": "2026-11-10T20:19:49.786462+00:00",
-    "lane": "MOUNT PLEASANT TN-SAINT LOUIS MO"
-  },
-  {
     "pro": "50542",
     "status": "OPEN",
     "pu_date": "2026-11-11",
@@ -30,7 +13,7 @@
     "equipment": "Van",
     "weight_lbs": 41500,
     "carrier_rate": 1500,
-    "updated_at": "2026-11-10T20:02:44.275791+00:00",
+    "updated_at": "2026-11-10T20:25:00.927989+00:00",
     "lane": "OLD FORT NC-COLUMBUS GA"
   },
   {
@@ -151,6 +134,23 @@
     "carrier_rate": 1500,
     "updated_at": "2026-11-10T19:42:51.604836+00:00",
     "lane": "UNION CITY GA-PINECREST FL"
+  },
+  {
+    "pro": "51398",
+    "status": "OPEN",
+    "pu_date": "2026-11-11",
+    "pu_city": "HALEYVILLE",
+    "pu_state": "AL",
+    "pu_hours": "0800-1200",
+    "del_date": "2026-11-12",
+    "del_city": "WACO",
+    "del_state": "TX",
+    "del_hours": "0800-1400",
+    "equipment": "26' Straight Box Truck",
+    "weight_lbs": 1200,
+    "carrier_rate": 1100,
+    "updated_at": "2026-11-10T20:22:49.497813+00:00",
+    "lane": "HALEYVILLE AL-WACO TX"
   },
   {
     "pro": "51299",
