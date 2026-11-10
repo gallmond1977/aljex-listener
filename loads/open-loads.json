@@ -153,23 +153,6 @@
     "lane": "BUENA VISTA GA-INDIAN TRAIL NC"
   },
   {
-    "pro": "51382",
-    "status": "OPEN",
-    "pu_date": "2026-11-11",
-    "pu_city": "CHARLOTTE",
-    "pu_state": "NC",
-    "pu_hours": "0800-1200",
-    "del_date": "2026-11-11",
-    "del_city": "FLETCHER",
-    "del_state": "NC",
-    "del_hours": "0800-1500",
-    "equipment": "Sprinter Van",
-    "weight_lbs": 200,
-    "carrier_rate": 300,
-    "updated_at": "2026-11-10T18:25:09.859704+00:00",
-    "lane": "CHARLOTTE NC-FLETCHER NC"
-  },
-  {
     "pro": "51299",
     "status": "OPEN",
     "pu_date": "2026-11-12",
