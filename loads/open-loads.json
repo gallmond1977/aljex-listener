@@ -5,7 +5,7 @@
     "pu_date": "2026-11-11",
     "pu_city": "OLD FORT",
     "pu_state": "NC",
-    "pu_hours": "AD REQ",
+    "pu_hours": "1400",
     "del_date": "2026-11-12",
     "del_city": "COLUMBUS",
     "del_state": "GA",
@@ -13,7 +13,7 @@
     "equipment": "Van",
     "weight_lbs": 41500,
     "carrier_rate": 1500,
-    "updated_at": "2026-11-10T19:59:58.306468+00:00",
+    "updated_at": "2026-11-10T20:02:44.275791+00:00",
     "lane": "OLD FORT NC-COLUMBUS GA"
   },
   {
