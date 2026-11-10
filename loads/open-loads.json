@@ -141,15 +141,15 @@
     "pu_date": "2026-11-11",
     "pu_city": "CHARLOTTE",
     "pu_state": "NC",
-    "pu_hours": "0800-1500",
+    "pu_hours": "0800-1200",
     "del_date": "2026-11-11",
     "del_city": "FLETCHER",
     "del_state": "NC",
-    "del_hours": "CALL!",
+    "del_hours": "0800-1500",
     "equipment": "Sprinter Van",
     "weight_lbs": 200,
     "carrier_rate": 300,
-    "updated_at": "2026-11-10T17:54:45.493995+00:00",
+    "updated_at": "2026-11-10T18:09:46.576338+00:00",
     "lane": "CHARLOTTE NC-FLETCHER NC"
   },
   {
