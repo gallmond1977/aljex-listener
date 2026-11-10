@@ -477,7 +477,7 @@
   },
   {
     "pro": "51331",
-    "status": "DISPATCHED",
+    "status": "PICKUP",
     "pu_date": "2026-11-10",
     "pu_city": "COLUMBUS",
     "pu_state": "GA",
@@ -489,7 +489,7 @@
     "equipment": "Van",
     "weight_lbs": 10500,
     "carrier_rate": 1300,
-    "updated_at": "2026-11-10T14:10:16.213720+00:00",
+    "updated_at": "2026-11-10T15:21:37.418668+00:00",
     "lane": "COLUMBUS GA-MASON OH"
   },
   {
