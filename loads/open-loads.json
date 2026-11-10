@@ -17,23 +17,6 @@
     "lane": "COLUMBUS GA-TRYON NC"
   },
   {
-    "pro": "51389",
-    "status": "OPEN",
-    "pu_date": "2026-11-10",
-    "pu_city": "OAKLAND",
-    "pu_state": "TN",
-    "pu_hours": "0800-1500",
-    "del_date": "2026-11-11",
-    "del_city": "MONTICELLO",
-    "del_state": "IL",
-    "del_hours": "0800-0900",
-    "equipment": "Van Hazmat",
-    "weight_lbs": 42000,
-    "carrier_rate": 1800,
-    "updated_at": "2026-11-10T18:25:30.385729+00:00",
-    "lane": "OAKLAND TN-MONTICELLO IL"
-  },
-  {
     "pro": "50542",
     "status": "OPEN",
     "pu_date": "2026-11-11",
@@ -151,6 +134,23 @@
     "carrier_rate": 1050,
     "updated_at": "2026-11-10T16:46:39.954236+00:00",
     "lane": "BUENA VISTA GA-INDIAN TRAIL NC"
+  },
+  {
+    "pro": "51393",
+    "status": "OPEN",
+    "pu_date": "2026-11-11",
+    "pu_city": "UNION CITY",
+    "pu_state": "GA",
+    "pu_hours": "1230",
+    "del_date": "2026-11-12",
+    "del_city": "PINECREST",
+    "del_state": "FL",
+    "del_hours": "1730",
+    "equipment": "26' Straight Box Truck",
+    "weight_lbs": 4000,
+    "carrier_rate": 1500,
+    "updated_at": "2026-11-10T18:59:55.191440+00:00",
+    "lane": "UNION CITY GA-PINECREST FL"
   },
   {
     "pro": "51299",
@@ -491,6 +491,23 @@
     "carrier_rate": null,
     "updated_at": "2026-11-05T16:51:53.885923+00:00",
     "lane": "LA PORTE TX-PIEDMONT SC"
+  },
+  {
+    "pro": "51239",
+    "status": "RELEASED",
+    "pu_date": "2026-11-02",
+    "pu_city": "UNION CITY",
+    "pu_state": "GA",
+    "pu_hours": "0900",
+    "del_date": "2026-11-03",
+    "del_city": "PINECREST",
+    "del_state": "FL",
+    "del_hours": "0600",
+    "equipment": "26' Straight Box Truck",
+    "weight_lbs": 4000,
+    "carrier_rate": 1400,
+    "updated_at": "2026-11-09T13:34:52.561400+00:00",
+    "lane": "UNION CITY GA-PINECREST FL"
   },
   {
     "pro": "51128",
