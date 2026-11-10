@@ -17,23 +17,6 @@
     "lane": "COLUMBUS GA-TRYON NC"
   },
   {
-    "pro": "51361",
-    "status": "OPEN",
-    "pu_date": "2026-11-10",
-    "pu_city": "CERRITOS",
-    "pu_state": "CA",
-    "pu_hours": "0730",
-    "del_date": "2026-11-10",
-    "del_city": "ANAHEIM",
-    "del_state": "CA",
-    "del_hours": "0800-0900",
-    "equipment": "26' Straight Box Truck",
-    "weight_lbs": 1000,
-    "carrier_rate": 200,
-    "updated_at": "2026-11-10T13:15:43.090843+00:00",
-    "lane": "CERRITOS CA-ANAHEIM CA"
-  },
-  {
     "pro": "51366",
     "status": "OPEN",
     "pu_date": "2026-11-10",
@@ -49,23 +32,6 @@
     "carrier_rate": 1800,
     "updated_at": "2026-11-10T13:37:05.208149+00:00",
     "lane": "NEW BOSTON NH-ROANOKE AL"
-  },
-  {
-    "pro": "51371",
-    "status": "OPEN",
-    "pu_date": "2026-11-10",
-    "pu_city": "WINDER",
-    "pu_state": "GA",
-    "pu_hours": "0800-1200",
-    "del_date": "",
-    "del_city": "UNION CITY",
-    "del_state": "GA",
-    "del_hours": "0800-1500",
-    "equipment": "Sprinter Van",
-    "weight_lbs": 1500,
-    "carrier_rate": 250,
-    "updated_at": "2026-11-10T13:54:20.349206+00:00",
-    "lane": "WINDER GA-UNION CITY GA"
   },
   {
     "pro": "51253",
@@ -579,7 +545,7 @@
   },
   {
     "pro": "49855",
-    "status": "COVERED",
+    "status": "PICKUP",
     "pu_date": "2026-11-10",
     "pu_city": "PASADENA",
     "pu_state": "TX",
@@ -591,7 +557,7 @@
     "equipment": "Van",
     "weight_lbs": 44960,
     "carrier_rate": 2800,
-    "updated_at": "2026-11-09T21:12:43.768231+00:00",
+    "updated_at": "2026-11-10T14:04:05.336417+00:00",
     "lane": "PASADENA TX-PIEDMONT SC"
   },
   {
@@ -642,7 +608,7 @@
     "equipment": "Flatbed w/ Tarps",
     "weight_lbs": 42000,
     "carrier_rate": 3200,
-    "updated_at": "2026-11-10T13:40:26.198221+00:00",
+    "updated_at": "2026-11-10T14:03:37.247945+00:00",
     "lane": "ALPHARETTA GA-BELCAMP MD"
   }
 ]
