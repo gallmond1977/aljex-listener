@@ -119,6 +119,23 @@
     "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
+    "pro": "51381",
+    "status": "OPEN",
+    "pu_date": "2026-11-11",
+    "pu_city": "BUENA VISTA",
+    "pu_state": "GA",
+    "pu_hours": "1200-1600",
+    "del_date": "2026-11-12",
+    "del_city": "INDIAN TRAIL",
+    "del_state": "NC",
+    "del_hours": "0700-1500",
+    "equipment": "Van",
+    "weight_lbs": 43500,
+    "carrier_rate": 1050,
+    "updated_at": "2026-11-10T16:46:39.954236+00:00",
+    "lane": "BUENA VISTA GA-INDIAN TRAIL NC"
+  },
+  {
     "pro": "51374",
     "status": "OPEN",
     "pu_date": "2026-11-12",
@@ -185,6 +202,23 @@
     "carrier_rate": null,
     "updated_at": "2026-11-10T16:17:09.054418+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
+  },
+  {
+    "pro": "51380",
+    "status": "OPEN",
+    "pu_date": "2026-11-12",
+    "pu_city": "PENDERGRASS",
+    "pu_state": "GA",
+    "pu_hours": "REQ",
+    "del_date": "2026-11-13",
+    "del_city": "ZEBULON",
+    "del_state": "NC",
+    "del_hours": "0600",
+    "equipment": "Van",
+    "weight_lbs": 40124,
+    "carrier_rate": 1200,
+    "updated_at": "2026-11-10T16:47:20.502904+00:00",
+    "lane": "PENDERGRASS GA-ZEBULON NC"
   },
   {
     "pro": "50542",
@@ -625,7 +659,7 @@
     "equipment": "Van",
     "weight_lbs": 44960,
     "carrier_rate": 2800,
-    "updated_at": "2026-11-10T15:13:52.289620+00:00",
+    "updated_at": "2026-11-10T16:47:58.193201+00:00",
     "lane": "PASADENA TX-PIEDMONT SC"
   },
   {
