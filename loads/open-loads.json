@@ -22,7 +22,7 @@
     "pu_date": "2026-11-10",
     "pu_city": "ATLANTA",
     "pu_state": "GA",
-    "pu_hours": "1500",
+    "pu_hours": "0800-1100",
     "del_date": "",
     "del_city": "COVINGTON",
     "del_state": "GA",
@@ -30,7 +30,7 @@
     "equipment": "Flatbed Hot Shot",
     "weight_lbs": 200,
     "carrier_rate": null,
-    "updated_at": "2026-11-10T16:14:45.157437+00:00",
+    "updated_at": "2026-11-10T16:19:26.121073+00:00",
     "lane": "ATLANTA GA-COVINGTON GA"
   },
   {
@@ -136,23 +136,6 @@
     "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
-    "pro": "51378",
-    "status": "OPEN",
-    "pu_date": "2026-11-11",
-    "pu_city": "WINCHESTER",
-    "pu_state": "KY",
-    "pu_hours": "",
-    "del_date": "",
-    "del_city": "JOLIET",
-    "del_state": "IL",
-    "del_hours": "",
-    "equipment": "Van",
-    "weight_lbs": 9600,
-    "carrier_rate": null,
-    "updated_at": "2026-11-10T15:43:01.843721+00:00",
-    "lane": "WINCHESTER KY-JOLIET IL"
-  },
-  {
     "pro": "51374",
     "status": "OPEN",
     "pu_date": "2026-11-12",
@@ -201,6 +184,23 @@
     "weight_lbs": 9600,
     "carrier_rate": null,
     "updated_at": "2026-11-10T16:12:54.684637+00:00",
+    "lane": "WINCHESTER KY-JOLIET IL"
+  },
+  {
+    "pro": "51378",
+    "status": "OPEN",
+    "pu_date": "2026-11-12",
+    "pu_city": "WINCHESTER",
+    "pu_state": "KY",
+    "pu_hours": "0800-1300",
+    "del_date": "2026-11-12",
+    "del_city": "JOLIET",
+    "del_state": "IL",
+    "del_hours": "2200",
+    "equipment": "Van",
+    "weight_lbs": 9600,
+    "carrier_rate": null,
+    "updated_at": "2026-11-10T16:17:09.054418+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
