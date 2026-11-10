@@ -1,22 +1,5 @@
 [
   {
-    "pro": "51323",
-    "status": "OPEN",
-    "pu_date": "2026-11-10",
-    "pu_city": "COLUMBUS",
-    "pu_state": "GA",
-    "pu_hours": "1100",
-    "del_date": "2026-11-11",
-    "del_city": "TRYON",
-    "del_state": "NC",
-    "del_hours": "0800-1000",
-    "equipment": "26' Straight Box Truck",
-    "weight_lbs": 3200,
-    "carrier_rate": 750,
-    "updated_at": "2026-11-10T15:54:10.989479+00:00",
-    "lane": "COLUMBUS GA-TRYON NC"
-  },
-  {
     "pro": "51354",
     "status": "OPEN",
     "pu_date": "2026-11-11",
@@ -353,7 +336,7 @@
     "equipment": "Van",
     "weight_lbs": 41328,
     "carrier_rate": null,
-    "updated_at": "2026-11-10T15:59:55.338064+00:00",
+    "updated_at": "2026-11-10T16:03:57.177607+00:00",
     "lane": "LA PORTE TX-PIEDMONT SC"
   },
   {
@@ -613,7 +596,7 @@
   },
   {
     "pro": "51329",
-    "status": "DELIVERED",
+    "status": "RELEASED",
     "pu_date": "2026-11-09",
     "pu_city": "ALPHARETTA",
     "pu_state": "GA",
@@ -625,7 +608,7 @@
     "equipment": "Flatbed w/ Tarps",
     "weight_lbs": 42000,
     "carrier_rate": 3300,
-    "updated_at": "2026-11-10T14:38:08.806487+00:00",
+    "updated_at": "2026-11-10T16:05:07.704460+00:00",
     "lane": "ALPHARETTA GA-BELCAMP MD"
   },
   {
