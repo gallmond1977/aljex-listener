@@ -85,6 +85,23 @@
     "lane": "BUENA VISTA GA-INDIAN TRAIL NC"
   },
   {
+    "pro": "51402",
+    "status": "OPEN",
+    "pu_date": "2026-11-11",
+    "pu_city": "ATLANTA",
+    "pu_state": "GA",
+    "pu_hours": "0800-1400",
+    "del_date": "2026-11-12",
+    "del_city": "WILMINGTON",
+    "del_state": "NC",
+    "del_hours": "NEED APPT",
+    "equipment": "Van",
+    "weight_lbs": 43000,
+    "carrier_rate": 1500,
+    "updated_at": "2026-11-11T13:29:12.729042+00:00",
+    "lane": "ATLANTA GA-WILMINGTON NC"
+  },
+  {
     "pro": "51299",
     "status": "OPEN",
     "pu_date": "2026-11-12",
