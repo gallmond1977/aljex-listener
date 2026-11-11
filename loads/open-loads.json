@@ -80,8 +80,8 @@
     "del_hours": "0700-1500",
     "equipment": "Van",
     "weight_lbs": 43500,
-    "carrier_rate": 1050,
-    "updated_at": "2026-11-11T13:31:05.732790+00:00",
+    "carrier_rate": 1200,
+    "updated_at": "2026-11-11T13:39:41.930462+00:00",
     "lane": "BUENA VISTA GA-INDIAN TRAIL NC"
   },
   {
@@ -98,7 +98,7 @@
     "equipment": "Van",
     "weight_lbs": 43000,
     "carrier_rate": 1500,
-    "updated_at": "2026-11-11T13:33:24.773246+00:00",
+    "updated_at": "2026-11-11T13:38:51.897676+00:00",
     "lane": "ATLANTA GA-WILMINGTON NC"
   },
   {
