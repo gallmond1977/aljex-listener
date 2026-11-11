@@ -281,11 +281,11 @@
     "del_date": "2026-11-13",
     "del_city": "RICHMOND",
     "del_state": "VA",
-    "del_hours": "",
+    "del_hours": "NEEDED",
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 2000,
-    "carrier_rate": null,
-    "updated_at": "2026-11-11T15:52:07.671185+00:00",
+    "carrier_rate": 400,
+    "updated_at": "2026-11-11T15:57:40.258678+00:00",
     "lane": "CARY NC-RICHMOND VA"
   },
   {
