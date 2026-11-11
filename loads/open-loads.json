@@ -29,8 +29,8 @@
     "del_hours": "ETA",
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 3200,
-    "carrier_rate": 700,
-    "updated_at": "2026-11-11T13:09:14.827473+00:00",
+    "carrier_rate": 800,
+    "updated_at": "2026-11-11T13:49:54.340049+00:00",
     "lane": "COLUMBUS GA-TRYON NC"
   },
   {
@@ -94,11 +94,11 @@
     "del_date": "2026-11-12",
     "del_city": "WILMINGTON",
     "del_state": "NC",
-    "del_hours": "NEED APPT",
+    "del_hours": "0700-1500",
     "equipment": "Van",
     "weight_lbs": 43000,
     "carrier_rate": 1500,
-    "updated_at": "2026-11-11T13:44:35.774809+00:00",
+    "updated_at": "2026-11-11T13:49:02.914306+00:00",
     "lane": "ATLANTA GA-WILMINGTON NC"
   },
   {
