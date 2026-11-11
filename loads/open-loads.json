@@ -1,22 +1,5 @@
 [
   {
-    "pro": "51383",
-    "status": "OPEN",
-    "pu_date": "2026-11-11",
-    "pu_city": "OAKLAND",
-    "pu_state": "TN",
-    "pu_hours": "0800-1500",
-    "del_date": "2026-11-12",
-    "del_city": "SALISBURY",
-    "del_state": "NC",
-    "del_hours": "0600-1100",
-    "equipment": "Van Hazmat",
-    "weight_lbs": 44900,
-    "carrier_rate": 2700,
-    "updated_at": "2026-11-11T19:45:38.187803+00:00",
-    "lane": "OAKLAND TN-SALISBURY NC"
-  },
-  {
     "pro": "51418",
     "status": "OPEN",
     "pu_date": "2026-11-11",
@@ -32,6 +15,23 @@
     "carrier_rate": 1200,
     "updated_at": "2026-11-11T20:13:49.979345+00:00",
     "lane": "POTTERVILLE MI-SALISBURY NC"
+  },
+  {
+    "pro": "51383",
+    "status": "OPEN",
+    "pu_date": "2026-11-12",
+    "pu_city": "OAKLAND",
+    "pu_state": "TN",
+    "pu_hours": "0800-1500",
+    "del_date": "2026-11-13",
+    "del_city": "SALISBURY",
+    "del_state": "NC",
+    "del_hours": "0600-1100",
+    "equipment": "Van Hazmat",
+    "weight_lbs": 44900,
+    "carrier_rate": 2700,
+    "updated_at": "2026-11-11T21:09:09.568413+00:00",
+    "lane": "OAKLAND TN-SALISBURY NC"
   },
   {
     "pro": "51405",
@@ -81,7 +81,7 @@
     "equipment": "Flatbed Hot Shot",
     "weight_lbs": 1500,
     "carrier_rate": null,
-    "updated_at": "2026-11-11T20:55:31.701051+00:00",
+    "updated_at": "2026-11-11T21:08:26.706707+00:00",
     "lane": "ROANOKE AL-HASLET TX"
   },
   {
