@@ -81,7 +81,7 @@
     "equipment": "Van",
     "weight_lbs": 36000,
     "carrier_rate": 3700,
-    "updated_at": "2026-11-11T15:17:32.022031+00:00",
+    "updated_at": "2026-11-11T15:25:13.878985+00:00",
     "lane": "RICE LAKE WI-MC WILLIAMS AL"
   },
   {
@@ -168,23 +168,6 @@
     "carrier_rate": 1000,
     "updated_at": "2026-11-10T21:02:32.965683+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
-  },
-  {
-    "pro": "51399",
-    "status": "OPEN",
-    "pu_date": "2026-11-12",
-    "pu_city": "CONOVER",
-    "pu_state": "NC",
-    "pu_hours": "1300",
-    "del_date": "2026-11-13",
-    "del_city": "KITTANNING",
-    "del_state": "PA",
-    "del_hours": "0800",
-    "equipment": "Van",
-    "weight_lbs": 20000,
-    "carrier_rate": 1300,
-    "updated_at": "2026-11-11T13:06:37.769825+00:00",
-    "lane": "CONOVER NC-KITTANNING PA"
   },
   {
     "pro": "51400",
