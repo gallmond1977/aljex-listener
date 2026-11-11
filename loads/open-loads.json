@@ -26,11 +26,11 @@
     "del_date": "2026-11-13",
     "del_city": "SALISBURY",
     "del_state": "NC",
-    "del_hours": "0600-1100",
+    "del_hours": "0600-1130",
     "equipment": "Van Hazmat",
     "weight_lbs": 44900,
-    "carrier_rate": 2700,
-    "updated_at": "2026-11-11T21:09:09.568413+00:00",
+    "carrier_rate": 2800,
+    "updated_at": "2026-11-11T21:13:37.216377+00:00",
     "lane": "OAKLAND TN-SALISBURY NC"
   },
   {
