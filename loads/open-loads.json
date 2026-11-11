@@ -29,8 +29,8 @@
     "del_hours": "ETA",
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 3200,
-    "carrier_rate": 650,
-    "updated_at": "2026-11-10T21:39:54.919736+00:00",
+    "carrier_rate": 700,
+    "updated_at": "2026-11-11T13:09:14.827473+00:00",
     "lane": "COLUMBUS GA-TRYON NC"
   },
   {
@@ -100,23 +100,6 @@
     "carrier_rate": 1500,
     "updated_at": "2026-11-10T19:42:51.604836+00:00",
     "lane": "UNION CITY GA-PINECREST FL"
-  },
-  {
-    "pro": "51399",
-    "status": "OPEN",
-    "pu_date": "2026-11-11",
-    "pu_city": "CONOVER",
-    "pu_state": "NC",
-    "pu_hours": "1300",
-    "del_date": "2026-11-12",
-    "del_city": "KITTANNING",
-    "del_state": "PA",
-    "del_hours": "0800",
-    "equipment": "Van",
-    "weight_lbs": 20000,
-    "carrier_rate": 1300,
-    "updated_at": "2026-11-10T20:59:51.580913+00:00",
-    "lane": "CONOVER NC-KITTANNING PA"
   },
   {
     "pro": "51299",
@@ -219,6 +202,23 @@
     "carrier_rate": 1000,
     "updated_at": "2026-11-10T21:02:32.965683+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
+  },
+  {
+    "pro": "51399",
+    "status": "OPEN",
+    "pu_date": "2026-11-12",
+    "pu_city": "CONOVER",
+    "pu_state": "NC",
+    "pu_hours": "1300",
+    "del_date": "2026-11-13",
+    "del_city": "KITTANNING",
+    "del_state": "PA",
+    "del_hours": "0800",
+    "equipment": "Van",
+    "weight_lbs": 20000,
+    "carrier_rate": 1300,
+    "updated_at": "2026-11-11T13:06:37.769825+00:00",
+    "lane": "CONOVER NC-KITTANNING PA"
   },
   {
     "pro": "51400",
