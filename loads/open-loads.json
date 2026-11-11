@@ -17,23 +17,6 @@
     "lane": "OLD FORT NC-COLUMBUS GA"
   },
   {
-    "pro": "51323",
-    "status": "OPEN",
-    "pu_date": "2026-11-11",
-    "pu_city": "COLUMBUS",
-    "pu_state": "GA",
-    "pu_hours": "0930",
-    "del_date": "2026-11-11",
-    "del_city": "TRYON",
-    "del_state": "NC",
-    "del_hours": "ETA",
-    "equipment": "26' Straight Box Truck",
-    "weight_lbs": 3200,
-    "carrier_rate": 900,
-    "updated_at": "2026-11-11T14:18:09.183091+00:00",
-    "lane": "COLUMBUS GA-TRYON NC"
-  },
-  {
     "pro": "51354",
     "status": "OPEN",
     "pu_date": "2026-11-11",
@@ -63,8 +46,8 @@
     "del_hours": "0800-1500",
     "equipment": "Van",
     "weight_lbs": 44960,
-    "carrier_rate": 800,
-    "updated_at": "2026-11-10T21:50:12.511711+00:00",
+    "carrier_rate": 900,
+    "updated_at": "2026-11-11T14:24:19.053431+00:00",
     "lane": "PASADENA TX-FORT WORTH TX"
   },
   {
@@ -97,8 +80,8 @@
     "del_hours": "0800-0900",
     "equipment": "Van Hazmat",
     "weight_lbs": 44900,
-    "carrier_rate": 2000,
-    "updated_at": "2026-11-11T14:19:53.563485+00:00",
+    "carrier_rate": 1800,
+    "updated_at": "2026-11-11T14:21:49.559958+00:00",
     "lane": "OAKLAND TN-MONTICELLO IL"
   },
   {
@@ -134,23 +117,6 @@
     "carrier_rate": 1200,
     "updated_at": "2026-11-10T16:56:31.681070+00:00",
     "lane": "PENDERGRASS GA-ZEBULON NC"
-  },
-  {
-    "pro": "51374",
-    "status": "OPEN",
-    "pu_date": "2026-11-12",
-    "pu_city": "WINCHESTER",
-    "pu_state": "KY",
-    "pu_hours": "0800-1030",
-    "del_date": "2026-11-12",
-    "del_city": "JOLIET",
-    "del_state": "IL",
-    "del_hours": "2000",
-    "equipment": "Van",
-    "weight_lbs": 11280,
-    "carrier_rate": 1000,
-    "updated_at": "2026-11-10T21:01:52.992099+00:00",
-    "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
     "pro": "51375",
@@ -250,8 +216,8 @@
     "del_hours": "0800-0900",
     "equipment": "Van",
     "weight_lbs": 6520,
-    "carrier_rate": null,
-    "updated_at": "2026-11-10T21:28:07.939859+00:00",
+    "carrier_rate": 1050,
+    "updated_at": "2026-11-11T14:25:12.847620+00:00",
     "lane": "COLUMBUS GA-BURNSVILLE NC"
   },
   {
@@ -814,6 +780,23 @@
     "carrier_rate": 2000,
     "updated_at": "2026-11-11T14:04:11.997345+00:00",
     "lane": "OAKLAND TN-MONTICELLO IL"
+  },
+  {
+    "pro": "51374",
+    "status": "COVERED",
+    "pu_date": "2026-11-12",
+    "pu_city": "WINCHESTER",
+    "pu_state": "KY",
+    "pu_hours": "0800-1030",
+    "del_date": "2026-11-12",
+    "del_city": "JOLIET",
+    "del_state": "IL",
+    "del_hours": "2000",
+    "equipment": "Van",
+    "weight_lbs": 11280,
+    "carrier_rate": 1000,
+    "updated_at": "2026-11-11T14:23:22.429279+00:00",
+    "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
     "pro": "51344",
