@@ -74,14 +74,14 @@
     "pu_city": "ATLANTA",
     "pu_state": "GA",
     "pu_hours": "CONF?",
-    "del_date": "",
+    "del_date": "2026-11-12",
     "del_city": "TAMPA",
     "del_state": "FL",
     "del_hours": "",
     "equipment": "Sprinter Van",
     "weight_lbs": 500,
     "carrier_rate": 750,
-    "updated_at": "2026-11-11T15:49:27.400980+00:00",
+    "updated_at": "2026-11-11T16:55:56.247452+00:00",
     "lane": "ATLANTA GA-TAMPA FL"
   },
   {
