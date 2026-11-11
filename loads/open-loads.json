@@ -29,8 +29,8 @@
     "del_hours": "0600-1200",
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 2500,
-    "carrier_rate": 1000,
-    "updated_at": "2026-11-11T18:12:11.409687+00:00",
+    "carrier_rate": 1200,
+    "updated_at": "2026-11-11T20:04:34.165538+00:00",
     "lane": "POTTERVILLE MI-SALISBURY NC"
   },
   {
@@ -294,7 +294,7 @@
     "pu_date": "2026-11-18",
     "pu_city": "COLUMBUS",
     "pu_state": "GA",
-    "pu_hours": "REQD1300",
+    "pu_hours": "1300",
     "del_date": "2026-11-19",
     "del_city": "VAN WERT",
     "del_state": "OH",
@@ -302,7 +302,7 @@
     "equipment": "Van",
     "weight_lbs": 11500,
     "carrier_rate": 1500,
-    "updated_at": "2026-11-11T14:45:43.287518+00:00",
+    "updated_at": "2026-11-11T20:01:36.387889+00:00",
     "lane": "COLUMBUS GA-VAN WERT OH"
   },
   {
