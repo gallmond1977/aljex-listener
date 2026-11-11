@@ -97,8 +97,8 @@
     "del_hours": "0800-1530",
     "equipment": "Sprinter Van",
     "weight_lbs": 450,
-    "carrier_rate": 300,
-    "updated_at": "2026-11-11T15:45:32.116505+00:00",
+    "carrier_rate": 350,
+    "updated_at": "2026-11-11T16:17:27.250532+00:00",
     "lane": "CONWAY SC-CHARLOTTE NC"
   },
   {
@@ -132,7 +132,7 @@
     "equipment": "Van",
     "weight_lbs": 44000,
     "carrier_rate": 850,
-    "updated_at": "2026-11-11T16:14:23.023984+00:00",
+    "updated_at": "2026-11-11T16:16:21.942067+00:00",
     "lane": "MONCURE NC-ATLANTA GA"
   },
   {
@@ -199,8 +199,8 @@
     "del_hours": "0800-0900",
     "equipment": "Van",
     "weight_lbs": 6520,
-    "carrier_rate": 1050,
-    "updated_at": "2026-11-11T15:46:00.471359+00:00",
+    "carrier_rate": 1100,
+    "updated_at": "2026-11-11T16:18:11.983459+00:00",
     "lane": "COLUMBUS GA-BURNSVILLE NC"
   },
   {
@@ -298,11 +298,11 @@
     "del_date": "2026-11-13",
     "del_city": "RICHMOND",
     "del_state": "VA",
-    "del_hours": "NEEDED",
+    "del_hours": "0800-1200",
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 2000,
     "carrier_rate": 400,
-    "updated_at": "2026-11-11T15:57:40.258678+00:00",
+    "updated_at": "2026-11-11T16:18:46.373936+00:00",
     "lane": "CARY NC-RICHMOND VA"
   },
   {
@@ -950,6 +950,23 @@
     "carrier_rate": 1100,
     "updated_at": "2026-11-11T15:47:13.485862+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
+  },
+  {
+    "pro": "51414",
+    "status": "COVERED",
+    "pu_date": "2026-11-12",
+    "pu_city": "MONCURE",
+    "pu_state": "NC",
+    "pu_hours": "0730-1600",
+    "del_date": "",
+    "del_city": "ATLANTA",
+    "del_state": "GA",
+    "del_hours": "0800-1600",
+    "equipment": "Van",
+    "weight_lbs": 44000,
+    "carrier_rate": 850,
+    "updated_at": "2026-11-11T16:20:04.450114+00:00",
+    "lane": "MONCURE NC-ATLANTA GA"
   },
   {
     "pro": "51344",
