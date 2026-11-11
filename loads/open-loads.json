@@ -98,7 +98,7 @@
     "equipment": "Van",
     "weight_lbs": 44000,
     "carrier_rate": 850,
-    "updated_at": "2026-11-11T21:37:59.435372+00:00",
+    "updated_at": "2026-11-11T21:40:56.246933+00:00",
     "lane": "WADESBORO NC-ATLANTA GA"
   },
   {
@@ -132,8 +132,25 @@
     "equipment": "Van",
     "weight_lbs": 44000,
     "carrier_rate": 800,
-    "updated_at": "2026-11-11T21:34:32.045840+00:00",
+    "updated_at": "2026-11-11T21:42:56.839487+00:00",
     "lane": "COLUMBIA SC-ATLANTA GA"
+  },
+  {
+    "pro": "51425",
+    "status": "OPEN",
+    "pu_date": "2026-11-12",
+    "pu_city": "SHILOH",
+    "pu_state": "OH",
+    "pu_hours": "0800-1400",
+    "del_date": "2026-11-13",
+    "del_city": "ASHEVILLE",
+    "del_state": "NC",
+    "del_hours": "0800-0900",
+    "equipment": "26' Straight Box Truck",
+    "weight_lbs": 1000,
+    "carrier_rate": null,
+    "updated_at": "2026-11-11T21:45:18.502733+00:00",
+    "lane": "SHILOH OH-ASHEVILLE NC"
   },
   {
     "pro": "51353",
