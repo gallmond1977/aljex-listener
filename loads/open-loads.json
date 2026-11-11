@@ -41,14 +41,14 @@
     "pu_state": "WI",
     "pu_hours": "1400",
     "del_date": "2026-11-13",
-    "del_city": "MC WILLIAMS",
+    "del_city": "PINE APPLE",
     "del_state": "AL",
     "del_hours": "0800-1100",
     "equipment": "Van",
     "weight_lbs": 36000,
     "carrier_rate": 3900,
-    "updated_at": "2026-11-11T17:21:48.277400+00:00",
-    "lane": "RICE LAKE WI-MC WILLIAMS AL"
+    "updated_at": "2026-11-11T17:28:18.837019+00:00",
+    "lane": "RICE LAKE WI-PINE APPLE AL"
   },
   {
     "pro": "51407",
@@ -860,10 +860,10 @@
     "del_city": "ATLANTA",
     "del_state": "GA",
     "del_hours": "0800-1600",
-    "equipment": "Van",
+    "equipment": "Flatbed",
     "weight_lbs": 44000,
     "carrier_rate": 900,
-    "updated_at": "2026-11-11T17:22:31.982951+00:00",
+    "updated_at": "2026-11-11T17:29:18.543050+00:00",
     "lane": "MONCURE NC-ATLANTA GA"
   },
   {
