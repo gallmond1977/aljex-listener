@@ -119,23 +119,6 @@
     "lane": "COLUMBUS GA-GREER SC"
   },
   {
-    "pro": "51406",
-    "status": "OPEN",
-    "pu_date": "2026-11-13",
-    "pu_city": "LAGRANGE",
-    "pu_state": "GA",
-    "pu_hours": "0800-1500",
-    "del_date": "2026-11-16",
-    "del_city": "DALLAS",
-    "del_state": "TX",
-    "del_hours": "0800-1500",
-    "equipment": "Van",
-    "weight_lbs": 30000,
-    "carrier_rate": 1900,
-    "updated_at": "2026-11-11T18:37:31.603833+00:00",
-    "lane": "LAGRANGE GA-DALLAS TX"
-  },
-  {
     "pro": "51409",
     "status": "OPEN",
     "pu_date": "2026-11-13",
