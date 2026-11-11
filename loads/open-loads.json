@@ -34,23 +34,6 @@
     "lane": "RICE LAKE WI-PINE APPLE AL"
   },
   {
-    "pro": "51408",
-    "status": "OPEN",
-    "pu_date": "2026-11-11",
-    "pu_city": "CONWAY",
-    "pu_state": "SC",
-    "pu_hours": "0800-1500",
-    "del_date": "2026-11-12",
-    "del_city": "CHARLOTTE",
-    "del_state": "NC",
-    "del_hours": "0800-1530",
-    "equipment": "Sprinter Van",
-    "weight_lbs": 450,
-    "carrier_rate": 350,
-    "updated_at": "2026-11-11T18:19:37.954552+00:00",
-    "lane": "CONWAY SC-CHARLOTTE NC"
-  },
-  {
     "pro": "51413",
     "status": "OPEN",
     "pu_date": "2026-11-11",
@@ -83,23 +66,6 @@
     "carrier_rate": 1000,
     "updated_at": "2026-11-11T18:12:11.409687+00:00",
     "lane": "POTTERVILLE MI-SALISBURY NC"
-  },
-  {
-    "pro": "51419",
-    "status": "OPEN",
-    "pu_date": "2026-11-11",
-    "pu_city": "JACKSONVILLE",
-    "pu_state": "FL",
-    "pu_hours": "0800-1600",
-    "del_date": "2026-11-12",
-    "del_city": "ROYSTON",
-    "del_state": "GA",
-    "del_hours": "0700-1400",
-    "equipment": "Van",
-    "weight_lbs": 24446,
-    "carrier_rate": 650,
-    "updated_at": "2026-11-11T18:23:26.489466+00:00",
-    "lane": "JACKSONVILLE FL-ROYSTON GA"
   },
   {
     "pro": "51407",
