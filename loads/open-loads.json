@@ -81,7 +81,7 @@
     "equipment": "Van",
     "weight_lbs": 43500,
     "carrier_rate": 1200,
-    "updated_at": "2026-11-11T13:39:41.930462+00:00",
+    "updated_at": "2026-11-11T13:42:00.979029+00:00",
     "lane": "BUENA VISTA GA-INDIAN TRAIL NC"
   },
   {
@@ -90,7 +90,7 @@
     "pu_date": "2026-11-11",
     "pu_city": "ATLANTA",
     "pu_state": "GA",
-    "pu_hours": "0800-1400",
+    "pu_hours": "1400",
     "del_date": "2026-11-12",
     "del_city": "WILMINGTON",
     "del_state": "NC",
@@ -98,7 +98,7 @@
     "equipment": "Van",
     "weight_lbs": 43000,
     "carrier_rate": 1500,
-    "updated_at": "2026-11-11T13:38:51.897676+00:00",
+    "updated_at": "2026-11-11T13:44:35.774809+00:00",
     "lane": "ATLANTA GA-WILMINGTON NC"
   },
   {
