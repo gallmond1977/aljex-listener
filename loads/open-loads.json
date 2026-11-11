@@ -13,25 +13,8 @@
     "equipment": "Van Hazmat",
     "weight_lbs": 44900,
     "carrier_rate": 2700,
-    "updated_at": "2026-11-11T19:45:14.369272+00:00",
+    "updated_at": "2026-11-11T19:45:38.187803+00:00",
     "lane": "OAKLAND TN-SALISBURY NC"
-  },
-  {
-    "pro": "51405",
-    "status": "OPEN",
-    "pu_date": "2026-11-11",
-    "pu_city": "RICE LAKE",
-    "pu_state": "WI",
-    "pu_hours": "1400",
-    "del_date": "2026-11-13",
-    "del_city": "PINE APPLE",
-    "del_state": "AL",
-    "del_hours": "0800-1100",
-    "equipment": "Van",
-    "weight_lbs": 36000,
-    "carrier_rate": 4000,
-    "updated_at": "2026-11-11T17:36:55.254612+00:00",
-    "lane": "RICE LAKE WI-PINE APPLE AL"
   },
   {
     "pro": "51418",
@@ -49,6 +32,23 @@
     "carrier_rate": 1000,
     "updated_at": "2026-11-11T18:12:11.409687+00:00",
     "lane": "POTTERVILLE MI-SALISBURY NC"
+  },
+  {
+    "pro": "51405",
+    "status": "OPEN",
+    "pu_date": "2026-11-12",
+    "pu_city": "RICE LAKE",
+    "pu_state": "WI",
+    "pu_hours": "1400",
+    "del_date": "2026-11-13",
+    "del_city": "PINE APPLE",
+    "del_state": "AL",
+    "del_hours": "0800-1100",
+    "equipment": "Van",
+    "weight_lbs": 36000,
+    "carrier_rate": 3800,
+    "updated_at": "2026-11-11T19:49:37.730171+00:00",
+    "lane": "RICE LAKE WI-PINE APPLE AL"
   },
   {
     "pro": "51407",
