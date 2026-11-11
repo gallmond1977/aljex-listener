@@ -766,7 +766,7 @@
   },
   {
     "pro": "51179",
-    "status": "DELIVERED",
+    "status": "RELEASED",
     "pu_date": "2026-11-06",
     "pu_city": "WINCHESTER",
     "pu_state": "KY",
@@ -778,7 +778,7 @@
     "equipment": "Van",
     "weight_lbs": 10295,
     "carrier_rate": 1100,
-    "updated_at": "2026-11-10T17:21:04.030718+00:00",
+    "updated_at": "2026-11-11T22:23:51.178002+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
