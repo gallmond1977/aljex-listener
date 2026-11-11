@@ -148,8 +148,8 @@
     "del_hours": "0800-0900",
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 1000,
-    "carrier_rate": null,
-    "updated_at": "2026-11-11T21:45:18.502733+00:00",
+    "carrier_rate": 900,
+    "updated_at": "2026-11-11T21:49:27.303937+00:00",
     "lane": "SHILOH OH-ASHEVILLE NC"
   },
   {
@@ -1016,7 +1016,7 @@
     "equipment": "Van",
     "weight_lbs": 41500,
     "carrier_rate": 1900,
-    "updated_at": "2026-11-11T21:04:01.617335+00:00",
+    "updated_at": "2026-11-11T21:46:59.839327+00:00",
     "lane": "OLD FORT NC-COLUMBUS GA"
   },
   {
