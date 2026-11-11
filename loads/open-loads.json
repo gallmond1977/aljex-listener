@@ -1,22 +1,5 @@
 [
   {
-    "pro": "50542",
-    "status": "OPEN",
-    "pu_date": "2026-11-11",
-    "pu_city": "OLD FORT",
-    "pu_state": "NC",
-    "pu_hours": "1400",
-    "del_date": "2026-11-12",
-    "del_city": "COLUMBUS",
-    "del_state": "GA",
-    "del_hours": "0730-1430",
-    "equipment": "Van",
-    "weight_lbs": 41500,
-    "carrier_rate": 1500,
-    "updated_at": "2026-11-11T14:32:46.145945+00:00",
-    "lane": "OLD FORT NC-COLUMBUS GA"
-  },
-  {
     "pro": "51354",
     "status": "OPEN",
     "pu_date": "2026-11-11",
@@ -80,8 +63,8 @@
     "del_hours": "0600-1100",
     "equipment": "Van Hazmat",
     "weight_lbs": 44900,
-    "carrier_rate": null,
-    "updated_at": "2026-11-11T14:55:02.045447+00:00",
+    "carrier_rate": 2650,
+    "updated_at": "2026-11-11T14:59:11.159742+00:00",
     "lane": "OAKLAND TN-SALISBURY NC"
   },
   {
@@ -780,6 +763,23 @@
     "carrier_rate": 3200,
     "updated_at": "2026-11-11T12:55:38.937683+00:00",
     "lane": "ALPHARETTA GA-BELCAMP MD"
+  },
+  {
+    "pro": "50542",
+    "status": "COVERED",
+    "pu_date": "2026-11-11",
+    "pu_city": "OLD FORT",
+    "pu_state": "NC",
+    "pu_hours": "1400",
+    "del_date": "2026-11-12",
+    "del_city": "COLUMBUS",
+    "del_state": "GA",
+    "del_hours": "0730-1430",
+    "equipment": "Van",
+    "weight_lbs": 41500,
+    "carrier_rate": 1700,
+    "updated_at": "2026-11-11T14:59:42.708841+00:00",
+    "lane": "OLD FORT NC-COLUMBUS GA"
   },
   {
     "pro": "51374",
