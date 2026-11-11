@@ -75,14 +75,14 @@
     "pu_state": "GA",
     "pu_hours": "CONF?",
     "del_date": "",
-    "del_city": "WAKE FOREST",
+    "del_city": "TAMPA",
     "del_state": "FL",
-    "del_hours": "NEEDED",
+    "del_hours": "",
     "equipment": "Sprinter Van",
     "weight_lbs": 500,
     "carrier_rate": 750,
-    "updated_at": "2026-11-11T15:31:00.424379+00:00",
-    "lane": "ATLANTA GA-WAKE FOREST FL"
+    "updated_at": "2026-11-11T15:37:17.165935+00:00",
+    "lane": "ATLANTA GA-TAMPA FL"
   },
   {
     "pro": "51299",
@@ -794,8 +794,8 @@
     "del_hours": "2100",
     "equipment": "Van",
     "weight_lbs": 11280,
-    "carrier_rate": 1000,
-    "updated_at": "2026-11-11T15:34:18.846035+00:00",
+    "carrier_rate": 1100,
+    "updated_at": "2026-11-11T15:36:03.660813+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
