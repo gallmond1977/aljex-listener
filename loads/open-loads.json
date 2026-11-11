@@ -98,25 +98,8 @@
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 2500,
     "carrier_rate": null,
-    "updated_at": "2026-11-11T18:00:11.469637+00:00",
+    "updated_at": "2026-11-11T18:01:16.214250+00:00",
     "lane": "POTTERVILLE MI-SALISBURY NC"
-  },
-  {
-    "pro": "51377",
-    "status": "OPEN",
-    "pu_date": "2026-11-12",
-    "pu_city": "WINCHESTER",
-    "pu_state": "KY",
-    "pu_hours": "0900-1200",
-    "del_date": "2026-11-12",
-    "del_city": "JOLIET",
-    "del_state": "IL",
-    "del_hours": "2130",
-    "equipment": "Van",
-    "weight_lbs": 9600,
-    "carrier_rate": 1000,
-    "updated_at": "2026-11-10T21:02:23.911072+00:00",
-    "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
     "pro": "51353",
@@ -817,7 +800,7 @@
   },
   {
     "pro": "51365",
-    "status": "CONSIGNEE",
+    "status": "DELIVERED",
     "pu_date": "2026-11-10",
     "pu_city": "ALPHARETTA",
     "pu_state": "GA",
@@ -829,7 +812,7 @@
     "equipment": "Flatbed w/ Tarps",
     "weight_lbs": 42000,
     "carrier_rate": 3200,
-    "updated_at": "2026-11-11T16:36:51.388819+00:00",
+    "updated_at": "2026-11-11T18:05:13.620434+00:00",
     "lane": "ALPHARETTA GA-BELCAMP MD"
   },
   {
@@ -851,7 +834,7 @@
   },
   {
     "pro": "51412",
-    "status": "COVERED",
+    "status": "DISPATCHED",
     "pu_date": "2026-11-11",
     "pu_city": "MONCURE",
     "pu_state": "NC",
@@ -863,7 +846,7 @@
     "equipment": "Flatbed",
     "weight_lbs": 44000,
     "carrier_rate": 900,
-    "updated_at": "2026-11-11T17:51:51.409492+00:00",
+    "updated_at": "2026-11-11T18:01:09.891099+00:00",
     "lane": "MONCURE NC-ATLANTA GA"
   },
   {
@@ -915,6 +898,23 @@
     "weight_lbs": 11280,
     "carrier_rate": 1100,
     "updated_at": "2026-11-11T16:54:24.864143+00:00",
+    "lane": "WINCHESTER KY-JOLIET IL"
+  },
+  {
+    "pro": "51377",
+    "status": "COVERED",
+    "pu_date": "2026-11-12",
+    "pu_city": "WINCHESTER",
+    "pu_state": "KY",
+    "pu_hours": "0900-1200",
+    "del_date": "2026-11-12",
+    "del_city": "JOLIET",
+    "del_state": "IL",
+    "del_hours": "2130",
+    "equipment": "Van",
+    "weight_lbs": 9600,
+    "carrier_rate": 1100,
+    "updated_at": "2026-11-11T18:04:40.258027+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
