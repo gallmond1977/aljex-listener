@@ -29,8 +29,8 @@
     "del_hours": "ETA",
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 3200,
-    "carrier_rate": 800,
-    "updated_at": "2026-11-11T13:49:54.340049+00:00",
+    "carrier_rate": 900,
+    "updated_at": "2026-11-11T14:18:09.183091+00:00",
     "lane": "COLUMBUS GA-TRYON NC"
   },
   {
@@ -97,8 +97,8 @@
     "del_hours": "0800-0900",
     "equipment": "Van Hazmat",
     "weight_lbs": 44900,
-    "carrier_rate": null,
-    "updated_at": "2026-11-11T14:03:52.390119+00:00",
+    "carrier_rate": 2000,
+    "updated_at": "2026-11-11T14:19:53.563485+00:00",
     "lane": "OAKLAND TN-MONTICELLO IL"
   },
   {
@@ -389,6 +389,23 @@
     "carrier_rate": null,
     "updated_at": "2026-10-27T13:50:24.387366+00:00",
     "lane": "DEEP GAP NC-CHARLESTON SC"
+  },
+  {
+    "pro": "51404",
+    "status": "OPEN",
+    "pu_date": "2026-11-18",
+    "pu_city": "COLUMBUS",
+    "pu_state": "GA",
+    "pu_hours": "REQD1300",
+    "del_date": "2026-11-19",
+    "del_city": "VAN WERT",
+    "del_state": "OH",
+    "del_hours": "0900",
+    "equipment": "Van",
+    "weight_lbs": 11500,
+    "carrier_rate": null,
+    "updated_at": "2026-11-11T14:19:09.516474+00:00",
+    "lane": "COLUMBUS GA-VAN WERT OH"
   },
   {
     "pro": "51316",
