@@ -64,7 +64,7 @@
     "equipment": "Van Hazmat",
     "weight_lbs": 44900,
     "carrier_rate": 2650,
-    "updated_at": "2026-11-11T14:59:11.159742+00:00",
+    "updated_at": "2026-11-11T15:01:43.777021+00:00",
     "lane": "OAKLAND TN-SALISBURY NC"
   },
   {
@@ -80,8 +80,8 @@
     "del_hours": "0730-1000",
     "equipment": "Sprinter Van",
     "weight_lbs": 400,
-    "carrier_rate": 400,
-    "updated_at": "2026-11-11T14:54:33.068537+00:00",
+    "carrier_rate": 500,
+    "updated_at": "2026-11-11T15:01:42.688488+00:00",
     "lane": "ORLANDO FL-BIRMINGHAM AL"
   },
   {
