@@ -81,25 +81,8 @@
     "equipment": "Van",
     "weight_lbs": 43500,
     "carrier_rate": 1050,
-    "updated_at": "2026-11-11T13:18:58.891023+00:00",
+    "updated_at": "2026-11-11T13:23:55.707956+00:00",
     "lane": "BUENA VISTA GA-INDIAN TRAIL NC"
-  },
-  {
-    "pro": "51393",
-    "status": "OPEN",
-    "pu_date": "2026-11-11",
-    "pu_city": "UNION CITY",
-    "pu_state": "GA",
-    "pu_hours": "1230",
-    "del_date": "2026-11-12",
-    "del_city": "PINECREST",
-    "del_state": "FL",
-    "del_hours": "1730",
-    "equipment": "26' Straight Box Truck",
-    "weight_lbs": 4000,
-    "carrier_rate": 1500,
-    "updated_at": "2026-11-10T19:42:51.604836+00:00",
-    "lane": "UNION CITY GA-PINECREST FL"
   },
   {
     "pro": "51299",
@@ -559,23 +542,6 @@
     "carrier_rate": null,
     "updated_at": "2026-11-05T16:51:53.885923+00:00",
     "lane": "LA PORTE TX-PIEDMONT SC"
-  },
-  {
-    "pro": "51239",
-    "status": "RELEASED",
-    "pu_date": "2026-11-02",
-    "pu_city": "UNION CITY",
-    "pu_state": "GA",
-    "pu_hours": "0900",
-    "del_date": "2026-11-03",
-    "del_city": "PINECREST",
-    "del_state": "FL",
-    "del_hours": "0600",
-    "equipment": "26' Straight Box Truck",
-    "weight_lbs": 4000,
-    "carrier_rate": 1400,
-    "updated_at": "2026-11-09T13:34:52.561400+00:00",
-    "lane": "UNION CITY GA-PINECREST FL"
   },
   {
     "pro": "51128",
