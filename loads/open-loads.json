@@ -85,6 +85,23 @@
     "lane": "MONCURE NC-ATLANTA GA"
   },
   {
+    "pro": "51418",
+    "status": "OPEN",
+    "pu_date": "2026-11-11",
+    "pu_city": "POTTERVILLE",
+    "pu_state": "MI",
+    "pu_hours": "0700-1630",
+    "del_date": "2026-11-12",
+    "del_city": "SALISBURY",
+    "del_state": "NC",
+    "del_hours": "0600-0800",
+    "equipment": "26' Straight Box Truck",
+    "weight_lbs": 2500,
+    "carrier_rate": null,
+    "updated_at": "2026-11-11T18:00:11.469637+00:00",
+    "lane": "POTTERVILLE MI-SALISBURY NC"
+  },
+  {
     "pro": "51377",
     "status": "OPEN",
     "pu_date": "2026-11-12",
@@ -525,6 +542,23 @@
     "carrier_rate": null,
     "updated_at": "2026-11-05T16:51:53.885923+00:00",
     "lane": "LA PORTE TX-PIEDMONT SC"
+  },
+  {
+    "pro": "51232",
+    "status": "RELEASED",
+    "pu_date": "2026-11-02",
+    "pu_city": "POTTERVILLE",
+    "pu_state": "MI",
+    "pu_hours": "0700-1630",
+    "del_date": "2026-11-03",
+    "del_city": "SALISBURY",
+    "del_state": "NC",
+    "del_hours": "0600-0800",
+    "equipment": "Van",
+    "weight_lbs": 10000,
+    "carrier_rate": 2750,
+    "updated_at": "2026-11-05T17:33:44.642869+00:00",
+    "lane": "POTTERVILLE MI-SALISBURY NC"
   },
   {
     "pro": "51128",
