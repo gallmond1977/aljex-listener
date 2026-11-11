@@ -47,7 +47,7 @@
     "equipment": "Van Hazmat",
     "weight_lbs": 44900,
     "carrier_rate": 2700,
-    "updated_at": "2026-11-11T15:34:01.649768+00:00",
+    "updated_at": "2026-11-11T15:47:38.632416+00:00",
     "lane": "OAKLAND TN-SALISBURY NC"
   },
   {
@@ -81,7 +81,7 @@
     "equipment": "Sprinter Van",
     "weight_lbs": 500,
     "carrier_rate": 750,
-    "updated_at": "2026-11-11T15:37:17.165935+00:00",
+    "updated_at": "2026-11-11T15:49:27.400980+00:00",
     "lane": "ATLANTA GA-TAMPA FL"
   },
   {
@@ -98,7 +98,7 @@
     "equipment": "Sprinter Van",
     "weight_lbs": 450,
     "carrier_rate": 300,
-    "updated_at": "2026-11-11T15:45:18.739313+00:00",
+    "updated_at": "2026-11-11T15:45:32.116505+00:00",
     "lane": "CONWAY SC-CHARLOTTE NC"
   },
   {
@@ -175,7 +175,7 @@
     "pu_date": "2026-11-12",
     "pu_city": "COLUMBUS",
     "pu_state": "GA",
-    "pu_hours": "1300",
+    "pu_hours": "1100",
     "del_date": "2026-11-13",
     "del_city": "BURNSVILLE",
     "del_state": "NC",
@@ -183,7 +183,7 @@
     "equipment": "Van",
     "weight_lbs": 6520,
     "carrier_rate": 1050,
-    "updated_at": "2026-11-11T14:25:33.204781+00:00",
+    "updated_at": "2026-11-11T15:46:00.471359+00:00",
     "lane": "COLUMBUS GA-BURNSVILLE NC"
   },
   {
@@ -267,8 +267,8 @@
     "del_hours": "2000",
     "equipment": "Van",
     "weight_lbs": 12990,
-    "carrier_rate": null,
-    "updated_at": "2026-11-11T15:45:22.038437+00:00",
+    "carrier_rate": 1000,
+    "updated_at": "2026-11-11T15:49:32.388218+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
@@ -828,8 +828,8 @@
     "del_hours": "2200",
     "equipment": "Van",
     "weight_lbs": 9600,
-    "carrier_rate": 1000,
-    "updated_at": "2026-11-11T15:44:58.433111+00:00",
+    "carrier_rate": 1100,
+    "updated_at": "2026-11-11T15:47:13.485862+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
