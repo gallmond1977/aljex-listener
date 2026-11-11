@@ -1,22 +1,5 @@
 [
   {
-    "pro": "51354",
-    "status": "OPEN",
-    "pu_date": "2026-11-11",
-    "pu_city": "ROCHELLE",
-    "pu_state": "IL",
-    "pu_hours": "2130",
-    "del_date": "2026-11-12",
-    "del_city": "DE PERE",
-    "del_state": "WI",
-    "del_hours": "0800",
-    "equipment": "Reefer",
-    "weight_lbs": 43500,
-    "carrier_rate": 1000,
-    "updated_at": "2026-11-11T14:54:51.882905+00:00",
-    "lane": "ROCHELLE IL-DE PERE WI"
-  },
-  {
     "pro": "51381",
     "status": "OPEN",
     "pu_date": "2026-11-11",
@@ -63,8 +46,8 @@
     "del_hours": "0800-1100",
     "equipment": "Van",
     "weight_lbs": 36000,
-    "carrier_rate": 3850,
-    "updated_at": "2026-11-11T17:03:33.481932+00:00",
+    "carrier_rate": 3900,
+    "updated_at": "2026-11-11T17:21:48.277400+00:00",
     "lane": "RICE LAKE WI-MC WILLIAMS AL"
   },
   {
@@ -100,23 +83,6 @@
     "carrier_rate": 350,
     "updated_at": "2026-11-11T17:15:48.152079+00:00",
     "lane": "CONWAY SC-CHARLOTTE NC"
-  },
-  {
-    "pro": "51412",
-    "status": "OPEN",
-    "pu_date": "2026-11-11",
-    "pu_city": "MONCURE",
-    "pu_state": "NC",
-    "pu_hours": "0730-1600",
-    "del_date": "2026-11-12",
-    "del_city": "ATLANTA",
-    "del_state": "GA",
-    "del_hours": "0800-1600",
-    "equipment": "Van",
-    "weight_lbs": 44000,
-    "carrier_rate": 850,
-    "updated_at": "2026-11-11T16:12:36.919733+00:00",
-    "lane": "MONCURE NC-ATLANTA GA"
   },
   {
     "pro": "51413",
@@ -882,6 +848,23 @@
     "carrier_rate": 1700,
     "updated_at": "2026-11-11T16:32:49.240684+00:00",
     "lane": "OLD FORT NC-COLUMBUS GA"
+  },
+  {
+    "pro": "51412",
+    "status": "COVERED",
+    "pu_date": "2026-11-11",
+    "pu_city": "MONCURE",
+    "pu_state": "NC",
+    "pu_hours": "0730-1600",
+    "del_date": "2026-11-12",
+    "del_city": "ATLANTA",
+    "del_state": "GA",
+    "del_hours": "0800-1600",
+    "equipment": "Van",
+    "weight_lbs": 44000,
+    "carrier_rate": 900,
+    "updated_at": "2026-11-11T17:22:31.982951+00:00",
+    "lane": "MONCURE NC-ATLANTA GA"
   },
   {
     "pro": "51374",
