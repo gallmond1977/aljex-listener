@@ -85,6 +85,23 @@
     "lane": "ORLANDO FL-BIRMINGHAM AL"
   },
   {
+    "pro": "51405",
+    "status": "OPEN",
+    "pu_date": "2026-11-11",
+    "pu_city": "RICE LAKE",
+    "pu_state": "WI",
+    "pu_hours": "0700-1400",
+    "del_date": "2026-11-13",
+    "del_city": "MC WILLIAMS",
+    "del_state": "AL",
+    "del_hours": "0800-1100",
+    "equipment": "Van",
+    "weight_lbs": 36000,
+    "carrier_rate": 3700,
+    "updated_at": "2026-11-11T15:07:00.071545+00:00",
+    "lane": "RICE LAKE WI-MC WILLIAMS AL"
+  },
+  {
     "pro": "51299",
     "status": "OPEN",
     "pu_date": "2026-11-12",
@@ -710,7 +727,7 @@
     "equipment": "Van Hazmat",
     "weight_lbs": 44900,
     "carrier_rate": 2900,
-    "updated_at": "2026-11-11T13:59:30.388500+00:00",
+    "updated_at": "2026-11-11T15:10:00.831421+00:00",
     "lane": "OAKLAND TN-SALISBURY NC"
   },
   {
