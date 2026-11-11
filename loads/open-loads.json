@@ -81,7 +81,7 @@
     "equipment": "Van",
     "weight_lbs": 43500,
     "carrier_rate": 1050,
-    "updated_at": "2026-11-10T21:16:02.596296+00:00",
+    "updated_at": "2026-11-11T13:18:58.891023+00:00",
     "lane": "BUENA VISTA GA-INDIAN TRAIL NC"
   },
   {
@@ -732,19 +732,19 @@
   },
   {
     "pro": "49855",
-    "status": "CONSIGNEE",
+    "status": "DELIVERED",
     "pu_date": "2026-11-10",
     "pu_city": "PASADENA",
     "pu_state": "TX",
     "pu_hours": "1400",
-    "del_date": "2026-11-12",
+    "del_date": "2026-11-11",
     "del_city": "PIEDMONT",
     "del_state": "SC",
     "del_hours": "0630-1400",
     "equipment": "Van",
     "weight_lbs": 44960,
     "carrier_rate": 2800,
-    "updated_at": "2026-11-11T08:39:26.553849+00:00",
+    "updated_at": "2026-11-11T13:15:48.727019+00:00",
     "lane": "PASADENA TX-PIEDMONT SC"
   },
   {
