@@ -85,23 +85,6 @@
     "lane": "ATLANTA GA-TAMPA FL"
   },
   {
-    "pro": "51408",
-    "status": "OPEN",
-    "pu_date": "2026-11-11",
-    "pu_city": "CONWAY",
-    "pu_state": "SC",
-    "pu_hours": "0800-1200",
-    "del_date": "2026-11-11",
-    "del_city": "CHARLOTTE",
-    "del_state": "NC",
-    "del_hours": "0800-1530",
-    "equipment": "Sprinter Van",
-    "weight_lbs": 450,
-    "carrier_rate": 350,
-    "updated_at": "2026-11-11T16:17:27.250532+00:00",
-    "lane": "CONWAY SC-CHARLOTTE NC"
-  },
-  {
     "pro": "51412",
     "status": "OPEN",
     "pu_date": "2026-11-11",
