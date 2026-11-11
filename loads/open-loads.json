@@ -46,26 +46,9 @@
     "del_hours": "0600-1100",
     "equipment": "Van Hazmat",
     "weight_lbs": 44900,
-    "carrier_rate": 2650,
-    "updated_at": "2026-11-11T15:01:43.777021+00:00",
+    "carrier_rate": 2700,
+    "updated_at": "2026-11-11T15:34:01.649768+00:00",
     "lane": "OAKLAND TN-SALISBURY NC"
-  },
-  {
-    "pro": "51403",
-    "status": "OPEN",
-    "pu_date": "2026-11-11",
-    "pu_city": "ORLANDO",
-    "pu_state": "FL",
-    "pu_hours": "0800-1430",
-    "del_date": "2026-11-12",
-    "del_city": "BIRMINGHAM",
-    "del_state": "AL",
-    "del_hours": "0730-1000",
-    "equipment": "Sprinter Van",
-    "weight_lbs": 400,
-    "carrier_rate": 500,
-    "updated_at": "2026-11-11T15:01:42.688488+00:00",
-    "lane": "ORLANDO FL-BIRMINGHAM AL"
   },
   {
     "pro": "51405",
@@ -85,6 +68,23 @@
     "lane": "RICE LAKE WI-MC WILLIAMS AL"
   },
   {
+    "pro": "51407",
+    "status": "OPEN",
+    "pu_date": "2026-11-11",
+    "pu_city": "ATLANTA",
+    "pu_state": "GA",
+    "pu_hours": "CONF?",
+    "del_date": "",
+    "del_city": "WAKE FOREST",
+    "del_state": "FL",
+    "del_hours": "NEEDED",
+    "equipment": "Sprinter Van",
+    "weight_lbs": 500,
+    "carrier_rate": 750,
+    "updated_at": "2026-11-11T15:31:00.424379+00:00",
+    "lane": "ATLANTA GA-WAKE FOREST FL"
+  },
+  {
     "pro": "51299",
     "status": "OPEN",
     "pu_date": "2026-11-12",
@@ -100,23 +100,6 @@
     "carrier_rate": 1200,
     "updated_at": "2026-11-10T16:56:31.681070+00:00",
     "lane": "PENDERGRASS GA-ZEBULON NC"
-  },
-  {
-    "pro": "51375",
-    "status": "OPEN",
-    "pu_date": "2026-11-12",
-    "pu_city": "WINCHESTER",
-    "pu_state": "KY",
-    "pu_hours": "0800-1030",
-    "del_date": "2026-11-12",
-    "del_city": "JOLIET",
-    "del_state": "IL",
-    "del_hours": "2100",
-    "equipment": "Van",
-    "weight_lbs": 11280,
-    "carrier_rate": 1000,
-    "updated_at": "2026-11-10T21:02:02.068341+00:00",
-    "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
     "pro": "51376",
@@ -243,7 +226,7 @@
     "pu_date": "2026-11-13",
     "pu_city": "LAGRANGE",
     "pu_state": "GA",
-    "pu_hours": "0800-1200",
+    "pu_hours": "0800-1500",
     "del_date": "2026-11-16",
     "del_city": "DALLAS",
     "del_state": "TX",
@@ -251,7 +234,7 @@
     "equipment": "Van",
     "weight_lbs": 30000,
     "carrier_rate": 1900,
-    "updated_at": "2026-11-11T15:28:04.877067+00:00",
+    "updated_at": "2026-11-11T15:30:53.749301+00:00",
     "lane": "LAGRANGE GA-DALLAS TX"
   },
   {
@@ -778,7 +761,7 @@
     "equipment": "Van",
     "weight_lbs": 41500,
     "carrier_rate": 1700,
-    "updated_at": "2026-11-11T15:29:51.369569+00:00",
+    "updated_at": "2026-11-11T15:30:50.031735+00:00",
     "lane": "OLD FORT NC-COLUMBUS GA"
   },
   {
@@ -796,6 +779,23 @@
     "weight_lbs": 11280,
     "carrier_rate": 1100,
     "updated_at": "2026-11-11T14:28:43.566762+00:00",
+    "lane": "WINCHESTER KY-JOLIET IL"
+  },
+  {
+    "pro": "51375",
+    "status": "COVERED",
+    "pu_date": "2026-11-12",
+    "pu_city": "WINCHESTER",
+    "pu_state": "KY",
+    "pu_hours": "0800-1030",
+    "del_date": "2026-11-12",
+    "del_city": "JOLIET",
+    "del_state": "IL",
+    "del_hours": "2100",
+    "equipment": "Van",
+    "weight_lbs": 11280,
+    "carrier_rate": 1000,
+    "updated_at": "2026-11-11T15:34:18.846035+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
