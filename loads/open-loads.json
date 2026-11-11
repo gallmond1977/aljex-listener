@@ -85,6 +85,23 @@
     "lane": "ATLANTA GA-TAMPA FL"
   },
   {
+    "pro": "51408",
+    "status": "OPEN",
+    "pu_date": "2026-11-11",
+    "pu_city": "CONWAY",
+    "pu_state": "SC",
+    "pu_hours": "0800-1300",
+    "del_date": "2026-11-12",
+    "del_city": "CHARLOTTE",
+    "del_state": "NC",
+    "del_hours": "0800-1530",
+    "equipment": "Sprinter Van",
+    "weight_lbs": 450,
+    "carrier_rate": 350,
+    "updated_at": "2026-11-11T16:51:16.688567+00:00",
+    "lane": "CONWAY SC-CHARLOTTE NC"
+  },
+  {
     "pro": "51412",
     "status": "OPEN",
     "pu_date": "2026-11-11",
@@ -134,23 +151,6 @@
     "carrier_rate": 1200,
     "updated_at": "2026-11-10T16:56:31.681070+00:00",
     "lane": "PENDERGRASS GA-ZEBULON NC"
-  },
-  {
-    "pro": "51376",
-    "status": "OPEN",
-    "pu_date": "2026-11-12",
-    "pu_city": "WINCHESTER",
-    "pu_state": "KY",
-    "pu_hours": "0900-1100",
-    "del_date": "2026-11-12",
-    "del_city": "JOLIET",
-    "del_state": "IL",
-    "del_hours": "2130",
-    "equipment": "Van",
-    "weight_lbs": 11280,
-    "carrier_rate": 1000,
-    "updated_at": "2026-11-10T21:02:14.070119+00:00",
-    "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
     "pro": "51377",
@@ -915,6 +915,23 @@
     "weight_lbs": 11280,
     "carrier_rate": 1100,
     "updated_at": "2026-11-11T16:03:47.855067+00:00",
+    "lane": "WINCHESTER KY-JOLIET IL"
+  },
+  {
+    "pro": "51376",
+    "status": "COVERED",
+    "pu_date": "2026-11-12",
+    "pu_city": "WINCHESTER",
+    "pu_state": "KY",
+    "pu_hours": "0900-1100",
+    "del_date": "2026-11-12",
+    "del_city": "JOLIET",
+    "del_state": "IL",
+    "del_hours": "2130",
+    "equipment": "Van",
+    "weight_lbs": 11280,
+    "carrier_rate": 1100,
+    "updated_at": "2026-11-11T16:54:24.864143+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
