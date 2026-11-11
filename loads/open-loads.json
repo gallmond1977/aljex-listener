@@ -13,7 +13,7 @@
     "equipment": "Van Hazmat",
     "weight_lbs": 44900,
     "carrier_rate": 2700,
-    "updated_at": "2026-11-11T15:47:38.632416+00:00",
+    "updated_at": "2026-11-11T19:45:14.369272+00:00",
     "lane": "OAKLAND TN-SALISBURY NC"
   },
   {
@@ -787,7 +787,7 @@
     "pu_date": "2026-11-11",
     "pu_city": "OLD FORT",
     "pu_state": "NC",
-    "pu_hours": "1400",
+    "pu_hours": "1700",
     "del_date": "2026-11-12",
     "del_city": "COLUMBUS",
     "del_state": "GA",
@@ -795,7 +795,7 @@
     "equipment": "Van",
     "weight_lbs": 41500,
     "carrier_rate": 1700,
-    "updated_at": "2026-11-11T18:55:40.704941+00:00",
+    "updated_at": "2026-11-11T19:44:01.697172+00:00",
     "lane": "OLD FORT NC-COLUMBUS GA"
   },
   {
