@@ -13,7 +13,7 @@
     "equipment": "Van",
     "weight_lbs": 43500,
     "carrier_rate": 1200,
-    "updated_at": "2026-11-11T15:54:49.963720+00:00",
+    "updated_at": "2026-11-11T17:38:40.057285+00:00",
     "lane": "BUENA VISTA GA-INDIAN TRAIL NC"
   },
   {
@@ -46,8 +46,8 @@
     "del_hours": "0800-1100",
     "equipment": "Van",
     "weight_lbs": 36000,
-    "carrier_rate": 3900,
-    "updated_at": "2026-11-11T17:28:18.837019+00:00",
+    "carrier_rate": 4000,
+    "updated_at": "2026-11-11T17:36:55.254612+00:00",
     "lane": "RICE LAKE WI-PINE APPLE AL"
   },
   {
