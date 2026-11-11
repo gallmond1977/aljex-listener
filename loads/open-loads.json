@@ -81,7 +81,7 @@
     "equipment": "Flatbed Hot Shot",
     "weight_lbs": 1500,
     "carrier_rate": null,
-    "updated_at": "2026-11-11T20:47:26.512519+00:00",
+    "updated_at": "2026-11-11T20:55:17.334189+00:00",
     "lane": "ROANOKE AL-HASLET TX"
   },
   {
@@ -795,7 +795,7 @@
     "equipment": "Van",
     "weight_lbs": 41500,
     "carrier_rate": 1900,
-    "updated_at": "2026-11-11T20:49:57.196093+00:00",
+    "updated_at": "2026-11-11T20:54:46.021855+00:00",
     "lane": "OLD FORT NC-COLUMBUS GA"
   },
   {
