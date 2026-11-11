@@ -119,6 +119,23 @@
     "lane": "COLUMBUS GA-ATLANTA GA"
   },
   {
+    "pro": "51424",
+    "status": "OPEN",
+    "pu_date": "2026-11-12",
+    "pu_city": "COLUMBIA",
+    "pu_state": "SC",
+    "pu_hours": "0730-1530",
+    "del_date": "2026-11-13",
+    "del_city": "ATLANTA",
+    "del_state": "GA",
+    "del_hours": "0800-1600",
+    "equipment": "Van",
+    "weight_lbs": 44000,
+    "carrier_rate": 800,
+    "updated_at": "2026-11-11T21:34:32.045840+00:00",
+    "lane": "COLUMBIA SC-ATLANTA GA"
+  },
+  {
     "pro": "51353",
     "status": "OPEN",
     "pu_date": "2026-11-13",
@@ -712,6 +729,23 @@
     "carrier_rate": 1000,
     "updated_at": "2026-11-06T19:16:43.337599+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
+  },
+  {
+    "pro": "51313",
+    "status": "RELEASED",
+    "pu_date": "2026-11-05",
+    "pu_city": "COLUMBIA",
+    "pu_state": "SC",
+    "pu_hours": "0730-1530",
+    "del_date": "2026-11-06",
+    "del_city": "ATLANTA",
+    "del_state": "GA",
+    "del_hours": "0800-1600",
+    "equipment": "Flatbed",
+    "weight_lbs": 44000,
+    "carrier_rate": 900,
+    "updated_at": "2026-11-09T18:44:26.025185+00:00",
+    "lane": "COLUMBIA SC-ATLANTA GA"
   },
   {
     "pro": "51179",
