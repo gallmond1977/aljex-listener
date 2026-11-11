@@ -374,6 +374,23 @@
     "lane": "ALPHARETTA GA-BELCAMP MD"
   },
   {
+    "pro": "51416",
+    "status": "OPEN",
+    "pu_date": "2026-11-16",
+    "pu_city": "HOUSTON",
+    "pu_state": "TX",
+    "pu_hours": "1230",
+    "del_date": "2026-11-18",
+    "del_city": "SANFORD",
+    "del_state": "FL",
+    "del_hours": "0700",
+    "equipment": "26' Straight Box Truck",
+    "weight_lbs": 7000,
+    "carrier_rate": 1800,
+    "updated_at": "2026-11-11T16:32:17.473669+00:00",
+    "lane": "HOUSTON TX-SANFORD FL"
+  },
+  {
     "pro": "51332",
     "status": "OPEN",
     "pu_date": "2026-11-17",
@@ -931,7 +948,7 @@
     "equipment": "Van",
     "weight_lbs": 41500,
     "carrier_rate": 1700,
-    "updated_at": "2026-11-11T16:24:09.080760+00:00",
+    "updated_at": "2026-11-11T16:32:49.240684+00:00",
     "lane": "OLD FORT NC-COLUMBUS GA"
   },
   {
