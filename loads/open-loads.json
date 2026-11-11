@@ -102,6 +102,23 @@
     "lane": "CONWAY SC-CHARLOTTE NC"
   },
   {
+    "pro": "51412",
+    "status": "OPEN",
+    "pu_date": "2026-11-11",
+    "pu_city": "MONCURE",
+    "pu_state": "NC",
+    "pu_hours": "0730-1600",
+    "del_date": "2026-11-12",
+    "del_city": "ATLANTA",
+    "del_state": "GA",
+    "del_hours": "0800-1600",
+    "equipment": "Van",
+    "weight_lbs": 44000,
+    "carrier_rate": 850,
+    "updated_at": "2026-11-11T16:04:30.053510+00:00",
+    "lane": "MONCURE NC-ATLANTA GA"
+  },
+  {
     "pro": "51299",
     "status": "OPEN",
     "pu_date": "2026-11-12",
@@ -117,23 +134,6 @@
     "carrier_rate": 1200,
     "updated_at": "2026-11-10T16:56:31.681070+00:00",
     "lane": "PENDERGRASS GA-ZEBULON NC"
-  },
-  {
-    "pro": "51375",
-    "status": "OPEN",
-    "pu_date": "2026-11-12",
-    "pu_city": "WINCHESTER",
-    "pu_state": "KY",
-    "pu_hours": "0800-1030",
-    "del_date": "2026-11-12",
-    "del_city": "JOLIET",
-    "del_state": "IL",
-    "del_hours": "2100",
-    "equipment": "Van",
-    "weight_lbs": 11280,
-    "carrier_rate": 1000,
-    "updated_at": "2026-11-11T15:44:40.468509+00:00",
-    "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
     "pro": "51376",
@@ -287,6 +287,23 @@
     "carrier_rate": 400,
     "updated_at": "2026-11-11T15:57:40.258678+00:00",
     "lane": "CARY NC-RICHMOND VA"
+  },
+  {
+    "pro": "51411",
+    "status": "OPEN",
+    "pu_date": "2026-11-13",
+    "pu_city": "HOUSTON",
+    "pu_state": "TX",
+    "pu_hours": "1230",
+    "del_date": "2026-11-16",
+    "del_city": "SANFORD",
+    "del_state": "FL",
+    "del_hours": "0700",
+    "equipment": "26' Straight Box Truck",
+    "weight_lbs": 7000,
+    "carrier_rate": 1800,
+    "updated_at": "2026-11-11T16:01:33.316158+00:00",
+    "lane": "HOUSTON TX-SANFORD FL"
   },
   {
     "pro": "51251",
@@ -612,6 +629,23 @@
     "lane": "OAKLAND TN-MIDLOTHIAN TX"
   },
   {
+    "pro": "51275",
+    "status": "RELEASED",
+    "pu_date": "2026-11-04",
+    "pu_city": "HOUSTON",
+    "pu_state": "TX",
+    "pu_hours": "0700",
+    "del_date": "2026-11-05",
+    "del_city": "SANFORD",
+    "del_state": "FL",
+    "del_hours": "0700",
+    "equipment": "26' Straight Box Truck",
+    "weight_lbs": 7000,
+    "carrier_rate": 2000,
+    "updated_at": "2026-11-06T20:09:29.720218+00:00",
+    "lane": "HOUSTON TX-SANFORD FL"
+  },
+  {
     "pro": "51282",
     "status": "RELEASED",
     "pu_date": "2026-11-05",
@@ -697,6 +731,23 @@
     "lane": "ALPHARETTA GA-BELCAMP MD"
   },
   {
+    "pro": "51339",
+    "status": "RELEASED",
+    "pu_date": "2026-11-06",
+    "pu_city": "HOUSTON",
+    "pu_state": "TX",
+    "pu_hours": "0700-1430",
+    "del_date": "2026-11-09",
+    "del_city": "SANFORD",
+    "del_state": "FL",
+    "del_hours": "0700",
+    "equipment": "26' Straight Box Truck",
+    "weight_lbs": 7000,
+    "carrier_rate": 2000,
+    "updated_at": "2026-11-10T15:42:44.200026+00:00",
+    "lane": "HOUSTON TX-SANFORD FL"
+  },
+  {
     "pro": "51269",
     "status": "DELIVERED",
     "pu_date": "2026-11-09",
@@ -746,6 +797,23 @@
     "carrier_rate": 2900,
     "updated_at": "2026-11-11T15:10:00.831421+00:00",
     "lane": "OAKLAND TN-SALISBURY NC"
+  },
+  {
+    "pro": "51340",
+    "status": "DELIVERED",
+    "pu_date": "2026-11-09",
+    "pu_city": "HOUSTON",
+    "pu_state": "TX",
+    "pu_hours": "1330",
+    "del_date": "2026-11-11",
+    "del_city": "SANFORD",
+    "del_state": "FL",
+    "del_hours": "0700",
+    "equipment": "26' Straight Box Truck",
+    "weight_lbs": 7000,
+    "carrier_rate": 1800,
+    "updated_at": "2026-11-11T15:10:11.539335+00:00",
+    "lane": "HOUSTON TX-SANFORD FL"
   },
   {
     "pro": "49855",
@@ -830,6 +898,23 @@
     "weight_lbs": 11280,
     "carrier_rate": 1100,
     "updated_at": "2026-11-11T14:28:43.566762+00:00",
+    "lane": "WINCHESTER KY-JOLIET IL"
+  },
+  {
+    "pro": "51375",
+    "status": "COVERED",
+    "pu_date": "2026-11-12",
+    "pu_city": "WINCHESTER",
+    "pu_state": "KY",
+    "pu_hours": "0800-1030",
+    "del_date": "2026-11-12",
+    "del_city": "JOLIET",
+    "del_state": "IL",
+    "del_hours": "2100",
+    "equipment": "Van",
+    "weight_lbs": 11280,
+    "carrier_rate": 1100,
+    "updated_at": "2026-11-11T16:03:47.855067+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
