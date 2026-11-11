@@ -817,7 +817,7 @@
   },
   {
     "pro": "51412",
-    "status": "DISPATCHED",
+    "status": "PICKUP",
     "pu_date": "2026-11-11",
     "pu_city": "MONCURE",
     "pu_state": "NC",
@@ -829,7 +829,7 @@
     "equipment": "Flatbed",
     "weight_lbs": 44000,
     "carrier_rate": 900,
-    "updated_at": "2026-11-11T18:01:09.891099+00:00",
+    "updated_at": "2026-11-11T19:20:06.990197+00:00",
     "lane": "MONCURE NC-ATLANTA GA"
   },
   {
