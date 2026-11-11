@@ -34,23 +34,6 @@
     "lane": "RICE LAKE WI-PINE APPLE AL"
   },
   {
-    "pro": "51413",
-    "status": "OPEN",
-    "pu_date": "2026-11-11",
-    "pu_city": "MONCURE",
-    "pu_state": "NC",
-    "pu_hours": "0730-1600",
-    "del_date": "2026-11-12",
-    "del_city": "ATLANTA",
-    "del_state": "GA",
-    "del_hours": "0800-1600",
-    "equipment": "Van",
-    "weight_lbs": 44000,
-    "carrier_rate": 850,
-    "updated_at": "2026-11-11T16:16:21.942067+00:00",
-    "lane": "MONCURE NC-ATLANTA GA"
-  },
-  {
     "pro": "51418",
     "status": "OPEN",
     "pu_date": "2026-11-11",
@@ -816,23 +799,6 @@
     "lane": "OLD FORT NC-COLUMBUS GA"
   },
   {
-    "pro": "51412",
-    "status": "PICKUP",
-    "pu_date": "2026-11-11",
-    "pu_city": "MONCURE",
-    "pu_state": "NC",
-    "pu_hours": "0730-1600",
-    "del_date": "2026-11-12",
-    "del_city": "ATLANTA",
-    "del_state": "GA",
-    "del_hours": "0800-1600",
-    "equipment": "Flatbed",
-    "weight_lbs": 44000,
-    "carrier_rate": 900,
-    "updated_at": "2026-11-11T19:27:21.687185+00:00",
-    "lane": "MONCURE NC-ATLANTA GA"
-  },
-  {
     "pro": "51374",
     "status": "COVERED",
     "pu_date": "2026-11-12",
@@ -916,23 +882,6 @@
     "carrier_rate": 1100,
     "updated_at": "2026-11-11T15:47:13.485862+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
-  },
-  {
-    "pro": "51414",
-    "status": "COVERED",
-    "pu_date": "2026-11-12",
-    "pu_city": "MONCURE",
-    "pu_state": "NC",
-    "pu_hours": "0730-1600",
-    "del_date": "",
-    "del_city": "ATLANTA",
-    "del_state": "GA",
-    "del_hours": "0800-1600",
-    "equipment": "Van",
-    "weight_lbs": 44000,
-    "carrier_rate": 900,
-    "updated_at": "2026-11-11T16:38:10.739245+00:00",
-    "lane": "MONCURE NC-ATLANTA GA"
   },
   {
     "pro": "51344",
