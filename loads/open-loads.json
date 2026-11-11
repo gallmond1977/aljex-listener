@@ -63,8 +63,8 @@
     "del_hours": "0800-1100",
     "equipment": "Van",
     "weight_lbs": 36000,
-    "carrier_rate": 3700,
-    "updated_at": "2026-11-11T15:28:53.536208+00:00",
+    "carrier_rate": 3820,
+    "updated_at": "2026-11-11T16:22:42.193852+00:00",
     "lane": "RICE LAKE WI-MC WILLIAMS AL"
   },
   {
@@ -185,23 +185,6 @@
     "carrier_rate": 1000,
     "updated_at": "2026-11-10T21:02:23.911072+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
-  },
-  {
-    "pro": "51400",
-    "status": "OPEN",
-    "pu_date": "2026-11-12",
-    "pu_city": "COLUMBUS",
-    "pu_state": "GA",
-    "pu_hours": "1100",
-    "del_date": "2026-11-13",
-    "del_city": "BURNSVILLE",
-    "del_state": "NC",
-    "del_hours": "0800-0900",
-    "equipment": "Van",
-    "weight_lbs": 6520,
-    "carrier_rate": 1100,
-    "updated_at": "2026-11-11T16:18:11.983459+00:00",
-    "lane": "COLUMBUS GA-BURNSVILLE NC"
   },
   {
     "pro": "51353",
@@ -897,7 +880,7 @@
     "equipment": "Van",
     "weight_lbs": 41500,
     "carrier_rate": 1700,
-    "updated_at": "2026-11-11T15:30:50.031735+00:00",
+    "updated_at": "2026-11-11T16:24:09.080760+00:00",
     "lane": "OLD FORT NC-COLUMBUS GA"
   },
   {
@@ -964,8 +947,8 @@
     "del_hours": "0800-1600",
     "equipment": "Van",
     "weight_lbs": 44000,
-    "carrier_rate": 850,
-    "updated_at": "2026-11-11T16:20:04.450114+00:00",
+    "carrier_rate": 900,
+    "updated_at": "2026-11-11T16:22:49.897812+00:00",
     "lane": "MONCURE NC-ATLANTA GA"
   },
   {
