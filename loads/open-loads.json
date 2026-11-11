@@ -800,7 +800,7 @@
   },
   {
     "pro": "51283",
-    "status": "DELIVERED",
+    "status": "RELEASED",
     "pu_date": "2026-11-06",
     "pu_city": "WINCHESTER",
     "pu_state": "KY",
@@ -812,7 +812,7 @@
     "equipment": "Van",
     "weight_lbs": 14580,
     "carrier_rate": 1000,
-    "updated_at": "2026-11-07T00:25:06.215826+00:00",
+    "updated_at": "2026-11-11T22:37:40.089187+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
@@ -970,7 +970,7 @@
   },
   {
     "pro": "51331",
-    "status": "DELIVERED",
+    "status": "RELEASED",
     "pu_date": "2026-11-10",
     "pu_city": "COLUMBUS",
     "pu_state": "GA",
@@ -982,7 +982,7 @@
     "equipment": "Van",
     "weight_lbs": 10500,
     "carrier_rate": 1300,
-    "updated_at": "2026-11-11T17:14:05.852299+00:00",
+    "updated_at": "2026-11-11T22:38:36.604889+00:00",
     "lane": "COLUMBUS GA-MASON OH"
   },
   {
