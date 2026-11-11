@@ -96,9 +96,9 @@
     "del_state": "GA",
     "del_hours": "0700-1400",
     "equipment": "Van",
-    "weight_lbs": 25300,
-    "carrier_rate": 700,
-    "updated_at": "2026-11-11T18:19:34.238888+00:00",
+    "weight_lbs": 24446,
+    "carrier_rate": 650,
+    "updated_at": "2026-11-11T18:23:26.489466+00:00",
     "lane": "JACKSONVILLE FL-ROYSTON GA"
   },
   {
@@ -846,7 +846,7 @@
     "equipment": "Van",
     "weight_lbs": 41500,
     "carrier_rate": 1700,
-    "updated_at": "2026-11-11T16:32:49.240684+00:00",
+    "updated_at": "2026-11-11T18:22:48.983193+00:00",
     "lane": "OLD FORT NC-COLUMBUS GA"
   },
   {
