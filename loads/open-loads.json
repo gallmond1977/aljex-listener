@@ -85,6 +85,23 @@
     "lane": "BUENA VISTA GA-INDIAN TRAIL NC"
   },
   {
+    "pro": "51390",
+    "status": "OPEN",
+    "pu_date": "2026-11-11",
+    "pu_city": "OAKLAND",
+    "pu_state": "TN",
+    "pu_hours": "0800-1400",
+    "del_date": "2026-11-12",
+    "del_city": "MONTICELLO",
+    "del_state": "IL",
+    "del_hours": "0800-0900",
+    "equipment": "Van Hazmat",
+    "weight_lbs": 44900,
+    "carrier_rate": null,
+    "updated_at": "2026-11-11T14:03:52.390119+00:00",
+    "lane": "OAKLAND TN-MONTICELLO IL"
+  },
+  {
     "pro": "51402",
     "status": "OPEN",
     "pu_date": "2026-11-11",
@@ -108,14 +125,14 @@
     "pu_city": "ORLANDO",
     "pu_state": "FL",
     "pu_hours": "0800-1430",
-    "del_date": "",
+    "del_date": "2026-11-12",
     "del_city": "BIRMINGHAM",
     "del_state": "AL",
     "del_hours": "0730-1000",
     "equipment": "Sprinter Van",
     "weight_lbs": 400,
-    "carrier_rate": 600,
-    "updated_at": "2026-11-11T13:59:31.535057+00:00",
+    "carrier_rate": 550,
+    "updated_at": "2026-11-11T14:02:36.008775+00:00",
     "lane": "ORLANDO FL-BIRMINGHAM AL"
   },
   {
@@ -780,6 +797,23 @@
     "carrier_rate": 3200,
     "updated_at": "2026-11-11T12:55:38.937683+00:00",
     "lane": "ALPHARETTA GA-BELCAMP MD"
+  },
+  {
+    "pro": "51389",
+    "status": "LOADED",
+    "pu_date": "2026-11-10",
+    "pu_city": "OAKLAND",
+    "pu_state": "TN",
+    "pu_hours": "0800-1500",
+    "del_date": "2026-11-11",
+    "del_city": "MONTICELLO",
+    "del_state": "IL",
+    "del_hours": "0800-0900",
+    "equipment": "Van Hazmat",
+    "weight_lbs": 42000,
+    "carrier_rate": 2000,
+    "updated_at": "2026-11-11T14:04:11.997345+00:00",
+    "lane": "OAKLAND TN-MONTICELLO IL"
   },
   {
     "pro": "51344",
