@@ -17,23 +17,6 @@
     "lane": "ROCHELLE IL-DE PERE WI"
   },
   {
-    "pro": "51356",
-    "status": "OPEN",
-    "pu_date": "2026-11-11",
-    "pu_city": "PASADENA",
-    "pu_state": "TX",
-    "pu_hours": "1400",
-    "del_date": "2026-11-12",
-    "del_city": "FORT WORTH",
-    "del_state": "TX",
-    "del_hours": "0800-1500",
-    "equipment": "Van",
-    "weight_lbs": 44960,
-    "carrier_rate": 900,
-    "updated_at": "2026-11-11T15:14:01.316765+00:00",
-    "lane": "PASADENA TX-FORT WORTH TX"
-  },
-  {
     "pro": "51381",
     "status": "OPEN",
     "pu_date": "2026-11-11",
@@ -90,7 +73,7 @@
     "pu_date": "2026-11-11",
     "pu_city": "RICE LAKE",
     "pu_state": "WI",
-    "pu_hours": "0700-1400",
+    "pu_hours": "1400",
     "del_date": "2026-11-13",
     "del_city": "MC WILLIAMS",
     "del_state": "AL",
@@ -98,7 +81,7 @@
     "equipment": "Van",
     "weight_lbs": 36000,
     "carrier_rate": 3700,
-    "updated_at": "2026-11-11T15:07:00.071545+00:00",
+    "updated_at": "2026-11-11T15:17:32.022031+00:00",
     "lane": "RICE LAKE WI-MC WILLIAMS AL"
   },
   {
