@@ -145,11 +145,11 @@
     "del_date": "2026-11-16",
     "del_city": "DALLAS",
     "del_state": "TX",
-    "del_hours": "0800-1600",
+    "del_hours": "0800-1500",
     "equipment": "Van",
     "weight_lbs": 30000,
     "carrier_rate": 1900,
-    "updated_at": "2026-11-11T15:30:53.749301+00:00",
+    "updated_at": "2026-11-11T18:37:31.603833+00:00",
     "lane": "LAGRANGE GA-DALLAS TX"
   },
   {
