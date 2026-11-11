@@ -94,11 +94,11 @@
     "del_date": "2026-11-12",
     "del_city": "SALISBURY",
     "del_state": "NC",
-    "del_hours": "0600-0800",
+    "del_hours": "0600-1200",
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 2500,
-    "carrier_rate": null,
-    "updated_at": "2026-11-11T18:01:16.214250+00:00",
+    "carrier_rate": 1000,
+    "updated_at": "2026-11-11T18:07:16.158006+00:00",
     "lane": "POTTERVILLE MI-SALISBURY NC"
   },
   {
