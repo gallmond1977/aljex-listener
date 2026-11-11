@@ -68,6 +68,23 @@
     "lane": "ATLANTA GA-TAMPA FL"
   },
   {
+    "pro": "51421",
+    "status": "OPEN",
+    "pu_date": "2026-11-12",
+    "pu_city": "ROANOKE",
+    "pu_state": "AL",
+    "pu_hours": "1200-1500",
+    "del_date": "2026-11-13",
+    "del_city": "HASLET",
+    "del_state": "TX",
+    "del_hours": "0800",
+    "equipment": "Flatbed Hot Shot",
+    "weight_lbs": 1500,
+    "carrier_rate": null,
+    "updated_at": "2026-11-11T20:47:26.512519+00:00",
+    "lane": "ROANOKE AL-HASLET TX"
+  },
+  {
     "pro": "51353",
     "status": "OPEN",
     "pu_date": "2026-11-13",
@@ -777,8 +794,8 @@
     "del_hours": "0730-1430",
     "equipment": "Van",
     "weight_lbs": 41500,
-    "carrier_rate": 1700,
-    "updated_at": "2026-11-11T19:44:01.697172+00:00",
+    "carrier_rate": 1900,
+    "updated_at": "2026-11-11T20:49:57.196093+00:00",
     "lane": "OLD FORT NC-COLUMBUS GA"
   },
   {
