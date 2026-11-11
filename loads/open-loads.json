@@ -749,7 +749,7 @@
   },
   {
     "pro": "49855",
-    "status": "LOADED",
+    "status": "CONSIGNEE",
     "pu_date": "2026-11-10",
     "pu_city": "PASADENA",
     "pu_state": "TX",
@@ -761,7 +761,7 @@
     "equipment": "Van",
     "weight_lbs": 44960,
     "carrier_rate": 2800,
-    "updated_at": "2026-11-10T16:47:58.193201+00:00",
+    "updated_at": "2026-11-11T08:39:26.553849+00:00",
     "lane": "PASADENA TX-PIEDMONT SC"
   },
   {
