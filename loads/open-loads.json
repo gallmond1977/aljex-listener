@@ -81,7 +81,7 @@
     "equipment": "Van",
     "weight_lbs": 36000,
     "carrier_rate": 3700,
-    "updated_at": "2026-11-11T15:25:13.878985+00:00",
+    "updated_at": "2026-11-11T15:28:53.536208+00:00",
     "lane": "RICE LAKE WI-MC WILLIAMS AL"
   },
   {
@@ -236,6 +236,23 @@
     "carrier_rate": 1500,
     "updated_at": "2026-11-11T12:52:56.504694+00:00",
     "lane": "COLUMBUS GA-GREER SC"
+  },
+  {
+    "pro": "51406",
+    "status": "OPEN",
+    "pu_date": "2026-11-13",
+    "pu_city": "LAGRANGE",
+    "pu_state": "GA",
+    "pu_hours": "0800-1200",
+    "del_date": "2026-11-16",
+    "del_city": "DALLAS",
+    "del_state": "TX",
+    "del_hours": "0800-1600",
+    "equipment": "Van",
+    "weight_lbs": 30000,
+    "carrier_rate": 1900,
+    "updated_at": "2026-11-11T15:28:04.877067+00:00",
+    "lane": "LAGRANGE GA-DALLAS TX"
   },
   {
     "pro": "51251",
@@ -761,7 +778,7 @@
     "equipment": "Van",
     "weight_lbs": 41500,
     "carrier_rate": 1700,
-    "updated_at": "2026-11-11T14:59:42.708841+00:00",
+    "updated_at": "2026-11-11T15:29:51.369569+00:00",
     "lane": "OLD FORT NC-COLUMBUS GA"
   },
   {
