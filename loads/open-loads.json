@@ -102,23 +102,6 @@
     "lane": "OAKLAND TN-MONTICELLO IL"
   },
   {
-    "pro": "51402",
-    "status": "OPEN",
-    "pu_date": "2026-11-11",
-    "pu_city": "ATLANTA",
-    "pu_state": "GA",
-    "pu_hours": "1400",
-    "del_date": "2026-11-12",
-    "del_city": "WILMINGTON",
-    "del_state": "NC",
-    "del_hours": "0700-1500",
-    "equipment": "Van",
-    "weight_lbs": 39500,
-    "carrier_rate": 1400,
-    "updated_at": "2026-11-11T13:53:51.689641+00:00",
-    "lane": "ATLANTA GA-WILMINGTON NC"
-  },
-  {
     "pro": "51403",
     "status": "OPEN",
     "pu_date": "2026-11-11",
