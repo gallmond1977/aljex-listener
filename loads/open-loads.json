@@ -68,23 +68,6 @@
     "lane": "PASADENA TX-FORT WORTH TX"
   },
   {
-    "pro": "51368",
-    "status": "OPEN",
-    "pu_date": "2026-11-11",
-    "pu_city": "EVANSVILLE",
-    "pu_state": "IN",
-    "pu_hours": "0630-1500",
-    "del_date": "2026-11-12",
-    "del_city": "OKLAHOMA CITY",
-    "del_state": "OK",
-    "del_hours": "0800-1500",
-    "equipment": "Flatbed",
-    "weight_lbs": 48000,
-    "carrier_rate": 3400,
-    "updated_at": "2026-11-09T21:41:34.675647+00:00",
-    "lane": "EVANSVILLE IN-OKLAHOMA CITY OK"
-  },
-  {
     "pro": "51381",
     "status": "OPEN",
     "pu_date": "2026-11-11",
