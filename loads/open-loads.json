@@ -47,25 +47,8 @@
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 2500,
     "carrier_rate": 1200,
-    "updated_at": "2026-11-12T14:54:37.447598+00:00",
+    "updated_at": "2026-11-12T14:59:24.423790+00:00",
     "lane": "POTTERVILLE MI-SALISBURY NC"
-  },
-  {
-    "pro": "51421",
-    "status": "OPEN",
-    "pu_date": "2026-11-12",
-    "pu_city": "ROANOKE",
-    "pu_state": "AL",
-    "pu_hours": "0800-1200",
-    "del_date": "2026-11-13",
-    "del_city": "HASLET",
-    "del_state": "TX",
-    "del_hours": "0800-1200",
-    "equipment": "26' Straight Box Truck",
-    "weight_lbs": 1500,
-    "carrier_rate": 1400,
-    "updated_at": "2026-11-12T14:54:46.037999+00:00",
-    "lane": "ROANOKE AL-HASLET TX"
   },
   {
     "pro": "51426",
@@ -132,7 +115,7 @@
     "equipment": "Flatbed",
     "weight_lbs": 0,
     "carrier_rate": 350,
-    "updated_at": "2026-11-12T14:48:41.145413+00:00",
+    "updated_at": "2026-11-12T14:59:59.580549+00:00",
     "lane": "ORLANDO FL-BROOKSVILLE FL"
   },
   {
