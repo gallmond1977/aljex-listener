@@ -85,23 +85,6 @@
     "lane": "BUENA VISTA GA-INDIAN TRAIL NC"
   },
   {
-    "pro": "51430",
-    "status": "OPEN",
-    "pu_date": "2026-11-12",
-    "pu_city": "CHARLOTTE",
-    "pu_state": "NC",
-    "pu_hours": "0800-1200",
-    "del_date": "2026-11-12",
-    "del_city": "FLETCHER",
-    "del_state": "NC",
-    "del_hours": "0800-1500",
-    "equipment": "Sprinter Van",
-    "weight_lbs": 450,
-    "carrier_rate": 300,
-    "updated_at": "2026-11-12T14:33:35.476763+00:00",
-    "lane": "CHARLOTTE NC-FLETCHER NC"
-  },
-  {
     "pro": "51431",
     "status": "OPEN",
     "pu_date": "2026-11-12",
@@ -797,23 +780,6 @@
     "carrier_rate": 3200,
     "updated_at": "2026-11-12T13:52:24.531240+00:00",
     "lane": "ALPHARETTA GA-BELCAMP MD"
-  },
-  {
-    "pro": "51382",
-    "status": "RELEASED",
-    "pu_date": "2026-11-10",
-    "pu_city": "CHARLOTTE",
-    "pu_state": "NC",
-    "pu_hours": "0800-1500",
-    "del_date": "2026-11-11",
-    "del_city": "FLETCHER",
-    "del_state": "NC",
-    "del_hours": "0800-0900",
-    "equipment": "Sprinter Van",
-    "weight_lbs": 200,
-    "carrier_rate": 300,
-    "updated_at": "2026-11-12T14:41:48.971340+00:00",
-    "lane": "CHARLOTTE NC-FLETCHER NC"
   },
   {
     "pro": "50542",
