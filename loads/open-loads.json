@@ -47,7 +47,7 @@
     "equipment": "Sprinter Van",
     "weight_lbs": 500,
     "carrier_rate": 750,
-    "updated_at": "2026-11-11T18:17:44.471325+00:00",
+    "updated_at": "2026-11-12T13:11:16.253498+00:00",
     "lane": "ATLANTA GA-TAMPA FL"
   },
   {
@@ -83,23 +83,6 @@
     "carrier_rate": null,
     "updated_at": "2026-11-11T21:17:03.118549+00:00",
     "lane": "ROANOKE AL-HASLET TX"
-  },
-  {
-    "pro": "51423",
-    "status": "OPEN",
-    "pu_date": "2026-11-12",
-    "pu_city": "COLUMBUS",
-    "pu_state": "GA",
-    "pu_hours": "1000-1200",
-    "del_date": "2026-11-12",
-    "del_city": "ATLANTA",
-    "del_state": "GA",
-    "del_hours": "0800-1600",
-    "equipment": "26' Straight Box Truck",
-    "weight_lbs": 9000,
-    "carrier_rate": 300,
-    "updated_at": "2026-11-11T21:29:54.756444+00:00",
-    "lane": "COLUMBUS GA-ATLANTA GA"
   },
   {
     "pro": "51424",
@@ -149,7 +132,7 @@
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 3000,
     "carrier_rate": 1300,
-    "updated_at": "2026-11-12T12:54:21.518450+00:00",
+    "updated_at": "2026-11-12T13:11:24.020451+00:00",
     "lane": "BELCAMP MD-LAGRANGE GA"
   },
   {
@@ -593,40 +576,6 @@
     "carrier_rate": 4800,
     "updated_at": "2026-11-10T15:13:57.169423+00:00",
     "lane": "MONTEZUMA GA-TRACY CA"
-  },
-  {
-    "pro": "51255",
-    "status": "RELEASED",
-    "pu_date": "2026-11-03",
-    "pu_city": "COLUMBUS",
-    "pu_state": "GA",
-    "pu_hours": "1100",
-    "del_date": "2026-11-03",
-    "del_city": "ATLANTA",
-    "del_state": "GA",
-    "del_hours": "0800-1600",
-    "equipment": "26' Straight Box Truck",
-    "weight_lbs": 9000,
-    "carrier_rate": 350,
-    "updated_at": "2026-11-05T14:38:10.131815+00:00",
-    "lane": "COLUMBUS GA-ATLANTA GA"
-  },
-  {
-    "pro": "51259",
-    "status": "RELEASED",
-    "pu_date": "2026-11-04",
-    "pu_city": "COLUMBUS",
-    "pu_state": "GA",
-    "pu_hours": "1200",
-    "del_date": "2026-11-04",
-    "del_city": "ATLANTA",
-    "del_state": "GA",
-    "del_hours": "0800-1445",
-    "equipment": "26' Straight Box Truck",
-    "weight_lbs": 5000,
-    "carrier_rate": 300,
-    "updated_at": "2026-11-05T19:15:01.465803+00:00",
-    "lane": "COLUMBUS GA-ATLANTA GA"
   },
   {
     "pro": "51267",
