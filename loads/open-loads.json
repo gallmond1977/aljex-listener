@@ -170,6 +170,23 @@
     "lane": "HOUSTON TX-SANFORD FL"
   },
   {
+    "pro": "51435",
+    "status": "OPEN",
+    "pu_date": "2026-11-13",
+    "pu_city": "VILLA RICA",
+    "pu_state": "GA",
+    "pu_hours": "0800-1500",
+    "del_date": "2026-11-16",
+    "del_city": "STEVENS",
+    "del_state": "PA",
+    "del_hours": "0700-1300",
+    "equipment": "Van",
+    "weight_lbs": 41250,
+    "carrier_rate": 2100,
+    "updated_at": "2026-11-12T15:37:25.422392+00:00",
+    "lane": "VILLA RICA GA-STEVENS PA"
+  },
+  {
     "pro": "51251",
     "status": "OPEN",
     "pu_date": "2026-11-16",
