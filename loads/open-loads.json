@@ -136,6 +136,23 @@
     "lane": "SHILOH OH-ASHEVILLE NC"
   },
   {
+    "pro": "51426",
+    "status": "OPEN",
+    "pu_date": "2026-11-12",
+    "pu_city": "BELCAMP",
+    "pu_state": "MD",
+    "pu_hours": "0800-1500",
+    "del_date": "2026-11-13",
+    "del_city": "LAGRANGE",
+    "del_state": "GA",
+    "del_hours": "0700-1500",
+    "equipment": "26' Straight Box Truck",
+    "weight_lbs": 3000,
+    "carrier_rate": 1300,
+    "updated_at": "2026-11-12T12:54:21.518450+00:00",
+    "lane": "BELCAMP MD-LAGRANGE GA"
+  },
+  {
     "pro": "51353",
     "status": "OPEN",
     "pu_date": "2026-11-13",
@@ -902,7 +919,7 @@
   },
   {
     "pro": "51374",
-    "status": "COVERED",
+    "status": "PICKUP",
     "pu_date": "2026-11-12",
     "pu_city": "WINCHESTER",
     "pu_state": "KY",
@@ -914,7 +931,7 @@
     "equipment": "Van",
     "weight_lbs": 11280,
     "carrier_rate": 1100,
-    "updated_at": "2026-11-11T14:28:43.566762+00:00",
+    "updated_at": "2026-11-12T12:54:06.048300+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
@@ -931,7 +948,7 @@
     "equipment": "Van",
     "weight_lbs": 11280,
     "carrier_rate": 1100,
-    "updated_at": "2026-11-12T12:40:12.500484+00:00",
+    "updated_at": "2026-11-12T12:55:10.108641+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
