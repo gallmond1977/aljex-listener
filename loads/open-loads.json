@@ -328,15 +328,15 @@
     "pu_date": "2026-11-18",
     "pu_city": "WINCHESTER",
     "pu_state": "KY",
-    "pu_hours": "",
+    "pu_hours": "NEED",
     "del_date": "2026-11-19",
     "del_city": "UXBRIDGE",
     "del_state": "MA",
-    "del_hours": "0400",
+    "del_hours": "REQ",
     "equipment": "Van",
     "weight_lbs": 11481,
     "carrier_rate": null,
-    "updated_at": "2026-11-12T15:15:08.197968+00:00",
+    "updated_at": "2026-11-12T15:18:45.316435+00:00",
     "lane": "WINCHESTER KY-UXBRIDGE MA"
   },
   {
@@ -766,7 +766,7 @@
   },
   {
     "pro": "49855",
-    "status": "DELIVERED",
+    "status": "RELEASED",
     "pu_date": "2026-11-10",
     "pu_city": "PASADENA",
     "pu_state": "TX",
@@ -778,7 +778,7 @@
     "equipment": "Van",
     "weight_lbs": 44960,
     "carrier_rate": 2800,
-    "updated_at": "2026-11-11T15:51:43.653690+00:00",
+    "updated_at": "2026-11-12T15:18:14.554750+00:00",
     "lane": "PASADENA TX-PIEDMONT SC"
   },
   {
