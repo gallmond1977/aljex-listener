@@ -953,7 +953,7 @@
   },
   {
     "pro": "51376",
-    "status": "DISPATCHED",
+    "status": "PICKUP",
     "pu_date": "2026-11-12",
     "pu_city": "WINCHESTER",
     "pu_state": "KY",
@@ -965,7 +965,7 @@
     "equipment": "Van",
     "weight_lbs": 11280,
     "carrier_rate": 1100,
-    "updated_at": "2026-11-12T13:05:01.205110+00:00",
+    "updated_at": "2026-11-12T15:46:09.958936+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
@@ -982,12 +982,12 @@
     "equipment": "Van",
     "weight_lbs": 9600,
     "carrier_rate": 1100,
-    "updated_at": "2026-11-12T15:33:35.934381+00:00",
+    "updated_at": "2026-11-12T15:45:36.561426+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
     "pro": "51378",
-    "status": "COVERED",
+    "status": "DISPATCHED",
     "pu_date": "2026-11-12",
     "pu_city": "WINCHESTER",
     "pu_state": "KY",
@@ -999,7 +999,7 @@
     "equipment": "Van",
     "weight_lbs": 9600,
     "carrier_rate": 1100,
-    "updated_at": "2026-11-12T15:00:52.421685+00:00",
+    "updated_at": "2026-11-12T15:48:07.235333+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
