@@ -1,22 +1,5 @@
 [
   {
-    "pro": "51418",
-    "status": "OPEN",
-    "pu_date": "2026-11-12",
-    "pu_city": "POTTERVILLE",
-    "pu_state": "MI",
-    "pu_hours": "0700-1630",
-    "del_date": "2026-11-13",
-    "del_city": "SALISBURY",
-    "del_state": "NC",
-    "del_hours": "0600-1130",
-    "equipment": "26' Straight Box Truck",
-    "weight_lbs": 2500,
-    "carrier_rate": 1400,
-    "updated_at": "2026-11-12T16:07:46.296715+00:00",
-    "lane": "POTTERVILLE MI-SALISBURY NC"
-  },
-  {
     "pro": "51438",
     "status": "OPEN",
     "pu_date": "2026-11-12",
@@ -49,6 +32,23 @@
     "carrier_rate": 750,
     "updated_at": "2026-11-12T18:45:43.398711+00:00",
     "lane": "ATLANTA GA-TAMPA FL"
+  },
+  {
+    "pro": "51418",
+    "status": "OPEN",
+    "pu_date": "2026-11-13",
+    "pu_city": "POTTERVILLE",
+    "pu_state": "MI",
+    "pu_hours": "0700-1630",
+    "del_date": "2026-11-16",
+    "del_city": "SALISBURY",
+    "del_state": "NC",
+    "del_hours": "0600-1130",
+    "equipment": "26' Straight Box Truck",
+    "weight_lbs": 2500,
+    "carrier_rate": 1400,
+    "updated_at": "2026-11-12T21:26:28.381548+00:00",
+    "lane": "POTTERVILLE MI-SALISBURY NC"
   },
   {
     "pro": "51439",
