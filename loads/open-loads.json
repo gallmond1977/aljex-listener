@@ -68,6 +68,23 @@
     "lane": "BUENA VISTA GA-INDIAN TRAIL NC"
   },
   {
+    "pro": "51436",
+    "status": "OPEN",
+    "pu_date": "2026-11-12",
+    "pu_city": "COLUMBUS",
+    "pu_state": "GA",
+    "pu_hours": "0800-1500",
+    "del_date": "2026-11-13",
+    "del_city": "BROOKSHIRE",
+    "del_state": "TX",
+    "del_hours": "0700-1500",
+    "equipment": "Van",
+    "weight_lbs": 39000,
+    "carrier_rate": 2000,
+    "updated_at": "2026-11-12T16:24:44.436844+00:00",
+    "lane": "COLUMBUS GA-BROOKSHIRE TX"
+  },
+  {
     "pro": "51353",
     "status": "OPEN",
     "pu_date": "2026-11-13",
@@ -117,23 +134,6 @@
     "carrier_rate": 1000,
     "updated_at": "2026-11-11T15:49:32.388218+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
-  },
-  {
-    "pro": "51410",
-    "status": "OPEN",
-    "pu_date": "2026-11-13",
-    "pu_city": "CARY",
-    "pu_state": "NC",
-    "pu_hours": "0700",
-    "del_date": "2026-11-13",
-    "del_city": "RICHMOND",
-    "del_state": "VA",
-    "del_hours": "0800-1200",
-    "equipment": "26' Straight Box Truck",
-    "weight_lbs": 5500,
-    "carrier_rate": 400,
-    "updated_at": "2026-11-12T16:17:14.276130+00:00",
-    "lane": "CARY NC-RICHMOND VA"
   },
   {
     "pro": "51411",
