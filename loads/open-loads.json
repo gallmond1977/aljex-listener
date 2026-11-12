@@ -68,23 +68,6 @@
     "lane": "ATLANTA GA-TAMPA FL"
   },
   {
-    "pro": "51417",
-    "status": "OPEN",
-    "pu_date": "2026-11-12",
-    "pu_city": "SALISBURY",
-    "pu_state": "NC",
-    "pu_hours": "0600-1400",
-    "del_date": "2026-11-13",
-    "del_city": "CLIFTON SPRINGS",
-    "del_state": "NY",
-    "del_hours": "0800",
-    "equipment": "Van",
-    "weight_lbs": 8800,
-    "carrier_rate": 1900,
-    "updated_at": "2026-11-12T13:39:29.333029+00:00",
-    "lane": "SALISBURY NC-CLIFTON SPRINGS NY"
-  },
-  {
     "pro": "51418",
     "status": "OPEN",
     "pu_date": "2026-11-12",
@@ -117,23 +100,6 @@
     "carrier_rate": null,
     "updated_at": "2026-11-11T21:17:03.118549+00:00",
     "lane": "ROANOKE AL-HASLET TX"
-  },
-  {
-    "pro": "51425",
-    "status": "OPEN",
-    "pu_date": "2026-11-12",
-    "pu_city": "SHILOH",
-    "pu_state": "OH",
-    "pu_hours": "0800-1400",
-    "del_date": "2026-11-13",
-    "del_city": "ASHEVILLE",
-    "del_state": "NC",
-    "del_hours": "0800-0900",
-    "equipment": "26' Straight Box Truck",
-    "weight_lbs": 1000,
-    "carrier_rate": 900,
-    "updated_at": "2026-11-11T21:49:27.303937+00:00",
-    "lane": "SHILOH OH-ASHEVILLE NC"
   },
   {
     "pro": "51426",
@@ -902,7 +868,7 @@
   },
   {
     "pro": "51375",
-    "status": "PICKUP",
+    "status": "LOADED",
     "pu_date": "2026-11-12",
     "pu_city": "WINCHESTER",
     "pu_state": "KY",
@@ -914,7 +880,7 @@
     "equipment": "Van",
     "weight_lbs": 11280,
     "carrier_rate": 1100,
-    "updated_at": "2026-11-12T12:56:28.880460+00:00",
+    "updated_at": "2026-11-12T13:43:49.542573+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
