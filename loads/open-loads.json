@@ -1,22 +1,5 @@
 [
   {
-    "pro": "51405",
-    "status": "OPEN",
-    "pu_date": "2026-11-12",
-    "pu_city": "RICE LAKE",
-    "pu_state": "WI",
-    "pu_hours": "1400",
-    "del_date": "2026-11-13",
-    "del_city": "PINE APPLE",
-    "del_state": "AL",
-    "del_hours": "0800-1100",
-    "equipment": "Van",
-    "weight_lbs": 36000,
-    "carrier_rate": 4000,
-    "updated_at": "2026-11-12T16:31:44.567336+00:00",
-    "lane": "RICE LAKE WI-PINE APPLE AL"
-  },
-  {
     "pro": "51407",
     "status": "OPEN",
     "pu_date": "2026-11-12",
@@ -102,6 +85,23 @@
     "lane": "MONTEZUMA GA-TRACY CA"
   },
   {
+    "pro": "51405",
+    "status": "OPEN",
+    "pu_date": "2026-11-13",
+    "pu_city": "RICE LAKE",
+    "pu_state": "WI",
+    "pu_hours": "1100",
+    "del_date": "2026-11-16",
+    "del_city": "PINE APPLE",
+    "del_state": "AL",
+    "del_hours": "0800-1100",
+    "equipment": "Van",
+    "weight_lbs": 36000,
+    "carrier_rate": 4000,
+    "updated_at": "2026-11-12T16:44:30.846672+00:00",
+    "lane": "RICE LAKE WI-PINE APPLE AL"
+  },
+  {
     "pro": "51409",
     "status": "OPEN",
     "pu_date": "2026-11-13",
@@ -117,23 +117,6 @@
     "carrier_rate": 1000,
     "updated_at": "2026-11-11T15:49:32.388218+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
-  },
-  {
-    "pro": "51411",
-    "status": "OPEN",
-    "pu_date": "2026-11-13",
-    "pu_city": "HOUSTON",
-    "pu_state": "TX",
-    "pu_hours": "1230",
-    "del_date": "2026-11-16",
-    "del_city": "SANFORD",
-    "del_state": "FL",
-    "del_hours": "0700",
-    "equipment": "26' Straight Box Truck",
-    "weight_lbs": 7000,
-    "carrier_rate": 1800,
-    "updated_at": "2026-11-11T16:28:46.523074+00:00",
-    "lane": "HOUSTON TX-SANFORD FL"
   },
   {
     "pro": "51251",
@@ -984,5 +967,22 @@
     "carrier_rate": 450,
     "updated_at": "2026-11-06T20:48:26.717760+00:00",
     "lane": "ATLANTA GA-DECATUR GA"
+  },
+  {
+    "pro": "51411",
+    "status": "COVERED",
+    "pu_date": "2026-11-13",
+    "pu_city": "HOUSTON",
+    "pu_state": "TX",
+    "pu_hours": "1230",
+    "del_date": "2026-11-16",
+    "del_city": "SANFORD",
+    "del_state": "FL",
+    "del_hours": "0700",
+    "equipment": "26' Straight Box Truck",
+    "weight_lbs": 7000,
+    "carrier_rate": 1950,
+    "updated_at": "2026-11-12T16:43:45.184611+00:00",
+    "lane": "HOUSTON TX-SANFORD FL"
   }
 ]
