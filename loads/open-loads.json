@@ -340,6 +340,23 @@
     "lane": "WINCHESTER KY-UXBRIDGE MA"
   },
   {
+    "pro": "51433",
+    "status": "OPEN",
+    "pu_date": "2026-11-18",
+    "pu_city": "WINCHESTER",
+    "pu_state": "KY",
+    "pu_hours": "NEED",
+    "del_date": "2026-11-19",
+    "del_city": "JACKSONVILLE",
+    "del_state": "FL",
+    "del_hours": "REQ",
+    "equipment": "Van",
+    "weight_lbs": 9078,
+    "carrier_rate": null,
+    "updated_at": "2026-11-12T15:23:19.426540+00:00",
+    "lane": "WINCHESTER KY-JACKSONVILLE FL"
+  },
+  {
     "pro": "51316",
     "status": "OPEN",
     "pu_date": "2026-11-20",
@@ -729,6 +746,23 @@
     "carrier_rate": 3800,
     "updated_at": "2026-11-11T22:25:36.096896+00:00",
     "lane": "WINCHESTER KY-UXBRIDGE MA"
+  },
+  {
+    "pro": "51314",
+    "status": "RELEASED",
+    "pu_date": "2026-11-09",
+    "pu_city": "WINCHESTER",
+    "pu_state": "KY",
+    "pu_hours": "1200-1400",
+    "del_date": "2026-11-10",
+    "del_city": "JACKSONVILLE",
+    "del_state": "FL",
+    "del_hours": "2000",
+    "equipment": "Van",
+    "weight_lbs": 5200,
+    "carrier_rate": 3000,
+    "updated_at": "2026-11-11T22:41:27.436796+00:00",
+    "lane": "WINCHESTER KY-JACKSONVILLE FL"
   },
   {
     "pro": "51329",
