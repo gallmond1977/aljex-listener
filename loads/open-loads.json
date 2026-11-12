@@ -98,7 +98,7 @@
     "equipment": "Flatbed Hot Shot",
     "weight_lbs": 1500,
     "carrier_rate": null,
-    "updated_at": "2026-11-11T21:17:03.118549+00:00",
+    "updated_at": "2026-11-12T13:51:49.007537+00:00",
     "lane": "ROANOKE AL-HASLET TX"
   },
   {
@@ -817,7 +817,7 @@
   },
   {
     "pro": "51365",
-    "status": "DELIVERED",
+    "status": "RELEASED",
     "pu_date": "2026-11-10",
     "pu_city": "ALPHARETTA",
     "pu_state": "GA",
@@ -829,7 +829,7 @@
     "equipment": "Flatbed w/ Tarps",
     "weight_lbs": 42000,
     "carrier_rate": 3200,
-    "updated_at": "2026-11-11T18:05:13.620434+00:00",
+    "updated_at": "2026-11-12T13:52:24.531240+00:00",
     "lane": "ALPHARETTA GA-BELCAMP MD"
   },
   {
