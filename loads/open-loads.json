@@ -80,8 +80,8 @@
     "del_hours": "0415",
     "equipment": "Reefer",
     "weight_lbs": 39000,
-    "carrier_rate": null,
-    "updated_at": "2026-11-11T14:38:21.091053+00:00",
+    "carrier_rate": 4600,
+    "updated_at": "2026-11-12T16:03:33.717935+00:00",
     "lane": "MONTEZUMA GA-TRACY CA"
   },
   {
@@ -97,8 +97,8 @@
     "del_hours": "0415",
     "equipment": "Reefer",
     "weight_lbs": 39000,
-    "carrier_rate": null,
-    "updated_at": "2026-11-11T14:37:41.605414+00:00",
+    "carrier_rate": 4600,
+    "updated_at": "2026-11-12T16:03:48.339161+00:00",
     "lane": "MONTEZUMA GA-TRACY CA"
   },
   {
