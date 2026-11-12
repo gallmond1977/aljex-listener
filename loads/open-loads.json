@@ -1055,7 +1055,7 @@
   },
   {
     "pro": "51376",
-    "status": "COVERED",
+    "status": "PICKUP",
     "pu_date": "2026-11-12",
     "pu_city": "WINCHESTER",
     "pu_state": "KY",
@@ -1067,7 +1067,7 @@
     "equipment": "Van",
     "weight_lbs": 11280,
     "carrier_rate": 1100,
-    "updated_at": "2026-11-11T16:54:24.864143+00:00",
+    "updated_at": "2026-11-12T03:50:22.299469+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
