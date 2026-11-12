@@ -34,23 +34,6 @@
     "lane": "SAVANNAH GA-COLUMBUS GA"
   },
   {
-    "pro": "51363",
-    "status": "OPEN",
-    "pu_date": "2026-11-13",
-    "pu_city": "MONTEZUMA",
-    "pu_state": "GA",
-    "pu_hours": "1500",
-    "del_date": "2026-11-17",
-    "del_city": "TRACY",
-    "del_state": "CA",
-    "del_hours": "0415",
-    "equipment": "Reefer",
-    "weight_lbs": 39000,
-    "carrier_rate": 4600,
-    "updated_at": "2026-11-12T16:03:48.339161+00:00",
-    "lane": "MONTEZUMA GA-TRACY CA"
-  },
-  {
     "pro": "51407",
     "status": "OPEN",
     "pu_date": "2026-11-13",
@@ -66,23 +49,6 @@
     "carrier_rate": 750,
     "updated_at": "2026-11-12T18:45:43.398711+00:00",
     "lane": "ATLANTA GA-TAMPA FL"
-  },
-  {
-    "pro": "51437",
-    "status": "OPEN",
-    "pu_date": "2026-11-13",
-    "pu_city": "ALPHARETTA",
-    "pu_state": "GA",
-    "pu_hours": "0900-1600",
-    "del_date": "2026-11-16",
-    "del_city": "BELCAMP",
-    "del_state": "MD",
-    "del_hours": "0700-1500",
-    "equipment": "Flatbed w/ Tarps",
-    "weight_lbs": 42000,
-    "carrier_rate": 3200,
-    "updated_at": "2026-11-12T19:58:39.733247+00:00",
-    "lane": "ALPHARETTA GA-BELCAMP MD"
   },
   {
     "pro": "51251",
@@ -459,23 +425,6 @@
     "lane": "LA PORTE TX-PIEDMONT SC"
   },
   {
-    "pro": "51128",
-    "status": "RELEASED",
-    "pu_date": "2026-11-03",
-    "pu_city": "MONTEZUMA",
-    "pu_state": "GA",
-    "pu_hours": "1300",
-    "del_date": "2026-11-07",
-    "del_city": "TRACY",
-    "del_state": "CA",
-    "del_hours": "0345",
-    "equipment": "Reefer",
-    "weight_lbs": 13650,
-    "carrier_rate": 4800,
-    "updated_at": "2026-11-10T15:13:57.169423+00:00",
-    "lane": "MONTEZUMA GA-TRACY CA"
-  },
-  {
     "pro": "51275",
     "status": "RELEASED",
     "pu_date": "2026-11-04",
@@ -765,23 +714,6 @@
     "lane": "ATLANTA GA-DECATUR GA"
   },
   {
-    "pro": "51353",
-    "status": "COVERED",
-    "pu_date": "2026-11-13",
-    "pu_city": "MONTEZUMA",
-    "pu_state": "GA",
-    "pu_hours": "1300",
-    "del_date": "2026-11-17",
-    "del_city": "TRACY",
-    "del_state": "CA",
-    "del_hours": "0415",
-    "equipment": "Reefer",
-    "weight_lbs": 39000,
-    "carrier_rate": 4800,
-    "updated_at": "2026-11-12T18:15:52.992134+00:00",
-    "lane": "MONTEZUMA GA-TRACY CA"
-  },
-  {
     "pro": "51411",
     "status": "COVERED",
     "pu_date": "2026-11-13",
@@ -797,5 +729,22 @@
     "carrier_rate": 1950,
     "updated_at": "2026-11-12T16:43:45.184611+00:00",
     "lane": "HOUSTON TX-SANFORD FL"
+  },
+  {
+    "pro": "51437",
+    "status": "COVERED",
+    "pu_date": "2026-11-13",
+    "pu_city": "ALPHARETTA",
+    "pu_state": "GA",
+    "pu_hours": "0900-1600",
+    "del_date": "2026-11-16",
+    "del_city": "BELCAMP",
+    "del_state": "MD",
+    "del_hours": "0700-1500",
+    "equipment": "Flatbed w/ Tarps",
+    "weight_lbs": 42000,
+    "carrier_rate": 3200,
+    "updated_at": "2026-11-12T20:15:12.900421+00:00",
+    "lane": "ALPHARETTA GA-BELCAMP MD"
   }
 ]
