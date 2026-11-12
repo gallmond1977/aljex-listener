@@ -732,7 +732,7 @@
   },
   {
     "pro": "51269",
-    "status": "DELIVERED",
+    "status": "RELEASED",
     "pu_date": "2026-11-09",
     "pu_city": "LA PORTE",
     "pu_state": "TX",
@@ -744,7 +744,7 @@
     "equipment": "Van",
     "weight_lbs": 41328,
     "carrier_rate": 2800,
-    "updated_at": "2026-11-11T11:38:49.193949+00:00",
+    "updated_at": "2026-11-12T13:17:23.612658+00:00",
     "lane": "LA PORTE TX-PIEDMONT SC"
   },
   {
@@ -783,7 +783,7 @@
   },
   {
     "pro": "51340",
-    "status": "DELIVERED",
+    "status": "RELEASED",
     "pu_date": "2026-11-09",
     "pu_city": "HOUSTON",
     "pu_state": "TX",
@@ -795,7 +795,7 @@
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 7000,
     "carrier_rate": 1800,
-    "updated_at": "2026-11-11T15:10:11.539335+00:00",
+    "updated_at": "2026-11-12T13:16:22.237410+00:00",
     "lane": "HOUSTON TX-SANFORD FL"
   },
   {
