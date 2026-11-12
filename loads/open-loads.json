@@ -226,7 +226,7 @@
     "pu_date": "2026-11-18",
     "pu_city": "WINCHESTER",
     "pu_state": "KY",
-    "pu_hours": "NEEDED",
+    "pu_hours": "1300",
     "del_date": "2026-11-19",
     "del_city": "JACKSONVILLE",
     "del_state": "FL",
@@ -234,7 +234,7 @@
     "equipment": "Van",
     "weight_lbs": 9078,
     "carrier_rate": null,
-    "updated_at": "2026-11-12T17:10:27.353072+00:00",
+    "updated_at": "2026-11-12T17:29:13.801687+00:00",
     "lane": "WINCHESTER KY-JACKSONVILLE FL"
   },
   {
@@ -715,7 +715,7 @@
   },
   {
     "pro": "50542",
-    "status": "LOADED",
+    "status": "CONSIGNEE",
     "pu_date": "2026-11-11",
     "pu_city": "OLD FORT",
     "pu_state": "NC",
@@ -727,7 +727,7 @@
     "equipment": "Van",
     "weight_lbs": 41500,
     "carrier_rate": 1900,
-    "updated_at": "2026-11-12T17:02:55.826399+00:00",
+    "updated_at": "2026-11-12T17:28:12.244380+00:00",
     "lane": "OLD FORT NC-COLUMBUS GA"
   },
   {
