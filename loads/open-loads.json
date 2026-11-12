@@ -34,6 +34,23 @@
     "lane": "POTTERVILLE MI-SALISBURY NC"
   },
   {
+    "pro": "51438",
+    "status": "OPEN",
+    "pu_date": "2026-11-12",
+    "pu_city": "SAVANNAH",
+    "pu_state": "GA",
+    "pu_hours": "1200-1400",
+    "del_date": "2026-11-13",
+    "del_city": "COLUMBUS",
+    "del_state": "GA",
+    "del_hours": "0800-0900",
+    "equipment": "Flatbed w/ Tarps",
+    "weight_lbs": 13500,
+    "carrier_rate": 1150,
+    "updated_at": "2026-11-12T17:49:44.425608+00:00",
+    "lane": "SAVANNAH GA-COLUMBUS GA"
+  },
+  {
     "pro": "51353",
     "status": "OPEN",
     "pu_date": "2026-11-13",
@@ -729,6 +746,23 @@
     "carrier_rate": 1900,
     "updated_at": "2026-11-12T17:28:12.244380+00:00",
     "lane": "OLD FORT NC-COLUMBUS GA"
+  },
+  {
+    "pro": "51429",
+    "status": "PICKUP",
+    "pu_date": "2026-11-12",
+    "pu_city": "SAVANNAH",
+    "pu_state": "GA",
+    "pu_hours": "1200-1400",
+    "del_date": "2026-11-13",
+    "del_city": "COLUMBUS",
+    "del_state": "GA",
+    "del_hours": "0800-0900",
+    "equipment": "Van",
+    "weight_lbs": 13500,
+    "carrier_rate": 150,
+    "updated_at": "2026-11-12T17:46:22.268857+00:00",
+    "lane": "SAVANNAH GA-COLUMBUS GA"
   },
   {
     "pro": "51344",
