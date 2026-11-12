@@ -1004,7 +1004,7 @@
   },
   {
     "pro": "50542",
-    "status": "PICKUP",
+    "status": "LOADED",
     "pu_date": "2026-11-11",
     "pu_city": "OLD FORT",
     "pu_state": "NC",
@@ -1016,7 +1016,7 @@
     "equipment": "Van",
     "weight_lbs": 41500,
     "carrier_rate": 1900,
-    "updated_at": "2026-11-11T22:17:17.721834+00:00",
+    "updated_at": "2026-11-12T00:58:00.024276+00:00",
     "lane": "OLD FORT NC-COLUMBUS GA"
   },
   {
