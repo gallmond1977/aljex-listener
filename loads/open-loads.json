@@ -51,23 +51,6 @@
     "lane": "POTTERVILLE MI-SALISBURY NC"
   },
   {
-    "pro": "51426",
-    "status": "OPEN",
-    "pu_date": "2026-11-12",
-    "pu_city": "BELCAMP",
-    "pu_state": "MD",
-    "pu_hours": "0800-1500",
-    "del_date": "2026-11-13",
-    "del_city": "LAGRANGE",
-    "del_state": "GA",
-    "del_hours": "0700-1200",
-    "equipment": "26' Straight Box Truck",
-    "weight_lbs": 3000,
-    "carrier_rate": 1200,
-    "updated_at": "2026-11-12T15:33:26.741687+00:00",
-    "lane": "BELCAMP MD-LAGRANGE GA"
-  },
-  {
     "pro": "51428",
     "status": "OPEN",
     "pu_date": "2026-11-12",
