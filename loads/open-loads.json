@@ -64,7 +64,7 @@
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 1500,
     "carrier_rate": null,
-    "updated_at": "2026-11-12T14:22:35.538661+00:00",
+    "updated_at": "2026-11-12T14:34:19.164568+00:00",
     "lane": "ROANOKE AL-HASLET TX"
   },
   {
@@ -102,23 +102,6 @@
     "lane": "BUENA VISTA GA-INDIAN TRAIL NC"
   },
   {
-    "pro": "51429",
-    "status": "OPEN",
-    "pu_date": "2026-11-12",
-    "pu_city": "SAVANNAH",
-    "pu_state": "GA",
-    "pu_hours": "1200-1400",
-    "del_date": "2026-11-13",
-    "del_city": "COLUMBUS",
-    "del_state": "GA",
-    "del_hours": "0800-0900",
-    "equipment": "Van",
-    "weight_lbs": 13500,
-    "carrier_rate": 800,
-    "updated_at": "2026-11-12T14:21:09.482775+00:00",
-    "lane": "SAVANNAH GA-COLUMBUS GA"
-  },
-  {
     "pro": "51430",
     "status": "OPEN",
     "pu_date": "2026-11-12",
@@ -132,7 +115,7 @@
     "equipment": "Sprinter Van",
     "weight_lbs": 450,
     "carrier_rate": 300,
-    "updated_at": "2026-11-12T14:30:08.969387+00:00",
+    "updated_at": "2026-11-12T14:33:35.476763+00:00",
     "lane": "CHARLOTTE NC-FLETCHER NC"
   },
   {
