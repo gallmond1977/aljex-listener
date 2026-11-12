@@ -122,18 +122,18 @@
     "pro": "51431",
     "status": "OPEN",
     "pu_date": "2026-11-12",
-    "pu_city": "JACKSONVILLE",
+    "pu_city": "ORLANDO",
     "pu_state": "FL",
-    "pu_hours": "0800-1400",
+    "pu_hours": "0800-1200",
     "del_date": "2026-11-12",
     "del_city": "BROOKSVILLE",
     "del_state": "FL",
     "del_hours": "0800-1500",
     "equipment": "Flatbed",
-    "weight_lbs": 18500,
+    "weight_lbs": 0,
     "carrier_rate": 350,
-    "updated_at": "2026-11-12T14:39:24.520736+00:00",
-    "lane": "JACKSONVILLE FL-BROOKSVILLE FL"
+    "updated_at": "2026-11-12T14:48:41.145413+00:00",
+    "lane": "ORLANDO FL-BROOKSVILLE FL"
   },
   {
     "pro": "51353",
@@ -868,7 +868,7 @@
   },
   {
     "pro": "51374",
-    "status": "PICKUP",
+    "status": "LOADED",
     "pu_date": "2026-11-12",
     "pu_city": "WINCHESTER",
     "pu_state": "KY",
@@ -880,7 +880,7 @@
     "equipment": "Van",
     "weight_lbs": 11280,
     "carrier_rate": 1100,
-    "updated_at": "2026-11-12T13:02:33.278839+00:00",
+    "updated_at": "2026-11-12T14:45:27.429887+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
