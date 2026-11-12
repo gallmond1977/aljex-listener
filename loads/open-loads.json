@@ -357,6 +357,23 @@
     "lane": "WINCHESTER KY-JACKSONVILLE FL"
   },
   {
+    "pro": "51434",
+    "status": "OPEN",
+    "pu_date": "2026-11-18",
+    "pu_city": "WINCHESTER",
+    "pu_state": "KY",
+    "pu_hours": "NEED",
+    "del_date": "2026-11-19",
+    "del_city": "BURLINGTON",
+    "del_state": "NJ",
+    "del_hours": "REQ",
+    "equipment": "Van",
+    "weight_lbs": 12815,
+    "carrier_rate": null,
+    "updated_at": "2026-11-12T15:27:52.434817+00:00",
+    "lane": "WINCHESTER KY-BURLINGTON NJ"
+  },
+  {
     "pro": "51316",
     "status": "OPEN",
     "pu_date": "2026-11-20",
@@ -729,6 +746,23 @@
     "carrier_rate": 2800,
     "updated_at": "2026-11-12T13:17:23.612658+00:00",
     "lane": "LA PORTE TX-PIEDMONT SC"
+  },
+  {
+    "pro": "51291",
+    "status": "RELEASED",
+    "pu_date": "2026-11-09",
+    "pu_city": "WINCHESTER",
+    "pu_state": "KY",
+    "pu_hours": "1200-1500",
+    "del_date": "2026-11-10",
+    "del_city": "BURLINGTON",
+    "del_state": "NJ",
+    "del_hours": "1300",
+    "equipment": "Van",
+    "weight_lbs": 4200,
+    "carrier_rate": 2500,
+    "updated_at": "2026-11-11T22:24:35.709156+00:00",
+    "lane": "WINCHESTER KY-BURLINGTON NJ"
   },
   {
     "pro": "51292",
