@@ -715,19 +715,19 @@
   },
   {
     "pro": "51429",
-    "status": "PICKUP",
+    "status": "DELIVERED",
     "pu_date": "2026-11-12",
     "pu_city": "SAVANNAH",
     "pu_state": "GA",
     "pu_hours": "1200-1400",
-    "del_date": "2026-11-13",
+    "del_date": "2026-11-12",
     "del_city": "COLUMBUS",
     "del_state": "GA",
     "del_hours": "0800-0900",
     "equipment": "Van",
     "weight_lbs": 13500,
     "carrier_rate": 150,
-    "updated_at": "2026-11-12T17:46:22.268857+00:00",
+    "updated_at": "2026-11-12T19:54:31.669925+00:00",
     "lane": "SAVANNAH GA-COLUMBUS GA"
   },
   {
