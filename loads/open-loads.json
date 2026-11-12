@@ -476,23 +476,6 @@
     "lane": "MONTEZUMA GA-TRACY CA"
   },
   {
-    "pro": "51267",
-    "status": "RELEASED",
-    "pu_date": "2026-11-04",
-    "pu_city": "OAKLAND",
-    "pu_state": "TN",
-    "pu_hours": "0800-1500",
-    "del_date": "2026-11-05",
-    "del_city": "MIDLOTHIAN",
-    "del_state": "TX",
-    "del_hours": "0800-1500",
-    "equipment": "Van Hazmat",
-    "weight_lbs": 42000,
-    "carrier_rate": 2300,
-    "updated_at": "2026-11-05T19:08:44.579416+00:00",
-    "lane": "OAKLAND TN-MIDLOTHIAN TX"
-  },
-  {
     "pro": "51275",
     "status": "RELEASED",
     "pu_date": "2026-11-04",
