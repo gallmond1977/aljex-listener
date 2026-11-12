@@ -85,23 +85,6 @@
     "lane": "MONTEZUMA GA-TRACY CA"
   },
   {
-    "pro": "51405",
-    "status": "OPEN",
-    "pu_date": "2026-11-13",
-    "pu_city": "RICE LAKE",
-    "pu_state": "WI",
-    "pu_hours": "1100",
-    "del_date": "2026-11-16",
-    "del_city": "PINE APPLE",
-    "del_state": "AL",
-    "del_hours": "0800-1100",
-    "equipment": "Van",
-    "weight_lbs": 36000,
-    "carrier_rate": 4000,
-    "updated_at": "2026-11-12T16:44:30.846672+00:00",
-    "lane": "RICE LAKE WI-PINE APPLE AL"
-  },
-  {
     "pro": "51409",
     "status": "OPEN",
     "pu_date": "2026-11-13",
@@ -919,7 +902,7 @@
   },
   {
     "pro": "51378",
-    "status": "DISPATCHED",
+    "status": "PICKUP",
     "pu_date": "2026-11-12",
     "pu_city": "WINCHESTER",
     "pu_state": "KY",
@@ -931,7 +914,7 @@
     "equipment": "Van",
     "weight_lbs": 9600,
     "carrier_rate": 1100,
-    "updated_at": "2026-11-12T15:48:07.235333+00:00",
+    "updated_at": "2026-11-12T16:47:41.286302+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
