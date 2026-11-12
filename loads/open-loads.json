@@ -81,7 +81,7 @@
     "equipment": "Flatbed Hot Shot",
     "weight_lbs": 1500,
     "carrier_rate": null,
-    "updated_at": "2026-11-12T13:51:49.007537+00:00",
+    "updated_at": "2026-11-12T14:14:55.882031+00:00",
     "lane": "ROANOKE AL-HASLET TX"
   },
   {
@@ -919,7 +919,7 @@
   },
   {
     "pro": "51377",
-    "status": "COVERED",
+    "status": "DISPATCHED",
     "pu_date": "2026-11-12",
     "pu_city": "WINCHESTER",
     "pu_state": "KY",
@@ -931,7 +931,7 @@
     "equipment": "Van",
     "weight_lbs": 9600,
     "carrier_rate": 1100,
-    "updated_at": "2026-11-12T14:00:36.732635+00:00",
+    "updated_at": "2026-11-12T14:12:06.448498+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
