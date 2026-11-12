@@ -68,6 +68,23 @@
     "lane": "MONTEZUMA GA-TRACY CA"
   },
   {
+    "pro": "51437",
+    "status": "OPEN",
+    "pu_date": "2026-11-13",
+    "pu_city": "ALPHARETTA",
+    "pu_state": "GA",
+    "pu_hours": "0900-1600",
+    "del_date": "2026-11-16",
+    "del_city": "BELCAMP",
+    "del_state": "MD",
+    "del_hours": "0700-1500",
+    "equipment": "Flatbed w/ Tarps",
+    "weight_lbs": 42000,
+    "carrier_rate": 3200,
+    "updated_at": "2026-11-12T17:32:25.540834+00:00",
+    "lane": "ALPHARETTA GA-BELCAMP MD"
+  },
+  {
     "pro": "51251",
     "status": "OPEN",
     "pu_date": "2026-11-16",
@@ -440,23 +457,6 @@
     "carrier_rate": null,
     "updated_at": "2026-11-05T16:51:53.885923+00:00",
     "lane": "LA PORTE TX-PIEDMONT SC"
-  },
-  {
-    "pro": "51232",
-    "status": "RELEASED",
-    "pu_date": "2026-11-02",
-    "pu_city": "POTTERVILLE",
-    "pu_state": "MI",
-    "pu_hours": "0700-1630",
-    "del_date": "2026-11-03",
-    "del_city": "SALISBURY",
-    "del_state": "NC",
-    "del_hours": "0600-0800",
-    "equipment": "Van",
-    "weight_lbs": 10000,
-    "carrier_rate": 2750,
-    "updated_at": "2026-11-05T17:33:44.642869+00:00",
-    "lane": "POTTERVILLE MI-SALISBURY NC"
   },
   {
     "pro": "51128",
