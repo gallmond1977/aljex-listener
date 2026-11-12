@@ -63,8 +63,8 @@
     "del_hours": "0800-1200",
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 1500,
-    "carrier_rate": null,
-    "updated_at": "2026-11-12T14:34:19.164568+00:00",
+    "carrier_rate": 1200,
+    "updated_at": "2026-11-12T14:38:09.891341+00:00",
     "lane": "ROANOKE AL-HASLET TX"
   },
   {
@@ -117,6 +117,23 @@
     "carrier_rate": 300,
     "updated_at": "2026-11-12T14:33:35.476763+00:00",
     "lane": "CHARLOTTE NC-FLETCHER NC"
+  },
+  {
+    "pro": "51431",
+    "status": "OPEN",
+    "pu_date": "2026-11-12",
+    "pu_city": "JACKSONVILLE",
+    "pu_state": "FL",
+    "pu_hours": "0800-1400",
+    "del_date": "2026-11-12",
+    "del_city": "BROOKSVILLE",
+    "del_state": "FL",
+    "del_hours": "0800-1500",
+    "equipment": "Flatbed",
+    "weight_lbs": 18500,
+    "carrier_rate": 350,
+    "updated_at": "2026-11-12T14:39:24.520736+00:00",
+    "lane": "JACKSONVILLE FL-BROOKSVILLE FL"
   },
   {
     "pro": "51353",
