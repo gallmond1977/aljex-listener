@@ -77,11 +77,11 @@
     "del_date": "2026-11-13",
     "del_city": "HASLET",
     "del_state": "TX",
-    "del_hours": "",
-    "equipment": "Flatbed Hot Shot",
+    "del_hours": "0800-1400",
+    "equipment": "26' Straight Box Truck",
     "weight_lbs": 1500,
     "carrier_rate": null,
-    "updated_at": "2026-11-12T14:14:55.882031+00:00",
+    "updated_at": "2026-11-12T14:19:33.902933+00:00",
     "lane": "ROANOKE AL-HASLET TX"
   },
   {
@@ -98,7 +98,7 @@
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 3000,
     "carrier_rate": 1100,
-    "updated_at": "2026-11-12T14:03:00.106836+00:00",
+    "updated_at": "2026-11-12T14:18:54.647570+00:00",
     "lane": "BELCAMP MD-LAGRANGE GA"
   },
   {
@@ -117,6 +117,23 @@
     "carrier_rate": 1000,
     "updated_at": "2026-11-12T13:59:13.571195+00:00",
     "lane": "BUENA VISTA GA-INDIAN TRAIL NC"
+  },
+  {
+    "pro": "51429",
+    "status": "OPEN",
+    "pu_date": "2026-11-12",
+    "pu_city": "SAVANNAH",
+    "pu_state": "GA",
+    "pu_hours": "1200-1400",
+    "del_date": "2026-11-13",
+    "del_city": "COLUMBUS",
+    "del_state": "GA",
+    "del_hours": "0800-0900",
+    "equipment": "Van",
+    "weight_lbs": 13500,
+    "carrier_rate": 800,
+    "updated_at": "2026-11-12T14:19:17.818093+00:00",
+    "lane": "SAVANNAH GA-COLUMBUS GA"
   },
   {
     "pro": "51353",
