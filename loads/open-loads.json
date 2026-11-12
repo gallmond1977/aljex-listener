@@ -51,6 +51,23 @@
     "lane": "ATLANTA GA-TAMPA FL"
   },
   {
+    "pro": "51439",
+    "status": "OPEN",
+    "pu_date": "2026-11-13",
+    "pu_city": "BUENA VISTA",
+    "pu_state": "GA",
+    "pu_hours": "0630-1400",
+    "del_date": "2026-11-16",
+    "del_city": "BRENTWOOD",
+    "del_state": "TN",
+    "del_hours": "0630-1200",
+    "equipment": "Van",
+    "weight_lbs": 43500,
+    "carrier_rate": 1200,
+    "updated_at": "2026-11-12T20:21:56.337413+00:00",
+    "lane": "BUENA VISTA GA-BRENTWOOD TN"
+  },
+  {
     "pro": "51251",
     "status": "OPEN",
     "pu_date": "2026-11-16",
