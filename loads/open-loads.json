@@ -30,7 +30,7 @@
     "equipment": "Sprinter Van",
     "weight_lbs": 355,
     "carrier_rate": 500,
-    "updated_at": "2026-11-13T13:34:38.110036+00:00",
+    "updated_at": "2026-11-13T14:29:09.168726+00:00",
     "lane": "CHARLOTTE NC-ROCKY MOUNT NC"
   },
   {
@@ -166,7 +166,7 @@
     "equipment": "Van",
     "weight_lbs": 16500,
     "carrier_rate": 1300,
-    "updated_at": "2026-11-13T14:25:27.288497+00:00",
+    "updated_at": "2026-11-13T14:27:02.322765+00:00",
     "lane": "CALHOUN GA-COATS NC"
   },
   {
@@ -800,7 +800,7 @@
   },
   {
     "pro": "51345",
-    "status": "PICKUP",
+    "status": "LOADED",
     "pu_date": "2026-11-13",
     "pu_city": "ATLANTA",
     "pu_state": "GA",
@@ -812,7 +812,7 @@
     "equipment": "Reefer",
     "weight_lbs": 21264,
     "carrier_rate": 450,
-    "updated_at": "2026-11-13T13:23:44.222443+00:00",
+    "updated_at": "2026-11-13T14:26:08.933211+00:00",
     "lane": "ATLANTA GA-DECATUR GA"
   },
   {
