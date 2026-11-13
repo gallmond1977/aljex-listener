@@ -17,23 +17,6 @@
     "lane": "ATLANTA GA-TAMPA FL"
   },
   {
-    "pro": "51448",
-    "status": "OPEN",
-    "pu_date": "2026-11-13",
-    "pu_city": "VILLA RICA",
-    "pu_state": "GA",
-    "pu_hours": "0800-1500",
-    "del_date": "2026-11-16",
-    "del_city": "SANTA ROSA BEACH",
-    "del_state": "FL",
-    "del_hours": "0600-1400",
-    "equipment": "Flatbed w/ Tarps",
-    "weight_lbs": 45720,
-    "carrier_rate": 1300,
-    "updated_at": "2026-11-13T17:16:34.338532+00:00",
-    "lane": "VILLA RICA GA-SANTA ROSA BEACH FL"
-  },
-  {
     "pro": "51251",
     "status": "OPEN",
     "pu_date": "2026-11-16",
@@ -678,23 +661,6 @@
     "carrier_rate": 3000,
     "updated_at": "2026-11-11T22:41:27.436796+00:00",
     "lane": "WINCHESTER KY-JACKSONVILLE FL"
-  },
-  {
-    "pro": "51328",
-    "status": "RELEASED",
-    "pu_date": "2026-11-09",
-    "pu_city": "VILLA RICA",
-    "pu_state": "GA",
-    "pu_hours": "0800-1500",
-    "del_date": "2026-11-10",
-    "del_city": "SANTA ROSA BEACH",
-    "del_state": "FL",
-    "del_hours": "0600-1400",
-    "equipment": "Flatbed w/ Tarps",
-    "weight_lbs": 47317,
-    "carrier_rate": 1600,
-    "updated_at": "2026-11-11T22:40:29.144255+00:00",
-    "lane": "VILLA RICA GA-SANTA ROSA BEACH FL"
   },
   {
     "pro": "51334",
