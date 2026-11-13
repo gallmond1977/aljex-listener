@@ -119,6 +119,23 @@
     "lane": "ATLANTA GA-PHOENIX AZ"
   },
   {
+    "pro": "51450",
+    "status": "OPEN",
+    "pu_date": "2026-11-16",
+    "pu_city": "BUFFALO",
+    "pu_state": "NY",
+    "pu_hours": "1300-1500",
+    "del_date": "2026-11-17",
+    "del_city": "BELCAMP",
+    "del_state": "MD",
+    "del_hours": "0700-1500",
+    "equipment": "Van",
+    "weight_lbs": 6540,
+    "carrier_rate": 1700,
+    "updated_at": "2026-11-13T17:59:34.732097+00:00",
+    "lane": "BUFFALO NY-BELCAMP MD"
+  },
+  {
     "pro": "51332",
     "status": "OPEN",
     "pu_date": "2026-11-17",
@@ -646,6 +663,40 @@
     "lane": "WINCHESTER KY-JACKSONVILLE FL"
   },
   {
+    "pro": "51321",
+    "status": "RELEASED",
+    "pu_date": "2026-11-09",
+    "pu_city": "BUFFALO",
+    "pu_state": "NY",
+    "pu_hours": "1000-1500",
+    "del_date": "2026-11-10",
+    "del_city": "BELCAMP",
+    "del_state": "MD",
+    "del_hours": "0700-1500",
+    "equipment": "26' Straight Box Truck",
+    "weight_lbs": 2670,
+    "carrier_rate": 800,
+    "updated_at": "2026-11-10T16:05:16.079850+00:00",
+    "lane": "BUFFALO NY-BELCAMP MD"
+  },
+  {
+    "pro": "51322",
+    "status": "RELEASED",
+    "pu_date": "2026-11-09",
+    "pu_city": "BUFFALO",
+    "pu_state": "NY",
+    "pu_hours": "1100-1500",
+    "del_date": "2026-11-10",
+    "del_city": "BELCAMP",
+    "del_state": "MD",
+    "del_hours": "0700-1500",
+    "equipment": "Van",
+    "weight_lbs": 17809,
+    "carrier_rate": 1900,
+    "updated_at": "2026-11-10T15:33:32.398848+00:00",
+    "lane": "BUFFALO NY-BELCAMP MD"
+  },
+  {
     "pro": "51334",
     "status": "RELEASED",
     "pu_date": "2026-11-09",
@@ -729,6 +780,23 @@
     "carrier_rate": 1300,
     "updated_at": "2026-11-11T22:38:36.604889+00:00",
     "lane": "COLUMBUS GA-MASON OH"
+  },
+  {
+    "pro": "51360",
+    "status": "RELEASED",
+    "pu_date": "2026-11-10",
+    "pu_city": "BUFFALO",
+    "pu_state": "NY",
+    "pu_hours": "0900-1500",
+    "del_date": "2026-11-11",
+    "del_city": "BELCAMP",
+    "del_state": "MD",
+    "del_hours": "0700-0800",
+    "equipment": "26' Straight Box Truck",
+    "weight_lbs": 1500,
+    "carrier_rate": 800,
+    "updated_at": "2026-11-12T16:53:18.074015+00:00",
+    "lane": "BUFFALO NY-BELCAMP MD"
   },
   {
     "pro": "51389",
