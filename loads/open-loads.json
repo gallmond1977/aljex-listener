@@ -54,18 +54,18 @@
     "pro": "51407",
     "status": "OPEN",
     "pu_date": "2026-11-16",
-    "pu_city": "ATLANTA",
+    "pu_city": "MARIETTA",
     "pu_state": "GA",
-    "pu_hours": "CONF?",
-    "del_date": "",
+    "pu_hours": "CALL",
+    "del_date": "2026-11-17",
     "del_city": "TAMPA",
     "del_state": "FL",
-    "del_hours": "",
+    "del_hours": "CALL !",
     "equipment": "Sprinter Van",
     "weight_lbs": 500,
     "carrier_rate": 750,
-    "updated_at": "2026-11-13T19:00:16.360958+00:00",
-    "lane": "ATLANTA GA-TAMPA FL"
+    "updated_at": "2026-11-13T20:48:31.610792+00:00",
+    "lane": "MARIETTA GA-TAMPA FL"
   },
   {
     "pro": "51443",
@@ -132,7 +132,7 @@
     "equipment": "Flatbed w/ Tarps",
     "weight_lbs": 44000,
     "carrier_rate": 700,
-    "updated_at": "2026-11-13T20:42:51.563477+00:00",
+    "updated_at": "2026-11-13T20:45:44.480831+00:00",
     "lane": "SAVANNAH GA-DUBLIN GA"
   },
   {
