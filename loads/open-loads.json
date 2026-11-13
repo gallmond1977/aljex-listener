@@ -868,7 +868,7 @@
   },
   {
     "pro": "51345",
-    "status": "CONSIGNEE",
+    "status": "DELIVERED",
     "pu_date": "2026-11-13",
     "pu_city": "ATLANTA",
     "pu_state": "GA",
@@ -880,12 +880,12 @@
     "equipment": "Reefer",
     "weight_lbs": 21264,
     "carrier_rate": 450,
-    "updated_at": "2026-11-13T15:02:58.680966+00:00",
+    "updated_at": "2026-11-13T15:24:25.390251+00:00",
     "lane": "ATLANTA GA-DECATUR GA"
   },
   {
     "pro": "51411",
-    "status": "COVERED",
+    "status": "DISPATCHED",
     "pu_date": "2026-11-13",
     "pu_city": "HOUSTON",
     "pu_state": "TX",
@@ -897,7 +897,7 @@
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 7000,
     "carrier_rate": 1950,
-    "updated_at": "2026-11-13T14:50:14.247486+00:00",
+    "updated_at": "2026-11-13T15:23:56.933618+00:00",
     "lane": "HOUSTON TX-SANFORD FL"
   },
   {
