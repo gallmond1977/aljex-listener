@@ -27,10 +27,10 @@
     "del_city": "ROCKY MOUNT",
     "del_state": "NC",
     "del_hours": "0800-1530",
-    "equipment": "Sprinter Van",
-    "weight_lbs": 355,
+    "equipment": "26' Straight Box Truck",
+    "weight_lbs": 1000,
     "carrier_rate": 500,
-    "updated_at": "2026-11-13T14:32:36.085750+00:00",
+    "updated_at": "2026-11-13T14:37:04.293815+00:00",
     "lane": "CHARLOTTE NC-ROCKY MOUNT NC"
   },
   {
@@ -115,7 +115,7 @@
     "equipment": "Van Hazmat",
     "weight_lbs": 44900,
     "carrier_rate": 2000,
-    "updated_at": "2026-11-13T14:24:39.348812+00:00",
+    "updated_at": "2026-11-13T14:35:41.467233+00:00",
     "lane": "OAKLAND TN-PHENIX CITY AL"
   },
   {
@@ -372,6 +372,23 @@
     "carrier_rate": null,
     "updated_at": "2026-11-11T20:35:37.942482+00:00",
     "lane": "OLD FORT NC-COLUMBUS GA"
+  },
+  {
+    "pro": "51387",
+    "status": "OPEN",
+    "pu_date": "2026-11-24",
+    "pu_city": "OAKLAND",
+    "pu_state": "TN",
+    "pu_hours": "0800-1500",
+    "del_date": "",
+    "del_city": "PHENIX CITY",
+    "del_state": "AL",
+    "del_hours": "0600-1430",
+    "equipment": "Van Hazmat",
+    "weight_lbs": 44900,
+    "carrier_rate": null,
+    "updated_at": "2026-11-13T14:39:57.635201+00:00",
+    "lane": "OAKLAND TN-PHENIX CITY AL"
   },
   {
     "pro": "49857",
@@ -783,7 +800,7 @@
   },
   {
     "pro": "51345",
-    "status": "LOADED",
+    "status": "CONSIGNEE",
     "pu_date": "2026-11-13",
     "pu_city": "ATLANTA",
     "pu_state": "GA",
@@ -795,7 +812,7 @@
     "equipment": "Reefer",
     "weight_lbs": 21264,
     "carrier_rate": 450,
-    "updated_at": "2026-11-13T14:26:08.933211+00:00",
+    "updated_at": "2026-11-13T14:36:02.854024+00:00",
     "lane": "ATLANTA GA-DECATUR GA"
   },
   {
@@ -812,7 +829,7 @@
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 7000,
     "carrier_rate": 1950,
-    "updated_at": "2026-11-13T13:59:54.720285+00:00",
+    "updated_at": "2026-11-13T14:40:04.860814+00:00",
     "lane": "HOUSTON TX-SANFORD FL"
   },
   {
