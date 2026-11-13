@@ -510,23 +510,6 @@
     "lane": "LA PORTE TX-PIEDMONT SC"
   },
   {
-    "pro": "51275",
-    "status": "RELEASED",
-    "pu_date": "2026-11-04",
-    "pu_city": "HOUSTON",
-    "pu_state": "TX",
-    "pu_hours": "0700",
-    "del_date": "2026-11-05",
-    "del_city": "SANFORD",
-    "del_state": "FL",
-    "del_hours": "0700",
-    "equipment": "26' Straight Box Truck",
-    "weight_lbs": 7000,
-    "carrier_rate": 2000,
-    "updated_at": "2026-11-06T20:09:29.720218+00:00",
-    "lane": "HOUSTON TX-SANFORD FL"
-  },
-  {
     "pro": "51242",
     "status": "RELEASED",
     "pu_date": "2026-11-06",
