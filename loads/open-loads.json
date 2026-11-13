@@ -145,11 +145,11 @@
     "del_date": "2026-11-18",
     "del_city": "PHOENIX",
     "del_state": "AZ",
-    "del_hours": "CALL!",
+    "del_hours": "0800-1200",
     "equipment": "Van",
     "weight_lbs": 30000,
     "carrier_rate": 3700,
-    "updated_at": "2026-11-13T17:18:27.897128+00:00",
+    "updated_at": "2026-11-13T17:24:09.822077+00:00",
     "lane": "ATLANTA GA-PHOENIX AZ"
   },
   {
@@ -890,14 +890,14 @@
     "pu_city": "ATLANTA",
     "pu_state": "GA",
     "pu_hours": "0800-1430",
-    "del_date": "",
+    "del_date": "2026-11-18",
     "del_city": "PHOENIX",
     "del_state": "AZ",
-    "del_hours": "CALL!",
+    "del_hours": "0800-1200",
     "equipment": "Van",
     "weight_lbs": 30000,
     "carrier_rate": 3700,
-    "updated_at": "2026-11-13T17:18:15.630776+00:00",
+    "updated_at": "2026-11-13T17:23:09.033307+00:00",
     "lane": "ATLANTA GA-PHOENIX AZ"
   }
 ]
