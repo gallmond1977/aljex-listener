@@ -114,8 +114,8 @@
     "del_hours": "0800-1200",
     "equipment": "Van",
     "weight_lbs": 30000,
-    "carrier_rate": 3700,
-    "updated_at": "2026-11-13T17:24:09.822077+00:00",
+    "carrier_rate": 3400,
+    "updated_at": "2026-11-13T17:50:11.139521+00:00",
     "lane": "ATLANTA GA-PHOENIX AZ"
   },
   {
@@ -846,7 +846,7 @@
     "equipment": "Van",
     "weight_lbs": 30000,
     "carrier_rate": 3800,
-    "updated_at": "2026-11-13T17:25:48.231945+00:00",
+    "updated_at": "2026-11-13T17:49:21.344594+00:00",
     "lane": "ATLANTA GA-PHOENIX AZ"
   }
 ]
