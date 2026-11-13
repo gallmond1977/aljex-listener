@@ -34,6 +34,23 @@
     "lane": "CLARENCE NY-BELCAMP MD"
   },
   {
+    "pro": "51441",
+    "status": "OPEN",
+    "pu_date": "2026-11-13",
+    "pu_city": "CHARLOTTE",
+    "pu_state": "NC",
+    "pu_hours": "0800-1500",
+    "del_date": "2026-11-16",
+    "del_city": "ROCKY MOUNT",
+    "del_state": "NC",
+    "del_hours": "",
+    "equipment": "Sprinter Van",
+    "weight_lbs": 355,
+    "carrier_rate": 500,
+    "updated_at": "2026-11-13T13:27:33.322522+00:00",
+    "lane": "CHARLOTTE NC-ROCKY MOUNT NC"
+  },
+  {
     "pro": "51251",
     "status": "OPEN",
     "pu_date": "2026-11-16",
