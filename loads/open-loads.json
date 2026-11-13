@@ -130,9 +130,9 @@
     "del_state": "NC",
     "del_hours": "0800-1500",
     "equipment": "Van",
-    "weight_lbs": 40000,
+    "weight_lbs": 41000,
     "carrier_rate": 1000,
-    "updated_at": "2026-11-13T14:43:35.704415+00:00",
+    "updated_at": "2026-11-13T14:56:35.105246+00:00",
     "lane": "TRION GA-BELMONT NC"
   },
   {
@@ -251,7 +251,7 @@
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 7000,
     "carrier_rate": 1800,
-    "updated_at": "2026-11-13T14:50:32.948618+00:00",
+    "updated_at": "2026-11-13T14:56:14.727226+00:00",
     "lane": "HOUSTON TX-SANFORD FL"
   },
   {
