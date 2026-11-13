@@ -17,23 +17,6 @@
     "lane": "ATLANTA GA-TAMPA FL"
   },
   {
-    "pro": "51445",
-    "status": "OPEN",
-    "pu_date": "2026-11-13",
-    "pu_city": "COLUMBIA",
-    "pu_state": "SC",
-    "pu_hours": "0730-1530",
-    "del_date": "2026-11-13",
-    "del_city": "ATLANTA",
-    "del_state": "GA",
-    "del_hours": "0800-1600",
-    "equipment": "Van",
-    "weight_lbs": 44000,
-    "carrier_rate": 800,
-    "updated_at": "2026-11-13T16:09:21.783405+00:00",
-    "lane": "COLUMBIA SC-ATLANTA GA"
-  },
-  {
     "pro": "51251",
     "status": "OPEN",
     "pu_date": "2026-11-16",
@@ -578,23 +561,6 @@
     "lane": "HOUSTON TX-SANFORD FL"
   },
   {
-    "pro": "51313",
-    "status": "RELEASED",
-    "pu_date": "2026-11-05",
-    "pu_city": "COLUMBIA",
-    "pu_state": "SC",
-    "pu_hours": "0730-1530",
-    "del_date": "2026-11-06",
-    "del_city": "ATLANTA",
-    "del_state": "GA",
-    "del_hours": "0800-1600",
-    "equipment": "Flatbed",
-    "weight_lbs": 44000,
-    "carrier_rate": 900,
-    "updated_at": "2026-11-09T18:44:26.025185+00:00",
-    "lane": "COLUMBIA SC-ATLANTA GA"
-  },
-  {
     "pro": "51242",
     "status": "RELEASED",
     "pu_date": "2026-11-06",
@@ -882,23 +848,6 @@
     "carrier_rate": 3000,
     "updated_at": "2026-11-13T14:19:37.241436+00:00",
     "lane": "OAKLAND TN-SALISBURY NC"
-  },
-  {
-    "pro": "51424",
-    "status": "DELIVERED",
-    "pu_date": "2026-11-12",
-    "pu_city": "COLUMBIA",
-    "pu_state": "SC",
-    "pu_hours": "0730-1530",
-    "del_date": "2026-11-13",
-    "del_city": "ATLANTA",
-    "del_state": "GA",
-    "del_hours": "0800-1600",
-    "equipment": "Van",
-    "weight_lbs": 44000,
-    "carrier_rate": 800,
-    "updated_at": "2026-11-13T13:29:07.248141+00:00",
-    "lane": "COLUMBIA SC-ATLANTA GA"
   },
   {
     "pro": "51344",
