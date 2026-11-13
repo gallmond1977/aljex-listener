@@ -73,7 +73,7 @@
     "pu_date": "2026-11-16",
     "pu_city": "ALPHARETTA",
     "pu_state": "GA",
-    "pu_hours": "0900-1800",
+    "pu_hours": "0900-1700",
     "del_date": "2026-11-17",
     "del_city": "BELCAMP",
     "del_state": "MD",
@@ -81,7 +81,7 @@
     "equipment": "Van",
     "weight_lbs": 35000,
     "carrier_rate": 1800,
-    "updated_at": "2026-11-09T20:32:20.068074+00:00",
+    "updated_at": "2026-11-13T14:08:05.060847+00:00",
     "lane": "ALPHARETTA GA-BELCAMP MD"
   },
   {
@@ -243,15 +243,15 @@
     "pu_date": "2026-11-18",
     "pu_city": "WINCHESTER",
     "pu_state": "KY",
-    "pu_hours": "NEED",
+    "pu_hours": "",
     "del_date": "2026-11-19",
     "del_city": "BURLINGTON",
     "del_state": "NJ",
-    "del_hours": "REQ",
+    "del_hours": "1600",
     "equipment": "Van",
     "weight_lbs": 12815,
     "carrier_rate": null,
-    "updated_at": "2026-11-12T15:32:55.291049+00:00",
+    "updated_at": "2026-11-13T14:08:24.047281+00:00",
     "lane": "WINCHESTER KY-BURLINGTON NJ"
   },
   {
@@ -715,7 +715,7 @@
   },
   {
     "pro": "51344",
-    "status": "LOADED",
+    "status": "CONSIGNEE",
     "pu_date": "2026-11-13",
     "pu_city": "ATLANTA",
     "pu_state": "GA",
@@ -727,7 +727,7 @@
     "equipment": "Reefer",
     "weight_lbs": 21264,
     "carrier_rate": 450,
-    "updated_at": "2026-11-13T13:51:19.884491+00:00",
+    "updated_at": "2026-11-13T14:07:34.515475+00:00",
     "lane": "ATLANTA GA-DECATUR GA"
   },
   {
