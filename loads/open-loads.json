@@ -102,23 +102,6 @@
     "lane": "OAKLAND TN-PHENIX CITY AL"
   },
   {
-    "pro": "51416",
-    "status": "OPEN",
-    "pu_date": "2026-11-16",
-    "pu_city": "HOUSTON",
-    "pu_state": "TX",
-    "pu_hours": "1230",
-    "del_date": "2026-11-18",
-    "del_city": "SANFORD",
-    "del_state": "FL",
-    "del_hours": "0700",
-    "equipment": "26' Straight Box Truck",
-    "weight_lbs": 7000,
-    "carrier_rate": 1800,
-    "updated_at": "2026-11-11T16:37:35.504986+00:00",
-    "lane": "HOUSTON TX-SANFORD FL"
-  },
-  {
     "pro": "51443",
     "status": "OPEN",
     "pu_date": "2026-11-16",
@@ -253,6 +236,23 @@
     "carrier_rate": 1500,
     "updated_at": "2026-11-11T20:11:09.299084+00:00",
     "lane": "COLUMBUS GA-VAN WERT OH"
+  },
+  {
+    "pro": "51416",
+    "status": "OPEN",
+    "pu_date": "2026-11-18",
+    "pu_city": "HOUSTON",
+    "pu_state": "TX",
+    "pu_hours": "1230",
+    "del_date": "2026-11-20",
+    "del_city": "SANFORD",
+    "del_state": "FL",
+    "del_hours": "0700",
+    "equipment": "26' Straight Box Truck",
+    "weight_lbs": 7000,
+    "carrier_rate": 1800,
+    "updated_at": "2026-11-13T14:50:32.948618+00:00",
+    "lane": "HOUSTON TX-SANFORD FL"
   },
   {
     "pro": "51432",
