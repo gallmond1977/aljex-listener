@@ -29,8 +29,8 @@
     "del_hours": "0600-1400",
     "equipment": "Flatbed w/ Tarps",
     "weight_lbs": 45720,
-    "carrier_rate": 1200,
-    "updated_at": "2026-11-13T17:14:08.563926+00:00",
+    "carrier_rate": 1300,
+    "updated_at": "2026-11-13T17:16:34.338532+00:00",
     "lane": "VILLA RICA GA-SANTA ROSA BEACH FL"
   },
   {
@@ -136,20 +136,20 @@
     "lane": "TRION GA-BELMONT NC"
   },
   {
-    "pro": "51447",
+    "pro": "51449",
     "status": "OPEN",
     "pu_date": "2026-11-16",
     "pu_city": "ATLANTA",
     "pu_state": "GA",
     "pu_hours": "0800-1430",
-    "del_date": "",
+    "del_date": "2026-11-18",
     "del_city": "PHOENIX",
     "del_state": "AZ",
     "del_hours": "CALL!",
     "equipment": "Van",
     "weight_lbs": 30000,
     "carrier_rate": 3700,
-    "updated_at": "2026-11-13T16:56:27.310011+00:00",
+    "updated_at": "2026-11-13T17:18:27.897128+00:00",
     "lane": "ATLANTA GA-PHOENIX AZ"
   },
   {
@@ -882,5 +882,22 @@
     "carrier_rate": 1950,
     "updated_at": "2026-11-13T16:21:24.812895+00:00",
     "lane": "HOUSTON TX-SANFORD FL"
+  },
+  {
+    "pro": "51447",
+    "status": "COVERED",
+    "pu_date": "2026-11-16",
+    "pu_city": "ATLANTA",
+    "pu_state": "GA",
+    "pu_hours": "0800-1430",
+    "del_date": "",
+    "del_city": "PHOENIX",
+    "del_state": "AZ",
+    "del_hours": "CALL!",
+    "equipment": "Van",
+    "weight_lbs": 30000,
+    "carrier_rate": 3700,
+    "updated_at": "2026-11-13T17:18:15.630776+00:00",
+    "lane": "ATLANTA GA-PHOENIX AZ"
   }
 ]
