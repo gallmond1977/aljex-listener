@@ -170,6 +170,23 @@
     "lane": "DEEP GAP NC-CHARLESTON SC"
   },
   {
+    "pro": "51385",
+    "status": "OPEN",
+    "pu_date": "2026-11-18",
+    "pu_city": "OAKLAND",
+    "pu_state": "TN",
+    "pu_hours": "0800-1500",
+    "del_date": "2026-11-19",
+    "del_city": "SALISBURY",
+    "del_state": "NC",
+    "del_hours": "0600-1100",
+    "equipment": "Van Hazmat",
+    "weight_lbs": 44900,
+    "carrier_rate": null,
+    "updated_at": "2026-11-13T14:02:37.629045+00:00",
+    "lane": "OAKLAND TN-SALISBURY NC"
+  },
+  {
     "pro": "51404",
     "status": "OPEN",
     "pu_date": "2026-11-18",
