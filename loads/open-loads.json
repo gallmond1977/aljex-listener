@@ -23,14 +23,14 @@
     "pu_city": "COLUMBIA",
     "pu_state": "SC",
     "pu_hours": "0730-1530",
-    "del_date": "2026-11-13",
+    "del_date": "2026-11-16",
     "del_city": "ATLANTA",
     "del_state": "GA",
     "del_hours": "0800-1600",
     "equipment": "Van",
     "weight_lbs": 44000,
     "carrier_rate": 800,
-    "updated_at": "2026-11-13T16:20:01.431677+00:00",
+    "updated_at": "2026-11-13T16:20:16.951057+00:00",
     "lane": "COLUMBIA SC-ATLANTA GA"
   },
   {
@@ -936,7 +936,7 @@
   },
   {
     "pro": "51411",
-    "status": "DISPATCHED",
+    "status": "PICKUP",
     "pu_date": "2026-11-13",
     "pu_city": "HOUSTON",
     "pu_state": "TX",
@@ -948,7 +948,7 @@
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 7000,
     "carrier_rate": 1950,
-    "updated_at": "2026-11-13T16:18:48.555795+00:00",
+    "updated_at": "2026-11-13T16:21:24.812895+00:00",
     "lane": "HOUSTON TX-SANFORD FL"
   },
   {
