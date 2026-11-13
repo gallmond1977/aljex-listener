@@ -425,6 +425,23 @@
     "lane": "OAKLAND TN-PHENIX CITY AL"
   },
   {
+    "pro": "51392",
+    "status": "OPEN",
+    "pu_date": "2026-12-01",
+    "pu_city": "OAKLAND",
+    "pu_state": "TN",
+    "pu_hours": "0800-1400",
+    "del_date": "2026-12-02",
+    "del_city": "MONTICELLO",
+    "del_state": "IL",
+    "del_hours": "0800-0900",
+    "equipment": "Van Hazmat",
+    "weight_lbs": 44900,
+    "carrier_rate": null,
+    "updated_at": "2026-11-13T14:46:58.976309+00:00",
+    "lane": "OAKLAND TN-MONTICELLO IL"
+  },
+  {
     "pro": "49857",
     "status": "OPEN",
     "pu_date": "2026-12-07",
@@ -880,7 +897,7 @@
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 7000,
     "carrier_rate": 1950,
-    "updated_at": "2026-11-13T14:40:04.860814+00:00",
+    "updated_at": "2026-11-13T14:50:14.247486+00:00",
     "lane": "HOUSTON TX-SANFORD FL"
   },
   {
@@ -897,7 +914,7 @@
     "equipment": "Flatbed w/ Tarps",
     "weight_lbs": 42000,
     "carrier_rate": 3200,
-    "updated_at": "2026-11-13T14:16:20.570968+00:00",
+    "updated_at": "2026-11-13T14:46:56.946323+00:00",
     "lane": "ALPHARETTA GA-BELCAMP MD"
   }
 ]
