@@ -1,22 +1,5 @@
 [
   {
-    "pro": "51407",
-    "status": "OPEN",
-    "pu_date": "2026-11-13",
-    "pu_city": "ATLANTA",
-    "pu_state": "GA",
-    "pu_hours": "CONF?",
-    "del_date": "",
-    "del_city": "TAMPA",
-    "del_state": "FL",
-    "del_hours": "",
-    "equipment": "Sprinter Van",
-    "weight_lbs": 500,
-    "carrier_rate": 750,
-    "updated_at": "2026-11-12T18:45:43.398711+00:00",
-    "lane": "ATLANTA GA-TAMPA FL"
-  },
-  {
     "pro": "51251",
     "status": "OPEN",
     "pu_date": "2026-11-16",
@@ -66,6 +49,23 @@
     "carrier_rate": 2000,
     "updated_at": "2026-11-13T14:35:41.467233+00:00",
     "lane": "OAKLAND TN-PHENIX CITY AL"
+  },
+  {
+    "pro": "51407",
+    "status": "OPEN",
+    "pu_date": "2026-11-16",
+    "pu_city": "ATLANTA",
+    "pu_state": "GA",
+    "pu_hours": "CONF?",
+    "del_date": "",
+    "del_city": "TAMPA",
+    "del_state": "FL",
+    "del_hours": "",
+    "equipment": "Sprinter Van",
+    "weight_lbs": 500,
+    "carrier_rate": 750,
+    "updated_at": "2026-11-13T19:00:16.360958+00:00",
+    "lane": "ATLANTA GA-TAMPA FL"
   },
   {
     "pro": "51443",
