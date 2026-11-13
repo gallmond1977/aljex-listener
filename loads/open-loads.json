@@ -68,6 +68,23 @@
     "lane": "BUENA VISTA GA-BRENTWOOD TN"
   },
   {
+    "pro": "51440",
+    "status": "OPEN",
+    "pu_date": "2026-11-13",
+    "pu_city": "CLARENCE",
+    "pu_state": "NY",
+    "pu_hours": "0800-1530",
+    "del_date": "2026-11-16",
+    "del_city": "BELCAMP",
+    "del_state": "MD",
+    "del_hours": "0700-1500",
+    "equipment": "Sprinter Van",
+    "weight_lbs": 600,
+    "carrier_rate": 600,
+    "updated_at": "2026-11-13T12:52:47.217432+00:00",
+    "lane": "CLARENCE NY-BELCAMP MD"
+  },
+  {
     "pro": "51251",
     "status": "OPEN",
     "pu_date": "2026-11-16",
@@ -710,7 +727,7 @@
     "equipment": "Reefer",
     "weight_lbs": 21264,
     "carrier_rate": 450,
-    "updated_at": "2026-11-13T11:52:17.504853+00:00",
+    "updated_at": "2026-11-13T12:52:19.120432+00:00",
     "lane": "ATLANTA GA-DECATUR GA"
   },
   {
@@ -727,7 +744,7 @@
     "equipment": "Reefer",
     "weight_lbs": 21264,
     "carrier_rate": 450,
-    "updated_at": "2026-11-13T12:31:52.966959+00:00",
+    "updated_at": "2026-11-13T12:52:34.766537+00:00",
     "lane": "ATLANTA GA-DECATUR GA"
   },
   {
