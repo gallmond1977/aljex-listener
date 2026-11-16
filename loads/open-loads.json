@@ -1,22 +1,5 @@
 [
   {
-    "pro": "51384",
-    "status": "OPEN",
-    "pu_date": "2026-11-16",
-    "pu_city": "OAKLAND",
-    "pu_state": "TN",
-    "pu_hours": "0800-1200",
-    "del_date": "2026-11-17",
-    "del_city": "SALISBURY",
-    "del_state": "NC",
-    "del_hours": "0600-1100",
-    "equipment": "Van Hazmat",
-    "weight_lbs": 44900,
-    "carrier_rate": 3000,
-    "updated_at": "2026-11-16T14:45:42.550003+00:00",
-    "lane": "OAKLAND TN-SALISBURY NC"
-  },
-  {
     "pro": "51386",
     "status": "OPEN",
     "pu_date": "2026-11-16",
@@ -780,6 +763,23 @@
     "carrier_rate": 1950,
     "updated_at": "2026-11-16T12:46:11.579351+00:00",
     "lane": "HOUSTON TX-SANFORD FL"
+  },
+  {
+    "pro": "51384",
+    "status": "COVERED",
+    "pu_date": "2026-11-17",
+    "pu_city": "OAKLAND",
+    "pu_state": "TN",
+    "pu_hours": "0800-1200",
+    "del_date": "2026-11-18",
+    "del_city": "SALISBURY",
+    "del_state": "NC",
+    "del_hours": "0600-1100",
+    "equipment": "Van Hazmat",
+    "weight_lbs": 44900,
+    "carrier_rate": 3000,
+    "updated_at": "2026-11-16T19:39:36.520135+00:00",
+    "lane": "OAKLAND TN-SALISBURY NC"
   },
   {
     "pro": "51316",
