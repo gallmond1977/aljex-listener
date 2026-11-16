@@ -29,8 +29,8 @@
     "del_hours": "0700-1500",
     "equipment": "Van",
     "weight_lbs": 40000,
-    "carrier_rate": 1850,
-    "updated_at": "2026-11-16T13:14:37.813902+00:00",
+    "carrier_rate": 1800,
+    "updated_at": "2026-11-16T13:17:41.970568+00:00",
     "lane": "ALPHARETTA GA-BELCAMP MD"
   },
   {
@@ -182,8 +182,8 @@
     "del_hours": "0700-1500",
     "equipment": "Van",
     "weight_lbs": 43579,
-    "carrier_rate": null,
-    "updated_at": "2026-11-16T13:08:41.900039+00:00",
+    "carrier_rate": 2500,
+    "updated_at": "2026-11-16T13:15:49.495709+00:00",
     "lane": "COLUMBUS GA-STEVENS PA"
   },
   {
