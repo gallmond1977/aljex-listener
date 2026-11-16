@@ -108,14 +108,14 @@
     "pu_city": "RICHMOND",
     "pu_state": "VA",
     "pu_hours": "1200",
-    "del_date": "",
+    "del_date": "2026-11-18",
     "del_city": "NORTH PALM BEACH",
     "del_state": "FL",
     "del_hours": "0800-1200",
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 7000,
     "carrier_rate": 2200,
-    "updated_at": "2026-11-16T20:21:43.395163+00:00",
+    "updated_at": "2026-11-16T20:27:31.037044+00:00",
     "lane": "RICHMOND VA-NORTH PALM BEACH FL"
   },
   {
