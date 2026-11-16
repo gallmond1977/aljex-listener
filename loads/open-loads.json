@@ -85,6 +85,23 @@
     "lane": "MOUNT PLEASANT TN-LAWRENCEVILLE GA"
   },
   {
+    "pro": "51470",
+    "status": "OPEN",
+    "pu_date": "2026-11-17",
+    "pu_city": "ALPHARETTA",
+    "pu_state": "GA",
+    "pu_hours": "1500-1700",
+    "del_date": "2026-11-18",
+    "del_city": "BELCAMP",
+    "del_state": "MD",
+    "del_hours": "0700-1500",
+    "equipment": "Van",
+    "weight_lbs": 40000,
+    "carrier_rate": 1800,
+    "updated_at": "2026-11-16T21:21:17.015921+00:00",
+    "lane": "ALPHARETTA GA-BELCAMP MD"
+  },
+  {
     "pro": "51145",
     "status": "OPEN",
     "pu_date": "2026-11-18",
@@ -408,6 +425,23 @@
     "lane": "MONTEZUMA GA-TRACY CA"
   },
   {
+    "pro": "51311",
+    "status": "RELEASED",
+    "pu_date": "2026-11-06",
+    "pu_city": "ALPHARETTA",
+    "pu_state": "GA",
+    "pu_hours": "0900-1600",
+    "del_date": "2026-11-09",
+    "del_city": "BELCAMP",
+    "del_state": "MD",
+    "del_hours": "0700-1300",
+    "equipment": "Flatbed w/ Tarps",
+    "weight_lbs": 42000,
+    "carrier_rate": 3300,
+    "updated_at": "2026-11-10T15:14:52.650368+00:00",
+    "lane": "ALPHARETTA GA-BELCAMP MD"
+  },
+  {
     "pro": "51339",
     "status": "RELEASED",
     "pu_date": "2026-11-06",
@@ -493,6 +527,23 @@
     "lane": "WINCHESTER KY-JACKSONVILLE FL"
   },
   {
+    "pro": "51329",
+    "status": "RELEASED",
+    "pu_date": "2026-11-09",
+    "pu_city": "ALPHARETTA",
+    "pu_state": "GA",
+    "pu_hours": "0900-1600",
+    "del_date": "2026-11-10",
+    "del_city": "BELCAMP",
+    "del_state": "MD",
+    "del_hours": "0700-1300",
+    "equipment": "Flatbed w/ Tarps",
+    "weight_lbs": 42000,
+    "carrier_rate": 3300,
+    "updated_at": "2026-11-10T16:05:07.704460+00:00",
+    "lane": "ALPHARETTA GA-BELCAMP MD"
+  },
+  {
     "pro": "51334",
     "status": "RELEASED",
     "pu_date": "2026-11-09",
@@ -559,6 +610,23 @@
     "carrier_rate": 2800,
     "updated_at": "2026-11-12T15:18:14.554750+00:00",
     "lane": "PASADENA TX-PIEDMONT SC"
+  },
+  {
+    "pro": "51365",
+    "status": "RELEASED",
+    "pu_date": "2026-11-10",
+    "pu_city": "ALPHARETTA",
+    "pu_state": "GA",
+    "pu_hours": "0900-1600",
+    "del_date": "2026-11-11",
+    "del_city": "BELCAMP",
+    "del_state": "MD",
+    "del_hours": "0700-1500",
+    "equipment": "Flatbed w/ Tarps",
+    "weight_lbs": 42000,
+    "carrier_rate": 3200,
+    "updated_at": "2026-11-12T13:52:24.531240+00:00",
+    "lane": "ALPHARETTA GA-BELCAMP MD"
   },
   {
     "pro": "50542",
@@ -644,6 +712,40 @@
     "carrier_rate": 1950,
     "updated_at": "2026-11-16T12:46:11.579351+00:00",
     "lane": "HOUSTON TX-SANFORD FL"
+  },
+  {
+    "pro": "51437",
+    "status": "RELEASED",
+    "pu_date": "2026-11-13",
+    "pu_city": "ALPHARETTA",
+    "pu_state": "GA",
+    "pu_hours": "0900-1600",
+    "del_date": "2026-11-16",
+    "del_city": "BELCAMP",
+    "del_state": "MD",
+    "del_hours": "0700-1500",
+    "equipment": "Flatbed w/ Tarps",
+    "weight_lbs": 42000,
+    "carrier_rate": 3200,
+    "updated_at": "2026-11-16T19:11:49.016662+00:00",
+    "lane": "ALPHARETTA GA-BELCAMP MD"
+  },
+  {
+    "pro": "51364",
+    "status": "LOADED",
+    "pu_date": "2026-11-16",
+    "pu_city": "ALPHARETTA",
+    "pu_state": "GA",
+    "pu_hours": "0900-1700",
+    "del_date": "2026-11-17",
+    "del_city": "BELCAMP",
+    "del_state": "MD",
+    "del_hours": "0700-1500",
+    "equipment": "Van",
+    "weight_lbs": 40000,
+    "carrier_rate": 1800,
+    "updated_at": "2026-11-16T16:57:30.362793+00:00",
+    "lane": "ALPHARETTA GA-BELCAMP MD"
   },
   {
     "pro": "51384",
