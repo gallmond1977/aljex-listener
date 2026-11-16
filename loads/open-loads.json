@@ -1,22 +1,5 @@
 [
   {
-    "pro": "51251",
-    "status": "OPEN",
-    "pu_date": "2026-11-16",
-    "pu_city": "MIAMI",
-    "pu_state": "FL",
-    "pu_hours": "0730-1500",
-    "del_date": "2026-11-17",
-    "del_city": "TALLAHASSEE",
-    "del_state": "FL",
-    "del_hours": "0800-0900",
-    "equipment": "26' Straight Box Truck",
-    "weight_lbs": 8100,
-    "carrier_rate": 550,
-    "updated_at": "2026-11-16T13:21:54.031949+00:00",
-    "lane": "MIAMI FL-TALLAHASSEE FL"
-  },
-  {
     "pro": "51384",
     "status": "OPEN",
     "pu_date": "2026-11-16",
@@ -117,23 +100,6 @@
     "carrier_rate": 700,
     "updated_at": "2026-11-13T20:45:44.480831+00:00",
     "lane": "SAVANNAH GA-DUBLIN GA"
-  },
-  {
-    "pro": "51453",
-    "status": "OPEN",
-    "pu_date": "2026-11-16",
-    "pu_city": "LINCOLNTON",
-    "pu_state": "NC",
-    "pu_hours": "0700-1500",
-    "del_date": "2026-11-17",
-    "del_city": "AUBURN",
-    "del_state": "AL",
-    "del_hours": "0700-0800",
-    "equipment": "Flatbed Hot Shot",
-    "weight_lbs": 5000,
-    "carrier_rate": 700,
-    "updated_at": "2026-11-16T13:29:49.773868+00:00",
-    "lane": "LINCOLNTON NC-AUBURN AL"
   },
   {
     "pro": "51454",
