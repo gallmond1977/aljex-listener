@@ -63,8 +63,8 @@
     "del_hours": "0800-1500",
     "equipment": "Flatbed w/ Tarps",
     "weight_lbs": 44000,
-    "carrier_rate": 900,
-    "updated_at": "2026-11-16T14:54:00.400497+00:00",
+    "carrier_rate": 1000,
+    "updated_at": "2026-11-16T15:26:59.141990+00:00",
     "lane": "SAVANNAH GA-DUBLIN GA"
   },
   {
@@ -141,7 +141,7 @@
     "pu_date": "2026-11-17",
     "pu_city": "CLAXTON",
     "pu_state": "GA",
-    "pu_hours": "",
+    "pu_hours": "0800-1200",
     "del_date": "2026-11-17",
     "del_city": "CHARLESTON",
     "del_state": "SC",
@@ -149,7 +149,7 @@
     "equipment": "Van",
     "weight_lbs": 44000,
     "carrier_rate": 650,
-    "updated_at": "2026-11-16T15:18:46.085356+00:00",
+    "updated_at": "2026-11-16T15:26:49.699305+00:00",
     "lane": "CLAXTON GA-CHARLESTON SC"
   },
   {
@@ -528,7 +528,7 @@
   },
   {
     "pro": "51335",
-    "status": "DELIVERED",
+    "status": "RELEASED",
     "pu_date": "2026-11-09",
     "pu_city": "OAKLAND",
     "pu_state": "TN",
@@ -540,7 +540,7 @@
     "equipment": "Van Hazmat",
     "weight_lbs": 44900,
     "carrier_rate": 2900,
-    "updated_at": "2026-11-13T13:49:35.144525+00:00",
+    "updated_at": "2026-11-16T15:28:49.491385+00:00",
     "lane": "OAKLAND TN-SALISBURY NC"
   },
   {
@@ -596,7 +596,7 @@
   },
   {
     "pro": "50542",
-    "status": "DELIVERED",
+    "status": "RELEASED",
     "pu_date": "2026-11-11",
     "pu_city": "OLD FORT",
     "pu_state": "NC",
@@ -608,7 +608,7 @@
     "equipment": "Van",
     "weight_lbs": 41500,
     "carrier_rate": 1900,
-    "updated_at": "2026-11-13T14:16:07.208839+00:00",
+    "updated_at": "2026-11-16T15:29:24.991157+00:00",
     "lane": "OLD FORT NC-COLUMBUS GA"
   },
   {
