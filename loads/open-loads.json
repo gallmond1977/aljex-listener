@@ -51,23 +51,6 @@
     "lane": "MARIETTA GA-TAMPA FL"
   },
   {
-    "pro": "51444",
-    "status": "OPEN",
-    "pu_date": "2026-11-16",
-    "pu_city": "TRION",
-    "pu_state": "GA",
-    "pu_hours": "0730-1530",
-    "del_date": "2026-11-17",
-    "del_city": "BELMONT",
-    "del_state": "NC",
-    "del_hours": "0800-1500",
-    "equipment": "Van",
-    "weight_lbs": 41000,
-    "carrier_rate": 1000,
-    "updated_at": "2026-11-16T14:37:04.922477+00:00",
-    "lane": "TRION GA-BELMONT NC"
-  },
-  {
     "pro": "51451",
     "status": "OPEN",
     "pu_date": "2026-11-16",
