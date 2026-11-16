@@ -17,23 +17,6 @@
     "lane": "OAKLAND TN-PHENIX CITY AL"
   },
   {
-    "pro": "51332",
-    "status": "OPEN",
-    "pu_date": "2026-11-17",
-    "pu_city": "COLUMBUS",
-    "pu_state": "GA",
-    "pu_hours": "1300",
-    "del_date": "2026-11-18",
-    "del_city": "MASON",
-    "del_state": "OH",
-    "del_hours": "CALL!",
-    "equipment": "Van",
-    "weight_lbs": 10500,
-    "carrier_rate": 1200,
-    "updated_at": "2026-11-06T15:29:54.377706+00:00",
-    "lane": "COLUMBUS GA-MASON OH"
-  },
-  {
     "pro": "51427",
     "status": "OPEN",
     "pu_date": "2026-11-17",
@@ -100,6 +83,23 @@
     "carrier_rate": 1800,
     "updated_at": "2026-11-16T20:45:35.320201+00:00",
     "lane": "LAGRANGE GA-ORLANDO FL"
+  },
+  {
+    "pro": "51469",
+    "status": "OPEN",
+    "pu_date": "2026-11-17",
+    "pu_city": "MOUNT PLEASANT",
+    "pu_state": "TN",
+    "pu_hours": "0800-1600",
+    "del_date": "2026-11-18",
+    "del_city": "LAWRENCEVILLE",
+    "del_state": "GA",
+    "del_hours": "0700-1500",
+    "equipment": "Van",
+    "weight_lbs": 14000,
+    "carrier_rate": null,
+    "updated_at": "2026-11-16T20:54:47.606847+00:00",
+    "lane": "MOUNT PLEASANT TN-LAWRENCEVILLE GA"
   },
   {
     "pro": "51145",
@@ -576,23 +576,6 @@
     "carrier_rate": 2800,
     "updated_at": "2026-11-12T15:18:14.554750+00:00",
     "lane": "PASADENA TX-PIEDMONT SC"
-  },
-  {
-    "pro": "51331",
-    "status": "RELEASED",
-    "pu_date": "2026-11-10",
-    "pu_city": "COLUMBUS",
-    "pu_state": "GA",
-    "pu_hours": "1430",
-    "del_date": "2026-11-11",
-    "del_city": "MASON",
-    "del_state": "OH",
-    "del_hours": "0800",
-    "equipment": "Van",
-    "weight_lbs": 10500,
-    "carrier_rate": 1300,
-    "updated_at": "2026-11-11T22:38:36.604889+00:00",
-    "lane": "COLUMBUS GA-MASON OH"
   },
   {
     "pro": "50542",
