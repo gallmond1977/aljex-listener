@@ -29,8 +29,8 @@
     "del_hours": "0600-1430",
     "equipment": "Van Hazmat",
     "weight_lbs": 44900,
-    "carrier_rate": 2000,
-    "updated_at": "2026-11-16T13:55:11.327177+00:00",
+    "carrier_rate": 2150,
+    "updated_at": "2026-11-16T17:19:49.367766+00:00",
     "lane": "OAKLAND TN-PHENIX CITY AL"
   },
   {
@@ -63,8 +63,8 @@
     "del_hours": "0800",
     "equipment": "Van",
     "weight_lbs": 8800,
-    "carrier_rate": 1645,
-    "updated_at": "2026-11-16T17:08:57.550360+00:00",
+    "carrier_rate": 1700,
+    "updated_at": "2026-11-16T17:19:28.334091+00:00",
     "lane": "SALISBURY NC-GRAND RAPIDS MI"
   },
   {
