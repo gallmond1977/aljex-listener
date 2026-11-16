@@ -13,7 +13,7 @@
     "equipment": "Van Hazmat",
     "weight_lbs": 44900,
     "carrier_rate": 3000,
-    "updated_at": "2026-11-16T14:44:59.772041+00:00",
+    "updated_at": "2026-11-16T14:45:42.550003+00:00",
     "lane": "OAKLAND TN-SALISBURY NC"
   },
   {
@@ -83,23 +83,6 @@
     "carrier_rate": 700,
     "updated_at": "2026-11-13T20:45:44.480831+00:00",
     "lane": "SAVANNAH GA-DUBLIN GA"
-  },
-  {
-    "pro": "51454",
-    "status": "OPEN",
-    "pu_date": "2026-11-16",
-    "pu_city": "CANTON",
-    "pu_state": "GA",
-    "pu_hours": "",
-    "del_date": "2026-11-16",
-    "del_city": "PHENIX CITY",
-    "del_state": "AL",
-    "del_hours": "",
-    "equipment": "Sprinter Van",
-    "weight_lbs": 1000,
-    "carrier_rate": 300,
-    "updated_at": "2026-11-16T13:24:04.267524+00:00",
-    "lane": "CANTON GA-PHENIX CITY AL"
   },
   {
     "pro": "51456",
