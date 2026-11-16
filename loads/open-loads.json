@@ -63,8 +63,8 @@
     "del_hours": "0800-0930",
     "equipment": "Van",
     "weight_lbs": 16500,
-    "carrier_rate": 1300,
-    "updated_at": "2026-11-13T14:27:02.322765+00:00",
+    "carrier_rate": 1400,
+    "updated_at": "2026-11-16T14:08:34.837181+00:00",
     "lane": "CALHOUN GA-COATS NC"
   },
   {
@@ -166,7 +166,7 @@
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 1000,
     "carrier_rate": 200,
-    "updated_at": "2026-11-16T14:05:05.193841+00:00",
+    "updated_at": "2026-11-16T14:08:54.387098+00:00",
     "lane": "RICHMOND VA-RICHMOND VA"
   },
   {
