@@ -13,7 +13,7 @@
     "equipment": "Van Hazmat",
     "weight_lbs": 44900,
     "carrier_rate": 2900,
-    "updated_at": "2026-11-16T14:25:08.528246+00:00",
+    "updated_at": "2026-11-16T14:26:57.444703+00:00",
     "lane": "OAKLAND TN-SALISBURY NC"
   },
   {
@@ -66,6 +66,23 @@
     "carrier_rate": 700,
     "updated_at": "2026-11-13T20:45:44.480831+00:00",
     "lane": "SAVANNAH GA-DUBLIN GA"
+  },
+  {
+    "pro": "51453",
+    "status": "OPEN",
+    "pu_date": "2026-11-16",
+    "pu_city": "LINCOLNTON",
+    "pu_state": "NC",
+    "pu_hours": "0700-1500",
+    "del_date": "2026-11-17",
+    "del_city": "AUBURN",
+    "del_state": "AL",
+    "del_hours": "0700-0800",
+    "equipment": "Flatbed Hot Shot",
+    "weight_lbs": 5000,
+    "carrier_rate": 700,
+    "updated_at": "2026-11-16T14:28:04.142359+00:00",
+    "lane": "LINCOLNTON NC-AUBURN AL"
   },
   {
     "pro": "51454",
