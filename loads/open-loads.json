@@ -34,23 +34,6 @@
     "lane": "OAKLAND TN-PHENIX CITY AL"
   },
   {
-    "pro": "51461",
-    "status": "OPEN",
-    "pu_date": "2026-11-16",
-    "pu_city": "SALISBURY",
-    "pu_state": "NC",
-    "pu_hours": "1200-1500",
-    "del_date": "2026-11-18",
-    "del_city": "GRAND RAPIDS",
-    "del_state": "MI",
-    "del_hours": "0800",
-    "equipment": "Van",
-    "weight_lbs": 8800,
-    "carrier_rate": 1800,
-    "updated_at": "2026-11-16T17:38:20.191128+00:00",
-    "lane": "SALISBURY NC-GRAND RAPIDS MI"
-  },
-  {
     "pro": "51332",
     "status": "OPEN",
     "pu_date": "2026-11-17",
