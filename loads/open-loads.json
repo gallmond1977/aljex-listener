@@ -68,23 +68,6 @@
     "lane": "SAVANNAH GA-DUBLIN GA"
   },
   {
-    "pro": "51456",
-    "status": "OPEN",
-    "pu_date": "2026-11-16",
-    "pu_city": "GARLAND",
-    "pu_state": "TX",
-    "pu_hours": "1200-1500",
-    "del_date": "2026-11-17",
-    "del_city": "CALHOUN",
-    "del_state": "GA",
-    "del_hours": "0730-1400",
-    "equipment": "Van",
-    "weight_lbs": 43438,
-    "carrier_rate": 1800,
-    "updated_at": "2026-11-16T14:36:00.274371+00:00",
-    "lane": "GARLAND TX-CALHOUN GA"
-  },
-  {
     "pro": "51332",
     "status": "OPEN",
     "pu_date": "2026-11-17",
@@ -151,6 +134,23 @@
     "carrier_rate": 200,
     "updated_at": "2026-11-16T14:08:54.387098+00:00",
     "lane": "RICHMOND VA-RICHMOND VA"
+  },
+  {
+    "pro": "51457",
+    "status": "OPEN",
+    "pu_date": "2026-11-17",
+    "pu_city": "CLAXTON",
+    "pu_state": "GA",
+    "pu_hours": "",
+    "del_date": "2026-11-17",
+    "del_city": "CHARLESTON",
+    "del_state": "SC",
+    "del_hours": "0800-1400",
+    "equipment": "Van",
+    "weight_lbs": 44000,
+    "carrier_rate": 650,
+    "updated_at": "2026-11-16T15:18:46.085356+00:00",
+    "lane": "CLAXTON GA-CHARLESTON SC"
   },
   {
     "pro": "51145",
@@ -440,23 +440,6 @@
     "carrier_rate": 2000,
     "updated_at": "2026-11-10T15:42:44.200026+00:00",
     "lane": "HOUSTON TX-SANFORD FL"
-  },
-  {
-    "pro": "51224",
-    "status": "RELEASED",
-    "pu_date": "2026-11-09",
-    "pu_city": "GARLAND",
-    "pu_state": "TX",
-    "pu_hours": "1200-1500",
-    "del_date": "2026-11-10",
-    "del_city": "CALHOUN",
-    "del_state": "GA",
-    "del_hours": "0730-1400",
-    "equipment": "Van",
-    "weight_lbs": 43438,
-    "carrier_rate": 1900,
-    "updated_at": "2026-11-11T13:06:54.760292+00:00",
-    "lane": "GARLAND TX-CALHOUN GA"
   },
   {
     "pro": "51269",
