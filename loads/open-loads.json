@@ -51,23 +51,6 @@
     "lane": "COLUMBUS GA-STEVENS PA"
   },
   {
-    "pro": "51457",
-    "status": "OPEN",
-    "pu_date": "2026-11-17",
-    "pu_city": "CLAXTON",
-    "pu_state": "GA",
-    "pu_hours": "0800-1200",
-    "del_date": "2026-11-17",
-    "del_city": "CHARLESTON",
-    "del_state": "SC",
-    "del_hours": "0800-1400",
-    "equipment": "Van",
-    "weight_lbs": 44000,
-    "carrier_rate": 650,
-    "updated_at": "2026-11-16T15:26:49.699305+00:00",
-    "lane": "CLAXTON GA-CHARLESTON SC"
-  },
-  {
     "pro": "51467",
     "status": "OPEN",
     "pu_date": "2026-11-17",
