@@ -2,18 +2,18 @@
   {
     "pro": "51386",
     "status": "OPEN",
-    "pu_date": "2026-11-16",
+    "pu_date": "2026-11-17",
     "pu_city": "OAKLAND",
     "pu_state": "TN",
     "pu_hours": "0800-1500",
-    "del_date": "2026-11-17",
+    "del_date": "2026-11-18",
     "del_city": "PHENIX CITY",
     "del_state": "AL",
     "del_hours": "0600-1430",
     "equipment": "Van Hazmat",
     "weight_lbs": 44900,
     "carrier_rate": 2150,
-    "updated_at": "2026-11-16T17:19:49.367766+00:00",
+    "updated_at": "2026-11-16T21:07:43.017219+00:00",
     "lane": "OAKLAND TN-PHENIX CITY AL"
   },
   {
@@ -114,8 +114,8 @@
     "del_hours": "0700-1500",
     "equipment": "Van",
     "weight_lbs": 14000,
-    "carrier_rate": null,
-    "updated_at": "2026-11-16T21:04:51.552763+00:00",
+    "carrier_rate": 1000,
+    "updated_at": "2026-11-16T21:08:10.794182+00:00",
     "lane": "MOUNT PLEASANT TN-LAWRENCEVILLE GA"
   },
   {
