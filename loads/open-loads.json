@@ -128,11 +128,11 @@
     "del_date": "2026-11-17",
     "del_city": "RICHMOND",
     "del_state": "VA",
-    "del_hours": "CALL",
+    "del_hours": "0800-0830",
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 1000,
     "carrier_rate": 200,
-    "updated_at": "2026-11-16T14:08:54.387098+00:00",
+    "updated_at": "2026-11-16T15:42:01.146127+00:00",
     "lane": "RICHMOND VA-RICHMOND VA"
   },
   {
@@ -285,7 +285,7 @@
     "equipment": "Van",
     "weight_lbs": 35000,
     "carrier_rate": 3230,
-    "updated_at": "2026-11-16T15:40:19.297334+00:00",
+    "updated_at": "2026-11-16T15:42:43.004673+00:00",
     "lane": "JACKSONVILLE TX-ENGLEWOOD CO"
   },
   {
