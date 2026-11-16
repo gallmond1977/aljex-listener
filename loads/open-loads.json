@@ -51,6 +51,23 @@
     "lane": "MARIETTA GA-TAMPA FL"
   },
   {
+    "pro": "51444",
+    "status": "OPEN",
+    "pu_date": "2026-11-16",
+    "pu_city": "TRION",
+    "pu_state": "GA",
+    "pu_hours": "0730-1530",
+    "del_date": "2026-11-17",
+    "del_city": "BELMONT",
+    "del_state": "NC",
+    "del_hours": "0800-1500",
+    "equipment": "Van",
+    "weight_lbs": 41000,
+    "carrier_rate": 1000,
+    "updated_at": "2026-11-16T14:37:04.922477+00:00",
+    "lane": "TRION GA-BELMONT NC"
+  },
+  {
     "pro": "51451",
     "status": "OPEN",
     "pu_date": "2026-11-16",
@@ -68,23 +85,6 @@
     "lane": "SAVANNAH GA-DUBLIN GA"
   },
   {
-    "pro": "51453",
-    "status": "OPEN",
-    "pu_date": "2026-11-16",
-    "pu_city": "LINCOLNTON",
-    "pu_state": "NC",
-    "pu_hours": "0700-1500",
-    "del_date": "2026-11-17",
-    "del_city": "AUBURN",
-    "del_state": "AL",
-    "del_hours": "0700-0800",
-    "equipment": "Flatbed Hot Shot",
-    "weight_lbs": 5000,
-    "carrier_rate": 700,
-    "updated_at": "2026-11-16T14:28:04.142359+00:00",
-    "lane": "LINCOLNTON NC-AUBURN AL"
-  },
-  {
     "pro": "51454",
     "status": "OPEN",
     "pu_date": "2026-11-16",
@@ -100,6 +100,23 @@
     "carrier_rate": 300,
     "updated_at": "2026-11-16T13:24:04.267524+00:00",
     "lane": "CANTON GA-PHENIX CITY AL"
+  },
+  {
+    "pro": "51456",
+    "status": "OPEN",
+    "pu_date": "2026-11-16",
+    "pu_city": "GARLAND",
+    "pu_state": "TX",
+    "pu_hours": "1200-1500",
+    "del_date": "2026-11-17",
+    "del_city": "CALHOUN",
+    "del_state": "GA",
+    "del_hours": "0730-1400",
+    "equipment": "Van",
+    "weight_lbs": 43438,
+    "carrier_rate": 1800,
+    "updated_at": "2026-11-16T14:36:00.274371+00:00",
+    "lane": "GARLAND TX-CALHOUN GA"
   },
   {
     "pro": "51332",
@@ -289,23 +306,6 @@
     "lane": "WINCHESTER KY-BURLINGTON NJ"
   },
   {
-    "pro": "51397",
-    "status": "OPEN",
-    "pu_date": "2026-11-20",
-    "pu_city": "ATLANTA",
-    "pu_state": "GA",
-    "pu_hours": "0730",
-    "del_date": "2026-11-20",
-    "del_city": "DECATUR",
-    "del_state": "GA",
-    "del_hours": "1000",
-    "equipment": "Reefer",
-    "weight_lbs": 21264,
-    "carrier_rate": 450,
-    "updated_at": "2026-11-11T12:40:00.174510+00:00",
-    "lane": "ATLANTA GA-DECATUR GA"
-  },
-  {
     "pro": "50717",
     "status": "OPEN",
     "pu_date": "2026-11-23",
@@ -459,23 +459,6 @@
     "lane": "LA PORTE TX-PIEDMONT SC"
   },
   {
-    "pro": "51242",
-    "status": "RELEASED",
-    "pu_date": "2026-11-06",
-    "pu_city": "ATLANTA",
-    "pu_state": "GA",
-    "pu_hours": "0700",
-    "del_date": "2026-11-06",
-    "del_city": "DECATUR",
-    "del_state": "GA",
-    "del_hours": "1000",
-    "equipment": "Reefer",
-    "weight_lbs": 21264,
-    "carrier_rate": 450,
-    "updated_at": "2026-11-09T15:08:00.766292+00:00",
-    "lane": "ATLANTA GA-DECATUR GA"
-  },
-  {
     "pro": "51339",
     "status": "RELEASED",
     "pu_date": "2026-11-06",
@@ -491,6 +474,23 @@
     "carrier_rate": 2000,
     "updated_at": "2026-11-10T15:42:44.200026+00:00",
     "lane": "HOUSTON TX-SANFORD FL"
+  },
+  {
+    "pro": "51224",
+    "status": "RELEASED",
+    "pu_date": "2026-11-09",
+    "pu_city": "GARLAND",
+    "pu_state": "TX",
+    "pu_hours": "1200-1500",
+    "del_date": "2026-11-10",
+    "del_city": "CALHOUN",
+    "del_state": "GA",
+    "del_hours": "0730-1400",
+    "equipment": "Van",
+    "weight_lbs": 43438,
+    "carrier_rate": 1900,
+    "updated_at": "2026-11-11T13:06:54.760292+00:00",
+    "lane": "GARLAND TX-CALHOUN GA"
   },
   {
     "pro": "51269",
@@ -680,40 +680,6 @@
     "lane": "OAKLAND TN-SALISBURY NC"
   },
   {
-    "pro": "51344",
-    "status": "DELIVERED",
-    "pu_date": "2026-11-13",
-    "pu_city": "ATLANTA",
-    "pu_state": "GA",
-    "pu_hours": "0700",
-    "del_date": "2026-11-13",
-    "del_city": "DECATUR",
-    "del_state": "GA",
-    "del_hours": "1000",
-    "equipment": "Reefer",
-    "weight_lbs": 21264,
-    "carrier_rate": 450,
-    "updated_at": "2026-11-13T15:18:11.123137+00:00",
-    "lane": "ATLANTA GA-DECATUR GA"
-  },
-  {
-    "pro": "51345",
-    "status": "DELIVERED",
-    "pu_date": "2026-11-13",
-    "pu_city": "ATLANTA",
-    "pu_state": "GA",
-    "pu_hours": "0730",
-    "del_date": "2026-11-13",
-    "del_city": "DECATUR",
-    "del_state": "GA",
-    "del_hours": "1000",
-    "equipment": "Reefer",
-    "weight_lbs": 21264,
-    "carrier_rate": 450,
-    "updated_at": "2026-11-13T15:24:25.390251+00:00",
-    "lane": "ATLANTA GA-DECATUR GA"
-  },
-  {
     "pro": "51411",
     "status": "RELEASED",
     "pu_date": "2026-11-13",
@@ -746,39 +712,5 @@
     "carrier_rate": 2800,
     "updated_at": "2026-11-13T19:32:47.886775+00:00",
     "lane": "LA PORTE TX-PIEDMONT SC"
-  },
-  {
-    "pro": "51394",
-    "status": "COVERED",
-    "pu_date": "2026-11-20",
-    "pu_city": "ATLANTA",
-    "pu_state": "GA",
-    "pu_hours": "0700",
-    "del_date": "2026-11-20",
-    "del_city": "DECATUR",
-    "del_state": "GA",
-    "del_hours": "1000",
-    "equipment": "Reefer",
-    "weight_lbs": 21264,
-    "carrier_rate": 450,
-    "updated_at": "2026-11-16T14:34:39.167453+00:00",
-    "lane": "ATLANTA GA-DECATUR GA"
-  },
-  {
-    "pro": "51396",
-    "status": "COVERED",
-    "pu_date": "2026-11-20",
-    "pu_city": "ATLANTA",
-    "pu_state": "GA",
-    "pu_hours": "0730",
-    "del_date": "2026-11-20",
-    "del_city": "DECATUR",
-    "del_state": "GA",
-    "del_hours": "1000",
-    "equipment": "Reefer",
-    "weight_lbs": 21264,
-    "carrier_rate": 450,
-    "updated_at": "2026-11-16T14:34:50.790914+00:00",
-    "lane": "ATLANTA GA-DECATUR GA"
   }
 ]
