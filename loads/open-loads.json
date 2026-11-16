@@ -98,8 +98,25 @@
     "equipment": "Flatbed w/ Tarps",
     "weight_lbs": 47100,
     "carrier_rate": 1700,
-    "updated_at": "2026-11-16T20:00:09.636041+00:00",
+    "updated_at": "2026-11-16T20:00:39.833145+00:00",
     "lane": "VILLA RICA GA-SLIDELL LA"
+  },
+  {
+    "pro": "51467",
+    "status": "OPEN",
+    "pu_date": "2026-11-17",
+    "pu_city": "RICHMOND",
+    "pu_state": "VA",
+    "pu_hours": "1200",
+    "del_date": "",
+    "del_city": "NORTH PALM BEACH",
+    "del_state": "FL",
+    "del_hours": "0800-1200",
+    "equipment": "26' Straight Box Truck",
+    "weight_lbs": 7000,
+    "carrier_rate": 2200,
+    "updated_at": "2026-11-16T20:04:09.615151+00:00",
+    "lane": "RICHMOND VA-NORTH PALM BEACH FL"
   },
   {
     "pro": "51145",
@@ -306,23 +323,6 @@
     "lane": "OAKLAND TN-PHENIX CITY AL"
   },
   {
-    "pro": "51462",
-    "status": "OPEN",
-    "pu_date": "2026-11-25",
-    "pu_city": "ATLANTA",
-    "pu_state": "GA",
-    "pu_hours": "0700",
-    "del_date": "2026-11-25",
-    "del_city": "DECATUR",
-    "del_state": "GA",
-    "del_hours": "1000",
-    "equipment": "Reefer",
-    "weight_lbs": 21264,
-    "carrier_rate": 450,
-    "updated_at": "2026-11-16T19:07:36.574965+00:00",
-    "lane": "ATLANTA GA-DECATUR GA"
-  },
-  {
     "pro": "51463",
     "status": "OPEN",
     "pu_date": "2026-11-25",
@@ -336,7 +336,7 @@
     "equipment": "Reefer",
     "weight_lbs": 21264,
     "carrier_rate": 450,
-    "updated_at": "2026-11-16T19:07:52.381621+00:00",
+    "updated_at": "2026-11-16T20:01:52.110307+00:00",
     "lane": "ATLANTA GA-DECATUR GA"
   },
   {
@@ -353,7 +353,7 @@
     "equipment": "Reefer",
     "weight_lbs": 21264,
     "carrier_rate": 450,
-    "updated_at": "2026-11-16T19:10:24.577073+00:00",
+    "updated_at": "2026-11-16T20:05:12.779729+00:00",
     "lane": "ATLANTA GA-DECATUR GA"
   },
   {
@@ -847,6 +847,23 @@
     "weight_lbs": 21264,
     "carrier_rate": 450,
     "updated_at": "2026-11-16T14:53:08.438671+00:00",
+    "lane": "ATLANTA GA-DECATUR GA"
+  },
+  {
+    "pro": "51462",
+    "status": "COVERED",
+    "pu_date": "2026-11-25",
+    "pu_city": "ATLANTA",
+    "pu_state": "GA",
+    "pu_hours": "0700",
+    "del_date": "2026-11-25",
+    "del_city": "DECATUR",
+    "del_state": "GA",
+    "del_hours": "1000",
+    "equipment": "Reefer",
+    "weight_lbs": 21264,
+    "carrier_rate": 450,
+    "updated_at": "2026-11-16T20:01:44.474423+00:00",
     "lane": "ATLANTA GA-DECATUR GA"
   }
 ]
