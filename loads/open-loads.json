@@ -272,6 +272,23 @@
     "lane": "WINCHESTER KY-BURLINGTON NJ"
   },
   {
+    "pro": "51458",
+    "status": "OPEN",
+    "pu_date": "2026-11-18",
+    "pu_city": "JACKSONVILLE",
+    "pu_state": "TX",
+    "pu_hours": "0800-1500",
+    "del_date": "2026-11-20",
+    "del_city": "ENGLEWOOD",
+    "del_state": "CO",
+    "del_hours": "0730-1500",
+    "equipment": "Van",
+    "weight_lbs": 35000,
+    "carrier_rate": 3230,
+    "updated_at": "2026-11-16T15:40:19.297334+00:00",
+    "lane": "JACKSONVILLE TX-ENGLEWOOD CO"
+  },
+  {
     "pro": "50717",
     "status": "OPEN",
     "pu_date": "2026-11-23",
@@ -613,7 +630,7 @@
   },
   {
     "pro": "51383",
-    "status": "DELIVERED",
+    "status": "RELEASED",
     "pu_date": "2026-11-12",
     "pu_city": "OAKLAND",
     "pu_state": "TN",
@@ -625,7 +642,7 @@
     "equipment": "Van Hazmat",
     "weight_lbs": 44900,
     "carrier_rate": 3000,
-    "updated_at": "2026-11-13T21:01:01.994401+00:00",
+    "updated_at": "2026-11-16T15:40:15.801439+00:00",
     "lane": "OAKLAND TN-SALISBURY NC"
   },
   {
