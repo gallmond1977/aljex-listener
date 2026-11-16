@@ -119,23 +119,6 @@
     "lane": "CLAXTON GA-CHARLESTON SC"
   },
   {
-    "pro": "51465",
-    "status": "OPEN",
-    "pu_date": "2026-11-17",
-    "pu_city": "LAWRENCEVILLE",
-    "pu_state": "GA",
-    "pu_hours": "0800-1200",
-    "del_date": "2026-11-17",
-    "del_city": "AUBURN",
-    "del_state": "AL",
-    "del_hours": "0800-1600",
-    "equipment": "Flatbed Hot Shot",
-    "weight_lbs": 1000,
-    "carrier_rate": 500,
-    "updated_at": "2026-11-16T18:38:14.082340+00:00",
-    "lane": "LAWRENCEVILLE GA-AUBURN AL"
-  },
-  {
     "pro": "51145",
     "status": "OPEN",
     "pu_date": "2026-11-18",
