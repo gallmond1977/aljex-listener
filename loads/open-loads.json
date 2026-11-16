@@ -64,7 +64,7 @@
     "equipment": "Flatbed w/ Tarps",
     "weight_lbs": 47277,
     "carrier_rate": 2300,
-    "updated_at": "2026-11-12T13:33:59.301818+00:00",
+    "updated_at": "2026-11-16T19:13:36.103865+00:00",
     "lane": "COLUMBUS GA-FORT LAUDERDALE FL"
   },
   {
@@ -366,11 +366,11 @@
     "del_date": "2026-11-25",
     "del_city": "DECATUR",
     "del_state": "GA",
-    "del_hours": "",
+    "del_hours": "REQ",
     "equipment": "Reefer",
     "weight_lbs": 21264,
     "carrier_rate": 450,
-    "updated_at": "2026-11-16T19:08:16.885022+00:00",
+    "updated_at": "2026-11-16T19:10:24.577073+00:00",
     "lane": "ATLANTA GA-DECATUR GA"
   },
   {
