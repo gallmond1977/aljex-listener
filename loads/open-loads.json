@@ -68,23 +68,6 @@
     "lane": "CLAXTON GA-CHARLESTON SC"
   },
   {
-    "pro": "51466",
-    "status": "OPEN",
-    "pu_date": "2026-11-17",
-    "pu_city": "VILLA RICA",
-    "pu_state": "GA",
-    "pu_hours": "0800-1500",
-    "del_date": "2026-11-18",
-    "del_city": "SLIDELL",
-    "del_state": "LA",
-    "del_hours": "0800-1300",
-    "equipment": "Flatbed w/ Tarps",
-    "weight_lbs": 47100,
-    "carrier_rate": 1700,
-    "updated_at": "2026-11-16T20:36:50.036455+00:00",
-    "lane": "VILLA RICA GA-SLIDELL LA"
-  },
-  {
     "pro": "51467",
     "status": "OPEN",
     "pu_date": "2026-11-17",
@@ -115,7 +98,7 @@
     "equipment": "Van",
     "weight_lbs": 35000,
     "carrier_rate": 1800,
-    "updated_at": "2026-11-16T20:40:41.916108+00:00",
+    "updated_at": "2026-11-16T20:45:35.320201+00:00",
     "lane": "LAGRANGE GA-ORLANDO FL"
   },
   {
