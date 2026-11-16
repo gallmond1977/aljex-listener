@@ -272,6 +272,23 @@
     "lane": "JACKSONVILLE TX-ENGLEWOOD CO"
   },
   {
+    "pro": "51459",
+    "status": "OPEN",
+    "pu_date": "2026-11-20",
+    "pu_city": "MONTEZUMA",
+    "pu_state": "GA",
+    "pu_hours": "",
+    "del_date": "2026-11-24",
+    "del_city": "TRACY",
+    "del_state": "CA",
+    "del_hours": "0415",
+    "equipment": "Reefer",
+    "weight_lbs": 39000,
+    "carrier_rate": null,
+    "updated_at": "2026-11-16T16:14:05.860440+00:00",
+    "lane": "MONTEZUMA GA-TRACY CA"
+  },
+  {
     "pro": "50717",
     "status": "OPEN",
     "pu_date": "2026-11-23",
@@ -423,6 +440,23 @@
     "carrier_rate": null,
     "updated_at": "2026-11-05T16:51:53.885923+00:00",
     "lane": "LA PORTE TX-PIEDMONT SC"
+  },
+  {
+    "pro": "51128",
+    "status": "RELEASED",
+    "pu_date": "2026-11-03",
+    "pu_city": "MONTEZUMA",
+    "pu_state": "GA",
+    "pu_hours": "1300",
+    "del_date": "2026-11-07",
+    "del_city": "TRACY",
+    "del_state": "CA",
+    "del_hours": "0345",
+    "equipment": "Reefer",
+    "weight_lbs": 13650,
+    "carrier_rate": 4800,
+    "updated_at": "2026-11-10T15:13:57.169423+00:00",
+    "lane": "MONTEZUMA GA-TRACY CA"
   },
   {
     "pro": "51339",
@@ -627,6 +661,40 @@
     "carrier_rate": 3000,
     "updated_at": "2026-11-16T15:40:15.801439+00:00",
     "lane": "OAKLAND TN-SALISBURY NC"
+  },
+  {
+    "pro": "51353",
+    "status": "LOADED",
+    "pu_date": "2026-11-13",
+    "pu_city": "MONTEZUMA",
+    "pu_state": "GA",
+    "pu_hours": "1300",
+    "del_date": "2026-11-17",
+    "del_city": "TRACY",
+    "del_state": "CA",
+    "del_hours": "0415",
+    "equipment": "Reefer",
+    "weight_lbs": 39000,
+    "carrier_rate": 4800,
+    "updated_at": "2026-11-13T20:07:48.986059+00:00",
+    "lane": "MONTEZUMA GA-TRACY CA"
+  },
+  {
+    "pro": "51363",
+    "status": "LOADED",
+    "pu_date": "2026-11-13",
+    "pu_city": "MONTEZUMA",
+    "pu_state": "GA",
+    "pu_hours": "1500",
+    "del_date": "2026-11-17",
+    "del_city": "TRACY",
+    "del_state": "CA",
+    "del_hours": "0415",
+    "equipment": "Reefer",
+    "weight_lbs": 39000,
+    "carrier_rate": 4700,
+    "updated_at": "2026-11-13T21:13:09.184253+00:00",
+    "lane": "MONTEZUMA GA-TRACY CA"
   },
   {
     "pro": "51411",
