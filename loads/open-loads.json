@@ -51,23 +51,6 @@
     "lane": "COLUMBUS GA-FORT LAUDERDALE FL"
   },
   {
-    "pro": "51452",
-    "status": "OPEN",
-    "pu_date": "2026-11-17",
-    "pu_city": "COLUMBUS",
-    "pu_state": "GA",
-    "pu_hours": "0800-1500",
-    "del_date": "2026-11-18",
-    "del_city": "STEVENS",
-    "del_state": "PA",
-    "del_hours": "0700-1500",
-    "equipment": "Van",
-    "weight_lbs": 43579,
-    "carrier_rate": 2500,
-    "updated_at": "2026-11-16T20:35:07.028063+00:00",
-    "lane": "COLUMBUS GA-STEVENS PA"
-  },
-  {
     "pro": "51457",
     "status": "OPEN",
     "pu_date": "2026-11-17",
@@ -117,6 +100,23 @@
     "carrier_rate": 2200,
     "updated_at": "2026-11-16T20:27:31.037044+00:00",
     "lane": "RICHMOND VA-NORTH PALM BEACH FL"
+  },
+  {
+    "pro": "51468",
+    "status": "OPEN",
+    "pu_date": "2026-11-17",
+    "pu_city": "LAGRANGE",
+    "pu_state": "GA",
+    "pu_hours": "1200-1600",
+    "del_date": "2026-11-18",
+    "del_city": "ORLANDO",
+    "del_state": "FL",
+    "del_hours": "0800-1200",
+    "equipment": "Van",
+    "weight_lbs": 35000,
+    "carrier_rate": 1800,
+    "updated_at": "2026-11-16T20:40:41.916108+00:00",
+    "lane": "LAGRANGE GA-ORLANDO FL"
   },
   {
     "pro": "51145",
