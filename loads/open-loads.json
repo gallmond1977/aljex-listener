@@ -349,11 +349,11 @@
     "del_date": "2026-11-25",
     "del_city": "DECATUR",
     "del_state": "GA",
-    "del_hours": "REQ 10",
+    "del_hours": "1000",
     "equipment": "Reefer",
     "weight_lbs": 21264,
     "carrier_rate": 450,
-    "updated_at": "2026-11-16T17:37:44.996743+00:00",
+    "updated_at": "2026-11-16T17:49:08.343862+00:00",
     "lane": "ATLANTA GA-DECATUR GA"
   },
   {
