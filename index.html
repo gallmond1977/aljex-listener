@@ -2121,12 +2121,9 @@
   // -----------------------------------------------------------------
   // Service reps
   // -----------------------------------------------------------------
-  const SERVICE_REP_FIRST_NAMES = ['ADAM', 'DANIEL', 'MITCH', 'MELISSA', 'CODY', 'BUD'];
+  const SERVICE_REP_FIRST_NAMES = ['DANIEL', 'MITCH', 'MELISSA', 'CODY', 'BUD'];
 
-  function populateServiceWhoamiSelect() {
-    const select = document.getElementById('service-whoami-select');
-    const current = select.value;
-
+  function getServiceRepNames() {
     const fromAljex = salesreps
       .map(r => r.salesrep_name)
       .filter(Boolean)
@@ -2139,10 +2136,15 @@
       .map(a => a.service_rep)
       .filter(Boolean);
 
-    const names = [...new Set([...fromAljex, ...fromAssignments])]
+    return [...new Set([...fromAljex, ...fromAssignments])]
       .filter(n => !isExcludedRep(n))
       .sort();
+  }
 
+  function populateServiceWhoamiSelect() {
+    const select = document.getElementById('service-whoami-select');
+    const current = select.value;
+    const names = getServiceRepNames();
     select.innerHTML = names.map(n => `<option value="${escapeAttr(n)}">${n}</option>`).join("");
     if (current && names.includes(current)) select.value = current;
   }
@@ -2937,7 +2939,7 @@
       return;
     }
 
-    const repOptions = getTeamRepFullNames()
+    const repOptions = getServiceRepNames()
       .map(name => `<option value="${escapeAttr(name)}">${escapeAttr(name)}</option>`)
       .join("");
 
