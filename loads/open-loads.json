@@ -47,7 +47,7 @@
     "equipment": "Van",
     "weight_lbs": 44000,
     "carrier_rate": 650,
-    "updated_at": "2026-11-16T21:32:26.753588+00:00",
+    "updated_at": "2026-11-17T13:09:35.567124+00:00",
     "lane": "CLAXTON GA-CHARLESTON SC"
   },
   {
@@ -63,8 +63,8 @@
     "del_hours": "0800-1200",
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 7000,
-    "carrier_rate": 2200,
-    "updated_at": "2026-11-16T20:27:31.037044+00:00",
+    "carrier_rate": 2000,
+    "updated_at": "2026-11-17T13:06:07.327693+00:00",
     "lane": "RICHMOND VA-NORTH PALM BEACH FL"
   },
   {
@@ -869,7 +869,7 @@
   },
   {
     "pro": "51353",
-    "status": "LOADED",
+    "status": "CONSIGNEE",
     "pu_date": "2026-11-13",
     "pu_city": "MONTEZUMA",
     "pu_state": "GA",
@@ -881,7 +881,7 @@
     "equipment": "Reefer",
     "weight_lbs": 39000,
     "carrier_rate": 4800,
-    "updated_at": "2026-11-16T16:32:44.924798+00:00",
+    "updated_at": "2026-11-17T13:08:58.056233+00:00",
     "lane": "MONTEZUMA GA-TRACY CA"
   },
   {
