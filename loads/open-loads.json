@@ -1,22 +1,5 @@
 [
   {
-    "pro": "51457",
-    "status": "OPEN",
-    "pu_date": "2026-11-17",
-    "pu_city": "CLAXTON",
-    "pu_state": "GA",
-    "pu_hours": "0800-1200",
-    "del_date": "2026-11-17",
-    "del_city": "CHARLESTON",
-    "del_state": "SC",
-    "del_hours": "0800-1400",
-    "equipment": "Van",
-    "weight_lbs": 44000,
-    "carrier_rate": 700,
-    "updated_at": "2026-11-17T13:59:56.797776+00:00",
-    "lane": "CLAXTON GA-CHARLESTON SC"
-  },
-  {
     "pro": "51468",
     "status": "OPEN",
     "pu_date": "2026-11-17",
