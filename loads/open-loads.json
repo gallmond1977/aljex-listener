@@ -13,8 +13,8 @@
     "del_hours": "",
     "equipment": "Van",
     "weight_lbs": 14500,
-    "carrier_rate": 2000,
-    "updated_at": "2026-11-17T16:44:57.752261+00:00",
+    "carrier_rate": 2200,
+    "updated_at": "2026-11-17T18:07:33.076850+00:00",
     "lane": "EUFAULA AL-MIAMI FL"
   },
   {
@@ -116,8 +116,8 @@
     "del_hours": "",
     "equipment": "Flatbed",
     "weight_lbs": 46500,
-    "carrier_rate": 1300,
-    "updated_at": "2026-11-17T16:41:08.805170+00:00",
+    "carrier_rate": 1500,
+    "updated_at": "2026-11-17T18:07:16.210930+00:00",
     "lane": "WILMINGTON NC-SAVANNAH GA"
   },
   {
