@@ -937,7 +937,7 @@
   },
   {
     "pro": "51384",
-    "status": "COVERED",
+    "status": "DISPATCHED",
     "pu_date": "2026-11-17",
     "pu_city": "OAKLAND",
     "pu_state": "TN",
@@ -949,7 +949,7 @@
     "equipment": "Van Hazmat",
     "weight_lbs": 44900,
     "carrier_rate": 3000,
-    "updated_at": "2026-11-17T13:27:00.791374+00:00",
+    "updated_at": "2026-11-17T13:35:04.318990+00:00",
     "lane": "OAKLAND TN-SALISBURY NC"
   },
   {
