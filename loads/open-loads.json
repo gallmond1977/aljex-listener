@@ -200,8 +200,8 @@
     "del_hours": "0730-1430",
     "equipment": "Van",
     "weight_lbs": 15000,
-    "carrier_rate": null,
-    "updated_at": "2026-11-17T14:35:01.597924+00:00",
+    "carrier_rate": 550,
+    "updated_at": "2026-11-17T14:39:03.757216+00:00",
     "lane": "MOUNT PLEASANT TN-CORINTH MS"
   },
   {
@@ -762,7 +762,7 @@
     "equipment": "Reefer",
     "weight_lbs": 39000,
     "carrier_rate": 4700,
-    "updated_at": "2026-11-17T14:34:59.114065+00:00",
+    "updated_at": "2026-11-17T14:36:38.764575+00:00",
     "lane": "MONTEZUMA GA-TRACY CA"
   },
   {
