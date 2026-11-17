@@ -13,7 +13,7 @@
     "equipment": "Van",
     "weight_lbs": 36000,
     "carrier_rate": 1800,
-    "updated_at": "2026-11-17T15:36:46.515434+00:00",
+    "updated_at": "2026-11-17T16:17:21.439381+00:00",
     "lane": "LAGRANGE GA-ORLANDO FL"
   },
   {
@@ -117,23 +117,6 @@
     "carrier_rate": 3230,
     "updated_at": "2026-11-16T15:42:43.004673+00:00",
     "lane": "JACKSONVILLE TX-ENGLEWOOD CO"
-  },
-  {
-    "pro": "51477",
-    "status": "OPEN",
-    "pu_date": "2026-11-18",
-    "pu_city": "SOUTH BOSTON",
-    "pu_state": "VA",
-    "pu_hours": "1200-1500",
-    "del_date": "2026-11-19",
-    "del_city": "HALEYVILLE",
-    "del_state": "AL",
-    "del_hours": "0730-0900",
-    "equipment": "Van",
-    "weight_lbs": 43000,
-    "carrier_rate": 1700,
-    "updated_at": "2026-11-17T15:32:08.026124+00:00",
-    "lane": "SOUTH BOSTON VA-HALEYVILLE AL"
   },
   {
     "pro": "51471",
