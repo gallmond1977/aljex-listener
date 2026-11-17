@@ -81,7 +81,7 @@
     "equipment": "Van",
     "weight_lbs": 44000,
     "carrier_rate": 850,
-    "updated_at": "2026-11-17T21:00:11.475379+00:00",
+    "updated_at": "2026-11-17T21:08:55.392527+00:00",
     "lane": "WADESBORO NC-ATLANTA GA"
   },
   {
@@ -98,7 +98,7 @@
     "equipment": "Flatbed",
     "weight_lbs": 47000,
     "carrier_rate": 625,
-    "updated_at": "2026-11-17T21:02:59.927066+00:00",
+    "updated_at": "2026-11-17T21:05:56.631547+00:00",
     "lane": "MACON GA-AUGUSTA GA"
   },
   {
@@ -115,7 +115,7 @@
     "equipment": "Flatbed",
     "weight_lbs": 47000,
     "carrier_rate": 625,
-    "updated_at": "2026-11-17T21:04:30.809886+00:00",
+    "updated_at": "2026-11-17T21:05:33.129178+00:00",
     "lane": "MACON GA-AUGUSTA GA"
   },
   {
