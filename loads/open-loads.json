@@ -268,7 +268,7 @@
     "equipment": "Van",
     "weight_lbs": 11280,
     "carrier_rate": 1000,
-    "updated_at": "2026-11-17T12:51:24.250449+00:00",
+    "updated_at": "2026-11-17T12:59:00.176403+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
@@ -285,7 +285,7 @@
     "equipment": "Van",
     "weight_lbs": 11280,
     "carrier_rate": 1000,
-    "updated_at": "2026-11-17T12:53:07.108176+00:00",
+    "updated_at": "2026-11-17T12:58:58.664563+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
@@ -294,7 +294,7 @@
     "pu_date": "2026-11-20",
     "pu_city": "MONTEZUMA",
     "pu_state": "GA",
-    "pu_hours": "REQ",
+    "pu_hours": "1300",
     "del_date": "2026-11-24",
     "del_city": "TRACY",
     "del_state": "CA",
@@ -302,7 +302,7 @@
     "equipment": "Reefer",
     "weight_lbs": 39000,
     "carrier_rate": null,
-    "updated_at": "2026-11-16T16:17:39.457807+00:00",
+    "updated_at": "2026-11-17T13:00:09.272097+00:00",
     "lane": "MONTEZUMA GA-TRACY CA"
   },
   {
@@ -319,7 +319,7 @@
     "equipment": "Van",
     "weight_lbs": 11280,
     "carrier_rate": null,
-    "updated_at": "2026-11-17T12:54:29.521678+00:00",
+    "updated_at": "2026-11-17T12:58:57.153854+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
