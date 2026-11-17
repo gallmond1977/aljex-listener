@@ -52,23 +52,6 @@
     "lane": "OAKLAND TN-SALISBURY NC"
   },
   {
-    "pro": "51433",
-    "status": "OPEN",
-    "pu_date": "2026-11-18",
-    "pu_city": "WINCHESTER",
-    "pu_state": "KY",
-    "pu_hours": "1300",
-    "del_date": "2026-11-19",
-    "del_city": "JACKSONVILLE",
-    "del_state": "FL",
-    "del_hours": "1900",
-    "equipment": "Van",
-    "weight_lbs": 9078,
-    "carrier_rate": 2900,
-    "updated_at": "2026-11-17T13:44:28.802344+00:00",
-    "lane": "WINCHESTER KY-JACKSONVILLE FL"
-  },
-  {
     "pro": "51434",
     "status": "OPEN",
     "pu_date": "2026-11-18",
@@ -118,6 +101,23 @@
     "carrier_rate": 1000,
     "updated_at": "2026-11-17T18:59:34.876119+00:00",
     "lane": "UNION CITY GA-SANFORD FL"
+  },
+  {
+    "pro": "51488",
+    "status": "OPEN",
+    "pu_date": "2026-11-18",
+    "pu_city": "RALEIGH",
+    "pu_state": "NC",
+    "pu_hours": "0800",
+    "del_date": "2026-11-18",
+    "del_city": "ROANOKE",
+    "del_state": "VA",
+    "del_hours": "0800-1500",
+    "equipment": "26' Straight Box Truck",
+    "weight_lbs": 3560,
+    "carrier_rate": 450,
+    "updated_at": "2026-11-17T19:03:04.455816+00:00",
+    "lane": "RALEIGH NC-ROANOKE VA"
   },
   {
     "pro": "8890471",
@@ -185,7 +185,7 @@
     "equipment": "Van",
     "weight_lbs": 43467,
     "carrier_rate": 2300,
-    "updated_at": "2026-11-17T18:53:17.224824+00:00",
+    "updated_at": "2026-11-17T19:02:20.721525+00:00",
     "lane": "SOUTHAVEN MS-CHARLESTON SC"
   },
   {
@@ -833,6 +833,23 @@
     "carrier_rate": 3800,
     "updated_at": "2026-11-17T14:26:45.965515+00:00",
     "lane": "WINCHESTER KY-UXBRIDGE MA"
+  },
+  {
+    "pro": "51433",
+    "status": "COVERED",
+    "pu_date": "2026-11-18",
+    "pu_city": "WINCHESTER",
+    "pu_state": "KY",
+    "pu_hours": "1300",
+    "del_date": "2026-11-19",
+    "del_city": "JACKSONVILLE",
+    "del_state": "FL",
+    "del_hours": "1900",
+    "equipment": "Van",
+    "weight_lbs": 9078,
+    "carrier_rate": 3000,
+    "updated_at": "2026-11-17T19:04:23.402349+00:00",
+    "lane": "WINCHESTER KY-JACKSONVILLE FL"
   },
   {
     "pro": "51316",
