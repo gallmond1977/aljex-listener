@@ -1,23 +1,5 @@
 [
   {
-    "pro": "8890472",
-    "status": "OPEN",
-    "spot": true,
-    "pu_date": "2026-11-17",
-    "pu_city": "EUFAULA",
-    "pu_state": "AL",
-    "pu_hours": "",
-    "del_date": "2026-11-19",
-    "del_city": "MIAMI",
-    "del_state": "FL",
-    "del_hours": "",
-    "equipment": "Van",
-    "weight_lbs": 14500,
-    "carrier_rate": 2350,
-    "updated_at": "2026-11-17T18:53:13.281126+00:00",
-    "lane": "EUFAULA AL-MIAMI FL"
-  },
-  {
     "pro": "51145",
     "status": "OPEN",
     "pu_date": "2026-11-18",
@@ -103,6 +85,23 @@
     "lane": "UNION CITY GA-SANFORD FL"
   },
   {
+    "pro": "51489",
+    "status": "OPEN",
+    "pu_date": "2026-11-18",
+    "pu_city": "SPINDALE",
+    "pu_state": "NC",
+    "pu_hours": "1000",
+    "del_date": "2026-11-18",
+    "del_city": "LANCASTER",
+    "del_state": "SC",
+    "del_hours": "0800-0900",
+    "equipment": "Flatbed Hot Shot",
+    "weight_lbs": 6520,
+    "carrier_rate": 450,
+    "updated_at": "2026-11-17T19:19:52.291848+00:00",
+    "lane": "SPINDALE NC-LANCASTER SC"
+  },
+  {
     "pro": "8890471",
     "status": "OPEN",
     "spot": true,
@@ -119,6 +118,24 @@
     "carrier_rate": 1500,
     "updated_at": "2026-11-17T18:53:27.957262+00:00",
     "lane": "WILMINGTON NC-SAVANNAH GA"
+  },
+  {
+    "pro": "8890472",
+    "status": "OPEN",
+    "spot": true,
+    "pu_date": "2026-11-18",
+    "pu_city": "EUFAULA",
+    "pu_state": "AL",
+    "pu_hours": "",
+    "del_date": "2026-11-19",
+    "del_city": "MIAMI",
+    "del_state": "FL",
+    "del_hours": "",
+    "equipment": "Van",
+    "weight_lbs": 14500,
+    "carrier_rate": 2350,
+    "updated_at": "2026-11-17T19:17:50.067277+00:00",
+    "lane": "EUFAULA AL-MIAMI FL"
   },
   {
     "pro": "51471",
