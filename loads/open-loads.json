@@ -85,23 +85,6 @@
     "lane": "MOUNT PLEASANT TN-LAWRENCEVILLE GA"
   },
   {
-    "pro": "51474",
-    "status": "OPEN",
-    "pu_date": "2026-11-17",
-    "pu_city": "BUFFALO",
-    "pu_state": "NY",
-    "pu_hours": "1000-1500",
-    "del_date": "2026-11-18",
-    "del_city": "BELCAMP",
-    "del_state": "MD",
-    "del_hours": "0700-1500",
-    "equipment": "Van",
-    "weight_lbs": 25000,
-    "carrier_rate": 1800,
-    "updated_at": "2026-11-17T13:26:06.414619+00:00",
-    "lane": "BUFFALO NY-BELCAMP MD"
-  },
-  {
     "pro": "8890470",
     "status": "OPEN",
     "spot": true,
@@ -200,8 +183,8 @@
     "del_hours": "0400",
     "equipment": "Van",
     "weight_lbs": 11481,
-    "carrier_rate": null,
-    "updated_at": "2026-11-16T14:02:04.201024+00:00",
+    "carrier_rate": 3500,
+    "updated_at": "2026-11-17T13:45:24.546477+00:00",
     "lane": "WINCHESTER KY-UXBRIDGE MA"
   },
   {
@@ -234,8 +217,8 @@
     "del_hours": "1600",
     "equipment": "Van",
     "weight_lbs": 12815,
-    "carrier_rate": null,
-    "updated_at": "2026-11-13T14:15:08.833159+00:00",
+    "carrier_rate": 2400,
+    "updated_at": "2026-11-17T13:45:57.040974+00:00",
     "lane": "WINCHESTER KY-BURLINGTON NJ"
   },
   {
@@ -307,6 +290,23 @@
     "lane": "MONTEZUMA GA-TRACY CA"
   },
   {
+    "pro": "51473",
+    "status": "OPEN",
+    "pu_date": "2026-11-20",
+    "pu_city": "WINCHESTER",
+    "pu_state": "KY",
+    "pu_hours": "0900-1200",
+    "del_date": "2026-11-20",
+    "del_city": "JOLIET",
+    "del_state": "IL",
+    "del_hours": "2100",
+    "equipment": "Van",
+    "weight_lbs": 11280,
+    "carrier_rate": 1000,
+    "updated_at": "2026-11-17T13:47:10.647173+00:00",
+    "lane": "WINCHESTER KY-JOLIET IL"
+  },
+  {
     "pro": "50717",
     "status": "OPEN",
     "pu_date": "2026-11-23",
@@ -322,23 +322,6 @@
     "carrier_rate": null,
     "updated_at": "2026-11-11T20:35:37.942482+00:00",
     "lane": "OLD FORT NC-COLUMBUS GA"
-  },
-  {
-    "pro": "51473",
-    "status": "OPEN",
-    "pu_date": "2026-11-23",
-    "pu_city": "WINCHESTER",
-    "pu_state": "KY",
-    "pu_hours": "0900-1030",
-    "del_date": "2026-11-23",
-    "del_city": "JOLIET",
-    "del_state": "IL",
-    "del_hours": "2000",
-    "equipment": "Van",
-    "weight_lbs": 11280,
-    "carrier_rate": 1000,
-    "updated_at": "2026-11-17T13:16:55.058447+00:00",
-    "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
     "pro": "51387",
@@ -613,40 +596,6 @@
     "lane": "WINCHESTER KY-JACKSONVILLE FL"
   },
   {
-    "pro": "51321",
-    "status": "RELEASED",
-    "pu_date": "2026-11-09",
-    "pu_city": "BUFFALO",
-    "pu_state": "NY",
-    "pu_hours": "1000-1500",
-    "del_date": "2026-11-10",
-    "del_city": "BELCAMP",
-    "del_state": "MD",
-    "del_hours": "0700-1500",
-    "equipment": "26' Straight Box Truck",
-    "weight_lbs": 2670,
-    "carrier_rate": 800,
-    "updated_at": "2026-11-10T16:05:16.079850+00:00",
-    "lane": "BUFFALO NY-BELCAMP MD"
-  },
-  {
-    "pro": "51322",
-    "status": "RELEASED",
-    "pu_date": "2026-11-09",
-    "pu_city": "BUFFALO",
-    "pu_state": "NY",
-    "pu_hours": "1100-1500",
-    "del_date": "2026-11-10",
-    "del_city": "BELCAMP",
-    "del_state": "MD",
-    "del_hours": "0700-1500",
-    "equipment": "Van",
-    "weight_lbs": 17809,
-    "carrier_rate": 1900,
-    "updated_at": "2026-11-10T15:33:32.398848+00:00",
-    "lane": "BUFFALO NY-BELCAMP MD"
-  },
-  {
     "pro": "51334",
     "status": "RELEASED",
     "pu_date": "2026-11-09",
@@ -713,23 +662,6 @@
     "carrier_rate": 2800,
     "updated_at": "2026-11-12T15:18:14.554750+00:00",
     "lane": "PASADENA TX-PIEDMONT SC"
-  },
-  {
-    "pro": "51360",
-    "status": "RELEASED",
-    "pu_date": "2026-11-10",
-    "pu_city": "BUFFALO",
-    "pu_state": "NY",
-    "pu_hours": "0900-1500",
-    "del_date": "2026-11-11",
-    "del_city": "BELCAMP",
-    "del_state": "MD",
-    "del_hours": "0700-0800",
-    "equipment": "26' Straight Box Truck",
-    "weight_lbs": 1500,
-    "carrier_rate": 800,
-    "updated_at": "2026-11-12T16:53:18.074015+00:00",
-    "lane": "BUFFALO NY-BELCAMP MD"
   },
   {
     "pro": "50542",
@@ -869,7 +801,7 @@
   },
   {
     "pro": "51363",
-    "status": "LOADED",
+    "status": "CONSIGNEE",
     "pu_date": "2026-11-13",
     "pu_city": "MONTEZUMA",
     "pu_state": "GA",
@@ -881,7 +813,7 @@
     "equipment": "Reefer",
     "weight_lbs": 39000,
     "carrier_rate": 4700,
-    "updated_at": "2026-11-16T16:32:01.586501+00:00",
+    "updated_at": "2026-11-17T13:49:31.529541+00:00",
     "lane": "MONTEZUMA GA-TRACY CA"
   },
   {
@@ -917,23 +849,6 @@
     "carrier_rate": 1950,
     "updated_at": "2026-11-16T12:46:11.579351+00:00",
     "lane": "HOUSTON TX-SANFORD FL"
-  },
-  {
-    "pro": "51450",
-    "status": "LOADED",
-    "pu_date": "2026-11-16",
-    "pu_city": "BUFFALO",
-    "pu_state": "NY",
-    "pu_hours": "1300-1500",
-    "del_date": "2026-11-17",
-    "del_city": "BELCAMP",
-    "del_state": "MD",
-    "del_hours": "0700-1500",
-    "equipment": "Van",
-    "weight_lbs": 6540,
-    "carrier_rate": 1800,
-    "updated_at": "2026-11-16T16:10:57.631802+00:00",
-    "lane": "BUFFALO NY-BELCAMP MD"
   },
   {
     "pro": "51384",
