@@ -153,6 +153,23 @@
     "lane": "GAINESVILLE GA-GLENNVILLE GA"
   },
   {
+    "pro": "51499",
+    "status": "OPEN",
+    "pu_date": "2026-11-18",
+    "pu_city": "GAINESVILLE",
+    "pu_state": "GA",
+    "pu_hours": "0800-1645",
+    "del_date": "2026-11-19",
+    "del_city": "NEW HOLLAND",
+    "del_state": "PA",
+    "del_hours": "",
+    "equipment": "Van",
+    "weight_lbs": 10191,
+    "carrier_rate": 1870,
+    "updated_at": "2026-11-17T21:24:41.741476+00:00",
+    "lane": "GAINESVILLE GA-NEW HOLLAND PA"
+  },
+  {
     "pro": "8890471",
     "status": "OPEN",
     "spot": true,
