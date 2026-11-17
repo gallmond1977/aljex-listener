@@ -79,9 +79,9 @@
     "del_state": "FL",
     "del_hours": "0800-1200",
     "equipment": "Van",
-    "weight_lbs": 35000,
-    "carrier_rate": 1800,
-    "updated_at": "2026-11-16T20:45:35.320201+00:00",
+    "weight_lbs": 36000,
+    "carrier_rate": 1700,
+    "updated_at": "2026-11-17T13:03:42.801451+00:00",
     "lane": "LAGRANGE GA-ORLANDO FL"
   },
   {
@@ -98,7 +98,7 @@
     "equipment": "Van",
     "weight_lbs": 14000,
     "carrier_rate": 1000,
-    "updated_at": "2026-11-16T21:17:44.448120+00:00",
+    "updated_at": "2026-11-17T13:03:49.316359+00:00",
     "lane": "MOUNT PLEASANT TN-LAWRENCEVILLE GA"
   },
   {
@@ -117,6 +117,24 @@
     "carrier_rate": 1800,
     "updated_at": "2026-11-16T21:21:17.015921+00:00",
     "lane": "ALPHARETTA GA-BELCAMP MD"
+  },
+  {
+    "pro": "8890470",
+    "status": "OPEN",
+    "spot": true,
+    "pu_date": "2026-11-17",
+    "pu_city": "WHITEHALL",
+    "pu_state": "NY",
+    "pu_hours": "",
+    "del_date": "2026-11-17",
+    "del_city": "FORT MYERS",
+    "del_state": "FL",
+    "del_hours": "",
+    "equipment": "Van",
+    "weight_lbs": 41580,
+    "carrier_rate": 5000,
+    "updated_at": "2026-11-17T13:01:01.943264+00:00",
+    "lane": "WHITEHALL NY-FORT MYERS FL"
   },
   {
     "pro": "51145",
