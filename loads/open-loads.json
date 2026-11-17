@@ -136,6 +136,23 @@
     "lane": "MACON GA-AUGUSTA GA"
   },
   {
+    "pro": "51498",
+    "status": "OPEN",
+    "pu_date": "2026-11-18",
+    "pu_city": "GAINESVILLE",
+    "pu_state": "GA",
+    "pu_hours": "0800-1600",
+    "del_date": "2026-11-18",
+    "del_city": "GLENNVILLE",
+    "del_state": "GA",
+    "del_hours": "0800-1700",
+    "equipment": "26' Straight Box Truck",
+    "weight_lbs": 5611,
+    "carrier_rate": 600,
+    "updated_at": "2026-11-17T21:19:34.595983+00:00",
+    "lane": "GAINESVILLE GA-GLENNVILLE GA"
+  },
+  {
     "pro": "8890471",
     "status": "OPEN",
     "spot": true,
