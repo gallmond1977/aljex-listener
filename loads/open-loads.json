@@ -1,22 +1,5 @@
 [
   {
-    "pro": "51483",
-    "status": "OPEN",
-    "pu_date": "2026-11-17",
-    "pu_city": "MOUNT PLEASANT",
-    "pu_state": "TN",
-    "pu_hours": "0800-1600",
-    "del_date": "2026-11-18",
-    "del_city": "LAWRENCEVILLE",
-    "del_state": "GA",
-    "del_hours": "0700-0800",
-    "equipment": "26' Straight Box Truck",
-    "weight_lbs": 3000,
-    "carrier_rate": 550,
-    "updated_at": "2026-11-17T17:25:56.886037+00:00",
-    "lane": "MOUNT PLEASANT TN-LAWRENCEVILLE GA"
-  },
-  {
     "pro": "8890472",
     "status": "OPEN",
     "spot": true,
@@ -782,23 +765,6 @@
     "carrier_rate": 2500,
     "updated_at": "2026-11-17T17:30:24.695738+00:00",
     "lane": "OAKLAND TN-PHENIX CITY AL"
-  },
-  {
-    "pro": "51469",
-    "status": "LOADED",
-    "pu_date": "2026-11-17",
-    "pu_city": "MOUNT PLEASANT",
-    "pu_state": "TN",
-    "pu_hours": "0800-1600",
-    "del_date": "2026-11-18",
-    "del_city": "LAWRENCEVILLE",
-    "del_state": "GA",
-    "del_hours": "0700-1500",
-    "equipment": "Van",
-    "weight_lbs": 14000,
-    "carrier_rate": 1100,
-    "updated_at": "2026-11-17T17:35:48.899759+00:00",
-    "lane": "MOUNT PLEASANT TN-LAWRENCEVILLE GA"
   },
   {
     "pro": "51432",
