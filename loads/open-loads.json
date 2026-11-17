@@ -34,23 +34,6 @@
     "lane": "MOUNT PLEASANT TN-CORINTH MS"
   },
   {
-    "pro": "51478",
-    "status": "OPEN",
-    "pu_date": "2026-11-17",
-    "pu_city": "BUENA VISTA",
-    "pu_state": "GA",
-    "pu_hours": "0630-1600",
-    "del_date": "2026-11-18",
-    "del_city": "CHARLOTTE",
-    "del_state": "NC",
-    "del_hours": "0800-1400",
-    "equipment": "Van",
-    "weight_lbs": 43500,
-    "carrier_rate": 1000,
-    "updated_at": "2026-11-17T15:57:44.525595+00:00",
-    "lane": "BUENA VISTA GA-CHARLOTTE NC"
-  },
-  {
     "pro": "51145",
     "status": "OPEN",
     "pu_date": "2026-11-18",
@@ -596,7 +579,7 @@
   },
   {
     "pro": "51378",
-    "status": "DELIVERED",
+    "status": "RELEASED",
     "pu_date": "2026-11-12",
     "pu_city": "WINCHESTER",
     "pu_state": "KY",
@@ -608,7 +591,7 @@
     "equipment": "Van",
     "weight_lbs": 9600,
     "carrier_rate": 1100,
-    "updated_at": "2026-11-13T12:31:26.038918+00:00",
+    "updated_at": "2026-11-17T16:13:17.275050+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
@@ -664,7 +647,7 @@
   },
   {
     "pro": "51409",
-    "status": "DELIVERED",
+    "status": "RELEASED",
     "pu_date": "2026-11-13",
     "pu_city": "WINCHESTER",
     "pu_state": "KY",
@@ -676,7 +659,7 @@
     "equipment": "Van",
     "weight_lbs": 12990,
     "carrier_rate": 1100,
-    "updated_at": "2026-11-14T01:07:18.175027+00:00",
+    "updated_at": "2026-11-17T16:12:00.789004+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
