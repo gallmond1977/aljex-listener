@@ -51,21 +51,20 @@
     "lane": "MOUNT PLEASANT TN-LAWRENCEVILLE GA"
   },
   {
-    "pro": "8890470",
+    "pro": "51476",
     "status": "OPEN",
-    "spot": true,
     "pu_date": "2026-11-17",
     "pu_city": "WHITEHALL",
     "pu_state": "NY",
-    "pu_hours": "",
-    "del_date": "2026-11-17",
+    "pu_hours": "0700-1400",
+    "del_date": "2026-11-19",
     "del_city": "FORT MYERS",
     "del_state": "FL",
-    "del_hours": "",
-    "equipment": "Van",
+    "del_hours": "0800-1500",
+    "equipment": "Conestoga",
     "weight_lbs": 41580,
     "carrier_rate": 5000,
-    "updated_at": "2026-11-17T13:01:01.943264+00:00",
+    "updated_at": "2026-11-17T15:19:16.056432+00:00",
     "lane": "WHITEHALL NY-FORT MYERS FL"
   },
   {
