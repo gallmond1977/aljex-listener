@@ -29,8 +29,8 @@
     "del_hours": "0700-1500",
     "equipment": "Van",
     "weight_lbs": 14000,
-    "carrier_rate": 1000,
-    "updated_at": "2026-11-17T14:31:09.692320+00:00",
+    "carrier_rate": 1100,
+    "updated_at": "2026-11-17T15:33:23.646686+00:00",
     "lane": "MOUNT PLEASANT TN-LAWRENCEVILLE GA"
   },
   {
@@ -66,23 +66,6 @@
     "carrier_rate": null,
     "updated_at": "2026-11-13T14:02:37.629045+00:00",
     "lane": "OAKLAND TN-SALISBURY NC"
-  },
-  {
-    "pro": "51416",
-    "status": "OPEN",
-    "pu_date": "2026-11-18",
-    "pu_city": "HOUSTON",
-    "pu_state": "TX",
-    "pu_hours": "1230",
-    "del_date": "2026-11-20",
-    "del_city": "SANFORD",
-    "del_state": "FL",
-    "del_hours": "0700",
-    "equipment": "26' Straight Box Truck",
-    "weight_lbs": 7000,
-    "carrier_rate": 1800,
-    "updated_at": "2026-11-13T15:12:26.729391+00:00",
-    "lane": "HOUSTON TX-SANFORD FL"
   },
   {
     "pro": "51433",
@@ -151,6 +134,23 @@
     "carrier_rate": 550,
     "updated_at": "2026-11-17T14:59:38.310339+00:00",
     "lane": "MOUNT PLEASANT TN-CORINTH MS"
+  },
+  {
+    "pro": "51477",
+    "status": "OPEN",
+    "pu_date": "2026-11-18",
+    "pu_city": "SOUTH BOSTON",
+    "pu_state": "VA",
+    "pu_hours": "1200-1500",
+    "del_date": "2026-11-19",
+    "del_city": "HALEYVILLE",
+    "del_state": "AL",
+    "del_hours": "0730-0900",
+    "equipment": "Van",
+    "weight_lbs": 43000,
+    "carrier_rate": 1700,
+    "updated_at": "2026-11-17T15:32:08.026124+00:00",
+    "lane": "SOUTH BOSTON VA-HALEYVILLE AL"
   },
   {
     "pro": "51471",
@@ -408,23 +408,6 @@
     "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
-    "pro": "51339",
-    "status": "RELEASED",
-    "pu_date": "2026-11-06",
-    "pu_city": "HOUSTON",
-    "pu_state": "TX",
-    "pu_hours": "0700-1430",
-    "del_date": "2026-11-09",
-    "del_city": "SANFORD",
-    "del_state": "FL",
-    "del_hours": "0700",
-    "equipment": "26' Straight Box Truck",
-    "weight_lbs": 7000,
-    "carrier_rate": 2000,
-    "updated_at": "2026-11-10T15:42:44.200026+00:00",
-    "lane": "HOUSTON TX-SANFORD FL"
-  },
-  {
     "pro": "51269",
     "status": "RELEASED",
     "pu_date": "2026-11-09",
@@ -508,23 +491,6 @@
     "carrier_rate": 2900,
     "updated_at": "2026-11-16T15:28:49.491385+00:00",
     "lane": "OAKLAND TN-SALISBURY NC"
-  },
-  {
-    "pro": "51340",
-    "status": "RELEASED",
-    "pu_date": "2026-11-09",
-    "pu_city": "HOUSTON",
-    "pu_state": "TX",
-    "pu_hours": "1330",
-    "del_date": "2026-11-11",
-    "del_city": "SANFORD",
-    "del_state": "FL",
-    "del_hours": "0700",
-    "equipment": "26' Straight Box Truck",
-    "weight_lbs": 7000,
-    "carrier_rate": 1800,
-    "updated_at": "2026-11-12T13:16:22.237410+00:00",
-    "lane": "HOUSTON TX-SANFORD FL"
   },
   {
     "pro": "49855",
@@ -712,23 +678,6 @@
     "carrier_rate": 1100,
     "updated_at": "2026-11-14T01:07:18.175027+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
-  },
-  {
-    "pro": "51411",
-    "status": "RELEASED",
-    "pu_date": "2026-11-13",
-    "pu_city": "HOUSTON",
-    "pu_state": "TX",
-    "pu_hours": "1230",
-    "del_date": "2026-11-16",
-    "del_city": "SANFORD",
-    "del_state": "FL",
-    "del_hours": "0700",
-    "equipment": "26' Straight Box Truck",
-    "weight_lbs": 7000,
-    "carrier_rate": 1950,
-    "updated_at": "2026-11-16T12:46:11.579351+00:00",
-    "lane": "HOUSTON TX-SANFORD FL"
   },
   {
     "pro": "51384",
