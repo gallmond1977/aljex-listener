@@ -120,23 +120,6 @@
     "lane": "OAKLAND TN-SALISBURY NC"
   },
   {
-    "pro": "51404",
-    "status": "OPEN",
-    "pu_date": "2026-11-18",
-    "pu_city": "COLUMBUS",
-    "pu_state": "GA",
-    "pu_hours": "1300",
-    "del_date": "2026-11-19",
-    "del_city": "VAN WERT",
-    "del_state": "OH",
-    "del_hours": "0900",
-    "equipment": "Van",
-    "weight_lbs": 11500,
-    "carrier_rate": 1500,
-    "updated_at": "2026-11-11T20:11:09.299084+00:00",
-    "lane": "COLUMBUS GA-VAN WERT OH"
-  },
-  {
     "pro": "51416",
     "status": "OPEN",
     "pu_date": "2026-11-18",
@@ -864,7 +847,7 @@
     "equipment": "Van Hazmat",
     "weight_lbs": 44900,
     "carrier_rate": 2500,
-    "updated_at": "2026-11-17T14:17:00.617603+00:00",
+    "updated_at": "2026-11-17T14:23:33.715818+00:00",
     "lane": "OAKLAND TN-PHENIX CITY AL"
   },
   {
