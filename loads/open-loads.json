@@ -217,8 +217,8 @@
     "del_hours": "1900",
     "equipment": "Van",
     "weight_lbs": 9078,
-    "carrier_rate": null,
-    "updated_at": "2026-11-12T17:29:13.801687+00:00",
+    "carrier_rate": 2900,
+    "updated_at": "2026-11-17T13:44:28.802344+00:00",
     "lane": "WINCHESTER KY-JACKSONVILLE FL"
   },
   {
