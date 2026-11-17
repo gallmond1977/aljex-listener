@@ -17,6 +17,24 @@
     "lane": "MOUNT PLEASANT TN-CORINTH MS"
   },
   {
+    "pro": "8890472",
+    "status": "OPEN",
+    "spot": true,
+    "pu_date": "2026-11-17",
+    "pu_city": "EUFAULA",
+    "pu_state": "AL",
+    "pu_hours": "",
+    "del_date": "2026-11-19",
+    "del_city": "MIAMI",
+    "del_state": "FL",
+    "del_hours": "",
+    "equipment": "Van",
+    "weight_lbs": 14500,
+    "carrier_rate": 2000,
+    "updated_at": "2026-11-17T16:44:57.752261+00:00",
+    "lane": "EUFAULA AL-MIAMI FL"
+  },
+  {
     "pro": "51145",
     "status": "OPEN",
     "pu_date": "2026-11-18",
@@ -100,6 +118,24 @@
     "carrier_rate": 3230,
     "updated_at": "2026-11-16T15:42:43.004673+00:00",
     "lane": "JACKSONVILLE TX-ENGLEWOOD CO"
+  },
+  {
+    "pro": "8890471",
+    "status": "OPEN",
+    "spot": true,
+    "pu_date": "2026-11-18",
+    "pu_city": "WILMINGTON",
+    "pu_state": "NC",
+    "pu_hours": "",
+    "del_date": "2026-11-19",
+    "del_city": "SAVANNAH",
+    "del_state": "GA",
+    "del_hours": "",
+    "equipment": "Flatbed",
+    "weight_lbs": 46500,
+    "carrier_rate": 1300,
+    "updated_at": "2026-11-17T16:41:08.805170+00:00",
+    "lane": "WILMINGTON NC-SAVANNAH GA"
   },
   {
     "pro": "51471",
@@ -200,7 +236,7 @@
     "equipment": "Van",
     "weight_lbs": 6272,
     "carrier_rate": null,
-    "updated_at": "2026-11-17T16:38:51.866432+00:00",
+    "updated_at": "2026-11-17T16:40:31.510413+00:00",
     "lane": "WINCHESTER KY-UXBRIDGE MA"
   },
   {
