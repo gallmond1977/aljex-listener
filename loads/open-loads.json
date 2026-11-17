@@ -409,23 +409,6 @@
     "lane": "LA PORTE TX-PIEDMONT SC"
   },
   {
-    "pro": "51128",
-    "status": "RELEASED",
-    "pu_date": "2026-11-03",
-    "pu_city": "MONTEZUMA",
-    "pu_state": "GA",
-    "pu_hours": "1300",
-    "del_date": "2026-11-07",
-    "del_city": "TRACY",
-    "del_state": "CA",
-    "del_hours": "0345",
-    "equipment": "Reefer",
-    "weight_lbs": 13650,
-    "carrier_rate": 4800,
-    "updated_at": "2026-11-10T15:13:57.169423+00:00",
-    "lane": "MONTEZUMA GA-TRACY CA"
-  },
-  {
     "pro": "51179",
     "status": "RELEASED",
     "pu_date": "2026-11-06",
@@ -801,7 +784,7 @@
   },
   {
     "pro": "51386",
-    "status": "COVERED",
+    "status": "PICKUP",
     "pu_date": "2026-11-17",
     "pu_city": "OAKLAND",
     "pu_state": "TN",
@@ -813,7 +796,7 @@
     "equipment": "Van Hazmat",
     "weight_lbs": 44900,
     "carrier_rate": 2500,
-    "updated_at": "2026-11-17T14:23:33.715818+00:00",
+    "updated_at": "2026-11-17T15:10:30.255407+00:00",
     "lane": "OAKLAND TN-PHENIX CITY AL"
   },
   {
