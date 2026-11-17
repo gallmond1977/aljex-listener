@@ -81,25 +81,8 @@
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 7000,
     "carrier_rate": 1000,
-    "updated_at": "2026-11-17T18:59:34.876119+00:00",
+    "updated_at": "2026-11-17T19:50:13.335746+00:00",
     "lane": "UNION CITY GA-SANFORD FL"
-  },
-  {
-    "pro": "51489",
-    "status": "OPEN",
-    "pu_date": "2026-11-18",
-    "pu_city": "SPINDALE",
-    "pu_state": "NC",
-    "pu_hours": "1000",
-    "del_date": "2026-11-18",
-    "del_city": "LANCASTER",
-    "del_state": "SC",
-    "del_hours": "ETA",
-    "equipment": "Flatbed Hot Shot",
-    "weight_lbs": 5290,
-    "carrier_rate": 450,
-    "updated_at": "2026-11-17T19:45:11.471637+00:00",
-    "lane": "SPINDALE NC-LANCASTER SC"
   },
   {
     "pro": "8890471",
