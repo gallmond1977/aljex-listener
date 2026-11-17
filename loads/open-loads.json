@@ -329,7 +329,7 @@
     "pu_date": "2026-11-23",
     "pu_city": "WINCHESTER",
     "pu_state": "KY",
-    "pu_hours": "0800-1030",
+    "pu_hours": "0900-1030",
     "del_date": "2026-11-23",
     "del_city": "JOLIET",
     "del_state": "IL",
@@ -337,7 +337,7 @@
     "equipment": "Van",
     "weight_lbs": 11280,
     "carrier_rate": 1000,
-    "updated_at": "2026-11-17T13:12:26.310923+00:00",
+    "updated_at": "2026-11-17T13:16:55.058447+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
@@ -801,7 +801,7 @@
   },
   {
     "pro": "51353",
-    "status": "CONSIGNEE",
+    "status": "DELIVERED",
     "pu_date": "2026-11-13",
     "pu_city": "MONTEZUMA",
     "pu_state": "GA",
@@ -813,7 +813,7 @@
     "equipment": "Reefer",
     "weight_lbs": 39000,
     "carrier_rate": 4800,
-    "updated_at": "2026-11-17T13:08:58.056233+00:00",
+    "updated_at": "2026-11-17T13:18:23.203632+00:00",
     "lane": "MONTEZUMA GA-TRACY CA"
   },
   {
