@@ -22,7 +22,7 @@
     "pu_date": "2026-11-17",
     "pu_city": "BUENA VISTA",
     "pu_state": "GA",
-    "pu_hours": "0630-1400",
+    "pu_hours": "0630-1600",
     "del_date": "2026-11-18",
     "del_city": "CHARLOTTE",
     "del_state": "NC",
@@ -30,7 +30,7 @@
     "equipment": "Van",
     "weight_lbs": 43500,
     "carrier_rate": 1000,
-    "updated_at": "2026-11-17T15:51:35.291923+00:00",
+    "updated_at": "2026-11-17T15:57:44.525595+00:00",
     "lane": "BUENA VISTA GA-CHARLOTTE NC"
   },
   {
