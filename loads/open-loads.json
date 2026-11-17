@@ -17,23 +17,6 @@
     "lane": "LAGRANGE GA-ORLANDO FL"
   },
   {
-    "pro": "51469",
-    "status": "OPEN",
-    "pu_date": "2026-11-17",
-    "pu_city": "MOUNT PLEASANT",
-    "pu_state": "TN",
-    "pu_hours": "0800-1600",
-    "del_date": "2026-11-18",
-    "del_city": "LAWRENCEVILLE",
-    "del_state": "GA",
-    "del_hours": "0700-1500",
-    "equipment": "Van",
-    "weight_lbs": 14000,
-    "carrier_rate": 1100,
-    "updated_at": "2026-11-17T15:42:03.255568+00:00",
-    "lane": "MOUNT PLEASANT TN-LAWRENCEVILLE GA"
-  },
-  {
     "pro": "51145",
     "status": "OPEN",
     "pu_date": "2026-11-18",
