@@ -12,8 +12,8 @@
     "del_hours": "0800-1200",
     "equipment": "Van",
     "weight_lbs": 36000,
-    "carrier_rate": 1700,
-    "updated_at": "2026-11-17T13:37:41.271285+00:00",
+    "carrier_rate": 1800,
+    "updated_at": "2026-11-17T15:36:46.515434+00:00",
     "lane": "LAGRANGE GA-ORLANDO FL"
   },
   {
@@ -30,7 +30,7 @@
     "equipment": "Van",
     "weight_lbs": 14000,
     "carrier_rate": 1100,
-    "updated_at": "2026-11-17T15:33:23.646686+00:00",
+    "updated_at": "2026-11-17T15:40:20.873354+00:00",
     "lane": "MOUNT PLEASANT TN-LAWRENCEVILLE GA"
   },
   {
