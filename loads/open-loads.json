@@ -201,7 +201,7 @@
     "equipment": "Van",
     "weight_lbs": 15000,
     "carrier_rate": 550,
-    "updated_at": "2026-11-17T14:39:03.757216+00:00",
+    "updated_at": "2026-11-17T14:52:36.660382+00:00",
     "lane": "MOUNT PLEASANT TN-CORINTH MS"
   },
   {
@@ -801,7 +801,7 @@
   },
   {
     "pro": "51384",
-    "status": "DISPATCHED",
+    "status": "PICKUP",
     "pu_date": "2026-11-17",
     "pu_city": "OAKLAND",
     "pu_state": "TN",
@@ -813,7 +813,7 @@
     "equipment": "Van Hazmat",
     "weight_lbs": 44900,
     "carrier_rate": 3000,
-    "updated_at": "2026-11-17T13:38:32.716166+00:00",
+    "updated_at": "2026-11-17T14:52:59.738821+00:00",
     "lane": "OAKLAND TN-SALISBURY NC"
   },
   {
