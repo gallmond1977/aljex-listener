@@ -94,11 +94,11 @@
     "del_date": "2026-11-18",
     "del_city": "LANCASTER",
     "del_state": "SC",
-    "del_hours": "0800-0900",
+    "del_hours": "ETA",
     "equipment": "Flatbed Hot Shot",
-    "weight_lbs": 6520,
+    "weight_lbs": 5290,
     "carrier_rate": 450,
-    "updated_at": "2026-11-17T19:19:52.291848+00:00",
+    "updated_at": "2026-11-17T19:23:23.176096+00:00",
     "lane": "SPINDALE NC-LANCASTER SC"
   },
   {
