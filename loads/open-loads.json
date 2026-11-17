@@ -81,7 +81,7 @@
     "equipment": "Van",
     "weight_lbs": 44000,
     "carrier_rate": 850,
-    "updated_at": "2026-11-17T20:49:33.583715+00:00",
+    "updated_at": "2026-11-17T21:00:11.475379+00:00",
     "lane": "WADESBORO NC-ATLANTA GA"
   },
   {
@@ -97,8 +97,42 @@
     "del_hours": "0800-1600",
     "equipment": "Flatbed",
     "weight_lbs": 47000,
-    "carrier_rate": 600,
-    "updated_at": "2026-11-17T20:59:23.419918+00:00",
+    "carrier_rate": 625,
+    "updated_at": "2026-11-17T21:02:59.927066+00:00",
+    "lane": "MACON GA-AUGUSTA GA"
+  },
+  {
+    "pro": "51496",
+    "status": "OPEN",
+    "pu_date": "2026-11-18",
+    "pu_city": "MACON",
+    "pu_state": "GA",
+    "pu_hours": "",
+    "del_date": "2026-11-18",
+    "del_city": "AUGUSTA",
+    "del_state": "GA",
+    "del_hours": "0800-1600",
+    "equipment": "Flatbed",
+    "weight_lbs": 47000,
+    "carrier_rate": 625,
+    "updated_at": "2026-11-17T21:04:30.809886+00:00",
+    "lane": "MACON GA-AUGUSTA GA"
+  },
+  {
+    "pro": "51497",
+    "status": "OPEN",
+    "pu_date": "2026-11-18",
+    "pu_city": "MACON",
+    "pu_state": "GA",
+    "pu_hours": "",
+    "del_date": "2026-11-18",
+    "del_city": "AUGUSTA",
+    "del_state": "GA",
+    "del_hours": "0800-1600",
+    "equipment": "Flatbed",
+    "weight_lbs": 47000,
+    "carrier_rate": null,
+    "updated_at": "2026-11-17T21:05:12.378627+00:00",
     "lane": "MACON GA-AUGUSTA GA"
   },
   {
