@@ -768,7 +768,7 @@
   },
   {
     "pro": "51386",
-    "status": "PICKUP",
+    "status": "LOADED",
     "pu_date": "2026-11-17",
     "pu_city": "OAKLAND",
     "pu_state": "TN",
@@ -780,12 +780,12 @@
     "equipment": "Van Hazmat",
     "weight_lbs": 44900,
     "carrier_rate": 2500,
-    "updated_at": "2026-11-17T17:28:31.930482+00:00",
+    "updated_at": "2026-11-17T17:30:24.695738+00:00",
     "lane": "OAKLAND TN-PHENIX CITY AL"
   },
   {
     "pro": "51469",
-    "status": "PICKUP",
+    "status": "LOADED",
     "pu_date": "2026-11-17",
     "pu_city": "MOUNT PLEASANT",
     "pu_state": "TN",
@@ -797,7 +797,7 @@
     "equipment": "Van",
     "weight_lbs": 14000,
     "carrier_rate": 1100,
-    "updated_at": "2026-11-17T16:33:14.066300+00:00",
+    "updated_at": "2026-11-17T17:34:14.505067+00:00",
     "lane": "MOUNT PLEASANT TN-LAWRENCEVILLE GA"
   },
   {
