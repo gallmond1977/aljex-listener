@@ -85,6 +85,23 @@
     "lane": "WADESBORO NC-ATLANTA GA"
   },
   {
+    "pro": "51495",
+    "status": "OPEN",
+    "pu_date": "2026-11-18",
+    "pu_city": "MACON",
+    "pu_state": "GA",
+    "pu_hours": "",
+    "del_date": "2026-11-18",
+    "del_city": "AUGUSTA",
+    "del_state": "GA",
+    "del_hours": "0800-1600",
+    "equipment": "Flatbed",
+    "weight_lbs": 47000,
+    "carrier_rate": 600,
+    "updated_at": "2026-11-17T20:59:23.419918+00:00",
+    "lane": "MACON GA-AUGUSTA GA"
+  },
+  {
     "pro": "8890471",
     "status": "OPEN",
     "spot": true,
