@@ -1,22 +1,5 @@
 [
   {
-    "pro": "51427",
-    "status": "OPEN",
-    "pu_date": "2026-11-17",
-    "pu_city": "COLUMBUS",
-    "pu_state": "GA",
-    "pu_hours": "0800-1530",
-    "del_date": "2026-11-18",
-    "del_city": "FORT LAUDERDALE",
-    "del_state": "FL",
-    "del_hours": "0700-1600",
-    "equipment": "Flatbed w/ Tarps",
-    "weight_lbs": 47277,
-    "carrier_rate": 2300,
-    "updated_at": "2026-11-16T19:13:36.103865+00:00",
-    "lane": "COLUMBUS GA-FORT LAUDERDALE FL"
-  },
-  {
     "pro": "51457",
     "status": "OPEN",
     "pu_date": "2026-11-17",
