@@ -13,8 +13,8 @@
     "del_hours": "",
     "equipment": "Van",
     "weight_lbs": 14500,
-    "carrier_rate": 2200,
-    "updated_at": "2026-11-17T18:24:54.364906+00:00",
+    "carrier_rate": 2350,
+    "updated_at": "2026-11-17T18:53:13.281126+00:00",
     "lane": "EUFAULA AL-MIAMI FL"
   },
   {
@@ -117,7 +117,7 @@
     "equipment": "Flatbed",
     "weight_lbs": 46500,
     "carrier_rate": 1500,
-    "updated_at": "2026-11-17T18:07:16.210930+00:00",
+    "updated_at": "2026-11-17T18:53:27.957262+00:00",
     "lane": "WILMINGTON NC-SAVANNAH GA"
   },
   {
@@ -166,9 +166,9 @@
     "del_state": "SC",
     "del_hours": "0800-1400",
     "equipment": "Van",
-    "weight_lbs": 44000,
+    "weight_lbs": 43467,
     "carrier_rate": 2300,
-    "updated_at": "2026-11-17T18:42:10.104270+00:00",
+    "updated_at": "2026-11-17T18:53:17.224824+00:00",
     "lane": "SOUTHAVEN MS-CHARLESTON SC"
   },
   {
