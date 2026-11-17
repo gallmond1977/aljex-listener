@@ -226,15 +226,15 @@
     "pu_date": "2026-11-24",
     "pu_city": "WINCHESTER",
     "pu_state": "KY",
-    "pu_hours": "",
-    "del_date": "",
+    "pu_hours": "NEEDED",
+    "del_date": "2026-11-25",
     "del_city": "BURLINGTON",
     "del_state": "NJ",
     "del_hours": "",
     "equipment": "Van",
     "weight_lbs": 5775,
     "carrier_rate": null,
-    "updated_at": "2026-11-17T16:29:20.658510+00:00",
+    "updated_at": "2026-11-17T16:34:23.410124+00:00",
     "lane": "WINCHESTER KY-BURLINGTON NJ"
   },
   {
