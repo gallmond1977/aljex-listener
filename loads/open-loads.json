@@ -1,22 +1,5 @@
 [
   {
-    "pro": "51468",
-    "status": "OPEN",
-    "pu_date": "2026-11-17",
-    "pu_city": "LAGRANGE",
-    "pu_state": "GA",
-    "pu_hours": "1000-1600",
-    "del_date": "2026-11-18",
-    "del_city": "ORLANDO",
-    "del_state": "FL",
-    "del_hours": "0800-1200",
-    "equipment": "Van",
-    "weight_lbs": 36000,
-    "carrier_rate": 1800,
-    "updated_at": "2026-11-17T16:17:21.439381+00:00",
-    "lane": "LAGRANGE GA-ORLANDO FL"
-  },
-  {
     "pro": "51475",
     "status": "OPEN",
     "pu_date": "2026-11-17",
@@ -236,6 +219,23 @@
     "carrier_rate": null,
     "updated_at": "2026-11-13T14:41:53.087856+00:00",
     "lane": "OAKLAND TN-PHENIX CITY AL"
+  },
+  {
+    "pro": "51479",
+    "status": "OPEN",
+    "pu_date": "2026-11-24",
+    "pu_city": "WINCHESTER",
+    "pu_state": "KY",
+    "pu_hours": "",
+    "del_date": "",
+    "del_city": "BURLINGTON",
+    "del_state": "NJ",
+    "del_hours": "",
+    "equipment": "Van",
+    "weight_lbs": 5775,
+    "carrier_rate": null,
+    "updated_at": "2026-11-17T16:29:20.658510+00:00",
+    "lane": "WINCHESTER KY-BURLINGTON NJ"
   },
   {
     "pro": "49857",
@@ -676,7 +676,7 @@
     "equipment": "Van Hazmat",
     "weight_lbs": 44900,
     "carrier_rate": 2500,
-    "updated_at": "2026-11-17T16:24:49.459811+00:00",
+    "updated_at": "2026-11-17T16:27:27.893102+00:00",
     "lane": "OAKLAND TN-PHENIX CITY AL"
   },
   {
