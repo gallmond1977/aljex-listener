@@ -287,7 +287,24 @@
     "equipment": "Van",
     "weight_lbs": 5340,
     "carrier_rate": null,
-    "updated_at": "2026-11-17T16:50:07.208147+00:00",
+    "updated_at": "2026-11-17T16:52:56.890489+00:00",
+    "lane": "WINCHESTER KY-JACKSONVILLE FL"
+  },
+  {
+    "pro": "51482",
+    "status": "OPEN",
+    "pu_date": "2026-11-30",
+    "pu_city": "WINCHESTER",
+    "pu_state": "KY",
+    "pu_hours": "NEED",
+    "del_date": "2026-12-01",
+    "del_city": "JACKSONVILLE",
+    "del_state": "FL",
+    "del_hours": "REQ",
+    "equipment": "Van",
+    "weight_lbs": 15685,
+    "carrier_rate": null,
+    "updated_at": "2026-11-17T16:54:45.796802+00:00",
     "lane": "WINCHESTER KY-JACKSONVILLE FL"
   },
   {
