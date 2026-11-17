@@ -1,22 +1,5 @@
 [
   {
-    "pro": "51475",
-    "status": "OPEN",
-    "pu_date": "2026-11-17",
-    "pu_city": "MOUNT PLEASANT",
-    "pu_state": "TN",
-    "pu_hours": "1100-1500",
-    "del_date": "2026-11-18",
-    "del_city": "CORINTH",
-    "del_state": "MS",
-    "del_hours": "0730-1430",
-    "equipment": "Van",
-    "weight_lbs": 15000,
-    "carrier_rate": 550,
-    "updated_at": "2026-11-17T16:04:40.201084+00:00",
-    "lane": "MOUNT PLEASANT TN-CORINTH MS"
-  },
-  {
     "pro": "8890472",
     "status": "OPEN",
     "spot": true,
@@ -289,6 +272,23 @@
     "carrier_rate": null,
     "updated_at": "2026-11-17T16:34:23.410124+00:00",
     "lane": "WINCHESTER KY-BURLINGTON NJ"
+  },
+  {
+    "pro": "51481",
+    "status": "OPEN",
+    "pu_date": "2026-11-30",
+    "pu_city": "WINCHESTER",
+    "pu_state": "KY",
+    "pu_hours": "NEED",
+    "del_date": "2026-12-01",
+    "del_city": "JACKSONVILLE",
+    "del_state": "FL",
+    "del_hours": "REQ",
+    "equipment": "Van",
+    "weight_lbs": 5340,
+    "carrier_rate": null,
+    "updated_at": "2026-11-17T16:50:07.208147+00:00",
+    "lane": "WINCHESTER KY-JACKSONVILLE FL"
   },
   {
     "pro": "49857",
