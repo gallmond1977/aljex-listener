@@ -56,7 +56,7 @@
     "pu_date": "2026-11-17",
     "pu_city": "LAGRANGE",
     "pu_state": "GA",
-    "pu_hours": "1200-1600",
+    "pu_hours": "1000-1600",
     "del_date": "2026-11-18",
     "del_city": "ORLANDO",
     "del_state": "FL",
@@ -64,7 +64,7 @@
     "equipment": "Van",
     "weight_lbs": 36000,
     "carrier_rate": 1700,
-    "updated_at": "2026-11-17T13:03:42.801451+00:00",
+    "updated_at": "2026-11-17T13:37:41.271285+00:00",
     "lane": "LAGRANGE GA-ORLANDO FL"
   },
   {
@@ -949,7 +949,7 @@
     "equipment": "Van Hazmat",
     "weight_lbs": 44900,
     "carrier_rate": 3000,
-    "updated_at": "2026-11-17T13:35:04.318990+00:00",
+    "updated_at": "2026-11-17T13:38:32.716166+00:00",
     "lane": "OAKLAND TN-SALISBURY NC"
   },
   {
