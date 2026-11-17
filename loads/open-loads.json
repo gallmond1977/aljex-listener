@@ -189,6 +189,23 @@
     "lane": "ATHENS AL-GULFPORT MS"
   },
   {
+    "pro": "51491",
+    "status": "OPEN",
+    "pu_date": "2026-11-19",
+    "pu_city": "ATHENS",
+    "pu_state": "AL",
+    "pu_hours": "0700-1500",
+    "del_date": "2026-11-20",
+    "del_city": "GULFPORT",
+    "del_state": "MS",
+    "del_hours": "0730-1030",
+    "equipment": "Van",
+    "weight_lbs": 43532,
+    "carrier_rate": 1450,
+    "updated_at": "2026-11-17T20:52:21.212672+00:00",
+    "lane": "ATHENS AL-GULFPORT MS"
+  },
+  {
     "pro": "51459",
     "status": "OPEN",
     "pu_date": "2026-11-20",
