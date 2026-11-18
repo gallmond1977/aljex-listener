@@ -85,23 +85,6 @@
     "lane": "MACON GA-AUGUSTA GA"
   },
   {
-    "pro": "51506",
-    "status": "OPEN",
-    "pu_date": "2026-11-18",
-    "pu_city": "EUFAULA",
-    "pu_state": "AL",
-    "pu_hours": "1000-1400",
-    "del_date": "2026-11-20",
-    "del_city": "MIAMI",
-    "del_state": "FL",
-    "del_hours": "0900-1600",
-    "equipment": "Van",
-    "weight_lbs": 14643,
-    "carrier_rate": 2500,
-    "updated_at": "2026-11-18T15:12:13.432266+00:00",
-    "lane": "EUFAULA AL-MIAMI FL"
-  },
-  {
     "pro": "51490",
     "status": "OPEN",
     "pu_date": "2026-11-19",
@@ -897,7 +880,7 @@
     "equipment": "Van Hazmat",
     "weight_lbs": 44900,
     "carrier_rate": 3000,
-    "updated_at": "2026-11-17T16:37:15.304358+00:00",
+    "updated_at": "2026-11-18T15:17:52.552526+00:00",
     "lane": "OAKLAND TN-SALISBURY NC"
   },
   {
@@ -914,7 +897,7 @@
     "equipment": "Van Hazmat",
     "weight_lbs": 44900,
     "carrier_rate": 2500,
-    "updated_at": "2026-11-18T15:04:10.694464+00:00",
+    "updated_at": "2026-11-18T15:18:04.343765+00:00",
     "lane": "OAKLAND TN-PHENIX CITY AL"
   },
   {
