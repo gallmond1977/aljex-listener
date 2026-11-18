@@ -115,7 +115,7 @@
     "equipment": "Van",
     "weight_lbs": 11280,
     "carrier_rate": 1000,
-    "updated_at": "2026-11-18T15:14:00.699376+00:00",
+    "updated_at": "2026-11-18T21:13:17.396115+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
@@ -217,7 +217,7 @@
     "equipment": "Van",
     "weight_lbs": 6272,
     "carrier_rate": null,
-    "updated_at": "2026-11-17T16:40:31.510413+00:00",
+    "updated_at": "2026-11-18T21:13:41.592406+00:00",
     "lane": "WINCHESTER KY-UXBRIDGE MA"
   },
   {
@@ -251,7 +251,7 @@
     "equipment": "Van",
     "weight_lbs": 5775,
     "carrier_rate": null,
-    "updated_at": "2026-11-18T13:04:44.460517+00:00",
+    "updated_at": "2026-11-18T21:13:54.872888+00:00",
     "lane": "WINCHESTER KY-BURLINGTON NJ"
   },
   {
@@ -285,7 +285,7 @@
     "equipment": "Van",
     "weight_lbs": 5340,
     "carrier_rate": null,
-    "updated_at": "2026-11-18T19:38:58.660591+00:00",
+    "updated_at": "2026-11-18T21:14:20.873549+00:00",
     "lane": "WINCHESTER KY-JACKSONVILLE FL"
   },
   {
@@ -302,7 +302,7 @@
     "equipment": "Van",
     "weight_lbs": 15685,
     "carrier_rate": null,
-    "updated_at": "2026-11-17T20:01:53.741877+00:00",
+    "updated_at": "2026-11-18T21:14:08.043245+00:00",
     "lane": "WINCHESTER KY-JACKSONVILLE FL"
   },
   {
@@ -761,7 +761,7 @@
     "equipment": "Van",
     "weight_lbs": 11481,
     "carrier_rate": 3800,
-    "updated_at": "2026-11-18T15:39:34.799208+00:00",
+    "updated_at": "2026-11-18T21:12:17.630569+00:00",
     "lane": "WINCHESTER KY-UXBRIDGE MA"
   },
   {
@@ -778,7 +778,7 @@
     "equipment": "Van",
     "weight_lbs": 9078,
     "carrier_rate": 3000,
-    "updated_at": "2026-11-18T18:48:50.403539+00:00",
+    "updated_at": "2026-11-18T21:11:57.923796+00:00",
     "lane": "WINCHESTER KY-JACKSONVILLE FL"
   },
   {
@@ -795,7 +795,7 @@
     "equipment": "Van",
     "weight_lbs": 12815,
     "carrier_rate": 2600,
-    "updated_at": "2026-11-18T15:46:56.728536+00:00",
+    "updated_at": "2026-11-18T21:11:44.255784+00:00",
     "lane": "WINCHESTER KY-BURLINGTON NJ"
   },
   {
@@ -812,7 +812,7 @@
     "equipment": "Van",
     "weight_lbs": 11280,
     "carrier_rate": 1100,
-    "updated_at": "2026-11-18T14:43:00.541717+00:00",
+    "updated_at": "2026-11-18T21:12:58.792954+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
@@ -829,7 +829,7 @@
     "equipment": "Van",
     "weight_lbs": 11280,
     "carrier_rate": 1000,
-    "updated_at": "2026-11-18T14:49:01.997890+00:00",
+    "updated_at": "2026-11-18T21:12:44.919246+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
