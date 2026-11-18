@@ -133,7 +133,7 @@
     "equipment": "Van",
     "weight_lbs": 11280,
     "carrier_rate": 1000,
-    "updated_at": "2026-11-17T13:13:06.155598+00:00",
+    "updated_at": "2026-11-18T14:44:40.986213+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
@@ -254,6 +254,23 @@
     "carrier_rate": 4200,
     "updated_at": "2026-11-18T14:21:35.153919+00:00",
     "lane": "PHENIX CITY AL-ROCKLAND ME"
+  },
+  {
+    "pro": "51505",
+    "status": "OPEN",
+    "pu_date": "2026-11-20",
+    "pu_city": "LAGRANGE",
+    "pu_state": "GA",
+    "pu_hours": "0800-1200",
+    "del_date": "2026-11-20",
+    "del_city": "NEWNAN",
+    "del_state": "GA",
+    "del_hours": "8-4",
+    "equipment": "Van",
+    "weight_lbs": 40000,
+    "carrier_rate": null,
+    "updated_at": "2026-11-18T14:44:56.335327+00:00",
+    "lane": "LAGRANGE GA-NEWNAN GA"
   },
   {
     "pro": "50717",
@@ -1000,12 +1017,12 @@
     "equipment": "Van",
     "weight_lbs": 9078,
     "carrier_rate": 3000,
-    "updated_at": "2026-11-18T14:04:53.179299+00:00",
+    "updated_at": "2026-11-18T14:41:22.630595+00:00",
     "lane": "WINCHESTER KY-JACKSONVILLE FL"
   },
   {
     "pro": "51434",
-    "status": "COVERED",
+    "status": "DISPATCHED",
     "pu_date": "2026-11-18",
     "pu_city": "WINCHESTER",
     "pu_state": "KY",
@@ -1017,7 +1034,7 @@
     "equipment": "Van",
     "weight_lbs": 12815,
     "carrier_rate": 2600,
-    "updated_at": "2026-11-18T14:10:49.348963+00:00",
+    "updated_at": "2026-11-18T14:42:51.828162+00:00",
     "lane": "WINCHESTER KY-BURLINGTON NJ"
   },
   {
@@ -1033,8 +1050,8 @@
     "del_hours": "2100",
     "equipment": "Van",
     "weight_lbs": 11280,
-    "carrier_rate": 1000,
-    "updated_at": "2026-11-18T14:33:33.485952+00:00",
+    "carrier_rate": 1100,
+    "updated_at": "2026-11-18T14:43:00.541717+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
