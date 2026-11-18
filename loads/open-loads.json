@@ -98,7 +98,7 @@
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 9000,
     "carrier_rate": 350,
-    "updated_at": "2026-11-18T21:45:10.413767+00:00",
+    "updated_at": "2026-11-18T21:47:59.611901+00:00",
     "lane": "COLUMBUS GA-ATLANTA GA"
   },
   {
@@ -336,7 +336,7 @@
     "equipment": "Van Hazmat",
     "weight_lbs": 44900,
     "carrier_rate": null,
-    "updated_at": "2026-11-18T21:40:09.904436+00:00",
+    "updated_at": "2026-11-18T21:49:32.804522+00:00",
     "lane": "OAKLAND TN-SALISBURY NC"
   },
   {
