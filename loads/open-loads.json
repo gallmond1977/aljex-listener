@@ -2,18 +2,18 @@
   {
     "pro": "51495",
     "status": "OPEN",
-    "pu_date": "2026-11-18",
+    "pu_date": "2026-11-19",
     "pu_city": "MACON",
     "pu_state": "GA",
     "pu_hours": "0800-1630",
-    "del_date": "2026-11-19",
+    "del_date": "2026-11-20",
     "del_city": "AUGUSTA",
     "del_state": "GA",
     "del_hours": "0800-1600",
     "equipment": "Flatbed",
     "weight_lbs": 46000,
     "carrier_rate": 700,
-    "updated_at": "2026-11-18T20:54:28.167316+00:00",
+    "updated_at": "2026-11-18T21:31:40.317880+00:00",
     "lane": "MACON GA-AUGUSTA GA"
   },
   {
@@ -221,23 +221,6 @@
     "lane": "WINCHESTER KY-UXBRIDGE MA"
   },
   {
-    "pro": "51388",
-    "status": "OPEN",
-    "pu_date": "2026-11-24",
-    "pu_city": "OAKLAND",
-    "pu_state": "TN",
-    "pu_hours": "0800-1500",
-    "del_date": "",
-    "del_city": "PHENIX CITY",
-    "del_state": "AL",
-    "del_hours": "0600-1430",
-    "equipment": "Van Hazmat",
-    "weight_lbs": 44900,
-    "carrier_rate": null,
-    "updated_at": "2026-11-13T14:41:53.087856+00:00",
-    "lane": "OAKLAND TN-PHENIX CITY AL"
-  },
-  {
     "pro": "51479",
     "status": "OPEN",
     "pu_date": "2026-11-24",
@@ -272,6 +255,23 @@
     "lane": "RICHMOND VA-ORKNEY SPRINGS VA"
   },
   {
+    "pro": "51388",
+    "status": "OPEN",
+    "pu_date": "2026-11-30",
+    "pu_city": "OAKLAND",
+    "pu_state": "TN",
+    "pu_hours": "0800-1500",
+    "del_date": "2026-12-01",
+    "del_city": "PHENIX CITY",
+    "del_state": "AL",
+    "del_hours": "0600-1430",
+    "equipment": "Van Hazmat",
+    "weight_lbs": 44900,
+    "carrier_rate": 2000,
+    "updated_at": "2026-11-18T21:31:39.274831+00:00",
+    "lane": "OAKLAND TN-PHENIX CITY AL"
+  },
+  {
     "pro": "51481",
     "status": "OPEN",
     "pu_date": "2026-11-30",
@@ -304,6 +304,23 @@
     "carrier_rate": null,
     "updated_at": "2026-11-18T21:14:08.043245+00:00",
     "lane": "WINCHESTER KY-JACKSONVILLE FL"
+  },
+  {
+    "pro": "51512",
+    "status": "OPEN",
+    "pu_date": "2026-11-30",
+    "pu_city": "OAKLAND",
+    "pu_state": "TN",
+    "pu_hours": "1000-1500",
+    "del_date": "2026-12-01",
+    "del_city": "SALISBURY",
+    "del_state": "NC",
+    "del_hours": "0600-1100",
+    "equipment": "Van Hazmat",
+    "weight_lbs": 44900,
+    "carrier_rate": null,
+    "updated_at": "2026-11-18T21:33:52.791851+00:00",
+    "lane": "OAKLAND TN-SALISBURY NC"
   },
   {
     "pro": "49857",
@@ -527,6 +544,23 @@
     "lane": "WINCHESTER KY-JACKSONVILLE FL"
   },
   {
+    "pro": "51335",
+    "status": "RELEASED",
+    "pu_date": "2026-11-09",
+    "pu_city": "OAKLAND",
+    "pu_state": "TN",
+    "pu_hours": "0800-1500",
+    "del_date": "2026-11-11",
+    "del_city": "SALISBURY",
+    "del_state": "NC",
+    "del_hours": "0600-1100",
+    "equipment": "Van Hazmat",
+    "weight_lbs": 44900,
+    "carrier_rate": 2900,
+    "updated_at": "2026-11-16T15:28:49.491385+00:00",
+    "lane": "OAKLAND TN-SALISBURY NC"
+  },
+  {
     "pro": "49855",
     "status": "RELEASED",
     "pu_date": "2026-11-10",
@@ -663,6 +697,23 @@
     "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
+    "pro": "51383",
+    "status": "RELEASED",
+    "pu_date": "2026-11-12",
+    "pu_city": "OAKLAND",
+    "pu_state": "TN",
+    "pu_hours": "0800-1500",
+    "del_date": "2026-11-13",
+    "del_city": "SALISBURY",
+    "del_state": "NC",
+    "del_hours": "0600-1130",
+    "equipment": "Van Hazmat",
+    "weight_lbs": 44900,
+    "carrier_rate": 3000,
+    "updated_at": "2026-11-16T15:40:15.801439+00:00",
+    "lane": "OAKLAND TN-SALISBURY NC"
+  },
+  {
     "pro": "51428",
     "status": "RELEASED",
     "pu_date": "2026-11-12",
@@ -731,6 +782,23 @@
     "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
+    "pro": "51384",
+    "status": "RELEASED",
+    "pu_date": "2026-11-17",
+    "pu_city": "OAKLAND",
+    "pu_state": "TN",
+    "pu_hours": "0800-1200",
+    "del_date": "2026-11-18",
+    "del_city": "SALISBURY",
+    "del_state": "NC",
+    "del_hours": "0600-1100",
+    "equipment": "Van Hazmat",
+    "weight_lbs": 44900,
+    "carrier_rate": 3000,
+    "updated_at": "2026-11-18T20:17:40.708784+00:00",
+    "lane": "OAKLAND TN-SALISBURY NC"
+  },
+  {
     "pro": "51386",
     "status": "DELIVERED",
     "pu_date": "2026-11-17",
@@ -746,6 +814,23 @@
     "carrier_rate": 2500,
     "updated_at": "2026-11-18T16:16:48.676480+00:00",
     "lane": "OAKLAND TN-PHENIX CITY AL"
+  },
+  {
+    "pro": "51385",
+    "status": "LOADED",
+    "pu_date": "2026-11-18",
+    "pu_city": "OAKLAND",
+    "pu_state": "TN",
+    "pu_hours": "1000-1500",
+    "del_date": "2026-11-19",
+    "del_city": "SALISBURY",
+    "del_state": "NC",
+    "del_hours": "0600-1100",
+    "equipment": "Van Hazmat",
+    "weight_lbs": 44900,
+    "carrier_rate": 3000,
+    "updated_at": "2026-11-18T21:10:09.469791+00:00",
+    "lane": "OAKLAND TN-SALISBURY NC"
   },
   {
     "pro": "51432",
