@@ -664,23 +664,6 @@
     "lane": "PASADENA TX-PIEDMONT SC"
   },
   {
-    "pro": "51252",
-    "status": "RELEASED",
-    "pu_date": "2026-11-10",
-    "pu_city": "ATHENS",
-    "pu_state": "AL",
-    "pu_hours": "0700-1500",
-    "del_date": "2026-11-11",
-    "del_city": "GULFPORT",
-    "del_state": "MS",
-    "del_hours": "0700-1030",
-    "equipment": "Van",
-    "weight_lbs": 43107,
-    "carrier_rate": 1450,
-    "updated_at": "2026-11-11T14:25:57.042244+00:00",
-    "lane": "ATHENS AL-GULFPORT MS"
-  },
-  {
     "pro": "51360",
     "status": "RELEASED",
     "pu_date": "2026-11-10",
