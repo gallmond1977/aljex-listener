@@ -34,23 +34,6 @@
     "lane": "WINCHESTER KY-BURLINGTON NJ"
   },
   {
-    "pro": "51458",
-    "status": "OPEN",
-    "pu_date": "2026-11-18",
-    "pu_city": "JACKSONVILLE",
-    "pu_state": "TX",
-    "pu_hours": "1000-1500",
-    "del_date": "2026-11-20",
-    "del_city": "ENGLEWOOD",
-    "del_state": "CO",
-    "del_hours": "0730-1500",
-    "equipment": "Van",
-    "weight_lbs": 35000,
-    "carrier_rate": 3400,
-    "updated_at": "2026-11-18T13:38:11.362070+00:00",
-    "lane": "JACKSONVILLE TX-ENGLEWOOD CO"
-  },
-  {
     "pro": "51492",
     "status": "OPEN",
     "pu_date": "2026-11-18",
