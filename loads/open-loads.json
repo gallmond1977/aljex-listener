@@ -30,7 +30,7 @@
     "equipment": "Van",
     "weight_lbs": 12815,
     "carrier_rate": 2400,
-    "updated_at": "2026-11-17T20:26:32.810096+00:00",
+    "updated_at": "2026-11-18T13:26:23.222764+00:00",
     "lane": "WINCHESTER KY-BURLINGTON NJ"
   },
   {
@@ -79,9 +79,9 @@
     "del_state": "GA",
     "del_hours": "0800-1600",
     "equipment": "Flatbed",
-    "weight_lbs": 47000,
+    "weight_lbs": 46000,
     "carrier_rate": 625,
-    "updated_at": "2026-11-18T13:25:16.735639+00:00",
+    "updated_at": "2026-11-18T13:26:40.553372+00:00",
     "lane": "MACON GA-AUGUSTA GA"
   },
   {
