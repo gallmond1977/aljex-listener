@@ -64,7 +64,7 @@
     "equipment": "Van",
     "weight_lbs": 25000,
     "carrier_rate": 1800,
-    "updated_at": "2026-11-18T20:26:32.453971+00:00",
+    "updated_at": "2026-11-18T20:30:36.988237+00:00",
     "lane": "BUFFALO NY-BELCAMP MD"
   },
   {
@@ -114,8 +114,8 @@
     "del_hours": "0415",
     "equipment": "Reefer",
     "weight_lbs": 39000,
-    "carrier_rate": null,
-    "updated_at": "2026-11-17T13:00:09.272097+00:00",
+    "carrier_rate": 4700,
+    "updated_at": "2026-11-18T20:31:18.630914+00:00",
     "lane": "MONTEZUMA GA-TRACY CA"
   },
   {
