@@ -5,7 +5,7 @@
     "pu_date": "2026-11-18",
     "pu_city": "OAKLAND",
     "pu_state": "TN",
-    "pu_hours": "0800-1500",
+    "pu_hours": "1000-1500",
     "del_date": "2026-11-19",
     "del_city": "SALISBURY",
     "del_state": "NC",
@@ -13,7 +13,7 @@
     "equipment": "Van Hazmat",
     "weight_lbs": 44900,
     "carrier_rate": 2800,
-    "updated_at": "2026-11-18T13:38:57.238718+00:00",
+    "updated_at": "2026-11-18T13:49:57.257010+00:00",
     "lane": "OAKLAND TN-SALISBURY NC"
   },
   {
@@ -64,7 +64,7 @@
     "equipment": "Flatbed",
     "weight_lbs": 46000,
     "carrier_rate": 650,
-    "updated_at": "2026-11-18T13:39:44.199850+00:00",
+    "updated_at": "2026-11-18T13:48:52.511340+00:00",
     "lane": "MACON GA-AUGUSTA GA"
   },
   {
@@ -80,8 +80,8 @@
     "del_hours": "0800-1600",
     "equipment": "Flatbed",
     "weight_lbs": 47000,
-    "carrier_rate": 625,
-    "updated_at": "2026-11-17T21:05:33.129178+00:00",
+    "carrier_rate": 650,
+    "updated_at": "2026-11-18T13:49:41.483213+00:00",
     "lane": "MACON GA-AUGUSTA GA"
   },
   {
@@ -97,8 +97,8 @@
     "del_hours": "0800-1600",
     "equipment": "Flatbed",
     "weight_lbs": 47000,
-    "carrier_rate": null,
-    "updated_at": "2026-11-17T21:05:12.378627+00:00",
+    "carrier_rate": 650,
+    "updated_at": "2026-11-18T13:49:52.832852+00:00",
     "lane": "MACON GA-AUGUSTA GA"
   },
   {
