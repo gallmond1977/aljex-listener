@@ -120,23 +120,6 @@
     "lane": "EUFAULA AL-MIAMI FL"
   },
   {
-    "pro": "51472",
-    "status": "OPEN",
-    "pu_date": "2026-11-19",
-    "pu_city": "WINCHESTER",
-    "pu_state": "KY",
-    "pu_hours": "0900-1100",
-    "del_date": "2026-11-19",
-    "del_city": "JOLIET",
-    "del_state": "IL",
-    "del_hours": "2130",
-    "equipment": "Van",
-    "weight_lbs": 11280,
-    "carrier_rate": 1000,
-    "updated_at": "2026-11-18T14:44:40.986213+00:00",
-    "lane": "WINCHESTER KY-JOLIET IL"
-  },
-  {
     "pro": "51490",
     "status": "OPEN",
     "pu_date": "2026-11-19",
@@ -268,8 +251,8 @@
     "del_hours": "8-4",
     "equipment": "Van",
     "weight_lbs": 40000,
-    "carrier_rate": null,
-    "updated_at": "2026-11-18T14:44:56.335327+00:00",
+    "carrier_rate": 350,
+    "updated_at": "2026-11-18T14:50:10.717562+00:00",
     "lane": "LAGRANGE GA-NEWNAN GA"
   },
   {
@@ -1022,7 +1005,7 @@
   },
   {
     "pro": "51434",
-    "status": "DISPATCHED",
+    "status": "PICKUP",
     "pu_date": "2026-11-18",
     "pu_city": "WINCHESTER",
     "pu_state": "KY",
@@ -1034,7 +1017,7 @@
     "equipment": "Van",
     "weight_lbs": 12815,
     "carrier_rate": 2600,
-    "updated_at": "2026-11-18T14:42:51.828162+00:00",
+    "updated_at": "2026-11-18T14:47:39.706215+00:00",
     "lane": "WINCHESTER KY-BURLINGTON NJ"
   },
   {
@@ -1052,6 +1035,23 @@
     "weight_lbs": 11280,
     "carrier_rate": 1100,
     "updated_at": "2026-11-18T14:43:00.541717+00:00",
+    "lane": "WINCHESTER KY-JOLIET IL"
+  },
+  {
+    "pro": "51472",
+    "status": "COVERED",
+    "pu_date": "2026-11-19",
+    "pu_city": "WINCHESTER",
+    "pu_state": "KY",
+    "pu_hours": "0900-1100",
+    "del_date": "2026-11-19",
+    "del_city": "JOLIET",
+    "del_state": "IL",
+    "del_hours": "2130",
+    "equipment": "Van",
+    "weight_lbs": 11280,
+    "carrier_rate": 1000,
+    "updated_at": "2026-11-18T14:49:01.997890+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
