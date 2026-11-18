@@ -274,6 +274,23 @@
     "lane": "ATHENS AL-GULFPORT MS"
   },
   {
+    "pro": "51500",
+    "status": "OPEN",
+    "pu_date": "2026-11-19",
+    "pu_city": "RICHMOND",
+    "pu_state": "VA",
+    "pu_hours": "0700-0730",
+    "del_date": "2026-11-19",
+    "del_city": "RICHMOND",
+    "del_state": "VA",
+    "del_hours": "CALL!",
+    "equipment": "26' Straight Box Truck",
+    "weight_lbs": 2800,
+    "carrier_rate": 200,
+    "updated_at": "2026-11-18T12:49:51.617277+00:00",
+    "lane": "RICHMOND VA-RICHMOND VA"
+  },
+  {
     "pro": "51459",
     "status": "OPEN",
     "pu_date": "2026-11-20",
@@ -1003,6 +1020,23 @@
     "carrier_rate": 2500,
     "updated_at": "2026-11-17T17:30:24.695738+00:00",
     "lane": "OAKLAND TN-PHENIX CITY AL"
+  },
+  {
+    "pro": "51455",
+    "status": "DELIVERED",
+    "pu_date": "2026-11-17",
+    "pu_city": "RICHMOND",
+    "pu_state": "VA",
+    "pu_hours": "0700-0730",
+    "del_date": "2026-11-17",
+    "del_city": "RICHMOND",
+    "del_state": "VA",
+    "del_hours": "0800-0830",
+    "equipment": "26' Straight Box Truck",
+    "weight_lbs": 1000,
+    "carrier_rate": 200,
+    "updated_at": "2026-11-17T13:23:30.492950+00:00",
+    "lane": "RICHMOND VA-RICHMOND VA"
   },
   {
     "pro": "51432",
