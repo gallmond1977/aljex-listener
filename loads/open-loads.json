@@ -85,23 +85,6 @@
     "lane": "MACON GA-AUGUSTA GA"
   },
   {
-    "pro": "51503",
-    "status": "OPEN",
-    "pu_date": "2026-11-18",
-    "pu_city": "BUENA VISTA",
-    "pu_state": "GA",
-    "pu_hours": "1200-1600",
-    "del_date": "2026-11-19",
-    "del_city": "DUNCAN",
-    "del_state": "SC",
-    "del_hours": "0700-1500",
-    "equipment": "Van",
-    "weight_lbs": 43500,
-    "carrier_rate": 900,
-    "updated_at": "2026-11-18T13:37:43.413490+00:00",
-    "lane": "BUENA VISTA GA-DUNCAN SC"
-  },
-  {
     "pro": "51504",
     "status": "OPEN",
     "pu_date": "2026-11-18",
@@ -303,7 +286,7 @@
     "equipment": "Van",
     "weight_lbs": 35000,
     "carrier_rate": 4200,
-    "updated_at": "2026-11-18T13:23:05.186096+00:00",
+    "updated_at": "2026-11-18T14:19:18.553237+00:00",
     "lane": "PHENIX CITY AL-ROCKLAND ME"
   },
   {
