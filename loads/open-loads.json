@@ -62,27 +62,10 @@
     "del_state": "SC",
     "del_hours": "0630-1400",
     "equipment": "Van",
-    "weight_lbs": 44000,
+    "weight_lbs": 44960,
     "carrier_rate": null,
-    "updated_at": "2026-11-18T16:59:10.233742+00:00",
+    "updated_at": "2026-11-18T17:01:46.637960+00:00",
     "lane": "PASADENA TX-PIEDMONT SC"
-  },
-  {
-    "pro": "51500",
-    "status": "OPEN",
-    "pu_date": "2026-11-19",
-    "pu_city": "RICHMOND",
-    "pu_state": "VA",
-    "pu_hours": "0700-0730",
-    "del_date": "2026-11-19",
-    "del_city": "RICHMOND",
-    "del_state": "VA",
-    "del_hours": "VMAIL",
-    "equipment": "26' Straight Box Truck",
-    "weight_lbs": 2800,
-    "carrier_rate": 200,
-    "updated_at": "2026-11-18T16:54:30.617555+00:00",
-    "lane": "RICHMOND VA-RICHMOND VA"
   },
   {
     "pro": "51502",
@@ -115,7 +98,7 @@
     "equipment": "Flatbed w/ Tarps",
     "weight_lbs": 35492,
     "carrier_rate": 1200,
-    "updated_at": "2026-11-18T16:55:58.897310+00:00",
+    "updated_at": "2026-11-18T17:04:18.086032+00:00",
     "lane": "SAVANNAH GA-CLANTON AL"
   },
   {
@@ -763,23 +746,6 @@
     "carrier_rate": 2500,
     "updated_at": "2026-11-18T16:16:48.676480+00:00",
     "lane": "OAKLAND TN-PHENIX CITY AL"
-  },
-  {
-    "pro": "51455",
-    "status": "RELEASED",
-    "pu_date": "2026-11-17",
-    "pu_city": "RICHMOND",
-    "pu_state": "VA",
-    "pu_hours": "0700-0730",
-    "del_date": "2026-11-17",
-    "del_city": "RICHMOND",
-    "del_state": "VA",
-    "del_hours": "0800-0830",
-    "equipment": "26' Straight Box Truck",
-    "weight_lbs": 1000,
-    "carrier_rate": 200,
-    "updated_at": "2026-11-18T16:42:56.610755+00:00",
-    "lane": "RICHMOND VA-RICHMOND VA"
   },
   {
     "pro": "51474",
