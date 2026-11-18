@@ -153,24 +153,6 @@
     "lane": "GAINESVILLE GA-NEW HOLLAND PA"
   },
   {
-    "pro": "8890471",
-    "status": "OPEN",
-    "spot": true,
-    "pu_date": "2026-11-18",
-    "pu_city": "WILMINGTON",
-    "pu_state": "NC",
-    "pu_hours": "",
-    "del_date": "2026-11-19",
-    "del_city": "SAVANNAH",
-    "del_state": "GA",
-    "del_hours": "",
-    "equipment": "Flatbed",
-    "weight_lbs": 46500,
-    "carrier_rate": 1500,
-    "updated_at": "2026-11-17T18:53:27.957262+00:00",
-    "lane": "WILMINGTON NC-SAVANNAH GA"
-  },
-  {
     "pro": "8890472",
     "status": "OPEN",
     "spot": true,
