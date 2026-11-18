@@ -1022,7 +1022,7 @@
   },
   {
     "pro": "51474",
-    "status": "CONSIGNEE",
+    "status": "DELIVERED",
     "pu_date": "2026-11-17",
     "pu_city": "BUFFALO",
     "pu_state": "NY",
@@ -1034,12 +1034,12 @@
     "equipment": "Van",
     "weight_lbs": 25000,
     "carrier_rate": 1800,
-    "updated_at": "2026-11-18T13:37:19.819125+00:00",
+    "updated_at": "2026-11-18T14:04:57.827107+00:00",
     "lane": "BUFFALO NY-BELCAMP MD"
   },
   {
     "pro": "51432",
-    "status": "COVERED",
+    "status": "DISPATCHED",
     "pu_date": "2026-11-18",
     "pu_city": "WINCHESTER",
     "pu_state": "KY",
@@ -1051,7 +1051,7 @@
     "equipment": "Van",
     "weight_lbs": 11481,
     "carrier_rate": 3800,
-    "updated_at": "2026-11-18T13:59:33.234037+00:00",
+    "updated_at": "2026-11-18T14:01:35.595522+00:00",
     "lane": "WINCHESTER KY-UXBRIDGE MA"
   },
   {
@@ -1068,7 +1068,7 @@
     "equipment": "Van",
     "weight_lbs": 9078,
     "carrier_rate": 3000,
-    "updated_at": "2026-11-18T13:25:12.962717+00:00",
+    "updated_at": "2026-11-18T14:04:53.179299+00:00",
     "lane": "WINCHESTER KY-JACKSONVILLE FL"
   },
   {
