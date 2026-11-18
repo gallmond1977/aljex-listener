@@ -398,7 +398,7 @@
     "pu_date": "2026-11-24",
     "pu_city": "WINCHESTER",
     "pu_state": "KY",
-    "pu_hours": "",
+    "pu_hours": "1300",
     "del_date": "2026-11-25",
     "del_city": "BURLINGTON",
     "del_state": "NJ",
@@ -406,7 +406,7 @@
     "equipment": "Van",
     "weight_lbs": 5775,
     "carrier_rate": null,
-    "updated_at": "2026-11-18T12:57:52.999823+00:00",
+    "updated_at": "2026-11-18T13:04:44.460517+00:00",
     "lane": "WINCHESTER KY-BURLINGTON NJ"
   },
   {
@@ -432,15 +432,15 @@
     "pu_date": "2026-11-30",
     "pu_city": "WINCHESTER",
     "pu_state": "KY",
-    "pu_hours": "NEED",
+    "pu_hours": "",
     "del_date": "2026-12-01",
     "del_city": "JACKSONVILLE",
     "del_state": "FL",
-    "del_hours": "REQ",
+    "del_hours": "0600",
     "equipment": "Van",
     "weight_lbs": 5340,
     "carrier_rate": null,
-    "updated_at": "2026-11-17T16:52:56.890489+00:00",
+    "updated_at": "2026-11-18T13:01:11.672676+00:00",
     "lane": "WINCHESTER KY-JACKSONVILLE FL"
   },
   {
@@ -614,23 +614,6 @@
     "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
-    "pro": "51285",
-    "status": "RELEASED",
-    "pu_date": "2026-11-06",
-    "pu_city": "WADESBORO",
-    "pu_state": "NC",
-    "pu_hours": "0730-1630",
-    "del_date": "2026-11-06",
-    "del_city": "ATLANTA",
-    "del_state": "GA",
-    "del_hours": "0800-1600",
-    "equipment": "Van",
-    "weight_lbs": 44000,
-    "carrier_rate": 900,
-    "updated_at": "2026-11-11T13:04:40.406354+00:00",
-    "lane": "WADESBORO NC-ATLANTA GA"
-  },
-  {
     "pro": "51269",
     "status": "RELEASED",
     "pu_date": "2026-11-09",
@@ -697,23 +680,6 @@
     "carrier_rate": 3000,
     "updated_at": "2026-11-11T22:41:27.436796+00:00",
     "lane": "WINCHESTER KY-JACKSONVILLE FL"
-  },
-  {
-    "pro": "51334",
-    "status": "RELEASED",
-    "pu_date": "2026-11-09",
-    "pu_city": "OAKLAND",
-    "pu_state": "TN",
-    "pu_hours": "0800-1500",
-    "del_date": "2026-11-10",
-    "del_city": "PHENIX CITY",
-    "del_state": "AL",
-    "del_hours": "0600-1430",
-    "equipment": "Van Hazmat",
-    "weight_lbs": 44900,
-    "carrier_rate": 2140,
-    "updated_at": "2026-11-11T13:03:24.861063+00:00",
-    "lane": "OAKLAND TN-PHENIX CITY AL"
   },
   {
     "pro": "51335",
