@@ -30,7 +30,7 @@
     "equipment": "Van",
     "weight_lbs": 12815,
     "carrier_rate": 2400,
-    "updated_at": "2026-11-18T13:26:23.222764+00:00",
+    "updated_at": "2026-11-18T14:06:06.856358+00:00",
     "lane": "WINCHESTER KY-BURLINGTON NJ"
   },
   {
@@ -117,6 +117,23 @@
     "carrier_rate": 900,
     "updated_at": "2026-11-18T13:37:43.413490+00:00",
     "lane": "BUENA VISTA GA-DUNCAN SC"
+  },
+  {
+    "pro": "51504",
+    "status": "OPEN",
+    "pu_date": "2026-11-18",
+    "pu_city": "SANDERSVILLE",
+    "pu_state": "GA",
+    "pu_hours": "0800-1600",
+    "del_date": "2026-11-19",
+    "del_city": "COLUMBUS",
+    "del_state": "GA",
+    "del_hours": "0800-1500",
+    "equipment": "Van",
+    "weight_lbs": 42000,
+    "carrier_rate": 800,
+    "updated_at": "2026-11-18T14:07:22.391683+00:00",
+    "lane": "SANDERSVILLE GA-COLUMBUS GA"
   },
   {
     "pro": "8890472",
