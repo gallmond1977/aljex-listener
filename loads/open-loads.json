@@ -29,8 +29,8 @@
     "del_hours": "0800-1600",
     "equipment": "Flatbed",
     "weight_lbs": 46000,
-    "carrier_rate": 650,
-    "updated_at": "2026-11-18T13:48:52.511340+00:00",
+    "carrier_rate": 700,
+    "updated_at": "2026-11-18T16:04:14.860081+00:00",
     "lane": "MACON GA-AUGUSTA GA"
   },
   {
@@ -46,8 +46,8 @@
     "del_hours": "0800-1600",
     "equipment": "Flatbed",
     "weight_lbs": 47000,
-    "carrier_rate": 650,
-    "updated_at": "2026-11-18T13:49:41.483213+00:00",
+    "carrier_rate": 700,
+    "updated_at": "2026-11-18T16:04:36.557808+00:00",
     "lane": "MACON GA-AUGUSTA GA"
   },
   {
@@ -149,7 +149,7 @@
     "equipment": "Van",
     "weight_lbs": 35000,
     "carrier_rate": 4200,
-    "updated_at": "2026-11-18T14:21:35.153919+00:00",
+    "updated_at": "2026-11-18T16:02:20.742114+00:00",
     "lane": "PHENIX CITY AL-ROCKLAND ME"
   },
   {
