@@ -17,23 +17,6 @@
     "lane": "OAKLAND TN-SALISBURY NC"
   },
   {
-    "pro": "51434",
-    "status": "OPEN",
-    "pu_date": "2026-11-18",
-    "pu_city": "WINCHESTER",
-    "pu_state": "KY",
-    "pu_hours": "1300",
-    "del_date": "2026-11-19",
-    "del_city": "BURLINGTON",
-    "del_state": "NJ",
-    "del_hours": "1600",
-    "equipment": "Van",
-    "weight_lbs": 12815,
-    "carrier_rate": 2400,
-    "updated_at": "2026-11-18T14:06:06.856358+00:00",
-    "lane": "WINCHESTER KY-BURLINGTON NJ"
-  },
-  {
     "pro": "51492",
     "status": "OPEN",
     "pu_date": "2026-11-18",
@@ -193,7 +176,7 @@
     "pu_date": "2026-11-19",
     "pu_city": "SOUTHAVEN",
     "pu_state": "MS",
-    "pu_hours": "0800-1800",
+    "pu_hours": "0800-1500",
     "del_date": "2026-11-20",
     "del_city": "CHARLESTON",
     "del_state": "SC",
@@ -201,7 +184,7 @@
     "equipment": "Van",
     "weight_lbs": 43467,
     "carrier_rate": 2300,
-    "updated_at": "2026-11-17T19:02:20.721525+00:00",
+    "updated_at": "2026-11-18T14:11:12.363073+00:00",
     "lane": "SOUTHAVEN MS-CHARLESTON SC"
   },
   {
@@ -1087,6 +1070,23 @@
     "carrier_rate": 3000,
     "updated_at": "2026-11-18T14:04:53.179299+00:00",
     "lane": "WINCHESTER KY-JACKSONVILLE FL"
+  },
+  {
+    "pro": "51434",
+    "status": "COVERED",
+    "pu_date": "2026-11-18",
+    "pu_city": "WINCHESTER",
+    "pu_state": "KY",
+    "pu_hours": "1300",
+    "del_date": "2026-11-19",
+    "del_city": "BURLINGTON",
+    "del_state": "NJ",
+    "del_hours": "1600",
+    "equipment": "Van",
+    "weight_lbs": 12815,
+    "carrier_rate": 2600,
+    "updated_at": "2026-11-18T14:10:49.348963+00:00",
+    "lane": "WINCHESTER KY-BURLINGTON NJ"
   },
   {
     "pro": "51316",
