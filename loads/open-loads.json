@@ -13,7 +13,7 @@
     "equipment": "Van Hazmat",
     "weight_lbs": 44900,
     "carrier_rate": 2800,
-    "updated_at": "2026-11-17T21:11:53.032863+00:00",
+    "updated_at": "2026-11-18T13:21:17.008019+00:00",
     "lane": "OAKLAND TN-SALISBURY NC"
   },
   {
@@ -81,7 +81,7 @@
     "equipment": "Flatbed",
     "weight_lbs": 47000,
     "carrier_rate": 625,
-    "updated_at": "2026-11-17T21:34:07.292383+00:00",
+    "updated_at": "2026-11-18T13:25:16.735639+00:00",
     "lane": "MACON GA-AUGUSTA GA"
   },
   {
@@ -119,23 +119,6 @@
     "lane": "MACON GA-AUGUSTA GA"
   },
   {
-    "pro": "51498",
-    "status": "OPEN",
-    "pu_date": "2026-11-18",
-    "pu_city": "GAINESVILLE",
-    "pu_state": "GA",
-    "pu_hours": "0800-1600",
-    "del_date": "2026-11-18",
-    "del_city": "GLENNVILLE",
-    "del_state": "GA",
-    "del_hours": "0800-1700",
-    "equipment": "26' Straight Box Truck",
-    "weight_lbs": 5611,
-    "carrier_rate": 600,
-    "updated_at": "2026-11-17T21:19:34.595983+00:00",
-    "lane": "GAINESVILLE GA-GLENNVILLE GA"
-  },
-  {
     "pro": "51499",
     "status": "OPEN",
     "pu_date": "2026-11-18",
@@ -149,7 +132,7 @@
     "equipment": "Van",
     "weight_lbs": 10147,
     "carrier_rate": 1870,
-    "updated_at": "2026-11-17T21:30:31.713277+00:00",
+    "updated_at": "2026-11-18T13:24:25.514767+00:00",
     "lane": "GAINESVILLE GA-NEW HOLLAND PA"
   },
   {
@@ -305,6 +288,23 @@
     "carrier_rate": 1000,
     "updated_at": "2026-11-17T13:47:10.647173+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
+  },
+  {
+    "pro": "51501",
+    "status": "OPEN",
+    "pu_date": "2026-11-20",
+    "pu_city": "PHENIX CITY",
+    "pu_state": "AL",
+    "pu_hours": "0800-1200",
+    "del_date": "2026-11-23",
+    "del_city": "ROCKLAND",
+    "del_state": "ME",
+    "del_hours": "1200-1400",
+    "equipment": "Van",
+    "weight_lbs": 35000,
+    "carrier_rate": 4200,
+    "updated_at": "2026-11-18T13:23:05.186096+00:00",
+    "lane": "PHENIX CITY AL-ROCKLAND ME"
   },
   {
     "pro": "50717",
@@ -543,6 +543,23 @@
     "carrier_rate": null,
     "updated_at": "2026-11-05T16:51:53.885923+00:00",
     "lane": "LA PORTE TX-PIEDMONT SC"
+  },
+  {
+    "pro": "51166",
+    "status": "RELEASED",
+    "pu_date": "2026-11-06",
+    "pu_city": "PHENIX CITY",
+    "pu_state": "AL",
+    "pu_hours": "0800-1200",
+    "del_date": "2026-11-09",
+    "del_city": "ROCKLAND",
+    "del_state": "ME",
+    "del_hours": "0800",
+    "equipment": "Van",
+    "weight_lbs": 35000,
+    "carrier_rate": 4200,
+    "updated_at": "2026-11-11T22:02:09.378792+00:00",
+    "lane": "PHENIX CITY AL-ROCKLAND ME"
   },
   {
     "pro": "51179",
@@ -1000,7 +1017,7 @@
     "equipment": "Van",
     "weight_lbs": 9078,
     "carrier_rate": 3000,
-    "updated_at": "2026-11-17T19:14:55.817869+00:00",
+    "updated_at": "2026-11-18T13:25:12.962717+00:00",
     "lane": "WINCHESTER KY-JACKSONVILLE FL"
   },
   {
