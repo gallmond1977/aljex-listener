@@ -476,23 +476,6 @@
     "lane": "LA PORTE TX-PIEDMONT SC"
   },
   {
-    "pro": "51292",
-    "status": "RELEASED",
-    "pu_date": "2026-11-09",
-    "pu_city": "WINCHESTER",
-    "pu_state": "KY",
-    "pu_hours": "1330",
-    "del_date": "2026-11-11",
-    "del_city": "UXBRIDGE",
-    "del_state": "MA",
-    "del_hours": "0400",
-    "equipment": "Van",
-    "weight_lbs": 5000,
-    "carrier_rate": 3800,
-    "updated_at": "2026-11-11T22:25:36.096896+00:00",
-    "lane": "WINCHESTER KY-UXBRIDGE MA"
-  },
-  {
     "pro": "51314",
     "status": "RELEASED",
     "pu_date": "2026-11-09",
