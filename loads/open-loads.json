@@ -85,6 +85,23 @@
     "lane": "BELCAMP MD-EAST MOLINE IL"
   },
   {
+    "pro": "51513",
+    "status": "OPEN",
+    "pu_date": "2026-11-19",
+    "pu_city": "COLUMBUS",
+    "pu_state": "GA",
+    "pu_hours": "1100",
+    "del_date": "2026-11-19",
+    "del_city": "ATLANTA",
+    "del_state": "GA",
+    "del_hours": "0800-1600",
+    "equipment": "26' Straight Box Truck",
+    "weight_lbs": 9000,
+    "carrier_rate": 350,
+    "updated_at": "2026-11-18T21:45:10.413767+00:00",
+    "lane": "COLUMBUS GA-ATLANTA GA"
+  },
+  {
     "pro": "51459",
     "status": "OPEN",
     "pu_date": "2026-11-20",
@@ -712,6 +729,23 @@
     "carrier_rate": 3000,
     "updated_at": "2026-11-16T15:40:15.801439+00:00",
     "lane": "OAKLAND TN-SALISBURY NC"
+  },
+  {
+    "pro": "51423",
+    "status": "RELEASED",
+    "pu_date": "2026-11-12",
+    "pu_city": "COLUMBUS",
+    "pu_state": "GA",
+    "pu_hours": "1000-1200",
+    "del_date": "2026-11-12",
+    "del_city": "ATLANTA",
+    "del_state": "GA",
+    "del_hours": "0800-1600",
+    "equipment": "26' Straight Box Truck",
+    "weight_lbs": 9000,
+    "carrier_rate": 350,
+    "updated_at": "2026-11-13T13:55:59.196921+00:00",
+    "lane": "COLUMBUS GA-ATLANTA GA"
   },
   {
     "pro": "51428",
