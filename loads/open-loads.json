@@ -459,23 +459,6 @@
     "lane": "LA PORTE TX-PIEDMONT SC"
   },
   {
-    "pro": "51314",
-    "status": "RELEASED",
-    "pu_date": "2026-11-09",
-    "pu_city": "WINCHESTER",
-    "pu_state": "KY",
-    "pu_hours": "1200-1400",
-    "del_date": "2026-11-10",
-    "del_city": "JACKSONVILLE",
-    "del_state": "FL",
-    "del_hours": "2000",
-    "equipment": "Van",
-    "weight_lbs": 5200,
-    "carrier_rate": 3000,
-    "updated_at": "2026-11-11T22:41:27.436796+00:00",
-    "lane": "WINCHESTER KY-JACKSONVILLE FL"
-  },
-  {
     "pro": "51335",
     "status": "RELEASED",
     "pu_date": "2026-11-09",
