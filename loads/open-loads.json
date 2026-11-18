@@ -154,23 +154,6 @@
     "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
-    "pro": "51485",
-    "status": "OPEN",
-    "pu_date": "2026-11-19",
-    "pu_city": "SOUTHAVEN",
-    "pu_state": "MS",
-    "pu_hours": "0800-1500",
-    "del_date": "2026-11-20",
-    "del_city": "CHARLESTON",
-    "del_state": "SC",
-    "del_hours": "0800-1400",
-    "equipment": "Van",
-    "weight_lbs": 43467,
-    "carrier_rate": 2300,
-    "updated_at": "2026-11-18T14:11:12.363073+00:00",
-    "lane": "SOUTHAVEN MS-CHARLESTON SC"
-  },
-  {
     "pro": "51490",
     "status": "OPEN",
     "pu_date": "2026-11-19",
@@ -286,7 +269,7 @@
     "equipment": "Van",
     "weight_lbs": 35000,
     "carrier_rate": 4200,
-    "updated_at": "2026-11-18T14:19:18.553237+00:00",
+    "updated_at": "2026-11-18T14:21:35.153919+00:00",
     "lane": "PHENIX CITY AL-ROCKLAND ME"
   },
   {
