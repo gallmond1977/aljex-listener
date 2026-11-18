@@ -153,6 +153,23 @@
     "lane": "LAGRANGE GA-NEWNAN GA"
   },
   {
+    "pro": "51510",
+    "status": "OPEN",
+    "pu_date": "2026-11-20",
+    "pu_city": "BUENA VISTA",
+    "pu_state": "GA",
+    "pu_hours": "1200-1430",
+    "del_date": "2026-11-23",
+    "del_city": "INDIAN TRAIL",
+    "del_state": "NC",
+    "del_hours": "0700-1500",
+    "equipment": "Van",
+    "weight_lbs": 43500,
+    "carrier_rate": 1000,
+    "updated_at": "2026-11-18T20:10:11.794371+00:00",
+    "lane": "BUENA VISTA GA-INDIAN TRAIL NC"
+  },
+  {
     "pro": "50717",
     "status": "OPEN",
     "pu_date": "2026-11-23",
@@ -561,6 +578,23 @@
     "lane": "OLD FORT NC-COLUMBUS GA"
   },
   {
+    "pro": "51381",
+    "status": "DELIVERED",
+    "pu_date": "2026-11-11",
+    "pu_city": "BUENA VISTA",
+    "pu_state": "GA",
+    "pu_hours": "1200-1600",
+    "del_date": "2026-11-12",
+    "del_city": "INDIAN TRAIL",
+    "del_state": "NC",
+    "del_hours": "0700-1500",
+    "equipment": "Van",
+    "weight_lbs": 43500,
+    "carrier_rate": 1300,
+    "updated_at": "2026-11-12T20:43:14.245806+00:00",
+    "lane": "BUENA VISTA GA-INDIAN TRAIL NC"
+  },
+  {
     "pro": "51374",
     "status": "RELEASED",
     "pu_date": "2026-11-12",
@@ -644,6 +678,23 @@
     "carrier_rate": 1100,
     "updated_at": "2026-11-17T16:13:17.275050+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
+  },
+  {
+    "pro": "51428",
+    "status": "RELEASED",
+    "pu_date": "2026-11-12",
+    "pu_city": "BUENA VISTA",
+    "pu_state": "GA",
+    "pu_hours": "1200-1500",
+    "del_date": "2026-11-13",
+    "del_city": "INDIAN TRAIL",
+    "del_state": "NC",
+    "del_hours": "0700-1500",
+    "equipment": "Van",
+    "weight_lbs": 43500,
+    "carrier_rate": 1100,
+    "updated_at": "2026-11-16T15:44:50.720911+00:00",
+    "lane": "BUENA VISTA GA-INDIAN TRAIL NC"
   },
   {
     "pro": "51353",
