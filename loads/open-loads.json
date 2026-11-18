@@ -442,23 +442,6 @@
     "lane": "LA PORTE TX-PIEDMONT SC"
   },
   {
-    "pro": "51179",
-    "status": "RELEASED",
-    "pu_date": "2026-11-06",
-    "pu_city": "WINCHESTER",
-    "pu_state": "KY",
-    "pu_hours": "1200-1500",
-    "del_date": "2026-11-09",
-    "del_city": "JOLIET",
-    "del_state": "IL",
-    "del_hours": "1200 AM",
-    "equipment": "Van",
-    "weight_lbs": 10295,
-    "carrier_rate": 1100,
-    "updated_at": "2026-11-11T22:23:51.178002+00:00",
-    "lane": "WINCHESTER KY-JOLIET IL"
-  },
-  {
     "pro": "51283",
     "status": "RELEASED",
     "pu_date": "2026-11-06",
@@ -491,23 +474,6 @@
     "carrier_rate": 2800,
     "updated_at": "2026-11-12T13:17:23.612658+00:00",
     "lane": "LA PORTE TX-PIEDMONT SC"
-  },
-  {
-    "pro": "51291",
-    "status": "RELEASED",
-    "pu_date": "2026-11-09",
-    "pu_city": "WINCHESTER",
-    "pu_state": "KY",
-    "pu_hours": "1200-1500",
-    "del_date": "2026-11-10",
-    "del_city": "BURLINGTON",
-    "del_state": "NJ",
-    "del_hours": "1300",
-    "equipment": "Van",
-    "weight_lbs": 4200,
-    "carrier_rate": 2500,
-    "updated_at": "2026-11-11T22:24:35.709156+00:00",
-    "lane": "WINCHESTER KY-BURLINGTON NJ"
   },
   {
     "pro": "51292",
