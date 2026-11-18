@@ -85,6 +85,23 @@
     "lane": "SAVANNAH GA-CLANTON AL"
   },
   {
+    "pro": "51509",
+    "status": "OPEN",
+    "pu_date": "2026-11-19",
+    "pu_city": "RALEIGH",
+    "pu_state": "NC",
+    "pu_hours": "0900",
+    "del_date": "2026-11-19",
+    "del_city": "WINSTON SALEM",
+    "del_state": "NC",
+    "del_hours": "0800-1500",
+    "equipment": "Van",
+    "weight_lbs": 10103,
+    "carrier_rate": 550,
+    "updated_at": "2026-11-18T17:21:02.784103+00:00",
+    "lane": "RALEIGH NC-WINSTON SALEM NC"
+  },
+  {
     "pro": "51459",
     "status": "OPEN",
     "pu_date": "2026-11-20",
@@ -646,6 +663,23 @@
     "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
+    "pro": "51415",
+    "status": "RELEASED",
+    "pu_date": "2026-11-12",
+    "pu_city": "RALEIGH",
+    "pu_state": "NC",
+    "pu_hours": "0900",
+    "del_date": "2026-11-12",
+    "del_city": "WINSTON SALEM",
+    "del_state": "NC",
+    "del_hours": "0800-1500",
+    "equipment": "Van",
+    "weight_lbs": 8093,
+    "carrier_rate": 500,
+    "updated_at": "2026-11-18T16:40:06.221909+00:00",
+    "lane": "RALEIGH NC-WINSTON SALEM NC"
+  },
+  {
     "pro": "51353",
     "status": "RELEASED",
     "pu_date": "2026-11-13",
@@ -863,7 +897,7 @@
     "equipment": "Van",
     "weight_lbs": 44960,
     "carrier_rate": 2800,
-    "updated_at": "2026-11-18T17:19:42.370733+00:00",
+    "updated_at": "2026-11-18T17:20:34.680107+00:00",
     "lane": "PASADENA TX-PIEDMONT SC"
   }
 ]
