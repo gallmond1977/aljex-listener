@@ -442,23 +442,6 @@
     "lane": "LA PORTE TX-PIEDMONT SC"
   },
   {
-    "pro": "51283",
-    "status": "RELEASED",
-    "pu_date": "2026-11-06",
-    "pu_city": "WINCHESTER",
-    "pu_state": "KY",
-    "pu_hours": "0800-1100",
-    "del_date": "2026-11-06",
-    "del_city": "JOLIET",
-    "del_state": "IL",
-    "del_hours": "2100",
-    "equipment": "Van",
-    "weight_lbs": 14580,
-    "carrier_rate": 1000,
-    "updated_at": "2026-11-11T22:37:40.089187+00:00",
-    "lane": "WINCHESTER KY-JOLIET IL"
-  },
-  {
     "pro": "51269",
     "status": "RELEASED",
     "pu_date": "2026-11-09",
