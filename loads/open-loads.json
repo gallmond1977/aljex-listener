@@ -17,23 +17,6 @@
     "lane": "OAKLAND TN-SALISBURY NC"
   },
   {
-    "pro": "51492",
-    "status": "OPEN",
-    "pu_date": "2026-11-18",
-    "pu_city": "WADESBORO",
-    "pu_state": "NC",
-    "pu_hours": "0730-1630",
-    "del_date": "2026-11-19",
-    "del_city": "ATLANTA",
-    "del_state": "GA",
-    "del_hours": "0800-1600",
-    "equipment": "Van",
-    "weight_lbs": 44000,
-    "carrier_rate": 850,
-    "updated_at": "2026-11-18T13:57:33.606086+00:00",
-    "lane": "WADESBORO NC-ATLANTA GA"
-  },
-  {
     "pro": "51495",
     "status": "OPEN",
     "pu_date": "2026-11-18",
@@ -83,23 +66,6 @@
     "carrier_rate": 650,
     "updated_at": "2026-11-18T13:49:52.832852+00:00",
     "lane": "MACON GA-AUGUSTA GA"
-  },
-  {
-    "pro": "51491",
-    "status": "OPEN",
-    "pu_date": "2026-11-19",
-    "pu_city": "ATHENS",
-    "pu_state": "AL",
-    "pu_hours": "0700-1500",
-    "del_date": "2026-11-20",
-    "del_city": "GULFPORT",
-    "del_state": "MS",
-    "del_hours": "0730-1030",
-    "equipment": "Van",
-    "weight_lbs": 43532,
-    "carrier_rate": 1450,
-    "updated_at": "2026-11-17T20:52:21.212672+00:00",
-    "lane": "ATHENS AL-GULFPORT MS"
   },
   {
     "pro": "51500",
@@ -629,40 +595,6 @@
     "lane": "OLD FORT NC-COLUMBUS GA"
   },
   {
-    "pro": "51253",
-    "status": "RELEASED",
-    "pu_date": "2026-11-11",
-    "pu_city": "ATHENS",
-    "pu_state": "AL",
-    "pu_hours": "0700-1500",
-    "del_date": "2026-11-12",
-    "del_city": "GULFPORT",
-    "del_state": "MS",
-    "del_hours": "0700-1030",
-    "equipment": "Van",
-    "weight_lbs": 43247,
-    "carrier_rate": 1500,
-    "updated_at": "2026-11-16T14:42:12.838941+00:00",
-    "lane": "ATHENS AL-GULFPORT MS"
-  },
-  {
-    "pro": "51254",
-    "status": "RELEASED",
-    "pu_date": "2026-11-11",
-    "pu_city": "ATHENS",
-    "pu_state": "AL",
-    "pu_hours": "0700-1500",
-    "del_date": "2026-11-12",
-    "del_city": "GULFPORT",
-    "del_state": "MS",
-    "del_hours": "0700-1030",
-    "equipment": "Van",
-    "weight_lbs": 43203,
-    "carrier_rate": 1500,
-    "updated_at": "2026-11-16T13:26:23.186221+00:00",
-    "lane": "ATHENS AL-GULFPORT MS"
-  },
-  {
     "pro": "51374",
     "status": "RELEASED",
     "pu_date": "2026-11-12",
@@ -763,23 +695,6 @@
     "carrier_rate": 3000,
     "updated_at": "2026-11-16T15:40:15.801439+00:00",
     "lane": "OAKLAND TN-SALISBURY NC"
-  },
-  {
-    "pro": "51422",
-    "status": "RELEASED",
-    "pu_date": "2026-11-12",
-    "pu_city": "WADESBORO",
-    "pu_state": "NC",
-    "pu_hours": "0730-1630",
-    "del_date": "2026-11-13",
-    "del_city": "ATLANTA",
-    "del_state": "GA",
-    "del_hours": "0800-1600",
-    "equipment": "Van",
-    "weight_lbs": 44000,
-    "carrier_rate": 900,
-    "updated_at": "2026-11-13T17:01:18.208934+00:00",
-    "lane": "WADESBORO NC-ATLANTA GA"
   },
   {
     "pro": "51353",
@@ -919,7 +834,7 @@
   },
   {
     "pro": "51432",
-    "status": "PICKUP",
+    "status": "LOADED",
     "pu_date": "2026-11-18",
     "pu_city": "WINCHESTER",
     "pu_state": "KY",
@@ -931,7 +846,7 @@
     "equipment": "Van",
     "weight_lbs": 11481,
     "carrier_rate": 3800,
-    "updated_at": "2026-11-18T15:22:24.047790+00:00",
+    "updated_at": "2026-11-18T15:39:34.799208+00:00",
     "lane": "WINCHESTER KY-UXBRIDGE MA"
   },
   {
@@ -1001,23 +916,6 @@
     "carrier_rate": 1000,
     "updated_at": "2026-11-18T14:49:01.997890+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
-  },
-  {
-    "pro": "51490",
-    "status": "COVERED",
-    "pu_date": "2026-11-19",
-    "pu_city": "ATHENS",
-    "pu_state": "AL",
-    "pu_hours": "0700-1500",
-    "del_date": "2026-11-20",
-    "del_city": "GULFPORT",
-    "del_state": "MS",
-    "del_hours": "0730-1030",
-    "equipment": "Van",
-    "weight_lbs": 43421,
-    "carrier_rate": 1500,
-    "updated_at": "2026-11-18T15:30:29.029871+00:00",
-    "lane": "ATHENS AL-GULFPORT MS"
   },
   {
     "pro": "51316",
