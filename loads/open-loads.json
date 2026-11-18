@@ -94,11 +94,11 @@
     "del_date": "2026-11-20",
     "del_city": "MIAMI",
     "del_state": "FL",
-    "del_hours": "0715-0800",
+    "del_hours": "0900-1600",
     "equipment": "Van",
-    "weight_lbs": 34000,
-    "carrier_rate": null,
-    "updated_at": "2026-11-18T15:10:08.306928+00:00",
+    "weight_lbs": 14643,
+    "carrier_rate": 2500,
+    "updated_at": "2026-11-18T15:12:13.432266+00:00",
     "lane": "EUFAULA AL-MIAMI FL"
   },
   {
@@ -200,7 +200,7 @@
     "equipment": "Van",
     "weight_lbs": 11280,
     "carrier_rate": 1000,
-    "updated_at": "2026-11-17T13:47:10.647173+00:00",
+    "updated_at": "2026-11-18T15:14:00.699376+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
