@@ -85,23 +85,6 @@
     "lane": "MACON GA-AUGUSTA GA"
   },
   {
-    "pro": "51490",
-    "status": "OPEN",
-    "pu_date": "2026-11-19",
-    "pu_city": "ATHENS",
-    "pu_state": "AL",
-    "pu_hours": "0700-1500",
-    "del_date": "2026-11-20",
-    "del_city": "GULFPORT",
-    "del_state": "MS",
-    "del_hours": "0730-1030",
-    "equipment": "Van",
-    "weight_lbs": 43421,
-    "carrier_rate": 1450,
-    "updated_at": "2026-11-17T20:49:53.373086+00:00",
-    "lane": "ATHENS AL-GULFPORT MS"
-  },
-  {
     "pro": "51491",
     "status": "OPEN",
     "pu_date": "2026-11-19",
@@ -1018,6 +1001,23 @@
     "carrier_rate": 1000,
     "updated_at": "2026-11-18T14:49:01.997890+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
+  },
+  {
+    "pro": "51490",
+    "status": "COVERED",
+    "pu_date": "2026-11-19",
+    "pu_city": "ATHENS",
+    "pu_state": "AL",
+    "pu_hours": "0700-1500",
+    "del_date": "2026-11-20",
+    "del_city": "GULFPORT",
+    "del_state": "MS",
+    "del_hours": "0730-1030",
+    "equipment": "Van",
+    "weight_lbs": 43421,
+    "carrier_rate": 1500,
+    "updated_at": "2026-11-18T15:29:39.422317+00:00",
+    "lane": "ATHENS AL-GULFPORT MS"
   },
   {
     "pro": "51316",
