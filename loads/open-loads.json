@@ -47,7 +47,7 @@
     "equipment": "Van",
     "weight_lbs": 35000,
     "carrier_rate": 3230,
-    "updated_at": "2026-11-17T20:21:50.945434+00:00",
+    "updated_at": "2026-11-18T13:34:56.766126+00:00",
     "lane": "JACKSONVILLE TX-ENGLEWOOD CO"
   },
   {
@@ -128,12 +128,29 @@
     "del_date": "2026-11-19",
     "del_city": "NEW HOLLAND",
     "del_state": "PA",
-    "del_hours": "",
+    "del_hours": "0800-1700",
     "equipment": "Van",
     "weight_lbs": 10147,
-    "carrier_rate": 1870,
-    "updated_at": "2026-11-18T13:24:25.514767+00:00",
+    "carrier_rate": 1900,
+    "updated_at": "2026-11-18T13:33:57.151907+00:00",
     "lane": "GAINESVILLE GA-NEW HOLLAND PA"
+  },
+  {
+    "pro": "51503",
+    "status": "OPEN",
+    "pu_date": "2026-11-18",
+    "pu_city": "BUENA VISTA",
+    "pu_state": "GA",
+    "pu_hours": "1200-1600",
+    "del_date": "2026-11-19",
+    "del_city": "DUNCAN",
+    "del_state": "SC",
+    "del_hours": "",
+    "equipment": "Van",
+    "weight_lbs": 43500,
+    "carrier_rate": 900,
+    "updated_at": "2026-11-18T13:35:08.768775+00:00",
+    "lane": "BUENA VISTA GA-DUNCAN SC"
   },
   {
     "pro": "8890472",
@@ -254,6 +271,23 @@
     "carrier_rate": 200,
     "updated_at": "2026-11-18T12:52:18.459018+00:00",
     "lane": "RICHMOND VA-RICHMOND VA"
+  },
+  {
+    "pro": "51502",
+    "status": "OPEN",
+    "pu_date": "2026-11-19",
+    "pu_city": "BUFFALO",
+    "pu_state": "NY",
+    "pu_hours": "1000-1500",
+    "del_date": "2026-11-20",
+    "del_city": "BELCAMP",
+    "del_state": "MD",
+    "del_hours": "0800-1100",
+    "equipment": "Van",
+    "weight_lbs": 25000,
+    "carrier_rate": 1800,
+    "updated_at": "2026-11-18T13:34:38.240793+00:00",
+    "lane": "BUFFALO NY-BELCAMP MD"
   },
   {
     "pro": "51459",
@@ -715,6 +749,23 @@
     "lane": "ATHENS AL-GULFPORT MS"
   },
   {
+    "pro": "51360",
+    "status": "RELEASED",
+    "pu_date": "2026-11-10",
+    "pu_city": "BUFFALO",
+    "pu_state": "NY",
+    "pu_hours": "0900-1500",
+    "del_date": "2026-11-11",
+    "del_city": "BELCAMP",
+    "del_state": "MD",
+    "del_hours": "0700-0800",
+    "equipment": "26' Straight Box Truck",
+    "weight_lbs": 1500,
+    "carrier_rate": 800,
+    "updated_at": "2026-11-12T16:53:18.074015+00:00",
+    "lane": "BUFFALO NY-BELCAMP MD"
+  },
+  {
     "pro": "50542",
     "status": "RELEASED",
     "pu_date": "2026-11-11",
@@ -936,6 +987,23 @@
     "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
+    "pro": "51450",
+    "status": "RELEASED",
+    "pu_date": "2026-11-16",
+    "pu_city": "BUFFALO",
+    "pu_state": "NY",
+    "pu_hours": "1300-1500",
+    "del_date": "2026-11-17",
+    "del_city": "BELCAMP",
+    "del_state": "MD",
+    "del_hours": "0700-1500",
+    "equipment": "Van",
+    "weight_lbs": 6540,
+    "carrier_rate": 1800,
+    "updated_at": "2026-11-17T15:41:19.023637+00:00",
+    "lane": "BUFFALO NY-BELCAMP MD"
+  },
+  {
     "pro": "51384",
     "status": "LOADED",
     "pu_date": "2026-11-17",
@@ -985,6 +1053,23 @@
     "carrier_rate": 200,
     "updated_at": "2026-11-17T13:23:30.492950+00:00",
     "lane": "RICHMOND VA-RICHMOND VA"
+  },
+  {
+    "pro": "51474",
+    "status": "CONSIGNEE",
+    "pu_date": "2026-11-17",
+    "pu_city": "BUFFALO",
+    "pu_state": "NY",
+    "pu_hours": "1000-1500",
+    "del_date": "2026-11-18",
+    "del_city": "BELCAMP",
+    "del_state": "MD",
+    "del_hours": "0700-1500",
+    "equipment": "Van",
+    "weight_lbs": 25000,
+    "carrier_rate": 1800,
+    "updated_at": "2026-11-18T13:34:45.252472+00:00",
+    "lane": "BUFFALO NY-BELCAMP MD"
   },
   {
     "pro": "51432",
