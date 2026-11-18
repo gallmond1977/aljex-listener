@@ -51,23 +51,6 @@
     "lane": "MACON GA-AUGUSTA GA"
   },
   {
-    "pro": "51502",
-    "status": "OPEN",
-    "pu_date": "2026-11-19",
-    "pu_city": "BUFFALO",
-    "pu_state": "NY",
-    "pu_hours": "1000-1500",
-    "del_date": "2026-11-20",
-    "del_city": "BELCAMP",
-    "del_state": "MD",
-    "del_hours": "0800-1100",
-    "equipment": "Van",
-    "weight_lbs": 25000,
-    "carrier_rate": 1800,
-    "updated_at": "2026-11-18T20:30:36.988237+00:00",
-    "lane": "BUFFALO NY-BELCAMP MD"
-  },
-  {
     "pro": "51507",
     "status": "OPEN",
     "pu_date": "2026-11-19",
@@ -98,7 +81,7 @@
     "equipment": "Van",
     "weight_lbs": 6900,
     "carrier_rate": 1750,
-    "updated_at": "2026-11-18T20:23:54.459346+00:00",
+    "updated_at": "2026-11-18T20:39:38.581911+00:00",
     "lane": "BELCAMP MD-EAST MOLINE IL"
   },
   {
@@ -561,23 +544,6 @@
     "lane": "PASADENA TX-PIEDMONT SC"
   },
   {
-    "pro": "51360",
-    "status": "RELEASED",
-    "pu_date": "2026-11-10",
-    "pu_city": "BUFFALO",
-    "pu_state": "NY",
-    "pu_hours": "0900-1500",
-    "del_date": "2026-11-11",
-    "del_city": "BELCAMP",
-    "del_state": "MD",
-    "del_hours": "0700-0800",
-    "equipment": "26' Straight Box Truck",
-    "weight_lbs": 1500,
-    "carrier_rate": 800,
-    "updated_at": "2026-11-12T16:53:18.074015+00:00",
-    "lane": "BUFFALO NY-BELCAMP MD"
-  },
-  {
     "pro": "50542",
     "status": "RELEASED",
     "pu_date": "2026-11-11",
@@ -765,23 +731,6 @@
     "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
-    "pro": "51450",
-    "status": "RELEASED",
-    "pu_date": "2026-11-16",
-    "pu_city": "BUFFALO",
-    "pu_state": "NY",
-    "pu_hours": "1300-1500",
-    "del_date": "2026-11-17",
-    "del_city": "BELCAMP",
-    "del_state": "MD",
-    "del_hours": "0700-1500",
-    "equipment": "Van",
-    "weight_lbs": 6540,
-    "carrier_rate": 1800,
-    "updated_at": "2026-11-17T15:41:19.023637+00:00",
-    "lane": "BUFFALO NY-BELCAMP MD"
-  },
-  {
     "pro": "51386",
     "status": "DELIVERED",
     "pu_date": "2026-11-17",
@@ -797,23 +746,6 @@
     "carrier_rate": 2500,
     "updated_at": "2026-11-18T16:16:48.676480+00:00",
     "lane": "OAKLAND TN-PHENIX CITY AL"
-  },
-  {
-    "pro": "51474",
-    "status": "DELIVERED",
-    "pu_date": "2026-11-17",
-    "pu_city": "BUFFALO",
-    "pu_state": "NY",
-    "pu_hours": "1000-1500",
-    "del_date": "2026-11-18",
-    "del_city": "BELCAMP",
-    "del_state": "MD",
-    "del_hours": "0700-1500",
-    "equipment": "Van",
-    "weight_lbs": 25000,
-    "carrier_rate": 1800,
-    "updated_at": "2026-11-18T14:04:57.827107+00:00",
-    "lane": "BUFFALO NY-BELCAMP MD"
   },
   {
     "pro": "51432",
