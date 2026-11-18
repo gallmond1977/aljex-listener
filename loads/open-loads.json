@@ -51,6 +51,23 @@
     "lane": "MACON GA-AUGUSTA GA"
   },
   {
+    "pro": "51508",
+    "status": "OPEN",
+    "pu_date": "2026-11-18",
+    "pu_city": "PASADENA",
+    "pu_state": "TX",
+    "pu_hours": "",
+    "del_date": "",
+    "del_city": "PIEDMONT",
+    "del_state": "SC",
+    "del_hours": "0630-1400",
+    "equipment": "Van",
+    "weight_lbs": 44000,
+    "carrier_rate": null,
+    "updated_at": "2026-11-18T16:59:10.233742+00:00",
+    "lane": "PASADENA TX-PIEDMONT SC"
+  },
+  {
     "pro": "51500",
     "status": "OPEN",
     "pu_date": "2026-11-19",
@@ -96,9 +113,9 @@
     "del_state": "AL",
     "del_hours": "0700-1100",
     "equipment": "Flatbed w/ Tarps",
-    "weight_lbs": 37000,
+    "weight_lbs": 35492,
     "carrier_rate": 1200,
-    "updated_at": "2026-11-18T16:55:14.223598+00:00",
+    "updated_at": "2026-11-18T16:55:58.897310+00:00",
     "lane": "SAVANNAH GA-CLANTON AL"
   },
   {
