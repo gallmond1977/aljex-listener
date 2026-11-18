@@ -868,7 +868,7 @@
   },
   {
     "pro": "51434",
-    "status": "PICKUP",
+    "status": "LOADED",
     "pu_date": "2026-11-18",
     "pu_city": "WINCHESTER",
     "pu_state": "KY",
@@ -880,7 +880,7 @@
     "equipment": "Van",
     "weight_lbs": 12815,
     "carrier_rate": 2600,
-    "updated_at": "2026-11-18T14:47:39.706215+00:00",
+    "updated_at": "2026-11-18T15:46:56.728536+00:00",
     "lane": "WINCHESTER KY-BURLINGTON NJ"
   },
   {
