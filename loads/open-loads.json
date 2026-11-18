@@ -115,7 +115,7 @@
     "equipment": "Flatbed w/ Tarps",
     "weight_lbs": 37000,
     "carrier_rate": 1200,
-    "updated_at": "2026-11-18T16:12:24.559106+00:00",
+    "updated_at": "2026-11-18T16:43:14.480498+00:00",
     "lane": "SAVANNAH GA-CLANTON AL"
   },
   {
@@ -715,7 +715,7 @@
   },
   {
     "pro": "51353",
-    "status": "DELIVERED",
+    "status": "RELEASED",
     "pu_date": "2026-11-13",
     "pu_city": "MONTEZUMA",
     "pu_state": "GA",
@@ -727,7 +727,7 @@
     "equipment": "Reefer",
     "weight_lbs": 39000,
     "carrier_rate": 4800,
-    "updated_at": "2026-11-17T13:18:23.203632+00:00",
+    "updated_at": "2026-11-18T16:40:52.987731+00:00",
     "lane": "MONTEZUMA GA-TRACY CA"
   },
   {
@@ -817,7 +817,7 @@
   },
   {
     "pro": "51455",
-    "status": "DELIVERED",
+    "status": "RELEASED",
     "pu_date": "2026-11-17",
     "pu_city": "RICHMOND",
     "pu_state": "VA",
@@ -829,7 +829,7 @@
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 1000,
     "carrier_rate": 200,
-    "updated_at": "2026-11-17T13:23:30.492950+00:00",
+    "updated_at": "2026-11-18T16:42:56.610755+00:00",
     "lane": "RICHMOND VA-RICHMOND VA"
   },
   {
