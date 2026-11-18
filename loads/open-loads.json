@@ -94,11 +94,11 @@
     "del_date": "2026-11-20",
     "del_city": "EAST MOLINE",
     "del_state": "IL",
-    "del_hours": "",
+    "del_hours": "0700-1400",
     "equipment": "Van",
     "weight_lbs": 6900,
-    "carrier_rate": null,
-    "updated_at": "2026-11-18T20:17:41.256002+00:00",
+    "carrier_rate": 1750,
+    "updated_at": "2026-11-18T20:23:54.459346+00:00",
     "lane": "BELCAMP MD-EAST MOLINE IL"
   },
   {
