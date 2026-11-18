@@ -40,32 +40,15 @@
     "pu_city": "MACON",
     "pu_state": "GA",
     "pu_hours": "",
-    "del_date": "2026-11-18",
+    "del_date": "2026-11-19",
     "del_city": "AUGUSTA",
     "del_state": "GA",
     "del_hours": "0800-1600",
     "equipment": "Flatbed",
     "weight_lbs": 47000,
-    "carrier_rate": 650,
-    "updated_at": "2026-11-18T13:49:52.832852+00:00",
+    "carrier_rate": 700,
+    "updated_at": "2026-11-18T17:19:08.235165+00:00",
     "lane": "MACON GA-AUGUSTA GA"
-  },
-  {
-    "pro": "51508",
-    "status": "OPEN",
-    "pu_date": "2026-11-18",
-    "pu_city": "PASADENA",
-    "pu_state": "TX",
-    "pu_hours": "",
-    "del_date": "",
-    "del_city": "PIEDMONT",
-    "del_state": "SC",
-    "del_hours": "0630-1400",
-    "equipment": "Van",
-    "weight_lbs": 44960,
-    "carrier_rate": null,
-    "updated_at": "2026-11-18T17:01:46.637960+00:00",
-    "lane": "PASADENA TX-PIEDMONT SC"
   },
   {
     "pro": "51502",
@@ -865,5 +848,22 @@
     "carrier_rate": 2800,
     "updated_at": "2026-11-13T19:32:47.886775+00:00",
     "lane": "LA PORTE TX-PIEDMONT SC"
+  },
+  {
+    "pro": "51508",
+    "status": "COVERED",
+    "pu_date": "2026-11-20",
+    "pu_city": "PASADENA",
+    "pu_state": "TX",
+    "pu_hours": "1200",
+    "del_date": "2026-11-23",
+    "del_city": "PIEDMONT",
+    "del_state": "SC",
+    "del_hours": "0630-1400",
+    "equipment": "Van",
+    "weight_lbs": 44960,
+    "carrier_rate": 2800,
+    "updated_at": "2026-11-18T17:19:42.370733+00:00",
+    "lane": "PASADENA TX-PIEDMONT SC"
   }
 ]
