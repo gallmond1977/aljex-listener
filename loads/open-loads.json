@@ -30,7 +30,7 @@
     "equipment": "Flatbed",
     "weight_lbs": 30000,
     "carrier_rate": 3000,
-    "updated_at": "2026-11-19T21:09:54.852936+00:00",
+    "updated_at": "2026-11-19T21:15:09.480993+00:00",
     "lane": "MILLSAP TX-SANFORD FL"
   },
   {
@@ -766,7 +766,7 @@
   },
   {
     "pro": "51497",
-    "status": "DISPATCHED",
+    "status": "PICKUP",
     "pu_date": "2026-11-19",
     "pu_city": "MACON",
     "pu_state": "GA",
@@ -778,7 +778,7 @@
     "equipment": "Flatbed",
     "weight_lbs": 47000,
     "carrier_rate": 700,
-    "updated_at": "2026-11-19T20:32:11.779633+00:00",
+    "updated_at": "2026-11-19T21:14:20.823729+00:00",
     "lane": "MACON GA-AUGUSTA GA"
   },
   {
