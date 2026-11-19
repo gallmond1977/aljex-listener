@@ -30,7 +30,7 @@
     "equipment": "Flatbed w/ Tarps",
     "weight_lbs": 30000,
     "carrier_rate": 3000,
-    "updated_at": "2026-11-19T22:25:15.627048+00:00",
+    "updated_at": "2026-11-19T22:25:32.409004+00:00",
     "lane": "MILLSAP TX-SANFORD FL"
   },
   {
@@ -749,7 +749,7 @@
   },
   {
     "pro": "51385",
-    "status": "CONSIGNEE",
+    "status": "DELIVERED",
     "pu_date": "2026-11-18",
     "pu_city": "OAKLAND",
     "pu_state": "TN",
@@ -761,7 +761,7 @@
     "equipment": "Van Hazmat",
     "weight_lbs": 44900,
     "carrier_rate": 3000,
-    "updated_at": "2026-11-19T19:47:12.126021+00:00",
+    "updated_at": "2026-11-19T22:30:00.592742+00:00",
     "lane": "OAKLAND TN-SALISBURY NC"
   },
   {
