@@ -114,8 +114,8 @@
     "del_hours": "8-4",
     "equipment": "Van",
     "weight_lbs": 40000,
-    "carrier_rate": null,
-    "updated_at": "2026-11-19T14:14:58.812782+00:00",
+    "carrier_rate": 425,
+    "updated_at": "2026-11-19T15:34:58.739911+00:00",
     "lane": "LAGRANGE GA-NEWNAN GA"
   },
   {
@@ -132,7 +132,7 @@
     "equipment": "Flatbed Hot Shot",
     "weight_lbs": 5700,
     "carrier_rate": null,
-    "updated_at": "2026-11-19T15:28:39.600959+00:00",
+    "updated_at": "2026-11-19T15:35:07.361119+00:00",
     "lane": "DULUTH GA-GEORGETOWN TX"
   },
   {
