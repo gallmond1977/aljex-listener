@@ -98,7 +98,7 @@
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 5000,
     "carrier_rate": 350,
-    "updated_at": "2026-11-19T14:09:49.825837+00:00",
+    "updated_at": "2026-11-19T14:11:24.543854+00:00",
     "lane": "RALEIGH NC-WINSTON SALEM NC"
   },
   {
@@ -148,8 +148,8 @@
     "del_hours": "8-4",
     "equipment": "Van",
     "weight_lbs": 40000,
-    "carrier_rate": 400,
-    "updated_at": "2026-11-18T16:09:19.081067+00:00",
+    "carrier_rate": 425,
+    "updated_at": "2026-11-19T14:15:14.208250+00:00",
     "lane": "LAGRANGE GA-NEWNAN GA"
   },
   {
@@ -185,6 +185,23 @@
     "carrier_rate": 2700,
     "updated_at": "2026-11-19T14:08:35.145861+00:00",
     "lane": "POTTERVILLE MI-PHENIX CITY AL"
+  },
+  {
+    "pro": "51518",
+    "status": "OPEN",
+    "pu_date": "2026-11-20",
+    "pu_city": "LAGRANGE",
+    "pu_state": "GA",
+    "pu_hours": "0800-1200",
+    "del_date": "2026-11-20",
+    "del_city": "NEWNAN",
+    "del_state": "GA",
+    "del_hours": "8-4",
+    "equipment": "Van",
+    "weight_lbs": 40000,
+    "carrier_rate": null,
+    "updated_at": "2026-11-19T14:14:58.812782+00:00",
+    "lane": "LAGRANGE GA-NEWNAN GA"
   },
   {
     "pro": "50717",
@@ -834,7 +851,7 @@
   },
   {
     "pro": "51472",
-    "status": "COVERED",
+    "status": "DISPATCHED",
     "pu_date": "2026-11-19",
     "pu_city": "WINCHESTER",
     "pu_state": "KY",
@@ -846,7 +863,7 @@
     "equipment": "Van",
     "weight_lbs": 11280,
     "carrier_rate": 1100,
-    "updated_at": "2026-11-19T14:04:18.566862+00:00",
+    "updated_at": "2026-11-19T14:14:18.394697+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
