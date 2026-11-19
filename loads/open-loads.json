@@ -68,23 +68,6 @@
     "lane": "SAVANNAH GA-CLANTON AL"
   },
   {
-    "pro": "51511",
-    "status": "OPEN",
-    "pu_date": "2026-11-19",
-    "pu_city": "BELCAMP",
-    "pu_state": "MD",
-    "pu_hours": "0800-1500",
-    "del_date": "2026-11-20",
-    "del_city": "EAST MOLINE",
-    "del_state": "IL",
-    "del_hours": "0700-1400",
-    "equipment": "Van",
-    "weight_lbs": 6900,
-    "carrier_rate": 1750,
-    "updated_at": "2026-11-18T20:53:14.584892+00:00",
-    "lane": "BELCAMP MD-EAST MOLINE IL"
-  },
-  {
     "pro": "51513",
     "status": "OPEN",
     "pu_date": "2026-11-19",
