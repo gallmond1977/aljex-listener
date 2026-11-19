@@ -85,23 +85,6 @@
     "lane": "PENDERGRASS GA-ZEBULON NC"
   },
   {
-    "pro": "51517",
-    "status": "OPEN",
-    "pu_date": "2026-11-19",
-    "pu_city": "RALEIGH",
-    "pu_state": "NC",
-    "pu_hours": "0800-1130",
-    "del_date": "2026-11-19",
-    "del_city": "WINSTON SALEM",
-    "del_state": "NC",
-    "del_hours": "0800-1500",
-    "equipment": "26' Straight Box Truck",
-    "weight_lbs": 5000,
-    "carrier_rate": 350,
-    "updated_at": "2026-11-19T14:11:24.543854+00:00",
-    "lane": "RALEIGH NC-WINSTON SALEM NC"
-  },
-  {
     "pro": "51459",
     "status": "OPEN",
     "pu_date": "2026-11-20",
@@ -646,23 +629,6 @@
     "lane": "OAKLAND TN-SALISBURY NC"
   },
   {
-    "pro": "51415",
-    "status": "RELEASED",
-    "pu_date": "2026-11-12",
-    "pu_city": "RALEIGH",
-    "pu_state": "NC",
-    "pu_hours": "0900",
-    "del_date": "2026-11-12",
-    "del_city": "WINSTON SALEM",
-    "del_state": "NC",
-    "del_hours": "0800-1500",
-    "equipment": "Van",
-    "weight_lbs": 8093,
-    "carrier_rate": 500,
-    "updated_at": "2026-11-18T16:40:06.221909+00:00",
-    "lane": "RALEIGH NC-WINSTON SALEM NC"
-  },
-  {
     "pro": "51428",
     "status": "RELEASED",
     "pu_date": "2026-11-12",
@@ -865,23 +831,6 @@
     "carrier_rate": 1100,
     "updated_at": "2026-11-19T14:14:18.394697+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
-  },
-  {
-    "pro": "51509",
-    "status": "PICKUP",
-    "pu_date": "2026-11-19",
-    "pu_city": "RALEIGH",
-    "pu_state": "NC",
-    "pu_hours": "0900",
-    "del_date": "2026-11-19",
-    "del_city": "WINSTON SALEM",
-    "del_state": "NC",
-    "del_hours": "0800-1500",
-    "equipment": "Van",
-    "weight_lbs": 10103,
-    "carrier_rate": 550,
-    "updated_at": "2026-11-19T13:38:52.643069+00:00",
-    "lane": "RALEIGH NC-WINSTON SALEM NC"
   },
   {
     "pro": "51316",
