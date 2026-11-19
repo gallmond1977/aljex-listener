@@ -17,6 +17,23 @@
     "lane": "MACON GA-AUGUSTA GA"
   },
   {
+    "pro": "51532",
+    "status": "OPEN",
+    "pu_date": "2026-11-19",
+    "pu_city": "EUFAULA",
+    "pu_state": "AL",
+    "pu_hours": "0900-1500",
+    "del_date": "2026-11-20",
+    "del_city": "SUMTER",
+    "del_state": "SC",
+    "del_hours": "0800-1000",
+    "equipment": "Van",
+    "weight_lbs": 24215,
+    "carrier_rate": 800,
+    "updated_at": "2026-11-19T18:31:17.311481+00:00",
+    "lane": "EUFAULA AL-SUMTER SC"
+  },
+  {
     "pro": "51497",
     "status": "OPEN",
     "pu_date": "2026-11-20",
@@ -715,7 +732,7 @@
   },
   {
     "pro": "51386",
-    "status": "DELIVERED",
+    "status": "RELEASED",
     "pu_date": "2026-11-17",
     "pu_city": "OAKLAND",
     "pu_state": "TN",
@@ -727,7 +744,7 @@
     "equipment": "Van Hazmat",
     "weight_lbs": 44900,
     "carrier_rate": 2500,
-    "updated_at": "2026-11-19T18:30:07.415142+00:00",
+    "updated_at": "2026-11-19T18:30:26.958928+00:00",
     "lane": "OAKLAND TN-PHENIX CITY AL"
   },
   {
