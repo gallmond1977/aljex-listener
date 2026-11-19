@@ -26,11 +26,11 @@
     "del_date": "2026-11-23",
     "del_city": "SANFORD",
     "del_state": "FL",
-    "del_hours": "0700-1500",
-    "equipment": "Flatbed",
+    "del_hours": "0800-1100",
+    "equipment": "Flatbed w/ Tarps",
     "weight_lbs": 30000,
     "carrier_rate": 3000,
-    "updated_at": "2026-11-19T21:16:19.596108+00:00",
+    "updated_at": "2026-11-19T21:25:00.797317+00:00",
     "lane": "MILLSAP TX-SANFORD FL"
   },
   {
