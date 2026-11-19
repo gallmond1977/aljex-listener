@@ -17,6 +17,23 @@
     "lane": "MACON GA-AUGUSTA GA"
   },
   {
+    "pro": "51527",
+    "status": "OPEN",
+    "pu_date": "2026-11-20",
+    "pu_city": "MILLSAP",
+    "pu_state": "TX",
+    "pu_hours": "1000-1300",
+    "del_date": "2026-11-23",
+    "del_city": "SANFORD",
+    "del_state": "FL",
+    "del_hours": "0800-1100",
+    "equipment": "Flatbed w/ Tarps",
+    "weight_lbs": 30000,
+    "carrier_rate": 3000,
+    "updated_at": "2026-11-19T22:25:15.627048+00:00",
+    "lane": "MILLSAP TX-SANFORD FL"
+  },
+  {
     "pro": "51536",
     "status": "OPEN",
     "pu_date": "2026-11-20",
