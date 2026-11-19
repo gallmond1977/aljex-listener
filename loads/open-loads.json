@@ -17,6 +17,23 @@
     "lane": "MACON GA-AUGUSTA GA"
   },
   {
+    "pro": "51536",
+    "status": "OPEN",
+    "pu_date": "2026-11-20",
+    "pu_city": "MONCURE",
+    "pu_state": "NC",
+    "pu_hours": "0730-1600",
+    "del_date": "2026-11-23",
+    "del_city": "ATLANTA",
+    "del_state": "GA",
+    "del_hours": "0800-1600",
+    "equipment": "Van",
+    "weight_lbs": 44000,
+    "carrier_rate": null,
+    "updated_at": "2026-11-19T21:49:19.438251+00:00",
+    "lane": "MONCURE NC-ATLANTA GA"
+  },
+  {
     "pro": "50717",
     "status": "OPEN",
     "pu_date": "2026-11-23",
@@ -476,6 +493,40 @@
     "lane": "OLD FORT NC-COLUMBUS GA"
   },
   {
+    "pro": "51412",
+    "status": "RELEASED",
+    "pu_date": "2026-11-11",
+    "pu_city": "MONCURE",
+    "pu_state": "NC",
+    "pu_hours": "0730-1600",
+    "del_date": "2026-11-12",
+    "del_city": "ATLANTA",
+    "del_state": "GA",
+    "del_hours": "0800-1600",
+    "equipment": "Flatbed",
+    "weight_lbs": 44000,
+    "carrier_rate": 900,
+    "updated_at": "2026-11-13T12:40:14.230961+00:00",
+    "lane": "MONCURE NC-ATLANTA GA"
+  },
+  {
+    "pro": "51413",
+    "status": "RELEASED",
+    "pu_date": "2026-11-11",
+    "pu_city": "MONCURE",
+    "pu_state": "NC",
+    "pu_hours": "0730-1600",
+    "del_date": "2026-11-12",
+    "del_city": "ATLANTA",
+    "del_state": "GA",
+    "del_hours": "0800-1600",
+    "equipment": "Van",
+    "weight_lbs": 44000,
+    "carrier_rate": 850,
+    "updated_at": "2026-11-16T14:42:35.667180+00:00",
+    "lane": "MONCURE NC-ATLANTA GA"
+  },
+  {
     "pro": "51374",
     "status": "RELEASED",
     "pu_date": "2026-11-12",
@@ -576,6 +627,23 @@
     "carrier_rate": 3000,
     "updated_at": "2026-11-16T15:40:15.801439+00:00",
     "lane": "OAKLAND TN-SALISBURY NC"
+  },
+  {
+    "pro": "51414",
+    "status": "DELIVERED",
+    "pu_date": "2026-11-12",
+    "pu_city": "MONCURE",
+    "pu_state": "NC",
+    "pu_hours": "0730-1600",
+    "del_date": "2026-11-13",
+    "del_city": "ATLANTA",
+    "del_state": "GA",
+    "del_hours": "0800-1600",
+    "equipment": "Van",
+    "weight_lbs": 44000,
+    "carrier_rate": 900,
+    "updated_at": "2026-11-13T15:33:57.507300+00:00",
+    "lane": "MONCURE NC-ATLANTA GA"
   },
   {
     "pro": "51409",
@@ -681,7 +749,7 @@
   },
   {
     "pro": "51434",
-    "status": "CONSIGNEE",
+    "status": "DELIVERED",
     "pu_date": "2026-11-18",
     "pu_city": "WINCHESTER",
     "pu_state": "KY",
@@ -693,7 +761,7 @@
     "equipment": "Van",
     "weight_lbs": 12815,
     "carrier_rate": 2600,
-    "updated_at": "2026-11-19T18:27:13.739913+00:00",
+    "updated_at": "2026-11-19T21:45:54.542176+00:00",
     "lane": "WINCHESTER KY-BURLINGTON NJ"
   },
   {
