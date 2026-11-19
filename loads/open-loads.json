@@ -124,7 +124,7 @@
     "pu_date": "2026-11-20",
     "pu_city": "DULUTH",
     "pu_state": "GA",
-    "pu_hours": "1500",
+    "pu_hours": "",
     "del_date": "2026-11-23",
     "del_city": "GEORGETOWN",
     "del_state": "TX",
@@ -132,7 +132,7 @@
     "equipment": "Flatbed Hot Shot",
     "weight_lbs": 5700,
     "carrier_rate": null,
-    "updated_at": "2026-11-19T15:24:58.583179+00:00",
+    "updated_at": "2026-11-19T15:28:39.600959+00:00",
     "lane": "DULUTH GA-GEORGETOWN TX"
   },
   {
@@ -625,7 +625,7 @@
     "equipment": "Flatbed",
     "weight_lbs": 46000,
     "carrier_rate": 700,
-    "updated_at": "2026-11-19T14:55:16.933339+00:00",
+    "updated_at": "2026-11-19T15:25:39.052725+00:00",
     "lane": "MACON GA-AUGUSTA GA"
   },
   {
