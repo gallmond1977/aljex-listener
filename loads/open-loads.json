@@ -47,7 +47,7 @@
     "equipment": "Van",
     "weight_lbs": 40000,
     "carrier_rate": 425,
-    "updated_at": "2026-11-19T14:15:14.208250+00:00",
+    "updated_at": "2026-11-19T18:16:59.347588+00:00",
     "lane": "LAGRANGE GA-NEWNAN GA"
   },
   {
@@ -98,7 +98,7 @@
     "equipment": "Van",
     "weight_lbs": 40000,
     "carrier_rate": 425,
-    "updated_at": "2026-11-19T15:34:58.739911+00:00",
+    "updated_at": "2026-11-19T18:17:38.816171+00:00",
     "lane": "LAGRANGE GA-NEWNAN GA"
   },
   {
@@ -193,14 +193,14 @@
     "pu_city": "MILLSAP",
     "pu_state": "TX",
     "pu_hours": "0600-1300",
-    "del_date": "2026-11-24",
+    "del_date": "2026-11-25",
     "del_city": "SANFORD",
     "del_state": "FL",
     "del_hours": "0700-1500",
     "equipment": "Flatbed",
     "weight_lbs": 30000,
     "carrier_rate": 2800,
-    "updated_at": "2026-11-19T18:14:50.773708+00:00",
+    "updated_at": "2026-11-19T18:19:34.001281+00:00",
     "lane": "MILLSAP TX-SANFORD FL"
   },
   {
