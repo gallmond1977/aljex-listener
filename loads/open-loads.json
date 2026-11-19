@@ -6,23 +6,6 @@
     "pu_city": "MACON",
     "pu_state": "GA",
     "pu_hours": "",
-    "del_date": "2026-11-19",
-    "del_city": "AUGUSTA",
-    "del_state": "GA",
-    "del_hours": "0800-1600",
-    "equipment": "Flatbed",
-    "weight_lbs": 47000,
-    "carrier_rate": 700,
-    "updated_at": "2026-11-18T20:50:55.382148+00:00",
-    "lane": "MACON GA-AUGUSTA GA"
-  },
-  {
-    "pro": "51497",
-    "status": "OPEN",
-    "pu_date": "2026-11-19",
-    "pu_city": "MACON",
-    "pu_state": "GA",
-    "pu_hours": "",
     "del_date": "2026-11-20",
     "del_city": "AUGUSTA",
     "del_state": "GA",
@@ -30,7 +13,7 @@
     "equipment": "Flatbed",
     "weight_lbs": 47000,
     "carrier_rate": 700,
-    "updated_at": "2026-11-18T20:51:11.514194+00:00",
+    "updated_at": "2026-11-19T16:08:34.368183+00:00",
     "lane": "MACON GA-AUGUSTA GA"
   },
   {
@@ -49,6 +32,23 @@
     "carrier_rate": 4700,
     "updated_at": "2026-11-18T20:31:18.630914+00:00",
     "lane": "MONTEZUMA GA-TRACY CA"
+  },
+  {
+    "pro": "51497",
+    "status": "OPEN",
+    "pu_date": "2026-11-20",
+    "pu_city": "MACON",
+    "pu_state": "GA",
+    "pu_hours": "",
+    "del_date": "2026-11-20",
+    "del_city": "AUGUSTA",
+    "del_state": "GA",
+    "del_hours": "0800-1600",
+    "equipment": "Flatbed",
+    "weight_lbs": 47000,
+    "carrier_rate": 700,
+    "updated_at": "2026-11-19T16:08:03.205054+00:00",
+    "lane": "MACON GA-AUGUSTA GA"
   },
   {
     "pro": "51505",
@@ -625,7 +625,7 @@
     "equipment": "Flatbed",
     "weight_lbs": 46000,
     "carrier_rate": 700,
-    "updated_at": "2026-11-19T15:25:39.052725+00:00",
+    "updated_at": "2026-11-19T16:07:19.650558+00:00",
     "lane": "MACON GA-AUGUSTA GA"
   },
   {
