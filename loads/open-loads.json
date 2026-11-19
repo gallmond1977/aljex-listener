@@ -34,23 +34,6 @@
     "lane": "MACON GA-AUGUSTA GA"
   },
   {
-    "pro": "51505",
-    "status": "OPEN",
-    "pu_date": "2026-11-20",
-    "pu_city": "LAGRANGE",
-    "pu_state": "GA",
-    "pu_hours": "0800-1200",
-    "del_date": "2026-11-20",
-    "del_city": "NEWNAN",
-    "del_state": "GA",
-    "del_hours": "8-4",
-    "equipment": "Van",
-    "weight_lbs": 40000,
-    "carrier_rate": 425,
-    "updated_at": "2026-11-19T18:16:59.347588+00:00",
-    "lane": "LAGRANGE GA-NEWNAN GA"
-  },
-  {
     "pro": "51510",
     "status": "OPEN",
     "pu_date": "2026-11-20",
@@ -83,23 +66,6 @@
     "carrier_rate": 2700,
     "updated_at": "2026-11-19T14:08:35.145861+00:00",
     "lane": "POTTERVILLE MI-PHENIX CITY AL"
-  },
-  {
-    "pro": "51518",
-    "status": "OPEN",
-    "pu_date": "2026-11-20",
-    "pu_city": "LAGRANGE",
-    "pu_state": "GA",
-    "pu_hours": "0800-1200",
-    "del_date": "2026-11-20",
-    "del_city": "NEWNAN",
-    "del_state": "GA",
-    "del_hours": "8-4",
-    "equipment": "Van",
-    "weight_lbs": 40000,
-    "carrier_rate": 425,
-    "updated_at": "2026-11-19T18:17:38.816171+00:00",
-    "lane": "LAGRANGE GA-NEWNAN GA"
   },
   {
     "pro": "50717",
@@ -761,7 +727,7 @@
     "equipment": "Van Hazmat",
     "weight_lbs": 44900,
     "carrier_rate": 2500,
-    "updated_at": "2026-11-18T16:16:48.676480+00:00",
+    "updated_at": "2026-11-19T18:30:07.415142+00:00",
     "lane": "OAKLAND TN-PHENIX CITY AL"
   },
   {
@@ -817,7 +783,7 @@
   },
   {
     "pro": "51434",
-    "status": "LOADED",
+    "status": "CONSIGNEE",
     "pu_date": "2026-11-18",
     "pu_city": "WINCHESTER",
     "pu_state": "KY",
@@ -829,7 +795,7 @@
     "equipment": "Van",
     "weight_lbs": 12815,
     "carrier_rate": 2600,
-    "updated_at": "2026-11-19T16:19:27.254274+00:00",
+    "updated_at": "2026-11-19T18:27:13.739913+00:00",
     "lane": "WINCHESTER KY-BURLINGTON NJ"
   },
   {
