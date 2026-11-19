@@ -149,7 +149,7 @@
     "equipment": "Van",
     "weight_lbs": 9900,
     "carrier_rate": null,
-    "updated_at": "2026-11-19T13:43:59.572563+00:00",
+    "updated_at": "2026-11-19T13:46:43.722941+00:00",
     "lane": "POTTERVILLE MI-SALISBURY NC"
   },
   {
@@ -249,9 +249,9 @@
     "del_state": "MA",
     "del_hours": "",
     "equipment": "Van",
-    "weight_lbs": 6272,
+    "weight_lbs": 14549,
     "carrier_rate": null,
-    "updated_at": "2026-11-19T13:37:44.505858+00:00",
+    "updated_at": "2026-11-19T13:45:56.148584+00:00",
     "lane": "WINCHESTER KY-UXBRIDGE MA"
   },
   {
