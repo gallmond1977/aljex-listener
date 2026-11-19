@@ -34,23 +34,6 @@
     "lane": "EUFAULA AL-SUMTER SC"
   },
   {
-    "pro": "51533",
-    "status": "OPEN",
-    "pu_date": "2026-11-19",
-    "pu_city": "MIDLAND",
-    "pu_state": "GA",
-    "pu_hours": "0800-1600",
-    "del_date": "2026-11-20",
-    "del_city": "HENDERSON",
-    "del_state": "NC",
-    "del_hours": "",
-    "equipment": "Van",
-    "weight_lbs": 11400,
-    "carrier_rate": 1400,
-    "updated_at": "2026-11-19T19:03:02.537060+00:00",
-    "lane": "MIDLAND GA-HENDERSON NC"
-  },
-  {
     "pro": "51497",
     "status": "OPEN",
     "pu_date": "2026-11-20",
@@ -846,7 +829,7 @@
     "equipment": "Van",
     "weight_lbs": 11280,
     "carrier_rate": 1100,
-    "updated_at": "2026-11-19T18:23:38.692677+00:00",
+    "updated_at": "2026-11-19T19:07:14.695451+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
@@ -863,7 +846,7 @@
     "equipment": "Van",
     "weight_lbs": 11280,
     "carrier_rate": 1100,
-    "updated_at": "2026-11-19T17:04:45.851356+00:00",
+    "updated_at": "2026-11-19T19:08:30.872704+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
