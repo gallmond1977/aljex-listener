@@ -851,7 +851,7 @@
   },
   {
     "pro": "51495",
-    "status": "LOADED",
+    "status": "CONSIGNEE",
     "pu_date": "2026-11-19",
     "pu_city": "MACON",
     "pu_state": "GA",
@@ -863,7 +863,7 @@
     "equipment": "Flatbed",
     "weight_lbs": 46000,
     "carrier_rate": 700,
-    "updated_at": "2026-11-19T19:51:14.261915+00:00",
+    "updated_at": "2026-11-19T22:31:38.954266+00:00",
     "lane": "MACON GA-AUGUSTA GA"
   },
   {
