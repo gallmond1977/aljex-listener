@@ -5,7 +5,7 @@
     "pu_date": "2026-11-19",
     "pu_city": "MACON",
     "pu_state": "GA",
-    "pu_hours": "",
+    "pu_hours": "0800-1630",
     "del_date": "2026-11-20",
     "del_city": "AUGUSTA",
     "del_state": "GA",
@@ -13,7 +13,7 @@
     "equipment": "Flatbed",
     "weight_lbs": 47000,
     "carrier_rate": 700,
-    "updated_at": "2026-11-19T16:08:34.368183+00:00",
+    "updated_at": "2026-11-19T16:12:31.291320+00:00",
     "lane": "MACON GA-AUGUSTA GA"
   },
   {
@@ -39,7 +39,7 @@
     "pu_date": "2026-11-20",
     "pu_city": "MACON",
     "pu_state": "GA",
-    "pu_hours": "",
+    "pu_hours": "0800-1630",
     "del_date": "2026-11-20",
     "del_city": "AUGUSTA",
     "del_state": "GA",
@@ -47,7 +47,7 @@
     "equipment": "Flatbed",
     "weight_lbs": 47000,
     "carrier_rate": 700,
-    "updated_at": "2026-11-19T16:08:03.205054+00:00",
+    "updated_at": "2026-11-19T16:12:12.361398+00:00",
     "lane": "MACON GA-AUGUSTA GA"
   },
   {
