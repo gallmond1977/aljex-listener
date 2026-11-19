@@ -124,7 +124,7 @@
     "pu_date": "2026-11-20",
     "pu_city": "MILLSAP",
     "pu_state": "TX",
-    "pu_hours": "0700-1430",
+    "pu_hours": "0600-1300",
     "del_date": "2026-11-23",
     "del_city": "CLEMSON",
     "del_state": "SC",
@@ -132,7 +132,7 @@
     "equipment": "Flatbed Hot Shot",
     "weight_lbs": 30000,
     "carrier_rate": null,
-    "updated_at": "2026-11-19T17:29:51.904751+00:00",
+    "updated_at": "2026-11-19T17:39:19.670766+00:00",
     "lane": "MILLSAP TX-CLEMSON SC"
   },
   {
@@ -851,7 +851,7 @@
   },
   {
     "pro": "51495",
-    "status": "DISPATCHED",
+    "status": "PICKUP",
     "pu_date": "2026-11-19",
     "pu_city": "MACON",
     "pu_state": "GA",
@@ -863,7 +863,7 @@
     "equipment": "Flatbed",
     "weight_lbs": 46000,
     "carrier_rate": 700,
-    "updated_at": "2026-11-19T17:21:53.259050+00:00",
+    "updated_at": "2026-11-19T17:39:17.812155+00:00",
     "lane": "MACON GA-AUGUSTA GA"
   },
   {
