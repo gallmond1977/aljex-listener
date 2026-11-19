@@ -17,23 +17,6 @@
     "lane": "MACON GA-AUGUSTA GA"
   },
   {
-    "pro": "51532",
-    "status": "OPEN",
-    "pu_date": "2026-11-19",
-    "pu_city": "EUFAULA",
-    "pu_state": "AL",
-    "pu_hours": "0900-1500",
-    "del_date": "2026-11-20",
-    "del_city": "SUMTER",
-    "del_state": "SC",
-    "del_hours": "0800-1000",
-    "equipment": "Van",
-    "weight_lbs": 24215,
-    "carrier_rate": 1200,
-    "updated_at": "2026-11-19T19:18:28.662437+00:00",
-    "lane": "EUFAULA AL-SUMTER SC"
-  },
-  {
     "pro": "51497",
     "status": "OPEN",
     "pu_date": "2026-11-20",
