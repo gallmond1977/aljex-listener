@@ -783,7 +783,7 @@
   },
   {
     "pro": "51433",
-    "status": "LOADED",
+    "status": "CONSIGNEE",
     "pu_date": "2026-11-18",
     "pu_city": "WINCHESTER",
     "pu_state": "KY",
@@ -795,7 +795,7 @@
     "equipment": "Van",
     "weight_lbs": 9078,
     "carrier_rate": 3000,
-    "updated_at": "2026-11-19T16:20:52.368389+00:00",
+    "updated_at": "2026-11-19T23:38:14.272825+00:00",
     "lane": "WINCHESTER KY-JACKSONVILLE FL"
   },
   {
@@ -851,19 +851,19 @@
   },
   {
     "pro": "51495",
-    "status": "CONSIGNEE",
+    "status": "DELIVERED",
     "pu_date": "2026-11-19",
     "pu_city": "MACON",
     "pu_state": "GA",
     "pu_hours": "0800-1630",
-    "del_date": "2026-11-20",
+    "del_date": "2026-11-19",
     "del_city": "AUGUSTA",
     "del_state": "GA",
     "del_hours": "0800-1600",
     "equipment": "Flatbed",
     "weight_lbs": 46000,
     "carrier_rate": 700,
-    "updated_at": "2026-11-19T22:31:38.954266+00:00",
+    "updated_at": "2026-11-19T23:36:14.189074+00:00",
     "lane": "MACON GA-AUGUSTA GA"
   },
   {
