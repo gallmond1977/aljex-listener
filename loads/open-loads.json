@@ -119,23 +119,6 @@
     "lane": "LAGRANGE GA-NEWNAN GA"
   },
   {
-    "pro": "51520",
-    "status": "OPEN",
-    "pu_date": "2026-11-20",
-    "pu_city": "DULUTH",
-    "pu_state": "GA",
-    "pu_hours": "",
-    "del_date": "2026-11-23",
-    "del_city": "GEORGETOWN",
-    "del_state": "TX",
-    "del_hours": "",
-    "equipment": "Flatbed Hot Shot",
-    "weight_lbs": 5700,
-    "carrier_rate": 1800,
-    "updated_at": "2026-11-19T16:19:46.406883+00:00",
-    "lane": "DULUTH GA-GEORGETOWN TX"
-  },
-  {
     "pro": "50717",
     "status": "OPEN",
     "pu_date": "2026-11-23",
@@ -591,7 +574,7 @@
     "equipment": "Van",
     "weight_lbs": 9078,
     "carrier_rate": 3000,
-    "updated_at": "2026-11-18T21:11:57.923796+00:00",
+    "updated_at": "2026-11-19T16:20:52.368389+00:00",
     "lane": "WINCHESTER KY-JACKSONVILLE FL"
   },
   {
