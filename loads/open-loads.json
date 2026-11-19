@@ -1,22 +1,5 @@
 [
   {
-    "pro": "51535",
-    "status": "OPEN",
-    "pu_date": "2026-11-19",
-    "pu_city": "COLUMBUS",
-    "pu_state": "GA",
-    "pu_hours": "ASAP",
-    "del_date": "2026-11-19",
-    "del_city": "LAGRANGE",
-    "del_state": "GA",
-    "del_hours": "",
-    "equipment": "Flatbed Hot Shot",
-    "weight_lbs": 3000,
-    "carrier_rate": 400,
-    "updated_at": "2026-11-19T20:29:21.075141+00:00",
-    "lane": "COLUMBUS GA-LAGRANGE GA"
-  },
-  {
     "pro": "51496",
     "status": "OPEN",
     "pu_date": "2026-11-20",
@@ -795,7 +778,7 @@
     "equipment": "Flatbed",
     "weight_lbs": 47000,
     "carrier_rate": 700,
-    "updated_at": "2026-11-19T20:26:04.634810+00:00",
+    "updated_at": "2026-11-19T20:32:11.779633+00:00",
     "lane": "MACON GA-AUGUSTA GA"
   },
   {
