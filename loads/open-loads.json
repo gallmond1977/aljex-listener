@@ -119,6 +119,23 @@
     "lane": "LAGRANGE GA-NEWNAN GA"
   },
   {
+    "pro": "51527",
+    "status": "OPEN",
+    "pu_date": "2026-11-20",
+    "pu_city": "MILLSAP",
+    "pu_state": "TX",
+    "pu_hours": "0700-1430",
+    "del_date": "2026-11-23",
+    "del_city": "CLEMSON",
+    "del_state": "SC",
+    "del_hours": "0800",
+    "equipment": "Flatbed Hot Shot",
+    "weight_lbs": 30000,
+    "carrier_rate": null,
+    "updated_at": "2026-11-19T17:29:51.904751+00:00",
+    "lane": "MILLSAP TX-CLEMSON SC"
+  },
+  {
     "pro": "50717",
     "status": "OPEN",
     "pu_date": "2026-11-23",
