@@ -1,8 +1,25 @@
 [
   {
-    "pro": "51496",
+    "pro": "51535",
     "status": "OPEN",
     "pu_date": "2026-11-19",
+    "pu_city": "COLUMBUS",
+    "pu_state": "GA",
+    "pu_hours": "ASAP",
+    "del_date": "2026-11-19",
+    "del_city": "LAGRANGE",
+    "del_state": "GA",
+    "del_hours": "",
+    "equipment": "Flatbed Hot Shot",
+    "weight_lbs": 3000,
+    "carrier_rate": 400,
+    "updated_at": "2026-11-19T20:29:21.075141+00:00",
+    "lane": "COLUMBUS GA-LAGRANGE GA"
+  },
+  {
+    "pro": "51496",
+    "status": "OPEN",
+    "pu_date": "2026-11-20",
     "pu_city": "MACON",
     "pu_state": "GA",
     "pu_hours": "0800-1630",
@@ -13,7 +30,7 @@
     "equipment": "Flatbed",
     "weight_lbs": 47000,
     "carrier_rate": 700,
-    "updated_at": "2026-11-19T19:01:02.600952+00:00",
+    "updated_at": "2026-11-19T20:26:26.128591+00:00",
     "lane": "MACON GA-AUGUSTA GA"
   },
   {
@@ -766,7 +783,7 @@
   },
   {
     "pro": "51497",
-    "status": "COVERED",
+    "status": "DISPATCHED",
     "pu_date": "2026-11-19",
     "pu_city": "MACON",
     "pu_state": "GA",
@@ -778,7 +795,7 @@
     "equipment": "Flatbed",
     "weight_lbs": 47000,
     "carrier_rate": 700,
-    "updated_at": "2026-11-19T20:24:29.896395+00:00",
+    "updated_at": "2026-11-19T20:26:04.634810+00:00",
     "lane": "MACON GA-AUGUSTA GA"
   },
   {
