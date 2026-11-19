@@ -51,23 +51,6 @@
     "lane": "MACON GA-AUGUSTA GA"
   },
   {
-    "pro": "51507",
-    "status": "OPEN",
-    "pu_date": "2026-11-19",
-    "pu_city": "SAVANNAH",
-    "pu_state": "GA",
-    "pu_hours": "0800-1430",
-    "del_date": "2026-11-20",
-    "del_city": "CLANTON",
-    "del_state": "AL",
-    "del_hours": "0700-1100",
-    "equipment": "Flatbed w/ Tarps",
-    "weight_lbs": 35492,
-    "carrier_rate": 1400,
-    "updated_at": "2026-11-18T21:55:21.252982+00:00",
-    "lane": "SAVANNAH GA-CLANTON AL"
-  },
-  {
     "pro": "51513",
     "status": "OPEN",
     "pu_date": "2026-11-19",
