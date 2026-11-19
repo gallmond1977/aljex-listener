@@ -51,23 +51,6 @@
     "lane": "MACON GA-AUGUSTA GA"
   },
   {
-    "pro": "51513",
-    "status": "OPEN",
-    "pu_date": "2026-11-19",
-    "pu_city": "COLUMBUS",
-    "pu_state": "GA",
-    "pu_hours": "1000-1200",
-    "del_date": "2026-11-19",
-    "del_city": "ATLANTA",
-    "del_state": "GA",
-    "del_hours": "0800-1600",
-    "equipment": "26' Straight Box Truck",
-    "weight_lbs": 9000,
-    "carrier_rate": 350,
-    "updated_at": "2026-11-19T13:01:06.286594+00:00",
-    "lane": "COLUMBUS GA-ATLANTA GA"
-  },
-  {
     "pro": "51459",
     "status": "OPEN",
     "pu_date": "2026-11-20",
@@ -100,23 +83,6 @@
     "carrier_rate": 1000,
     "updated_at": "2026-11-18T21:13:17.396115+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
-  },
-  {
-    "pro": "51501",
-    "status": "OPEN",
-    "pu_date": "2026-11-20",
-    "pu_city": "PHENIX CITY",
-    "pu_state": "AL",
-    "pu_hours": "0800-1200",
-    "del_date": "2026-11-23",
-    "del_city": "ROCKLAND",
-    "del_state": "ME",
-    "del_hours": "1200-1400",
-    "equipment": "Van",
-    "weight_lbs": 35000,
-    "carrier_rate": 4200,
-    "updated_at": "2026-11-18T16:06:52.189830+00:00",
-    "lane": "PHENIX CITY AL-ROCKLAND ME"
   },
   {
     "pro": "51505",
@@ -408,23 +374,6 @@
     "lane": "LA PORTE TX-PIEDMONT SC"
   },
   {
-    "pro": "51269",
-    "status": "RELEASED",
-    "pu_date": "2026-11-09",
-    "pu_city": "LA PORTE",
-    "pu_state": "TX",
-    "pu_hours": "0800-1430",
-    "del_date": "2026-11-11",
-    "del_city": "PIEDMONT",
-    "del_state": "SC",
-    "del_hours": "0630-1300",
-    "equipment": "Van",
-    "weight_lbs": 41328,
-    "carrier_rate": 2800,
-    "updated_at": "2026-11-12T13:17:23.612658+00:00",
-    "lane": "LA PORTE TX-PIEDMONT SC"
-  },
-  {
     "pro": "51335",
     "status": "RELEASED",
     "pu_date": "2026-11-09",
@@ -593,23 +542,6 @@
     "carrier_rate": 3000,
     "updated_at": "2026-11-16T15:40:15.801439+00:00",
     "lane": "OAKLAND TN-SALISBURY NC"
-  },
-  {
-    "pro": "51423",
-    "status": "RELEASED",
-    "pu_date": "2026-11-12",
-    "pu_city": "COLUMBUS",
-    "pu_state": "GA",
-    "pu_hours": "1000-1200",
-    "del_date": "2026-11-12",
-    "del_city": "ATLANTA",
-    "del_state": "GA",
-    "del_hours": "0800-1600",
-    "equipment": "26' Straight Box Truck",
-    "weight_lbs": 9000,
-    "carrier_rate": 350,
-    "updated_at": "2026-11-13T13:55:59.196921+00:00",
-    "lane": "COLUMBUS GA-ATLANTA GA"
   },
   {
     "pro": "51428",
@@ -795,7 +727,7 @@
     "equipment": "Van",
     "weight_lbs": 11280,
     "carrier_rate": 1100,
-    "updated_at": "2026-11-18T21:12:58.792954+00:00",
+    "updated_at": "2026-11-19T13:15:09.490202+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
