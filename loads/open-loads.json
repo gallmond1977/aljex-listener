@@ -34,23 +34,6 @@
     "lane": "MACON GA-AUGUSTA GA"
   },
   {
-    "pro": "51534",
-    "status": "OPEN",
-    "pu_date": "2026-11-20",
-    "pu_city": "MOUNT PLEASANT",
-    "pu_state": "TN",
-    "pu_hours": "1300-1500",
-    "del_date": "2026-11-23",
-    "del_city": "BEAN STATION",
-    "del_state": "TN",
-    "del_hours": "0800",
-    "equipment": "Van",
-    "weight_lbs": 13700,
-    "carrier_rate": 1000,
-    "updated_at": "2026-11-19T19:39:58.751068+00:00",
-    "lane": "MOUNT PLEASANT TN-BEAN STATION TN"
-  },
-  {
     "pro": "50717",
     "status": "OPEN",
     "pu_date": "2026-11-23",
