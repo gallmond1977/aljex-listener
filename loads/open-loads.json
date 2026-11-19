@@ -17,6 +17,23 @@
     "lane": "MACON GA-AUGUSTA GA"
   },
   {
+    "pro": "51527",
+    "status": "OPEN",
+    "pu_date": "2026-11-20",
+    "pu_city": "MILLSAP",
+    "pu_state": "TX",
+    "pu_hours": "1000-1300",
+    "del_date": "2026-11-23",
+    "del_city": "SANFORD",
+    "del_state": "FL",
+    "del_hours": "0700-1500",
+    "equipment": "Flatbed",
+    "weight_lbs": 30000,
+    "carrier_rate": 3000,
+    "updated_at": "2026-11-19T21:09:54.852936+00:00",
+    "lane": "MILLSAP TX-SANFORD FL"
+  },
+  {
     "pro": "50717",
     "status": "OPEN",
     "pu_date": "2026-11-23",
@@ -100,23 +117,6 @@
     "carrier_rate": 1000,
     "updated_at": "2026-11-19T17:08:27.279986+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
-  },
-  {
-    "pro": "51527",
-    "status": "OPEN",
-    "pu_date": "2026-11-23",
-    "pu_city": "MILLSAP",
-    "pu_state": "TX",
-    "pu_hours": "0600-1300",
-    "del_date": "2026-11-25",
-    "del_city": "SANFORD",
-    "del_state": "FL",
-    "del_hours": "0700-1500",
-    "equipment": "Flatbed",
-    "weight_lbs": 30000,
-    "carrier_rate": 2800,
-    "updated_at": "2026-11-19T19:59:38.881606+00:00",
-    "lane": "MILLSAP TX-SANFORD FL"
   },
   {
     "pro": "51479",
