@@ -34,23 +34,6 @@
     "lane": "MACON GA-AUGUSTA GA"
   },
   {
-    "pro": "51514",
-    "status": "OPEN",
-    "pu_date": "2026-11-20",
-    "pu_city": "POTTERVILLE",
-    "pu_state": "MI",
-    "pu_hours": "0700-1630",
-    "del_date": "2026-11-23",
-    "del_city": "PHENIX CITY",
-    "del_state": "AL",
-    "del_hours": "0700-1200",
-    "equipment": "Van",
-    "weight_lbs": 9900,
-    "carrier_rate": 2700,
-    "updated_at": "2026-11-19T14:08:35.145861+00:00",
-    "lane": "POTTERVILLE MI-PHENIX CITY AL"
-  },
-  {
     "pro": "51534",
     "status": "OPEN",
     "pu_date": "2026-11-20",
@@ -166,7 +149,7 @@
     "equipment": "Flatbed",
     "weight_lbs": 30000,
     "carrier_rate": 2800,
-    "updated_at": "2026-11-19T18:19:34.001281+00:00",
+    "updated_at": "2026-11-19T19:59:38.881606+00:00",
     "lane": "MILLSAP TX-SANFORD FL"
   },
   {
