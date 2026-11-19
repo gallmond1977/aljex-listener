@@ -131,8 +131,8 @@
     "del_hours": "0700-1500",
     "equipment": "Flatbed",
     "weight_lbs": 30000,
-    "carrier_rate": null,
-    "updated_at": "2026-11-19T17:55:05.452998+00:00",
+    "carrier_rate": 2800,
+    "updated_at": "2026-11-19T17:56:56.763613+00:00",
     "lane": "MILLSAP TX-SANFORD FL"
   },
   {
@@ -336,7 +336,7 @@
     "equipment": "Van",
     "weight_lbs": 14580,
     "carrier_rate": 1000,
-    "updated_at": "2026-11-19T17:51:39.189248+00:00",
+    "updated_at": "2026-11-19T18:00:49.013894+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
@@ -346,14 +346,14 @@
     "pu_city": "WINCHESTER",
     "pu_state": "KY",
     "pu_hours": "0800-1030",
-    "del_date": "",
+    "del_date": "2026-11-25",
     "del_city": "JOLIET",
     "del_state": "IL",
-    "del_hours": "",
+    "del_hours": "2000",
     "equipment": "Van",
     "weight_lbs": 14580,
-    "carrier_rate": null,
-    "updated_at": "2026-11-19T17:47:47.348823+00:00",
+    "carrier_rate": 1000,
+    "updated_at": "2026-11-19T17:57:09.104006+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
@@ -363,14 +363,14 @@
     "pu_city": "WINCHESTER",
     "pu_state": "KY",
     "pu_hours": "0800-1030",
-    "del_date": "",
+    "del_date": "2026-11-25",
     "del_city": "JOLIET",
     "del_state": "IL",
-    "del_hours": "",
+    "del_hours": "2030",
     "equipment": "Van",
     "weight_lbs": 14580,
-    "carrier_rate": null,
-    "updated_at": "2026-11-19T17:48:44.053775+00:00",
+    "carrier_rate": 1000,
+    "updated_at": "2026-11-19T17:58:41.494685+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
@@ -596,7 +596,7 @@
   },
   {
     "pro": "51381",
-    "status": "DELIVERED",
+    "status": "RELEASED",
     "pu_date": "2026-11-11",
     "pu_city": "BUENA VISTA",
     "pu_state": "GA",
@@ -608,7 +608,7 @@
     "equipment": "Van",
     "weight_lbs": 43500,
     "carrier_rate": 1300,
-    "updated_at": "2026-11-19T17:55:00.894087+00:00",
+    "updated_at": "2026-11-19T17:55:23.475293+00:00",
     "lane": "BUENA VISTA GA-INDIAN TRAIL NC"
   },
   {
