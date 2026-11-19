@@ -34,23 +34,6 @@
     "lane": "MACON GA-AUGUSTA GA"
   },
   {
-    "pro": "51515",
-    "status": "OPEN",
-    "pu_date": "2026-11-19",
-    "pu_city": "PENDERGRASS",
-    "pu_state": "GA",
-    "pu_hours": "APPT",
-    "del_date": "2026-11-20",
-    "del_city": "ZEBULON",
-    "del_state": "NC",
-    "del_hours": "0700-0900",
-    "equipment": "Van",
-    "weight_lbs": 40124,
-    "carrier_rate": 1200,
-    "updated_at": "2026-11-19T14:05:57.897743+00:00",
-    "lane": "PENDERGRASS GA-ZEBULON NC"
-  },
-  {
     "pro": "51516",
     "status": "OPEN",
     "pu_date": "2026-11-19",
@@ -168,23 +151,6 @@
     "carrier_rate": null,
     "updated_at": "2026-11-19T14:14:58.812782+00:00",
     "lane": "LAGRANGE GA-NEWNAN GA"
-  },
-  {
-    "pro": "51519",
-    "status": "OPEN",
-    "pu_date": "2026-11-20",
-    "pu_city": "ALPHARETTA",
-    "pu_state": "GA",
-    "pu_hours": "0900-1600",
-    "del_date": "2026-11-23",
-    "del_city": "BELCAMP",
-    "del_state": "MD",
-    "del_hours": "0700-1500",
-    "equipment": "Flatbed",
-    "weight_lbs": 42000,
-    "carrier_rate": 3000,
-    "updated_at": "2026-11-19T14:46:05.087337+00:00",
-    "lane": "ALPHARETTA GA-BELCAMP MD"
   },
   {
     "pro": "50717",
@@ -697,40 +663,6 @@
     "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
-    "pro": "51437",
-    "status": "RELEASED",
-    "pu_date": "2026-11-13",
-    "pu_city": "ALPHARETTA",
-    "pu_state": "GA",
-    "pu_hours": "0900-1600",
-    "del_date": "2026-11-16",
-    "del_city": "BELCAMP",
-    "del_state": "MD",
-    "del_hours": "0700-1500",
-    "equipment": "Flatbed w/ Tarps",
-    "weight_lbs": 42000,
-    "carrier_rate": 3200,
-    "updated_at": "2026-11-16T19:11:49.016662+00:00",
-    "lane": "ALPHARETTA GA-BELCAMP MD"
-  },
-  {
-    "pro": "51364",
-    "status": "RELEASED",
-    "pu_date": "2026-11-16",
-    "pu_city": "ALPHARETTA",
-    "pu_state": "GA",
-    "pu_hours": "0900-1700",
-    "del_date": "2026-11-17",
-    "del_city": "BELCAMP",
-    "del_state": "MD",
-    "del_hours": "0700-1500",
-    "equipment": "Van",
-    "weight_lbs": 40000,
-    "carrier_rate": 1800,
-    "updated_at": "2026-11-17T20:16:55.620704+00:00",
-    "lane": "ALPHARETTA GA-BELCAMP MD"
-  },
-  {
     "pro": "51384",
     "status": "RELEASED",
     "pu_date": "2026-11-17",
@@ -763,23 +695,6 @@
     "carrier_rate": 2500,
     "updated_at": "2026-11-18T16:16:48.676480+00:00",
     "lane": "OAKLAND TN-PHENIX CITY AL"
-  },
-  {
-    "pro": "51470",
-    "status": "RELEASED",
-    "pu_date": "2026-11-17",
-    "pu_city": "ALPHARETTA",
-    "pu_state": "GA",
-    "pu_hours": "1500-1700",
-    "del_date": "2026-11-18",
-    "del_city": "BELCAMP",
-    "del_state": "MD",
-    "del_hours": "0700-1500",
-    "equipment": "Van",
-    "weight_lbs": 40000,
-    "carrier_rate": 1800,
-    "updated_at": "2026-11-18T17:30:51.154199+00:00",
-    "lane": "ALPHARETTA GA-BELCAMP MD"
   },
   {
     "pro": "51385",
@@ -880,7 +795,7 @@
     "equipment": "Van",
     "weight_lbs": 11280,
     "carrier_rate": 1100,
-    "updated_at": "2026-11-19T14:29:34.360360+00:00",
+    "updated_at": "2026-11-19T14:58:20.715141+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
@@ -897,8 +812,25 @@
     "equipment": "Flatbed",
     "weight_lbs": 46000,
     "carrier_rate": 700,
-    "updated_at": "2026-11-19T14:51:54.164817+00:00",
+    "updated_at": "2026-11-19T14:55:16.933339+00:00",
     "lane": "MACON GA-AUGUSTA GA"
+  },
+  {
+    "pro": "51515",
+    "status": "COVERED",
+    "pu_date": "2026-11-19",
+    "pu_city": "PENDERGRASS",
+    "pu_state": "GA",
+    "pu_hours": "APPT",
+    "del_date": "2026-11-20",
+    "del_city": "ZEBULON",
+    "del_state": "NC",
+    "del_hours": "0700-0900",
+    "equipment": "Van",
+    "weight_lbs": 40124,
+    "carrier_rate": 1300,
+    "updated_at": "2026-11-19T14:57:18.473855+00:00",
+    "lane": "PENDERGRASS GA-ZEBULON NC"
   },
   {
     "pro": "51316",
