@@ -68,6 +68,23 @@
     "lane": "KITTANNING PA-PLAINFIELD IN"
   },
   {
+    "pro": "51548",
+    "status": "OPEN",
+    "pu_date": "2026-11-23",
+    "pu_city": "RICHMOND",
+    "pu_state": "VA",
+    "pu_hours": "1200-1400",
+    "del_date": "2026-11-24",
+    "del_city": "ATLANTA",
+    "del_state": "GA",
+    "del_hours": "0800",
+    "equipment": "Sprinter Van",
+    "weight_lbs": 400,
+    "carrier_rate": null,
+    "updated_at": "2026-11-20T18:29:43.959728+00:00",
+    "lane": "RICHMOND VA-ATLANTA GA"
+  },
+  {
     "pro": "51479",
     "status": "OPEN",
     "pu_date": "2026-11-24",
