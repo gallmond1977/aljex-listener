@@ -1,5 +1,22 @@
 [
   {
+    "pro": "51541",
+    "status": "OPEN",
+    "pu_date": "2026-11-20",
+    "pu_city": "TUCKER",
+    "pu_state": "GA",
+    "pu_hours": "0800-1200",
+    "del_date": "2026-11-20",
+    "del_city": "FAYETTEVILLE",
+    "del_state": "GA",
+    "del_hours": "0800",
+    "equipment": "Sprinter Van",
+    "weight_lbs": 40,
+    "carrier_rate": 275,
+    "updated_at": "2026-11-20T14:09:11.200051+00:00",
+    "lane": "TUCKER GA-FAYETTEVILLE GA"
+  },
+  {
     "pro": "50717",
     "status": "OPEN",
     "pu_date": "2026-11-23",
@@ -12,8 +29,8 @@
     "del_hours": "NEEDED",
     "equipment": "Van",
     "weight_lbs": 41500,
-    "carrier_rate": null,
-    "updated_at": "2026-11-11T20:35:37.942482+00:00",
+    "carrier_rate": 1200,
+    "updated_at": "2026-11-20T14:09:11.680871+00:00",
     "lane": "OLD FORT NC-COLUMBUS GA"
   },
   {
@@ -659,7 +676,7 @@
     "equipment": "Van Hazmat",
     "weight_lbs": 44900,
     "carrier_rate": 3000,
-    "updated_at": "2026-11-19T22:30:00.592742+00:00",
+    "updated_at": "2026-11-20T14:09:01.614158+00:00",
     "lane": "OAKLAND TN-SALISBURY NC"
   },
   {
@@ -761,7 +778,7 @@
     "equipment": "Van",
     "weight_lbs": 41328,
     "carrier_rate": 2800,
-    "updated_at": "2026-11-20T13:47:06.515773+00:00",
+    "updated_at": "2026-11-20T14:05:48.625942+00:00",
     "lane": "LA PORTE TX-PIEDMONT SC"
   },
   {
@@ -795,7 +812,7 @@
     "equipment": "Van",
     "weight_lbs": 44960,
     "carrier_rate": 2800,
-    "updated_at": "2026-11-20T13:55:42.062395+00:00",
+    "updated_at": "2026-11-20T14:06:00.840126+00:00",
     "lane": "PASADENA TX-PIEDMONT SC"
   }
 ]
