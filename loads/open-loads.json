@@ -302,7 +302,7 @@
     "equipment": "Van",
     "weight_lbs": 14549,
     "carrier_rate": null,
-    "updated_at": "2026-11-19T13:53:04.510196+00:00",
+    "updated_at": "2026-11-20T20:46:59.995358+00:00",
     "lane": "WINCHESTER KY-UXBRIDGE MA"
   },
   {
@@ -885,7 +885,7 @@
   },
   {
     "pro": "51519",
-    "status": "PICKUP",
+    "status": "LOADED",
     "pu_date": "2026-11-20",
     "pu_city": "ALPHARETTA",
     "pu_state": "GA",
@@ -897,7 +897,7 @@
     "equipment": "Flatbed",
     "weight_lbs": 42000,
     "carrier_rate": 3000,
-    "updated_at": "2026-11-20T19:27:15.142545+00:00",
+    "updated_at": "2026-11-20T20:45:52.323606+00:00",
     "lane": "ALPHARETTA GA-BELCAMP MD"
   },
   {
@@ -931,7 +931,7 @@
     "equipment": "Flatbed",
     "weight_lbs": 47000,
     "carrier_rate": 700,
-    "updated_at": "2026-11-20T20:40:11.607140+00:00",
+    "updated_at": "2026-11-20T20:48:38.199520+00:00",
     "lane": "MACON GA-AUGUSTA GA"
   },
   {
