@@ -897,12 +897,12 @@
     "equipment": "Van",
     "weight_lbs": 41328,
     "carrier_rate": 2800,
-    "updated_at": "2026-11-19T15:58:28.676575+00:00",
+    "updated_at": "2026-11-20T13:24:51.342447+00:00",
     "lane": "LA PORTE TX-PIEDMONT SC"
   },
   {
     "pro": "51473",
-    "status": "COVERED",
+    "status": "DISPATCHED",
     "pu_date": "2026-11-20",
     "pu_city": "WINCHESTER",
     "pu_state": "KY",
@@ -914,7 +914,7 @@
     "equipment": "Van",
     "weight_lbs": 11280,
     "carrier_rate": 1100,
-    "updated_at": "2026-11-20T13:01:56.262456+00:00",
+    "updated_at": "2026-11-20T13:22:36.359583+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
