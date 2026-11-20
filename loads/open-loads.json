@@ -897,7 +897,7 @@
     "equipment": "Van",
     "weight_lbs": 11280,
     "carrier_rate": 1100,
-    "updated_at": "2026-11-19T15:17:41.121728+00:00",
+    "updated_at": "2026-11-20T12:57:43.453358+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
@@ -914,7 +914,7 @@
     "equipment": "Van",
     "weight_lbs": 44960,
     "carrier_rate": 2800,
-    "updated_at": "2026-11-19T15:59:39.447772+00:00",
+    "updated_at": "2026-11-20T13:00:38.398342+00:00",
     "lane": "PASADENA TX-PIEDMONT SC"
   }
 ]
