@@ -153,23 +153,6 @@
     "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
-    "pro": "51538",
-    "status": "OPEN",
-    "pu_date": "2026-11-23",
-    "pu_city": "MONCURE",
-    "pu_state": "NC",
-    "pu_hours": "0730-1600",
-    "del_date": "2026-11-24",
-    "del_city": "ATLANTA",
-    "del_state": "GA",
-    "del_hours": "0800-1600",
-    "equipment": "Van",
-    "weight_lbs": 44000,
-    "carrier_rate": 850,
-    "updated_at": "2026-11-19T22:03:17.127211+00:00",
-    "lane": "MONCURE NC-ATLANTA GA"
-  },
-  {
     "pro": "51479",
     "status": "OPEN",
     "pu_date": "2026-11-24",
@@ -783,7 +766,7 @@
   },
   {
     "pro": "51434",
-    "status": "DELIVERED",
+    "status": "RELEASED",
     "pu_date": "2026-11-18",
     "pu_city": "WINCHESTER",
     "pu_state": "KY",
@@ -795,7 +778,7 @@
     "equipment": "Van",
     "weight_lbs": 12815,
     "carrier_rate": 2600,
-    "updated_at": "2026-11-19T21:45:54.542176+00:00",
+    "updated_at": "2026-11-20T13:07:44.723623+00:00",
     "lane": "WINCHESTER KY-BURLINGTON NJ"
   },
   {
@@ -916,5 +899,22 @@
     "carrier_rate": 2800,
     "updated_at": "2026-11-20T13:00:38.398342+00:00",
     "lane": "PASADENA TX-PIEDMONT SC"
+  },
+  {
+    "pro": "51538",
+    "status": "COVERED",
+    "pu_date": "2026-11-23",
+    "pu_city": "MONCURE",
+    "pu_state": "NC",
+    "pu_hours": "0730-1600",
+    "del_date": "2026-11-24",
+    "del_city": "ATLANTA",
+    "del_state": "GA",
+    "del_hours": "0800-1600",
+    "equipment": "Van",
+    "weight_lbs": 44000,
+    "carrier_rate": 900,
+    "updated_at": "2026-11-20T13:09:56.322698+00:00",
+    "lane": "MONCURE NC-ATLANTA GA"
   }
 ]
