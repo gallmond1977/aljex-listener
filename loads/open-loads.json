@@ -795,12 +795,12 @@
     "equipment": "Flatbed",
     "weight_lbs": 47000,
     "carrier_rate": 700,
-    "updated_at": "2026-11-20T14:50:47.891364+00:00",
+    "updated_at": "2026-11-20T15:28:32.663374+00:00",
     "lane": "MACON GA-AUGUSTA GA"
   },
   {
     "pro": "51316",
-    "status": "DISPATCHED",
+    "status": "PICKUP",
     "pu_date": "2026-11-20",
     "pu_city": "LA PORTE",
     "pu_state": "TX",
@@ -812,7 +812,7 @@
     "equipment": "Van",
     "weight_lbs": 41328,
     "carrier_rate": 2800,
-    "updated_at": "2026-11-20T15:24:36.583564+00:00",
+    "updated_at": "2026-11-20T15:28:45.289181+00:00",
     "lane": "LA PORTE TX-PIEDMONT SC"
   },
   {
@@ -868,7 +868,7 @@
   },
   {
     "pro": "51540",
-    "status": "PICKUP",
+    "status": "DELIVERED",
     "pu_date": "2026-11-20",
     "pu_city": "MACON",
     "pu_state": "GA",
@@ -880,7 +880,7 @@
     "equipment": "Van",
     "weight_lbs": 47000,
     "carrier_rate": null,
-    "updated_at": "2026-11-20T15:24:34.782574+00:00",
+    "updated_at": "2026-11-20T15:29:53.607252+00:00",
     "lane": "MACON GA-AUGUSTA GA"
   }
 ]
