@@ -1,22 +1,5 @@
 [
   {
-    "pro": "51546",
-    "status": "OPEN",
-    "pu_date": "2026-11-20",
-    "pu_city": "MACON",
-    "pu_state": "GA",
-    "pu_hours": "0800-1630",
-    "del_date": "2026-11-23",
-    "del_city": "AUGUSTA",
-    "del_state": "GA",
-    "del_hours": "0800-1600",
-    "equipment": "Flatbed",
-    "weight_lbs": 47000,
-    "carrier_rate": null,
-    "updated_at": "2026-11-20T17:11:59.158470+00:00",
-    "lane": "MACON GA-AUGUSTA GA"
-  },
-  {
     "pro": "51387",
     "status": "OPEN",
     "pu_date": "2026-11-23",
@@ -32,6 +15,23 @@
     "carrier_rate": 2000,
     "updated_at": "2026-11-18T20:57:53.690164+00:00",
     "lane": "OAKLAND TN-PHENIX CITY AL"
+  },
+  {
+    "pro": "51546",
+    "status": "OPEN",
+    "pu_date": "2026-11-23",
+    "pu_city": "MACON",
+    "pu_state": "GA",
+    "pu_hours": "0800-1630",
+    "del_date": "2026-11-24",
+    "del_city": "AUGUSTA",
+    "del_state": "GA",
+    "del_hours": "0800-1600",
+    "equipment": "Flatbed",
+    "weight_lbs": 47000,
+    "carrier_rate": null,
+    "updated_at": "2026-11-20T20:39:37.158770+00:00",
+    "lane": "MACON GA-AUGUSTA GA"
   },
   {
     "pro": "51550",
@@ -800,7 +800,7 @@
   },
   {
     "pro": "51497",
-    "status": "DELIVERED",
+    "status": "RELEASED",
     "pu_date": "2026-11-19",
     "pu_city": "MACON",
     "pu_state": "GA",
@@ -812,7 +812,7 @@
     "equipment": "Flatbed",
     "weight_lbs": 47000,
     "carrier_rate": 700,
-    "updated_at": "2026-11-20T15:38:36.217684+00:00",
+    "updated_at": "2026-11-20T20:38:33.904756+00:00",
     "lane": "MACON GA-AUGUSTA GA"
   },
   {
@@ -851,7 +851,7 @@
   },
   {
     "pro": "51496",
-    "status": "CONSIGNEE",
+    "status": "DELIVERED",
     "pu_date": "2026-11-20",
     "pu_city": "MACON",
     "pu_state": "GA",
@@ -863,7 +863,7 @@
     "equipment": "Flatbed",
     "weight_lbs": 47000,
     "carrier_rate": 700,
-    "updated_at": "2026-11-20T19:54:17.975691+00:00",
+    "updated_at": "2026-11-20T20:38:19.214787+00:00",
     "lane": "MACON GA-AUGUSTA GA"
   },
   {
