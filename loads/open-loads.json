@@ -85,6 +85,23 @@
     "lane": "EAST MOLINE IL-BELCAMP MD"
   },
   {
+    "pro": "51545",
+    "status": "OPEN",
+    "pu_date": "2026-11-23",
+    "pu_city": "KITTANNING",
+    "pu_state": "PA",
+    "pu_hours": "0800-0900",
+    "del_date": "2026-11-24",
+    "del_city": "PLAINFIELD",
+    "del_state": "IN",
+    "del_hours": "0800-1100",
+    "equipment": "26' Straight Box Truck",
+    "weight_lbs": 2120,
+    "carrier_rate": 850,
+    "updated_at": "2026-11-20T15:58:43.346898+00:00",
+    "lane": "KITTANNING PA-PLAINFIELD IN"
+  },
+  {
     "pro": "51479",
     "status": "OPEN",
     "pu_date": "2026-11-24",
@@ -817,7 +834,7 @@
   },
   {
     "pro": "51508",
-    "status": "PICKUP",
+    "status": "LOADED",
     "pu_date": "2026-11-20",
     "pu_city": "PASADENA",
     "pu_state": "TX",
@@ -829,7 +846,7 @@
     "equipment": "Van",
     "weight_lbs": 44960,
     "carrier_rate": 2800,
-    "updated_at": "2026-11-20T15:18:11.728306+00:00",
+    "updated_at": "2026-11-20T16:00:18.060366+00:00",
     "lane": "PASADENA TX-PIEDMONT SC"
   },
   {
@@ -868,7 +885,7 @@
   },
   {
     "pro": "51522",
-    "status": "COVERED",
+    "status": "PICKUP",
     "pu_date": "2026-11-23",
     "pu_city": "WINCHESTER",
     "pu_state": "KY",
@@ -880,7 +897,7 @@
     "equipment": "Van",
     "weight_lbs": 12480,
     "carrier_rate": 1100,
-    "updated_at": "2026-11-20T15:52:22.030722+00:00",
+    "updated_at": "2026-11-20T15:59:24.316724+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
   }
 ]
