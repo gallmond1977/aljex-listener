@@ -102,6 +102,23 @@
     "lane": "CALHOUN GA-ROYSE CITY TX"
   },
   {
+    "pro": "51554",
+    "status": "OPEN",
+    "pu_date": "2026-11-23",
+    "pu_city": "LAGRANGE",
+    "pu_state": "GA",
+    "pu_hours": "0730-0800",
+    "del_date": "2026-11-23",
+    "del_city": "JACKSON",
+    "del_state": "GA",
+    "del_hours": "0800-1000",
+    "equipment": "Flatbed Hot Shot",
+    "weight_lbs": 570,
+    "carrier_rate": 350,
+    "updated_at": "2026-11-20T21:24:31.699138+00:00",
+    "lane": "LAGRANGE GA-JACKSON GA"
+  },
+  {
     "pro": "51479",
     "status": "OPEN",
     "pu_date": "2026-11-24",
