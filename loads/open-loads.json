@@ -1,22 +1,5 @@
 [
   {
-    "pro": "51543",
-    "status": "OPEN",
-    "pu_date": "2026-11-20",
-    "pu_city": "KITTANNING",
-    "pu_state": "PA",
-    "pu_hours": "0800-1400",
-    "del_date": "2026-11-20",
-    "del_city": "LATROBE",
-    "del_state": "PA",
-    "del_hours": "0700-1500",
-    "equipment": "26' Straight Box Truck",
-    "weight_lbs": 5100,
-    "carrier_rate": 400,
-    "updated_at": "2026-11-20T14:59:11.803780+00:00",
-    "lane": "KITTANNING PA-LATROBE PA"
-  },
-  {
     "pro": "50717",
     "status": "OPEN",
     "pu_date": "2026-11-23",
@@ -115,7 +98,7 @@
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 4600,
     "carrier_rate": 1450,
-    "updated_at": "2026-11-20T14:58:27.830833+00:00",
+    "updated_at": "2026-11-20T15:00:48.785137+00:00",
     "lane": "EAST MOLINE IL-BELCAMP MD"
   },
   {
