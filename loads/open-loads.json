@@ -800,7 +800,7 @@
   },
   {
     "pro": "51316",
-    "status": "COVERED",
+    "status": "DISPATCHED",
     "pu_date": "2026-11-20",
     "pu_city": "LA PORTE",
     "pu_state": "TX",
@@ -812,7 +812,7 @@
     "equipment": "Van",
     "weight_lbs": 41328,
     "carrier_rate": 2800,
-    "updated_at": "2026-11-20T14:30:44.172448+00:00",
+    "updated_at": "2026-11-20T15:24:36.583564+00:00",
     "lane": "LA PORTE TX-PIEDMONT SC"
   },
   {
@@ -879,8 +879,8 @@
     "del_hours": "0800-1600",
     "equipment": "Van",
     "weight_lbs": 47000,
-    "carrier_rate": 700,
-    "updated_at": "2026-11-20T15:19:55.145406+00:00",
+    "carrier_rate": null,
+    "updated_at": "2026-11-20T15:24:34.782574+00:00",
     "lane": "MACON GA-AUGUSTA GA"
   }
 ]
