@@ -17,23 +17,6 @@
     "lane": "MACON GA-AUGUSTA GA"
   },
   {
-    "pro": "51527",
-    "status": "OPEN",
-    "pu_date": "2026-11-20",
-    "pu_city": "MILLSAP",
-    "pu_state": "TX",
-    "pu_hours": "1000-1300",
-    "del_date": "2026-11-23",
-    "del_city": "SANFORD",
-    "del_state": "FL",
-    "del_hours": "0800-1100",
-    "equipment": "Flatbed w/ Tarps",
-    "weight_lbs": 30000,
-    "carrier_rate": 3000,
-    "updated_at": "2026-11-20T13:04:46.640432+00:00",
-    "lane": "MILLSAP TX-SANFORD FL"
-  },
-  {
     "pro": "51536",
     "status": "OPEN",
     "pu_date": "2026-11-20",
@@ -46,8 +29,8 @@
     "del_hours": "0800-1600",
     "equipment": "Van",
     "weight_lbs": 44000,
-    "carrier_rate": null,
-    "updated_at": "2026-11-19T21:49:19.438251+00:00",
+    "carrier_rate": 850,
+    "updated_at": "2026-11-20T13:13:54.740136+00:00",
     "lane": "MONCURE NC-ATLANTA GA"
   },
   {
@@ -236,6 +219,23 @@
     "carrier_rate": 1000,
     "updated_at": "2026-11-19T18:02:55.699832+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
+  },
+  {
+    "pro": "51539",
+    "status": "OPEN",
+    "pu_date": "2026-11-24",
+    "pu_city": "CONOVER",
+    "pu_state": "NC",
+    "pu_hours": "1300",
+    "del_date": "2026-11-25",
+    "del_city": "KITTANNING",
+    "del_state": "PA",
+    "del_hours": "0800",
+    "equipment": "Van",
+    "weight_lbs": 20000,
+    "carrier_rate": 1200,
+    "updated_at": "2026-11-20T13:12:49.066053+00:00",
+    "lane": "CONOVER NC-KITTANNING PA"
   },
   {
     "pro": "51484",
@@ -646,6 +646,23 @@
     "lane": "OAKLAND TN-SALISBURY NC"
   },
   {
+    "pro": "51399",
+    "status": "RELEASED",
+    "pu_date": "2026-11-12",
+    "pu_city": "CONOVER",
+    "pu_state": "NC",
+    "pu_hours": "1300",
+    "del_date": "2026-11-13",
+    "del_city": "KITTANNING",
+    "del_state": "PA",
+    "del_hours": "0800",
+    "equipment": "Van",
+    "weight_lbs": 20000,
+    "carrier_rate": 1300,
+    "updated_at": "2026-11-16T15:20:44.480333+00:00",
+    "lane": "CONOVER NC-KITTANNING PA"
+  },
+  {
     "pro": "51414",
     "status": "DELIVERED",
     "pu_date": "2026-11-12",
@@ -817,7 +834,7 @@
   },
   {
     "pro": "51495",
-    "status": "DELIVERED",
+    "status": "RELEASED",
     "pu_date": "2026-11-19",
     "pu_city": "MACON",
     "pu_state": "GA",
@@ -829,7 +846,7 @@
     "equipment": "Flatbed",
     "weight_lbs": 46000,
     "carrier_rate": 700,
-    "updated_at": "2026-11-19T23:36:14.189074+00:00",
+    "updated_at": "2026-11-20T13:13:34.944591+00:00",
     "lane": "MACON GA-AUGUSTA GA"
   },
   {
