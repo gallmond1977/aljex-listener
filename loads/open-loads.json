@@ -39,7 +39,7 @@
     "pu_date": "2026-11-23",
     "pu_city": "KITTANNING",
     "pu_state": "PA",
-    "pu_hours": "0800-0900",
+    "pu_hours": "0800-1000",
     "del_date": "2026-11-24",
     "del_city": "PLAINFIELD",
     "del_state": "IN",
@@ -47,7 +47,7 @@
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 2120,
     "carrier_rate": 900,
-    "updated_at": "2026-11-20T17:53:54.590888+00:00",
+    "updated_at": "2026-11-20T19:40:25.306075+00:00",
     "lane": "KITTANNING PA-PLAINFIELD IN"
   },
   {
@@ -64,8 +64,25 @@
     "equipment": "Van",
     "weight_lbs": 17301,
     "carrier_rate": 2800,
-    "updated_at": "2026-11-20T19:04:41.004083+00:00",
+    "updated_at": "2026-11-20T19:40:05.610702+00:00",
     "lane": "WHEELING IL-BELCAMP MD"
+  },
+  {
+    "pro": "51551",
+    "status": "OPEN",
+    "pu_date": "2026-11-23",
+    "pu_city": "ROME",
+    "pu_state": "GA",
+    "pu_hours": "0700-1200",
+    "del_date": "2026-11-24",
+    "del_city": "BELCAMP",
+    "del_state": "MD",
+    "del_hours": "0700-1500",
+    "equipment": "Flatbed w/ Tarps",
+    "weight_lbs": 39000,
+    "carrier_rate": 3200,
+    "updated_at": "2026-11-20T19:39:51.822248+00:00",
+    "lane": "ROME GA-BELCAMP MD"
   },
   {
     "pro": "51479",
