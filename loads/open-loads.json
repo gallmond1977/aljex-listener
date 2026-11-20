@@ -1,22 +1,5 @@
 [
   {
-    "pro": "51554",
-    "status": "OPEN",
-    "pu_date": "2026-11-20",
-    "pu_city": "LAGRANGE",
-    "pu_state": "GA",
-    "pu_hours": "0800-1400",
-    "del_date": "2026-11-20",
-    "del_city": "JACKSON",
-    "del_state": "GA",
-    "del_hours": "0800-1500",
-    "equipment": "Flatbed Hot Shot",
-    "weight_lbs": 570,
-    "carrier_rate": 300,
-    "updated_at": "2026-11-20T21:02:12.574767+00:00",
-    "lane": "LAGRANGE GA-JACKSON GA"
-  },
-  {
     "pro": "51387",
     "status": "OPEN",
     "pu_date": "2026-11-23",
