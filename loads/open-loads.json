@@ -26,11 +26,11 @@
     "del_date": "",
     "del_city": "COLUMBUS",
     "del_state": "GA",
-    "del_hours": "NEEDED",
+    "del_hours": "0730-1400",
     "equipment": "Van",
     "weight_lbs": 41500,
     "carrier_rate": 1400,
-    "updated_at": "2026-11-20T16:22:17.613008+00:00",
+    "updated_at": "2026-11-20T17:57:14.511069+00:00",
     "lane": "OLD FORT NC-COLUMBUS GA"
   },
   {
@@ -61,10 +61,10 @@
     "del_city": "BELCAMP",
     "del_state": "MD",
     "del_hours": "0800-1500",
-    "equipment": "Van",
+    "equipment": "26' Straight Box Truck",
     "weight_lbs": 4600,
-    "carrier_rate": 1450,
-    "updated_at": "2026-11-20T17:55:11.919425+00:00",
+    "carrier_rate": 1400,
+    "updated_at": "2026-11-20T17:59:14.218846+00:00",
     "lane": "EAST MOLINE IL-BELCAMP MD"
   },
   {
