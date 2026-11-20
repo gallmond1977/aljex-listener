@@ -64,7 +64,7 @@
     "equipment": "Van",
     "weight_lbs": 12480,
     "carrier_rate": 1000,
-    "updated_at": "2026-11-19T17:04:54.749275+00:00",
+    "updated_at": "2026-11-20T15:34:20.500706+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
@@ -112,10 +112,10 @@
     "del_city": "BELCAMP",
     "del_state": "MD",
     "del_hours": "0800-1500",
-    "equipment": "26' Straight Box Truck",
+    "equipment": "Van",
     "weight_lbs": 4600,
     "carrier_rate": 1450,
-    "updated_at": "2026-11-20T15:00:48.785137+00:00",
+    "updated_at": "2026-11-20T15:34:55.430840+00:00",
     "lane": "EAST MOLINE IL-BELCAMP MD"
   },
   {
@@ -829,7 +829,7 @@
     "equipment": "Van",
     "weight_lbs": 11280,
     "carrier_rate": 1100,
-    "updated_at": "2026-11-20T14:33:48.593481+00:00",
+    "updated_at": "2026-11-20T15:31:59.553778+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
@@ -880,7 +880,7 @@
     "equipment": "Van",
     "weight_lbs": 47000,
     "carrier_rate": null,
-    "updated_at": "2026-11-20T15:29:53.607252+00:00",
+    "updated_at": "2026-11-20T15:30:47.272212+00:00",
     "lane": "MACON GA-AUGUSTA GA"
   }
 ]
