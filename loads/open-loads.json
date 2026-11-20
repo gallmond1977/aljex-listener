@@ -17,6 +17,23 @@
     "lane": "MACON GA-AUGUSTA GA"
   },
   {
+    "pro": "51549",
+    "status": "OPEN",
+    "pu_date": "2026-11-20",
+    "pu_city": "BIRMINGHAM",
+    "pu_state": "AL",
+    "pu_hours": "0800-1400",
+    "del_date": "2026-11-20",
+    "del_city": "COLUMBIANA",
+    "del_state": "AL",
+    "del_hours": "0800-1700",
+    "equipment": "Flatbed Hot Shot",
+    "weight_lbs": 3005,
+    "carrier_rate": 350,
+    "updated_at": "2026-11-20T18:34:55.421765+00:00",
+    "lane": "BIRMINGHAM AL-COLUMBIANA AL"
+  },
+  {
     "pro": "51387",
     "status": "OPEN",
     "pu_date": "2026-11-23",
@@ -80,8 +97,8 @@
     "del_hours": "0800",
     "equipment": "Sprinter Van",
     "weight_lbs": 400,
-    "carrier_rate": null,
-    "updated_at": "2026-11-20T18:29:43.959728+00:00",
+    "carrier_rate": 650,
+    "updated_at": "2026-11-20T18:34:39.379031+00:00",
     "lane": "RICHMOND VA-ATLANTA GA"
   },
   {
