@@ -17,23 +17,6 @@
     "lane": "MACON GA-AUGUSTA GA"
   },
   {
-    "pro": "50717",
-    "status": "OPEN",
-    "pu_date": "2026-11-23",
-    "pu_city": "OLD FORT",
-    "pu_state": "NC",
-    "pu_hours": "0800-1800",
-    "del_date": "",
-    "del_city": "COLUMBUS",
-    "del_state": "GA",
-    "del_hours": "0730-1400",
-    "equipment": "Van",
-    "weight_lbs": 41500,
-    "carrier_rate": 1400,
-    "updated_at": "2026-11-20T17:57:14.511069+00:00",
-    "lane": "OLD FORT NC-COLUMBUS GA"
-  },
-  {
     "pro": "51387",
     "status": "OPEN",
     "pu_date": "2026-11-23",
@@ -64,7 +47,7 @@
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 4600,
     "carrier_rate": 1400,
-    "updated_at": "2026-11-20T17:59:14.218846+00:00",
+    "updated_at": "2026-11-20T18:04:51.912688+00:00",
     "lane": "EAST MOLINE IL-BELCAMP MD"
   },
   {
@@ -749,7 +732,7 @@
   },
   {
     "pro": "51316",
-    "status": "PICKUP",
+    "status": "LOADED",
     "pu_date": "2026-11-20",
     "pu_city": "LA PORTE",
     "pu_state": "TX",
@@ -761,7 +744,7 @@
     "equipment": "Van",
     "weight_lbs": 41328,
     "carrier_rate": 2800,
-    "updated_at": "2026-11-20T17:09:00.525641+00:00",
+    "updated_at": "2026-11-20T18:01:58.773572+00:00",
     "lane": "LA PORTE TX-PIEDMONT SC"
   },
   {
@@ -848,6 +831,23 @@
     "carrier_rate": 700,
     "updated_at": "2026-11-20T17:53:12.145185+00:00",
     "lane": "MACON GA-AUGUSTA GA"
+  },
+  {
+    "pro": "50717",
+    "status": "COVERED",
+    "pu_date": "2026-11-23",
+    "pu_city": "OLD FORT",
+    "pu_state": "NC",
+    "pu_hours": "0800-1800",
+    "del_date": "2026-11-24",
+    "del_city": "COLUMBUS",
+    "del_state": "GA",
+    "del_hours": "0730-1400",
+    "equipment": "Van",
+    "weight_lbs": 41500,
+    "carrier_rate": 1600,
+    "updated_at": "2026-11-20T18:03:17.291497+00:00",
+    "lane": "OLD FORT NC-COLUMBUS GA"
   },
   {
     "pro": "51521",
