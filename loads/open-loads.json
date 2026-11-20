@@ -1,22 +1,5 @@
 [
   {
-    "pro": "51541",
-    "status": "OPEN",
-    "pu_date": "2026-11-20",
-    "pu_city": "TUCKER",
-    "pu_state": "GA",
-    "pu_hours": "0800-1200",
-    "del_date": "2026-11-20",
-    "del_city": "JACKSON",
-    "del_state": "GA",
-    "del_hours": "0800-1600",
-    "equipment": "Sprinter Van",
-    "weight_lbs": 40,
-    "carrier_rate": 275,
-    "updated_at": "2026-11-20T14:14:26.675849+00:00",
-    "lane": "TUCKER GA-JACKSON GA"
-  },
-  {
     "pro": "50717",
     "status": "OPEN",
     "pu_date": "2026-11-23",
