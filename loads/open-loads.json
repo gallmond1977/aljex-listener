@@ -12,8 +12,8 @@
     "del_hours": "0700-1500",
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 5100,
-    "carrier_rate": 350,
-    "updated_at": "2026-11-20T14:53:45.804563+00:00",
+    "carrier_rate": 400,
+    "updated_at": "2026-11-20T14:59:11.803780+00:00",
     "lane": "KITTANNING PA-LATROBE PA"
   },
   {
@@ -107,7 +107,7 @@
     "pu_date": "2026-11-23",
     "pu_city": "EAST MOLINE",
     "pu_state": "IL",
-    "pu_hours": "",
+    "pu_hours": "0700-1400",
     "del_date": "2026-11-24",
     "del_city": "BELCAMP",
     "del_state": "MD",
@@ -115,7 +115,7 @@
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 4600,
     "carrier_rate": 1450,
-    "updated_at": "2026-11-20T14:54:31.812841+00:00",
+    "updated_at": "2026-11-20T14:58:27.830833+00:00",
     "lane": "EAST MOLINE IL-BELCAMP MD"
   },
   {
