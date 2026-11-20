@@ -64,7 +64,7 @@
     "equipment": "Van",
     "weight_lbs": 4600,
     "carrier_rate": 1450,
-    "updated_at": "2026-11-20T16:35:17.562130+00:00",
+    "updated_at": "2026-11-20T17:55:11.919425+00:00",
     "lane": "EAST MOLINE IL-BELCAMP MD"
   },
   {
@@ -80,8 +80,8 @@
     "del_hours": "0800-1100",
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 2120,
-    "carrier_rate": 850,
-    "updated_at": "2026-11-20T15:58:43.346898+00:00",
+    "carrier_rate": 900,
+    "updated_at": "2026-11-20T17:53:54.590888+00:00",
     "lane": "KITTANNING PA-PLAINFIELD IN"
   },
   {
@@ -846,7 +846,7 @@
     "equipment": "Flatbed",
     "weight_lbs": 47000,
     "carrier_rate": 700,
-    "updated_at": "2026-11-20T17:10:19.604373+00:00",
+    "updated_at": "2026-11-20T17:53:12.145185+00:00",
     "lane": "MACON GA-AUGUSTA GA"
   },
   {
@@ -868,7 +868,7 @@
   },
   {
     "pro": "51522",
-    "status": "COVERED",
+    "status": "LOADED",
     "pu_date": "2026-11-23",
     "pu_city": "WINCHESTER",
     "pu_state": "KY",
@@ -880,7 +880,7 @@
     "equipment": "Van",
     "weight_lbs": 12480,
     "carrier_rate": 1100,
-    "updated_at": "2026-11-20T16:23:21.314850+00:00",
+    "updated_at": "2026-11-20T17:53:00.846535+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
