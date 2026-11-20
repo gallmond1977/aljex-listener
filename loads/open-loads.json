@@ -98,7 +98,7 @@
     "equipment": "Van",
     "weight_lbs": 11000,
     "carrier_rate": null,
-    "updated_at": "2026-11-20T20:32:40.318936+00:00",
+    "updated_at": "2026-11-20T20:45:14.774233+00:00",
     "lane": "CALHOUN GA-ROYSE CITY TX"
   },
   {
@@ -766,7 +766,7 @@
   },
   {
     "pro": "51472",
-    "status": "DELIVERED",
+    "status": "RELEASED",
     "pu_date": "2026-11-19",
     "pu_city": "WINCHESTER",
     "pu_state": "KY",
@@ -778,7 +778,7 @@
     "equipment": "Van",
     "weight_lbs": 11280,
     "carrier_rate": 1100,
-    "updated_at": "2026-11-20T20:14:17.098245+00:00",
+    "updated_at": "2026-11-20T20:44:19.669137+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
@@ -919,7 +919,7 @@
   },
   {
     "pro": "51544",
-    "status": "PICKUP",
+    "status": "LOADED",
     "pu_date": "2026-11-20",
     "pu_city": "MACON",
     "pu_state": "GA",
@@ -931,7 +931,7 @@
     "equipment": "Flatbed",
     "weight_lbs": 47000,
     "carrier_rate": 700,
-    "updated_at": "2026-11-20T18:57:51.883680+00:00",
+    "updated_at": "2026-11-20T20:40:11.607140+00:00",
     "lane": "MACON GA-AUGUSTA GA"
   },
   {
