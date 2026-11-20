@@ -68,21 +68,21 @@
     "lane": "KITTANNING PA-PLAINFIELD IN"
   },
   {
-    "pro": "51548",
+    "pro": "51550",
     "status": "OPEN",
     "pu_date": "2026-11-23",
-    "pu_city": "RICHMOND",
-    "pu_state": "VA",
-    "pu_hours": "1200-1400",
-    "del_date": "2026-11-24",
-    "del_city": "ATLANTA",
-    "del_state": "GA",
-    "del_hours": "0800",
-    "equipment": "Sprinter Van",
-    "weight_lbs": 400,
-    "carrier_rate": 650,
-    "updated_at": "2026-11-20T18:48:10.934700+00:00",
-    "lane": "RICHMOND VA-ATLANTA GA"
+    "pu_city": "WHEELING",
+    "pu_state": "IL",
+    "pu_hours": "0700-1700",
+    "del_date": "",
+    "del_city": "BELCAMP",
+    "del_state": "MD",
+    "del_hours": "0700-1500",
+    "equipment": "Van",
+    "weight_lbs": 17301,
+    "carrier_rate": null,
+    "updated_at": "2026-11-20T19:00:43.940257+00:00",
+    "lane": "WHEELING IL-BELCAMP MD"
   },
   {
     "pro": "51479",
@@ -834,7 +834,7 @@
   },
   {
     "pro": "51544",
-    "status": "DISPATCHED",
+    "status": "PICKUP",
     "pu_date": "2026-11-20",
     "pu_city": "MACON",
     "pu_state": "GA",
@@ -846,7 +846,7 @@
     "equipment": "Flatbed",
     "weight_lbs": 47000,
     "carrier_rate": 700,
-    "updated_at": "2026-11-20T17:53:12.145185+00:00",
+    "updated_at": "2026-11-20T18:57:51.883680+00:00",
     "lane": "MACON GA-AUGUSTA GA"
   },
   {
