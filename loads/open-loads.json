@@ -783,7 +783,7 @@
   },
   {
     "pro": "51508",
-    "status": "COVERED",
+    "status": "PICKUP",
     "pu_date": "2026-11-20",
     "pu_city": "PASADENA",
     "pu_state": "TX",
@@ -795,7 +795,7 @@
     "equipment": "Van",
     "weight_lbs": 44960,
     "carrier_rate": 2800,
-    "updated_at": "2026-11-20T14:47:14.431687+00:00",
+    "updated_at": "2026-11-20T15:08:26.309521+00:00",
     "lane": "PASADENA TX-PIEDMONT SC"
   }
 ]
