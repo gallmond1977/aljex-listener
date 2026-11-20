@@ -642,7 +642,7 @@
     "equipment": "Van",
     "weight_lbs": 9078,
     "carrier_rate": 3000,
-    "updated_at": "2026-11-20T12:40:01.607465+00:00",
+    "updated_at": "2026-11-20T19:05:42.407035+00:00",
     "lane": "WINCHESTER KY-JACKSONVILLE FL"
   },
   {
@@ -846,7 +846,7 @@
     "equipment": "Van",
     "weight_lbs": 41500,
     "carrier_rate": 1600,
-    "updated_at": "2026-11-20T18:03:17.291497+00:00",
+    "updated_at": "2026-11-20T19:06:05.010662+00:00",
     "lane": "OLD FORT NC-COLUMBUS GA"
   },
   {
