@@ -29,8 +29,8 @@
     "del_hours": "NEEDED",
     "equipment": "Van",
     "weight_lbs": 41500,
-    "carrier_rate": 1200,
-    "updated_at": "2026-11-20T14:09:11.680871+00:00",
+    "carrier_rate": 1400,
+    "updated_at": "2026-11-20T16:22:17.613008+00:00",
     "lane": "OLD FORT NC-COLUMBUS GA"
   },
   {
@@ -885,7 +885,7 @@
   },
   {
     "pro": "51522",
-    "status": "PICKUP",
+    "status": "COVERED",
     "pu_date": "2026-11-23",
     "pu_city": "WINCHESTER",
     "pu_state": "KY",
@@ -897,7 +897,7 @@
     "equipment": "Van",
     "weight_lbs": 12480,
     "carrier_rate": 1100,
-    "updated_at": "2026-11-20T15:59:24.316724+00:00",
+    "updated_at": "2026-11-20T16:23:21.314850+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
   }
 ]
