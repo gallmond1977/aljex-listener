@@ -1,6 +1,6 @@
 [
   {
-    "pro": "51544",
+    "pro": "51546",
     "status": "OPEN",
     "pu_date": "2026-11-20",
     "pu_city": "MACON",
@@ -12,8 +12,8 @@
     "del_hours": "0800-1600",
     "equipment": "Flatbed",
     "weight_lbs": 47000,
-    "carrier_rate": 700,
-    "updated_at": "2026-11-20T16:57:01.327384+00:00",
+    "carrier_rate": null,
+    "updated_at": "2026-11-20T17:03:04.434522+00:00",
     "lane": "MACON GA-AUGUSTA GA"
   },
   {
@@ -847,6 +847,23 @@
     "weight_lbs": 47000,
     "carrier_rate": null,
     "updated_at": "2026-11-20T15:30:47.272212+00:00",
+    "lane": "MACON GA-AUGUSTA GA"
+  },
+  {
+    "pro": "51544",
+    "status": "DISPATCHED",
+    "pu_date": "2026-11-20",
+    "pu_city": "MACON",
+    "pu_state": "GA",
+    "pu_hours": "0800-1630",
+    "del_date": "2026-11-23",
+    "del_city": "AUGUSTA",
+    "del_state": "GA",
+    "del_hours": "0800-1600",
+    "equipment": "Flatbed",
+    "weight_lbs": 47000,
+    "carrier_rate": 700,
+    "updated_at": "2026-11-20T17:03:57.600472+00:00",
     "lane": "MACON GA-AUGUSTA GA"
   },
   {
