@@ -1,22 +1,5 @@
 [
   {
-    "pro": "51520",
-    "status": "OPEN",
-    "pu_date": "2026-11-20",
-    "pu_city": "DULUTH",
-    "pu_state": "GA",
-    "pu_hours": "0800-1300",
-    "del_date": "2026-11-23",
-    "del_city": "GEORGETOWN",
-    "del_state": "TX",
-    "del_hours": "",
-    "equipment": "Flatbed Hot Shot",
-    "weight_lbs": 5700,
-    "carrier_rate": 1600,
-    "updated_at": "2026-11-20T13:25:56.780162+00:00",
-    "lane": "DULUTH GA-GEORGETOWN TX"
-  },
-  {
     "pro": "51536",
     "status": "OPEN",
     "pu_date": "2026-11-20",
