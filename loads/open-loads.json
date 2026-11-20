@@ -34,23 +34,6 @@
     "lane": "OAKLAND TN-PHENIX CITY AL"
   },
   {
-    "pro": "51545",
-    "status": "OPEN",
-    "pu_date": "2026-11-23",
-    "pu_city": "KITTANNING",
-    "pu_state": "PA",
-    "pu_hours": "0800-1000",
-    "del_date": "2026-11-24",
-    "del_city": "PLAINFIELD",
-    "del_state": "IN",
-    "del_hours": "0800-1100",
-    "equipment": "26' Straight Box Truck",
-    "weight_lbs": 2120,
-    "carrier_rate": 900,
-    "updated_at": "2026-11-20T19:40:25.306075+00:00",
-    "lane": "KITTANNING PA-PLAINFIELD IN"
-  },
-  {
     "pro": "51550",
     "status": "OPEN",
     "pu_date": "2026-11-23",
@@ -81,7 +64,7 @@
     "equipment": "Flatbed w/ Tarps",
     "weight_lbs": 39000,
     "carrier_rate": 3200,
-    "updated_at": "2026-11-20T19:48:08.485912+00:00",
+    "updated_at": "2026-11-20T20:14:42.877415+00:00",
     "lane": "ROME GA-BELCAMP MD"
   },
   {
@@ -778,7 +761,7 @@
     "equipment": "Van",
     "weight_lbs": 11280,
     "carrier_rate": 1100,
-    "updated_at": "2026-11-20T12:40:45.434634+00:00",
+    "updated_at": "2026-11-20T20:14:17.098245+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
