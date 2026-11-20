@@ -1,5 +1,22 @@
 [
   {
+    "pro": "51543",
+    "status": "OPEN",
+    "pu_date": "2026-11-20",
+    "pu_city": "KITTANNING",
+    "pu_state": "PA",
+    "pu_hours": "0800-1400",
+    "del_date": "2026-11-20",
+    "del_city": "LATROBE",
+    "del_state": "PA",
+    "del_hours": "0700-1500",
+    "equipment": "26' Straight Box Truck",
+    "weight_lbs": 5100,
+    "carrier_rate": 350,
+    "updated_at": "2026-11-20T14:50:15.801623+00:00",
+    "lane": "KITTANNING PA-LATROBE PA"
+  },
+  {
     "pro": "50717",
     "status": "OPEN",
     "pu_date": "2026-11-23",
@@ -94,11 +111,11 @@
     "del_date": "2026-11-24",
     "del_city": "BELCAMP",
     "del_state": "MD",
-    "del_hours": "",
+    "del_hours": "0800-1500",
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 4600,
     "carrier_rate": null,
-    "updated_at": "2026-11-20T14:45:07.126296+00:00",
+    "updated_at": "2026-11-20T14:49:21.857352+00:00",
     "lane": "EAST MOLINE IL-BELCAMP MD"
   },
   {
@@ -795,7 +812,7 @@
     "equipment": "Van",
     "weight_lbs": 44960,
     "carrier_rate": 2800,
-    "updated_at": "2026-11-20T14:06:00.840126+00:00",
+    "updated_at": "2026-11-20T14:47:14.431687+00:00",
     "lane": "PASADENA TX-PIEDMONT SC"
   }
 ]
