@@ -81,7 +81,7 @@
     "equipment": "Van",
     "weight_lbs": 4600,
     "carrier_rate": 1450,
-    "updated_at": "2026-11-20T15:38:54.441612+00:00",
+    "updated_at": "2026-11-20T16:33:48.078965+00:00",
     "lane": "EAST MOLINE IL-BELCAMP MD"
   },
   {
@@ -817,7 +817,7 @@
   },
   {
     "pro": "51496",
-    "status": "DISPATCHED",
+    "status": "LOADED",
     "pu_date": "2026-11-20",
     "pu_city": "MACON",
     "pu_state": "GA",
@@ -829,7 +829,7 @@
     "equipment": "Flatbed",
     "weight_lbs": 47000,
     "carrier_rate": 700,
-    "updated_at": "2026-11-20T15:04:02.934035+00:00",
+    "updated_at": "2026-11-20T16:30:11.346912+00:00",
     "lane": "MACON GA-AUGUSTA GA"
   },
   {
@@ -846,7 +846,7 @@
     "equipment": "Van",
     "weight_lbs": 44960,
     "carrier_rate": 2800,
-    "updated_at": "2026-11-20T16:00:18.060366+00:00",
+    "updated_at": "2026-11-20T16:30:08.154644+00:00",
     "lane": "PASADENA TX-PIEDMONT SC"
   },
   {
