@@ -795,12 +795,12 @@
     "equipment": "Van",
     "weight_lbs": 12480,
     "carrier_rate": 1200,
-    "updated_at": "2026-11-23T15:01:40.721519+00:00",
+    "updated_at": "2026-11-23T19:12:46.362312+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
     "pro": "51546",
-    "status": "DISPATCHED",
+    "status": "PICKUP",
     "pu_date": "2026-11-23",
     "pu_city": "MACON",
     "pu_state": "GA",
@@ -812,7 +812,7 @@
     "equipment": "Flatbed",
     "weight_lbs": 47000,
     "carrier_rate": 700,
-    "updated_at": "2026-11-23T18:54:59.319864+00:00",
+    "updated_at": "2026-11-23T19:14:51.686564+00:00",
     "lane": "MACON GA-AUGUSTA GA"
   },
   {
