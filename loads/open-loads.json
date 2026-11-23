@@ -81,7 +81,7 @@
     "equipment": "Flatbed",
     "weight_lbs": 47000,
     "carrier_rate": 700,
-    "updated_at": "2026-11-23T16:14:46.199286+00:00",
+    "updated_at": "2026-11-23T16:16:31.730088+00:00",
     "lane": "MACON GA-AUGUSTA GA"
   },
   {
@@ -100,23 +100,6 @@
     "carrier_rate": 2400,
     "updated_at": "2026-11-23T13:21:21.834026+00:00",
     "lane": "WINCHESTER KY-BURLINGTON NJ"
-  },
-  {
-    "pro": "51526",
-    "status": "OPEN",
-    "pu_date": "2026-11-24",
-    "pu_city": "WINCHESTER",
-    "pu_state": "KY",
-    "pu_hours": "0900-1200",
-    "del_date": "2026-11-24",
-    "del_city": "JOLIET",
-    "del_state": "IL",
-    "del_hours": "2130",
-    "equipment": "Van",
-    "weight_lbs": 12480,
-    "carrier_rate": 1100,
-    "updated_at": "2026-11-23T16:11:39.770275+00:00",
-    "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
     "pro": "51529",
@@ -966,6 +949,23 @@
     "weight_lbs": 12480,
     "carrier_rate": 1100,
     "updated_at": "2026-11-23T15:24:06.237829+00:00",
+    "lane": "WINCHESTER KY-JOLIET IL"
+  },
+  {
+    "pro": "51526",
+    "status": "COVERED",
+    "pu_date": "2026-11-24",
+    "pu_city": "WINCHESTER",
+    "pu_state": "KY",
+    "pu_hours": "0900-1200",
+    "del_date": "2026-11-24",
+    "del_city": "JOLIET",
+    "del_state": "IL",
+    "del_hours": "2130",
+    "equipment": "Van",
+    "weight_lbs": 12480,
+    "carrier_rate": 1100,
+    "updated_at": "2026-11-23T16:17:33.493530+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
   }
 ]
