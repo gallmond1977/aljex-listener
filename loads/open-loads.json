@@ -47,7 +47,7 @@
     "equipment": "Van",
     "weight_lbs": 6000,
     "carrier_rate": 700,
-    "updated_at": "2026-11-23T18:09:07.545344+00:00",
+    "updated_at": "2026-11-23T18:14:53.284254+00:00",
     "lane": "JACKSONVILLE FL-DULUTH GA"
   },
   {
@@ -80,8 +80,8 @@
     "del_hours": "0700-1500",
     "equipment": "Van",
     "weight_lbs": 42000,
-    "carrier_rate": null,
-    "updated_at": "2026-11-23T18:08:58.690469+00:00",
+    "carrier_rate": 1200,
+    "updated_at": "2026-11-23T18:10:34.954540+00:00",
     "lane": "CALHOUN GA-LINCOLNTON NC"
   },
   {
