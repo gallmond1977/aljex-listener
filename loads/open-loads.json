@@ -29,8 +29,8 @@
     "del_hours": "0800-1100",
     "equipment": "Van",
     "weight_lbs": 6000,
-    "carrier_rate": 600,
-    "updated_at": "2026-11-23T17:25:38.355128+00:00",
+    "carrier_rate": 650,
+    "updated_at": "2026-11-23T17:54:12.289993+00:00",
     "lane": "JACKSONVILLE FL-DULUTH GA"
   },
   {
@@ -115,7 +115,7 @@
     "equipment": "Van",
     "weight_lbs": 6600,
     "carrier_rate": 700,
-    "updated_at": "2026-11-23T17:29:48.932513+00:00",
+    "updated_at": "2026-11-23T17:53:04.281224+00:00",
     "lane": "COVINGTON GA-COLUMBUS GA"
   },
   {
