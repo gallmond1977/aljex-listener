@@ -51,6 +51,23 @@
     "lane": "MACON GA-AUGUSTA GA"
   },
   {
+    "pro": "51569",
+    "status": "OPEN",
+    "pu_date": "2026-11-23",
+    "pu_city": "WADESBORO",
+    "pu_state": "NC",
+    "pu_hours": "0730-1630",
+    "del_date": "2026-11-24",
+    "del_city": "ATLANTA",
+    "del_state": "GA",
+    "del_hours": "0800-1600",
+    "equipment": "Van",
+    "weight_lbs": 44000,
+    "carrier_rate": 850,
+    "updated_at": "2026-11-23T19:54:41.972341+00:00",
+    "lane": "WADESBORO NC-ATLANTA GA"
+  },
+  {
     "pro": "51479",
     "status": "OPEN",
     "pu_date": "2026-11-24",
@@ -544,6 +561,23 @@
     "lane": "WINCHESTER KY-BURLINGTON NJ"
   },
   {
+    "pro": "51492",
+    "status": "RELEASED",
+    "pu_date": "2026-11-18",
+    "pu_city": "WADESBORO",
+    "pu_state": "NC",
+    "pu_hours": "0730-1630",
+    "del_date": "2026-11-19",
+    "del_city": "ATLANTA",
+    "del_state": "GA",
+    "del_hours": "0800-1600",
+    "equipment": "Van",
+    "weight_lbs": 44000,
+    "carrier_rate": 900,
+    "updated_at": "2026-11-19T18:22:05.468296+00:00",
+    "lane": "WADESBORO NC-ATLANTA GA"
+  },
+  {
     "pro": "51471",
     "status": "RELEASED",
     "pu_date": "2026-11-19",
@@ -778,7 +812,7 @@
     "equipment": "Van",
     "weight_lbs": 12480,
     "carrier_rate": 1200,
-    "updated_at": "2026-11-23T19:48:17.817141+00:00",
+    "updated_at": "2026-11-23T19:50:14.724923+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
