@@ -17,23 +17,6 @@
     "lane": "OAKLAND TN-PHENIX CITY AL"
   },
   {
-    "pro": "51556",
-    "status": "OPEN",
-    "pu_date": "2026-11-23",
-    "pu_city": "LINCOLNTON",
-    "pu_state": "NC",
-    "pu_hours": "1300-1500",
-    "del_date": "2026-11-24",
-    "del_city": "AUBURN",
-    "del_state": "AL",
-    "del_hours": "0700-0800",
-    "equipment": "Flatbed Hot Shot",
-    "weight_lbs": 10000,
-    "carrier_rate": 900,
-    "updated_at": "2026-11-23T16:10:33.166833+00:00",
-    "lane": "LINCOLNTON NC-AUBURN AL"
-  },
-  {
     "pro": "51560",
     "status": "OPEN",
     "pu_date": "2026-11-23",
@@ -525,23 +508,6 @@
     "carrier_rate": 1100,
     "updated_at": "2026-11-17T16:12:00.789004+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
-  },
-  {
-    "pro": "51453",
-    "status": "RELEASED",
-    "pu_date": "2026-11-16",
-    "pu_city": "LINCOLNTON",
-    "pu_state": "NC",
-    "pu_hours": "0700-1500",
-    "del_date": "2026-11-17",
-    "del_city": "AUBURN",
-    "del_state": "AL",
-    "del_hours": "0700-0800",
-    "equipment": "Flatbed Hot Shot",
-    "weight_lbs": 5000,
-    "carrier_rate": 700,
-    "updated_at": "2026-11-17T16:11:11.838524+00:00",
-    "lane": "LINCOLNTON NC-AUBURN AL"
   },
   {
     "pro": "51384",
