@@ -30,7 +30,7 @@
     "equipment": "Van",
     "weight_lbs": 6600,
     "carrier_rate": 700,
-    "updated_at": "2026-11-23T16:59:50.788476+00:00",
+    "updated_at": "2026-11-23T17:02:37.537907+00:00",
     "lane": "COVINGTON GA-COLUMBUS GA"
   },
   {
@@ -217,7 +217,7 @@
     "equipment": "Reefer",
     "weight_lbs": 19500,
     "carrier_rate": 4700,
-    "updated_at": "2026-11-23T17:00:34.060267+00:00",
+    "updated_at": "2026-11-23T17:04:19.777292+00:00",
     "lane": "MONTEZUMA GA-TRACY CA"
   },
   {
@@ -897,12 +897,12 @@
     "equipment": "Flatbed",
     "weight_lbs": 47000,
     "carrier_rate": 700,
-    "updated_at": "2026-11-23T16:12:11.531726+00:00",
+    "updated_at": "2026-11-23T17:03:25.084160+00:00",
     "lane": "MACON GA-AUGUSTA GA"
   },
   {
     "pro": "51564",
-    "status": "COVERED",
+    "status": "DISPATCHED",
     "pu_date": "2026-11-23",
     "pu_city": "MACON",
     "pu_state": "GA",
@@ -914,7 +914,7 @@
     "equipment": "Flatbed",
     "weight_lbs": 47000,
     "carrier_rate": 700,
-    "updated_at": "2026-11-23T16:40:16.185420+00:00",
+    "updated_at": "2026-11-23T17:03:35.189780+00:00",
     "lane": "MACON GA-AUGUSTA GA"
   },
   {
