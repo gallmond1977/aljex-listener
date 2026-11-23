@@ -63,8 +63,8 @@
     "del_hours": "0700-0800",
     "equipment": "Flatbed Hot Shot",
     "weight_lbs": 10000,
-    "carrier_rate": 700,
-    "updated_at": "2026-11-23T14:59:25.668406+00:00",
+    "carrier_rate": 800,
+    "updated_at": "2026-11-23T15:25:54.784115+00:00",
     "lane": "LINCOLNTON NC-AUBURN AL"
   },
   {
@@ -268,7 +268,7 @@
     "equipment": "Van",
     "weight_lbs": 41500,
     "carrier_rate": null,
-    "updated_at": "2026-11-23T15:21:10.704539+00:00",
+    "updated_at": "2026-11-23T15:26:50.999134+00:00",
     "lane": "OLD FORT NC-COLUMBUS GA"
   },
   {
@@ -476,40 +476,6 @@
     "lane": "LA PORTE TX-PIEDMONT SC"
   },
   {
-    "pro": "51335",
-    "status": "RELEASED",
-    "pu_date": "2026-11-09",
-    "pu_city": "OAKLAND",
-    "pu_state": "TN",
-    "pu_hours": "0800-1500",
-    "del_date": "2026-11-11",
-    "del_city": "SALISBURY",
-    "del_state": "NC",
-    "del_hours": "0600-1100",
-    "equipment": "Van Hazmat",
-    "weight_lbs": 44900,
-    "carrier_rate": 2900,
-    "updated_at": "2026-11-16T15:28:49.491385+00:00",
-    "lane": "OAKLAND TN-SALISBURY NC"
-  },
-  {
-    "pro": "50542",
-    "status": "RELEASED",
-    "pu_date": "2026-11-11",
-    "pu_city": "OLD FORT",
-    "pu_state": "NC",
-    "pu_hours": "1700",
-    "del_date": "2026-11-12",
-    "del_city": "COLUMBUS",
-    "del_state": "GA",
-    "del_hours": "0730-1430",
-    "equipment": "Van",
-    "weight_lbs": 41500,
-    "carrier_rate": 1900,
-    "updated_at": "2026-11-16T15:29:24.991157+00:00",
-    "lane": "OLD FORT NC-COLUMBUS GA"
-  },
-  {
     "pro": "51374",
     "status": "RELEASED",
     "pu_date": "2026-11-12",
@@ -524,23 +490,6 @@
     "weight_lbs": 11280,
     "carrier_rate": 1100,
     "updated_at": "2026-11-16T15:43:34.736244+00:00",
-    "lane": "WINCHESTER KY-JOLIET IL"
-  },
-  {
-    "pro": "51376",
-    "status": "RELEASED",
-    "pu_date": "2026-11-12",
-    "pu_city": "WINCHESTER",
-    "pu_state": "KY",
-    "pu_hours": "0900-1100",
-    "del_date": "2026-11-13",
-    "del_city": "JOLIET",
-    "del_state": "IL",
-    "del_hours": "2130",
-    "equipment": "Van",
-    "weight_lbs": 11280,
-    "carrier_rate": 1100,
-    "updated_at": "2026-11-16T15:28:20.914762+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
