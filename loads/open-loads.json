@@ -46,8 +46,8 @@
     "del_hours": "0800-1100",
     "equipment": "Van",
     "weight_lbs": 6000,
-    "carrier_rate": 650,
-    "updated_at": "2026-11-23T17:54:12.289993+00:00",
+    "carrier_rate": 700,
+    "updated_at": "2026-11-23T18:09:07.545344+00:00",
     "lane": "JACKSONVILLE FL-DULUTH GA"
   },
   {
@@ -66,6 +66,23 @@
     "carrier_rate": null,
     "updated_at": "2026-11-23T16:43:25.170022+00:00",
     "lane": "MACON GA-AUGUSTA GA"
+  },
+  {
+    "pro": "51568",
+    "status": "OPEN",
+    "pu_date": "2026-11-23",
+    "pu_city": "CALHOUN",
+    "pu_state": "GA",
+    "pu_hours": "0800-1630",
+    "del_date": "2026-11-24",
+    "del_city": "LINCOLNTON",
+    "del_state": "NC",
+    "del_hours": "0700-1500",
+    "equipment": "Van",
+    "weight_lbs": 42000,
+    "carrier_rate": null,
+    "updated_at": "2026-11-23T18:08:58.690469+00:00",
+    "lane": "CALHOUN GA-LINCOLNTON NC"
   },
   {
     "pro": "51479",
