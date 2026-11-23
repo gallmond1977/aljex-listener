@@ -46,8 +46,8 @@
     "del_hours": "0700-1500",
     "equipment": "Van",
     "weight_lbs": 42280,
-    "carrier_rate": 2700,
-    "updated_at": "2026-11-23T13:21:57.340834+00:00",
+    "carrier_rate": 2800,
+    "updated_at": "2026-11-23T14:41:00.520724+00:00",
     "lane": "BENSENVILLE IL-BELCAMP MD"
   },
   {
@@ -183,7 +183,7 @@
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 1500,
     "carrier_rate": 400,
-    "updated_at": "2026-11-23T14:40:05.972847+00:00",
+    "updated_at": "2026-11-23T14:40:21.571880+00:00",
     "lane": "COLUMBUS GA-COVINGTON GA"
   },
   {
