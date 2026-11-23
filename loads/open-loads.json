@@ -47,7 +47,7 @@
     "equipment": "Van",
     "weight_lbs": 17301,
     "carrier_rate": 2900,
-    "updated_at": "2026-11-23T14:16:08.671974+00:00",
+    "updated_at": "2026-11-23T14:23:33.011069+00:00",
     "lane": "WHEELING IL-BELCAMP MD"
   },
   {
@@ -277,15 +277,15 @@
     "pu_date": "2026-11-27",
     "pu_city": "MONTEZUMA",
     "pu_state": "GA",
-    "pu_hours": "1300",
-    "del_date": "",
+    "pu_hours": "",
+    "del_date": "2026-12-01",
     "del_city": "TRACY",
     "del_state": "CA",
     "del_hours": "0415",
     "equipment": "Reefer",
-    "weight_lbs": 39000,
+    "weight_lbs": 19500,
     "carrier_rate": null,
-    "updated_at": "2026-11-23T14:19:44.385352+00:00",
+    "updated_at": "2026-11-23T14:24:53.283450+00:00",
     "lane": "MONTEZUMA GA-TRACY CA"
   },
   {
@@ -834,7 +834,7 @@
   },
   {
     "pro": "51316",
-    "status": "CONSIGNEE",
+    "status": "DELIVERED",
     "pu_date": "2026-11-20",
     "pu_city": "LA PORTE",
     "pu_state": "TX",
@@ -846,7 +846,7 @@
     "equipment": "Van",
     "weight_lbs": 41328,
     "carrier_rate": 2800,
-    "updated_at": "2026-11-23T08:06:27.096774+00:00",
+    "updated_at": "2026-11-23T14:22:58.150564+00:00",
     "lane": "LA PORTE TX-PIEDMONT SC"
   },
   {
