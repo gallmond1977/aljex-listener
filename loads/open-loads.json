@@ -63,8 +63,8 @@
     "del_hours": "0800-2100",
     "equipment": "Van",
     "weight_lbs": 6600,
-    "carrier_rate": 600,
-    "updated_at": "2026-11-23T15:10:42.619454+00:00",
+    "carrier_rate": 700,
+    "updated_at": "2026-11-23T15:48:13.203902+00:00",
     "lane": "COVINGTON GA-COLUMBUS GA"
   },
   {
@@ -77,11 +77,11 @@
     "del_date": "2026-11-24",
     "del_city": "MONTICELLO",
     "del_state": "IL",
-    "del_hours": "0800-1100",
+    "del_hours": "0800-1130",
     "equipment": "Sprinter Van",
     "weight_lbs": 2300,
     "carrier_rate": 1000,
-    "updated_at": "2026-11-23T15:43:22.806474+00:00",
+    "updated_at": "2026-11-23T15:49:15.745319+00:00",
     "lane": "PHENIX CITY AL-MONTICELLO IL"
   },
   {
