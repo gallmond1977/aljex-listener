@@ -340,6 +340,23 @@
     "lane": "BELCAMP MD-LAS VEGAS NV"
   },
   {
+    "pro": "51565",
+    "status": "OPEN",
+    "pu_date": "2026-12-02",
+    "pu_city": "WINCHESTER",
+    "pu_state": "KY",
+    "pu_hours": "1300",
+    "del_date": "2026-12-03",
+    "del_city": "BURLINGTON",
+    "del_state": "NJ",
+    "del_hours": "CALL!",
+    "equipment": "Van",
+    "weight_lbs": 12015,
+    "carrier_rate": null,
+    "updated_at": "2026-11-23T16:29:40.540226+00:00",
+    "lane": "WINCHESTER KY-BURLINGTON NJ"
+  },
+  {
     "pro": "49857",
     "status": "OPEN",
     "pu_date": "2026-12-07",
