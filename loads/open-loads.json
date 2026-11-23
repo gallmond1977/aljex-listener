@@ -51,23 +51,6 @@
     "lane": "MACON GA-AUGUSTA GA"
   },
   {
-    "pro": "51568",
-    "status": "OPEN",
-    "pu_date": "2026-11-23",
-    "pu_city": "CALHOUN",
-    "pu_state": "GA",
-    "pu_hours": "0800-1630",
-    "del_date": "2026-11-24",
-    "del_city": "LINCOLNTON",
-    "del_state": "NC",
-    "del_hours": "0700-1500",
-    "equipment": "Van",
-    "weight_lbs": 42000,
-    "carrier_rate": 1300,
-    "updated_at": "2026-11-23T18:22:24.700450+00:00",
-    "lane": "CALHOUN GA-LINCOLNTON NC"
-  },
-  {
     "pro": "51479",
     "status": "OPEN",
     "pu_date": "2026-11-24",
