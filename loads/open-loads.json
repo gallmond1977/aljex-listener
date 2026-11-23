@@ -68,23 +68,6 @@
     "lane": "ROME GA-BELCAMP MD"
   },
   {
-    "pro": "51553",
-    "status": "OPEN",
-    "pu_date": "2026-11-23",
-    "pu_city": "CALHOUN",
-    "pu_state": "GA",
-    "pu_hours": "0800-1400",
-    "del_date": "2026-11-24",
-    "del_city": "ROYSE CITY",
-    "del_state": "TX",
-    "del_hours": "0800-0930",
-    "equipment": "Van",
-    "weight_lbs": 11000,
-    "carrier_rate": null,
-    "updated_at": "2026-11-20T20:45:14.774233+00:00",
-    "lane": "CALHOUN GA-ROYSE CITY TX"
-  },
-  {
     "pro": "51555",
     "status": "OPEN",
     "pu_date": "2026-11-23",
@@ -100,6 +83,23 @@
     "carrier_rate": 2700,
     "updated_at": "2026-11-23T13:21:57.340834+00:00",
     "lane": "BENSENVILLE IL-BELCAMP MD"
+  },
+  {
+    "pro": "51556",
+    "status": "OPEN",
+    "pu_date": "2026-11-23",
+    "pu_city": "LINCOLNTON",
+    "pu_state": "NC",
+    "pu_hours": "0700-1500",
+    "del_date": "2026-11-24",
+    "del_city": "AUBURN",
+    "del_state": "AL",
+    "del_hours": "0700-0800",
+    "equipment": "Flatbed Hot Shot",
+    "weight_lbs": 5000,
+    "carrier_rate": 700,
+    "updated_at": "2026-11-23T13:33:07.238815+00:00",
+    "lane": "LINCOLNTON NC-AUBURN AL"
   },
   {
     "pro": "51479",
@@ -595,6 +595,23 @@
     "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
+    "pro": "51453",
+    "status": "RELEASED",
+    "pu_date": "2026-11-16",
+    "pu_city": "LINCOLNTON",
+    "pu_state": "NC",
+    "pu_hours": "0700-1500",
+    "del_date": "2026-11-17",
+    "del_city": "AUBURN",
+    "del_state": "AL",
+    "del_hours": "0700-0800",
+    "equipment": "Flatbed Hot Shot",
+    "weight_lbs": 5000,
+    "carrier_rate": 700,
+    "updated_at": "2026-11-17T16:11:11.838524+00:00",
+    "lane": "LINCOLNTON NC-AUBURN AL"
+  },
+  {
     "pro": "51384",
     "status": "RELEASED",
     "pu_date": "2026-11-17",
@@ -863,12 +880,12 @@
     "equipment": "Flatbed",
     "weight_lbs": 47000,
     "carrier_rate": 700,
-    "updated_at": "2026-11-20T20:48:38.199520+00:00",
+    "updated_at": "2026-11-23T13:34:21.282384+00:00",
     "lane": "MACON GA-AUGUSTA GA"
   },
   {
     "pro": "50717",
-    "status": "DISPATCHED",
+    "status": "PICKUP",
     "pu_date": "2026-11-23",
     "pu_city": "OLD FORT",
     "pu_state": "NC",
@@ -880,7 +897,7 @@
     "equipment": "Van",
     "weight_lbs": 41500,
     "carrier_rate": 1600,
-    "updated_at": "2026-11-23T13:18:07.898819+00:00",
+    "updated_at": "2026-11-23T13:34:45.977127+00:00",
     "lane": "OLD FORT NC-COLUMBUS GA"
   },
   {
