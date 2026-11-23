@@ -102,23 +102,6 @@
     "lane": "RICHMOND VA-ORKNEY SPRINGS VA"
   },
   {
-    "pro": "51528",
-    "status": "OPEN",
-    "pu_date": "2026-11-25",
-    "pu_city": "WINCHESTER",
-    "pu_state": "KY",
-    "pu_hours": "0800-1030",
-    "del_date": "2026-11-25",
-    "del_city": "JOLIET",
-    "del_state": "IL",
-    "del_hours": "2000",
-    "equipment": "Van",
-    "weight_lbs": 14580,
-    "carrier_rate": 1000,
-    "updated_at": "2026-11-19T18:00:49.013894+00:00",
-    "lane": "WINCHESTER KY-JOLIET IL"
-  },
-  {
     "pro": "51531",
     "status": "OPEN",
     "pu_date": "2026-11-25",
@@ -795,12 +778,12 @@
     "equipment": "Van",
     "weight_lbs": 12480,
     "carrier_rate": 1200,
-    "updated_at": "2026-11-23T19:20:21.798692+00:00",
+    "updated_at": "2026-11-23T19:38:49.501923+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
     "pro": "51546",
-    "status": "PICKUP",
+    "status": "LOADED",
     "pu_date": "2026-11-23",
     "pu_city": "MACON",
     "pu_state": "GA",
@@ -812,7 +795,7 @@
     "equipment": "Flatbed",
     "weight_lbs": 47000,
     "carrier_rate": 700,
-    "updated_at": "2026-11-23T19:14:51.686564+00:00",
+    "updated_at": "2026-11-23T19:36:11.292001+00:00",
     "lane": "MACON GA-AUGUSTA GA"
   },
   {
@@ -881,6 +864,23 @@
     "weight_lbs": 12480,
     "carrier_rate": 1100,
     "updated_at": "2026-11-23T16:17:33.493530+00:00",
+    "lane": "WINCHESTER KY-JOLIET IL"
+  },
+  {
+    "pro": "51528",
+    "status": "COVERED",
+    "pu_date": "2026-11-25",
+    "pu_city": "WINCHESTER",
+    "pu_state": "KY",
+    "pu_hours": "0800-1030",
+    "del_date": "2026-11-25",
+    "del_city": "JOLIET",
+    "del_state": "IL",
+    "del_hours": "2000",
+    "equipment": "Van",
+    "weight_lbs": 14580,
+    "carrier_rate": 1100,
+    "updated_at": "2026-11-23T19:37:12.314442+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
   }
 ]
