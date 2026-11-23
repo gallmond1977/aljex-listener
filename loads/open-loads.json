@@ -34,6 +34,23 @@
     "lane": "COVINGTON GA-COLUMBUS GA"
   },
   {
+    "pro": "51563",
+    "status": "OPEN",
+    "pu_date": "2026-11-23",
+    "pu_city": "JACKSONVILLE",
+    "pu_state": "FL",
+    "pu_hours": "1315-1600",
+    "del_date": "2026-11-24",
+    "del_city": "DULUTH",
+    "del_state": "GA",
+    "del_hours": "0800-1100",
+    "equipment": "Van",
+    "weight_lbs": 6000,
+    "carrier_rate": 700,
+    "updated_at": "2026-11-23T18:20:55.838477+00:00",
+    "lane": "JACKSONVILLE FL-DULUTH GA"
+  },
+  {
     "pro": "51567",
     "status": "OPEN",
     "pu_date": "2026-11-23",
@@ -63,8 +80,8 @@
     "del_hours": "0700-1500",
     "equipment": "Van",
     "weight_lbs": 42000,
-    "carrier_rate": 1200,
-    "updated_at": "2026-11-23T18:10:34.954540+00:00",
+    "carrier_rate": 1300,
+    "updated_at": "2026-11-23T18:22:24.700450+00:00",
     "lane": "CALHOUN GA-LINCOLNTON NC"
   },
   {
@@ -202,23 +219,6 @@
     "carrier_rate": null,
     "updated_at": "2026-11-23T17:10:13.325732+00:00",
     "lane": "OLD FORT NC-COLUMBUS GA"
-  },
-  {
-    "pro": "51558",
-    "status": "OPEN",
-    "pu_date": "2026-11-27",
-    "pu_city": "MONTEZUMA",
-    "pu_state": "GA",
-    "pu_hours": "13:00",
-    "del_date": "2026-12-01",
-    "del_city": "TRACY",
-    "del_state": "CA",
-    "del_hours": "0415",
-    "equipment": "Reefer",
-    "weight_lbs": 19500,
-    "carrier_rate": 4700,
-    "updated_at": "2026-11-23T17:04:19.777292+00:00",
-    "lane": "MONTEZUMA GA-TRACY CA"
   },
   {
     "pro": "51388",
@@ -476,40 +476,6 @@
     "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
-    "pro": "51353",
-    "status": "RELEASED",
-    "pu_date": "2026-11-13",
-    "pu_city": "MONTEZUMA",
-    "pu_state": "GA",
-    "pu_hours": "1300",
-    "del_date": "2026-11-17",
-    "del_city": "TRACY",
-    "del_state": "CA",
-    "del_hours": "0415",
-    "equipment": "Reefer",
-    "weight_lbs": 39000,
-    "carrier_rate": 4800,
-    "updated_at": "2026-11-18T16:40:52.987731+00:00",
-    "lane": "MONTEZUMA GA-TRACY CA"
-  },
-  {
-    "pro": "51363",
-    "status": "RELEASED",
-    "pu_date": "2026-11-13",
-    "pu_city": "MONTEZUMA",
-    "pu_state": "GA",
-    "pu_hours": "1500",
-    "del_date": "2026-11-17",
-    "del_city": "TRACY",
-    "del_state": "CA",
-    "del_hours": "0415",
-    "equipment": "Reefer",
-    "weight_lbs": 39000,
-    "carrier_rate": 4700,
-    "updated_at": "2026-11-18T16:37:25.568263+00:00",
-    "lane": "MONTEZUMA GA-TRACY CA"
-  },
-  {
     "pro": "51409",
     "status": "RELEASED",
     "pu_date": "2026-11-13",
@@ -712,23 +678,6 @@
     "carrier_rate": 2800,
     "updated_at": "2026-11-23T14:22:58.150564+00:00",
     "lane": "LA PORTE TX-PIEDMONT SC"
-  },
-  {
-    "pro": "51459",
-    "status": "LOADED",
-    "pu_date": "2026-11-20",
-    "pu_city": "MONTEZUMA",
-    "pu_state": "GA",
-    "pu_hours": "1300",
-    "del_date": "2026-11-24",
-    "del_city": "TRACY",
-    "del_state": "CA",
-    "del_hours": "0415",
-    "equipment": "Reefer",
-    "weight_lbs": 39000,
-    "carrier_rate": 4800,
-    "updated_at": "2026-11-23T13:43:36.309105+00:00",
-    "lane": "MONTEZUMA GA-TRACY CA"
   },
   {
     "pro": "51473",
