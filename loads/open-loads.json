@@ -34,23 +34,6 @@
     "lane": "COVINGTON GA-COLUMBUS GA"
   },
   {
-    "pro": "51563",
-    "status": "OPEN",
-    "pu_date": "2026-11-23",
-    "pu_city": "JACKSONVILLE",
-    "pu_state": "FL",
-    "pu_hours": "1315-1600",
-    "del_date": "2026-11-24",
-    "del_city": "DULUTH",
-    "del_state": "GA",
-    "del_hours": "0800-1100",
-    "equipment": "Van",
-    "weight_lbs": 6000,
-    "carrier_rate": 700,
-    "updated_at": "2026-11-23T18:20:55.838477+00:00",
-    "lane": "JACKSONVILLE FL-DULUTH GA"
-  },
-  {
     "pro": "51567",
     "status": "OPEN",
     "pu_date": "2026-11-23",
