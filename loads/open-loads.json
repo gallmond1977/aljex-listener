@@ -817,7 +817,7 @@
   },
   {
     "pro": "51316",
-    "status": "LOADED",
+    "status": "CONSIGNEE",
     "pu_date": "2026-11-20",
     "pu_city": "LA PORTE",
     "pu_state": "TX",
@@ -829,7 +829,7 @@
     "equipment": "Van",
     "weight_lbs": 41328,
     "carrier_rate": 2800,
-    "updated_at": "2026-11-20T18:01:58.773572+00:00",
+    "updated_at": "2026-11-23T08:06:27.096774+00:00",
     "lane": "LA PORTE TX-PIEDMONT SC"
   },
   {
