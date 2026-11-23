@@ -285,7 +285,7 @@
     "equipment": "Van",
     "weight_lbs": 12480,
     "carrier_rate": null,
-    "updated_at": "2026-11-23T21:10:16.229119+00:00",
+    "updated_at": "2026-11-23T21:19:21.545407+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
@@ -302,7 +302,7 @@
     "equipment": "Van",
     "weight_lbs": 14580,
     "carrier_rate": 1000,
-    "updated_at": "2026-11-23T20:55:38.550739+00:00",
+    "updated_at": "2026-11-23T21:16:08.107336+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
@@ -829,7 +829,7 @@
     "equipment": "Van",
     "weight_lbs": 12480,
     "carrier_rate": 150,
-    "updated_at": "2026-11-23T20:22:21.026316+00:00",
+    "updated_at": "2026-11-23T21:20:05.782468+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
