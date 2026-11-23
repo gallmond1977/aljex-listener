@@ -81,7 +81,7 @@
     "equipment": "Sprinter Van",
     "weight_lbs": 2300,
     "carrier_rate": 1000,
-    "updated_at": "2026-11-23T15:49:15.745319+00:00",
+    "updated_at": "2026-11-23T15:51:32.186730+00:00",
     "lane": "PHENIX CITY AL-MONTICELLO IL"
   },
   {
@@ -97,8 +97,8 @@
     "del_hours": "0800-1100",
     "equipment": "Van",
     "weight_lbs": 7600,
-    "carrier_rate": 600,
-    "updated_at": "2026-11-23T15:42:14.204717+00:00",
+    "carrier_rate": 500,
+    "updated_at": "2026-11-23T15:50:51.562885+00:00",
     "lane": "JACKSONVILLE FL-DULUTH GA"
   },
   {
@@ -117,23 +117,6 @@
     "carrier_rate": 2400,
     "updated_at": "2026-11-23T13:21:21.834026+00:00",
     "lane": "WINCHESTER KY-BURLINGTON NJ"
-  },
-  {
-    "pro": "51524",
-    "status": "OPEN",
-    "pu_date": "2026-11-24",
-    "pu_city": "WINCHESTER",
-    "pu_state": "KY",
-    "pu_hours": "0800-1030",
-    "del_date": "2026-11-24",
-    "del_city": "JOLIET",
-    "del_state": "IL",
-    "del_hours": "2000",
-    "equipment": "Van",
-    "weight_lbs": 12480,
-    "carrier_rate": 1000,
-    "updated_at": "2026-11-19T17:09:39.325859+00:00",
-    "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
     "pro": "51526",
@@ -829,7 +812,7 @@
     "equipment": "Van",
     "weight_lbs": 12480,
     "carrier_rate": 1100,
-    "updated_at": "2026-11-23T14:31:09.663006+00:00",
+    "updated_at": "2026-11-23T15:52:19.312453+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
@@ -864,6 +847,23 @@
     "weight_lbs": 12480,
     "carrier_rate": 1200,
     "updated_at": "2026-11-23T15:01:40.721519+00:00",
+    "lane": "WINCHESTER KY-JOLIET IL"
+  },
+  {
+    "pro": "51524",
+    "status": "COVERED",
+    "pu_date": "2026-11-24",
+    "pu_city": "WINCHESTER",
+    "pu_state": "KY",
+    "pu_hours": "0800-1030",
+    "del_date": "2026-11-24",
+    "del_city": "JOLIET",
+    "del_state": "IL",
+    "del_hours": "2000",
+    "equipment": "Van",
+    "weight_lbs": 12480,
+    "carrier_rate": 1100,
+    "updated_at": "2026-11-23T15:52:26.991690+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
