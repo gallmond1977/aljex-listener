@@ -17,6 +17,23 @@
     "lane": "OAKLAND TN-PHENIX CITY AL"
   },
   {
+    "pro": "51560",
+    "status": "OPEN",
+    "pu_date": "2026-11-23",
+    "pu_city": "COVINGTON",
+    "pu_state": "GA",
+    "pu_hours": "1000-1400",
+    "del_date": "2026-11-24",
+    "del_city": "COLUMBUS",
+    "del_state": "GA",
+    "del_hours": "0800-2100",
+    "equipment": "Van",
+    "weight_lbs": 6600,
+    "carrier_rate": 700,
+    "updated_at": "2026-11-23T17:58:20.115415+00:00",
+    "lane": "COVINGTON GA-COLUMBUS GA"
+  },
+  {
     "pro": "51563",
     "status": "OPEN",
     "pu_date": "2026-11-23",
@@ -100,23 +117,6 @@
     "carrier_rate": 1200,
     "updated_at": "2026-11-20T13:12:49.066053+00:00",
     "lane": "CONOVER NC-KITTANNING PA"
-  },
-  {
-    "pro": "51560",
-    "status": "OPEN",
-    "pu_date": "2026-11-24",
-    "pu_city": "COVINGTON",
-    "pu_state": "GA",
-    "pu_hours": "1000-1400",
-    "del_date": "2026-11-24",
-    "del_city": "COLUMBUS",
-    "del_state": "GA",
-    "del_hours": "0800-2100",
-    "equipment": "Van",
-    "weight_lbs": 6600,
-    "carrier_rate": 700,
-    "updated_at": "2026-11-23T17:53:04.281224+00:00",
-    "lane": "COVINGTON GA-COLUMBUS GA"
   },
   {
     "pro": "51484",
