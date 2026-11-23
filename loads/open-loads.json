@@ -794,8 +794,8 @@
     "del_hours": "2000",
     "equipment": "Van",
     "weight_lbs": 12480,
-    "carrier_rate": 1100,
-    "updated_at": "2026-11-23T16:12:00.318385+00:00",
+    "carrier_rate": 150,
+    "updated_at": "2026-11-23T20:00:58.811381+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
