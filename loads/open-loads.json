@@ -30,7 +30,7 @@
     "equipment": "Van",
     "weight_lbs": 6600,
     "carrier_rate": 700,
-    "updated_at": "2026-11-23T16:35:35.016071+00:00",
+    "updated_at": "2026-11-23T16:59:50.788476+00:00",
     "lane": "COVINGTON GA-COLUMBUS GA"
   },
   {
@@ -45,9 +45,9 @@
     "del_state": "GA",
     "del_hours": "0800-1100",
     "equipment": "Van",
-    "weight_lbs": 7600,
+    "weight_lbs": 6000,
     "carrier_rate": 500,
-    "updated_at": "2026-11-23T16:47:33.248825+00:00",
+    "updated_at": "2026-11-23T16:59:13.623782+00:00",
     "lane": "JACKSONVILLE FL-DULUTH GA"
   },
   {
@@ -117,23 +117,6 @@
     "carrier_rate": 1200,
     "updated_at": "2026-11-20T13:12:49.066053+00:00",
     "lane": "CONOVER NC-KITTANNING PA"
-  },
-  {
-    "pro": "51559",
-    "status": "OPEN",
-    "pu_date": "2026-11-24",
-    "pu_city": "COLUMBUS",
-    "pu_state": "GA",
-    "pu_hours": "0600-0900",
-    "del_date": "2026-11-24",
-    "del_city": "COVINGTON",
-    "del_state": "GA",
-    "del_hours": "0800-1500",
-    "equipment": "26' Straight Box Truck",
-    "weight_lbs": 1500,
-    "carrier_rate": 400,
-    "updated_at": "2026-11-23T14:40:21.571880+00:00",
-    "lane": "COLUMBUS GA-COVINGTON GA"
   },
   {
     "pro": "51484",
@@ -226,7 +209,7 @@
     "pu_date": "2026-11-27",
     "pu_city": "MONTEZUMA",
     "pu_state": "GA",
-    "pu_hours": "1300RQ",
+    "pu_hours": "13:00",
     "del_date": "2026-12-01",
     "del_city": "TRACY",
     "del_state": "CA",
@@ -234,7 +217,7 @@
     "equipment": "Reefer",
     "weight_lbs": 19500,
     "carrier_rate": 4700,
-    "updated_at": "2026-11-23T14:35:28.321123+00:00",
+    "updated_at": "2026-11-23T17:00:34.060267+00:00",
     "lane": "MONTEZUMA GA-TRACY CA"
   },
   {
