@@ -34,23 +34,6 @@
     "lane": "MACON GA-AUGUSTA GA"
   },
   {
-    "pro": "51550",
-    "status": "OPEN",
-    "pu_date": "2026-11-23",
-    "pu_city": "WHEELING",
-    "pu_state": "IL",
-    "pu_hours": "0700-1700",
-    "del_date": "",
-    "del_city": "BELCAMP",
-    "del_state": "MD",
-    "del_hours": "0700-1500",
-    "equipment": "Van",
-    "weight_lbs": 17301,
-    "carrier_rate": 2900,
-    "updated_at": "2026-11-23T14:27:39.406879+00:00",
-    "lane": "WHEELING IL-BELCAMP MD"
-  },
-  {
     "pro": "51555",
     "status": "OPEN",
     "pu_date": "2026-11-23",
@@ -277,7 +260,7 @@
     "pu_date": "2026-11-27",
     "pu_city": "MONTEZUMA",
     "pu_state": "GA",
-    "pu_hours": "",
+    "pu_hours": "1300RQ",
     "del_date": "2026-12-01",
     "del_city": "TRACY",
     "del_state": "CA",
@@ -285,7 +268,7 @@
     "equipment": "Reefer",
     "weight_lbs": 19500,
     "carrier_rate": 4700,
-    "updated_at": "2026-11-23T14:30:07.395539+00:00",
+    "updated_at": "2026-11-23T14:34:56.554899+00:00",
     "lane": "MONTEZUMA GA-TRACY CA"
   },
   {
@@ -970,7 +953,7 @@
   },
   {
     "pro": "51521",
-    "status": "COVERED",
+    "status": "DISPATCHED",
     "pu_date": "2026-11-23",
     "pu_city": "WINCHESTER",
     "pu_state": "KY",
@@ -982,12 +965,12 @@
     "equipment": "Van",
     "weight_lbs": 12480,
     "carrier_rate": 1100,
-    "updated_at": "2026-11-23T14:14:07.744570+00:00",
+    "updated_at": "2026-11-23T14:31:09.663006+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
     "pro": "51522",
-    "status": "COVERED",
+    "status": "DISPATCHED",
     "pu_date": "2026-11-23",
     "pu_city": "WINCHESTER",
     "pu_state": "KY",
@@ -999,7 +982,7 @@
     "equipment": "Van",
     "weight_lbs": 12480,
     "carrier_rate": 1100,
-    "updated_at": "2026-11-23T13:57:42.274417+00:00",
+    "updated_at": "2026-11-23T14:31:55.401406+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
