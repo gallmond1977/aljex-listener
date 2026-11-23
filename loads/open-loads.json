@@ -46,8 +46,8 @@
     "del_hours": "0700-1500",
     "equipment": "Van",
     "weight_lbs": 42280,
-    "carrier_rate": 2800,
-    "updated_at": "2026-11-23T14:41:00.520724+00:00",
+    "carrier_rate": 3000,
+    "updated_at": "2026-11-23T14:48:27.468752+00:00",
     "lane": "BENSENVILLE IL-BELCAMP MD"
   },
   {
@@ -1004,7 +1004,7 @@
   },
   {
     "pro": "51523",
-    "status": "COVERED",
+    "status": "DISPATCHED",
     "pu_date": "2026-11-23",
     "pu_city": "WINCHESTER",
     "pu_state": "KY",
@@ -1016,7 +1016,7 @@
     "equipment": "Van",
     "weight_lbs": 12480,
     "carrier_rate": 1200,
-    "updated_at": "2026-11-23T13:09:35.153081+00:00",
+    "updated_at": "2026-11-23T14:47:58.075723+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
   }
 ]
