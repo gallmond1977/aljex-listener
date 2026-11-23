@@ -17,23 +17,6 @@
     "lane": "OAKLAND TN-PHENIX CITY AL"
   },
   {
-    "pro": "51555",
-    "status": "OPEN",
-    "pu_date": "2026-11-23",
-    "pu_city": "BENSENVILLE",
-    "pu_state": "IL",
-    "pu_hours": "1000-1500",
-    "del_date": "2026-11-24",
-    "del_city": "BELCAMP",
-    "del_state": "MD",
-    "del_hours": "0700-1500",
-    "equipment": "Van",
-    "weight_lbs": 42280,
-    "carrier_rate": 3000,
-    "updated_at": "2026-11-23T15:12:24.358447+00:00",
-    "lane": "BENSENVILLE IL-BELCAMP MD"
-  },
-  {
     "pro": "51556",
     "status": "OPEN",
     "pu_date": "2026-11-23",
@@ -81,7 +64,7 @@
     "equipment": "Van",
     "weight_lbs": 7600,
     "carrier_rate": 500,
-    "updated_at": "2026-11-23T15:50:51.562885+00:00",
+    "updated_at": "2026-11-23T16:02:11.688276+00:00",
     "lane": "JACKSONVILLE FL-DULUTH GA"
   },
   {
@@ -783,7 +766,7 @@
   },
   {
     "pro": "51521",
-    "status": "DISPATCHED",
+    "status": "PICKUP",
     "pu_date": "2026-11-23",
     "pu_city": "WINCHESTER",
     "pu_state": "KY",
@@ -795,7 +778,7 @@
     "equipment": "Van",
     "weight_lbs": 12480,
     "carrier_rate": 1100,
-    "updated_at": "2026-11-23T15:59:22.269793+00:00",
+    "updated_at": "2026-11-23T16:04:59.634003+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
