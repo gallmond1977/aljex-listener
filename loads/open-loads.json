@@ -119,23 +119,6 @@
     "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
-    "pro": "51525",
-    "status": "OPEN",
-    "pu_date": "2026-11-24",
-    "pu_city": "WINCHESTER",
-    "pu_state": "KY",
-    "pu_hours": "0900-1200",
-    "del_date": "2026-11-24",
-    "del_city": "JOLIET",
-    "del_state": "IL",
-    "del_hours": "2100",
-    "equipment": "Van",
-    "weight_lbs": 12480,
-    "carrier_rate": 1000,
-    "updated_at": "2026-11-19T17:10:56.461418+00:00",
-    "lane": "WINCHESTER KY-JOLIET IL"
-  },
-  {
     "pro": "51526",
     "status": "OPEN",
     "pu_date": "2026-11-24",
@@ -285,7 +268,7 @@
     "equipment": "Van",
     "weight_lbs": 41500,
     "carrier_rate": null,
-    "updated_at": "2026-11-23T15:19:34.805260+00:00",
+    "updated_at": "2026-11-23T15:21:10.704539+00:00",
     "lane": "OLD FORT NC-COLUMBUS GA"
   },
   {
@@ -593,23 +576,6 @@
     "carrier_rate": 3000,
     "updated_at": "2026-11-16T15:40:15.801439+00:00",
     "lane": "OAKLAND TN-SALISBURY NC"
-  },
-  {
-    "pro": "51399",
-    "status": "RELEASED",
-    "pu_date": "2026-11-12",
-    "pu_city": "CONOVER",
-    "pu_state": "NC",
-    "pu_hours": "1300",
-    "del_date": "2026-11-13",
-    "del_city": "KITTANNING",
-    "del_state": "PA",
-    "del_hours": "0800",
-    "equipment": "Van",
-    "weight_lbs": 20000,
-    "carrier_rate": 1300,
-    "updated_at": "2026-11-16T15:20:44.480333+00:00",
-    "lane": "CONOVER NC-KITTANNING PA"
   },
   {
     "pro": "51353",
@@ -1034,6 +1000,23 @@
     "weight_lbs": 12480,
     "carrier_rate": 1200,
     "updated_at": "2026-11-23T15:01:40.721519+00:00",
+    "lane": "WINCHESTER KY-JOLIET IL"
+  },
+  {
+    "pro": "51525",
+    "status": "COVERED",
+    "pu_date": "2026-11-24",
+    "pu_city": "WINCHESTER",
+    "pu_state": "KY",
+    "pu_hours": "0900-1200",
+    "del_date": "2026-11-24",
+    "del_city": "JOLIET",
+    "del_state": "IL",
+    "del_hours": "2100",
+    "equipment": "Van",
+    "weight_lbs": 12480,
+    "carrier_rate": 1100,
+    "updated_at": "2026-11-23T15:24:06.237829+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
   }
 ]
