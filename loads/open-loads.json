@@ -47,7 +47,7 @@
     "equipment": "Van",
     "weight_lbs": 42280,
     "carrier_rate": 3000,
-    "updated_at": "2026-11-23T14:48:27.468752+00:00",
+    "updated_at": "2026-11-23T15:12:24.358447+00:00",
     "lane": "BENSENVILLE IL-BELCAMP MD"
   },
   {
@@ -81,7 +81,7 @@
     "equipment": "Van",
     "weight_lbs": 6600,
     "carrier_rate": 600,
-    "updated_at": "2026-11-23T15:09:15.408416+00:00",
+    "updated_at": "2026-11-23T15:10:42.619454+00:00",
     "lane": "COVINGTON GA-COLUMBUS GA"
   },
   {
@@ -285,7 +285,7 @@
     "equipment": "Van",
     "weight_lbs": 41500,
     "carrier_rate": null,
-    "updated_at": "2026-11-23T14:00:40.721531+00:00",
+    "updated_at": "2026-11-23T15:12:11.813854+00:00",
     "lane": "OLD FORT NC-COLUMBUS GA"
   },
   {
