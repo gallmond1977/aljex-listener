@@ -51,23 +51,6 @@
     "lane": "CONOVER NC-KITTANNING PA"
   },
   {
-    "pro": "51567",
-    "status": "OPEN",
-    "pu_date": "2026-11-24",
-    "pu_city": "MACON",
-    "pu_state": "GA",
-    "pu_hours": "0800-1600",
-    "del_date": "2026-11-24",
-    "del_city": "AUGUSTA",
-    "del_state": "GA",
-    "del_hours": "0800-1600",
-    "equipment": "Flatbed",
-    "weight_lbs": 47000,
-    "carrier_rate": 700,
-    "updated_at": "2026-11-23T20:53:59.547457+00:00",
-    "lane": "MACON GA-AUGUSTA GA"
-  },
-  {
     "pro": "51576",
     "status": "OPEN",
     "pu_date": "2026-11-24",
@@ -612,40 +595,6 @@
     "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
-    "pro": "51495",
-    "status": "RELEASED",
-    "pu_date": "2026-11-19",
-    "pu_city": "MACON",
-    "pu_state": "GA",
-    "pu_hours": "0800-1630",
-    "del_date": "2026-11-19",
-    "del_city": "AUGUSTA",
-    "del_state": "GA",
-    "del_hours": "0800-1600",
-    "equipment": "Flatbed",
-    "weight_lbs": 46000,
-    "carrier_rate": 700,
-    "updated_at": "2026-11-20T13:13:34.944591+00:00",
-    "lane": "MACON GA-AUGUSTA GA"
-  },
-  {
-    "pro": "51497",
-    "status": "RELEASED",
-    "pu_date": "2026-11-19",
-    "pu_city": "MACON",
-    "pu_state": "GA",
-    "pu_hours": "0800-1630",
-    "del_date": "2026-11-20",
-    "del_city": "AUGUSTA",
-    "del_state": "GA",
-    "del_hours": "0800-1600",
-    "equipment": "Flatbed",
-    "weight_lbs": 47000,
-    "carrier_rate": 700,
-    "updated_at": "2026-11-20T20:38:33.904756+00:00",
-    "lane": "MACON GA-AUGUSTA GA"
-  },
-  {
     "pro": "51316",
     "status": "DELIVERED",
     "pu_date": "2026-11-20",
@@ -680,23 +629,6 @@
     "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
-    "pro": "51496",
-    "status": "RELEASED",
-    "pu_date": "2026-11-20",
-    "pu_city": "MACON",
-    "pu_state": "GA",
-    "pu_hours": "0800-1630",
-    "del_date": "2026-11-20",
-    "del_city": "AUGUSTA",
-    "del_state": "GA",
-    "del_hours": "0800-1600",
-    "equipment": "Flatbed",
-    "weight_lbs": 47000,
-    "carrier_rate": 700,
-    "updated_at": "2026-11-23T13:17:30.879250+00:00",
-    "lane": "MACON GA-AUGUSTA GA"
-  },
-  {
     "pro": "51508",
     "status": "DELIVERED",
     "pu_date": "2026-11-20",
@@ -712,40 +644,6 @@
     "carrier_rate": 2800,
     "updated_at": "2026-11-23T13:10:30.420818+00:00",
     "lane": "PASADENA TX-PIEDMONT SC"
-  },
-  {
-    "pro": "51540",
-    "status": "DELIVERED",
-    "pu_date": "2026-11-20",
-    "pu_city": "MACON",
-    "pu_state": "GA",
-    "pu_hours": "0800-1630",
-    "del_date": "2026-11-20",
-    "del_city": "AUGUSTA",
-    "del_state": "GA",
-    "del_hours": "0800-1600",
-    "equipment": "Van",
-    "weight_lbs": 47000,
-    "carrier_rate": null,
-    "updated_at": "2026-11-20T15:30:47.272212+00:00",
-    "lane": "MACON GA-AUGUSTA GA"
-  },
-  {
-    "pro": "51544",
-    "status": "DELIVERED",
-    "pu_date": "2026-11-20",
-    "pu_city": "MACON",
-    "pu_state": "GA",
-    "pu_hours": "0800-1630",
-    "del_date": "2026-11-23",
-    "del_city": "AUGUSTA",
-    "del_state": "GA",
-    "del_hours": "0800-1600",
-    "equipment": "Flatbed",
-    "weight_lbs": 47000,
-    "carrier_rate": 700,
-    "updated_at": "2026-11-23T15:41:38.075113+00:00",
-    "lane": "MACON GA-AUGUSTA GA"
   },
   {
     "pro": "50717",
@@ -814,40 +712,6 @@
     "carrier_rate": 150,
     "updated_at": "2026-11-23T21:05:57.357585+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
-  },
-  {
-    "pro": "51546",
-    "status": "LOADED",
-    "pu_date": "2026-11-23",
-    "pu_city": "MACON",
-    "pu_state": "GA",
-    "pu_hours": "0800-1630",
-    "del_date": "2026-11-24",
-    "del_city": "AUGUSTA",
-    "del_state": "GA",
-    "del_hours": "0800-1600",
-    "equipment": "Flatbed",
-    "weight_lbs": 47000,
-    "carrier_rate": 700,
-    "updated_at": "2026-11-23T19:36:11.292001+00:00",
-    "lane": "MACON GA-AUGUSTA GA"
-  },
-  {
-    "pro": "51564",
-    "status": "PICKUP",
-    "pu_date": "2026-11-23",
-    "pu_city": "MACON",
-    "pu_state": "GA",
-    "pu_hours": "0800-1630",
-    "del_date": "2026-11-24",
-    "del_city": "AUGUSTA",
-    "del_state": "GA",
-    "del_hours": "0800-1600",
-    "equipment": "Flatbed",
-    "weight_lbs": 47000,
-    "carrier_rate": 700,
-    "updated_at": "2026-11-23T20:10:31.028501+00:00",
-    "lane": "MACON GA-AUGUSTA GA"
   },
   {
     "pro": "51524",
@@ -931,7 +795,7 @@
     "equipment": "Van",
     "weight_lbs": 44000,
     "carrier_rate": 900,
-    "updated_at": "2026-11-23T21:29:10.814822+00:00",
+    "updated_at": "2026-11-23T21:32:18.601391+00:00",
     "lane": "WADESBORO NC-ATLANTA GA"
   },
   {
@@ -948,7 +812,7 @@
     "equipment": "Van",
     "weight_lbs": 44000,
     "carrier_rate": 900,
-    "updated_at": "2026-11-23T21:30:07.891012+00:00",
+    "updated_at": "2026-11-23T21:32:36.230525+00:00",
     "lane": "WADESBORO NC-ATLANTA GA"
   },
   {
@@ -965,7 +829,7 @@
     "equipment": "Van",
     "weight_lbs": 44000,
     "carrier_rate": 900,
-    "updated_at": "2026-11-23T21:24:59.853453+00:00",
+    "updated_at": "2026-11-23T21:32:52.944847+00:00",
     "lane": "WADESBORO NC-ATLANTA GA"
   },
   {
