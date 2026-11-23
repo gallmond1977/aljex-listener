@@ -251,7 +251,7 @@
     "equipment": "Van",
     "weight_lbs": 12480,
     "carrier_rate": null,
-    "updated_at": "2026-11-23T21:23:35.375337+00:00",
+    "updated_at": "2026-11-23T21:25:37.518743+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
@@ -795,7 +795,7 @@
     "equipment": "Van",
     "weight_lbs": 12480,
     "carrier_rate": 150,
-    "updated_at": "2026-11-23T21:24:58.729225+00:00",
+    "updated_at": "2026-11-23T21:29:49.971706+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
@@ -931,7 +931,7 @@
     "equipment": "Van",
     "weight_lbs": 44000,
     "carrier_rate": 900,
-    "updated_at": "2026-11-23T21:23:57.156724+00:00",
+    "updated_at": "2026-11-23T21:29:10.814822+00:00",
     "lane": "WADESBORO NC-ATLANTA GA"
   },
   {
@@ -948,7 +948,7 @@
     "equipment": "Van",
     "weight_lbs": 44000,
     "carrier_rate": 900,
-    "updated_at": "2026-11-23T21:24:30.994511+00:00",
+    "updated_at": "2026-11-23T21:30:07.891012+00:00",
     "lane": "WADESBORO NC-ATLANTA GA"
   },
   {
