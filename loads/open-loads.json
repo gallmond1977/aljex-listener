@@ -255,6 +255,23 @@
     "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
+    "pro": "51557",
+    "status": "OPEN",
+    "pu_date": "2026-11-25",
+    "pu_city": "OLD FORT",
+    "pu_state": "NC",
+    "pu_hours": "0800-1800",
+    "del_date": "",
+    "del_city": "COLUMBUS",
+    "del_state": "GA",
+    "del_hours": "0730-1400",
+    "equipment": "Van",
+    "weight_lbs": 41500,
+    "carrier_rate": null,
+    "updated_at": "2026-11-23T14:00:00.822006+00:00",
+    "lane": "OLD FORT NC-COLUMBUS GA"
+  },
+  {
     "pro": "51388",
     "status": "OPEN",
     "pu_date": "2026-11-30",
@@ -880,7 +897,7 @@
     "equipment": "Van",
     "weight_lbs": 41500,
     "carrier_rate": 1600,
-    "updated_at": "2026-11-23T13:34:45.977127+00:00",
+    "updated_at": "2026-11-23T13:58:34.673763+00:00",
     "lane": "OLD FORT NC-COLUMBUS GA"
   },
   {
@@ -914,7 +931,7 @@
     "equipment": "Van",
     "weight_lbs": 12480,
     "carrier_rate": 1100,
-    "updated_at": "2026-11-23T13:55:11.987342+00:00",
+    "updated_at": "2026-11-23T13:57:42.274417+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
