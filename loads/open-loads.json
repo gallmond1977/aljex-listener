@@ -46,8 +46,8 @@
     "del_hours": "0700-1500",
     "equipment": "Van",
     "weight_lbs": 17301,
-    "carrier_rate": 2800,
-    "updated_at": "2026-11-20T19:42:31.142774+00:00",
+    "carrier_rate": 2900,
+    "updated_at": "2026-11-23T14:16:08.671974+00:00",
     "lane": "WHEELING IL-BELCAMP MD"
   },
   {
@@ -270,6 +270,23 @@
     "carrier_rate": null,
     "updated_at": "2026-11-23T14:00:40.721531+00:00",
     "lane": "OLD FORT NC-COLUMBUS GA"
+  },
+  {
+    "pro": "51558",
+    "status": "OPEN",
+    "pu_date": "2026-11-27",
+    "pu_city": "MONTEZUMA",
+    "pu_state": "GA",
+    "pu_hours": "1300",
+    "del_date": "",
+    "del_city": "TRACY",
+    "del_state": "CA",
+    "del_hours": "0415",
+    "equipment": "Reefer",
+    "weight_lbs": 39000,
+    "carrier_rate": null,
+    "updated_at": "2026-11-23T14:19:44.385352+00:00",
+    "lane": "MONTEZUMA GA-TRACY CA"
   },
   {
     "pro": "51388",
@@ -578,6 +595,40 @@
     "lane": "CONOVER NC-KITTANNING PA"
   },
   {
+    "pro": "51353",
+    "status": "RELEASED",
+    "pu_date": "2026-11-13",
+    "pu_city": "MONTEZUMA",
+    "pu_state": "GA",
+    "pu_hours": "1300",
+    "del_date": "2026-11-17",
+    "del_city": "TRACY",
+    "del_state": "CA",
+    "del_hours": "0415",
+    "equipment": "Reefer",
+    "weight_lbs": 39000,
+    "carrier_rate": 4800,
+    "updated_at": "2026-11-18T16:40:52.987731+00:00",
+    "lane": "MONTEZUMA GA-TRACY CA"
+  },
+  {
+    "pro": "51363",
+    "status": "RELEASED",
+    "pu_date": "2026-11-13",
+    "pu_city": "MONTEZUMA",
+    "pu_state": "GA",
+    "pu_hours": "1500",
+    "del_date": "2026-11-17",
+    "del_city": "TRACY",
+    "del_state": "CA",
+    "del_hours": "0415",
+    "equipment": "Reefer",
+    "weight_lbs": 39000,
+    "carrier_rate": 4700,
+    "updated_at": "2026-11-18T16:37:25.568263+00:00",
+    "lane": "MONTEZUMA GA-TRACY CA"
+  },
+  {
     "pro": "51409",
     "status": "RELEASED",
     "pu_date": "2026-11-13",
@@ -797,6 +848,23 @@
     "carrier_rate": 2800,
     "updated_at": "2026-11-23T08:06:27.096774+00:00",
     "lane": "LA PORTE TX-PIEDMONT SC"
+  },
+  {
+    "pro": "51459",
+    "status": "LOADED",
+    "pu_date": "2026-11-20",
+    "pu_city": "MONTEZUMA",
+    "pu_state": "GA",
+    "pu_hours": "1300",
+    "del_date": "2026-11-24",
+    "del_city": "TRACY",
+    "del_state": "CA",
+    "del_hours": "0415",
+    "equipment": "Reefer",
+    "weight_lbs": 39000,
+    "carrier_rate": 4800,
+    "updated_at": "2026-11-23T13:43:36.309105+00:00",
+    "lane": "MONTEZUMA GA-TRACY CA"
   },
   {
     "pro": "51473",
