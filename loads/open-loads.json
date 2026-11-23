@@ -85,6 +85,23 @@
     "lane": "CALHOUN GA-ROYSE CITY TX"
   },
   {
+    "pro": "51555",
+    "status": "OPEN",
+    "pu_date": "2026-11-23",
+    "pu_city": "BENSENVILLE",
+    "pu_state": "IL",
+    "pu_hours": "1100-1530",
+    "del_date": "2026-11-24",
+    "del_city": "BELCAMP",
+    "del_state": "MD",
+    "del_hours": "0700-1500",
+    "equipment": "Van",
+    "weight_lbs": 42280,
+    "carrier_rate": 2700,
+    "updated_at": "2026-11-23T13:16:29.243754+00:00",
+    "lane": "BENSENVILLE IL-BELCAMP MD"
+  },
+  {
     "pro": "51479",
     "status": "OPEN",
     "pu_date": "2026-11-24",
@@ -613,7 +630,7 @@
   },
   {
     "pro": "51385",
-    "status": "DELIVERED",
+    "status": "RELEASED",
     "pu_date": "2026-11-18",
     "pu_city": "OAKLAND",
     "pu_state": "TN",
@@ -625,7 +642,7 @@
     "equipment": "Van Hazmat",
     "weight_lbs": 44900,
     "carrier_rate": 3000,
-    "updated_at": "2026-11-20T14:09:01.614158+00:00",
+    "updated_at": "2026-11-23T13:18:52.345408+00:00",
     "lane": "OAKLAND TN-SALISBURY NC"
   },
   {
@@ -783,7 +800,7 @@
   },
   {
     "pro": "51496",
-    "status": "DELIVERED",
+    "status": "RELEASED",
     "pu_date": "2026-11-20",
     "pu_city": "MACON",
     "pu_state": "GA",
@@ -795,7 +812,7 @@
     "equipment": "Flatbed",
     "weight_lbs": 47000,
     "carrier_rate": 700,
-    "updated_at": "2026-11-20T20:38:19.214787+00:00",
+    "updated_at": "2026-11-23T13:17:30.879250+00:00",
     "lane": "MACON GA-AUGUSTA GA"
   },
   {
@@ -851,7 +868,7 @@
   },
   {
     "pro": "50717",
-    "status": "COVERED",
+    "status": "DISPATCHED",
     "pu_date": "2026-11-23",
     "pu_city": "OLD FORT",
     "pu_state": "NC",
@@ -863,7 +880,7 @@
     "equipment": "Van",
     "weight_lbs": 41500,
     "carrier_rate": 1600,
-    "updated_at": "2026-11-20T19:06:05.010662+00:00",
+    "updated_at": "2026-11-23T13:18:07.898819+00:00",
     "lane": "OLD FORT NC-COLUMBUS GA"
   },
   {
