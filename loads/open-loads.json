@@ -85,6 +85,23 @@
     "lane": "COVINGTON GA-COLUMBUS GA"
   },
   {
+    "pro": "51561",
+    "status": "OPEN",
+    "pu_date": "2026-11-23",
+    "pu_city": "PHENIX CITY",
+    "pu_state": "AL",
+    "pu_hours": "0900-1200",
+    "del_date": "2026-11-24",
+    "del_city": "MONTICELLO",
+    "del_state": "IL",
+    "del_hours": "0800-1100",
+    "equipment": "Sprinter Van",
+    "weight_lbs": 2300,
+    "carrier_rate": 1000,
+    "updated_at": "2026-11-23T15:33:52.089160+00:00",
+    "lane": "PHENIX CITY AL-MONTICELLO IL"
+  },
+  {
     "pro": "51479",
     "status": "OPEN",
     "pu_date": "2026-11-24",
@@ -372,6 +389,23 @@
     "carrier_rate": null,
     "updated_at": "2026-11-18T21:49:32.804522+00:00",
     "lane": "OAKLAND TN-SALISBURY NC"
+  },
+  {
+    "pro": "51562",
+    "status": "OPEN",
+    "pu_date": "2026-11-30",
+    "pu_city": "BELCAMP",
+    "pu_state": "MD",
+    "pu_hours": "0800-1500",
+    "del_date": "2026-12-03",
+    "del_city": "LAS VEGAS",
+    "del_state": "NV",
+    "del_hours": "CALL!",
+    "equipment": "26' Straight Box Truck",
+    "weight_lbs": 2000,
+    "carrier_rate": null,
+    "updated_at": "2026-11-23T15:32:05.070441+00:00",
+    "lane": "BELCAMP MD-LAS VEGAS NV"
   },
   {
     "pro": "49857",
