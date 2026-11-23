@@ -68,23 +68,6 @@
     "lane": "COVINGTON GA-COLUMBUS GA"
   },
   {
-    "pro": "51561",
-    "status": "OPEN",
-    "pu_date": "2026-11-23",
-    "pu_city": "PHENIX CITY",
-    "pu_state": "AL",
-    "pu_hours": "0900-1200",
-    "del_date": "2026-11-24",
-    "del_city": "MONTICELLO",
-    "del_state": "IL",
-    "del_hours": "0800-1130",
-    "equipment": "Sprinter Van",
-    "weight_lbs": 2300,
-    "carrier_rate": 1000,
-    "updated_at": "2026-11-23T15:51:32.186730+00:00",
-    "lane": "PHENIX CITY AL-MONTICELLO IL"
-  },
-  {
     "pro": "51563",
     "status": "OPEN",
     "pu_date": "2026-11-23",
@@ -812,7 +795,7 @@
     "equipment": "Van",
     "weight_lbs": 12480,
     "carrier_rate": 1100,
-    "updated_at": "2026-11-23T15:52:19.312453+00:00",
+    "updated_at": "2026-11-23T15:59:22.269793+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
