@@ -39,7 +39,7 @@
     "pu_date": "2026-11-23",
     "pu_city": "JACKSONVILLE",
     "pu_state": "FL",
-    "pu_hours": "1600",
+    "pu_hours": "1315-1700",
     "del_date": "2026-11-24",
     "del_city": "DULUTH",
     "del_state": "GA",
@@ -47,7 +47,7 @@
     "equipment": "Van",
     "weight_lbs": 7600,
     "carrier_rate": 500,
-    "updated_at": "2026-11-23T16:02:11.688276+00:00",
+    "updated_at": "2026-11-23T16:47:33.248825+00:00",
     "lane": "JACKSONVILLE FL-DULUTH GA"
   },
   {
@@ -863,7 +863,7 @@
     "equipment": "Van",
     "weight_lbs": 12480,
     "carrier_rate": 1100,
-    "updated_at": "2026-11-23T16:09:22.219855+00:00",
+    "updated_at": "2026-11-23T16:50:01.927289+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
