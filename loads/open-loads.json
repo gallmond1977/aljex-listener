@@ -238,6 +238,23 @@
     "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
+    "pro": "51579",
+    "status": "OPEN",
+    "pu_date": "2026-12-01",
+    "pu_city": "JACKSONVILLE",
+    "pu_state": "TX",
+    "pu_hours": "0800-1500",
+    "del_date": "2026-12-02",
+    "del_city": "MACON",
+    "del_state": "GA",
+    "del_hours": "0800-1500",
+    "equipment": "Van",
+    "weight_lbs": 44500,
+    "carrier_rate": 1900,
+    "updated_at": "2026-11-23T21:48:12.911828+00:00",
+    "lane": "JACKSONVILLE TX-MACON GA"
+  },
+  {
     "pro": "51529",
     "status": "OPEN",
     "pu_date": "2026-12-02",
