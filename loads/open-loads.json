@@ -64,7 +64,7 @@
     "equipment": "Flatbed Hot Shot",
     "weight_lbs": 10000,
     "carrier_rate": 800,
-    "updated_at": "2026-11-23T15:25:54.784115+00:00",
+    "updated_at": "2026-11-23T15:38:30.609590+00:00",
     "lane": "LINCOLNTON NC-AUBURN AL"
   },
   {
@@ -98,8 +98,25 @@
     "equipment": "Sprinter Van",
     "weight_lbs": 2300,
     "carrier_rate": 1000,
-    "updated_at": "2026-11-23T15:33:52.089160+00:00",
+    "updated_at": "2026-11-23T15:36:48.880328+00:00",
     "lane": "PHENIX CITY AL-MONTICELLO IL"
+  },
+  {
+    "pro": "51563",
+    "status": "OPEN",
+    "pu_date": "2026-11-23",
+    "pu_city": "JACKSONVILLE",
+    "pu_state": "FL",
+    "pu_hours": "1600",
+    "del_date": "2026-11-24",
+    "del_city": "DULUTH",
+    "del_state": "GA",
+    "del_hours": "0800-1100",
+    "equipment": "Van",
+    "weight_lbs": 7600,
+    "carrier_rate": 600,
+    "updated_at": "2026-11-23T15:35:47.452291+00:00",
+    "lane": "JACKSONVILLE FL-DULUTH GA"
   },
   {
     "pro": "51479",
