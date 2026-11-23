@@ -268,7 +268,7 @@
     "equipment": "Van",
     "weight_lbs": 41500,
     "carrier_rate": null,
-    "updated_at": "2026-11-23T14:00:00.822006+00:00",
+    "updated_at": "2026-11-23T14:00:40.721531+00:00",
     "lane": "OLD FORT NC-COLUMBUS GA"
   },
   {
@@ -885,19 +885,19 @@
   },
   {
     "pro": "50717",
-    "status": "PICKUP",
+    "status": "DELIVERED",
     "pu_date": "2026-11-23",
     "pu_city": "OLD FORT",
     "pu_state": "NC",
     "pu_hours": "0800-1800",
-    "del_date": "2026-11-24",
+    "del_date": "2026-11-23",
     "del_city": "COLUMBUS",
     "del_state": "GA",
     "del_hours": "0730-1400",
     "equipment": "Van",
     "weight_lbs": 41500,
-    "carrier_rate": 1600,
-    "updated_at": "2026-11-23T13:58:34.673763+00:00",
+    "carrier_rate": 150,
+    "updated_at": "2026-11-23T14:05:10.346812+00:00",
     "lane": "OLD FORT NC-COLUMBUS GA"
   },
   {
