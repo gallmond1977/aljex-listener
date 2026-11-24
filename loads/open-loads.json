@@ -51,6 +51,23 @@
     "lane": "CONOVER NC-KITTANNING PA"
   },
   {
+    "pro": "51559",
+    "status": "OPEN",
+    "pu_date": "2026-11-24",
+    "pu_city": "COLUMBUS",
+    "pu_state": "GA",
+    "pu_hours": "0600-0900",
+    "del_date": "2026-11-24",
+    "del_city": "COVINGTON",
+    "del_state": "GA",
+    "del_hours": "0800-1500",
+    "equipment": "26' Straight Box Truck",
+    "weight_lbs": 1500,
+    "carrier_rate": 400,
+    "updated_at": "2026-11-24T13:07:19.555642+00:00",
+    "lane": "COLUMBUS GA-COVINGTON GA"
+  },
+  {
     "pro": "51560",
     "status": "OPEN",
     "pu_date": "2026-11-24",
