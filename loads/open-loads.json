@@ -80,8 +80,8 @@
     "del_hours": "CALL!",
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 2000,
-    "carrier_rate": 3700,
-    "updated_at": "2026-11-24T13:05:01.655547+00:00",
+    "carrier_rate": 4000,
+    "updated_at": "2026-11-24T13:45:38.215911+00:00",
     "lane": "BELCAMP MD-LAS VEGAS NV"
   },
   {
@@ -113,9 +113,9 @@
     "del_state": "GA",
     "del_hours": "0800",
     "equipment": "Flatbed Hot Shot",
-    "weight_lbs": 5700,
+    "weight_lbs": 11000,
     "carrier_rate": 725,
-    "updated_at": "2026-11-24T13:39:31.917276+00:00",
+    "updated_at": "2026-11-24T13:45:14.102315+00:00",
     "lane": "MARIETTA GA-WAYCROSS GA"
   },
   {
@@ -795,7 +795,7 @@
     "equipment": "Van",
     "weight_lbs": 5775,
     "carrier_rate": 2950,
-    "updated_at": "2026-11-24T13:39:36.070987+00:00",
+    "updated_at": "2026-11-24T13:41:50.390275+00:00",
     "lane": "WINCHESTER KY-BURLINGTON NJ"
   },
   {
@@ -834,7 +834,7 @@
   },
   {
     "pro": "51569",
-    "status": "COVERED",
+    "status": "PICKUP",
     "pu_date": "2026-11-24",
     "pu_city": "WADESBORO",
     "pu_state": "NC",
@@ -846,7 +846,7 @@
     "equipment": "Van",
     "weight_lbs": 44000,
     "carrier_rate": 900,
-    "updated_at": "2026-11-23T20:24:03.525293+00:00",
+    "updated_at": "2026-11-24T13:40:48.924754+00:00",
     "lane": "WADESBORO NC-ATLANTA GA"
   },
   {
