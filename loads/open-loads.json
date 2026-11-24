@@ -17,23 +17,6 @@
     "lane": "OAKLAND TN-PHENIX CITY AL"
   },
   {
-    "pro": "51539",
-    "status": "OPEN",
-    "pu_date": "2026-11-24",
-    "pu_city": "CONOVER",
-    "pu_state": "NC",
-    "pu_hours": "1300",
-    "del_date": "2026-11-25",
-    "del_city": "KITTANNING",
-    "del_state": "PA",
-    "del_hours": "0800",
-    "equipment": "Van",
-    "weight_lbs": 20000,
-    "carrier_rate": 1300,
-    "updated_at": "2026-11-24T14:25:10.367040+00:00",
-    "lane": "CONOVER NC-KITTANNING PA"
-  },
-  {
     "pro": "51576",
     "status": "OPEN",
     "pu_date": "2026-11-24",
