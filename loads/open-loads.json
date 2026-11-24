@@ -132,8 +132,8 @@
     "del_hours": "0600",
     "equipment": "Van",
     "weight_lbs": 5340,
-    "carrier_rate": null,
-    "updated_at": "2026-11-18T21:14:20.873549+00:00",
+    "carrier_rate": 3000,
+    "updated_at": "2026-11-24T19:47:30.733100+00:00",
     "lane": "WINCHESTER KY-JACKSONVILLE FL"
   },
   {
@@ -182,9 +182,9 @@
     "del_state": "IL",
     "del_hours": "",
     "equipment": "Van",
-    "weight_lbs": 12480,
+    "weight_lbs": 11280,
     "carrier_rate": null,
-    "updated_at": "2026-11-24T14:08:51.105556+00:00",
+    "updated_at": "2026-11-24T19:45:51.924860+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
@@ -237,6 +237,23 @@
     "carrier_rate": 900,
     "updated_at": "2026-11-24T17:06:15.737995+00:00",
     "lane": "WATKINSVILLE GA-ROANOKE VA"
+  },
+  {
+    "pro": "51593",
+    "status": "OPEN",
+    "pu_date": "2026-11-30",
+    "pu_city": "ALPHARETTA",
+    "pu_state": "GA",
+    "pu_hours": "0900-1200",
+    "del_date": "2026-12-02",
+    "del_city": "AMARILLO",
+    "del_state": "TX",
+    "del_hours": "0800-1400",
+    "equipment": "Flatbed w/ Tarps",
+    "weight_lbs": 42000,
+    "carrier_rate": 4500,
+    "updated_at": "2026-11-24T19:47:08.416757+00:00",
+    "lane": "ALPHARETTA GA-AMARILLO TX"
   },
   {
     "pro": "8890474",
