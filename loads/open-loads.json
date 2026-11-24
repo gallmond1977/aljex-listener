@@ -68,6 +68,24 @@
     "lane": "OLD FORT NC-COLUMBUS GA"
   },
   {
+    "pro": "8890473",
+    "status": "OPEN",
+    "spot": true,
+    "pu_date": "2026-11-25",
+    "pu_city": "BUENA VISTA",
+    "pu_state": "GA",
+    "pu_hours": "",
+    "del_date": "2026-11-25",
+    "del_city": "INDIAN TRAIL",
+    "del_state": "NC",
+    "del_hours": "",
+    "equipment": "Van",
+    "weight_lbs": 43000,
+    "carrier_rate": 1200,
+    "updated_at": "2026-11-24T14:37:03.727670+00:00",
+    "lane": "BUENA VISTA GA-INDIAN TRAIL NC"
+  },
+  {
     "pro": "51388",
     "status": "OPEN",
     "pu_date": "2026-11-30",
@@ -727,7 +745,7 @@
     "equipment": "Van",
     "weight_lbs": 12480,
     "carrier_rate": 1100,
-    "updated_at": "2026-11-24T13:32:22.387959+00:00",
+    "updated_at": "2026-11-24T14:38:39.850267+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
@@ -846,7 +864,7 @@
     "equipment": "Van",
     "weight_lbs": 14580,
     "carrier_rate": 1100,
-    "updated_at": "2026-11-24T14:04:52.516273+00:00",
+    "updated_at": "2026-11-24T14:35:40.764292+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
   }
 ]
