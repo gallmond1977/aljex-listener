@@ -265,11 +265,11 @@
     "del_date": "2026-11-30",
     "del_city": "JOLIET",
     "del_state": "IL",
-    "del_hours": "",
+    "del_hours": "2200",
     "equipment": "Van",
     "weight_lbs": 11280,
     "carrier_rate": 1000,
-    "updated_at": "2026-11-24T20:08:08.928878+00:00",
+    "updated_at": "2026-11-24T20:13:02.687328+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
@@ -933,7 +933,7 @@
     "equipment": "Flatbed",
     "weight_lbs": 47000,
     "carrier_rate": 700,
-    "updated_at": "2026-11-24T19:25:59.122128+00:00",
+    "updated_at": "2026-11-24T20:11:38.080323+00:00",
     "lane": "MACON GA-AUGUSTA GA"
   },
   {
