@@ -12,8 +12,8 @@
     "del_hours": "0600-1430",
     "equipment": "Van Hazmat",
     "weight_lbs": 44900,
-    "carrier_rate": 2300,
-    "updated_at": "2026-11-24T13:57:30.481325+00:00",
+    "carrier_rate": 2500,
+    "updated_at": "2026-11-24T15:04:38.065077+00:00",
     "lane": "OAKLAND TN-PHENIX CITY AL"
   },
   {
@@ -813,7 +813,7 @@
     "equipment": "Van",
     "weight_lbs": 44000,
     "carrier_rate": 900,
-    "updated_at": "2026-11-24T13:58:20.820369+00:00",
+    "updated_at": "2026-11-24T15:04:52.765243+00:00",
     "lane": "WADESBORO NC-ATLANTA GA"
   },
   {
