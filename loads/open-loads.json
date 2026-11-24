@@ -17,6 +17,23 @@
     "lane": "OAKLAND TN-PHENIX CITY AL"
   },
   {
+    "pro": "51524",
+    "status": "OPEN",
+    "pu_date": "2026-11-24",
+    "pu_city": "WINCHESTER",
+    "pu_state": "KY",
+    "pu_hours": "0800-1030",
+    "del_date": "2026-11-24",
+    "del_city": "JOLIET",
+    "del_state": "IL",
+    "del_hours": "2000",
+    "equipment": "Van",
+    "weight_lbs": 12480,
+    "carrier_rate": 1100,
+    "updated_at": "2026-11-24T14:49:14.309250+00:00",
+    "lane": "WINCHESTER KY-JOLIET IL"
+  },
+  {
     "pro": "51576",
     "status": "OPEN",
     "pu_date": "2026-11-24",
@@ -728,25 +745,8 @@
     "equipment": "Van",
     "weight_lbs": 5775,
     "carrier_rate": 2950,
-    "updated_at": "2026-11-24T14:14:10.092746+00:00",
+    "updated_at": "2026-11-24T14:50:23.815792+00:00",
     "lane": "WINCHESTER KY-BURLINGTON NJ"
-  },
-  {
-    "pro": "51524",
-    "status": "COVERED",
-    "pu_date": "2026-11-24",
-    "pu_city": "WINCHESTER",
-    "pu_state": "KY",
-    "pu_hours": "0800-1030",
-    "del_date": "2026-11-24",
-    "del_city": "JOLIET",
-    "del_state": "IL",
-    "del_hours": "2000",
-    "equipment": "Van",
-    "weight_lbs": 12480,
-    "carrier_rate": 1100,
-    "updated_at": "2026-11-24T14:38:39.850267+00:00",
-    "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
     "pro": "51525",
