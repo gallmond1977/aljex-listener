@@ -239,38 +239,21 @@
     "lane": "COLUMBUS GA-COLUMBUS GA"
   },
   {
-    "pro": "51587",
-    "status": "OPEN",
-    "pu_date": "2026-11-30",
-    "pu_city": "UNION CITY",
-    "pu_state": "GA",
-    "pu_hours": "0800",
-    "del_date": "2026-12-01",
-    "del_city": "SANFORD",
-    "del_state": "FL",
-    "del_hours": "0700",
-    "equipment": "Sprinter Van",
-    "weight_lbs": 2000,
-    "carrier_rate": 600,
-    "updated_at": "2026-11-24T16:08:51.974252+00:00",
-    "lane": "UNION CITY GA-SANFORD FL"
-  },
-  {
     "pro": "51590",
     "status": "OPEN",
     "pu_date": "2026-11-30",
-    "pu_city": "ROANOKE",
-    "pu_state": "AL",
-    "pu_hours": "0800-1200",
+    "pu_city": "WATKINSVILLE",
+    "pu_state": "GA",
+    "pu_hours": "0800-1600",
     "del_date": "",
     "del_city": "HASLET",
     "del_state": "TX",
     "del_hours": "0800-1200",
     "equipment": "26' Straight Box Truck",
-    "weight_lbs": 1500,
+    "weight_lbs": 2000,
     "carrier_rate": 900,
-    "updated_at": "2026-11-24T16:54:37.166405+00:00",
-    "lane": "ROANOKE AL-HASLET TX"
+    "updated_at": "2026-11-24T16:58:53.094112+00:00",
+    "lane": "WATKINSVILLE GA-HASLET TX"
   },
   {
     "pro": "51579",
@@ -460,23 +443,6 @@
     "lane": "LA PORTE TX-PIEDMONT SC"
   },
   {
-    "pro": "51421",
-    "status": "RELEASED",
-    "pu_date": "2026-11-12",
-    "pu_city": "ROANOKE",
-    "pu_state": "AL",
-    "pu_hours": "0800-1200",
-    "del_date": "2026-11-13",
-    "del_city": "HASLET",
-    "del_state": "TX",
-    "del_hours": "0800-1200",
-    "equipment": "26' Straight Box Truck",
-    "weight_lbs": 1500,
-    "carrier_rate": 1400,
-    "updated_at": "2026-11-18T13:55:07.184935+00:00",
-    "lane": "ROANOKE AL-HASLET TX"
-  },
-  {
     "pro": "51384",
     "status": "RELEASED",
     "pu_date": "2026-11-17",
@@ -577,23 +543,6 @@
     "carrier_rate": 2600,
     "updated_at": "2026-11-20T13:07:44.723623+00:00",
     "lane": "WINCHESTER KY-BURLINGTON NJ"
-  },
-  {
-    "pro": "51487",
-    "status": "RELEASED",
-    "pu_date": "2026-11-18",
-    "pu_city": "UNION CITY",
-    "pu_state": "GA",
-    "pu_hours": "1000",
-    "del_date": "2026-11-19",
-    "del_city": "SANFORD",
-    "del_state": "FL",
-    "del_hours": "0700",
-    "equipment": "26' Straight Box Truck",
-    "weight_lbs": 7000,
-    "carrier_rate": 1000,
-    "updated_at": "2026-11-19T18:21:10.707288+00:00",
-    "lane": "UNION CITY GA-SANFORD FL"
   },
   {
     "pro": "51471",
