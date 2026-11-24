@@ -30,7 +30,7 @@
     "equipment": "Flatbed",
     "weight_lbs": 47000,
     "carrier_rate": 700,
-    "updated_at": "2026-11-24T16:17:15.407719+00:00",
+    "updated_at": "2026-11-24T17:02:44.741529+00:00",
     "lane": "MACON GA-AUGUSTA GA"
   },
   {
@@ -245,15 +245,15 @@
     "pu_city": "WATKINSVILLE",
     "pu_state": "GA",
     "pu_hours": "0800-1600",
-    "del_date": "",
-    "del_city": "HASLET",
-    "del_state": "TX",
-    "del_hours": "0800-1200",
+    "del_date": "2026-12-01",
+    "del_city": "ROANOKE",
+    "del_state": "VA",
+    "del_hours": "0800-1600",
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 2000,
     "carrier_rate": 900,
-    "updated_at": "2026-11-24T16:58:53.094112+00:00",
-    "lane": "WATKINSVILLE GA-HASLET TX"
+    "updated_at": "2026-11-24T17:03:50.074186+00:00",
+    "lane": "WATKINSVILLE GA-ROANOKE VA"
   },
   {
     "pro": "51579",
@@ -835,7 +835,7 @@
   },
   {
     "pro": "51524",
-    "status": "PICKUP",
+    "status": "LOADED",
     "pu_date": "2026-11-24",
     "pu_city": "WINCHESTER",
     "pu_state": "KY",
@@ -847,7 +847,7 @@
     "equipment": "Van",
     "weight_lbs": 12480,
     "carrier_rate": 1100,
-    "updated_at": "2026-11-24T16:03:48.304069+00:00",
+    "updated_at": "2026-11-24T17:03:02.739676+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
