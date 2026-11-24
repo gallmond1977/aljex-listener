@@ -82,7 +82,7 @@
     "equipment": "Van",
     "weight_lbs": 43000,
     "carrier_rate": 1200,
-    "updated_at": "2026-11-24T14:37:03.727670+00:00",
+    "updated_at": "2026-11-24T21:02:07.367104+00:00",
     "lane": "BUENA VISTA GA-INDIAN TRAIL NC"
   },
   {
@@ -802,7 +802,7 @@
   },
   {
     "pro": "51508",
-    "status": "DELIVERED",
+    "status": "RELEASED",
     "pu_date": "2026-11-20",
     "pu_city": "PASADENA",
     "pu_state": "TX",
@@ -814,7 +814,7 @@
     "equipment": "Van",
     "weight_lbs": 44960,
     "carrier_rate": 2800,
-    "updated_at": "2026-11-24T20:58:25.386252+00:00",
+    "updated_at": "2026-11-24T21:02:34.654430+00:00",
     "lane": "PASADENA TX-PIEDMONT SC"
   },
   {
@@ -938,7 +938,7 @@
   },
   {
     "pro": "51564",
-    "status": "DELIVERED",
+    "status": "RELEASED",
     "pu_date": "2026-11-23",
     "pu_city": "MACON",
     "pu_state": "GA",
@@ -950,7 +950,7 @@
     "equipment": "Flatbed",
     "weight_lbs": 47000,
     "carrier_rate": 700,
-    "updated_at": "2026-11-24T13:37:50.405685+00:00",
+    "updated_at": "2026-11-24T21:03:16.164667+00:00",
     "lane": "MACON GA-AUGUSTA GA"
   },
   {
@@ -1006,7 +1006,7 @@
   },
   {
     "pro": "51567",
-    "status": "DISPATCHED",
+    "status": "PICKUP",
     "pu_date": "2026-11-24",
     "pu_city": "MACON",
     "pu_state": "GA",
@@ -1018,7 +1018,7 @@
     "equipment": "Flatbed",
     "weight_lbs": 47000,
     "carrier_rate": 700,
-    "updated_at": "2026-11-24T20:55:39.766296+00:00",
+    "updated_at": "2026-11-24T21:03:27.430966+00:00",
     "lane": "MACON GA-AUGUSTA GA"
   },
   {
