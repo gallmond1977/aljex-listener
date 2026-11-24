@@ -17,23 +17,6 @@
     "lane": "OAKLAND TN-PHENIX CITY AL"
   },
   {
-    "pro": "51479",
-    "status": "OPEN",
-    "pu_date": "2026-11-24",
-    "pu_city": "WINCHESTER",
-    "pu_state": "KY",
-    "pu_hours": "1300",
-    "del_date": "2026-11-25",
-    "del_city": "BURLINGTON",
-    "del_state": "NJ",
-    "del_hours": "1500",
-    "equipment": "Van",
-    "weight_lbs": 5775,
-    "carrier_rate": 2600,
-    "updated_at": "2026-11-23T21:04:43.454191+00:00",
-    "lane": "WINCHESTER KY-BURLINGTON NJ"
-  },
-  {
     "pro": "51539",
     "status": "OPEN",
     "pu_date": "2026-11-24",
@@ -132,7 +115,7 @@
     "equipment": "Flatbed Hot Shot",
     "weight_lbs": 5700,
     "carrier_rate": 725,
-    "updated_at": "2026-11-24T13:34:48.077880+00:00",
+    "updated_at": "2026-11-24T13:39:31.917276+00:00",
     "lane": "MARIETTA GA-WAYCROSS GA"
   },
   {
@@ -797,6 +780,23 @@
     "carrier_rate": 150,
     "updated_at": "2026-11-23T21:05:57.357585+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
+  },
+  {
+    "pro": "51479",
+    "status": "COVERED",
+    "pu_date": "2026-11-24",
+    "pu_city": "WINCHESTER",
+    "pu_state": "KY",
+    "pu_hours": "1300",
+    "del_date": "2026-11-25",
+    "del_city": "BURLINGTON",
+    "del_state": "NJ",
+    "del_hours": "1500",
+    "equipment": "Van",
+    "weight_lbs": 5775,
+    "carrier_rate": 2950,
+    "updated_at": "2026-11-24T13:39:36.070987+00:00",
+    "lane": "WINCHESTER KY-BURLINGTON NJ"
   },
   {
     "pro": "51524",
