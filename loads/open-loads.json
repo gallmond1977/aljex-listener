@@ -47,7 +47,7 @@
     "equipment": "Flatbed",
     "weight_lbs": 47000,
     "carrier_rate": 700,
-    "updated_at": "2026-11-24T15:59:46.807901+00:00",
+    "updated_at": "2026-11-24T16:13:19.086960+00:00",
     "lane": "MACON GA-AUGUSTA GA"
   },
   {
@@ -458,40 +458,6 @@
     "carrier_rate": null,
     "updated_at": "2026-11-05T16:51:53.885923+00:00",
     "lane": "LA PORTE TX-PIEDMONT SC"
-  },
-  {
-    "pro": "51378",
-    "status": "RELEASED",
-    "pu_date": "2026-11-12",
-    "pu_city": "WINCHESTER",
-    "pu_state": "KY",
-    "pu_hours": "1000-1300",
-    "del_date": "2026-11-12",
-    "del_city": "JOLIET",
-    "del_state": "IL",
-    "del_hours": "2200",
-    "equipment": "Van",
-    "weight_lbs": 9600,
-    "carrier_rate": 1100,
-    "updated_at": "2026-11-17T16:13:17.275050+00:00",
-    "lane": "WINCHESTER KY-JOLIET IL"
-  },
-  {
-    "pro": "51409",
-    "status": "RELEASED",
-    "pu_date": "2026-11-13",
-    "pu_city": "WINCHESTER",
-    "pu_state": "KY",
-    "pu_hours": "0800-1030",
-    "del_date": "2026-11-13",
-    "del_city": "JOLIET",
-    "del_state": "IL",
-    "del_hours": "2000",
-    "equipment": "Van",
-    "weight_lbs": 12990,
-    "carrier_rate": 1100,
-    "updated_at": "2026-11-17T16:12:00.789004+00:00",
-    "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
     "pro": "51384",
