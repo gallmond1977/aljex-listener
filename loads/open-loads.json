@@ -17,23 +17,6 @@
     "lane": "OAKLAND TN-PHENIX CITY AL"
   },
   {
-    "pro": "51571",
-    "status": "OPEN",
-    "pu_date": "2026-11-24",
-    "pu_city": "COLUMBUS",
-    "pu_state": "GA",
-    "pu_hours": "1130-1500",
-    "del_date": "2026-11-25",
-    "del_city": "JACKSON",
-    "del_state": "MS",
-    "del_hours": "0700-1600",
-    "equipment": "Van",
-    "weight_lbs": 41614,
-    "carrier_rate": 1100,
-    "updated_at": "2026-11-24T15:58:50.446239+00:00",
-    "lane": "COLUMBUS GA-JACKSON MS"
-  },
-  {
     "pro": "51585",
     "status": "OPEN",
     "pu_date": "2026-11-24",
@@ -733,7 +716,7 @@
   },
   {
     "pro": "51544",
-    "status": "DELIVERED",
+    "status": "RELEASED",
     "pu_date": "2026-11-20",
     "pu_city": "MACON",
     "pu_state": "GA",
@@ -745,7 +728,7 @@
     "equipment": "Flatbed",
     "weight_lbs": 47000,
     "carrier_rate": 700,
-    "updated_at": "2026-11-23T15:41:38.075113+00:00",
+    "updated_at": "2026-11-24T16:23:45.476512+00:00",
     "lane": "MACON GA-AUGUSTA GA"
   },
   {
