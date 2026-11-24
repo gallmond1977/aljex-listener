@@ -256,6 +256,23 @@
     "lane": "COLUMBUS GA-COLUMBUS GA"
   },
   {
+    "pro": "51587",
+    "status": "OPEN",
+    "pu_date": "2026-11-30",
+    "pu_city": "UNION CITY",
+    "pu_state": "GA",
+    "pu_hours": "0800",
+    "del_date": "2026-12-01",
+    "del_city": "SANFORD",
+    "del_state": "FL",
+    "del_hours": "0700",
+    "equipment": "Sprinter Van",
+    "weight_lbs": 2000,
+    "carrier_rate": 600,
+    "updated_at": "2026-11-24T16:08:51.974252+00:00",
+    "lane": "UNION CITY GA-SANFORD FL"
+  },
+  {
     "pro": "51579",
     "status": "OPEN",
     "pu_date": "2026-12-01",
@@ -579,6 +596,23 @@
     "lane": "WINCHESTER KY-BURLINGTON NJ"
   },
   {
+    "pro": "51487",
+    "status": "RELEASED",
+    "pu_date": "2026-11-18",
+    "pu_city": "UNION CITY",
+    "pu_state": "GA",
+    "pu_hours": "1000",
+    "del_date": "2026-11-19",
+    "del_city": "SANFORD",
+    "del_state": "FL",
+    "del_hours": "0700",
+    "equipment": "26' Straight Box Truck",
+    "weight_lbs": 7000,
+    "carrier_rate": 1000,
+    "updated_at": "2026-11-19T18:21:10.707288+00:00",
+    "lane": "UNION CITY GA-SANFORD FL"
+  },
+  {
     "pro": "51471",
     "status": "RELEASED",
     "pu_date": "2026-11-19",
@@ -750,7 +784,7 @@
   },
   {
     "pro": "50717",
-    "status": "DELIVERED",
+    "status": "RELEASED",
     "pu_date": "2026-11-23",
     "pu_city": "OLD FORT",
     "pu_state": "NC",
@@ -762,7 +796,7 @@
     "equipment": "Van",
     "weight_lbs": 41500,
     "carrier_rate": 150,
-    "updated_at": "2026-11-23T19:01:57.941533+00:00",
+    "updated_at": "2026-11-24T16:06:31.324299+00:00",
     "lane": "OLD FORT NC-COLUMBUS GA"
   },
   {
@@ -886,7 +920,7 @@
   },
   {
     "pro": "51525",
-    "status": "DISPATCHED",
+    "status": "PICKUP",
     "pu_date": "2026-11-24",
     "pu_city": "WINCHESTER",
     "pu_state": "KY",
@@ -898,7 +932,7 @@
     "equipment": "Van",
     "weight_lbs": 12480,
     "carrier_rate": 1100,
-    "updated_at": "2026-11-24T15:14:56.035073+00:00",
+    "updated_at": "2026-11-24T16:08:39.773691+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
