@@ -256,6 +256,23 @@
     "lane": "UNION CITY GA-SANFORD FL"
   },
   {
+    "pro": "51590",
+    "status": "OPEN",
+    "pu_date": "2026-11-30",
+    "pu_city": "ROANOKE",
+    "pu_state": "AL",
+    "pu_hours": "0800-1200",
+    "del_date": "",
+    "del_city": "HASLET",
+    "del_state": "TX",
+    "del_hours": "0800-1200",
+    "equipment": "26' Straight Box Truck",
+    "weight_lbs": 1500,
+    "carrier_rate": 900,
+    "updated_at": "2026-11-24T16:54:37.166405+00:00",
+    "lane": "ROANOKE AL-HASLET TX"
+  },
+  {
     "pro": "51579",
     "status": "OPEN",
     "pu_date": "2026-12-01",
@@ -441,6 +458,23 @@
     "carrier_rate": null,
     "updated_at": "2026-11-05T16:51:53.885923+00:00",
     "lane": "LA PORTE TX-PIEDMONT SC"
+  },
+  {
+    "pro": "51421",
+    "status": "RELEASED",
+    "pu_date": "2026-11-12",
+    "pu_city": "ROANOKE",
+    "pu_state": "AL",
+    "pu_hours": "0800-1200",
+    "del_date": "2026-11-13",
+    "del_city": "HASLET",
+    "del_state": "TX",
+    "del_hours": "0800-1200",
+    "equipment": "26' Straight Box Truck",
+    "weight_lbs": 1500,
+    "carrier_rate": 1400,
+    "updated_at": "2026-11-18T13:55:07.184935+00:00",
+    "lane": "ROANOKE AL-HASLET TX"
   },
   {
     "pro": "51384",
