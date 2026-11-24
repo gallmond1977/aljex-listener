@@ -366,11 +366,11 @@
     "del_date": "2026-12-03",
     "del_city": "BURLINGTON",
     "del_state": "NJ",
-    "del_hours": "CALL!",
+    "del_hours": "1500",
     "equipment": "Van",
     "weight_lbs": 15149,
-    "carrier_rate": null,
-    "updated_at": "2026-11-23T16:35:50.710759+00:00",
+    "carrier_rate": 2400,
+    "updated_at": "2026-11-24T13:16:33.984298+00:00",
     "lane": "WINCHESTER KY-BURLINGTON NJ"
   },
   {
@@ -830,23 +830,6 @@
     "weight_lbs": 12480,
     "carrier_rate": 1100,
     "updated_at": "2026-11-23T20:56:12.489605+00:00",
-    "lane": "WINCHESTER KY-JOLIET IL"
-  },
-  {
-    "pro": "51526",
-    "status": "PICKUP",
-    "pu_date": "2026-11-24",
-    "pu_city": "WINCHESTER",
-    "pu_state": "KY",
-    "pu_hours": "0900-1200",
-    "del_date": "2026-11-24",
-    "del_city": "JOLIET",
-    "del_state": "IL",
-    "del_hours": "2130",
-    "equipment": "Van",
-    "weight_lbs": 12480,
-    "carrier_rate": 1100,
-    "updated_at": "2026-11-24T03:29:22.422561+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
