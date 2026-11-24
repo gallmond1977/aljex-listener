@@ -149,8 +149,8 @@
     "del_hours": "0700",
     "equipment": "Van",
     "weight_lbs": 15685,
-    "carrier_rate": null,
-    "updated_at": "2026-11-18T21:14:08.043245+00:00",
+    "carrier_rate": 3000,
+    "updated_at": "2026-11-24T21:44:01.431099+00:00",
     "lane": "WINCHESTER KY-JACKSONVILLE FL"
   },
   {
@@ -1001,7 +1001,7 @@
     "equipment": "Van",
     "weight_lbs": 12480,
     "carrier_rate": 1100,
-    "updated_at": "2026-11-24T21:33:04.433259+00:00",
+    "updated_at": "2026-11-24T21:43:20.388107+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
