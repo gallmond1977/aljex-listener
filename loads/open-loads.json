@@ -47,7 +47,7 @@
     "equipment": "Flatbed",
     "weight_lbs": 47000,
     "carrier_rate": 700,
-    "updated_at": "2026-11-24T16:13:19.086960+00:00",
+    "updated_at": "2026-11-24T16:17:15.407719+00:00",
     "lane": "MACON GA-AUGUSTA GA"
   },
   {
@@ -79,9 +79,9 @@
     "del_state": "VA",
     "del_hours": "0800-1200",
     "equipment": "Flatbed Hot Shot",
-    "weight_lbs": 14500,
-    "carrier_rate": 750,
-    "updated_at": "2026-11-24T15:33:37.545093+00:00",
+    "weight_lbs": 14625,
+    "carrier_rate": 800,
+    "updated_at": "2026-11-24T16:17:03.417805+00:00",
     "lane": "RICHMOND VA-ORKNEY SPRINGS VA"
   },
   {
