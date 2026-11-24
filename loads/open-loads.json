@@ -273,6 +273,23 @@
     "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
+    "pro": "51595",
+    "status": "OPEN",
+    "pu_date": "2026-11-30",
+    "pu_city": "WINCHESTER",
+    "pu_state": "KY",
+    "pu_hours": "0900-1130",
+    "del_date": "2026-11-30",
+    "del_city": "JOLIET",
+    "del_state": "IL",
+    "del_hours": "",
+    "equipment": "Van",
+    "weight_lbs": 11280,
+    "carrier_rate": null,
+    "updated_at": "2026-11-24T20:19:18.354399+00:00",
+    "lane": "WINCHESTER KY-JOLIET IL"
+  },
+  {
     "pro": "8890474",
     "status": "OPEN",
     "spot": true,
