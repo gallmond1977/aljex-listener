@@ -64,7 +64,7 @@
     "equipment": "Flatbed Hot Shot",
     "weight_lbs": 14625,
     "carrier_rate": 800,
-    "updated_at": "2026-11-24T16:17:03.417805+00:00",
+    "updated_at": "2026-11-24T17:16:42.045022+00:00",
     "lane": "RICHMOND VA-ORKNEY SPRINGS VA"
   },
   {
@@ -353,8 +353,8 @@
     "del_hours": "0800",
     "equipment": "Van",
     "weight_lbs": 35000,
-    "carrier_rate": null,
-    "updated_at": "2026-11-24T17:15:15.779180+00:00",
+    "carrier_rate": 2100,
+    "updated_at": "2026-11-24T17:19:17.287873+00:00",
     "lane": "SWEDESBORO NJ-OAKLAND TN"
   },
   {
@@ -886,7 +886,7 @@
   },
   {
     "pro": "51567",
-    "status": "DISPATCHED",
+    "status": "COVERED",
     "pu_date": "2026-11-24",
     "pu_city": "MACON",
     "pu_state": "GA",
@@ -898,7 +898,7 @@
     "equipment": "Flatbed",
     "weight_lbs": 47000,
     "carrier_rate": 700,
-    "updated_at": "2026-11-24T13:55:15.126707+00:00",
+    "updated_at": "2026-11-24T17:18:54.412622+00:00",
     "lane": "MACON GA-AUGUSTA GA"
   },
   {
