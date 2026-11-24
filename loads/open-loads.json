@@ -239,6 +239,24 @@
     "lane": "WATKINSVILLE GA-ROANOKE VA"
   },
   {
+    "pro": "8890474",
+    "status": "OPEN",
+    "spot": true,
+    "pu_date": "2026-11-30",
+    "pu_city": "SIGEL",
+    "pu_state": "IL",
+    "pu_hours": "",
+    "del_date": "2026-11-30",
+    "del_city": "KANSAS CITY",
+    "del_state": "MO",
+    "del_hours": "",
+    "equipment": "Flatbed",
+    "weight_lbs": 47500,
+    "carrier_rate": 1500,
+    "updated_at": "2026-11-24T18:59:09.143712+00:00",
+    "lane": "SIGEL IL-KANSAS CITY MO"
+  },
+  {
     "pro": "51579",
     "status": "OPEN",
     "pu_date": "2026-12-01",
