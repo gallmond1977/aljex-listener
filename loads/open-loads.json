@@ -34,6 +34,23 @@
     "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
+    "pro": "51525",
+    "status": "OPEN",
+    "pu_date": "2026-11-24",
+    "pu_city": "WINCHESTER",
+    "pu_state": "KY",
+    "pu_hours": "0900-1200",
+    "del_date": "2026-11-24",
+    "del_city": "JOLIET",
+    "del_state": "IL",
+    "del_hours": "2100",
+    "equipment": "Van",
+    "weight_lbs": 12480,
+    "carrier_rate": 1100,
+    "updated_at": "2026-11-24T14:54:53.106802+00:00",
+    "lane": "WINCHESTER KY-JOLIET IL"
+  },
+  {
     "pro": "51576",
     "status": "OPEN",
     "pu_date": "2026-11-24",
@@ -747,23 +764,6 @@
     "carrier_rate": 2950,
     "updated_at": "2026-11-24T14:50:23.815792+00:00",
     "lane": "WINCHESTER KY-BURLINGTON NJ"
-  },
-  {
-    "pro": "51525",
-    "status": "COVERED",
-    "pu_date": "2026-11-24",
-    "pu_city": "WINCHESTER",
-    "pu_state": "KY",
-    "pu_hours": "0900-1200",
-    "del_date": "2026-11-24",
-    "del_city": "JOLIET",
-    "del_state": "IL",
-    "del_hours": "2100",
-    "equipment": "Van",
-    "weight_lbs": 12480,
-    "carrier_rate": 1100,
-    "updated_at": "2026-11-24T14:04:30.654952+00:00",
-    "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
     "pro": "51569",
