@@ -194,14 +194,14 @@
     "pu_city": "WINCHESTER",
     "pu_state": "KY",
     "pu_hours": "0800-1100",
-    "del_date": "",
+    "del_date": "2026-11-30",
     "del_city": "JOLIET",
     "del_state": "IL",
-    "del_hours": "2000",
+    "del_hours": "2130",
     "equipment": "Van",
     "weight_lbs": 12480,
     "carrier_rate": null,
-    "updated_at": "2026-11-23T21:25:37.518743+00:00",
+    "updated_at": "2026-11-24T19:44:56.467300+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
