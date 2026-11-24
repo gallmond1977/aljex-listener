@@ -341,6 +341,23 @@
     "lane": "PASADENA TX-PIEDMONT SC"
   },
   {
+    "pro": "51592",
+    "status": "OPEN",
+    "pu_date": "2026-12-07",
+    "pu_city": "SWEDESBORO",
+    "pu_state": "NJ",
+    "pu_hours": "PEND....",
+    "del_date": "2026-12-09",
+    "del_city": "OAKLAND",
+    "del_state": "TN",
+    "del_hours": "0800",
+    "equipment": "Van",
+    "weight_lbs": 35000,
+    "carrier_rate": null,
+    "updated_at": "2026-11-24T17:15:15.779180+00:00",
+    "lane": "SWEDESBORO NJ-OAKLAND TN"
+  },
+  {
     "pro": "50287",
     "status": "OPEN",
     "pu_date": "2026-12-08",
