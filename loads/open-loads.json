@@ -63,8 +63,8 @@
     "del_hours": "0730-1400",
     "equipment": "Van",
     "weight_lbs": 41500,
-    "carrier_rate": null,
-    "updated_at": "2026-11-23T17:10:13.325732+00:00",
+    "carrier_rate": 1600,
+    "updated_at": "2026-11-24T18:32:43.763124+00:00",
     "lane": "OLD FORT NC-COLUMBUS GA"
   },
   {
