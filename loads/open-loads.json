@@ -989,7 +989,7 @@
   },
   {
     "pro": "51525",
-    "status": "PICKUP",
+    "status": "LOADED",
     "pu_date": "2026-11-24",
     "pu_city": "WINCHESTER",
     "pu_state": "KY",
@@ -1001,7 +1001,7 @@
     "equipment": "Van",
     "weight_lbs": 12480,
     "carrier_rate": 1100,
-    "updated_at": "2026-11-24T19:23:08.124099+00:00",
+    "updated_at": "2026-11-24T21:33:04.433259+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
@@ -1018,7 +1018,7 @@
     "equipment": "Flatbed",
     "weight_lbs": 47000,
     "carrier_rate": 700,
-    "updated_at": "2026-11-24T21:29:37.232733+00:00",
+    "updated_at": "2026-11-24T21:32:10.613091+00:00",
     "lane": "MACON GA-AUGUSTA GA"
   },
   {
