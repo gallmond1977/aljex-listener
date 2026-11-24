@@ -64,7 +64,7 @@
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 1500,
     "carrier_rate": 400,
-    "updated_at": "2026-11-24T13:07:19.555642+00:00",
+    "updated_at": "2026-11-24T13:12:32.343121+00:00",
     "lane": "COLUMBUS GA-COVINGTON GA"
   },
   {
@@ -117,6 +117,23 @@
     "carrier_rate": 850,
     "updated_at": "2026-11-23T21:53:04.083045+00:00",
     "lane": "WADESBORO NC-ATLANTA GA"
+  },
+  {
+    "pro": "51581",
+    "status": "OPEN",
+    "pu_date": "2026-11-24",
+    "pu_city": "MARIETTA",
+    "pu_state": "GA",
+    "pu_hours": "0800-1300",
+    "del_date": "",
+    "del_city": "WAYCROSS",
+    "del_state": "GA",
+    "del_hours": "",
+    "equipment": "Flatbed Hot Shot",
+    "weight_lbs": 5700,
+    "carrier_rate": null,
+    "updated_at": "2026-11-24T13:14:03.497563+00:00",
+    "lane": "MARIETTA GA-WAYCROSS GA"
   },
   {
     "pro": "51484",
@@ -272,6 +289,23 @@
     "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
+    "pro": "51580",
+    "status": "OPEN",
+    "pu_date": "2026-11-30",
+    "pu_city": "COLUMBUS",
+    "pu_state": "GA",
+    "pu_hours": "0800",
+    "del_date": "2026-11-30",
+    "del_city": "COLUMBUS",
+    "del_state": "GA",
+    "del_hours": "0800-1200",
+    "equipment": "Van",
+    "weight_lbs": 40000,
+    "carrier_rate": 250,
+    "updated_at": "2026-11-24T13:14:13.008287+00:00",
+    "lane": "COLUMBUS GA-COLUMBUS GA"
+  },
+  {
     "pro": "51579",
     "status": "OPEN",
     "pu_date": "2026-12-01",
@@ -315,11 +349,11 @@
     "del_date": "2026-12-03",
     "del_city": "BURLINGTON",
     "del_state": "NJ",
-    "del_hours": "CALL!",
+    "del_hours": "1500",
     "equipment": "Van",
     "weight_lbs": 12015,
-    "carrier_rate": null,
-    "updated_at": "2026-11-23T16:29:40.540226+00:00",
+    "carrier_rate": 2400,
+    "updated_at": "2026-11-24T13:14:38.320360+00:00",
     "lane": "WINCHESTER KY-BURLINGTON NJ"
   },
   {
