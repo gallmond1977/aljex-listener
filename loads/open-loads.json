@@ -2,18 +2,18 @@
   {
     "pro": "51387",
     "status": "OPEN",
-    "pu_date": "2026-11-24",
+    "pu_date": "2026-11-25",
     "pu_city": "OAKLAND",
     "pu_state": "TN",
     "pu_hours": "0800-1500",
-    "del_date": "2026-11-25",
+    "del_date": "2026-11-30",
     "del_city": "PHENIX CITY",
     "del_state": "AL",
     "del_hours": "0600-1000",
     "equipment": "Van Hazmat",
     "weight_lbs": 44900,
     "carrier_rate": 2500,
-    "updated_at": "2026-11-24T16:25:55.141691+00:00",
+    "updated_at": "2026-11-24T21:15:09.883819+00:00",
     "lane": "OAKLAND TN-PHENIX CITY AL"
   },
   {
