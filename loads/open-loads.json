@@ -43,11 +43,11 @@
     "del_date": "2026-11-25",
     "del_city": "ORKNEY SPRINGS",
     "del_state": "VA",
-    "del_hours": "CALL!!",
+    "del_hours": "0800-1200",
     "equipment": "Flatbed Hot Shot",
     "weight_lbs": 14500,
     "carrier_rate": 700,
-    "updated_at": "2026-11-17T18:44:32.473849+00:00",
+    "updated_at": "2026-11-24T15:07:05.062345+00:00",
     "lane": "RICHMOND VA-ORKNEY SPRINGS VA"
   },
   {
@@ -733,7 +733,7 @@
   },
   {
     "pro": "51524",
-    "status": "COVERED",
+    "status": "DISPATCHED",
     "pu_date": "2026-11-24",
     "pu_city": "WINCHESTER",
     "pu_state": "KY",
@@ -745,7 +745,7 @@
     "equipment": "Van",
     "weight_lbs": 12480,
     "carrier_rate": 1100,
-    "updated_at": "2026-11-24T14:58:54.611664+00:00",
+    "updated_at": "2026-11-24T15:08:43.845241+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
