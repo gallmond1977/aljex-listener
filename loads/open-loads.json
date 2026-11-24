@@ -351,11 +351,11 @@
     "del_date": "2026-12-01",
     "del_city": "JOLIET",
     "del_state": "IL",
-    "del_hours": "",
+    "del_hours": "2130",
     "equipment": "Van",
     "weight_lbs": 11280,
     "carrier_rate": 1000,
-    "updated_at": "2026-11-24T20:27:57.122924+00:00",
+    "updated_at": "2026-11-24T20:31:17.616191+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
