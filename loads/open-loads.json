@@ -80,8 +80,8 @@
     "del_hours": "CALL!",
     "equipment": "26' Straight Box Truck",
     "weight_lbs": 2000,
-    "carrier_rate": null,
-    "updated_at": "2026-11-24T12:58:32.601938+00:00",
+    "carrier_rate": 3700,
+    "updated_at": "2026-11-24T13:05:01.655547+00:00",
     "lane": "BELCAMP MD-LAS VEGAS NV"
   },
   {
@@ -545,7 +545,7 @@
   },
   {
     "pro": "51433",
-    "status": "DELIVERED",
+    "status": "RELEASED",
     "pu_date": "2026-11-18",
     "pu_city": "WINCHESTER",
     "pu_state": "KY",
@@ -557,7 +557,7 @@
     "equipment": "Van",
     "weight_lbs": 9078,
     "carrier_rate": 3000,
-    "updated_at": "2026-11-20T19:15:27.304624+00:00",
+    "updated_at": "2026-11-24T13:03:48.794558+00:00",
     "lane": "WINCHESTER KY-JACKSONVILLE FL"
   },
   {
@@ -630,7 +630,7 @@
   },
   {
     "pro": "51316",
-    "status": "DELIVERED",
+    "status": "RELEASED",
     "pu_date": "2026-11-20",
     "pu_city": "LA PORTE",
     "pu_state": "TX",
@@ -642,7 +642,7 @@
     "equipment": "Van",
     "weight_lbs": 41328,
     "carrier_rate": 2800,
-    "updated_at": "2026-11-23T14:22:58.150564+00:00",
+    "updated_at": "2026-11-24T13:03:22.884187+00:00",
     "lane": "LA PORTE TX-PIEDMONT SC"
   },
   {
