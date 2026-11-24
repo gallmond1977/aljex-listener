@@ -34,23 +34,6 @@
     "lane": "COLUMBUS GA-JACKSON MS"
   },
   {
-    "pro": "51584",
-    "status": "OPEN",
-    "pu_date": "2026-11-24",
-    "pu_city": "BESSEMER",
-    "pu_state": "AL",
-    "pu_hours": "0600-1500",
-    "del_date": "2026-11-25",
-    "del_city": "ATLANTA",
-    "del_state": "GA",
-    "del_hours": "0800-1600",
-    "equipment": "Van",
-    "weight_lbs": 44000,
-    "carrier_rate": 800,
-    "updated_at": "2026-11-24T15:22:41.456752+00:00",
-    "lane": "BESSEMER AL-ATLANTA GA"
-  },
-  {
     "pro": "51484",
     "status": "OPEN",
     "pu_date": "2026-11-25",
