@@ -303,7 +303,7 @@
     "equipment": "Van",
     "weight_lbs": 11280,
     "carrier_rate": 1000,
-    "updated_at": "2026-11-24T20:25:55.668822+00:00",
+    "updated_at": "2026-11-24T20:59:46.207733+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
@@ -632,7 +632,7 @@
   },
   {
     "pro": "51432",
-    "status": "DELIVERED",
+    "status": "RELEASED",
     "pu_date": "2026-11-18",
     "pu_city": "WINCHESTER",
     "pu_state": "KY",
@@ -644,7 +644,7 @@
     "equipment": "Van",
     "weight_lbs": 11481,
     "carrier_rate": 3800,
-    "updated_at": "2026-11-20T12:19:43.264282+00:00",
+    "updated_at": "2026-11-24T20:56:27.515832+00:00",
     "lane": "WINCHESTER KY-UXBRIDGE MA"
   },
   {
@@ -814,7 +814,7 @@
     "equipment": "Van",
     "weight_lbs": 44960,
     "carrier_rate": 2800,
-    "updated_at": "2026-11-23T13:10:30.420818+00:00",
+    "updated_at": "2026-11-24T20:58:25.386252+00:00",
     "lane": "PASADENA TX-PIEDMONT SC"
   },
   {
@@ -1018,7 +1018,7 @@
     "equipment": "Flatbed",
     "weight_lbs": 47000,
     "carrier_rate": 700,
-    "updated_at": "2026-11-24T20:11:38.080323+00:00",
+    "updated_at": "2026-11-24T20:55:39.766296+00:00",
     "lane": "MACON GA-AUGUSTA GA"
   },
   {
