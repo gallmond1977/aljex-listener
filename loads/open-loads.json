@@ -299,11 +299,11 @@
     "del_date": "2026-11-30",
     "del_city": "JOLIET",
     "del_state": "IL",
-    "del_hours": "",
+    "del_hours": "2200",
     "equipment": "Van",
     "weight_lbs": 11280,
-    "carrier_rate": null,
-    "updated_at": "2026-11-24T20:24:00.480754+00:00",
+    "carrier_rate": 1000,
+    "updated_at": "2026-11-24T20:25:55.668822+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
@@ -340,6 +340,23 @@
     "carrier_rate": 1900,
     "updated_at": "2026-11-23T21:48:12.911828+00:00",
     "lane": "JACKSONVILLE TX-MACON GA"
+  },
+  {
+    "pro": "51597",
+    "status": "OPEN",
+    "pu_date": "2026-12-01",
+    "pu_city": "WINCHESTER",
+    "pu_state": "KY",
+    "pu_hours": "0900-1130",
+    "del_date": "2026-12-01",
+    "del_city": "JOLIET",
+    "del_state": "IL",
+    "del_hours": "",
+    "equipment": "Van",
+    "weight_lbs": 11280,
+    "carrier_rate": 1000,
+    "updated_at": "2026-11-24T20:27:57.122924+00:00",
+    "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
     "pro": "51529",
