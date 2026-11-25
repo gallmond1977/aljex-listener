@@ -115,8 +115,8 @@
     "del_hours": "REQ",
     "equipment": "Van",
     "weight_lbs": 14549,
-    "carrier_rate": null,
-    "updated_at": "2026-11-25T13:26:22.720783+00:00",
+    "carrier_rate": 3700,
+    "updated_at": "2026-11-25T13:44:55.382274+00:00",
     "lane": "WINCHESTER KY-UXBRIDGE MA"
   },
   {
@@ -166,8 +166,8 @@
     "del_hours": "0600-1100",
     "equipment": "Van Hazmat",
     "weight_lbs": 44900,
-    "carrier_rate": null,
-    "updated_at": "2026-11-18T21:49:32.804522+00:00",
+    "carrier_rate": 2900,
+    "updated_at": "2026-11-25T13:45:30.401822+00:00",
     "lane": "OAKLAND TN-SALISBURY NC"
   },
   {
