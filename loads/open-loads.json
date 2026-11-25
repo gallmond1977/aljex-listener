@@ -324,23 +324,6 @@
     "lane": "RALEIGH NC-WINSTON SALEM NC"
   },
   {
-    "pro": "51601",
-    "status": "OPEN",
-    "pu_date": "2026-11-30",
-    "pu_city": "RALEIGH",
-    "pu_state": "NC",
-    "pu_hours": "0900",
-    "del_date": "2026-11-30",
-    "del_city": "WINSTON SALEM",
-    "del_state": "NC",
-    "del_hours": "0800-1500",
-    "equipment": "Van",
-    "weight_lbs": 6668,
-    "carrier_rate": 500,
-    "updated_at": "2026-11-25T12:50:38.024603+00:00",
-    "lane": "RALEIGH NC-WINSTON SALEM NC"
-  },
-  {
     "pro": "8890474",
     "status": "OPEN",
     "spot": true,
@@ -1139,5 +1122,22 @@
     "carrier_rate": 1100,
     "updated_at": "2026-11-25T13:56:07.064703+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
+  },
+  {
+    "pro": "51601",
+    "status": "COVERED",
+    "pu_date": "2026-11-30",
+    "pu_city": "RALEIGH",
+    "pu_state": "NC",
+    "pu_hours": "0900",
+    "del_date": "2026-11-30",
+    "del_city": "WINSTON SALEM",
+    "del_state": "NC",
+    "del_hours": "0800-1500",
+    "equipment": "Van",
+    "weight_lbs": 6668,
+    "carrier_rate": 500,
+    "updated_at": "2026-11-25T14:15:32.337114+00:00",
+    "lane": "RALEIGH NC-WINSTON SALEM NC"
   }
 ]
