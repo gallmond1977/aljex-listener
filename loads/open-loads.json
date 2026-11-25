@@ -1096,14 +1096,14 @@
     "pu_city": "MACON",
     "pu_state": "GA",
     "pu_hours": "0800-1600",
-    "del_date": "2026-11-24",
+    "del_date": "2026-11-25",
     "del_city": "AUGUSTA",
     "del_state": "GA",
     "del_hours": "0800-1600",
     "equipment": "Flatbed",
     "weight_lbs": 47000,
     "carrier_rate": 700,
-    "updated_at": "2026-11-25T13:18:26.666281+00:00",
+    "updated_at": "2026-11-25T13:51:30.472627+00:00",
     "lane": "MACON GA-AUGUSTA GA"
   },
   {
