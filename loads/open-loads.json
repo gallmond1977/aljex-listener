@@ -916,7 +916,7 @@
     "equipment": "Van",
     "weight_lbs": 47000,
     "carrier_rate": null,
-    "updated_at": "2026-11-20T15:30:47.272212+00:00",
+    "updated_at": "2026-11-25T13:56:26.059776+00:00",
     "lane": "MACON GA-AUGUSTA GA"
   },
   {
@@ -1137,7 +1137,7 @@
     "equipment": "Van",
     "weight_lbs": 14580,
     "carrier_rate": 1100,
-    "updated_at": "2026-11-25T13:22:26.822306+00:00",
+    "updated_at": "2026-11-25T13:56:07.064703+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
   }
 ]
