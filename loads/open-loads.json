@@ -17,23 +17,6 @@
     "lane": "OAKLAND TN-PHENIX CITY AL"
   },
   {
-    "pro": "51557",
-    "status": "OPEN",
-    "pu_date": "2026-11-25",
-    "pu_city": "OLD FORT",
-    "pu_state": "NC",
-    "pu_hours": "0800-1800",
-    "del_date": "",
-    "del_city": "COLUMBUS",
-    "del_state": "GA",
-    "del_hours": "0730-1400",
-    "equipment": "Van",
-    "weight_lbs": 41500,
-    "carrier_rate": 1600,
-    "updated_at": "2026-11-25T14:08:30.959542+00:00",
-    "lane": "OLD FORT NC-COLUMBUS GA"
-  },
-  {
     "pro": "51585",
     "status": "OPEN",
     "pu_date": "2026-11-25",
@@ -169,6 +152,23 @@
     "carrier_rate": 2900,
     "updated_at": "2026-11-25T13:45:30.401822+00:00",
     "lane": "OAKLAND TN-SALISBURY NC"
+  },
+  {
+    "pro": "51557",
+    "status": "OPEN",
+    "pu_date": "2026-11-30",
+    "pu_city": "OLD FORT",
+    "pu_state": "NC",
+    "pu_hours": "0800-1800",
+    "del_date": "",
+    "del_city": "COLUMBUS",
+    "del_state": "GA",
+    "del_hours": "0730-1400",
+    "equipment": "Van",
+    "weight_lbs": 41500,
+    "carrier_rate": 1600,
+    "updated_at": "2026-11-25T14:18:18.821053+00:00",
+    "lane": "OLD FORT NC-COLUMBUS GA"
   },
   {
     "pro": "51577",
@@ -1137,7 +1137,7 @@
     "equipment": "Van",
     "weight_lbs": 6668,
     "carrier_rate": 500,
-    "updated_at": "2026-11-25T14:15:32.337114+00:00",
+    "updated_at": "2026-11-25T14:16:29.816511+00:00",
     "lane": "RALEIGH NC-WINSTON SALEM NC"
   }
 ]
