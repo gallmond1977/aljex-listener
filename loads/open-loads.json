@@ -205,23 +205,6 @@
     "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
-    "pro": "51580",
-    "status": "OPEN",
-    "pu_date": "2026-11-30",
-    "pu_city": "COLUMBUS",
-    "pu_state": "GA",
-    "pu_hours": "0800",
-    "del_date": "2026-11-30",
-    "del_city": "COLUMBUS",
-    "del_state": "GA",
-    "del_hours": "0800-1200",
-    "equipment": "Van",
-    "weight_lbs": 40000,
-    "carrier_rate": 250,
-    "updated_at": "2026-11-24T15:51:25.165727+00:00",
-    "lane": "COLUMBUS GA-COLUMBUS GA"
-  },
-  {
     "pro": "51593",
     "status": "OPEN",
     "pu_date": "2026-11-30",
@@ -341,6 +324,23 @@
     "lane": "BUFFALO NY-BELCAMP MD"
   },
   {
+    "pro": "51605",
+    "status": "OPEN",
+    "pu_date": "2026-11-30",
+    "pu_city": "VILLA RICA",
+    "pu_state": "GA",
+    "pu_hours": "0800-1500",
+    "del_date": "2026-12-01",
+    "del_city": "STEVENS",
+    "del_state": "PA",
+    "del_hours": "0700-1300",
+    "equipment": "Van",
+    "weight_lbs": 42900,
+    "carrier_rate": 2000,
+    "updated_at": "2026-11-25T15:36:05.908452+00:00",
+    "lane": "VILLA RICA GA-STEVENS PA"
+  },
+  {
     "pro": "8890474",
     "status": "OPEN",
     "spot": true,
@@ -391,6 +391,23 @@
     "carrier_rate": 1000,
     "updated_at": "2026-11-24T20:31:17.616191+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
+  },
+  {
+    "pro": "51604",
+    "status": "OPEN",
+    "pu_date": "2026-12-01",
+    "pu_city": "ATHENS",
+    "pu_state": "GA",
+    "pu_hours": "1500",
+    "del_date": "",
+    "del_city": "OWENSBORO",
+    "del_state": "KY",
+    "del_hours": "0800-0900",
+    "equipment": "Flatbed w/ Tarps",
+    "weight_lbs": 43000,
+    "carrier_rate": 1700,
+    "updated_at": "2026-11-25T15:37:57.984170+00:00",
+    "lane": "ATHENS GA-OWENSBORO KY"
   },
   {
     "pro": "51529",
