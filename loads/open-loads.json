@@ -167,7 +167,7 @@
     "equipment": "Van",
     "weight_lbs": 11280,
     "carrier_rate": 1000,
-    "updated_at": "2026-11-24T20:03:26.207450+00:00",
+    "updated_at": "2026-11-25T16:07:26.245197+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
@@ -186,23 +186,6 @@
     "carrier_rate": 1000,
     "updated_at": "2026-11-24T19:53:26.260430+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
-  },
-  {
-    "pro": "51593",
-    "status": "OPEN",
-    "pu_date": "2026-11-30",
-    "pu_city": "ALPHARETTA",
-    "pu_state": "GA",
-    "pu_hours": "0900-1200",
-    "del_date": "2026-12-02",
-    "del_city": "AMARILLO",
-    "del_state": "TX",
-    "del_hours": "0800-1400",
-    "equipment": "Flatbed w/ Tarps",
-    "weight_lbs": 42000,
-    "carrier_rate": 4500,
-    "updated_at": "2026-11-24T19:47:08.416757+00:00",
-    "lane": "ALPHARETTA GA-AMARILLO TX"
   },
   {
     "pro": "51594",
@@ -1091,7 +1074,7 @@
   },
   {
     "pro": "51567",
-    "status": "CONSIGNEE",
+    "status": "RELEASED",
     "pu_date": "2026-11-24",
     "pu_city": "MACON",
     "pu_state": "GA",
@@ -1103,7 +1086,7 @@
     "equipment": "Flatbed",
     "weight_lbs": 47000,
     "carrier_rate": 700,
-    "updated_at": "2026-11-25T15:54:46.818150+00:00",
+    "updated_at": "2026-11-25T16:09:48.158518+00:00",
     "lane": "MACON GA-AUGUSTA GA"
   },
   {
