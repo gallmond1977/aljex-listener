@@ -222,23 +222,6 @@
     "lane": "COLUMBUS GA-COLUMBUS GA"
   },
   {
-    "pro": "51590",
-    "status": "OPEN",
-    "pu_date": "2026-11-30",
-    "pu_city": "WATKINSVILLE",
-    "pu_state": "GA",
-    "pu_hours": "0800-1600",
-    "del_date": "2026-12-01",
-    "del_city": "ROANOKE",
-    "del_state": "VA",
-    "del_hours": "0800-1600",
-    "equipment": "26' Straight Box Truck",
-    "weight_lbs": 2000,
-    "carrier_rate": 950,
-    "updated_at": "2026-11-25T15:10:03.909935+00:00",
-    "lane": "WATKINSVILLE GA-ROANOKE VA"
-  },
-  {
     "pro": "51593",
     "status": "OPEN",
     "pu_date": "2026-11-30",
