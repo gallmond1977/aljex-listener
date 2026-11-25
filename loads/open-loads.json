@@ -46,8 +46,8 @@
     "del_hours": "0700-0800",
     "equipment": "Van",
     "weight_lbs": 41614,
-    "carrier_rate": 1100,
-    "updated_at": "2026-11-25T13:19:34.174436+00:00",
+    "carrier_rate": 1250,
+    "updated_at": "2026-11-25T13:23:52.910812+00:00",
     "lane": "COLUMBUS GA-JACKSON MS"
   },
   {
@@ -133,7 +133,7 @@
     "equipment": "Van",
     "weight_lbs": 14549,
     "carrier_rate": null,
-    "updated_at": "2026-11-20T20:46:59.995358+00:00",
+    "updated_at": "2026-11-25T13:22:21.635155+00:00",
     "lane": "WINCHESTER KY-UXBRIDGE MA"
   },
   {
@@ -1142,7 +1142,7 @@
   },
   {
     "pro": "51531",
-    "status": "PICKUP",
+    "status": "LOADED",
     "pu_date": "2026-11-25",
     "pu_city": "WINCHESTER",
     "pu_state": "KY",
@@ -1154,7 +1154,7 @@
     "equipment": "Van",
     "weight_lbs": 14580,
     "carrier_rate": 1100,
-    "updated_at": "2026-11-25T12:17:58.304690+00:00",
+    "updated_at": "2026-11-25T13:22:26.822306+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
   }
 ]
