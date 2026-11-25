@@ -34,6 +34,23 @@
     "lane": "OLD FORT NC-COLUMBUS GA"
   },
   {
+    "pro": "51571",
+    "status": "OPEN",
+    "pu_date": "2026-11-25",
+    "pu_city": "COLUMBUS",
+    "pu_state": "GA",
+    "pu_hours": "0800-1200",
+    "del_date": "2026-11-30",
+    "del_city": "JACKSON",
+    "del_state": "MS",
+    "del_hours": "0700-0800",
+    "equipment": "Van",
+    "weight_lbs": 41614,
+    "carrier_rate": 1100,
+    "updated_at": "2026-11-25T13:19:34.174436+00:00",
+    "lane": "COLUMBUS GA-JACKSON MS"
+  },
+  {
     "pro": "51585",
     "status": "OPEN",
     "pu_date": "2026-11-25",
@@ -1086,7 +1103,7 @@
     "equipment": "Van",
     "weight_lbs": 12480,
     "carrier_rate": 1100,
-    "updated_at": "2026-11-25T13:15:02.517982+00:00",
+    "updated_at": "2026-11-25T13:15:59.597794+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
@@ -1103,12 +1120,12 @@
     "equipment": "Flatbed",
     "weight_lbs": 47000,
     "carrier_rate": 700,
-    "updated_at": "2026-11-25T13:09:47.173872+00:00",
+    "updated_at": "2026-11-25T13:18:26.666281+00:00",
     "lane": "MACON GA-AUGUSTA GA"
   },
   {
     "pro": "51528",
-    "status": "COVERED",
+    "status": "DISPATCHED",
     "pu_date": "2026-11-25",
     "pu_city": "WINCHESTER",
     "pu_state": "KY",
@@ -1120,7 +1137,7 @@
     "equipment": "Van",
     "weight_lbs": 14580,
     "carrier_rate": 1100,
-    "updated_at": "2026-11-25T13:02:41.076972+00:00",
+    "updated_at": "2026-11-25T13:15:43.708972+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
