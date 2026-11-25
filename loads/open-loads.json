@@ -137,23 +137,6 @@
     "lane": "WINCHESTER KY-JACKSONVILLE FL"
   },
   {
-    "pro": "51512",
-    "status": "OPEN",
-    "pu_date": "2026-11-30",
-    "pu_city": "OAKLAND",
-    "pu_state": "TN",
-    "pu_hours": "1000-1500",
-    "del_date": "2026-12-01",
-    "del_city": "SALISBURY",
-    "del_state": "NC",
-    "del_hours": "0600-1100",
-    "equipment": "Van Hazmat",
-    "weight_lbs": 44900,
-    "carrier_rate": 2900,
-    "updated_at": "2026-11-25T13:45:30.401822+00:00",
-    "lane": "OAKLAND TN-SALISBURY NC"
-  },
-  {
     "pro": "51557",
     "status": "OPEN",
     "pu_date": "2026-11-30",
@@ -648,23 +631,6 @@
     "lane": "RALEIGH NC-WINSTON SALEM NC"
   },
   {
-    "pro": "51384",
-    "status": "RELEASED",
-    "pu_date": "2026-11-17",
-    "pu_city": "OAKLAND",
-    "pu_state": "TN",
-    "pu_hours": "0800-1200",
-    "del_date": "2026-11-18",
-    "del_city": "SALISBURY",
-    "del_state": "NC",
-    "del_hours": "0600-1100",
-    "equipment": "Van Hazmat",
-    "weight_lbs": 44900,
-    "carrier_rate": 3000,
-    "updated_at": "2026-11-18T20:17:40.708784+00:00",
-    "lane": "OAKLAND TN-SALISBURY NC"
-  },
-  {
     "pro": "51386",
     "status": "RELEASED",
     "pu_date": "2026-11-17",
@@ -697,23 +663,6 @@
     "carrier_rate": 1800,
     "updated_at": "2026-11-19T18:17:13.417050+00:00",
     "lane": "BUFFALO NY-BELCAMP MD"
-  },
-  {
-    "pro": "51385",
-    "status": "RELEASED",
-    "pu_date": "2026-11-18",
-    "pu_city": "OAKLAND",
-    "pu_state": "TN",
-    "pu_hours": "1000-1500",
-    "del_date": "2026-11-19",
-    "del_city": "SALISBURY",
-    "del_state": "NC",
-    "del_hours": "0600-1100",
-    "equipment": "Van Hazmat",
-    "weight_lbs": 44900,
-    "carrier_rate": 3000,
-    "updated_at": "2026-11-23T13:18:52.345408+00:00",
-    "lane": "OAKLAND TN-SALISBURY NC"
   },
   {
     "pro": "51432",
@@ -1142,7 +1091,7 @@
   },
   {
     "pro": "51567",
-    "status": "LOADED",
+    "status": "CONSIGNEE",
     "pu_date": "2026-11-24",
     "pu_city": "MACON",
     "pu_state": "GA",
@@ -1154,7 +1103,7 @@
     "equipment": "Flatbed",
     "weight_lbs": 47000,
     "carrier_rate": 700,
-    "updated_at": "2026-11-25T14:01:02.340670+00:00",
+    "updated_at": "2026-11-25T15:54:46.818150+00:00",
     "lane": "MACON GA-AUGUSTA GA"
   },
   {
