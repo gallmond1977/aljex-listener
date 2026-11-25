@@ -1074,19 +1074,19 @@
   },
   {
     "pro": "51525",
-    "status": "LOADED",
+    "status": "DELIVERED",
     "pu_date": "2026-11-24",
     "pu_city": "WINCHESTER",
     "pu_state": "KY",
     "pu_hours": "0900-1200",
-    "del_date": "2026-11-24",
+    "del_date": "2026-11-25",
     "del_city": "JOLIET",
     "del_state": "IL",
     "del_hours": "2100",
     "equipment": "Van",
     "weight_lbs": 12480,
     "carrier_rate": 1100,
-    "updated_at": "2026-11-24T21:43:20.388107+00:00",
+    "updated_at": "2026-11-25T13:15:02.517982+00:00",
     "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
