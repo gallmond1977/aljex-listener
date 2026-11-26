@@ -596,23 +596,6 @@
     "lane": "OAKLAND TN-PHENIX CITY AL"
   },
   {
-    "pro": "51474",
-    "status": "RELEASED",
-    "pu_date": "2026-11-17",
-    "pu_city": "BUFFALO",
-    "pu_state": "NY",
-    "pu_hours": "1000-1500",
-    "del_date": "2026-11-18",
-    "del_city": "BELCAMP",
-    "del_state": "MD",
-    "del_hours": "0700-1500",
-    "equipment": "Van",
-    "weight_lbs": 25000,
-    "carrier_rate": 1800,
-    "updated_at": "2026-11-19T18:17:13.417050+00:00",
-    "lane": "BUFFALO NY-BELCAMP MD"
-  },
-  {
     "pro": "51432",
     "status": "RELEASED",
     "pu_date": "2026-11-18",
