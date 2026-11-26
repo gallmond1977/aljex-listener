@@ -1,23 +1,5 @@
 [
   {
-    "pro": "8890473",
-    "status": "OPEN",
-    "spot": true,
-    "pu_date": "2026-11-25",
-    "pu_city": "BUENA VISTA",
-    "pu_state": "GA",
-    "pu_hours": "",
-    "del_date": "2026-11-25",
-    "del_city": "INDIAN TRAIL",
-    "del_state": "NC",
-    "del_hours": "",
-    "equipment": "Van",
-    "weight_lbs": 43000,
-    "carrier_rate": 1200,
-    "updated_at": "2026-11-24T21:02:07.367104+00:00",
-    "lane": "BUENA VISTA GA-INDIAN TRAIL NC"
-  },
-  {
     "pro": "51387",
     "status": "OPEN",
     "pu_date": "2026-11-30",
