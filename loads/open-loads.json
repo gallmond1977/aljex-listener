@@ -579,23 +579,6 @@
     "lane": "LA PORTE TX-PIEDMONT SC"
   },
   {
-    "pro": "51386",
-    "status": "RELEASED",
-    "pu_date": "2026-11-17",
-    "pu_city": "OAKLAND",
-    "pu_state": "TN",
-    "pu_hours": "0800-1500",
-    "del_date": "2026-11-18",
-    "del_city": "PHENIX CITY",
-    "del_state": "AL",
-    "del_hours": "0600-1430",
-    "equipment": "Van Hazmat",
-    "weight_lbs": 44900,
-    "carrier_rate": 2500,
-    "updated_at": "2026-11-19T18:30:26.958928+00:00",
-    "lane": "OAKLAND TN-PHENIX CITY AL"
-  },
-  {
     "pro": "51432",
     "status": "RELEASED",
     "pu_date": "2026-11-18",
@@ -730,23 +713,6 @@
     "carrier_rate": 1800,
     "updated_at": "2026-11-20T19:15:18.319987+00:00",
     "lane": "BUFFALO NY-BELCAMP MD"
-  },
-  {
-    "pro": "51509",
-    "status": "RELEASED",
-    "pu_date": "2026-11-19",
-    "pu_city": "RALEIGH",
-    "pu_state": "NC",
-    "pu_hours": "0900",
-    "del_date": "2026-11-19",
-    "del_city": "WINSTON SALEM",
-    "del_state": "NC",
-    "del_hours": "0800-1500",
-    "equipment": "Van",
-    "weight_lbs": 10103,
-    "carrier_rate": 550,
-    "updated_at": "2026-11-19T18:25:20.177258+00:00",
-    "lane": "RALEIGH NC-WINSTON SALEM NC"
   },
   {
     "pro": "51517",
