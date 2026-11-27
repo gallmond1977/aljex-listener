@@ -647,23 +647,6 @@
     "lane": "WINCHESTER KY-JOLIET IL"
   },
   {
-    "pro": "51495",
-    "status": "RELEASED",
-    "pu_date": "2026-11-19",
-    "pu_city": "MACON",
-    "pu_state": "GA",
-    "pu_hours": "0800-1630",
-    "del_date": "2026-11-19",
-    "del_city": "AUGUSTA",
-    "del_state": "GA",
-    "del_hours": "0800-1600",
-    "equipment": "Flatbed",
-    "weight_lbs": 46000,
-    "carrier_rate": 700,
-    "updated_at": "2026-11-20T13:13:34.944591+00:00",
-    "lane": "MACON GA-AUGUSTA GA"
-  },
-  {
     "pro": "51497",
     "status": "RELEASED",
     "pu_date": "2026-11-19",
@@ -696,23 +679,6 @@
     "carrier_rate": 1800,
     "updated_at": "2026-11-20T19:15:18.319987+00:00",
     "lane": "BUFFALO NY-BELCAMP MD"
-  },
-  {
-    "pro": "51517",
-    "status": "RELEASED",
-    "pu_date": "2026-11-19",
-    "pu_city": "RALEIGH",
-    "pu_state": "NC",
-    "pu_hours": "0800-1130",
-    "del_date": "2026-11-19",
-    "del_city": "WINSTON SALEM",
-    "del_state": "NC",
-    "del_hours": "0800-1500",
-    "equipment": "26' Straight Box Truck",
-    "weight_lbs": 5000,
-    "carrier_rate": 400,
-    "updated_at": "2026-11-20T13:14:17.629364+00:00",
-    "lane": "RALEIGH NC-WINSTON SALEM NC"
   },
   {
     "pro": "51316",
