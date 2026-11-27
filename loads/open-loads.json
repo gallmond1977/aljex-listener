@@ -613,23 +613,6 @@
     "lane": "WINCHESTER KY-JACKSONVILLE FL"
   },
   {
-    "pro": "51434",
-    "status": "RELEASED",
-    "pu_date": "2026-11-18",
-    "pu_city": "WINCHESTER",
-    "pu_state": "KY",
-    "pu_hours": "1300",
-    "del_date": "2026-11-19",
-    "del_city": "BURLINGTON",
-    "del_state": "NJ",
-    "del_hours": "1600",
-    "equipment": "Van",
-    "weight_lbs": 12815,
-    "carrier_rate": 2600,
-    "updated_at": "2026-11-20T13:07:44.723623+00:00",
-    "lane": "WINCHESTER KY-BURLINGTON NJ"
-  },
-  {
     "pro": "51471",
     "status": "RELEASED",
     "pu_date": "2026-11-19",
